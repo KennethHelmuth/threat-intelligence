@@ -1,0 +1,1 @@
+MACS-HIT Threat Intelligence — Public IOC, YARA, and Sigma rule repository maintained by Kenneth Helmuth. All intelligence is TLP:WHITE unless stated otherwise. For research and defensive purposes only.
