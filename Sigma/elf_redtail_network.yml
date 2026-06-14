@@ -1,0 +1,36 @@
+title: Network Connection to Elf.Redtail Infrastructure
+id: 5c7419b1-3a30-489a-8e7d-ad9a8d05ed76
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Redtail.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Downloader
+    - Dropper
+    - Redtail
+    - cve-2024-4577
+    - docker-api
+    - malware.elf.redtail
+    - ssh-key-plant
+    - web
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '183.56.243.176'
+        - '168.144.45.211'
+        - '87.120.166.130'
+        - '152.42.247.85'
+        - '31.76.27.231'
+        - '79.76.58.113'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

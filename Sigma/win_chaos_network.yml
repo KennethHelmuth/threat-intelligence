@@ -1,0 +1,26 @@
+title: Network Connection to Win.Chaos Infrastructure
+id: 94f076ee-c152-4899-b76e-f5c40a8fa83a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Chaos.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - CHAOS
+    - drb-ra
+    - malware.win.chaos
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '45.153.127.224'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

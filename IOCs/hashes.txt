@@ -1,2 +1,63 @@
 # Format: hash_value (MD5/SHA-1/SHA-256) [source] [date_added] [notes]
 # Example: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 Malware_Sample 2026-06-13 SHA-256 of test payload
+783adb7ad6b16fe9818f3e6d48b937c3ca1994ef24e50865282eeedeab7e0d59	ThreatFox	2026-06-14	family=elf.xmrig | confidence=85% threat=payload
+8a68d1c08ea31250063f70b1ccb5051db1f7ab6e17d46e9dd3cc292b9849878b	ThreatFox	2026-06-14	family=elf.xmrig | confidence=85% threat=payload
+a8460f446be540410004b1a8db4083773fa46f7fe76fa84219c93daa1669f8f2	ThreatFox	2026-06-14	family=elf.xmrig | confidence=85% threat=payload
+01baaef04cf032d418dcd85f047d129aa54b0eeabde2fed7287046c0604c3f1b	ThreatFox	2026-06-14	family=elf.xmrig | confidence=85% threat=payload
+16d3440fcc067823afc44dcbccea9fbbc2f8c68ae53b7aea45f9adff4c127086	ThreatFox	2026-06-14	family=elf.xmrig | confidence=85% threat=payload
+7c8e7619c5398d3b857e6f72cf791e2c2e27762ddd8521eb8971c893cdb8b1fc	ThreatFox	2026-06-14	family=elf.redtail | confidence=85% threat=payload
+4fb1d95832b2daa5125f7ff2e618df0b	ThreatFox	2026-06-14	family=win.troystealer | confidence=95% threat=payload
+b01231990bfbb7857d28c8e24aa6251b	ThreatFox	2026-06-14	family=win.phemedrone_stealer | confidence=95% threat=payload
+b90911b23eee913a11dc19e983910497c3822f2c0f12722672cb790cadf3f4fa	ThreatFox	2026-06-14	family=win.troystealer | confidence=95% threat=payload
+a59021e930e4788c1f8ad670d63b00ba	ThreatFox	2026-06-14	family=win.troystealer | confidence=95% threat=payload
+9555123bcc8f0720640dc56fa9e17452a3f2224038f2385e292f64df7c70fa8d	ThreatFox	2026-06-14	family=win.phemedrone_stealer | confidence=95% threat=payload
+c971ef7fa5032f6d999550a0aba36a4d	ThreatFox	2026-06-14	family=win.stealc | confidence=95% threat=payload
+7d33c40bde71d7b366335c81ce63e834d6295db5a5b9aaaa179c0a1f782714ce	ThreatFox	2026-06-14	family=win.troystealer | confidence=95% threat=payload
+caccc2e6232c63bdd21bfaf65eff6c78	ThreatFox	2026-06-14	family=win.vidar | confidence=95% threat=payload
+9cfc0394511e10e7fa965aa348c134edc47f8f2af617b92975b3ac573fda95ee	ThreatFox	2026-06-14	family=win.stealc | confidence=95% threat=payload
+8b56aebdbd532b68e68ac3d603176027	ThreatFox	2026-06-14	family=win.luca_stealer | confidence=95% threat=payload
+7b16ec86306d55b3dcdfb7897bb9dcc059b8fa2cd9ebfc31b801838f2652f81e	ThreatFox	2026-06-14	family=win.vidar | confidence=95% threat=payload
+9b9dcc895b1e29c298437174b6854a69	ThreatFox	2026-06-14	family=win.taurus_stealer | confidence=95% threat=payload
+d776991e64f8abcdcae6fe99e48e83a7570a51712d0b6df25f72f5abaf99fbe4	ThreatFox	2026-06-14	family=win.luca_stealer | confidence=95% threat=payload
+2eb88c1364140da4d32f9d21487cef9f	ThreatFox	2026-06-14	family=win.vidar | confidence=95% threat=payload
+5458e333742c00ce6543315bac3b3d8a83ff35034081728bf087a821a6b5a728	ThreatFox	2026-06-14	family=win.taurus_stealer | confidence=95% threat=payload
+c95629d2f826d57e008e6c791f733361	ThreatFox	2026-06-14	family=win.coinminer | confidence=95% threat=payload
+d7f510d73fa0c926a8e0fccf92c99fcaadcd58708227368a4878663bc0ec2587	ThreatFox	2026-06-14	family=win.vidar | confidence=95% threat=payload
+fae41440b83cf11e1ebdbefb47d0b6f2	ThreatFox	2026-06-14	family=win.taurus_stealer | confidence=95% threat=payload
+3ced756405771b11daab9d9b24db2faad5aaeeab845a31577d03ee545c27d5ba	ThreatFox	2026-06-14	family=win.coinminer | confidence=95% threat=payload
+e6953f8c99055eca2c16f26bdc5fb3c0	ThreatFox	2026-06-14	family=win.valley_rat | confidence=95% threat=payload
+886ea11a793e4f9eeec10b6758a368ed3a9344e87e01502b4bf3952abd8937a9	ThreatFox	2026-06-14	family=win.taurus_stealer | confidence=95% threat=payload
+3eb10fa565b63f4869b3e63327cdb09a	ThreatFox	2026-06-14	family=win.purpleink | confidence=95% threat=payload
+88043d66ca29d6b33a24eae0484ae347d66cc9333c65de2b3cf7d960412766ad	ThreatFox	2026-06-14	family=win.valley_rat | confidence=95% threat=payload
+26799ecfcf4fe9850a1c224aa39c96be	ThreatFox	2026-06-14	family=win.coinminer | confidence=95% threat=payload
+d6e6cb2c61d3f22b05b49a864283c277f5c852565ec07e70c5f408053d1200ee	ThreatFox	2026-06-14	family=win.purpleink | confidence=95% threat=payload
+b036154d6a043b690421ac0a812be7fd	ThreatFox	2026-06-14	family=win.coinminer | confidence=95% threat=payload
+99dee89a3427e03b136a462f486cf3537f98f4fc82c16dd9119080edf3eb4d2c	ThreatFox	2026-06-14	family=win.coinminer | confidence=95% threat=payload
+6204e3e8f5075a2b598f4460ff069126	ThreatFox	2026-06-14	family=win.wannacryptor | confidence=95% threat=payload
+ffb42d868ef70aafbf8a08178d59c068fc0b13995e8d7185df869b49374dc653	ThreatFox	2026-06-14	family=win.coinminer | confidence=95% threat=payload
+53bcc0b768812ba2860d64b72353c50430572a866bd658b3fe5e671e15b7e699	ThreatFox	2026-06-14	family=win.wannacryptor | confidence=95% threat=payload
+b3f82e8a9815060d4982f236f55205bdb05d3100c8b0647468cdc672f02348c3	MalwareBazaar	2026-06-14	filetype=elf md5=de369a9f6bf475d31860e0a5d872bb4a sha1=c3a3eb2b66c5d226d0814913bc7b73bf9882795b
+2d2595d5cd34996e4ce0ac0c2b20915e3adee14ce88404d02016ae331a4fec26	MalwareBazaar	2026-06-14	filetype=xapk md5=929032b78fe57a15e1c731b7194f966d sha1=a79deed1180a271ee95f18c07c824a4ae2e99939
+03d56a7d9047100e1c7abf8bf07af32167c105d2befb5fce4f08ee0514f9d6f8	MalwareBazaar	2026-06-14	filetype=xapk md5=4197dbfcd524b3ec84cf5c6136bec569 sha1=682b05c09d8b831ae205dc1c5e7b429602dbabf8
+dab340f7832295986bee6b78e6c33d5ab2b21f61a7a5031bfee1a0dd4b41ed96	MalwareBazaar	2026-06-14	filetype=xapk md5=70311dbb4d9fb4bab5c68e8ee4172baa sha1=d78fa0354c8c533cafe983f59b844cfb03eea7dc
+95ed222929b6c9d10656aa533e47546ee55a135d980df18175a5aef6d119c7e4	MalwareBazaar	2026-06-14	filetype=xapk md5=ffe71f601cfa2ca6dfd2841b5c83e607 sha1=31a080570eace7f902472339979c71ef52d0344f
+bc236666bbc8b51096bd016979d87de4189faf2d0365a6ec0e3b788083589b39	MalwareBazaar	2026-06-14	filetype=xapk md5=3ee7aef586ce727b451b104ea3df2dcc sha1=3d1846c36409cfc5d72e1477b26410cf8b45f0d3
+d94f75a70b5cabaf786ac57177ed841732e62bdcc9a29e06e5b41d9be567bcfa	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+d75cb9920d1d3d280518ddccfe4789d2	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+18821dbb53892d6faa14b1f063517a0302057290	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+cf127d66124c390ca0f0b42c6385c3c8	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+01e3dce00ea45829bd9f6a583004976ac63973a0	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+96fc528ca5e7d1c2b3add5e31b8797cb126f704976c8fbeaecdbf0aa4309ad46	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+e22d1b625ee309b60caf0252c5df7656	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+fece5b954e69b2c6a8d0a1029631a0d7	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+d0a851f0b871df60c73d2c7d3f55b031c45e4c2e	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+02654acfb21f83485393ba8b14bd8862b919b9ec966fc6768f6aac1338a45ee8	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+0c87871642f84e09e8d3fb23ec36bf55601323e31151a7017a85dbec929cf15d	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+0ed72d52347bfe4a78afff8a6982a64050c8fc86d8957a20eeb3e0f3f5342ed0	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+17302d903baf182f94dc3be40ab1e0874dd0eb2ec5255bf9131fd53591efe925	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+18d77c9c5bbb5b9d5bdfd366fdfcf26bad9e64c63ca865fad711bcce8e3d5a80	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+5bc5998161056b7c8f70c9724d8a63abc7ff8c3843b91c30cffab0899e39b7f8	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+72f570ce97de3eaaffef33d90b0c337a153fc9690cc34ee207b557d868360060	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+7aa88a64a527ade7d93c20faf23b54f2ee33ad9b1246cdc2f8ded2ab639affb1	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+b0f51b098842cd630097b462aab0ec357e2c7824af37cca6d08165265da2c2d3	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+f6f8e0d790645395188fc521039385b7c4f42fa8b426fd035f489f6cda9b5da1	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876

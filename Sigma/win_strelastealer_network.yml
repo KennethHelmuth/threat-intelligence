@@ -1,0 +1,25 @@
+title: Network Connection to Win.Strelastealer Infrastructure
+id: f9bc8fdb-43b6-4b84-b7bb-e5f48fd55a58
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Strelastealer.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - StrelaStealer
+    - malware.win.strelastealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'lungilehealth.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

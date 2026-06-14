@@ -1,0 +1,33 @@
+title: Network Connection to Win.Meterpreter Infrastructure
+id: c4b980bf-93d8-4003-87bc-9bedc9be73e6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Meterpreter.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - c2
+    - erebus-v14
+    - lazarus-group
+    - malware.win.meterpreter
+    - nation-state-hunter
+    - t1055
+    - t1059_001
+    - t1190
+    - t1566
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '103.39.235.194'
+        - '185.89.254.46'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

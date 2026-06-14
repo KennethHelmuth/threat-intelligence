@@ -1,0 +1,26 @@
+title: Network Connection to Js.Smartapesg Infrastructure
+id: dc0fe5f2-30c3-494f-8d34-04d8dc5a567f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Js.Smartapesg.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - SmartApeSG
+    - malware.js.smartapesg
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'divinenarratives.org'
+        - 'avexor.top'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

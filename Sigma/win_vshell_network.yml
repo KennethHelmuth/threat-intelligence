@@ -1,0 +1,35 @@
+title: Network Connection to Win.Vshell Infrastructure
+id: 919048cf-9cc8-444a-aef5-c6c1a640c71b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Vshell.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Vshell
+    - malware.win.vshell
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '120.55.169.194'
+        - '153.0.197.228'
+        - '47.250.190.129'
+        - '47.97.183.52'
+        - '58.87.99.193'
+        - '38.190.198.37'
+        - '103.47.83.115'
+        - '45.152.67.129'
+        - '23.27.0.84'
+        - '120.24.144.243'
+        - '192.3.252.164'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

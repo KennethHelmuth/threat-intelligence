@@ -1,0 +1,27 @@
+title: Network Connection to Win.Phorpiex Infrastructure
+id: c27457e1-7071-4690-be07-da054d5fcb45
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Phorpiex.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Loader
+    - Worm
+    - malware.win.phorpiex
+    - phorpiex
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '178.16.54.109'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

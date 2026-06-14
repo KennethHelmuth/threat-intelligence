@@ -1,0 +1,27 @@
+title: Network Connection to Win.Ransomhub Infrastructure
+id: 818ddf62-71ba-4238-a048-5f5eb4ba81ca
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Ransomhub.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RansomHub
+    - drb-ra
+    - malware.win.ransomhub
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '108.181.115.254'
+        - '108.181.115.254'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

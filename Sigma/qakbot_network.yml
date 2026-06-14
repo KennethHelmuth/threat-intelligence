@@ -1,0 +1,29 @@
+title: Network Connection to Qakbot Infrastructure
+id: 29e82768-551c-498a-8f2f-b3f20cebaba8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Qakbot.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - botnet
+    - c2
+    - malware.qakbot
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '50.16.16.211'
+        - '34.204.119.63'
+        - '178.62.3.223'
+        - '27.133.154.218'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,23 @@
+title: DNS Query to Win.Strelastealer Domains
+id: b349e359-56ab-40b3-8a23-e432d4538ffc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Strelastealer.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - StrelaStealer
+    - malware.win.strelastealer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'lungilehealth.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

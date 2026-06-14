@@ -1,0 +1,26 @@
+title: Network Connection to Win.Bianlian Infrastructure
+id: 904905be-2267-484f-87db-40e0e38e9c77
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Bianlian.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - BianLian
+    - drb-ra
+    - malware.win.bianlian
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '34.123.214.16'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

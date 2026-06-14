@@ -1,0 +1,26 @@
+title: Network Connection to Win.Deimos C2 Infrastructure
+id: a79f27c0-e3fa-496e-a625-c32ef8da7e25
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Deimos C2.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Deimos
+    - drb-ra
+    - malware.win.deimos_c2
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '98.191.176.231'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

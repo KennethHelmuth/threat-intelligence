@@ -1,0 +1,35 @@
+title: DNS Query to Win.Vidar Domains
+id: 0e69bb13-99e3-4021-974c-f52a47cda2d4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Vidar.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ClickFix
+    - ErrTraffic
+    - Polygon
+    - Vidar
+    - WordPress
+    - c2
+    - compromised
+    - etherhiding
+    - malware.win.vidar
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'framework-css-styles-js.beer'
+        - 'ethercdnns.beer'
+        - 'misterslivker.asia'
+        - 'mylovedomen.asia'
+        - 'slivkishow.asia'
+        - 'thisismine.asia'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

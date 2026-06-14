@@ -1,0 +1,52 @@
+title: DNS Query to Js.Clearfake Domains
+id: a6e6071c-cb32-4e4d-8b72-660a3ce017eb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Js.Clearfake.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ClearFake
+    - malware.js.clearfake
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'f27u92nr.ravanshenasi.xyz'
+        - 'ggqgx.differentialmamuli.store'
+        - 'zkukywuh.sadreislam.xyz'
+        - 'hogugzxj.questionsmotor.xyz'
+        - 'hduwrmy.megaparikade.com'
+        - 'fjagjlhm.psgnewsiran.com'
+        - 'ycnrdnqk.prozhedownload.com'
+        - 'gbqlwrat.prozhecart.com'
+        - 'pwzkdexx.mechanicsayalat.xyz'
+        - 'c3ord92p.ravanshenasiganji.xyz'
+        - 'ozaauajb.mechanickhodakarami.shop'
+        - 'errmx.defamogadas.xyz'
+        - 'ipzukbru.masirpayambari.xyz'
+        - 'xreyotb.livebetkade.com'
+        - 'xwtwlrkc.masaelmohandesi.xyz'
+        - 'qjivlnde.maharatmodiran.xyz'
+        - 'hhbpyr7b.ravanshenakhti.shop'
+        - 'nztdbnij.mabanishimi.xyz'
+        - 'qcfxtzci.leaguejazire.com'
+        - 'ptybfgjf.karbordriyaziyat.xyz'
+        - 'cdppx.danestanihavarzeshi.com'
+        - 'efwjubk.rocketbet.pro'
+        - 'qvipoojy.karafarini.shop'
+        - '7sxu8ft8.shartbandikade.online'
+        - '8r61gwvq.ravansalamat.shop'
+        - 'yba7z7vt.ravansalamat.shop'
+        - 'zkclsegh.jam-jahani.com'
+        - 'pirqlheh.hugugtejarat4.xyz'
+        - 'ahkyokta.hugugtatbigi.xyz'
+        - 'xeviozwk.hugugnasiri.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

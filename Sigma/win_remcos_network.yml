@@ -1,0 +1,47 @@
+title: Network Connection to Win.Remcos Infrastructure
+id: 2cd33580-29df-44c5-9d25-dde69aa2b568
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Remcos.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RAT
+    - RemcosRAT
+    - drb-ra
+    - malware.win.remcos
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '96.44.167.215'
+        - '96.44.167.215'
+        - '96.44.167.215'
+        - '94.103.1.223'
+        - '31.76.32.181'
+        - '31.76.87.218'
+        - '209.99.189.198'
+        - '209.99.189.198'
+        - '2.27.5.179'
+        - '2.26.75.218'
+        - '193.187.91.216'
+        - '191.107.87.183'
+        - '182.23.2.163'
+        - '182.23.2.163'
+        - '172.245.195.233'
+        - '155.103.71.115'
+        - '69.164.245.165'
+        - '31.76.32.201'
+        - '31.76.32.230'
+        - '182.23.2.163'
+        - '172.245.195.233'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

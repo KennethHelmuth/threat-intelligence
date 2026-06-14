@@ -1,0 +1,26 @@
+title: DNS Query to Win.Unidentified 001 Domains
+id: 8cdf0d0a-eb1c-4bdc-8a65-d7368c0dc553
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Unidentified 001.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ConnectWise
+    - Ransomware
+    - ScreenConnect
+    - malware.win.unidentified_001
+    - rmm
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'frreliny.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

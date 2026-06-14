@@ -1,0 +1,54 @@
+title: Network Connection to Js.Clearfake Infrastructure
+id: 9f57ef1b-24e6-481d-855b-1f6cf4771754
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Js.Clearfake.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ClearFake
+    - malware.js.clearfake
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'f27u92nr.ravanshenasi.xyz'
+        - 'ggqgx.differentialmamuli.store'
+        - 'zkukywuh.sadreislam.xyz'
+        - 'hogugzxj.questionsmotor.xyz'
+        - 'hduwrmy.megaparikade.com'
+        - 'fjagjlhm.psgnewsiran.com'
+        - 'ycnrdnqk.prozhedownload.com'
+        - 'gbqlwrat.prozhecart.com'
+        - 'pwzkdexx.mechanicsayalat.xyz'
+        - 'c3ord92p.ravanshenasiganji.xyz'
+        - 'ozaauajb.mechanickhodakarami.shop'
+        - 'errmx.defamogadas.xyz'
+        - 'ipzukbru.masirpayambari.xyz'
+        - 'xreyotb.livebetkade.com'
+        - 'xwtwlrkc.masaelmohandesi.xyz'
+        - 'qjivlnde.maharatmodiran.xyz'
+        - 'hhbpyr7b.ravanshenakhti.shop'
+        - 'nztdbnij.mabanishimi.xyz'
+        - 'qcfxtzci.leaguejazire.com'
+        - 'ptybfgjf.karbordriyaziyat.xyz'
+        - 'cdppx.danestanihavarzeshi.com'
+        - 'efwjubk.rocketbet.pro'
+        - 'qvipoojy.karafarini.shop'
+        - '7sxu8ft8.shartbandikade.online'
+        - '8r61gwvq.ravansalamat.shop'
+        - 'yba7z7vt.ravansalamat.shop'
+        - 'zkclsegh.jam-jahani.com'
+        - 'pirqlheh.hugugtejarat4.xyz'
+        - 'ahkyokta.hugugtatbigi.xyz'
+        - 'xeviozwk.hugugnasiri.xyz'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

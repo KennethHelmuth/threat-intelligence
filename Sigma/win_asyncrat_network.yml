@@ -1,0 +1,38 @@
+title: Network Connection to Win.Asyncrat Infrastructure
+id: 5461538e-0c35-458e-aa43-262acf68e897
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Asyncrat.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RAT
+    - asyncrat
+    - drb-ra
+    - malware.win.asyncrat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '209.99.185.96'
+        - '128.90.63.86'
+        - '209.99.185.96'
+        - '191.107.87.183'
+        - '107.172.133.182'
+        - '180.93.109.34'
+        - '188.121.162.153'
+        - '89.42.134.220'
+        - '188.121.162.153'
+        - '107.173.9.88'
+        - '102.46.221.148'
+        - '45.156.87.226'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

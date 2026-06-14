@@ -1,0 +1,27 @@
+title: DNS Query to Win.Kimsuky Domains
+id: d8d0ea21-df03-41b0-bff9-d45c17d09552
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Kimsuky.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - APT43
+    - DPRK
+    - kimsuky
+    - malware.win.kimsuky
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'user-kakao.login-accounts.dynv6.net'
+        - 'account-login.userauth.o-r.kr'
+        - 'account-auth.userlogin.kro.kr'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

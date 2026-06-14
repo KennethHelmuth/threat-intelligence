@@ -1,0 +1,32 @@
+title: Network Connection to Win.Dcrat Infrastructure
+id: 6dbefe7e-178f-40e6-9841-cf952cc214ab
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Dcrat.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RAT
+    - dcrat
+    - drb-ra
+    - malware.win.dcrat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '43.167.223.229'
+        - '72.51.57.131'
+        - '72.51.57.131'
+        - '46.246.4.9'
+        - '144.91.78.57'
+        - '23.235.185.44'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

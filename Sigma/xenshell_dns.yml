@@ -1,0 +1,37 @@
+title: DNS Query to Xenshell Domains
+id: acd626fe-aba0-43a9-a56d-1b389293b3ac
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Xenshell.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adaptixc2
+    - authentication bypass
+    - behinder
+    - cisco
+    - credential theft
+    - cryptocurrency mining
+    - cve-2026-20122
+    - cve-2026-20127
+    - cve-2026-20128
+    - cve-2026-20133
+    - cve-2026-20182
+    - godzilla
+    - gsocket
+    - kscan
+    - malware.xenshell
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - '1a820b09-95ba-44eb-b350-417e8241b725-00-1lgwuuen9b77p.worf.replit.dev'
+        - 'a820b09-95ba-44eb-b350-417e8241b725-00-1lgwuuen9b77p.worf.replit.dev'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

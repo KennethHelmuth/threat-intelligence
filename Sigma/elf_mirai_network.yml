@@ -1,0 +1,31 @@
+title: Network Connection to Elf.Mirai Infrastructure
+id: 2b8db2a5-1846-4bd9-869f-1dc88b54754d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Mirai.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Loader
+    - Mirai
+    - Realtek
+    - c2
+    - malware.elf.mirai
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'vbotnt1.duckdns.org'
+        DestinationIp|contains:
+        - '103.245.27.100'
+        - '152.236.6.8'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

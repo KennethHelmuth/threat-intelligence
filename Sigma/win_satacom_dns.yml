@@ -1,0 +1,26 @@
+title: DNS Query to Win.Satacom Domains
+id: eb0810d3-4499-4228-af89-077e89263cfa
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Satacom.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ClickFix
+    - LegionLoader
+    - malware.win.satacom
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'g4me.flashpopdownloadbutton.monster'
+        - 'verification-js-cdn.boats'
+        - 'whatdatcindy.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

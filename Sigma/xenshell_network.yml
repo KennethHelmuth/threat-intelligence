@@ -1,0 +1,39 @@
+title: Network Connection to Xenshell Infrastructure
+id: e2483689-48e5-41e4-8b1f-a865370f080d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Xenshell.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adaptixc2
+    - authentication bypass
+    - behinder
+    - cisco
+    - credential theft
+    - cryptocurrency mining
+    - cve-2026-20122
+    - cve-2026-20127
+    - cve-2026-20128
+    - cve-2026-20133
+    - cve-2026-20182
+    - godzilla
+    - gsocket
+    - kscan
+    - malware.xenshell
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - '1a820b09-95ba-44eb-b350-417e8241b725-00-1lgwuuen9b77p.worf.replit.dev'
+        - 'a820b09-95ba-44eb-b350-417e8241b725-00-1lgwuuen9b77p.worf.replit.dev'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

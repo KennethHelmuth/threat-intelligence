@@ -1,0 +1,28 @@
+title: Network Connection to Unknown Loader Infrastructure
+id: 418a9a43-f82a-4a30-87ab-961a17f1d22f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Unknown Loader.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.unknown_loader
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'haoriskdk839ska.com'
+        - 'hatksaks281ksa.com'
+        - 'photo-27857.cfd'
+        - 'photo-37857.cfd'
+        - 'photo-47857.cfd'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,67 @@
+title: Network Connection to Win.Cobalt Strike Infrastructure
+id: 632fd5d3-fad4-4e5f-b5df-45db94cf2406
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Cobalt Strike.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 132203
+    - 14061
+    - Cobalt Strike
+    - CobaltStrike
+    - c2
+    - censys
+    - cs-watermark-666666666
+    - cs-watermark-987654321
+    - drb-ra
+    - erebus-v13
+    - erebus-v14
+    - malware.win.cobalt_strike
+    - manual-override
+    - nation-state-hunter
+    - t1055
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '194.58.98.20'
+        - '120.27.245.127'
+        - '120.27.245.127'
+        - '120.27.245.127'
+        - '185.193.88.139'
+        - '185.220.60.185'
+        - '185.190.157.173'
+        - '194.38.104.204'
+        - '45.67.39.175'
+        - '111.90.143.196'
+        - '8.141.121.30'
+        - '47.107.106.178'
+        - '178.154.229.148'
+        - '92.53.97.113'
+        - '43.156.218.130'
+        - '157.230.248.213'
+        - '188.164.250.223'
+        - '107.189.22.35'
+        - '18.232.64.100'
+        - '18.232.64.100'
+        - '18.232.64.100'
+        - '115.190.138.41'
+        - '115.190.138.41'
+        - '139.5.108.17'
+        - '139.5.108.17'
+        - '124.220.41.22'
+        - '124.220.41.22'
+        - '118.24.128.201'
+        - '95.182.114.29'
+        - '95.182.114.29'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

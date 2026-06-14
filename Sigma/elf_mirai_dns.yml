@@ -1,0 +1,26 @@
+title: DNS Query to Elf.Mirai Domains
+id: dd1dfe8d-7b79-4cae-9bd5-fe10dd1486b3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Elf.Mirai.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Loader
+    - Mirai
+    - Realtek
+    - c2
+    - malware.elf.mirai
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'vbotnt1.duckdns.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

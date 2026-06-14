@@ -1,0 +1,32 @@
+title: Network Connection to Win.Adaptix C2 Infrastructure
+id: f1157137-279e-4849-abd6-8388b52456fc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Adaptix C2.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Adaptix
+    - AdaptixC2
+    - drb-ra
+    - malware.win.adaptix_c2
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '157.22.185.5'
+        - '185.207.154.11'
+        - '185.207.154.11'
+        - '185.207.154.11'
+        - '130.185.82.117'
+        - '101.33.202.134'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

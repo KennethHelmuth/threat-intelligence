@@ -1,0 +1,26 @@
+title: DNS Query to Unknown Loader Domains
+id: b33e88d5-4883-41ee-a10e-2b5523b84874
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Unknown Loader.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.unknown_loader
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'haoriskdk839ska.com'
+        - 'hatksaks281ksa.com'
+        - 'photo-27857.cfd'
+        - 'photo-37857.cfd'
+        - 'photo-47857.cfd'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

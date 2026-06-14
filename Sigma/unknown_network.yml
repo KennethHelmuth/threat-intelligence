@@ -1,0 +1,47 @@
+title: Network Connection to Unknown Infrastructure
+id: 3dfb1c29-ef24-45c4-8d85-374015b0efef
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Unknown.
+date: 2026-06-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    -  CVE-2021-35394
+    -  ELF
+    -  IoT
+    -  Mozi
+    -  Realtek
+    - 32-bit
+    - 54e64e
+    - 9d2ca3
+    - ClearFake
+    - ClickFix
+    - CoinMiner
+    - Joker
+    - Malware
+    - Mozi
+    - Mythic
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'mampodik.asia'
+        - 'honeymoonshop.asia'
+        DestinationIp|contains:
+        - '45.152.243.83'
+        - '45.152.243.83'
+        - '45.152.243.83'
+        - '154.40.58.52'
+        - '45.152.243.83'
+        - '9.141.105.20'
+        - '85.121.176.239'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
