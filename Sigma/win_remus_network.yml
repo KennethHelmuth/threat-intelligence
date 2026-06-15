@@ -1,0 +1,30 @@
+title: Network Connection to Win.Remus Infrastructure
+id: 083b35b4-c176-4b42-9afe-56fd9278414a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Remus.
+date: 2026-06-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Remus
+    - RemusStealer
+    - c2
+    - malware.win.remus
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'beltka.shop'
+        - 'nottinghamcarpetsandblinds.com'
+        DestinationIp|contains:
+        - '195.222.53.130'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

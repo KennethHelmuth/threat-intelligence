@@ -1,0 +1,36 @@
+title: DNS Query to Win.Cobalt Strike Domains
+id: 38fabeca-4233-4948-93b1-8e4b76482425
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Cobalt Strike.
+date: 2026-06-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Cobalt
+    - Cobalt Strike
+    - CobaltStrike
+    - c2
+    - cs-watermark-1670873463
+    - cs-watermark-987654321
+    - drb-ra
+    - erebus-v14
+    - malware.win.cobalt_strike
+    - nation-state-hunter
+    - strike
+    - t1071_001
+    - t1573_002
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'sys.systemworld.info'
+        - 'liuerlife.online'
+        - 'mfmni.shop'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,29 @@
+title: Network Connection to Win.Spica Infrastructure
+id: db846f9e-5d3c-41b1-afae-3fa08498c7c4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Spica.
+date: 2026-06-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - COLDRIVER
+    - SPICA
+    - malware.win.spica
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '173.44.139.144'
+        - '45.133.216.15'
+        - '95.164.17.94'
+        - '89.19.211.240'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

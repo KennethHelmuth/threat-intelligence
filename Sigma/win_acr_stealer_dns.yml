@@ -1,0 +1,24 @@
+title: DNS Query to Win.Acr Stealer Domains
+id: 17a5c679-0054-4a86-ab43-4b2aa60950ea
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Acr Stealer.
+date: 2026-06-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ACRStealer
+    - malware.win.acr_stealer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'winter.delicacyencrust.icu'
+        - 'harmful.ferretcilantro.icu'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

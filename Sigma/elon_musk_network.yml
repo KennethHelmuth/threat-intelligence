@@ -1,0 +1,41 @@
+title: Network Connection to Elon Musk Infrastructure
+id: 93278752-664a-4939-9580-1adb42eb2aee
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elon Musk.
+date: 2026-06-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - article
+    - attack chain
+    - baxet
+    - click
+    - context baxet
+    - crypto giveaway
+    - elon musk
+    - elon2x
+    - entry point
+    - eth wallet
+    - javascript
+    - june
+    - malware.elon_musk
+    - qr code
+    - waiting
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'elon2x.com'
+        - 'xcoinwallet.net'
+        DestinationIp|contains:
+        - '185.72.8.90'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

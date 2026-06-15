@@ -1,0 +1,29 @@
+title: Network Connection to Unknown Rat Infrastructure
+id: 261822d6-c2ca-494b-833a-a325eb97d9c6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Unknown Rat.
+date: 2026-06-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - FRP
+    - LiberiumRAT
+    - liberium
+    - malware.unknown_rat
+    - port
+    - ports
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'tcp.tcptunnel.shop'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

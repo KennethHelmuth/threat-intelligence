@@ -61,3 +61,53 @@ d0a851f0b871df60c73d2c7d3f55b031c45e4c2e	OTX	2026-05-14	family=XenShell | pulse=
 7aa88a64a527ade7d93c20faf23b54f2ee33ad9b1246cdc2f8ded2ab639affb1	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
 b0f51b098842cd630097b462aab0ec357e2c7824af37cca6d08165265da2c2d3	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
 f6f8e0d790645395188fc521039385b7c4f42fa8b426fd035f489f6cda9b5da1	OTX	2026-05-14	family=XenShell | pulse='Ongoing exploitation of Cisco Catalyst SD-WAN vulnerabilities' pulse_id=6a062c38dfdb5434bb2f0876
+d39d1b646d36414f6b25db3a217914f4acf557303dff7ead47761772cfd64b05	MalwareBazaar	2026-06-15	filetype=exe md5=549fc4492cbb5423522d756b3e8ed041 sha1=44249267c96529a376e766e82dfc52d1bd8220b4 | vt=18/75
+9dd17f480319c584f8dcd48ed79548572eab9b89f717a37afea9ffd7166aa87b	MalwareBazaar	2026-06-15	filetype=js md5=f5ef5dd8262ed14357861ba4eaf91303 sha1=c7eb90f614b5a39596489f07bdf4224e6bb9e69a | vt=14/75
+3a07978a6740a0bf58cd91a7a0ee8df7e9dbff745e1ee534a64556ac41f36be3	MalwareBazaar	2026-06-15	filetype=elf md5=bb606979da80d72af2a7cd168c79ae8d sha1=45058966f8cd68c29ea1a899fc6b66ff90856e6d | vt=37/76
+36b013c5e39acbe752709d0b2fc01006	ThreatFox	2026-06-14	family=win.valley_rat | confidence=95% threat=payload
+81a6699618caa9d38a99aac19a33b770	ThreatFox	2026-06-14	family=win.ghostnet | confidence=95% threat=payload
+b48c97d1dadc4cb7e0c3303d556a1217cccdd8839fe739d71a7c5f977b4810bd	ThreatFox	2026-06-14	family=win.valley_rat | confidence=95% threat=payload
+2b35aa9c70ef66197abfb9bc409952897f9f70818633ab43da85b3825b256307	ThreatFox	2026-06-14	family=win.azorult | confidence=95% threat=payload
+73da2c02c6f8bfd4662dc84820dcd983	ThreatFox	2026-06-14	family=win.azorult | confidence=95% threat=payload
+3dc1a7ac46a1616fe180f42e26d25ea9638f90c73073542b49a8575e2f110174	ThreatFox	2026-06-14	family=win.ghostnet | confidence=95% threat=payload
+c1d77b03a2d57f4ef9670a7569a77b662196cb10c74e303a04626afc49fcfb0d	ThreatFox	2026-06-14	family=win.valley_rat | confidence=95% threat=payload
+6382ad4c07f225406139f7ab90f2ccaf	ThreatFox	2026-06-14	family=win.valley_rat | confidence=95% threat=payload
+4dd2a916d6767a36f1b289339555b1993471952acf4f3ed4813644bf232a68f9	ThreatFox	2026-06-14	family=win.coinminer | confidence=95% threat=payload
+ab02ca10ab74d9ba0bcaff7f62ac2f6e	ThreatFox	2026-06-14	family=win.coinminer | confidence=95% threat=payload
+4c16f19a06d210add2c21f0fa59b8a969ef0bc134f233c24dca0737ed8fa5485	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+eb45868316c1e4b7a2d3c61b032033b52be7f6a058322c6cea1ba9b0e2ffb549	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+84bca7da50ea5f963ed069eca729bc073c67b72899f5640e18bbc3c5c625d634	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+3740b88b9f3e65389c5c4e685166389bb1b22ce432633c5c87fd938b043952dc	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+b0de65b3bf5919910086f7fd1d2130570a2caee15580c95364c4341f89086f46	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+f5f3503cdf5425428441858ea485672e360cf79c9b6c26e23337ddc883edb2cf	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+6f018848fe17c63af6b62486a64a17d6a37192fa10dec02060efb3c570c10585	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+e50150ca6d2aeb0ed4b14917521301391d75c4b11bf5a8bcec2ee863a8e5b258	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+3c5343c9854a94002f821455fb8c869a61d5c77beab213a754733fc3a0a55b59	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+1f3e35e1e9df7f1428de5ca3cc4a9c21864a0144603d627f75f3d0778bba0d60	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+e35d10d019fdb04bdb9212235e580b141fc72a7432388c0f9509f2893d605898	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+b492f711efc73334225174fb338b042964405f8b7d53b2555ec02779b371649d	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+b2e5b81c5b461d024259fb214ffed3a16e97848b6236902a14dcddbf1dc2309a	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+f97fdd1525fd9658352b793dc2e1a9b5ddac9ea24e95f8fc7d1780ef39d0960e	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+b1d6927521122e8cf9ffbdbb4014b55eafec3b408a0bd6b544b22a27530bfae2	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+3f5b518d90c7d63f4cd6ac68fa63bc23ef7b56638477bf9b3cdbab9655fb5715	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+59f699db1c6b84d00cdcc47b782c99577df3816748b77d61a2e771e5ec928a7b	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+89b76ff76638fee10d34c534e1ad1df0e607ccd16a72f69a3b80d5f1f5a3dd3a	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+e7fc1caf9d8d4c24b9ddbbeacebb1666d5acc16a4bc776229e1006b1eb02b959	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+ed3b63439398c9d64148bf827ac713126232ba192295ea4e66a6d4556da5d71f	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+14a25cae9f3e4343b26925021763639068b9ed6531ce23c26053f0831a9c9be2	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+fb1853cedbf31d3e0205c46b09f973df0ce2252b2224868ea78381154ddca718	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+1c3d3a4f074ec97bbda5550d4246555b883d5dd2d3666d9f98cd9062d08c1c9a	ThreatFox	2026-06-14	family=win.cobalt_strike | confidence=100% threat=payload
+38fead1469cca1192eedb9dd2fc305ddbb15760771223891d8e7db1a7a8fe2ea	ThreatFox	2026-06-14	family=unknown_stealer | confidence=100% threat=payload
+7262fb209844f33d98b0e932bcbd673b852e00795d2ad15c066f9d8e6cff0615	MalwareBazaar	2026-06-15	family=WannaCry | filetype=exe md5=935ee76559d3a46eb2a7e73003d005ae sha1=e053df3d3eb21dcc865699021b3395a213604c32
+c621034fbf30e9e9d04ac8df39af82e9a6dffcc8	OTX	2026-06-14	family=elon musk | pulse='Same Wallet, Two Domains — Serial Crypto Scam Operator on Bulletproof Infrastructure' pulse_id=6a2ee46be59a85342320c3ca
+1bd0a200528c82c6488b4f48dd6dbc818d48782a2e25ccd22781c5718c3f62f5	OTX	2026-05-15	family=Gremlin stealer | pulse='Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files' pulse_id=6a073a73501adf1f890b1a5e
+2172dae9a5a695e00e0e4609e7db0207d8566d225f7e815fada246ae995c0f9b	OTX	2026-05-15	family=Gremlin stealer | pulse='Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files' pulse_id=6a073a73501adf1f890b1a5e
+281b970f281dbea3c0e8cfc68b2e9939b253e5d3de52265b454d8f0f578768a2	OTX	2026-05-15	family=Gremlin stealer | pulse='Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files' pulse_id=6a073a73501adf1f890b1a5e
+691896c7be87e47f3e9ae914d76caaf026aaad0a1034e9f396c2354245215dc3	OTX	2026-05-15	family=Gremlin stealer | pulse='Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files' pulse_id=6a073a73501adf1f890b1a5e
+971198ff86aeb42739ba9381923d0bc6f847a91553ec57ea6bae5becf80f8759	OTX	2026-05-15	family=Gremlin stealer | pulse='Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files' pulse_id=6a073a73501adf1f890b1a5e
+9aab30a3190301016c79f8a7f8edf45ec088ceecad39926cfcf3418145f3d614	OTX	2026-05-15	family=Gremlin stealer | pulse='Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files' pulse_id=6a073a73501adf1f890b1a5e
+9fda1ddb1acf8dd3685ec31b0b07110855832e3bed28a0f3b81c57fe7fe3ac20	OTX	2026-05-15	family=Gremlin stealer | pulse='Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files' pulse_id=6a073a73501adf1f890b1a5e
+a9f529a5cbc1f3ee80f785b22e0c472953e6cb226952218aecc7ab07ca328abd	OTX	2026-05-15	family=Gremlin stealer | pulse='Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files' pulse_id=6a073a73501adf1f890b1a5e
+ab0fa760bd037a95c4dee431e649e0db860f7cdad6428895b9a399b6991bf3cd	OTX	2026-05-15	family=Gremlin stealer | pulse='Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files' pulse_id=6a073a73501adf1f890b1a5e
+d11938f14499de03d6a02b5e158782afd903460576e9227e0a15d960a2e9c02c	OTX	2026-05-15	family=Gremlin stealer | pulse='Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files' pulse_id=6a073a73501adf1f890b1a5e
+f76ba1a4650d8cafb6d3ff071688c5db6fd37e165050f03cece693826f51d346	OTX	2026-05-15	family=Gremlin stealer | pulse='Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files' pulse_id=6a073a73501adf1f890b1a5e

@@ -1,0 +1,26 @@
+title: DNS Query to Win.Remus Domains
+id: 60452387-f2e5-45c8-8796-8f2e25108fcc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Remus.
+date: 2026-06-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Remus
+    - RemusStealer
+    - c2
+    - malware.win.remus
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'beltka.shop'
+        - 'nottinghamcarpetsandblinds.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

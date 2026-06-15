@@ -1,0 +1,30 @@
+title: Network Connection to Unknown Stealer Infrastructure
+id: 458ef17f-6517-4b9f-aa63-f049d7704289
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Unknown Stealer.
+date: 2026-06-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - PhemedroneStealer
+    - SupremeLogger
+    - malware.unknown_stealer
+    - stealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'sekirolegion.duckdns.org'
+        - 'ptlegion.duckdns.org'
+        DestinationIp|contains:
+        - '23.236.155.239'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
