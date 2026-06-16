@@ -1,0 +1,32 @@
+title: DNS Query to Unc1151 Domains
+id: 6b98ebb9-a164-4094-9ed5-237aeb42f771
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Unc1151.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 2fa bypass
+    - apt
+    - credential theft
+    - ghostwriter
+    - gmail
+    - malware.unc1151
+    - phishing
+    - poland
+    - unc1151
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'mailverify.digital'
+        - 'check-mail-verify.biz'
+        - 'verify-check.digital'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

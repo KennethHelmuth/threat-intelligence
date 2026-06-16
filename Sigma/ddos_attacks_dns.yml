@@ -1,0 +1,30 @@
+title: DNS Query to Ddos Attacks Domains
+id: b3ff878e-a64f-485a-b69a-196664abf06f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Ddos Attacks.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - brand impersonation
+    - credential theft
+    - ddos attacks
+    - fifa world cup 2026
+    - geopolitical tensions
+    - hacktivist
+    - malware.ddos_attacks
+    - phishing campaigns
+    - ransomware
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'fifaticket2026vip.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

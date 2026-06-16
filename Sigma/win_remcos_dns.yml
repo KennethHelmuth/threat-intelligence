@@ -1,0 +1,26 @@
+title: DNS Query to Win.Remcos Domains
+id: 790391dd-9b99-40a9-b2be-ddeeb0f39e05
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Remcos.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RAT
+    - RemcosRAT
+    - drb-ra
+    - malware.win.remcos
+    - remcos
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'general.activeworkshops.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

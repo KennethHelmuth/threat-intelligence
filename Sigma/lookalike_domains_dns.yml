@@ -1,0 +1,44 @@
+title: DNS Query to Lookalike Domains Domains
+id: 4037d9d8-6262-45de-84d6-2db9ca1bdebf
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Lookalike Domains.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - brand spoofing
+    - cognitive exploitation
+    - dns analysis
+    - domain impersonation
+    - homograph attacks
+    - lookalike domains
+    - malware.lookalike_domains
+    - phishing
+    - social engineering
+    - threat intelligence
+    - typosquatting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'secure-verification.net'
+        - 'g00gle.com'
+        - 'paypa1.com'
+        - 'amazom.com'
+        - 'arnazon.com'
+        - 'facebook-activate-account.com'
+        - 'home-protection-services.com'
+        - 'home-security-services.com'
+        - 'microsoft-partner-login.com'
+        - 'paypal-blocked-account.com'
+        - 'paypal-support-services.com'
+        - 'login.paypal.com.secure-verification.net'
+        - 'vpn.company.com.secure-verification.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,34 @@
+title: DNS Query to Void Blizzard Domains
+id: 24c17000-4a0a-419c-80c5-0c59adf6e622
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Void Blizzard.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cryptocurrency
+    - cyber espionage
+    - denis obrezko
+    - malware.void_blizzard
+    - office 365 compromise
+    - proxy infrastructure
+    - russia-aligned
+    - session token theft
+    - void blizzard
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'lnstagram.com'
+        - 'ebsummlt.eu'
+        - 'miscrsosoft.com'
+        - 'ffice365.com'
+        - 'micsroft.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

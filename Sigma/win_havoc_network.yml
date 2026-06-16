@@ -1,0 +1,27 @@
+title: Network Connection to Win.Havoc Infrastructure
+id: a6cebf12-b6da-44a9-b4bf-11a612896f44
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Havoc.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Havoc
+    - drb-ra
+    - malware.win.havoc
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '185.190.142.121'
+        - '20.224.219.169'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,30 @@
+title: DNS Query to Phishing Campaign Domains
+id: 468c2db0-d54b-4c03-a1e6-3ee53c05e604
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Phishing Campaign.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bulk email abuse
+    - compromised government website
+    - credential theft
+    - malware.phishing_campaign
+    - payment card harvesting
+    - phishing campaign
+    - rdweb portal
+    - romanian threat actor
+    - terminal server compromise
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'boots-rewards-uk.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

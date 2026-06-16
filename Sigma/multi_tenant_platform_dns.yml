@@ -1,0 +1,60 @@
+title: DNS Query to Multi-Tenant Platform Domains
+id: b994759a-1f2f-48f5-a622-979868a594e8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Multi-Tenant Platform.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - card skimming
+    - china origin
+    - fifa world cup 2026
+    - malware.multi_tenant_platform
+    - man-in-the-middle
+    - multi-tenant platform
+    - otp bypass
+    - payment fraud
+    - phishing
+    - typosquatting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'fifa.gold'
+        - 'fifa-online.com'
+        - 'www-fifa.one'
+        - 'fifa.center'
+        - 'fifa.shopping'
+        - 'fifa.ski'
+        - 'fifaworldcup26.sale'
+        - 'ww-fifa.com'
+        - '1346590.com'
+        - 'aa-fifa.shop'
+        - 'gx-fifa26.shop'
+        - 'sdf-26fifa.top'
+        - 'site-fifa.site'
+        - 'www-fifa.asia'
+        - 'www-fifa.bar'
+        - 'www-fifa.bio'
+        - 'www-fifa.biz.id'
+        - 'www-fifa.bond'
+        - 'www-fifa.cfd'
+        - 'www-fifa.click'
+        - 'www-fifa.club'
+        - 'www-fifa.cyou'
+        - 'www-fifa.digital'
+        - 'www-fifa.icu'
+        - 'www-fifa.info'
+        - 'www-fifa.lol'
+        - 'www-fifa.monster'
+        - 'www-fifa.my'
+        - 'www-fifa.my.id'
+        - 'www-fifa.qpon'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

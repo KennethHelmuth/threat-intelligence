@@ -1,0 +1,32 @@
+title: Network Connection to Ddos Attacks Infrastructure
+id: 328df6ea-bf93-4c29-8404-d38f708742e1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Ddos Attacks.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - brand impersonation
+    - credential theft
+    - ddos attacks
+    - fifa world cup 2026
+    - geopolitical tensions
+    - hacktivist
+    - malware.ddos_attacks
+    - phishing campaigns
+    - ransomware
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'fifaticket2026vip.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

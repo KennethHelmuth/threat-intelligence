@@ -1,0 +1,27 @@
+title: Network Connection to Apk.Kimwolf Infrastructure
+id: e6386fcb-db3c-4dfd-9056-c2efedbfb349
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Apk.Kimwolf.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - c2
+    - kimwolf
+    - malware.apk.kimwolf
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '167.99.47.245'
+        - '64.225.65.127'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

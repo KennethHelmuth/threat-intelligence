@@ -1,0 +1,23 @@
+title: DNS Query to Win.Xworm Domains
+id: a0910da4-5fbc-47ee-9b0b-acfe4efe0d13
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Xworm.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - XWorm
+    - malware.win.xworm
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'eminley.ydns.eu'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

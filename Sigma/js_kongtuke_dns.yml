@@ -1,0 +1,26 @@
+title: DNS Query to Js.Kongtuke Domains
+id: 05f7ce24-0383-4c3a-b808-b232a1ec4ec5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Js.Kongtuke.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Kongtuke
+    - malware.js.kongtuke
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'two-verif.lol'
+        - 'finale-code.lol'
+        - 'one-verif.lol'
+        - 'eichmnnn.icu'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

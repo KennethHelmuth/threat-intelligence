@@ -1,0 +1,73 @@
+title: Network Connection to Multi-Tenant Platform Infrastructure
+id: 1bf6bdd4-ac3f-4c16-b9ff-5fec49ef64ce
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Multi-Tenant Platform.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - card skimming
+    - china origin
+    - fifa world cup 2026
+    - malware.multi_tenant_platform
+    - man-in-the-middle
+    - multi-tenant platform
+    - otp bypass
+    - payment fraud
+    - phishing
+    - typosquatting
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'fifa.gold'
+        - 'fifa-online.com'
+        - 'www-fifa.one'
+        - 'fifa.center'
+        - 'fifa.shopping'
+        - 'fifa.ski'
+        - 'fifaworldcup26.sale'
+        - 'ww-fifa.com'
+        - '1346590.com'
+        - 'aa-fifa.shop'
+        - 'gx-fifa26.shop'
+        - 'sdf-26fifa.top'
+        - 'site-fifa.site'
+        - 'www-fifa.asia'
+        - 'www-fifa.bar'
+        - 'www-fifa.bio'
+        - 'www-fifa.biz.id'
+        - 'www-fifa.bond'
+        - 'www-fifa.cfd'
+        - 'www-fifa.click'
+        - 'www-fifa.club'
+        - 'www-fifa.cyou'
+        - 'www-fifa.digital'
+        - 'www-fifa.icu'
+        - 'www-fifa.info'
+        - 'www-fifa.lol'
+        - 'www-fifa.monster'
+        - 'www-fifa.my'
+        - 'www-fifa.my.id'
+        - 'www-fifa.qpon'
+        DestinationIp|contains:
+        - '123.100.137.38'
+        - '156.226.172.223'
+        - '188.253.7.187'
+        - '188.253.7.92'
+        - '216.126.233.30'
+        - '216.126.233.37'
+        - '222.167.244.34'
+        - '27.150.251.195'
+        - '38.60.195.137'
+        - '43.23.232.225'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

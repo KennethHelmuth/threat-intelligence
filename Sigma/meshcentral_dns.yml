@@ -1,0 +1,31 @@
+title: DNS Query to Meshcentral Domains
+id: bd89b88c-ec1c-4fa2-9455-3ec757883207
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Meshcentral.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cve-2026-35273
+    - data extortion
+    - higher education
+    - lateral movement
+    - malware.meshcentral
+    - meshcentral
+    - oracle peoplesoft
+    - shinyhunters
+    - unc6240
+    - zero-day exploitation
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'azurenetfiles.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

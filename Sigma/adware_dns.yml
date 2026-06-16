@@ -1,0 +1,34 @@
+title: DNS Query to Adware Domains
+id: 070a1931-52c2-47e8-80d4-3aaf61bf645e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Adware.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adware
+    - affiliate fraud
+    - browser extension hijacking
+    - chrome extensions
+    - malware.adware
+    - monetization middleware
+    - search hijacking
+    - searchjack
+    - yahoo hosted search
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'query.quicksearchtool.com'
+        - 's.fusebase-search.com'
+        - 'search.freshysearch-api.net'
+        - 'search.getbettersearch-api.com'
+        - 'services.templatesearch-svc.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

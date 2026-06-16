@@ -1,0 +1,36 @@
+title: Network Connection to Adware Infrastructure
+id: 9cf47e01-6b2a-4573-86ba-b6bc214e35c6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Adware.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adware
+    - affiliate fraud
+    - browser extension hijacking
+    - chrome extensions
+    - malware.adware
+    - monetization middleware
+    - search hijacking
+    - searchjack
+    - yahoo hosted search
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'query.quicksearchtool.com'
+        - 's.fusebase-search.com'
+        - 'search.freshysearch-api.net'
+        - 'search.getbettersearch-api.com'
+        - 'services.templatesearch-svc.org'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

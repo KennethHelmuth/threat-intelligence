@@ -1,0 +1,28 @@
+title: Network Connection to Js.Kongtuke Infrastructure
+id: b88836d7-32a0-4676-b20a-603b9f4efef6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Js.Kongtuke.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Kongtuke
+    - malware.js.kongtuke
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'two-verif.lol'
+        - 'finale-code.lol'
+        - 'one-verif.lol'
+        - 'eichmnnn.icu'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

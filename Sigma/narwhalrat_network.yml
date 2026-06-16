@@ -1,0 +1,44 @@
+title: Network Connection to Narwhalrat Infrastructure
+id: ed931294-8467-49e0-914d-07988758894d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Narwhalrat.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - anti-vm
+    - dead-drop-resolver
+    - korean-targeting
+    - lnk-obfuscation
+    - malware.narwhalrat
+    - narwhalrat
+    - pcloud
+    - python-backdoor
+    - rokrat
+    - spear-phishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'crwellfood.com'
+        - 'fe01.co.kr'
+        - 'novel21.co.kr'
+        - 'webhostingkorea.com'
+        - 'www.novel21.co.kr'
+        DestinationIp|contains:
+        - '211.239.157.126'
+        - '218.150.78.198'
+        - '121.254.222.10'
+        - '121.254.222.80'
+        - '218.150.78.231'
+        - '61.100.9.206'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,26 @@
+title: DNS Query to Js.Fakeupdates Domains
+id: e014e041-5b3c-4632-b664-eca9f14dbf28
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Js.Fakeupdates.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - SocGholish
+    - malware.js.fakeupdates
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'speed-optimizer.com'
+        - 'user.exathomessellmyhomeflorida.com'
+        - 'prod-images.familyoffice-tech.com'
+        - 'files.smartpcai.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

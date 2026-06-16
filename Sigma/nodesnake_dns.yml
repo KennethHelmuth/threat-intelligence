@@ -1,0 +1,65 @@
+title: DNS Query to Nodesnake Domains
+id: c7a35482-0e46-4ff8-b2ff-0eb038c9c007
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Nodesnake.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - berserk stealer
+    - broomstick
+    - clickfix
+    - cve-2023-36036
+    - cve-2026-20131
+    - dave
+    - endico
+    - gootloader
+    - icenova
+    - inc
+    - initial access broker
+    - interlock
+    - interlockrat
+    - junkfiction
+    - latrodectus
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'leadslaw.com'
+        - 'registrywave.com'
+        - 'coretether.com'
+        - 'nucleusgate.com'
+        - 'scs-techresources.com'
+        - 'microsoft-teams.icu'
+        - 'typically-performer-builds-increasing.trycloudflare.com'
+        - 'repair-provision-supplies-folder.trycloudflare.com'
+        - 'confident-accounts-ban-damaged.trycloudflare.com'
+        - 'nelavohomet.com'
+        - 'hire-household-squad-postcard.trycloudflare.com'
+        - 'edinburgh-packaging-sense-idol.trycloudflare.com'
+        - 'describe-absent-operational-seventh.trycloudflare.com'
+        - 'rpm-chicken-during-staying.trycloudflare.com'
+        - 'lamp-voters-biodiversity-phillips.trycloudflare.com'
+        - 'coffee-lloyd-families-excluded.trycloudflare.com'
+        - 'screenshots-executive-joins-hammer.trycloudflare.com'
+        - 'moore-cgi-pen-drove.trycloudflare.com'
+        - 'eugene-examinations-contained-timber.trycloudflare.com'
+        - 'bits-promotions-turned-editions.trycloudflare.com'
+        - 'specials-storm-height-warriors.trycloudflare.com'
+        - 'baseline-include-priority-bar.trycloudflare.com'
+        - 'postal-ssl-converted-quantity.trycloudflare.com'
+        - 'misc-elliott-mouth-leading.trycloudflare.com'
+        - 'jane-practitioner-lightning-preservation.trycloudflare.com'
+        - 'liverpool-patterns-lanes-specified.trycloudflare.com'
+        - 'meet-noted-tax-qualification.trycloudflare.com'
+        - 'cigarette-assumed-biotechnology-checklist.trycloudflare.com'
+        - 'corner-teacher-guam-characterization.trycloudflare.com'
+        - 'partyglacierhip.top'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

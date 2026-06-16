@@ -1,0 +1,29 @@
+title: Network Connection to Win.Stealc Infrastructure
+id: e7bf5510-ffde-40d4-b023-c3de8305d15e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Stealc.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - FakeGit
+    - LuaJIT
+    - Polygon
+    - SmartLoader
+    - etherhiding
+    - malware.win.stealc
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '85.137.52.21'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

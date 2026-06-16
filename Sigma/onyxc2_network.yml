@@ -1,0 +1,32 @@
+title: Network Connection to Onyxc2 Infrastructure
+id: 9ce65746-5aa2-4045-aed8-9671e8d4bf6e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Onyxc2.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 2fa theft
+    - credential stealer
+    - cryptocurrency wallet
+    - dll sideloading
+    - malware-as-a-service
+    - malware.onyxc2
+    - onyxc2
+    - password manager harvesting
+    - remote access
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'akmuniverstall.top'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

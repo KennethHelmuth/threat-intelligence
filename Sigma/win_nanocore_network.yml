@@ -1,0 +1,27 @@
+title: Network Connection to Win.Nanocore Infrastructure
+id: cedd7540-73ac-4278-87a8-b2655ee65652
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Nanocore.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - NanoCore
+    - RAT
+    - malware.win.nanocore
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '98.98.144.133'
+        - '98.98.144.134'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

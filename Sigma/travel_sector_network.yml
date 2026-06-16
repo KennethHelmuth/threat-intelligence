@@ -1,0 +1,39 @@
+title: Network Connection to Travel Sector Infrastructure
+id: 497cb439-8d49-40f7-bac6-4a44f4700be1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Travel Sector.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - booking platforms
+    - credential harvesting
+    - domain spoofing
+    - hospitality attacks
+    - malware.travel_sector
+    - payment theft
+    - phishing
+    - seasonal campaigns
+    - travel sector
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'booking-cn.com'
+        - 'skyscanners.life'
+        - 'booking-jp.com'
+        - 'airbnb-ca.com'
+        - 'booking-hk.com'
+        - 'booking-zh.com'
+        - 'bookingni.com'
+        - 'skyscanners.shop'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

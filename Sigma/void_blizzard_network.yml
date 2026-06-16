@@ -1,0 +1,38 @@
+title: Network Connection to Void Blizzard Infrastructure
+id: c36ef5ca-c59e-44b4-944d-83788c166b30
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Void Blizzard.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cryptocurrency
+    - cyber espionage
+    - denis obrezko
+    - malware.void_blizzard
+    - office 365 compromise
+    - proxy infrastructure
+    - russia-aligned
+    - session token theft
+    - void blizzard
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'lnstagram.com'
+        - 'ebsummlt.eu'
+        - 'miscrsosoft.com'
+        - 'ffice365.com'
+        - 'micsroft.com'
+        DestinationIp|contains:
+        - '172.86.75.235'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

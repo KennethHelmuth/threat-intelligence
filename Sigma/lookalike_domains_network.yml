@@ -1,0 +1,46 @@
+title: Network Connection to Lookalike Domains Infrastructure
+id: 69efb65a-f4f5-4e94-a3eb-01173071fbc5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Lookalike Domains.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - brand spoofing
+    - cognitive exploitation
+    - dns analysis
+    - domain impersonation
+    - homograph attacks
+    - lookalike domains
+    - malware.lookalike_domains
+    - phishing
+    - social engineering
+    - threat intelligence
+    - typosquatting
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'secure-verification.net'
+        - 'g00gle.com'
+        - 'paypa1.com'
+        - 'amazom.com'
+        - 'arnazon.com'
+        - 'facebook-activate-account.com'
+        - 'home-protection-services.com'
+        - 'home-security-services.com'
+        - 'microsoft-partner-login.com'
+        - 'paypal-blocked-account.com'
+        - 'paypal-support-services.com'
+        - 'login.paypal.com.secure-verification.net'
+        - 'vpn.company.com.secure-verification.net'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

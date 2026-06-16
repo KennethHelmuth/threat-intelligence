@@ -1,0 +1,30 @@
+title: DNS Query to Onyxc2 Domains
+id: 655e8578-8b5a-4587-a293-59cd7e941fbd
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Onyxc2.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 2fa theft
+    - credential stealer
+    - cryptocurrency wallet
+    - dll sideloading
+    - malware-as-a-service
+    - malware.onyxc2
+    - onyxc2
+    - password manager harvesting
+    - remote access
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'akmuniverstall.top'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

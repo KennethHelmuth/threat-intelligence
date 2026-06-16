@@ -1,0 +1,89 @@
+title: Network Connection to Nodesnake Infrastructure
+id: d6f6d133-651c-47a9-9b3a-d9d5745a21ae
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Nodesnake.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - berserk stealer
+    - broomstick
+    - clickfix
+    - cve-2023-36036
+    - cve-2026-20131
+    - dave
+    - endico
+    - gootloader
+    - icenova
+    - inc
+    - initial access broker
+    - interlock
+    - interlockrat
+    - junkfiction
+    - latrodectus
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'leadslaw.com'
+        - 'registrywave.com'
+        - 'coretether.com'
+        - 'nucleusgate.com'
+        - 'scs-techresources.com'
+        - 'microsoft-teams.icu'
+        - 'typically-performer-builds-increasing.trycloudflare.com'
+        - 'repair-provision-supplies-folder.trycloudflare.com'
+        - 'confident-accounts-ban-damaged.trycloudflare.com'
+        - 'nelavohomet.com'
+        - 'hire-household-squad-postcard.trycloudflare.com'
+        - 'edinburgh-packaging-sense-idol.trycloudflare.com'
+        - 'describe-absent-operational-seventh.trycloudflare.com'
+        - 'rpm-chicken-during-staying.trycloudflare.com'
+        - 'lamp-voters-biodiversity-phillips.trycloudflare.com'
+        - 'coffee-lloyd-families-excluded.trycloudflare.com'
+        - 'screenshots-executive-joins-hammer.trycloudflare.com'
+        - 'moore-cgi-pen-drove.trycloudflare.com'
+        - 'eugene-examinations-contained-timber.trycloudflare.com'
+        - 'bits-promotions-turned-editions.trycloudflare.com'
+        - 'specials-storm-height-warriors.trycloudflare.com'
+        - 'baseline-include-priority-bar.trycloudflare.com'
+        - 'postal-ssl-converted-quantity.trycloudflare.com'
+        - 'misc-elliott-mouth-leading.trycloudflare.com'
+        - 'jane-practitioner-lightning-preservation.trycloudflare.com'
+        - 'liverpool-patterns-lanes-specified.trycloudflare.com'
+        - 'meet-noted-tax-qualification.trycloudflare.com'
+        - 'cigarette-assumed-biotechnology-checklist.trycloudflare.com'
+        - 'corner-teacher-guam-characterization.trycloudflare.com'
+        - 'partyglacierhip.top'
+        DestinationIp|contains:
+        - '185.196.9.234'
+        - '157.250.195.229'
+        - '213.139.77.167'
+        - '170.168.103.208'
+        - '216.219.95.234'
+        - '199.217.99.121'
+        - '185.233.166.26'
+        - '38.134.148.147'
+        - '192.169.6.74'
+        - '162.221.93.164'
+        - '64.94.85.158'
+        - '45.84.59.21'
+        - '193.149.176.215'
+        - '193.36.38.139'
+        - '198.13.158.219'
+        - '199.217.99.95'
+        - '199.91.221.250'
+        - '199.91.221.73'
+        - '5.230.201.173'
+        - '64.94.84.155'
+        - '67.217.228.180'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

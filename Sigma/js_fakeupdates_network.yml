@@ -1,0 +1,28 @@
+title: Network Connection to Js.Fakeupdates Infrastructure
+id: 99be68bd-f9b6-427e-b8f7-4da5ee05b79e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Js.Fakeupdates.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - SocGholish
+    - malware.js.fakeupdates
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'speed-optimizer.com'
+        - 'user.exathomessellmyhomeflorida.com'
+        - 'prod-images.familyoffice-tech.com'
+        - 'files.smartpcai.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

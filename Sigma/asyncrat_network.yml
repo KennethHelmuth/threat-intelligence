@@ -1,0 +1,34 @@
+title: Network Connection to Asyncrat Infrastructure
+id: 616163f0-be35-4a48-9de6-48288f31a424
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Asyncrat.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-themed lures
+    - asyncrat
+    - autohotkey
+    - chinese threat actor
+    - malware.asyncrat
+    - multi-stage infection
+    - process hollowing
+    - reflective injection
+    - scheduled tasks
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'shampobiskworld.nl'
+        - 'shampoolagtto.com'
+        - 'shamppocosmaticso.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,61 @@
+title: Network Connection to Russian Operations Infrastructure
+id: 8291d852-bf23-4680-b5e2-b788f68ca736
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Russian Operations.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - document forgery
+    - fraudulent registries
+    - iranian operations
+    - malware.russian_operations
+    - maritime fraud
+    - russian operations
+    - sanctions evasion
+    - shadow fleet
+    - typosquatting
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'imspanel.com'
+        - 'olymposnaval.com'
+        - 'beninmaritime.co'
+        - 'oceaniektechnologies.com'
+        - 'alliance-scs.org'
+        - 'atlasregister.net'
+        - 'atlasregister.org'
+        - 'benin-maritime.org'
+        - 'beninmaritime.bj'
+        - 'beninmaritime.in'
+        - 'beninmaritime.net'
+        - 'beninmaritime.org'
+        - 'brunieshipclass.org'
+        - 'btn-shipreg.com'
+        - 'cameroonshipregistry.org'
+        - 'chad-maradmin.org'
+        - 'epnicaragua.com'
+        - 'epnicaragua.org'
+        - 'eqguinea-shipadmin.org'
+        - 'gove.bj'
+        - 'guve.bj'
+        - 'haiti-shipreg.com'
+        - 'hellasnaval.com'
+        - 'hellasnaval.net'
+        - 'hss-registry.org'
+        - 'imsnaval.com'
+        - 'isithin.com'
+        - 'marinegov.net'
+        - 'marinegov.org'
+        - 'medlloyd.online'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

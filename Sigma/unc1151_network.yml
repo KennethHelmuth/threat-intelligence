@@ -1,0 +1,34 @@
+title: Network Connection to Unc1151 Infrastructure
+id: 8f24bef1-0cb6-4d50-ac34-bc6f9d64b4c1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Unc1151.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 2fa bypass
+    - apt
+    - credential theft
+    - ghostwriter
+    - gmail
+    - malware.unc1151
+    - phishing
+    - poland
+    - unc1151
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'mailverify.digital'
+        - 'check-mail-verify.biz'
+        - 'verify-check.digital'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

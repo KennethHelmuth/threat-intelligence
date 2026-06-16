@@ -1,0 +1,32 @@
+title: DNS Query to Asyncrat Domains
+id: dc4f6b69-ea19-4788-b60d-0171a8eb0f51
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Asyncrat.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-themed lures
+    - asyncrat
+    - autohotkey
+    - chinese threat actor
+    - malware.asyncrat
+    - multi-stage infection
+    - process hollowing
+    - reflective injection
+    - scheduled tasks
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'shampobiskworld.nl'
+        - 'shampoolagtto.com'
+        - 'shamppocosmaticso.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

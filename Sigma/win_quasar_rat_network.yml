@@ -1,0 +1,25 @@
+title: Network Connection to Win.Quasar Rat Infrastructure
+id: a029637f-bdf8-434d-a6fe-49a61c463521
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Quasar Rat.
+date: 2026-06-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - QuasarRAT
+    - malware.win.quasar_rat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '156.244.13.30'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
