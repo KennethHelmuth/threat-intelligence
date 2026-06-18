@@ -1,0 +1,44 @@
+title: Network Connection to Arystinger Infrastructure
+id: 899f9823-dd83-49e2-931a-464ecb1d98e5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Arystinger.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - arystinger
+    - botnet
+    - cve-2013-3307
+    - cve-2016-5681
+    - cve-2025-11837
+    - d-link
+    - distributed scanning
+    - dropbear backdoor
+    - legacy routers
+    - malware.arystinger
+    - reconnaissance infrastructure
+    - rtl819x
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'opi7.com'
+        - 'dybic.ajb8.com'
+        - 'eixfi.ajb8.com'
+        - 'hgodpcx.ajb8.com'
+        - 'hgodpcx.auq8.com'
+        - 'io.ary2.com'
+        - 'sdkv1.dataexplore.cc'
+        - 'sdkv1.dataexplore.co'
+        - 'xonice.ahb8.com'
+        - 'xook.ajb8.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

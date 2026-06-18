@@ -1,0 +1,27 @@
+title: DNS Query to Win.Purelogs Domains
+id: 37ae0d4a-b9ce-448a-8f52-96ec15313b9e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Purelogs.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - PureLogsStealer
+    - malware.win.purelogs
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'office-rechnung.top'
+        - 'small-morning-8be0.fsocietyandtools.workers.dev'
+        - 'office-rechnung.life'
+        - 'rechnung-lexware.top'
+        - 'office-rechnung.icu'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

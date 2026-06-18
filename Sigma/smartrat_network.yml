@@ -1,0 +1,45 @@
+title: Network Connection to Smartrat Infrastructure
+id: af65ea8f-3ff6-44d7-bbe8-a4c456f7a4ba
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Smartrat.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-generated
+    - banana rat
+    - banking trojan
+    - brazil
+    - clickfix
+    - credential theft
+    - fake captcha
+    - ghostloader
+    - malware.smartrat
+    - powershell
+    - qr code interception
+    - remcos rat
+    - smartrat
+    - typosquatting
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'crefisa.online'
+        - 'windowsupdate-cdn.com'
+        - 'c.windowsupdate-cdn.com'
+        - 'cartaobb.com'
+        - 'cartaobrb.com.br'
+        - 'vfsgloball.net'
+        DestinationIp|contains:
+        - '162.141.111.227'
+        - '64.95.13.238'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

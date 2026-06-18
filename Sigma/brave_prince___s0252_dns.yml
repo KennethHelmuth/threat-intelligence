@@ -1,0 +1,38 @@
+title: DNS Query to Brave Prince - S0252 Domains
+id: b16e3dc9-d60f-4b9a-8911-32a8209c0a02
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Brave Prince - S0252.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cobalt strike
+    - cve-2023-3519
+    - cve-2023-48788
+    - cve-2024-57727
+    - cve-2025-5777
+    - data-leak-site
+    - double-extortion
+    - encryption
+    - inc
+    - lynx
+    - malware.brave_prince___s0252
+    - raas
+    - ransomware-as-a-service
+    - rust-based
+    - sinobi
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'incblog.su'
+        - 'incblog6qu4y4mm4zvw5nrmue6qbwtgjsxpw6b7ixzssu36tsajldoad.onion'
+        - 'incpaykabjqc2mtdxq6c23nqh4x6m5dkps5fr6vgdkgzp5njssx6qkid.onion'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

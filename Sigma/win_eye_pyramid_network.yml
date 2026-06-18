@@ -1,0 +1,26 @@
+title: Network Connection to Win.Eye Pyramid Infrastructure
+id: 8e7a6256-71f5-4c42-87c4-0724be057119
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Eye Pyramid.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - EyePyramid
+    - drb-ra
+    - malware.win.eye_pyramid
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '54.38.94.225'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

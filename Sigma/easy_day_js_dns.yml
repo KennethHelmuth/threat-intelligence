@@ -1,0 +1,32 @@
+title: DNS Query to Easy-Day-Js Domains
+id: 6794fcdf-522b-4607-849a-f4c5054a9d64
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Easy-Day-Js.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cross-platform stealer
+    - cryptocurrency theft
+    - easy-day-js
+    - infostealer
+    - malware.easy_day_js
+    - npm packages
+    - persistence mechanism
+    - postinstall hook
+    - supply chain attack
+    - typosquatting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'hwsrv-1327785.hostwindsdns.com'
+        - 'hwsrv-1327786.hostwindsdns.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

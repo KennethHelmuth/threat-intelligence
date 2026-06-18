@@ -1,0 +1,27 @@
+title: Network Connection to Win.Netsupportmanager Rat Infrastructure
+id: 05821107-517b-4a5d-899b-a569c5d4436f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Netsupportmanager Rat.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - NetSupport
+    - RAT
+    - drb-ra
+    - malware.win.netsupportmanager_rat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '118.122.8.154'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

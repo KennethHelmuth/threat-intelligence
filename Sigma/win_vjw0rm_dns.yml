@@ -1,0 +1,24 @@
+title: DNS Query to Win.Vjw0Rm Domains
+id: 47b27587-e411-488b-84cb-b64178df38e4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Vjw0Rm.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RAT
+    - malware.win.vjw0rm
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'hostphpwindowsappsconecting.ydns.eu'
+        - 'notificacionesfiscalescol.github.io'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

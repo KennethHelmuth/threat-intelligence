@@ -1,0 +1,34 @@
+title: Network Connection to Win.Vjw0Rm Infrastructure
+id: eeff6bf6-70d4-4990-93c0-81898ee69af3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Vjw0Rm.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RAT
+    - malware.win.vjw0rm
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'hostphpwindowsappsconecting.ydns.eu'
+        - 'notificacionesfiscalescol.github.io'
+        DestinationIp|contains:
+        - '124.198.132.188'
+        - '158.173.51.23'
+        - '157.173.124.50'
+        - '45.92.1.172'
+        - '185.241.211.26'
+        - '194.26.192.56'
+        - '158.173.51.22'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

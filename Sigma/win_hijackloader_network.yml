@@ -1,0 +1,32 @@
+title: Network Connection to Win.Hijackloader Infrastructure
+id: eed7166d-ccc0-4049-bfd9-f63fe8fb2182
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Hijackloader.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Cloudflare
+    - HijackLoader
+    - Prospero
+    - cracked-games
+    - malware.win.hijackloader
+    - renengine
+    - telemetry
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'analyticstrack-pzh.click'
+        - 'analyticstrack-api.click'
+        - 'pixel.analyticstrack-pzh.click'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,28 @@
+title: DNS Query to Tencshell Domains
+id: 16eca931-dc96-461c-9942-e6666695b3ea
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Tencshell.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cato ctrl
+    - china-linked
+    - go
+    - malware.tencshell
+    - rshell
+    - tencent
+    - tencshell
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'gin-tne-fahcesmukw.cn-hangzhou.fcapp.run'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

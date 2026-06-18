@@ -1,0 +1,34 @@
+title: Network Connection to Easy-Day-Js Infrastructure
+id: 5765c080-4bb9-4d28-8eb0-0a12c08253df
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Easy-Day-Js.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cross-platform stealer
+    - cryptocurrency theft
+    - easy-day-js
+    - infostealer
+    - malware.easy_day_js
+    - npm packages
+    - persistence mechanism
+    - postinstall hook
+    - supply chain attack
+    - typosquatting
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'hwsrv-1327785.hostwindsdns.com'
+        - 'hwsrv-1327786.hostwindsdns.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

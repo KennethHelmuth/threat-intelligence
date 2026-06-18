@@ -1,0 +1,42 @@
+title: DNS Query to Arystinger Domains
+id: 0e74042c-3769-4fc6-a0b9-ef8b0bd6bc1d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Arystinger.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - arystinger
+    - botnet
+    - cve-2013-3307
+    - cve-2016-5681
+    - cve-2025-11837
+    - d-link
+    - distributed scanning
+    - dropbear backdoor
+    - legacy routers
+    - malware.arystinger
+    - reconnaissance infrastructure
+    - rtl819x
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'opi7.com'
+        - 'dybic.ajb8.com'
+        - 'eixfi.ajb8.com'
+        - 'hgodpcx.ajb8.com'
+        - 'hgodpcx.auq8.com'
+        - 'io.ary2.com'
+        - 'sdkv1.dataexplore.cc'
+        - 'sdkv1.dataexplore.co'
+        - 'xonice.ahb8.com'
+        - 'xook.ajb8.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

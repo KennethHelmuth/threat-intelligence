@@ -1,0 +1,33 @@
+title: Network Connection to Shai-Hulud Infrastructure
+id: 63f49d5e-a8db-493a-a275-08edea3ee289
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Shai-Hulud.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential-theft
+    - cryptocurrency-theft
+    - ddos-botnet
+    - infostealer
+    - malware.shai_hulud
+    - npm
+    - open-source
+    - shai-hulud
+    - supply-chain-attack
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - '87e0bbc636999b.lhr.life'
+        - 'edcf8b03c84634.lhr.life'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

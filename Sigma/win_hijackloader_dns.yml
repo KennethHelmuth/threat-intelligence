@@ -1,0 +1,30 @@
+title: DNS Query to Win.Hijackloader Domains
+id: d5182bdc-6f50-4b2e-8be5-b36643b4b1d1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Hijackloader.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Cloudflare
+    - HijackLoader
+    - Prospero
+    - cracked-games
+    - malware.win.hijackloader
+    - renengine
+    - telemetry
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'analyticstrack-pzh.click'
+        - 'analyticstrack-api.click'
+        - 'pixel.analyticstrack-pzh.click'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

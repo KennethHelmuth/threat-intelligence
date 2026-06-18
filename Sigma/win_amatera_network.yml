@@ -1,0 +1,28 @@
+title: Network Connection to Win.Amatera Infrastructure
+id: 8e4a9673-6ade-453e-a2a1-983d60b89fa4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Amatera.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ArcStealer
+    - ClearFake
+    - ClickFix
+    - amatera
+    - malware.win.amatera
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'metrics.demobunfiber.top'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

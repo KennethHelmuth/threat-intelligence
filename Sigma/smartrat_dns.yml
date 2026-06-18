@@ -1,0 +1,40 @@
+title: DNS Query to Smartrat Domains
+id: 5c039e26-59a5-4bb2-887d-95fd8a3b291a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Smartrat.
+date: 2026-06-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-generated
+    - banana rat
+    - banking trojan
+    - brazil
+    - clickfix
+    - credential theft
+    - fake captcha
+    - ghostloader
+    - malware.smartrat
+    - powershell
+    - qr code interception
+    - remcos rat
+    - smartrat
+    - typosquatting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'crefisa.online'
+        - 'windowsupdate-cdn.com'
+        - 'c.windowsupdate-cdn.com'
+        - 'cartaobb.com'
+        - 'cartaobrb.com.br'
+        - 'vfsgloball.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
