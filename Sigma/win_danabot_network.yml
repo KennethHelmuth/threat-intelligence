@@ -1,0 +1,26 @@
+title: Network Connection to Win.Danabot Infrastructure
+id: a7b84aa4-c175-4798-925a-a051ef2f7382
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Danabot.
+date: 2026-06-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - DanBot
+    - drb-ra
+    - malware.win.danabot
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '77.237.119.204'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,26 @@
+title: Network Connection to Win.Poshc2 Infrastructure
+id: 619f2606-ae57-4e82-b0b7-9f1cd43d5a1f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Poshc2.
+date: 2026-06-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - drb-ra
+    - malware.win.poshc2
+    - poshc2
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '115.190.108.6'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

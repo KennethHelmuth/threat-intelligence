@@ -1,0 +1,33 @@
+title: Network Connection to Win.Coreshell Infrastructure
+id: 1993c287-ca2b-46e7-8d13-50406bbcfc09
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Coreshell.
+date: 2026-06-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - China
+    - Telecom
+    - TernDoor
+    - UAT-9244
+    - c2
+    - malware.win.coreshell
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '216.238.118.179'
+        - '154.205.154.82'
+        - '207.148.121.95'
+        - '207.148.120.52'
+        - '212.11.64.105'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

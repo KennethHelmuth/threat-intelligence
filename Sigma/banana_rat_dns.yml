@@ -1,0 +1,37 @@
+title: DNS Query to Banana Rat Domains
+id: 550e554e-42bf-42ba-871e-09f12648feb5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Banana Rat.
+date: 2026-06-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - banana rat
+    - brazilian banking trojan
+    - casbaneiro
+    - chavecloak
+    - fastapi
+    - financial fraud
+    - grandoreiro
+    - guildma
+    - malware.banana_rat
+    - mekotio
+    - pix qr interception
+    - polymorphic payload
+    - powershell
+    - tetrade
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'windowsk-cdn.com'
+        - 'c.windowsk-cdn.com'
+        - 'convitemundial2026.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

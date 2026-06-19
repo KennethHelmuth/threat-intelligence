@@ -509,3 +509,88 @@ d252aeabbf4cd9f336e83d1fa0042fcc2f74f45d4b8cbe2a8bfe790d4db0580d	OTX	2026-05-18	
 df5f74e1e0e5b0a0748de2efd86358293b4d368d171a926af6f14880d55adb57	OTX	2026-05-18	family=TencShell | pulse='Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware' pulse_id=6a0b6747345498a268db0263
 ed6058f0b0735ba56b781dea39353625fcb56bc3e77bf2d26a648511d754d216	OTX	2026-05-18	family=TencShell | pulse='Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware' pulse_id=6a0b6747345498a268db0263
 fdb5eca8f00e1802f3c9c0ca79f93a8419353f4ef2a0606bec39c4497da91035	OTX	2026-05-18	family=TencShell | pulse='Cato CTRL Threat Research: Suspected China-Linked Threat Actor Targets Global Manufacturer with Undocumented TencShell Malware' pulse_id=6a0b6747345498a268db0263
+f5952a6947e65dc0165e27ec100eaee09aa65790ca34c517c28d6d9ea4afb319	ThreatFox	2026-06-18	family=unknown | confidence=75% threat=payload | vt=15/74
+b7d6869b427a2e714744c73ade17f1b47fae43bb2ee1a6d7ee9f4c93943406d2	ThreatFox	2026-06-18	family=unknown | confidence=75% threat=payload | vt=7/74
+a9773c53a9611c737dc6a08622b3240e38430ceb0a3960f81391606cd1f02a86	ThreatFox	2026-06-18	family=unknown | confidence=75% threat=payload | vt=4/74
+6844800e8a8defda07b2829c02e76517ca98fedcbbf717328517bef28b279724	ThreatFox	2026-06-18	family=unknown | confidence=75% threat=payload | vt=0/74
+bb4e08d8d96ace12a659a07d0ede31546e121176321b1d0f8cd15fe0f62127c0	ThreatFox	2026-06-18	family=unknown | confidence=75% threat=payload | vt=4/74
+24adb118a6f7a8d717bb3d3329c33f6b0eb39046a8fb7f2b3a1fff21436bf7d2	ThreatFox	2026-06-18	family=unknown | confidence=75% threat=payload | vt=0/74
+b58a6ad7a227cb3765a027aee97a5b32e96caac737743bdcad804ef3970f2897	MalwareBazaar	2026-06-19	filetype=sh md5=886a2596fb1666dc0b2d2877f9c9822f sha1=19f36d490d581ebbdca7ec47e43aac9a62cb631a | vt=17/74
+3ee8a9e1c4e61b215998e8cb23521e2b3417abbfa196ee2215a04ec788ccd114	ThreatFox	2026-06-19	family=win.dcrat | confidence=100% threat=payload
+a1548a5dae03edf08e6c7d7e25645d2dd5b4d5008867edbc5b1048394e6b1d09	ThreatFox	2026-06-19	family=win.dcrat | confidence=100% threat=payload
+3c098a687947938e36ab34b9f09a11ebd82d50089cbfe6e237d810faa729f8ff	ThreatFox	2026-06-18	family=win.crosslock | confidence=100% threat=payload
+f36913607356a32ea106103387105c635fa923f8ed98ad0194b66ec79e379a02	ThreatFox	2026-06-18	family=win.crosslock | confidence=100% threat=payload
+a5e413456ce9fc60bb44d442b72546e9e4118a61894fbe4b5c56e4dfad6055e3	ThreatFox	2026-06-18	family=win.crosslock | confidence=100% threat=payload
+075b20a21ea6a0d2201a12a049f332ecc61348fc0ad3cfee038c6ad6aa44e744	ThreatFox	2026-06-18	family=win.crosslock | confidence=100% threat=payload
+1f5635a512a923e98a90cdc1b2fb988a2da78706e07e419dae9e1a54dd4d682b	ThreatFox	2026-06-18	family=win.crosslock | confidence=100% threat=payload
+2d2ca7d21310b14f5f5641bbf4a9ff4c3e566b1fbbd370034c6844cedc8f0538	ThreatFox	2026-06-18	family=win.crosslock | confidence=100% threat=payload
+711d9427ee43bc2186b9124f31cba2db5f54ec9a0d56dc2948e1a4377bada289	ThreatFox	2026-06-18	family=win.crosslock | confidence=100% threat=payload
+52c1005cff76c7c6f4b21a231ad6e130	ThreatFox	2026-06-18	family=jar.crossrat | confidence=95% threat=payload
+db133a7ead8a83e3dd1a6b2bc4ee41c7	ThreatFox	2026-06-18	family=win.wannacryptor | confidence=95% threat=payload
+9f844a78cc2cd8d8a426f050a3efe319930f723eb10be231de1c1f1600e82127	ThreatFox	2026-06-18	family=jar.crossrat | confidence=95% threat=payload
+da7acbc71a87dcd173d1dfc3a82f40ab784d5896756938afbc1dee2cc5dc7dbe	ThreatFox	2026-06-18	family=win.luca_stealer | confidence=95% threat=payload
+08f7bd68b412087ec63f76150088d813	ThreatFox	2026-06-18	family=win.luca_stealer | confidence=95% threat=payload
+b403e6dbe08ecd6f86b3d6858d2e4c7c	ThreatFox	2026-06-18	family=win.njrat | confidence=95% threat=payload
+aa87d302ef084bc37bdd794fb1f7c600fd438e132e5dd8f51865ef475c7b9a43	ThreatFox	2026-06-18	family=win.darktortilla | confidence=95% threat=payload
+f116f62d9ccaad036dac5a1965c2de82	ThreatFox	2026-06-18	family=win.darktortilla | confidence=95% threat=payload
+6ab9e3c6a1819ae3b3943bc745e33a7a	ThreatFox	2026-06-18	family=win.luca_stealer | confidence=95% threat=payload
+afd4b76a1c8586d6c9ceeeca30bca4a00778b097a957890c5dbafd76ae8bf918	ThreatFox	2026-06-18	family=win.njrat | confidence=95% threat=payload
+ba5cfe07a33b3a75955756fe7fc10b96	ThreatFox	2026-06-18	family=win.wannacryptor | confidence=95% threat=payload
+c669a2e29833f02b28d5506a3922f3bcf2b506472f2f6bc43610b30b6f724467	ThreatFox	2026-06-18	family=win.luca_stealer | confidence=95% threat=payload
+4d976e55c47a5d72a72b90abbebbd137	ThreatFox	2026-06-18	family=win.luca_stealer | confidence=95% threat=payload
+f35b27b5ef86f0d4ade3752224fe55641ad7c59976dc085cc5109a4008b7ec1b	ThreatFox	2026-06-18	family=win.wannacryptor | confidence=95% threat=payload
+3b7ccb4eb2ba5f3156526ec60cc3033b	ThreatFox	2026-06-18	family=win.nanocore | confidence=95% threat=payload
+48514edff1519f8be0c8a64511bf60ae8f847f90a6ac1381663c53646b77fb48	ThreatFox	2026-06-18	family=win.luca_stealer | confidence=95% threat=payload
+48b039c349e726f4f63ccfd141273bbf	ThreatFox	2026-06-18	family=win.phantom_stealer | confidence=95% threat=payload
+202dd2a2a83208c237fcc87f2a077792b8e66815ce36d1dcd9de32a5f3ebab5b	ThreatFox	2026-06-18	family=win.nanocore | confidence=95% threat=payload
+c263ac4338a05f8a8eac1a2eafb0ea4fac59c5c012a59b927c77dd41fd3536bb	ThreatFox	2026-06-18	family=win.phantom_stealer | confidence=95% threat=payload
+27a60835e9cac833ed550ab42cfc2e84c48a4fc641f29a57dd4cf5b6dd0ca00a	MalwareBazaar	2026-06-19	family=WannaCry | filetype=exe md5=6013e386450fc1e86c3163aa3beb5fbe sha1=6fb597bb7274316934192dcca56b9b4f20c2944c
+c29585b234c1fe56725558319d151ba9d2536603ef05fccae8a5a788c26408a4	MalwareBazaar	2026-06-19	family=Mirai | filetype=elf md5=5b77587bbb8d7e2631372affd34af6ce sha1=2925817516a5643ce04adce041be1e3eb03538d9
+3f8ae1560a9f02dab2687e3caf56ce5c03b7e928aeb47b8927f1917f57d21c65	MalwareBazaar	2026-06-19	family=Mirai | filetype=elf md5=1eee0ebc58679611f65d5d36268c167e sha1=b9cc14e5d080f48763d24352f9ef74ffd63a76c1
+476ac4f9d423610f0333442c82c885914d09f241a01be68427e436f7dad99717	MalwareBazaar	2026-06-19	family=Mirai | filetype=elf md5=b553ac3882128259e40324360f94f811 sha1=38f0f61460c4209e3d971d0b352ffa9497ed56ec
+85a5109380dee438f649de286411d991f17020007f960d0f17cf030328ce3fff	MalwareBazaar	2026-06-19	family=Mirai | filetype=elf md5=68ff5d7782fe0333ccf1b9732e3ec7af sha1=d588e4b23b499e1cc0b66ac4bd0807b49ee66e5f
+abc28a6636e50d9c7456eb26621b06485dfa39366091c7dd0696c044a68fed7f	MalwareBazaar	2026-06-19	family=Mirai | filetype=elf md5=b473f9494096e649b3f7ba43ebce1b9c sha1=a4916de37a5fb8dff317f4673af10341b2a4c126
+069ac1dc7f7649b76bc72a11ac700f373804bfd81dab7e561157b703999f44ce	OTX	2026-05-19	family=rope.pyz | pulse='Latest PyPi Compromise' pulse_id=6a0ce3b0ad791179648c47b0
+7d80b3ef74ad7992b93c31966962612e4e2ceb93e7727cdbd1d2a9af47d44ba8	OTX	2026-05-19	family=rope.pyz | pulse='Latest PyPi Compromise' pulse_id=6a0ce3b0ad791179648c47b0
+877ff2531a63393c4cb9c3c86908b62d9c4fc3db971bc231c48537faae6cb3ec	OTX	2026-05-19	family=rope.pyz | pulse='Latest PyPi Compromise' pulse_id=6a0ce3b0ad791179648c47b0
+aeaf583e20347bf850e2fabdcd6f4982996ba023f8c2cd56bbd299cfd56516f5	OTX	2026-05-19	family=rope.pyz | pulse='Latest PyPi Compromise' pulse_id=6a0ce3b0ad791179648c47b0
+38dfeb772afbd01c04eddda120d283acfb1147a6dc3d54ac62fe23ad06e39d8f	OTX	2026-05-19	family=Banana RAT | pulse='Inside Banana RAT: From Build Server to Banking Fraud' pulse_id=6a0ce3af84b924ad15e27920
+4912b1134e69ade7266e8508eec33ccb2d80ad693f1dbc4f1f4344c6dfcf2ff1	OTX	2026-05-19	family=Banana RAT | pulse='Inside Banana RAT: From Build Server to Banking Fraud' pulse_id=6a0ce3af84b924ad15e27920
+d7545b6dacebdae27effb3c778c5e349027ec789c76ae4f777bd9ba56a70cdaa	OTX	2026-05-19	family=Banana RAT | pulse='Inside Banana RAT: From Build Server to Banking Fraud' pulse_id=6a0ce3af84b924ad15e27920
+ecdc8fade561a75d68235859ad8b1fe131db2c458b4894268e38e90ecab1c47f	OTX	2026-05-19	family=Banana RAT | pulse='Inside Banana RAT: From Build Server to Banking Fraud' pulse_id=6a0ce3af84b924ad15e27920
+46e32500cd24395dd140293758e72fe8671217f5f5b0307858fc118a125aab8c	OTX	2026-06-18	family=ACRStealer | pulse='May 2026 Infostealer Trend Report' pulse_id=6a340681b8799a4a3ef56500
+0d1f6685b4e284f92ef25c0f9358bcdc	OTX	2026-06-18	family=ACRStealer | pulse='May 2026 Infostealer Trend Report' pulse_id=6a340681b8799a4a3ef56500
+7d5c1d672d6e4bef1a7ca4ca9849db74e8690213	OTX	2026-06-18	family=ACRStealer | pulse='May 2026 Infostealer Trend Report' pulse_id=6a340681b8799a4a3ef56500
+03b24f56cafa09024e80b105c667b027	OTX	2026-06-18	family=ACRStealer | pulse='May 2026 Infostealer Trend Report' pulse_id=6a340681b8799a4a3ef56500
+055df00e748fe55d5bbc0bd33067325e	OTX	2026-06-18	family=ACRStealer | pulse='May 2026 Infostealer Trend Report' pulse_id=6a340681b8799a4a3ef56500
+0a437c4161b4ed8de7850f8de970824d	OTX	2026-06-18	family=ACRStealer | pulse='May 2026 Infostealer Trend Report' pulse_id=6a340681b8799a4a3ef56500
+0b8a891324d65f3d9e08dd04980cb66e	OTX	2026-06-18	family=ACRStealer | pulse='May 2026 Infostealer Trend Report' pulse_id=6a340681b8799a4a3ef56500
+91ff54e44ec5684d89c29a95742c083d35b01e47	OTX	2026-06-18	family=ACRStealer | pulse='May 2026 Infostealer Trend Report' pulse_id=6a340681b8799a4a3ef56500
+b7b5b80706f24bc065203080938ec1893170502f	OTX	2026-06-18	family=ACRStealer | pulse='May 2026 Infostealer Trend Report' pulse_id=6a340681b8799a4a3ef56500
+41f81ed33379889b557d7a35d71e347caf6d428df2bf88cf2ed347064fb8de9f	OTX	2026-06-18	family=ACRStealer | pulse='May 2026 Infostealer Trend Report' pulse_id=6a340681b8799a4a3ef56500
+74877ea7d1112b1f7e6949815c81c5083b739adf3d5322dd480abe93c0657656	OTX	2026-06-18	family=ACRStealer | pulse='May 2026 Infostealer Trend Report' pulse_id=6a340681b8799a4a3ef56500
+ad7e4f47f9ddb2f97c8818d89374a82278922bac1bc41209ecd0b5ad027dcb45	OTX	2026-06-18	family=pdfdocs RAT | pulse='Twitter Feed - nextronresearch - 17-06-2026' pulse_id=6a3363abf0061625f1a7b54a
+b3007c3b0f140df374a6756215bde55409124822203d309dcc82e10aa8115a91	OTX	2026-06-18	family=pdfdocs RAT | pulse='Twitter Feed - nextronresearch - 17-06-2026' pulse_id=6a3363abf0061625f1a7b54a
+db1cb4aaee4ad2f1b2907b2c2d3393544a6a05f9a4d8819eb0078606402c416c	OTX	2026-06-18	family=pdfdocs RAT | pulse='Twitter Feed - nextronresearch - 17-06-2026' pulse_id=6a3363abf0061625f1a7b54a
+e9f8a7e6275c263d2a1c9c5c9725addbf484c77c1aa8387093c16f50ebdc11ab	OTX	2026-06-18	family=pdfdocs RAT | pulse='Twitter Feed - nextronresearch - 17-06-2026' pulse_id=6a3363abf0061625f1a7b54a
+03b51af0a04467cebfa235199db4c02e	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+bbe05d2f2487ed09e1062111fd448822364a44a7	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+0020d23b0f9c5e6851a7f737af73fd143175ee47054931166369edd93338538a	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+100407796028bf3649752d9d2a67a0e4394d752eb8de86daa42920e814f3fae8	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+20db98af3037b197c8a846dbf17b87fc6f049c3e0d9a188f9b9a74d3916dd5e1	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+23c1e673f315dafa14b73034a90dd3d393a984451ff6601b8be8142be6487b43	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+35a6bc44b176a050fd6824904b7604f0f45b0fdfa26bf9500b9e05973b387cfd	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+67fc5cf395e28294bbb91ed0e954fdf2e80ebd9119022a115a42c286dc8bacf5	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+7630debd35cac6b7d58c4427695579b3e3a8b1cc462f523234cd6c698882a68c	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+7787a9a7d8ae393aa32f257d083903c4dc9b97a1e5b0458c4cd480d4f3cb5b05	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+9d90f54ae36c6c5435d5b8bed40faf54cc91f6db28574a6310b5ffaeb0362e96	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+a7abf1d9d6686af1cefcd60b17a312e7eb8cfe267def1ec34aeab6128c811630	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+b2777b73a4c33ac6a409d475057843be6b5d32262ef28a1f1ff5bb52e3834c5f	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+c824630154ac4fdfce94ded01f037c305eab51e9bef3f493c60ff3184a640502	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+cf9fc891ea5ca5ecd8113ef3e69f6f52ff538b6cccbdaa9559106fc72bc6da30	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+d14b80cbd1a19d4ad0473a0661297f8fdf598e81ff6c4ab24e212dcad2e54b3f	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+d43bf94f0cb0ab97c88113b7e07d1a4024d1610617b5ad05882b1dbab89e15ba	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+f3b54984caca95fd496bcfe5d7db1611b08d2f5b7d250b43b430e5d76393f9e0	OTX	2026-06-18	family=CryptoBandits | pulse='Crypto Clipper uses Tor and worm-like propagation for persistence and control' pulse_id=6a33628ba6068a0dfc61732a
+4a8860240e4231c3a74c81949be655a28e096a7d72f38fbe84e5b37636b98417	OTX	2026-06-18	family=easy-day-js | pulse='From package to postinstall payload: Inside the Mastra npm supply chain compromise' pulse_id=6a338520dd8f528ed63d76f0
+ae70dd4f6bc0d1c8c2848e4e6b51934626c4818dcb5af99d080ddbd7dc337185	OTX	2026-06-18	family=easy-day-js | pulse='From package to postinstall payload: Inside the Mastra npm supply chain compromise' pulse_id=6a338520dd8f528ed63d76f0
+b73de25c053c3225a077738a1fcbd9ca6966d7b3cd6f5494a30f0aa0eae55c7e	OTX	2026-06-18	family=easy-day-js | pulse='From package to postinstall payload: Inside the Mastra npm supply chain compromise' pulse_id=6a338520dd8f528ed63d76f0

@@ -1,0 +1,27 @@
+title: Network Connection to Elf.Xorddos Infrastructure
+id: e23b6886-4c44-4eb6-86e8-9ec7e9e48826
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Xorddos.
+date: 2026-06-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - DDoS
+    - malware.elf.xorddos
+    - ssh
+    - xorddos
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '115.231.236.150'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

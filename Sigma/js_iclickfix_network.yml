@@ -1,0 +1,33 @@
+title: Network Connection to Js.Iclickfix Infrastructure
+id: e7c8b407-540c-47bf-9c24-d435be6fef07
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Js.Iclickfix.
+date: 2026-06-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - AddType
+    - ClickFix
+    - Digitalocean
+    - FakeCaptcha
+    - TLS1.3
+    - malware.js.iclickfix
+    - mtls
+    - nginx
+    - one-check.lol
+    - powershell
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '165.227.123.79'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

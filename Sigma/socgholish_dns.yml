@@ -1,0 +1,48 @@
+title: DNS Query to Socgholish Domains
+id: 0daa173f-a7ec-44be-9a60-3e0b93adce6c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Socgholish.
+date: 2026-06-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bumblebee
+    - danabot
+    - domain shadowing
+    - doppelpaymer
+    - evilcorp
+    - fake updates
+    - fakeupdates
+    - frigidstealer
+    - gholoader
+    - hades
+    - icedid
+    - initial access broker
+    - lockbit
+    - malware.socgholish
+    - operation endgame
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'trademark.iglesiaelarca.com'
+        - 'content.garretttrails.org'
+        - 'promo.summat10n.org'
+        - 'billing.roofnrack.us'
+        - 'devel.asurans.com'
+        - 'storehouse.beautysupplysalonllc.com'
+        - 'samples.addisgraphix.com'
+        - 'api-app.uppercrafteroom.com'
+        - 'pa-portal.benningtonspringsmhp.com'
+        - 'shop.steadycompanion.com'
+        - 'platform.exathomeswebuyarizona.com'
+        - 'app-front.anmaradigital.com'
+        - 'js-new.newtoyourgame.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

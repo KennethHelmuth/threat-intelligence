@@ -1,0 +1,26 @@
+title: DNS Query to Elf.Ngioweb Domains
+id: df6c74e9-a469-4211-aea7-1617f2385fb2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Elf.Ngioweb.
+date: 2026-06-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Ngioweb
+    - c2
+    - malware.elf.ngioweb
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'iruledolical.org'
+        - 'unibokosion.cc'
+        - 'imodobeness.at'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,38 @@
+title: Network Connection to Acrstealer Infrastructure
+id: 2e2b29cd-4ada-49e2-b8ca-153b4acb21e5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Acrstealer.
+date: 2026-06-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - acrstealer
+    - agenttesla
+    - clickfix
+    - credential theft
+    - darkcloud
+    - dll side-loading
+    - infostealer
+    - lummac2
+    - malware.acrstealer
+    - remus
+    - vidar
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'comples.biz'
+        - 'dafkov.shop'
+        - 'ciuzdaw.shop'
+        - 'ablackb.shop'
+        - 'cloxaa.shop'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

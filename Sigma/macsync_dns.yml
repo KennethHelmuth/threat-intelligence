@@ -1,0 +1,50 @@
+title: DNS Query to Macsync Domains
+id: 1e2ec617-61db-4d1a-ae8c-327b648efaef
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Macsync.
+date: 2026-06-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai impersonation
+    - apac targeting
+    - clickfix
+    - gitlab pages abuse
+    - google ads abuse
+    - macsync
+    - macsync infostealer
+    - malvertising
+    - malware.macsync
+    - social engineering
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'jerryshvac.com'
+        - 'customroofingcontractors.com'
+        - 'a2abotnet.com'
+        - 'claude-code.official-version.com'
+        - 'isgilan.com'
+        - 'plirepsijr74.com'
+        - 'thnikagent.com'
+        - 'babulikinet.com'
+        - 'loserrq0j1sha8.com'
+        - 'bernasibutuwqu2.com'
+        - 'briskinternet.com'
+        - 'touristprogram.com'
+        - 'homeinspectionnaperville.com'
+        - 'yoauction.com'
+        - 'alabamarecoverycenter.com'
+        - '5x5web.com'
+        - 'bewqslkslikrtjinfg9.com'
+        - 'oaklandwaterdamage.com'
+        - 'peowqlauoshau8.com'
+        - '20claude.ai'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

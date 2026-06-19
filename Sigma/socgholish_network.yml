@@ -1,0 +1,50 @@
+title: Network Connection to Socgholish Infrastructure
+id: 55341118-454d-4f1d-b49c-4a44dfa243c9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Socgholish.
+date: 2026-06-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bumblebee
+    - danabot
+    - domain shadowing
+    - doppelpaymer
+    - evilcorp
+    - fake updates
+    - fakeupdates
+    - frigidstealer
+    - gholoader
+    - hades
+    - icedid
+    - initial access broker
+    - lockbit
+    - malware.socgholish
+    - operation endgame
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'trademark.iglesiaelarca.com'
+        - 'content.garretttrails.org'
+        - 'promo.summat10n.org'
+        - 'billing.roofnrack.us'
+        - 'devel.asurans.com'
+        - 'storehouse.beautysupplysalonllc.com'
+        - 'samples.addisgraphix.com'
+        - 'api-app.uppercrafteroom.com'
+        - 'pa-portal.benningtonspringsmhp.com'
+        - 'shop.steadycompanion.com'
+        - 'platform.exathomeswebuyarizona.com'
+        - 'app-front.anmaradigital.com'
+        - 'js-new.newtoyourgame.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

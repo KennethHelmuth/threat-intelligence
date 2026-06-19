@@ -1,0 +1,36 @@
+title: DNS Query to Acrstealer Domains
+id: 56e848bc-67ec-48ad-b616-9d07d8fe0c73
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Acrstealer.
+date: 2026-06-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - acrstealer
+    - agenttesla
+    - clickfix
+    - credential theft
+    - darkcloud
+    - dll side-loading
+    - infostealer
+    - lummac2
+    - malware.acrstealer
+    - remus
+    - vidar
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'comples.biz'
+        - 'dafkov.shop'
+        - 'ciuzdaw.shop'
+        - 'ablackb.shop'
+        - 'cloxaa.shop'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

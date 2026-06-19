@@ -1,0 +1,33 @@
+title: Network Connection to Salesforce Infrastructure
+id: 5973357d-6132-4fa6-a073-a7ea93bba137
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Salesforce.
+date: 2026-06-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - api exfiltration
+    - crm data theft
+    - klue integration
+    - malware.salesforce
+    - oauth abuse
+    - salesforce
+    - shinyhunters
+    - third-party integration
+    - unc6395
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '212.86.125.24'
+        - '94.154.32.160'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,30 @@
+title: Network Connection to Elf.Ngioweb Infrastructure
+id: 463bb961-8ef6-4abc-b525-f89342d2450e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Ngioweb.
+date: 2026-06-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Ngioweb
+    - c2
+    - malware.elf.ngioweb
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'iruledolical.org'
+        - 'unibokosion.cc'
+        - 'imodobeness.at'
+        DestinationIp|contains:
+        - '34.27.195.76'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

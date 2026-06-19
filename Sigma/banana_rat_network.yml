@@ -1,0 +1,39 @@
+title: Network Connection to Banana Rat Infrastructure
+id: 596efc7a-956c-45a8-a13a-f919c1210d0e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Banana Rat.
+date: 2026-06-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - banana rat
+    - brazilian banking trojan
+    - casbaneiro
+    - chavecloak
+    - fastapi
+    - financial fraud
+    - grandoreiro
+    - guildma
+    - malware.banana_rat
+    - mekotio
+    - pix qr interception
+    - polymorphic payload
+    - powershell
+    - tetrade
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'windowsk-cdn.com'
+        - 'c.windowsk-cdn.com'
+        - 'convitemundial2026.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
