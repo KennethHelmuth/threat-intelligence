@@ -1,0 +1,31 @@
+title: DNS Query to Node-Ipc Domains
+id: 9f2ef3a6-03ad-4f30-a4e9-14d47c9e53d6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Node-Ipc.
+date: 2026-06-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - DNS exfiltration
+    - credential stealer
+    - developer secrets harvesting
+    - maintainer account takeover
+    - malware.node_ipc
+    - node-ipc compromise
+    - npm package compromise
+    - supply chain attack
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'sh.azurestaticprovider.net'
+        - 'atlantis-software.net'
+        - 'child.channel'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

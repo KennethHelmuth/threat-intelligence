@@ -1,0 +1,25 @@
+title: Network Connection to Win.Darkvnc Infrastructure
+id: 804b3f11-75e9-4704-b91f-b6bef98f715d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Darkvnc.
+date: 2026-06-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - DarkVNC
+    - malware.win.darkvnc
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '193.149.129.218'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

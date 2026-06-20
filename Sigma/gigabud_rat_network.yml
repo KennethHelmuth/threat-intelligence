@@ -1,0 +1,63 @@
+title: Network Connection to Gigabud.Rat Infrastructure
+id: 92e8ddb8-91da-4232-b362-5cb1c643ec77
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Gigabud.Rat.
+date: 2026-06-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Gigabud.RAT
+    - GoldFactory
+    - Indonesia
+    - MMRat
+    - MaaS
+    - Taotie
+    - banking trojan
+    - brand abuse
+    - malware.gigabud.rat
+    - phishing
+    - vishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'sso-tha.com'
+        - 'coretax-pajak.online'
+        - 'coretax-pajakonline.com'
+        - 'coretax-peralihan.com'
+        - 'coretax-registrasi.com'
+        - 'coretax-sinkronisasi.com'
+        - 'coretaxlayanan.com'
+        - 'coretaxonline-pajak.com'
+        - 'coretaxpelayan.com'
+        - 'coretaxpelayananonline.com'
+        - 'coretaxperalihan.com'
+        - 'newsss.cc'
+        - 'newsss.net'
+        - 'ngovsss.com'
+        - 'onlinecoretaxpelayanan.com'
+        - 'pajakcoretax.com'
+        - 'pelayanan-coretax.com'
+        - 'pelayananonlinecoretax.com'
+        - 'pelayananonlinepajak.com'
+        - 'pembaharuan-coretax.com'
+        - 'peralihan-coretax.com'
+        - 'peralihancoretax.com'
+        - 'registrasi-coretax.com'
+        - 'sinkronisasicoretax.com'
+        - 'sss-cgov.com'
+        - 'sss-gov.com'
+        - 'sss-negov.com'
+        - 'sssnegov.com'
+        - 'verifikasi-coretax.com'
+        - 'verifikasicoretax.online'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

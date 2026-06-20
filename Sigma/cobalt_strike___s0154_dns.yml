@@ -1,0 +1,30 @@
+title: DNS Query to Cobalt Strike - S0154 Domains
+id: 8ab717b5-f153-4aa0-b513-957ce5da5b6d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Cobalt Strike - S0154.
+date: 2026-06-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - anti-debugging
+    - chinese academia
+    - cobalt strike
+    - dll sideloading
+    - education sector targeting
+    - in-memory execution
+    - malware.cobalt_strike___s0154
+    - social engineering
+    - spear-phishing
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'lysander.asia'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,33 @@
+title: Network Connection to Node-Ipc Infrastructure
+id: a007115b-be3b-488c-a076-a311f95ba2ad
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Node-Ipc.
+date: 2026-06-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - DNS exfiltration
+    - credential stealer
+    - developer secrets harvesting
+    - maintainer account takeover
+    - malware.node_ipc
+    - node-ipc compromise
+    - npm package compromise
+    - supply chain attack
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'sh.azurestaticprovider.net'
+        - 'atlantis-software.net'
+        - 'child.channel'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

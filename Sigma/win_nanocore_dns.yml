@@ -1,0 +1,23 @@
+title: DNS Query to Win.Nanocore Domains
+id: 21c0da61-d90e-4dbb-82de-2873e23b0738
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Nanocore.
+date: 2026-06-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.win.nanocore
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'test3012.duckdns.org'
+        - 'elroiseeme02.ip-ddns.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

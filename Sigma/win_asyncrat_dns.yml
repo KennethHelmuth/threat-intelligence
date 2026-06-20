@@ -1,0 +1,27 @@
+title: DNS Query to Win.Asyncrat Domains
+id: d52183cf-cfd3-4887-b4fb-27536eb91e5c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Asyncrat.
+date: 2026-06-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RAT
+    - asyncrat
+    - drb-ra
+    - malware.win.asyncrat
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'tasknew35630.duckdns.org'
+        - 'bogota123.duckdns.org'
+        - 'porkitao08.duckdns.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

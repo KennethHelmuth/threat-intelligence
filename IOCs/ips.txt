@@ -680,3 +680,244 @@
 102.204.223.106:4444	ThreatFox	2026-06-18	family=win.vshell | confidence=100% threat=botnet_cc
 212.86.125.24	OTX	2026-06-18	family=salesforce | pulse='Klue Integration Abused in Salesforce Data Theft | Threat Spotlight' pulse_id=6a33628e05ab2c2a8cced854
 94.154.32.160	OTX	2026-06-18	family=salesforce | pulse='Klue Integration Abused in Salesforce Data Theft | Threat Spotlight' pulse_id=6a33628e05ab2c2a8cced854
+47.116.45.227:8080	ThreatFox	2026-06-20	family=win.vshell | confidence=100% threat=botnet_cc
+81.69.253.132:443	ThreatFox	2026-06-20	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+116.204.36.177:8080	ThreatFox	2026-06-20	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+116.204.36.177:80	ThreatFox	2026-06-20	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+23.141.12.111:8899	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+149.88.66.234:8080	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+116.204.36.177:443	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+217.60.195.144:1999	ThreatFox	2026-06-19	family=elf.mirai | confidence=100% threat=botnet_cc
+97.74.92.237:63334	ThreatFox	2026-06-19	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+45.81.243.44:7089	ThreatFox	2026-06-19	family=win.asyncrat | confidence=75% threat=botnet_cc
+211.235.43.192:7707	ThreatFox	2026-06-19	family=win.asyncrat | confidence=75% threat=botnet_cc
+205.209.106.158:5228	ThreatFox	2026-06-19	family=win.asyncrat | confidence=75% threat=botnet_cc
+2.27.5.37:8912	ThreatFox	2026-06-19	family=win.remcos | confidence=75% threat=botnet_cc
+2.27.5.42:6448	ThreatFox	2026-06-19	family=win.remcos | confidence=75% threat=botnet_cc
+198.23.185.136:60	ThreatFox	2026-06-19	family=win.asyncrat | confidence=75% threat=botnet_cc
+194.48.251.24:80	ThreatFox	2026-06-19	family=elf.mirai | confidence=75% threat=botnet_cc
+155.103.71.115:14646	ThreatFox	2026-06-19	family=win.remcos | confidence=75% threat=botnet_cc
+141.98.10.150:14646	ThreatFox	2026-06-19	family=win.remcos | confidence=75% threat=botnet_cc
+107.172.238.13:14646	ThreatFox	2026-06-19	family=win.remcos | confidence=75% threat=botnet_cc
+102.220.160.222:2025	ThreatFox	2026-06-19	family=win.asyncrat | confidence=75% threat=botnet_cc
+172.93.185.254:80	ThreatFox	2026-06-19	family=win.netsupportmanager_rat | confidence=100% threat=payload_delivery
+80.96.113.59:8060	ThreatFox	2026-06-19	family=elf.xmrig | confidence=100% threat=botnet_cc
+64.89.163.212:8060	ThreatFox	2026-06-19	family=elf.xmrig | confidence=100% threat=botnet_cc
+64.89.163.212:8058	ThreatFox	2026-06-19	family=elf.xmrig | confidence=100% threat=botnet_cc
+64.89.163.212:8057	ThreatFox	2026-06-19	family=elf.xmrig | confidence=100% threat=botnet_cc
+81.69.253.132:80	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+47.242.0.207:8080	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+47.242.0.207:9999	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+114.134.187.38:9999	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+60.205.129.61:30244	ThreatFox	2026-06-19	family=win.vshell | confidence=100% threat=botnet_cc
+49.232.169.67:8084	ThreatFox	2026-06-19	family=win.vshell | confidence=100% threat=botnet_cc
+49.232.169.67:8085	ThreatFox	2026-06-19	family=win.vshell | confidence=100% threat=botnet_cc
+31.207.4.28:4444	ThreatFox	2026-06-19	family=win.vshell | confidence=100% threat=botnet_cc
+1.13.158.52:8084	ThreatFox	2026-06-19	family=win.vshell | confidence=100% threat=botnet_cc
+64.89.163.82:5432	ThreatFox	2026-06-19	family=elf.xmrig | confidence=80% threat=payload_delivery
+213.209.159.66:5432	ThreatFox	2026-06-19	family=elf.xmrig | confidence=80% threat=payload_delivery
+103.217.176.73:6379	ThreatFox	2026-06-19	family=elf.xmrig | confidence=80% threat=payload_delivery
+39.34.134.209:6379	ThreatFox	2026-06-19	family=elf.xmrig | confidence=80% threat=payload_delivery
+5.40.229.236:6379	ThreatFox	2026-06-19	family=elf.xmrig | confidence=80% threat=payload_delivery
+167.233.68.137:80	ThreatFox	2026-06-19	family=elf.redtail | confidence=80% threat=payload_delivery
+115.248.8.65:80	ThreatFox	2026-06-19	family=elf.redtail | confidence=80% threat=payload_delivery
+31.132.90.3:80	ThreatFox	2026-06-19	family=elf.redtail | confidence=80% threat=payload_delivery
+147.139.136.75:2375	ThreatFox	2026-06-19	family=elf.redtail | confidence=80% threat=payload_delivery
+212.127.90.201:2375	ThreatFox	2026-06-19	family=elf.redtail | confidence=80% threat=payload_delivery
+151.239.24.122:8080	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+151.239.24.122:443	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+151.239.24.122:80	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+66.118.237.171:8808	ThreatFox	2026-06-19	family=win.asyncrat | confidence=100% threat=botnet_cc
+173.231.188.244:14641	ThreatFox	2026-06-19	family=win.remcos | confidence=75% threat=botnet_cc
+64.90.3.208:7891	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+185.92.190.214:8896	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+185.92.190.216:8896	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+91.92.34.228:80	ThreatFox	2026-06-19	family=win.netsupportmanager_rat | confidence=100% threat=payload_delivery
+106.75.137.168:8080	ThreatFox	2026-06-19	family=win.vshell | confidence=100% threat=botnet_cc
+20.217.83.155:8080	ThreatFox	2026-06-19	family=win.quasar_rat | confidence=100% threat=botnet_cc
+91.92.242.67:7707	ThreatFox	2026-06-19	family=win.asyncrat | confidence=75% threat=botnet_cc
+77.110.119.172:4321	ThreatFox	2026-06-19	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+78.108.56.64:9405	ThreatFox	2026-06-19	family=win.remcos | confidence=75% threat=botnet_cc
+78.108.57.24:8912	ThreatFox	2026-06-19	family=win.remcos | confidence=75% threat=botnet_cc
+167.99.78.100:4437	ThreatFox	2026-06-19	family=win.remus | confidence=75% threat=botnet_cc
+45.32.66.51:6606	ThreatFox	2026-06-19	family=win.asyncrat | confidence=75% threat=botnet_cc
+198.23.185.82:7777	ThreatFox	2026-06-19	family=win.asyncrat | confidence=75% threat=botnet_cc
+194.116.236.239:4068	ThreatFox	2026-06-19	family=win.remcos | confidence=75% threat=botnet_cc
+186.246.8.63:443	ThreatFox	2026-06-19	family=win.bianlian | confidence=75% threat=botnet_cc
+185.158.249.112:443	ThreatFox	2026-06-19	family=win.remcos | confidence=75% threat=botnet_cc
+147.93.191.75:30700	ThreatFox	2026-06-19	family=win.asyncrat | confidence=75% threat=botnet_cc
+139.180.190.68:443	ThreatFox	2026-06-19	family=win.havoc | confidence=75% threat=botnet_cc
+138.2.120.11:61234	ThreatFox	2026-06-19	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+128.90.105.170:7203	ThreatFox	2026-06-19	family=win.dcrat | confidence=75% threat=botnet_cc
+103.153.254.32:6933	ThreatFox	2026-06-19	family=unknown | confidence=75% threat=botnet_cc
+102.220.160.217:7707	ThreatFox	2026-06-19	family=win.asyncrat | confidence=75% threat=botnet_cc
+47.99.176.249:10086	ThreatFox	2026-06-19	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.83.10:39003	ThreatFox	2026-06-19	family=win.vshell | confidence=100% threat=botnet_cc
+110.42.232.120:8897	ThreatFox	2026-06-19	family=win.vshell | confidence=100% threat=botnet_cc
+198.23.185.136:8808	ThreatFox	2026-06-19	family=win.asyncrat | confidence=100% threat=botnet_cc
+198.23.185.136:3000	ThreatFox	2026-06-19	family=win.asyncrat | confidence=100% threat=botnet_cc
+114.67.208.95:8888	ThreatFox	2026-06-19	family=win.vshell | confidence=100% threat=botnet_cc
+45.140.213.6:8080	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+167.71.233.187:4443	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+47.122.118.128:8443	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+151.239.24.122:9090	ThreatFox	2026-06-19	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+150.158.23.58:9999	ThreatFox	2026-06-19	family=win.vshell | confidence=100% threat=botnet_cc
+192.140.175.194:8808	ThreatFox	2026-06-19	family=win.asyncrat | confidence=100% threat=botnet_cc
+106.75.236.163:8080	ThreatFox	2026-06-19	family=win.vshell | confidence=100% threat=botnet_cc
+106.13.63.211:60000	ThreatFox	2026-06-19	family=unknown | confidence=100% threat=botnet_cc
+193.149.129.218:444	ThreatFox	2026-06-19	family=win.darkvnc | confidence=75% threat=botnet_cc
+47.108.198.74:8080	ThreatFox	2026-06-19	family=unknown | confidence=100% threat=botnet_cc
+106.13.63.211:80	ThreatFox	2026-06-19	family=unknown | confidence=100% threat=botnet_cc
+47.108.198.74:443	ThreatFox	2026-06-19	family=unknown | confidence=100% threat=botnet_cc
+47.108.198.74:80	ThreatFox	2026-06-19	family=unknown | confidence=100% threat=botnet_cc
+106.13.63.211:8080	ThreatFox	2026-06-19	family=unknown | confidence=100% threat=botnet_cc
+47.108.198.74:60000	ThreatFox	2026-06-19	family=unknown | confidence=100% threat=botnet_cc
+106.13.63.211:443	ThreatFox	2026-06-19	family=unknown | confidence=100% threat=botnet_cc
+217.154.162.45	OTX	2026-06-19	family=Havoc - S1229 | pulse='Operation Poisson – Analyzing a Cybercriminal’s Entire Operation' pulse_id=6a3526fcbaffc5909dd73ce4
+217.154.217.139	OTX	2026-06-19	family=Havoc - S1229 | pulse='Operation Poisson – Analyzing a Cybercriminal’s Entire Operation' pulse_id=6a3526fcbaffc5909dd73ce4
+172.105.19.27	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+51.161.86.9	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.98.71	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+134.195.196.245	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+134.195.196.85	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+139.162.174.86	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+148.113.190.175	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+38.89.70.214	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+38.99.82.188	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+216.106.189.146	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+67.220.70.69	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+38.99.82.9	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+134.195.196.184	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+134.195.198.2	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+134.195.198.52	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+135.125.160.44	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+135.181.116.42	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+135.181.18.95	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+135.181.57.111	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+135.181.61.18	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+135.181.61.24	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+135.181.75.30	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.94.199.151	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.94.199.152	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.94.29.105	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.94.73.20	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.126.97	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.33.100	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.33.108	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.33.112	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.33.117	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.33.143	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.35.96	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.35.97	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.98.156	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.98.158	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.98.159	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.98.164	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.98.173	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.98.174	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.98.175	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.98.176	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+141.95.98.177	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+146.59.47.171	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+146.59.54.55	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+146.59.54.8	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+146.59.81.145	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+146.59.81.179	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+146.59.81.182	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+146.59.84.15	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+146.59.85.8	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+148.113.162.52	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+148.113.220.152	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+148.113.222.71	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+149.56.29.107	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+15.235.12.25	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+15.235.222.55	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+15.235.224.157	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+15.235.224.224	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+15.235.228.121	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+15.235.233.16	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+15.235.233.20	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+15.235.53.67	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+15.235.65.66	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+15.235.65.97	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+15.235.82.174	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+15.235.85.237	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+15.235.85.238	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+15.235.85.93	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+15.235.86.140	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+15.235.9.81	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+157.90.4.34	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+157.90.4.97	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+158.51.120.61	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+158.51.121.121	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+158.51.121.126	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+158.51.121.30	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+158.51.121.39	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+158.51.121.83	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+162.19.139.106	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+162.19.72.85	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+162.19.88.205	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+162.19.88.213	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+167.17.64.20	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+167.88.61.114	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+172.99.188.236	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+172.99.189.20	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+172.99.189.67	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+172.99.189.88	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+186.190.215.121	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+194.195.125.168	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+198.244.165.186	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+198.244.212.119	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+198.57.27.30	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+216.106.189.33	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+37.27.55.79	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+38.110.1.157	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+38.111.114.193	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+38.114.120.146	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+38.114.120.238	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+38.114.120.39	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+38.114.120.72	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+38.22.17.181	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+38.22.17.205	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+38.22.17.218	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+38.86.135.91	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+51.195.24.11	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+51.195.24.3	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+51.195.24.58	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+51.195.24.59	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+51.195.24.6	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+51.195.24.60	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+51.222.248.165	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+51.77.190.206	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+51.89.11.179	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+51.89.11.192	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+51.89.11.246	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+54.38.13.215	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+57.128.125.81	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+57.128.192.112	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+57.128.231.167	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+57.128.231.196	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+57.128.97.134	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+57.129.39.245	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+57.129.39.247	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+57.129.49.77	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+57.129.52.203	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+57.129.54.85	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+57.129.64.89	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+57.129.96.136	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+65.108.9.68	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+65.109.27.93	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+65.109.28.33	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+65.21.226.195	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+66.163.117.114	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+66.163.117.132	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+66.228.34.25	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+67.220.66.55	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+67.220.70.142	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+67.220.70.43	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+67.220.70.91	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+67.220.74.119	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+67.220.94.39	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+67.220.94.47	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+85.90.247.42	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+91.134.20.114	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01

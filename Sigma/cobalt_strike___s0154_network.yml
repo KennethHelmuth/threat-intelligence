@@ -1,0 +1,32 @@
+title: Network Connection to Cobalt Strike - S0154 Infrastructure
+id: 52658159-1a6e-4e1e-a769-f3ce9dc6c2b8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Cobalt Strike - S0154.
+date: 2026-06-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - anti-debugging
+    - chinese academia
+    - cobalt strike
+    - dll sideloading
+    - education sector targeting
+    - in-memory execution
+    - malware.cobalt_strike___s0154
+    - social engineering
+    - spear-phishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'lysander.asia'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

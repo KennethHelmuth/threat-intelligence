@@ -1,0 +1,62 @@
+title: DNS Query to Popa Domains
+id: 1ea22c90-4283-4669-bd21-db401b0d5dea
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Popa.
+date: 2026-06-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - android
+    - consent bypass
+    - hopanet
+    - loopop
+    - malware.popa
+    - moneytiser
+    - netnut
+    - neupop
+    - popa
+    - proxyware
+    - residential proxy
+    - sdk
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'nice-protect.com'
+        - 'house-spirit.com'
+        - 'gmslb.net'
+        - 'rainproxy.io'
+        - 'enigmaproxy.net'
+        - 'fast-mob.com'
+        - 'pulse-vol.com'
+        - 'zen-tava.com'
+        - 's1.gmslb.net'
+        - 's1252.gmslb.net'
+        - 's1244.gmslb.net'
+        - 'gw.netnut.net'
+        - 'sdk.netnut.io'
+        - 'axe-net.com'
+        - 'byte-armor.com'
+        - 'byte-buff.com'
+        - 'cool-horizon.com'
+        - 'digiproxy.cc'
+        - 'earth2trust.com'
+        - 'flashproxy.com'
+        - 'flexible-networks.com'
+        - 'grid-push.com'
+        - 'iprocket.io'
+        - 'link-flux.com'
+        - 'litics-net.com'
+        - 'mob-hit.com'
+        - 'net-echo.com'
+        - 'nova-lan.com'
+        - 'novel-layer.com'
+        - 'noverland.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

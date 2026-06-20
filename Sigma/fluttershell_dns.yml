@@ -1,0 +1,33 @@
+title: DNS Query to Fluttershell Domains
+id: 47d21978-a36b-470b-aa62-13f89be76cac
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Fluttershell.
+date: 2026-06-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser hijacking
+    - c2-conditional payload
+    - certificate rotation
+    - dart obfuscation
+    - flutter framework abuse
+    - fluttershell
+    - macos backdoor
+    - malware.fluttershell
+    - operation flutterbridge
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'atsheisdomestic.org'
+        - 'etoftheappyrince.org'
+        - 'healightejustb.org'
+        - 'sinterfumesco.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

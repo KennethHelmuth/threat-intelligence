@@ -1,0 +1,36 @@
+title: DNS Query to Havoc - S1229 Domains
+id: 8f2a1924-297a-4a60-baee-38dc87c99600
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Havoc - S1229.
+date: 2026-06-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential-theft
+    - fileless-attack
+    - france
+    - havoc
+    - havoc-c2
+    - keylogger
+    - malware.havoc___s1229
+    - openssh
+    - poisson
+    - rustdesk
+    - tailscale
+    - vpn-mesh-persistence
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'wawsenti.duckdns.org'
+        - 'pois43.s3.eu-central-003.backblazeb2.com'
+        - 'sentiwaw.s3.eu-central-003.backblazeb2.com'
+        - 'w456w5.s3.eu-central-003.backblazeb2.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

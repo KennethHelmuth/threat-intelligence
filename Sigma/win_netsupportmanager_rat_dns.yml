@@ -1,0 +1,38 @@
+title: DNS Query to Win.Netsupportmanager Rat Domains
+id: 93561509-8aee-4e38-b4e5-db5aaa35ab0f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Netsupportmanager Rat.
+date: 2026-06-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ClickFix
+    - Dropper
+    - FakeCaptcha
+    - NetSupport
+    - NetSupportRAT
+    - RAT
+    - c2
+    - clipboard-hijack
+    - fileless
+    - malware.win.netsupportmanager_rat
+    - powershell
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'google2oauth.com'
+        - 'node54group.com'
+        - 'node66group.pro'
+        - 'golviewcheckus.com'
+        - 'tiqwtkmma.com'
+        - 'zbxcgtqt.com'
+        - 'beroniw.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

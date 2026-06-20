@@ -1,0 +1,31 @@
+title: DNS Query to Win.Lockbit Domains
+id: c1ea208d-9dcb-4837-971d-fd19d4d23d8a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Lockbit.
+date: 2026-06-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Ransomware
+    - lockbit
+    - malware.win.lockbit
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'l6tafmqurswrpajwgnvpnpnpd77xavfm4n52xqfsjfltnersjv2fxoqd.onion'
+        - 'kff3b66znolwznie6cinz2pecxrrxpeptwuzeudaed63viv4fbnketyd.onion'
+        - '7egbakn4anfwdtase7fnkgsdpywl4mtsxwpud4ou5lxjjhy4qthv4vid.onion'
+        - '5vmjqdfmmtkvk74uj2khkndrxjmgzbspzugk5a5rzd3upntc7wi5reyd.onion'
+        - 'lntvtlvl6gn35aa4coklqubskx5r3d6j42onywz7llzf3anetqtoepyd.onion'
+        - 'a2ahyvmwbfcw7vvdnaddwbvezlpcjvfszdnuer3l6aqnwdzermm7csyd.onion'
+        - 'xxs3dmkoflcfrkon7a2guje2ojsyv63z7eyxpctjota7xil646v4byyd.onion'
+        - 'smqqrbvjf7kfcikigbq5hxzq5y6n2as7oy4bmb6dsrb4keyn3korxcid.onion'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

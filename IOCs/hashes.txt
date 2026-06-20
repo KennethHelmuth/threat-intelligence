@@ -594,3 +594,137 @@ f3b54984caca95fd496bcfe5d7db1611b08d2f5b7d250b43b430e5d76393f9e0	OTX	2026-06-18	
 4a8860240e4231c3a74c81949be655a28e096a7d72f38fbe84e5b37636b98417	OTX	2026-06-18	family=easy-day-js | pulse='From package to postinstall payload: Inside the Mastra npm supply chain compromise' pulse_id=6a338520dd8f528ed63d76f0
 ae70dd4f6bc0d1c8c2848e4e6b51934626c4818dcb5af99d080ddbd7dc337185	OTX	2026-06-18	family=easy-day-js | pulse='From package to postinstall payload: Inside the Mastra npm supply chain compromise' pulse_id=6a338520dd8f528ed63d76f0
 b73de25c053c3225a077738a1fcbd9ca6966d7b3cd6f5494a30f0aa0eae55c7e	OTX	2026-06-18	family=easy-day-js | pulse='From package to postinstall payload: Inside the Mastra npm supply chain compromise' pulse_id=6a338520dd8f528ed63d76f0
+13420d64ce091f6dc0505d5a2ca5858f6080f3d91580459c2284bd68fdcb1979	ThreatFox	2026-06-19	family=unknown | confidence=75% threat=payload | vt=1/74
+c343f53916747c5b8a60aed844b1882863f432af65867297edf1913f167c4f68	ThreatFox	2026-06-19	family=unknown | confidence=75% threat=payload | vt=13/74
+e8ee3e3e25e9deef039131b7e66855a2e614d36f395b582f9b7e6365ffd61484	ThreatFox	2026-06-19	family=unknown | confidence=75% threat=payload
+37733e5966cf4129c79c419725fbc2f7bcdac446683d966107bb3065d959422f	MalwareBazaar	2026-06-20	filetype=elf md5=1fe5ad321a1e6f18b618bcb5a2c2edf1 sha1=None
+826a786afce30c67495d60799ae38d1604bea4732476253a3aab81e1dd5d44f0	MalwareBazaar	2026-06-20	filetype=elf md5=45dbc7bf8abaf0e546954e764e579626 sha1=513a50347d4baf0ad02d3b0bcf7e5f23acc680c0
+4b1975ada28b892fd1b2ea2b4527e1764c29b342070afaa49fac6d68a0dafa76	MalwareBazaar	2026-06-20	filetype=elf md5=58855dd8bb8780459748c73c935d1df1 sha1=a69a4ea4db5682189037b0ad5f900149d1e0fcdd
+90ed1cbb30bccdf6f91b25ad39e350498a999b7033243bfdf7b8704a6485cfc6	MalwareBazaar	2026-06-20	filetype=sh md5=41e9facfee7ceeedf93ff55527bc65c0 sha1=0f51ba570ecaa95dcaddba452be02812dc8b36e5 | vt=16/74
+8bedf6ba4034dde861d0ca248a44c98d90e066f3631a1d1d72a8c5b2df849843	MalwareBazaar	2026-06-20	filetype=sh md5=8c11864c9d56156802bf7990d4ed914c sha1=b080b39e54d030e8060bc0b935d433451f57d9fc | vt=17/74
+3e90a82f5360cae528a12c76d22fe6a2	ThreatFox	2026-06-20	family=win.wannacryptor | confidence=95% threat=payload
+63ffc60f431eb604910d605d8d72754b	ThreatFox	2026-06-20	family=py.venus_stealer | confidence=95% threat=payload
+55f65c7a077407e09b5bf46c0d1885e88759583bb56ee3c5495804d0da127dab	ThreatFox	2026-06-20	family=win.wannacryptor | confidence=95% threat=payload
+d34be339fd8c47756de5b4e6c402612a333c50b9e1fa4bffdd32cb3f9d5c1d74	ThreatFox	2026-06-20	family=py.venus_stealer | confidence=95% threat=payload
+ef0e9301403d58a4729aaa9cd81abf942b1c8a301a651b1512bc2b5d9e599303	ThreatFox	2026-06-20	family=win.nanocore | confidence=95% threat=payload
+93e61d5a877bbb937e885d3ca385ac8a	ThreatFox	2026-06-20	family=win.nanocore | confidence=95% threat=payload
+c2c8ed567f9c65686c4f6599e9259bd31d2ad984c24cf17ad9ebd9d594dcb0ba	ThreatFox	2026-06-20	family=win.nanocore | confidence=95% threat=payload
+10cf94eef24c8932d28698e02faf43e5	ThreatFox	2026-06-20	family=win.nanocore | confidence=95% threat=payload
+2e16f46c063ff79af0b312364375706e98674b5869a4c9bb9f96a14b77277c5b	ThreatFox	2026-06-20	family=win.nanocore | confidence=95% threat=payload
+2470c9c99f13ded1f5b86a2fabde0780	ThreatFox	2026-06-20	family=win.nanocore | confidence=95% threat=payload
+1702f6476993eb605fe93eebbbc5fc42	ThreatFox	2026-06-20	family=win.nanocore | confidence=95% threat=payload
+e80c4a3ceb6417d7194183326d498ea5	ThreatFox	2026-06-20	family=win.wannacryptor | confidence=95% threat=payload
+ce990051cbbec61b7e5fda012e29bc9776d0f298cc586c20ed13f949f34db37b	ThreatFox	2026-06-20	family=win.nanocore | confidence=95% threat=payload
+63ab7828b518397c0b01596c92a0a0b0	ThreatFox	2026-06-20	family=win.nanocore | confidence=95% threat=payload
+8408c932e1f5f49509bdb4a3d27b358de7309a660a4fa01841dbf0f2d1b4bf40	ThreatFox	2026-06-20	family=win.wannacryptor | confidence=95% threat=payload
+d3e37de6dd2dc8ce1bb72536259529cc	ThreatFox	2026-06-20	family=win.nanocore | confidence=95% threat=payload
+b8431716195045f269fabd7d4e58fc37d24281a7bc0e4af3ce5424276add5792	ThreatFox	2026-06-20	family=win.nanocore | confidence=95% threat=payload
+798138899fae930a2eb5d70aafd8ba622fd1674fec571e282e9c9589b39cffef	ThreatFox	2026-06-20	family=win.nanocore | confidence=95% threat=payload
+9d9e293be0bc3323060ff6271cc00d4f	ThreatFox	2026-06-20	family=win.wannacryptor | confidence=95% threat=payload
+6640820a921a5235ffa3448c7640039c	ThreatFox	2026-06-20	family=win.wannacryptor | confidence=95% threat=payload
+8d347ecef1e388d150a55d84f0397dc39be24d22c456681eb57ca23580f4083f	ThreatFox	2026-06-20	family=win.wannacryptor | confidence=95% threat=payload
+aa40a70d1dbf91af1d2bfc5209417fadb3b4ad2192a4ea4cbf802e2b10d5b0ce	ThreatFox	2026-06-20	family=win.wannacryptor | confidence=95% threat=payload
+f6c97b1e2ed02578ca1066c8235ba4f991e645f89012406c639dbccc6582eec8	ThreatFox	2026-06-19	family=elf.mozi | confidence=80% threat=payload
+12013662c71da69de977c04cd7021f13a70cf7bed4ca6c82acbc100464d4b0ef	ThreatFox	2026-06-19	family=elf.mozi | confidence=80% threat=payload
+f253a4f1afdd89847bbe27defbc46043d73391d1d624752d457505489b5e3f05	ThreatFox	2026-06-19	family=elf.mirai | confidence=80% threat=payload
+02a2cfc164003033b71a15674b0b5783a79648edf8d463b5eaed42a0354358e3	MalwareBazaar	2026-06-20	family=Mirai | filetype=elf md5=4b5adfbbb2a30f3c05bf4434769a7479 sha1=fe2ca8a9d6f608769b8157522e85b83352f54bd1
+e1f9d07a1288535d8a729f92e5be8bc0669c5214c2bc7e966bd0c2c0d78bb0a9	MalwareBazaar	2026-06-20	family=Mirai | filetype=elf md5=4aee98c8d59fd2339d1747b04dcf14a6 sha1=f64108640bbbc1db0fa946f6671da6e9790c9344
+603afabe0bd67f9c66c1680b0e8c1c2d2b319053aeaf41a8b2380530ebf3719c	MalwareBazaar	2026-06-20	family=Mirai | filetype=elf md5=94f63803e90efdac1dd00ebea1394d68 sha1=1b2d8b8a14197c288d74b4df032e53d8278a2987
+731433356e439a75745c9c064d8d6332c1d9e64c4e642f05e5572340edd70d4f	MalwareBazaar	2026-06-20	family=Mirai | filetype=elf md5=9bc46db12719f5e8d4b060a8fd31e5db sha1=c2618294d3c42b242e856820e22d5564d81b705d
+eb4bf151a3f97f05ca889671cd63b38391fcbae0cbb552c42ad0eef97a6d584c	MalwareBazaar	2026-06-20	family=Mirai | filetype=elf md5=05220e01eaa6c949b337c28fd6ed340e sha1=a4cd52ae3e6d69ccc32a522c9ccb5a683468f1a3
+f8a25095fbd2531cd653e77dd00d4ec5b1978dc75b85619c1c877fca97c91adb	MalwareBazaar	2026-06-20	family=Mirai | filetype=elf md5=580c43f9b2abff4ad5844897cdebc964 sha1=95c19a2f9976128cf4aa8056af69e849569b25ce
+a9bdf0bede8fca35c262c4e727969fd7649140b102039f43796a931bcf0ad715	MalwareBazaar	2026-06-20	family=Mirai | filetype=elf md5=38e113c877497aacbb6d369797207bd3 sha1=32f7af0406256e005cc6bc15807723a1f9895622
+50b9991b0b53ae56a20ed007ce3195be232aa3af4ee225c0eddcf6e2b4635db3	MalwareBazaar	2026-06-20	family=Mirai | filetype=elf md5=232fa0bf4c7c490e1adf12ddb3dd3c36 sha1=c00890551895f1daaf0a4f5fe7bb022d5b7ef7c2
+4625976bd66bfdfc5b197282f7acfa42a2a6ab635c9559919d6fcb12b747d28d	MalwareBazaar	2026-06-20	family=Mirai | filetype=elf md5=0f9e38df87d96c499ad771a4aa3ba9ac sha1=7df1333313fb054ab49628aa6a03b0e778fe5a8c
+41c7efdbb651b767e907b30220ebe5f8b9d7a029eaca782a05d70875d69fa4d8	MalwareBazaar	2026-06-20	family=Mirai | filetype=elf md5=42fe6bf6bb1a269a8247aff9400a7d93 sha1=5bd979bb90dd59beeaf3ef27cced6253b27ecc9c
+4d8e51b9e14202926d2ab417a1957f4a46d0009502be35942c47c69e41329729	MalwareBazaar	2026-06-20	family=Mirai | filetype=elf md5=beb3c0e871009bcb21497411fbc1aa2c sha1=cbc5955aab09af30ae64323fc7b477e074166c89
+29447a6bb6c7328041398d0591dd0998302ea2116b1462b9a2c99d14366113d0	MalwareBazaar	2026-06-20	family=Mirai | filetype=elf md5=71b4511769251b2f112086955356ae76 sha1=6a011f1c34dc68c627c4a101f72402973259c002
+3af414ef65da7494da9604e1a1dcf1a2a92234a4c8fd2fa11bb292970ea4282e	MalwareBazaar	2026-06-20	family=Mirai | filetype=elf md5=e013c5e3116dd41fbe3794d4b54dea38 sha1=ee96d62deab4b91f3371f9678011601d8a501baf
+902533852b16b6ba322bf33de0e4215e	OTX	2026-05-20	family=Cobalt Strike - S0154 | pulse='Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure' pulse_id=6a0db1f45208b8cf1b2b1571
+b5fa57a839f7d63ea8d5d00a9cd5a143777e7da9	OTX	2026-05-20	family=Cobalt Strike - S0154 | pulse='Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure' pulse_id=6a0db1f45208b8cf1b2b1571
+35a478f53f64bd412f374c65360fdba0518749537193669a8fe08d14bed65a2a	OTX	2026-05-20	family=Cobalt Strike - S0154 | pulse='Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure' pulse_id=6a0db1f45208b8cf1b2b1571
+c937eca7c4c9b98df9257d986e666d25411aac5fa39d21f7018dd2e1663f0c76	OTX	2026-05-20	family=Cobalt Strike - S0154 | pulse='Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure' pulse_id=6a0db1f45208b8cf1b2b1571
+cd99e83d241cfbb41bfcd0bc622a87d16268e710ca7d736d0c5f44774e0056e2	OTX	2026-05-20	family=Cobalt Strike - S0154 | pulse='Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure' pulse_id=6a0db1f45208b8cf1b2b1571
+e7aff6a55a7866776272d9913dfbf9d7db33fc9de6aced22f2a195feebb0e85f	OTX	2026-05-20	family=Cobalt Strike - S0154 | pulse='Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure' pulse_id=6a0db1f45208b8cf1b2b1571
+eb14d9e35a3bf0a933297f861bee0be9e6b9061fe4573a81ac92b71d55b6474f	OTX	2026-05-20	family=Cobalt Strike - S0154 | pulse='Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure' pulse_id=6a0db1f45208b8cf1b2b1571
+ed7087e3afba4b320bdf04f32d3a6c567effd3d18a97682968e567000e70b335	OTX	2026-05-20	family=Cobalt Strike - S0154 | pulse='Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure' pulse_id=6a0db1f45208b8cf1b2b1571
+fe11b199ada23d5ac25efc4215e67f4ff617ccb4d429eb64412072687367ca1c	OTX	2026-05-20	family=Cobalt Strike - S0154 | pulse='Operation Dragon Whistle: UNG002 Targets Chinese Academia via Weaponized Institutional Lure' pulse_id=6a0db1f45208b8cf1b2b1571
+004d80e0efe9ea4d572350e8ce4771dfa432f0a2	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+00fcb2abd35049ad3cc9a8a3e1aaba156c0770cf	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+02462bace6937e92f3d1ef35f08c4ad270082104	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+036aa79692470ad8d6a3bedb5da310af111317af	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+03a1bcd3ba59c02ce6c37699baa73a2c075a6644	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+041dcd27e1c77548f7d5897b43a6e1817cb3e9d0	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+045144bfd86e0cf8d884ec4668d074a8d6eb4ee1	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+047190859b100d017c3b651f488eef8eba98ad28	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+07701239a7003699a02aa97bfab46e7b92800949	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+0852fbee4372c194f429b8ec217a5699f56448dc	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+3f018345d993d0d8fd778c7f6f4667cc0e974dd4	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+49acba8d46b57fdd324f32735e0052750f51b844	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+6f474c2d89850f907f538921fd25bd52f0f99af0	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+7b5c154e4aaa51b3652dc685c2f21b6eb70c1440	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+b125aea155d1d14be40644ba50f31418c3f40ebc	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+ea87642a88788469e7aafc4657588b39709f1509	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+075d8eeb5552da8524eb14a6ed72416e6e956aa3	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+2a954c7c1d764493abc285c34e47525c211fe768	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+3106aa0c8b260e36ece48b8a681353de76d69ca9	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+3bb475b9de75a5f1c6a941210b88b0c0f55f7005	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+4911144aea43d00f6c7150766e4c0ab29c93d06e	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+4bb5c9382fe37012017c88c6ac90afa2efeb2cbc	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+9aab26a308f86ca137e6d6c171568a442e38abb6	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+c74dbe25d81bbe3c5e6177049ee393f6657fb799	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+cf9b8f3f1f795c3bdf0c14af66904ce8e2b95fff	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+f6627863f81cac5bf01664232473da47146f9d4c	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+fd09c9c916436e13da1c204f1f4c276c159f198a	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+59be73a679ac8f661cf9a686e8095177	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+a70dfc48b59aaa5099577c3719b576ce	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+5513348df877471f81188210d2e8f2ba1c11ae087692c4ff6f64639a928c6b3d	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+b0f45091e7290797be2a85032d797891064a5cd611b194534b78cb024003468d	OTX	2026-05-20	family=Gigabud.RAT | pulse='Beyond Tax Returns: How Shared Malware Infrastructure Scales Brand Abuse In Indonesia' pulse_id=6a0daa32ac6609fbd06d30ae
+96097e0612d9575cb133021017fb1a5c68a03b60f9f3d24ebdc0e628d9034144	OTX	2026-05-20	family=node-ipc | pulse='Popular node-ipc npm Package Infected with Credential Stealer' pulse_id=6a0d970e99916e7e7e17c893
+78a82d93b4f580835f5823b85a3d9ee1f03a15ee6f0e01b4eac86252a7002981	OTX	2026-05-20	family=node-ipc | pulse='Popular node-ipc npm Package Infected with Credential Stealer' pulse_id=6a0d970e99916e7e7e17c893
+c2f4dc64aec4631540a568e88932b61daebbfb7e8281b812fa01b7215f9be9ea	OTX	2026-05-20	family=node-ipc | pulse='Popular node-ipc npm Package Infected with Credential Stealer' pulse_id=6a0d970e99916e7e7e17c893
+449e4265979b5fdb2d3446c021af437e815debd66de7da2fe54f1ad93cbcc75e	OTX	2026-05-20	family=node-ipc | pulse='Popular node-ipc npm Package Infected with Credential Stealer' pulse_id=6a0d970e99916e7e7e17c893
+bf9d8c0c3ed3ceaa831a13de27f1b1c7c7b7f01d2db4103bfdba4191940b0301	OTX	2026-05-20	family=node-ipc | pulse='Popular node-ipc npm Package Infected with Credential Stealer' pulse_id=6a0d970e99916e7e7e17c893
+0378a5ef51b008aa2d6b76bd44a0bf061339bc3b737a188ec82029444d4d18fe	OTX	2026-06-19	family=Havoc - S1229 | pulse='Operation Poisson – Analyzing a Cybercriminal’s Entire Operation' pulse_id=6a3526fcbaffc5909dd73ce4
+1f00fd604bb18bbe3081f9ce8d741c4029d2a2125eb8888ac4e0d955938059d6	OTX	2026-06-19	family=Havoc - S1229 | pulse='Operation Poisson – Analyzing a Cybercriminal’s Entire Operation' pulse_id=6a3526fcbaffc5909dd73ce4
+291cb1fd0f2709b4457447cbb87adacf5c36c1bcb0f8754524024d44174bb195	OTX	2026-06-19	family=Havoc - S1229 | pulse='Operation Poisson – Analyzing a Cybercriminal’s Entire Operation' pulse_id=6a3526fcbaffc5909dd73ce4
+3b7642b0f84e83a36334c608655c6cb7aae774839a6a3488526b853d89830a60	OTX	2026-06-19	family=Havoc - S1229 | pulse='Operation Poisson – Analyzing a Cybercriminal’s Entire Operation' pulse_id=6a3526fcbaffc5909dd73ce4
+aa7ea19e34567458b4ee66a7cd274181764984bf32123f756a7fdc64d5857b31	OTX	2026-06-19	family=Havoc - S1229 | pulse='Operation Poisson – Analyzing a Cybercriminal’s Entire Operation' pulse_id=6a3526fcbaffc5909dd73ce4
+c79091ceae7cd592fc08e4854cda7c1182af762b6b126371cc604debdc995fc7	OTX	2026-06-19	family=Havoc - S1229 | pulse='Operation Poisson – Analyzing a Cybercriminal’s Entire Operation' pulse_id=6a3526fcbaffc5909dd73ce4
+f06e7e1a4363a01ba2a4fee2e28abdd623abf4194bda373f23ff0e151b5c2b45	OTX	2026-06-19	family=Havoc - S1229 | pulse='Operation Poisson – Analyzing a Cybercriminal’s Entire Operation' pulse_id=6a3526fcbaffc5909dd73ce4
+2227df1207d2c90db46610bd98909032	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+3a69aedb78677993384dfe9b476e3d26	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+0a14b993fdac34f7a05b6d9d22f5fa9cfc711134	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+55c0235188c16bd2e18a21fa78d9a39c220b8b73	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+0b4c112c98993f01ed761e72c2f82827aa49876034df461c1762e95281876c6b	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+1a92cf241f86584361097d5735948a8170007206db56fe88739c9048767ab862	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+22c860931f2ed22897b81ef8da16980fc24b2573ec884a153b3ff5df9e0f8cff	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+254568375315d86121b74db2eb8bfd8ac6bf192768c6ab5d05ca7e66b8990102	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+2a6f0837007726a1863f2180a9a84a89284dc57e7557857e2a3d1896a69fe6c7	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+2e04dc8bee038a5771373fc4dbaa4e45f653cd649928199e9ce8098c8b27d64e	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+51ead7f0490bfe6b432120bbbd63b807277d016911664fb264640bb8b007d756	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+68022c244a6cc150395ad3bc6648c30de7c1fa7837498ac101a1824e227efa3a	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+69f524815eeb3b2069ff41a8a12cae0537de8ad9bd856d694fa21bb2af8fada8	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+79aec671ceb205db1769da6898c9659c7c8297b13929e593050523438c09a44f	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+a29cdca72822c1f236c53c181d03f0c45907a45f2ef3c4c2da3ef839bfd3b7a6	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+a806cece4a4fbbe502e6d76035681702d9adde1c6f74c9e1c0547d37d30ddfcf	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+af93524fd0aac0a790734a0747fcf844ba5f0652b11a0f4a59bbe5aeace0fa75	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+b8b8d41a8a7eccda90b366fb5a3d2c0f692504984429aaa19b0af0dcd81dec03	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+bbcc1a208b4bd0a9ffe8799158cd994d82e125acb30b630e774b242f11dd6985	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+bf0b36dcbbc60dbf83ecac7c56534271e53a16817909306ecc6f15f7b6106730	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+ca5fd64932a82d3e24a19fe94d8b7636847f4335b8fd8795a63cfa0107e67048	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+d06b86da3777be0e2156c35f031f503d280a17ee3a1cc531f4c5fb806c0f749b	OTX	2026-06-19	family=Popa | pulse='Popa: From Sourcing to Distribution' pulse_id=6a3447ad5cdebd92116d1c01
+363923500ce942bf1a953e8a4e943fbf1fb1b5ed6e5d247964c345b3ad5bfc34	OTX	2026-06-19	family=FlutterShell | pulse='Operation FlutterBridge: The FlutterShell macOS Backdoor' pulse_id=6a34874a01c1f77a4c242d5b
+638b0a77a6d686849a78b500adf5e565	OTX	2026-06-19	family=FlutterShell | pulse='Operation FlutterBridge: The FlutterShell macOS Backdoor' pulse_id=6a34874a01c1f77a4c242d5b
+c40126fea6ed24652a3e4e19205075cb02cca3e2	OTX	2026-06-19	family=FlutterShell | pulse='Operation FlutterBridge: The FlutterShell macOS Backdoor' pulse_id=6a34874a01c1f77a4c242d5b
+605169623267c4eb73693b22b811dc7a	OTX	2026-06-19	family=FlutterShell | pulse='Operation FlutterBridge: The FlutterShell macOS Backdoor' pulse_id=6a34874a01c1f77a4c242d5b
+b4aa7255af4b016586090a5b451300fa	OTX	2026-06-19	family=FlutterShell | pulse='Operation FlutterBridge: The FlutterShell macOS Backdoor' pulse_id=6a34874a01c1f77a4c242d5b
+ffd773f157df70291f0910a45a1d8d9a	OTX	2026-06-19	family=FlutterShell | pulse='Operation FlutterBridge: The FlutterShell macOS Backdoor' pulse_id=6a34874a01c1f77a4c242d5b
+134517796178a150a1585672be134169d6877082b598d840baa3f37b0222be26	OTX	2026-06-19	family=FlutterShell | pulse='Operation FlutterBridge: The FlutterShell macOS Backdoor' pulse_id=6a34874a01c1f77a4c242d5b
+2c5bc9e95e1e9b73e3ba8870a008802899866a2c0e2e10112aefddf7a96af04e	OTX	2026-06-19	family=FlutterShell | pulse='Operation FlutterBridge: The FlutterShell macOS Backdoor' pulse_id=6a34874a01c1f77a4c242d5b
+32da1437a2734224406c7e5e8d756f0c0cd58c0c959478571cbfc0cd564d018a	OTX	2026-06-19	family=FlutterShell | pulse='Operation FlutterBridge: The FlutterShell macOS Backdoor' pulse_id=6a34874a01c1f77a4c242d5b
+6c3f61d46d4de26b9cb16808bf17c33ae69f651a4b879e7b5612ff7f548e2a82	OTX	2026-06-19	family=FlutterShell | pulse='Operation FlutterBridge: The FlutterShell macOS Backdoor' pulse_id=6a34874a01c1f77a4c242d5b
+bf90fb31e6024d7e6616f5acd0e8aa28738a9095a508c1a986e1e974cb9e79a0	OTX	2026-06-19	family=FlutterShell | pulse='Operation FlutterBridge: The FlutterShell macOS Backdoor' pulse_id=6a34874a01c1f77a4c242d5b
+cc4f048e66c5ab3c0f1d767bb8fc464d082641f4888ea3cd14ea3775077c4bf2	OTX	2026-06-19	family=FlutterShell | pulse='Operation FlutterBridge: The FlutterShell macOS Backdoor' pulse_id=6a34874a01c1f77a4c242d5b
+f544bfab72d380cc20692d8ec9d31ea666785fe225dccd55beab29a3c0fdfad2	OTX	2026-06-19	family=FlutterShell | pulse='Operation FlutterBridge: The FlutterShell macOS Backdoor' pulse_id=6a34874a01c1f77a4c242d5b
+fc091ddb4d845280aeb7745cfdb6b7cb0013abc35db9e634f055b8e8fb0b5b1e	OTX	2026-06-19	family=FlutterShell | pulse='Operation FlutterBridge: The FlutterShell macOS Backdoor' pulse_id=6a34874a01c1f77a4c242d5b

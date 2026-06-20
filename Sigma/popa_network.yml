@@ -1,0 +1,95 @@
+title: Network Connection to Popa Infrastructure
+id: a10bc9a6-7b4f-4ef5-abe2-97abc1feec75
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Popa.
+date: 2026-06-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - android
+    - consent bypass
+    - hopanet
+    - loopop
+    - malware.popa
+    - moneytiser
+    - netnut
+    - neupop
+    - popa
+    - proxyware
+    - residential proxy
+    - sdk
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'nice-protect.com'
+        - 'house-spirit.com'
+        - 'gmslb.net'
+        - 'rainproxy.io'
+        - 'enigmaproxy.net'
+        - 'fast-mob.com'
+        - 'pulse-vol.com'
+        - 'zen-tava.com'
+        - 's1.gmslb.net'
+        - 's1252.gmslb.net'
+        - 's1244.gmslb.net'
+        - 'gw.netnut.net'
+        - 'sdk.netnut.io'
+        - 'axe-net.com'
+        - 'byte-armor.com'
+        - 'byte-buff.com'
+        - 'cool-horizon.com'
+        - 'digiproxy.cc'
+        - 'earth2trust.com'
+        - 'flashproxy.com'
+        - 'flexible-networks.com'
+        - 'grid-push.com'
+        - 'iprocket.io'
+        - 'link-flux.com'
+        - 'litics-net.com'
+        - 'mob-hit.com'
+        - 'net-echo.com'
+        - 'nova-lan.com'
+        - 'novel-layer.com'
+        - 'noverland.com'
+        DestinationIp|contains:
+        - '172.105.19.27'
+        - '51.161.86.9'
+        - '141.95.98.71'
+        - '134.195.196.245'
+        - '134.195.196.85'
+        - '139.162.174.86'
+        - '148.113.190.175'
+        - '38.89.70.214'
+        - '38.99.82.188'
+        - '216.106.189.146'
+        - '67.220.70.69'
+        - '38.99.82.9'
+        - '134.195.196.184'
+        - '134.195.198.2'
+        - '134.195.198.52'
+        - '135.125.160.44'
+        - '135.181.116.42'
+        - '135.181.18.95'
+        - '135.181.57.111'
+        - '135.181.61.18'
+        - '135.181.61.24'
+        - '135.181.75.30'
+        - '141.94.199.151'
+        - '141.94.199.152'
+        - '141.94.29.105'
+        - '141.94.73.20'
+        - '141.95.126.97'
+        - '141.95.33.100'
+        - '141.95.33.108'
+        - '141.95.33.112'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
