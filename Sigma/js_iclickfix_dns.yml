@@ -1,0 +1,22 @@
+title: DNS Query to Js.Iclickfix Domains
+id: 06c26572-40ba-416c-9f67-ab3bb1df7d02
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Js.Iclickfix.
+date: 2026-06-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.js.iclickfix
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'cdnpro-987.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

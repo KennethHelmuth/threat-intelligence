@@ -1,0 +1,30 @@
+title: Network Connection to Elf.Tsunami Infrastructure
+id: 6c93e080-bdd5-490c-bb3c-fdc89b83d4db
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Tsunami.
+date: 2026-06-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - boyzee
+    - c2
+    - malware.elf.tsunami
+    - phoenix
+    - phoenix-c2
+    - ssh
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '194.238.26.34'
+        - '87.249.134.3'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

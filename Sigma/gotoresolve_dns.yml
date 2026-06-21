@@ -1,0 +1,46 @@
+title: DNS Query to Gotoresolve Domains
+id: bcf4afcd-ff22-4522-87d9-df5c69661248
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Gotoresolve.
+date: 2026-06-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-assisted
+    - credential theft
+    - cryptocurrency fraud
+    - gotoresolve
+    - information operation
+    - jailbroken gemini
+    - maga community
+    - malware.gotoresolve
+    - qanon targeting
+    - telegram channel
+    - wordpress compromise
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'indus.exchange'
+        - 'induspayments.com'
+        - 'vebrf.digital'
+        - 'indusx.tech'
+        - 'bpfi.digital'
+        - 'dzbank.capital'
+        - 'tralalarkefe.com'
+        - 'c2.tralalarkefe.com'
+        - 'catchall1.tralalarkefe.com'
+        - 'docs.bpfi.digital'
+        - 'payloads.tralalarkefe.com'
+        - 'security.bpfi.digital'
+        - 'www.bpfi.digital'
+        - 'www.dzbank.capital'
+        - 'www.indusx.tech'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

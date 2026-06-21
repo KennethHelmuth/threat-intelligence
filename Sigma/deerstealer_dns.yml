@@ -1,0 +1,61 @@
+title: DNS Query to Deerstealer Domains
+id: 98b23514-691a-4015-a480-1f896b4d0f5b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Deerstealer.
+date: 2026-06-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Base64 obfuscation
+    - ClickFix
+    - DeerStealer
+    - InfoStealer
+    - PowerShell
+    - Vidar
+    - XOR encryption
+    - fake CAPTCHA
+    - fileless execution
+    - malware.deerstealer
+    - server-side polymorphism
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'www.fidestrento.com'
+        - 'kiitec.ac.tz'
+        - 'aqarco.com'
+        - 'game-corp.net'
+        - 'pickleballmastery.com'
+        - 'itechhardware.com'
+        - 'shadesking.com'
+        - 'mlm-dra.com'
+        - 'dynastyroofingfl.com'
+        - 'foodturerebels.com'
+        - 'sanramontaxis.com'
+        - 'mobilepricesbot.com'
+        - 'aikomart.com'
+        - 'artillac.com'
+        - 'royalkimons.com'
+        - 'youthupglobal.com'
+        - 'terabyte.computer'
+        - 'rabbleallied.com'
+        - 'davisonbooks.com'
+        - 'ranklinko.com'
+        - 'thistrending.com'
+        - 'afroteaonline.com'
+        - 'regardfengshui.com'
+        - 'antimids.com'
+        - 'ladywear.net'
+        - 'waltonpalmeronline.com'
+        - 'octawolf.com'
+        - 'plan1pmc.com'
+        - 'rak-lok.com'
+        - 'matiasbayma.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
