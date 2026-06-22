@@ -1,0 +1,33 @@
+title: DNS Query to Win.5T Downloader Domains
+id: e1574778-36f6-4e26-b8cc-389383479723
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.5T Downloader.
+date: 2026-06-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - gaea-operations
+    - malware
+    - malware.win.5t_downloader
+    - phishing
+    - scams
+    - stefan-himmelskamp
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'filehost.sbs'
+        - 'generate920da4.host94p.cfd'
+        - 'fluffle.cc'
+        - 'gaeaoperations.com'
+        - 'ranoz.gg'
+        - 'lockr.so'
+        - 'paster.so'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

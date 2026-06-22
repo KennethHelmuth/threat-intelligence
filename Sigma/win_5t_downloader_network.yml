@@ -1,0 +1,35 @@
+title: Network Connection to Win.5T Downloader Infrastructure
+id: ac509254-f2a0-4470-895c-3bddbae52786
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.5T Downloader.
+date: 2026-06-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - gaea-operations
+    - malware
+    - malware.win.5t_downloader
+    - phishing
+    - scams
+    - stefan-himmelskamp
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'filehost.sbs'
+        - 'generate920da4.host94p.cfd'
+        - 'fluffle.cc'
+        - 'gaeaoperations.com'
+        - 'ranoz.gg'
+        - 'lockr.so'
+        - 'paster.so'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

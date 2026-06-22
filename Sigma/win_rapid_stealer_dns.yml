@@ -1,0 +1,23 @@
+title: DNS Query to Win.Rapid Stealer Domains
+id: 5217d2f5-671c-4660-a7f7-0e9ee3a206d9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Rapid Stealer.
+date: 2026-06-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RapidStealer
+    - malware.win.rapid_stealer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'cdn.privatefile.host'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,53 @@
+title: DNS Query to Powercloud Domains
+id: 60a11bb6-b9de-40a8-b452-0c03cea14079
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Powercloud.
+date: 2026-06-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cloud atlas
+    - malware.powercloud
+    - netsupport rat
+    - phantomheart
+    - powercloud
+    - powershower
+    - reversesocks
+    - valleyrat
+    - vbcloud
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'allgoodsdirect.com.au'
+        - 'istochnik.org'
+        - 'onedrivesupport.net'
+        - 'agenciakharis.com.br'
+        - 'alnakhlah.com.sa'
+        - 'amerikastaj.com'
+        - 'bigbang.me'
+        - 'cloudguide.in'
+        - 'fishingflytackle.com'
+        - 'goverru.com'
+        - 'humanitas.si'
+        - 'internationalcommoditiesllc.com'
+        - 'investika-club.com'
+        - 'kufar.org'
+        - 'lafortunaitalian.co.uk'
+        - 'landscapeuganda.com'
+        - 'mamurjor.com'
+        - 'spbnews.net'
+        - 'tenkoff.org'
+        - 'totallegacy.org'
+        - 'ultimatecore.net'
+        - 'wizzifi.com'
+        - 'znews.net'
+        - 'firsai.tipshub.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

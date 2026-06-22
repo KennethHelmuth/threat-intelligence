@@ -1,0 +1,55 @@
+title: Network Connection to Powercloud Infrastructure
+id: 13936123-8b70-4d4c-ae7f-2a930b649ecc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Powercloud.
+date: 2026-06-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cloud atlas
+    - malware.powercloud
+    - netsupport rat
+    - phantomheart
+    - powercloud
+    - powershower
+    - reversesocks
+    - valleyrat
+    - vbcloud
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'allgoodsdirect.com.au'
+        - 'istochnik.org'
+        - 'onedrivesupport.net'
+        - 'agenciakharis.com.br'
+        - 'alnakhlah.com.sa'
+        - 'amerikastaj.com'
+        - 'bigbang.me'
+        - 'cloudguide.in'
+        - 'fishingflytackle.com'
+        - 'goverru.com'
+        - 'humanitas.si'
+        - 'internationalcommoditiesllc.com'
+        - 'investika-club.com'
+        - 'kufar.org'
+        - 'lafortunaitalian.co.uk'
+        - 'landscapeuganda.com'
+        - 'mamurjor.com'
+        - 'spbnews.net'
+        - 'tenkoff.org'
+        - 'totallegacy.org'
+        - 'ultimatecore.net'
+        - 'wizzifi.com'
+        - 'znews.net'
+        - 'firsai.tipshub.net'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1061,3 +1061,104 @@ ea1c409fdcb6dca6751c443aeed13441	OTX	2026-05-21	family=GoToResolve | pulse='One 
 9bf39391f9c0ce989ee53c02170d7885c6c23798	OTX	2026-05-21	family=GoToResolve | pulse='One Man, One AI, One Fake Persona: Inside the 5-Year Influence and Fraud 'Patriot Bait' Campaign' pulse_id=6a0f8f3596d6a5268e168a10
 981036cec38c6fd9796fc64a102100b97983f56b3482cc3e1f1610e14a1fae58	OTX	2026-05-21	family=GoToResolve | pulse='One Man, One AI, One Fake Persona: Inside the 5-Year Influence and Fraud 'Patriot Bait' Campaign' pulse_id=6a0f8f3596d6a5268e168a10
 f918535f974591ef031bd0f30a8171e3da27a6754e6426a8ba095f83195661c8	OTX	2026-05-21	family=The Gentlemen | pulse='The Gentleman Ransomware | Defense Evasion TTPs Uncovered' pulse_id=6a0f8f34dd916c38a643df30
+2b9747c1655337738c7fd6ebfbb066e8	ThreatFox	2026-06-21	family=win.meterpreter | confidence=95% threat=payload
+ecf36149156698c531615c8d553d6588dc48b2befe47ca1a7339f194daebfe08	ThreatFox	2026-06-21	family=win.meterpreter | confidence=95% threat=payload
+da8477a03bf4c8f4926c2cfe25e52afb	ThreatFox	2026-06-21	family=win.meterpreter | confidence=95% threat=payload
+7fe76ccceaec33d07e90e96ac144be83ed622c8af8b134d7429020e476cf4716	ThreatFox	2026-06-21	family=win.meterpreter | confidence=95% threat=payload
+6a31b6cc74d3377af554b9176ee6ad15	ThreatFox	2026-06-21	family=win.netwire | confidence=95% threat=payload
+ff7ef7b89256ee681d76c7369f4619003e0e77f5e32fa0e18a09ae45a8e98843	ThreatFox	2026-06-21	family=win.netwire | confidence=95% threat=payload
+1c95b93ed0c018ade4980f117b031f23	ThreatFox	2026-06-21	family=win.valley_rat | confidence=95% threat=payload
+2f13ce2e5e573efd9363188cef289860	ThreatFox	2026-06-21	family=win.stealc | confidence=95% threat=payload
+a1bebf922ec25ea218d165605716c37a5536b2b046fef5462b057594297db2ff	ThreatFox	2026-06-21	family=win.valley_rat | confidence=95% threat=payload
+1ce931d621b70d14bdc90b5dcb8dc8cfce60e027f60eb2ff895c60efeb8ffbe7	ThreatFox	2026-06-21	family=py.stealler | confidence=95% threat=payload
+1dea9bcf5ed297e9803b91e6b75fd3f3	ThreatFox	2026-06-21	family=py.stealler | confidence=95% threat=payload
+ce00a84a546cf51d9428350aa1929c8999a4c48de5d7e53372f4faca22cbaf2e	ThreatFox	2026-06-21	family=win.stealc | confidence=95% threat=payload
+526ae427fececcdfb7d231d95a3a4f3ffa83c130ed5d58192daad06510f4ee69	ThreatFox	2026-06-21	family=py.venus_stealer | confidence=95% threat=payload
+d45dad3c505e89ac54acb6dbc86ec41e	ThreatFox	2026-06-21	family=py.venus_stealer | confidence=95% threat=payload
+d0541c8b7fd74b0f5dfeae5efa574216	ThreatFox	2026-06-21	family=py.stealler | confidence=95% threat=payload
+0e6902640affe9ac58c39d52046a073741b8e77a6ad29137bdeb6f8cf8222964	ThreatFox	2026-06-21	family=py.venus_stealer | confidence=95% threat=payload
+71682679387d5f8e8d1540e77b1b8d61	ThreatFox	2026-06-21	family=py.venus_stealer | confidence=95% threat=payload
+062a5e59925595038bb7522dc3d16250	ThreatFox	2026-06-21	family=win.vidar | confidence=95% threat=payload
+c06c3002302f47202884762c57982d86718ba4500699e9ef37d5cd513c6e8bf8	ThreatFox	2026-06-21	family=py.stealler | confidence=95% threat=payload
+1b37fb289ad1e3da62510caf740de1ce	ThreatFox	2026-06-21	family=win.asyncrat | confidence=95% threat=payload
+a78dfed1650aef00f19f9b86d529d42500cb2202923169692a789bb7f3bb402b	ThreatFox	2026-06-21	family=win.vidar | confidence=95% threat=payload
+2ed805decde82a5dba7cb9210d0b76ac	ThreatFox	2026-06-21	family=win.coinminer | confidence=95% threat=payload
+c9eadf5f3be0996c41ad4c42f7bf530b74d8682ac630cea018dd0edefa07d4ea	ThreatFox	2026-06-21	family=win.asyncrat | confidence=95% threat=payload
+7408473f668d0e3563d8755b17fdf638	ThreatFox	2026-06-21	family=win.coinminer | confidence=95% threat=payload
+52764c8c74bc2ec19138f7bbaaeb30fc24f5384709409e756f3edb03848c67bb	ThreatFox	2026-06-21	family=win.coinminer | confidence=95% threat=payload
+d135ddfe09f72f009766f84ff20adc24162c9656782ba77ca247783757e46b94	MalwareBazaar	2026-06-22	family=Prometei | filetype=elf md5=c4e975ef56c7a94c4201b559f429345e sha1=d566539d48c058526f35c0ff809605fe8f2f459c
+9d88938e65802ec240969c1a290e493fe8381c225375082785877da2b1244198	MalwareBazaar	2026-06-22	family=Mirai | filetype=elf md5=e70f8cd6f50650e5ba55e3ef22ddf504 sha1=7c7857e2deb01968fe634aa2085a820d7663e3ce
+3c685414f77a1f913c1cf41c95c1bf74c067687366be3d451db9b4dd1b1631dd	MalwareBazaar	2026-06-22	family=Mirai | filetype=elf md5=ebe31d53fe27dc0a0981a772d397410e sha1=d41306b4b0d37f8376ddcfdeffebedfc888aeff8
+0320dd389fdbab25d46792bd2817675e	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+0577db70844e88b32b954906e2f20798	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+0857c84b62289a1a9f29e19244e9a499	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+097ca205ad9e3b72018750280904718c	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+0c514e137860f489e3801213460ef938	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+116f59e70a9df97f4adaea71eecb1e9a	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+1a11b26dd0261ef27a112ce8b361c247	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+1b39e86eb772a0e40060b672b7f574f1	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+1d401d6e6fc0b00aaa2c65a0ac0cfd6b	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+2042eb5d52f0b535a1ce6b6f954c8c2b	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+216cb7f31d383c0dd892b284df05a495	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+25c8ed0511375dca57ef136ac3fa0cca	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+28ecf8fb6719e14231b94b4d37629b0e	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+2aa1e9765ef6b00b94a9b6be0041436a	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+2b4ba4facf8c299749771a3a4369782e	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+2cabb721681455dae1b6a26709def453	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+344ca9ea07cd4ac90ef27f8890d4ec05	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+36120f5e9411bcbac7104ef3fa964ed2	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+369b75bdcded16469ede7ab8bedcfae1	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+38fa4306fa4406ba31cf171af4d36e34	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+3c75cedb1196df5eab91f31411ed4b33	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+3e6e9df00a764b348ec611ee8504aca0	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+40a562b8600f843b717bc5951b2e3c29	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+42ac350bfbc5b4eb0fedba16c81919c7	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+493b901d1b33eb577db64aadd948f9ce	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+5000a353399500bc78381dc95b6ed2dc	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+50568b1f9335a7e3ba4e5df035a8fb86	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+51f7f794ed43fb90d0f8ebbb5effe628	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+5329f7bff9d0d5db28821b86c26d628f	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+5339d1a666f3e40fe756505cf1d87d4b	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+579a9952d31cad801a3988dbe7914ce7	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+63b6be9ae8d8024a40b200cccb438f1d	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+67d7e3aeeb673bf60c59361c12a4ed81	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+69121c36eb8bf77962dca825fcffd873	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+6aa586bcc45ca2e92a4f0ef47e086fa1	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+6d7b2d1172bbdb7340972d844f6f0717	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+7242ac065b50bcde9308756b49dbadcb	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+7a95360b7e0eb5b107a3d231abbc541a	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+7f776ad200287d6de14a29158c457179	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+8158552950d2e13b075001ce0c52aa97	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+83edde9f7eeefac0363413972f35572b	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+867b634588c0fd6b26684d502c15ab03	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+89572f0ed20791a5ac9fc4267d67ccb0	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+9769f43b9de8d19e803263267fa6d62e	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+9bd788f285e32a05e6591d1eb36ebffc	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+9eaae9491f6a50d6df0be393734a44cb	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+a632858f14b36f03d0f213f5f5d6bff2	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+a75dbed984963b9ab21309c5b2f8fd9b	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+b4e183627b7399006c1bc47b3711e419	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+b6aae073e7bfebf4d643c2bbeb5c02e1	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+b8c753dd254509fba5077ffd5067eab0	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+ba9ce06641067742f2afc9691faff1dc	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+bbf1fa694122e07635deeac11ad712f8	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+bc3739dec8cd8f54f3f60a85f3ed600e	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+c0d1eaa15a2cefbab9735787575c8d8e	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+c5702eb250f855c8c872fffb9bb656ed	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+cc751619bfec0dc4607c17112b9e3b2c	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+d3c8afd22baa306ff659db1fac28574a	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+d5b38b252cf212a4a32763de36732d40	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+eba3bcdb19a7e256bf8e2cc5b9c1cca9	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+ec076cd21c483a40156f4e40d08daded	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+ed34f5a136fba4fdea976570faa33ed7	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+f301aa3d62b5095eec4d8e34201a4769	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+f42085522ec2ebb16edcf814e7c330ad	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+f56b31a4b47ad3365b18a7e922fba1a8	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+f6f62456fb0fcc396fb654cbed339bc3	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+f721a76deb28fd0b80d27fce6b8f5016	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+f9c3bbe108566d1a6b070f9c5fb03160	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+fb0f8027acf1b1e47e07a63d8812ed50	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+51eed154b4cd5e949a709a26da673d925cabe1be	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+a1e11a22eb07047a94de9a59a589178cbc78e1da	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+6544aa44dfdd5e6c4985155af83a6b8884a23e2d4c9b71a66ee1fe8ebf66a2b4	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+88dc7beba703964cccb84225c7243cd43a28694fb031a42240b0e56894e7a9c9	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
