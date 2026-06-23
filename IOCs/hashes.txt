@@ -1162,3 +1162,218 @@ fb0f8027acf1b1e47e07a63d8812ed50	OTX	2026-05-22	family=PowerCloud | pulse='Cloud
 a1e11a22eb07047a94de9a59a589178cbc78e1da	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
 6544aa44dfdd5e6c4985155af83a6b8884a23e2d4c9b71a66ee1fe8ebf66a2b4	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
 88dc7beba703964cccb84225c7243cd43a28694fb031a42240b0e56894e7a9c9	OTX	2026-05-22	family=PowerCloud | pulse='Cloud Atlas activity in the second half of 2025 and early 2026: new tools and a new payload' pulse_id=6a105530af26afbd3752ab81
+665e50b3ccf388f8fd9360e4d41bca52edf7defb5d6d8804865e517f5db2cb46	ThreatFox	2026-06-22	family=unknown | confidence=100% threat=payload | vt=30/73
+33d22eaea23e98d0fafcf41bd525011923bb708f08efb9a838e4cd4b2f6be2e7	MalwareBazaar	2026-06-23	filetype=elf md5=f0826fa3c93c089fb67eb9ccc17b2f4b sha1=0df257baefa9bc23d6f8e4896aaa7e4d89182b40 | vt=26/73
+81c6b50efe5c39ba960e8d85ce96ed421b4e31c4e0901ad7d295570ac941f5c4	MalwareBazaar	2026-06-23	filetype=sh md5=1865fee9530043da7871f7c02fc42d3b sha1=01e0521ab67c9ccfe1fa05f843c0c8036408d786 | vt=16/73
+57a73c0f63198651cc6356136ecd0a31d47dbe8268af03ab35e81ec98e737bc4	MalwareBazaar	2026-06-23	filetype=sh md5=f61199cc9fb7b584aa8246b945717e80 sha1=4ce75484a6d97058e9f57b10e145164ce3af349a | vt=16/73
+40ad28b87b5ed395fe8ff303555cc28974682ed6cc5a71ede76c4b17648cb8ed	ThreatFox	2026-06-22	family=sh.kv | confidence=100% threat=payload
+28a23ab78739de674f94d9acadfe0709862c2b2d947e9051b200a24d3f9f45c4	ThreatFox	2026-06-22	family=sh.kv | confidence=100% threat=payload
+d1414803a83b1ba260e3e1be742379eccbb806f987ec1e7c0bc5399e4971a58f	ThreatFox	2026-06-22	family=sh.kv | confidence=100% threat=payload
+03c4667f016f1e8441177639d87f77a59f32d2c7e0041616376967338667bd3b	ThreatFox	2026-06-22	family=sh.kv | confidence=100% threat=payload
+1e0da906811b570c4134ade310c3a94631d4b308d27b616497266b49aae2ad0a	ThreatFox	2026-06-22	family=sh.kv | confidence=100% threat=payload
+d62055910cd579ff1fb57bd1926c5b2e80e1677f0316737b2f733f86b01615dc	ThreatFox	2026-06-22	family=sh.kv | confidence=100% threat=payload
+96ecc107aa645e36b5f939ebfcf9e61fc9ebc27616680fbd0fdeb41c7950d79a	ThreatFox	2026-06-22	family=sh.kv | confidence=100% threat=payload
+6d80382d125cb0253ef827c7da1054c30b1097511b4d538c15463a8ccab4772c	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+10c0804818712c05c2a972f6fd64f86f	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+2da9b1748b6154c69b6dcbbf09ec91d0	ThreatFox	2026-06-22	family=py.venus_stealer | confidence=95% threat=payload
+8eae6ca0380279f0c047e6b5d49808db591f9e14d106226017eaae62b79c1a10	ThreatFox	2026-06-22	family=win.ghost_rat | confidence=95% threat=payload
+da26a2729ed04d876c8e9c55175ffc2f	ThreatFox	2026-06-22	family=win.ghost_rat | confidence=95% threat=payload
+a99bb6e07b5f1b469ecd1a75f16f8a40	ThreatFox	2026-06-22	family=win.asyncrat | confidence=95% threat=payload
+5d641dcf1b0dae4f248a3037e4f50a9fe20a9a313210e0bf0f759153eecac9ce	ThreatFox	2026-06-22	family=py.venus_stealer | confidence=95% threat=payload
+4b9dda8347383b785cbedba3c0a78e09	ThreatFox	2026-06-22	family=win.nanocore | confidence=95% threat=payload
+5f28fc0de30c2301ae8d82e8420df587a5bca6451bbaea053aa2ef48217b2081	ThreatFox	2026-06-22	family=win.asyncrat | confidence=95% threat=payload
+0c8d700f7a519da0160feeeb10ba3f67	ThreatFox	2026-06-22	family=win.nanocore | confidence=95% threat=payload
+a41acf294032b38643e10298f66ef056bdcc41f02545f4e71ec20463450d9def	ThreatFox	2026-06-22	family=win.nanocore | confidence=95% threat=payload
+0dd679f8d2624c0326d358479e664735	ThreatFox	2026-06-22	family=apk.facestealer | confidence=95% threat=payload
+57221740ae61a5958921f73b0f14e2ee2d4af79629139f935ac828f325ce5786	ThreatFox	2026-06-22	family=win.nanocore | confidence=95% threat=payload
+16e842400bbf74db1315b2ec3697cbcc	ThreatFox	2026-06-22	family=py.stealler | confidence=95% threat=payload
+e3f43bc77fa2ef74946abc231c0980543aa8fb54901dfa23ade201e886a27672	ThreatFox	2026-06-22	family=apk.facestealer | confidence=95% threat=payload
+c76ecf8d8dc484a7cbfc0b43e286e97a	ThreatFox	2026-06-22	family=win.dostealer | confidence=95% threat=payload
+5c516974cba2aaaee4da889f153f7ae078caf833b31eb6366bd9f8c20f956e76	ThreatFox	2026-06-22	family=py.stealler | confidence=95% threat=payload
+0acfe0a8740e071874d3b0789ed5cd30	ThreatFox	2026-06-22	family=win.luca_stealer | confidence=95% threat=payload
+68b472722874374a6132ce1ec9470b14b7030030602d740fd5038d6560264c68	ThreatFox	2026-06-22	family=win.dostealer | confidence=95% threat=payload
+23a0877a9493286fda03edf640df32f1	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+817ac7a4ee5b546a812b129c9b9cfbb4581988bd95ac3e2a32a83b82f1bf430c	ThreatFox	2026-06-22	family=win.luca_stealer | confidence=95% threat=payload
+3b2a2777cead3c4981d4b2106c1ec4b4	ThreatFox	2026-06-22	family=js.ghostblade | confidence=95% threat=payload
+b460a840b07530fec4e32c46b6d945def5e9d6afa3b1e2004463272d7b25c3a5	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+ecaedc68c09154f9e97673d84d1860d5755828182a42f6aab64ab3766ce47396	ThreatFox	2026-06-22	family=js.ghostblade | confidence=95% threat=payload
+4b1fd32206aa2831edead99efe88549a	ThreatFox	2026-06-22	family=js.ghostblade | confidence=95% threat=payload
+be4bb2ea6fc6959cdeb63238018761be56adb2d1e69e7c3d3340272187198b5d	ThreatFox	2026-06-22	family=js.ghostblade | confidence=95% threat=payload
+61269eca1d774d5e3bc5fb9445de05bb7b0f9057876a9ef7779ecd5ca1582acc	ThreatFox	2026-06-22	family=py.venus_stealer | confidence=95% threat=payload
+4f8186a34c9b0580111641749d875faa	ThreatFox	2026-06-22	family=py.venus_stealer | confidence=95% threat=payload
+1277eba7151e5cd202713bd63622050f291a3448289f1ee636d49c42ee9ed1e2	ThreatFox	2026-06-22	family=win.phantom_stealer | confidence=95% threat=payload
+059288a7f75595dbbdb7712e9c493fea	ThreatFox	2026-06-22	family=win.phantom_stealer | confidence=95% threat=payload
+a44ec3a4e3c5a2076d2bcf75bebd01f2e596bdca44dbfec85ebfb933b7a8d865	ThreatFox	2026-06-22	family=py.venus_stealer | confidence=95% threat=payload
+50d5cbf38b67eab98eca1e7cdc81b72e	ThreatFox	2026-06-22	family=py.venus_stealer | confidence=95% threat=payload
+e7b999184fe1dd10a5018bfe049ba961059df4b3e826393bb7886abb82956b80	ThreatFox	2026-06-22	family=py.venus_stealer | confidence=95% threat=payload
+5154b86d4eae71012e4ab8c076fc36b7	ThreatFox	2026-06-22	family=py.venus_stealer | confidence=95% threat=payload
+4d802f691eb285fd3ff09083250000c9237ef62c008d7123a6d91486d8f4ac41	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+553edf1f5bc2f3c36b5d49070e07a3df	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+96e5117b89a7f3b20cea680ebd4fe453715f4022a2cdca394b5a2c23aabe2361	ThreatFox	2026-06-22	family=win.valley_rat | confidence=95% threat=payload
+b06380cb28347af4fc2c5e294fc779c3	ThreatFox	2026-06-22	family=win.valley_rat | confidence=95% threat=payload
+6a00edc93f4bd49d200b2fc49e4f63d2	ThreatFox	2026-06-22	family=py.venus_stealer | confidence=95% threat=payload
+6bdcd7a0d5c1bb109552844edebdf4b4	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+a2df0c26bf1a5292ce5d4a2f2a41397478090da65f80d10902be6ef2c6b50faf	ThreatFox	2026-06-22	family=py.venus_stealer | confidence=95% threat=payload
+8d7e1b9d461f8a1557062786174d2d74	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+574cebd5ea2acb459274679dc5411d805e1a20c4c79c111450befd038819c4c7	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+ba3281bb9c624619a22b1e506f23fe46	ThreatFox	2026-06-22	family=win.luca_stealer | confidence=95% threat=payload
+c9f77f2a7cae28d3a7bf48b365f284d3189ad6c57d66145a22c8371110da2081	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+be0afa6b88f180fca9fbef78a4206283	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+060618b911a7022394c88e195aa477157d366363f76ed4b86f0cc3b635908cc3	ThreatFox	2026-06-22	family=win.luca_stealer | confidence=95% threat=payload
+dd9e5a8ef764babeb49e5a4154bea186	ThreatFox	2026-06-22	family=win.salatstealer | confidence=95% threat=payload
+2172b92bf5a298d1d99dd4f827c581fb86a3f81dac4f8d64394f507a7116b386	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+572ee6e985c588c4a66fe7d5ab13ae05	ThreatFox	2026-06-22	family=jar.crossrat | confidence=95% threat=payload
+57ee90250da5f51dc59d2e189bbedd0e2c1dba097a766e5bab903288686322dd	ThreatFox	2026-06-22	family=win.salatstealer | confidence=95% threat=payload
+d58139c7219be351d742a21fc35150702bae9ac2023a7086620521f1721f2c49	ThreatFox	2026-06-22	family=win.darktortilla | confidence=95% threat=payload
+52fdfdac4eb28cc5f0f709de00c1e527	ThreatFox	2026-06-22	family=win.darktortilla | confidence=95% threat=payload
+2e4845a187fa3a02cac09ca22d314d3f924c8bf63bf877d23e8645f7bac8cf55	ThreatFox	2026-06-22	family=jar.crossrat | confidence=95% threat=payload
+d45bdfaf72211e28cdb9566151db2cfbd98d27df680582e795b2a79e0d0044ae	ThreatFox	2026-06-22	family=win.darktortilla | confidence=95% threat=payload
+f17e14678bfb1475eefa43dcb91a8cad	ThreatFox	2026-06-22	family=win.darktortilla | confidence=95% threat=payload
+72e855025d02c02fa90b0ee9296d8a59a6c008dff1b70682b58474a8183836b5	ThreatFox	2026-06-22	family=win.guidloader | confidence=95% threat=payload
+09406d8c037ab49a52afe0e1d6d0eaf9	ThreatFox	2026-06-22	family=win.guidloader | confidence=95% threat=payload
+c1b8f7f2093c2131b450a051d130c545f2fa5ceb44c6176204ef0b1f474d6c65	ThreatFox	2026-06-22	family=win.salatstealer | confidence=95% threat=payload
+52655a6db617f3bbf385564a47d783d9	ThreatFox	2026-06-22	family=win.salatstealer | confidence=95% threat=payload
+bd9d6c8361b4d9ab9cf22f177273ca03	ThreatFox	2026-06-22	family=win.agent_tesla | confidence=95% threat=payload
+97e7c70270a2522d212ad556382d97477dba6730dccd421230a9f36cb97aa9ca	ThreatFox	2026-06-22	family=win.guidloader | confidence=95% threat=payload
+a9b33292b46c7536a34f812d16aae9fa	ThreatFox	2026-06-22	family=win.guidloader | confidence=95% threat=payload
+ab525145e57509b5284bfafcf339ad45	ThreatFox	2026-06-22	family=win.phantom_stealer | confidence=95% threat=payload
+2009c2095160ce4c016855f7af23529a143e7533a5624b60f4dbc277ae9a7bbf	ThreatFox	2026-06-22	family=win.agent_tesla | confidence=95% threat=payload
+482dbba4f2559fa2ee3666e4d35e9d67	ThreatFox	2026-06-22	family=win.coinminer | confidence=95% threat=payload
+c8b4ce8bd2ae8e48dc2ab2d322faca65c673312dfa22751877e97426cb7b760e	ThreatFox	2026-06-22	family=win.phantom_stealer | confidence=95% threat=payload
+81e00f65b86f0db0754b5d851631dfb0	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+9b0fb92deed4eca6da96d3a1c99c2a806c47865c08ed36ea361e9d5361c09a66	ThreatFox	2026-06-22	family=win.coinminer | confidence=95% threat=payload
+82fa0aa7387d7173c9a9ebd1e8dcbb84	ThreatFox	2026-06-22	family=win.cobalt_strike | confidence=95% threat=payload
+d3edc0c8ca141d1a7e1f93f4d727f92e0e63bba43cac95723d9a20467e790296	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+7e1435b42bd584c4edeaa1fc4055de16e99c5242e0a9d0e24b5a677e1c356563	ThreatFox	2026-06-22	family=win.cobalt_strike | confidence=95% threat=payload
+9d16b4e2e2852fde0a55f2075f9d0a40618eaff06634d947668d5b6f586d5293	ThreatFox	2026-06-22	family=win.formbook | confidence=95% threat=payload
+12b7a66e1314a078c3ff4e6b486b1cbb	ThreatFox	2026-06-22	family=win.formbook | confidence=95% threat=payload
+28fb3127d5e68e4436fc9c8c83556f41d9f644df94157d1f99ae00288b9572cb	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+86db7353d79a3b44770de794d76c7f6b	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+50f80b086aac1820defd105200518c2f	ThreatFox	2026-06-22	family=win.agent_tesla | confidence=95% threat=payload
+44760ec58f066892b58f50330093213d3bfb0358d74f735010aaf54585712b34	ThreatFox	2026-06-22	family=win.asyncrat | confidence=95% threat=payload
+00a25c881533896a7fb5646f1411596a	ThreatFox	2026-06-22	family=win.asyncrat | confidence=95% threat=payload
+9b76d12f3786d918ffd01eefedd10026	ThreatFox	2026-06-22	family=win.agent_tesla | confidence=95% threat=payload
+99bee9c7498d8bbf660140795ad31220000a408d8234f58bed07939779ce0ed4	ThreatFox	2026-06-22	family=win.agent_tesla | confidence=95% threat=payload
+eb42e023cad8abcdd43a65d49846d15b	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+1d47d23590a3fa04729bb611f7b69356b47639667b83cdfe38eeee77e7f1601c	ThreatFox	2026-06-22	family=win.agent_tesla | confidence=95% threat=payload
+9fd222a83d7848f1aef9e43a885a89fd	ThreatFox	2026-06-22	family=win.coinminer | confidence=95% threat=payload
+af7d2b9b203041d11f70996168610b8b277fb6b0c06ef245d1db38dd81958095	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+343da20a5db5a3dcfff78d3ee853038b	ThreatFox	2026-06-22	family=win.coinminer | confidence=95% threat=payload
+789d88591e1400fad82e92ab9afcb8ee04b7671fa2ac19ae2fa70cbbf82757b3	ThreatFox	2026-06-22	family=win.coinminer | confidence=95% threat=payload
+f3321076596f3bf0f3cf48b50437c694b726e787d5703915bcb33bac49701551	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+adf6a14557d511c3e960b22c4e645b54	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+e350ca46f64afa440429285396c60ff2ac5c325996eed910832bd94c9f43c487	ThreatFox	2026-06-22	family=win.coinminer | confidence=95% threat=payload
+ff1860389f41deedf8b72f3cd4cf7b33584c0b329264bb58d1d62d0f6cda777d	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+7d8946ca862fe4a2cfe723f8583f4767	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+3ebaabe329226d8e7428bc1c4dcb9e3c	ThreatFox	2026-06-22	family=win.nanocore | confidence=95% threat=payload
+03ab8ad3d41ca487e715290a68e3f90d671f36ffeda8c12439d2d7c92880948e	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+05cacbb03802272dcc3e6747d79069fe	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+d337ba3b1ea0946b50973a01b66e2d9e26c6693109b6ac196a43ee6e20300e4b	ThreatFox	2026-06-22	family=win.nanocore | confidence=95% threat=payload
+409ad0799fe0b1ca3265d58f95eb13b7d56d6bad1f7346459fb02f772a3bf751	ThreatFox	2026-06-22	family=py.venus_stealer | confidence=95% threat=payload
+be2bc476dc6a18164b63ecc75e85cde8	ThreatFox	2026-06-22	family=py.venus_stealer | confidence=95% threat=payload
+098a3905a8bde664d46f9967e9c34770	ThreatFox	2026-06-22	family=py.creal_stealer | confidence=95% threat=payload
+85faf8edd9d7b2c78e1a8bddd0ead41b822adc0d4bb67bc1a5cda9a3e4ba9c5c	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+a604cd455d2e8c3d199753e13ed77d04	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+d9e0461524386292212444734e44619e	ThreatFox	2026-06-22	family=win.xworm | confidence=95% threat=payload
+3e982ec9ece55bc3e565186182caea369338d277c078f4380fe2258342ca4893	ThreatFox	2026-06-22	family=py.creal_stealer | confidence=95% threat=payload
+158b8af97dc35528e53d10e6ed9f6d62	ThreatFox	2026-06-22	family=win.salatstealer | confidence=95% threat=payload
+6a0bf1dba11b61b4b53e78ccb483a7aea4ec3cfa81d2e7f9de55376c9fdef7ec	ThreatFox	2026-06-22	family=win.xworm | confidence=95% threat=payload
+3f55e9b6542684cbe6ad853fc7a0c1df1b0e8de0a7c69fef131e93c82f3712ac	ThreatFox	2026-06-22	family=win.asyncrat | confidence=95% threat=payload
+9f21fda4eace55e9f759bbfb4d5799b0	ThreatFox	2026-06-22	family=win.asyncrat | confidence=95% threat=payload
+674295167707c56a258e7f8a55b34c12332793733ee86e23023af7fe099e16cc	ThreatFox	2026-06-22	family=win.salatstealer | confidence=95% threat=payload
+0b3e31bd2e94bb8db8ce5376c431c2912844d3e5f89226abae7ef6407888db59	ThreatFox	2026-06-22	family=win.netwire | confidence=95% threat=payload
+2312608a5b3968e154d49629cbb44f4a	ThreatFox	2026-06-22	family=win.netwire | confidence=95% threat=payload
+5061c681e8b516f877c426dd593f570cc8520d2411e842f9c236b6f555046bac	ThreatFox	2026-06-22	family=win.netwire | confidence=95% threat=payload
+58a8095bf4ef6402cd551425f63f51a7	ThreatFox	2026-06-22	family=win.netwire | confidence=95% threat=payload
+12b90ddb368ab4ffcc98171a59b8a19a07aeb6017b3ec08a06b3b1eecdd9fdd4	ThreatFox	2026-06-22	family=win.coinminer | confidence=95% threat=payload
+0c4f98399c7d35ad1158f92ee7043b3b	ThreatFox	2026-06-22	family=win.coinminer | confidence=95% threat=payload
+80ea7456faf8688b78fe1b82d534bc6251c70cddb9ec076225adac334ad988ca	ThreatFox	2026-06-22	family=win.netwire | confidence=95% threat=payload
+e4841bff2e9072bb045ef9f6d0643280	ThreatFox	2026-06-22	family=win.netwire | confidence=95% threat=payload
+0f89e6a8ca11c4e734b1bb205e264ae9	ThreatFox	2026-06-22	family=apk.clipper | confidence=95% threat=payload
+abb567030783490103cd3b5b5e075aaf5a4bb35379188fe8389317a5a514a9af	ThreatFox	2026-06-22	family=apk.clipper | confidence=95% threat=payload
+cb9ff4d0795d8248ae73f252acdca705	ThreatFox	2026-06-22	family=apk.clipper | confidence=95% threat=payload
+cee53ef94384940fbf12ca59041a55e2	ThreatFox	2026-06-22	family=win.netwire | confidence=95% threat=payload
+f3355943d1b279778879cbe6f036bd1b2f86b6e33ef1c4b1f4896a4e540b3593	ThreatFox	2026-06-22	family=apk.clipper | confidence=95% threat=payload
+71cb65bdb528dbde4338ae5db952d086	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+51117a84e36c6fb759d0478e09d94f7f919f244b7da9a068083f62fb1359827b	ThreatFox	2026-06-22	family=win.netwire | confidence=95% threat=payload
+a65959f323391321beba89312391a706	ThreatFox	2026-06-22	family=win.orcus_rat | confidence=95% threat=payload
+6b1cddee856444740634d7fb9cce065955d4855a564b11a63e8d1b83516822c7	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+c0f539f5c7b3b42359d1c56d864bfe7d	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+8208dedd51639c570af2d9fc3388cfb3320505618700a843a0d6544bee88dac0	ThreatFox	2026-06-22	family=win.orcus_rat | confidence=95% threat=payload
+a38e30fc95d2a59e32e381c5c36d7f3a8e874e53fb3f5c6e6ba5ea09fa0fe2a3	ThreatFox	2026-06-22	family=win.vidar | confidence=95% threat=payload
+286ab1c862a170f4ccdba9ee6b870445	ThreatFox	2026-06-22	family=win.orcus_rat | confidence=95% threat=payload
+833fa87f27753cce6db881c080475663	ThreatFox	2026-06-22	family=win.coinminer | confidence=95% threat=payload
+d41252ddc4fab7295681019cfb2f1c1e899e2f480c306bfad78b24c38165a807	ThreatFox	2026-06-22	family=win.orcus_rat | confidence=95% threat=payload
+c3d6b73e54ff4efd29651e46f751fe5b	ThreatFox	2026-06-22	family=win.valley_rat | confidence=95% threat=payload
+930070e90a3b037b5132ff7bd2c49899d3da39679e9ff377ef5d7e40ea57d39e	ThreatFox	2026-06-22	family=win.coinminer | confidence=95% threat=payload
+1277177e9e12414f50182a8bb5463a7a	ThreatFox	2026-06-22	family=jar.crossrat | confidence=95% threat=payload
+1859950b3f410ae37bf115ab107917f6af6313a598f76ddbb0225d9cc85518a5	ThreatFox	2026-06-22	family=win.valley_rat | confidence=95% threat=payload
+6735cd20825820a7065894676a056491	ThreatFox	2026-06-22	family=win.wannacryptor | confidence=95% threat=payload
+3832eea5221afb6554def361abd9abed7258c0916fc34ecbd19191131f462fba	ThreatFox	2026-06-22	family=jar.crossrat | confidence=95% threat=payload
+7b55a11d09462a48b0e2c2875edf253827f304ad28eaeb1553c7633b86e87807	ThreatFox	2026-06-22	family=win.wannacryptor | confidence=95% threat=payload
+f5a82fe28e7e9ec459f4c98470820f5be243cd3189b32d717a060d8b01629108	MalwareBazaar	2026-06-23	family=Mirai | filetype=elf md5=69c7008606002cb59bfd7661c57b8e48 sha1=b34cc80715be6555ee3f3b113ffe86819395dd72
+02bb20455cc592a69c080abac770ce90	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+31037a42ca048e06e69a78f55bc2eff5	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+887ec87e4a19759cad25d4bc0956d2b965d3041d	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+f0fde01b1e36503227252f6cb6b3b075f93a2c1a	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+452259dc297f56cf22c7932e8fbcefe821ef9c3127134074fae585f89355d397	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+50c74b468c217776b8890b841baefec8b196b14083a7873a9201c838a8e4c90a	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+05d188f071d097f5b6bd8138749b4b14	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+0ba93109757776a44de9d8c88baa4963	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+1a3cc75466ffb1971482f7abf7aabc3f	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+1c47c63e5ed25060d95359c57c77b107	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+1d94fbe9cab21278cc3f104bea334d08	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+20209b3a32769afc6a75694b8d8839dd	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+2c6f05f1f309d89b2236e6c8b59c88f9	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+3b1aba44dd3d9b6339b6f56e2f42034b	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+4044e4b6471c9de7b0a4ba37d9d9df9a	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+4f0593e8e0e8fac49429e9b45ebf7fa1	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+5002eca748205d544618e3bd2dedc223	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+5b6bbcc06cf08cc99e1afeda486d42fb	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+6359e6236471cbe434d0ef4c42b7f879	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+63ac85195b73753333316a889cf5880f	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+66442f2457eca8f47385b1fb2c6fcab8	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+66705384a7ad81d14c34fc6c054a0ecf	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+68c16c46f8afb9e00bbaba0207fb0a46	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+6c39900d77dcba158e1d27c7619cb06d	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+6fb6a55424adfb61e31f06aef33273e5	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+7403cbcc5a9c32384d431856dc48fcc9	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+74fd9f91fc93b6288b4fc253ea5b3e20	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+7849061c536a3efb05a56d504694e7e7	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+79ecd61b09b0f2d54b34586c916c4ec9	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+7f16449cd0c4862d1eadf8a5742bf09a	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+7f81c1bc8cfd588e8998968e2621456e	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+8c3322009b8982663c0cbecd9492e7eb	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+8c6d9fc389ad3f20ccbc71d77eb39bfa	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+993f4c0cadbc769a4b0ed62a918db58d	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+9d9ac85765e4a818a3ccabe2cf4fef82	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+9f13c7b8ba391b2f597874e54d310648	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+b7cd06c71465038b658a6dc1f273a507	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+c7f38cbb99c8b74fa0465293feeba700	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+d01cad98dd0d01b75e04e784953c5e2b	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+d06333c360b51456f427e616c3c5f8bd	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+d43fdaa1f0ee09d7e5f0f94ee9df7b6c	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+dad708e050632a4280cabf98ac1376b7	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+ddaffe9849f7f3c79f8804adb9a6b3d5	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+df4fa0369eaca5cec348be293890d4af	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+f90ed4b2d0b67114aa89ddfed658e5c0	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+8be8f6955de47d980c257ab5bc732cfbd0e23d99	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+01f1eb07125db5de0c2362afc777aa015f136feabd769628f01d01ac6472646c	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+5407cda7d3a75e7b1e030b1f33337a56f293578ffa8b3ae19c671051ed314290	OTX	2026-06-22	family=TxRLoader | pulse='3CXDesktopApp Intrusion Campaign Prevention' pulse_id=6a38d6259f636193112c9c1c
+59e1edf4d82fae4978e97512b0331b7eb21dd4b838b850ba46794d9c7a2c0983	OTX	2026-06-22	family=TxRLoader | pulse='3CXDesktopApp Intrusion Campaign Prevention' pulse_id=6a38d6259f636193112c9c1c
+92005051ae314d61074ed94a52e76b1c3e21e7f0e8c1d1fdd497a006ce45fa61	OTX	2026-06-22	family=TxRLoader | pulse='3CXDesktopApp Intrusion Campaign Prevention' pulse_id=6a38d6259f636193112c9c1c
+aa124a4b4df12b34e74ee7f6c683b2ebec4ce9a8edcf9be345823b4fdcf5d868	OTX	2026-06-22	family=TxRLoader | pulse='3CXDesktopApp Intrusion Campaign Prevention' pulse_id=6a38d6259f636193112c9c1c
+b86c695822013483fa4e2dfdf712c5ee777d7b99cbad8c2fa2274b133481eadb	OTX	2026-06-22	family=TxRLoader | pulse='3CXDesktopApp Intrusion Campaign Prevention' pulse_id=6a38d6259f636193112c9c1c
+dde03348075512796241389dfea5560c20a3d2a2eac95c894e7bbed5e85a0acc	OTX	2026-06-22	family=TxRLoader | pulse='3CXDesktopApp Intrusion Campaign Prevention' pulse_id=6a38d6259f636193112c9c1c
+e6bbc33815b9f20b0cf832d7401dd893fbc467c800728b5891336706da0dbcec	OTX	2026-06-22	family=TxRLoader | pulse='3CXDesktopApp Intrusion Campaign Prevention' pulse_id=6a38d6259f636193112c9c1c
+fad482ded2e25ce9e1dd3d3ecc3227af714bdfbbde04347dbc1b21d6a3670405	OTX	2026-06-22	family=TxRLoader | pulse='3CXDesktopApp Intrusion Campaign Prevention' pulse_id=6a38d6259f636193112c9c1c
+7986bbaee8940da11ce089383521ab420c443ab7b15ed42aed91fd31ce833896	OTX	2026-06-22	family=TxRLoader | pulse='3CXDesktopApp Intrusion Campaign Prevention' pulse_id=6a38d6259f636193112c9c1c
+8a5dadc5faf424df1e8a0efad023df81	OTX	2026-06-19	family=sim.py | pulse='Threat Actors Weaponizing RAR Archives to Target Thailand's Healthcare Sector' pulse_id=6a3551ceb394e391f2a341f1
+4a1a6ed11fd50b621659d7976899d050ba2e15d3	OTX	2026-06-19	family=sim.py | pulse='Threat Actors Weaponizing RAR Archives to Target Thailand's Healthcare Sector' pulse_id=6a3551ceb394e391f2a341f1
+442e0f4e822842922e7e4685840194e99fd68c7f0ec38c1925914b8f724d5865	OTX	2026-06-19	family=sim.py | pulse='Threat Actors Weaponizing RAR Archives to Target Thailand's Healthcare Sector' pulse_id=6a3551ceb394e391f2a341f1
+4eebc38297a307d18784d6f9ebc8aa6e6f69860be970cc70d9e544deb1ff6ce0	OTX	2026-06-19	family=sim.py | pulse='Threat Actors Weaponizing RAR Archives to Target Thailand's Healthcare Sector' pulse_id=6a3551ceb394e391f2a341f1
+523388567630e4fbdc359f75232bf2ad82671a680d4bfdce0237fc30dfec4c80	OTX	2026-06-19	family=sim.py | pulse='Threat Actors Weaponizing RAR Archives to Target Thailand's Healthcare Sector' pulse_id=6a3551ceb394e391f2a341f1
+74bb6ad7e1310f30a3e24fd3cbbffa2c0c41c64e89e5d0dd1d6900e96b914183	OTX	2026-06-19	family=sim.py | pulse='Threat Actors Weaponizing RAR Archives to Target Thailand's Healthcare Sector' pulse_id=6a3551ceb394e391f2a341f1
+7709d8c34d490509f3624104611eb75a862944dd9d7a642f44514ada16c85ee9	OTX	2026-06-19	family=sim.py | pulse='Threat Actors Weaponizing RAR Archives to Target Thailand's Healthcare Sector' pulse_id=6a3551ceb394e391f2a341f1
+e5f6d9d405819e6b05b5d8268a2e973294859ad65237ede36ab612b536d0ac2b	OTX	2026-06-19	family=sim.py | pulse='Threat Actors Weaponizing RAR Archives to Target Thailand's Healthcare Sector' pulse_id=6a3551ceb394e391f2a341f1
+f4d4b8cac004bb63834c6df436721babd9464c09787c80b268d839e0aada9f87	OTX	2026-06-19	family=sim.py | pulse='Threat Actors Weaponizing RAR Archives to Target Thailand's Healthcare Sector' pulse_id=6a3551ceb394e391f2a341f1

@@ -1,0 +1,27 @@
+title: Network Connection to Win.Pupy Infrastructure
+id: 4a317a64-8133-489f-9ca9-fc756a68e944
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Pupy.
+date: 2026-06-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RAT
+    - drb-ra
+    - malware.win.pupy
+    - pupyRat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '72.56.68.200'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

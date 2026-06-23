@@ -1,0 +1,25 @@
+title: DNS Query to Unknown Webinject Domains
+id: b96d194f-c8a0-4ffa-8947-8d247cfa6a91
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Unknown Webinject.
+date: 2026-06-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ClickFix
+    - FakeCaptcha
+    - etherhiding
+    - malware.unknown_webinject
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'findyoursoftupdate.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

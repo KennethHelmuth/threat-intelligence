@@ -1,0 +1,50 @@
+title: Network Connection to Txrloader Infrastructure
+id: 7c2b9f34-8ef2-478f-9882-46efe32778d0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Txrloader.
+date: 2026-06-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 3cxdesktopapp
+    - arcfeedloader
+    - labyrinth chollima
+    - malware.txrloader
+    - softphone
+    - supply chain attack
+    - trojanized installer
+    - txrloader
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'akamaicontainer.com'
+        - 'azureonlinecloud.com'
+        - 'officeaddons.com'
+        - 'akamaitechcloudservices.com'
+        - 'azuredeploystore.com'
+        - 'azureonlinestorage.com'
+        - 'dunamistrd.com'
+        - 'glcloudservice.com'
+        - 'journalide.org'
+        - 'msedgepackageinfo.com'
+        - 'msstorageazure.com'
+        - 'msstorageboxes.com'
+        - 'officestoragebox.com'
+        - 'pbxcloudeservices.com'
+        - 'pbxphonenetwork.com'
+        - 'pbxsources.com'
+        - 'qwepoi123098.com'
+        - 'sbmsa.wiki'
+        - 'visualstudiofactory.com'
+        - 'zacharryblogs.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1037,3 +1037,74 @@
 103.11.41.19:9233	ThreatFox	2026-06-21	family=win.remcos | confidence=75% threat=botnet_cc
 77.90.41.3:42457	ThreatFox	2026-06-21	family=win.rapid_stealer | confidence=100% threat=payload_delivery
 176.65.144.30:1337	ThreatFox	2026-06-21	family=win.netsupportmanager_rat | confidence=100% threat=botnet_cc
+52.128.224.238:9090	ThreatFox	2026-06-23	family=win.vshell | confidence=100% threat=botnet_cc
+52.128.224.238:9191	ThreatFox	2026-06-23	family=win.vshell | confidence=100% threat=botnet_cc
+121.4.76.54:8080	ThreatFox	2026-06-23	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+121.4.76.54:443	ThreatFox	2026-06-23	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+43.108.49.157:8080	ThreatFox	2026-06-23	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+43.108.49.157:443	ThreatFox	2026-06-23	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+43.108.49.157:80	ThreatFox	2026-06-23	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+62.234.22.228:51123	ThreatFox	2026-06-22	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+94.230.141.123:443	ThreatFox	2026-06-22	family=win.sliver | confidence=100% threat=botnet_cc
+217.92.214.15:443	ThreatFox	2026-06-22	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+218.252.234.243:443	ThreatFox	2026-06-22	family=win.sliver | confidence=100% threat=botnet_cc
+178.16.55.124:443	ThreatFox	2026-06-22	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+185.193.170.109:443	ThreatFox	2026-06-22	family=win.cobalt_strike | confidence=94% threat=botnet_cc
+185.89.141.70:8443	ThreatFox	2026-06-22	family=win.cobalt_strike | confidence=94% threat=botnet_cc
+185.89.60.74:443	ThreatFox	2026-06-22	family=win.cobalt_strike | confidence=94% threat=botnet_cc
+194.38.157.233:8443	ThreatFox	2026-06-22	family=win.cobalt_strike | confidence=93% threat=botnet_cc
+89.184.185.198:443	ThreatFox	2026-06-22	family=win.cobalt_strike | confidence=92% threat=botnet_cc
+185.156.66.165:443	ThreatFox	2026-06-22	family=win.cobalt_strike | confidence=86% threat=botnet_cc
+2.55.81.169:443	ThreatFox	2026-06-22	family=win.sliver | confidence=100% threat=botnet_cc
+45.138.135.27:8443	ThreatFox	2026-06-22	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+216.173.65.250:443	ThreatFox	2026-06-22	family=sh.kv | confidence=75% threat=botnet_cc
+194.14.217.88:443	ThreatFox	2026-06-22	family=sh.kv | confidence=75% threat=botnet_cc
+149.248.3.38:13339	ThreatFox	2026-06-22	family=sh.kv | confidence=75% threat=botnet_cc
+47.76.51.107:5678	ThreatFox	2026-06-22	family=win.valley_rat | confidence=75% threat=botnet_cc
+8.216.46.241:80	ThreatFox	2026-06-22	family=win.vshell | confidence=100% threat=botnet_cc
+67.225.189.140:8808	ThreatFox	2026-06-22	family=win.asyncrat | confidence=100% threat=botnet_cc
+42.193.15.237:9002	ThreatFox	2026-06-22	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+72.56.68.200:8443	ThreatFox	2026-06-22	family=win.pupy | confidence=75% threat=botnet_cc
+64.89.160.127:60859	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+217.60.195.194:14649	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+2.27.5.72:8015	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+185.115.164.59:50824	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+185.115.164.60:8455	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+150.40.117.39:4444	ThreatFox	2026-06-22	family=win.havoc | confidence=75% threat=botnet_cc
+107.173.9.99:14649	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+103.11.41.10:9428	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+103.11.41.19:5213	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+135.136.141.43:4449	ThreatFox	2026-06-22	family=unknown_rat | confidence=75% threat=botnet_cc
+94.26.106.34:4449	ThreatFox	2026-06-22	family=unknown_rat | confidence=75% threat=botnet_cc
+5.101.81.131:16614	ThreatFox	2026-06-22	family=unknown_rat | confidence=75% threat=botnet_cc
+38.240.51.74:7004	ThreatFox	2026-06-22	family=win.xworm | confidence=75% threat=botnet_cc
+85.11.167.17:2404	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+216.250.250.247:443	ThreatFox	2026-06-22	family=win.xworm | confidence=75% threat=botnet_cc
+104.239.66.178:7004	ThreatFox	2026-06-22	family=win.xworm | confidence=75% threat=botnet_cc
+147.124.218.109:8080	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+147.124.218.109:443	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+91.92.41.150:2404	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+193.104.58.63:1122	ThreatFox	2026-06-22	family=win.xworm | confidence=75% threat=botnet_cc
+216.250.253.127:2404	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+151.241.154.173:2404	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+158.94.211.172:7007	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+104.168.7.223:2404	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+102.220.160.244:2404	ThreatFox	2026-06-22	family=win.remcos | confidence=75% threat=botnet_cc
+67.216.197.83:8080	ThreatFox	2026-06-22	family=unknown | confidence=100% threat=botnet_cc
+67.216.197.83:443	ThreatFox	2026-06-22	family=unknown | confidence=100% threat=botnet_cc
+67.216.197.83:80	ThreatFox	2026-06-22	family=unknown | confidence=100% threat=botnet_cc
+67.216.197.83:60000	ThreatFox	2026-06-22	family=unknown | confidence=100% threat=botnet_cc
+212.34.130.122:2727	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+202.61.160.201	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+202.61.160.137	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+202.61.160.160	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+202.61.160.202	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+202.61.160.208	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+38.55.151.63	OTX	2026-06-22	family=ValleyRAT | pulse='An unknown actor distributes malicious VBS scripts via WhatsApp' pulse_id=6a3915eddc5c22f4421f124e
+85.11.187.8	OTX	2026-06-19	family=vpn compromise | pulse='Inside the FortiBleed Open Directory: A Technical Analysis of What the Attacker Left Behind' pulse_id=6a358eb86925d602f0cf5600
+175.155.64.221	OTX	2026-06-19	family=vpn compromise | pulse='Inside the FortiBleed Open Directory: A Technical Analysis of What the Attacker Left Behind' pulse_id=6a358eb86925d602f0cf5600
+185.229.26.83	OTX	2026-06-19	family=vpn compromise | pulse='Inside the FortiBleed Open Directory: A Technical Analysis of What the Attacker Left Behind' pulse_id=6a358eb86925d602f0cf5600
+198.53.64.194	OTX	2026-06-19	family=vpn compromise | pulse='Inside the FortiBleed Open Directory: A Technical Analysis of What the Attacker Left Behind' pulse_id=6a358eb86925d602f0cf5600
+213.169.49.142	OTX	2026-06-19	family=vpn compromise | pulse='Inside the FortiBleed Open Directory: A Technical Analysis of What the Attacker Left Behind' pulse_id=6a358eb86925d602f0cf5600
+38.117.87.37	OTX	2026-06-19	family=vpn compromise | pulse='Inside the FortiBleed Open Directory: A Technical Analysis of What the Attacker Left Behind' pulse_id=6a358eb86925d602f0cf5600
+85.11.187.28	OTX	2026-06-19	family=vpn compromise | pulse='Inside the FortiBleed Open Directory: A Technical Analysis of What the Attacker Left Behind' pulse_id=6a358eb86925d602f0cf5600

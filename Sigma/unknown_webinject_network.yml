@@ -1,0 +1,27 @@
+title: Network Connection to Unknown Webinject Infrastructure
+id: fa766dab-ac6c-4738-b8c6-f1c9619e7e1c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Unknown Webinject.
+date: 2026-06-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ClickFix
+    - FakeCaptcha
+    - etherhiding
+    - malware.unknown_webinject
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'findyoursoftupdate.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,38 @@
+title: Network Connection to Vpn Compromise Infrastructure
+id: 19f4910a-bf1a-465d-94a0-c507f72f7cf2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Vpn Compromise.
+date: 2026-06-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential harvesting
+    - fortibleed
+    - fortigate
+    - fortinet
+    - hash cracking
+    - hashtopolis
+    - initial access broker
+    - malware.vpn_compromise
+    - vpn compromise
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '85.11.187.8'
+        - '175.155.64.221'
+        - '185.229.26.83'
+        - '198.53.64.194'
+        - '213.169.49.142'
+        - '38.117.87.37'
+        - '85.11.187.28'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

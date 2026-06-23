@@ -1,0 +1,34 @@
+title: Network Connection to Sh.Kv Infrastructure
+id: 2f857414-d0d3-40df-8eda-3a2d1a77325f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Sh.Kv.
+date: 2026-06-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - G1017
+    - JDY
+    - MIPS
+    - VoltTyphoon
+    - botnet
+    - dispatch
+    - malware.sh.kv
+    - novel
+    - recon
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '216.173.65.250'
+        - '194.14.217.88'
+        - '149.248.3.38'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

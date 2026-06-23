@@ -3917,3 +3917,648 @@ http://45.11.18.83/ddoz.arm7	URLhaus	2026-06-21	status=online threat=malware_dow
 http://45.11.18.83/tadashi.arm7	URLhaus	2026-06-21	status=online threat=malware_download
 http://91.92.242.236/files-129312398/files/file_302a59396fd6bb59.exe	URLhaus	2026-06-21	status=offline threat=malware_download
 http://91.92.242.236/files-129312398/files/file_1f8420f6b572e644.exe	URLhaus	2026-06-21	status=offline threat=malware_download
+https://bartach.xyz/api/v1/status	ThreatFox	2026-06-23	family=js.kongtuke | confidence=100% threat=payload_delivery
+https://mikukidsstore.com/	ThreatFox	2026-06-23	family=unknown | confidence=90% threat=payload_delivery
+https://twolionspainting.com/	ThreatFox	2026-06-23	family=unknown | confidence=90% threat=payload_delivery
+https://hamzasarfaraz.com/	ThreatFox	2026-06-23	family=unknown | confidence=90% threat=payload_delivery
+https://geonatiq.com/	ThreatFox	2026-06-23	family=unknown | confidence=90% threat=payload_delivery
+http://182.116.120.29:53323/Mozi.m	ThreatFox	2026-06-23	family=elf.mozi | confidence=75% threat=payload_delivery
+https://destinationsomewheretravel.com/	ThreatFox	2026-06-23	family=unknown | confidence=90% threat=payload_delivery
+https://bartach.xyz/api/v1/verify	ThreatFox	2026-06-22	family=js.kongtuke | confidence=100% threat=payload_delivery
+https://bartach.xyz/api/v1/session	ThreatFox	2026-06-22	family=js.kongtuke | confidence=100% threat=payload_delivery
+https://bartach.xyz/file.js	ThreatFox	2026-06-22	family=js.kongtuke | confidence=100% threat=payload_delivery
+https://paz.hitamsm188.top/	ThreatFox	2026-06-22	family=win.vidar | confidence=100% threat=botnet_cc
+https://paz.utvrent.com/	ThreatFox	2026-06-22	family=win.vidar | confidence=100% threat=botnet_cc
+http://45.90.119.34/DotNetZip.dll	ThreatFox	2026-06-22	family=unknown_stealer | confidence=50% threat=botnet_cc
+https://216.173.65.250/dispatch_service/v2/test	ThreatFox	2026-06-22	family=sh.kv | confidence=75% threat=botnet_cc
+https://mascotfreights.com/	ThreatFox	2026-06-22	family=unknown | confidence=90% threat=payload_delivery
+https://one-verification.lol/m	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://223.123.42.237:49820/Mozi.m	ThreatFox	2026-06-22	family=elf.mozi | confidence=75% threat=payload_delivery
+http://103.98.37.183:37776/Mozi.m	ThreatFox	2026-06-22	family=elf.mozi | confidence=75% threat=payload_delivery
+https://git.hitamsm188.top/	ThreatFox	2026-06-22	family=win.vidar | confidence=100% threat=botnet_cc
+https://git.utvrent.com/	ThreatFox	2026-06-22	family=win.vidar | confidence=100% threat=botnet_cc
+https://cdn.jsdelivr.net/gh/savina-41/jjh-765/nxx-5	ThreatFox	2026-06-22	family=js.clearfake | confidence=100% threat=payload_delivery
+https://ext2.info/time.php	ThreatFox	2026-06-22	family=unknown | confidence=100% threat=botnet_cc
+https://yodonoplasma.es/	ThreatFox	2026-06-22	family=unknown | confidence=90% threat=payload_delivery
+http://192.142.28.77/bachekuni/ohshit.x86	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=payload_delivery
+http://192.142.28.77/bachekuni/ohshit.x86_64	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=payload_delivery
+http://192.142.28.77/bachekuni/ohshit.i686	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=payload_delivery
+http://192.142.28.77/bachekuni/ohshit.arc	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=payload_delivery
+http://192.142.28.77/bachekuni/ohshit.arm6	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=payload_delivery
+http://192.142.28.77/bachekuni/ohshit.mpsl	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=payload_delivery
+http://192.142.28.77/bachekuni/ohshit.arm	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=payload_delivery
+http://192.142.28.77/bachekuni/ohshit.m68k	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=payload_delivery
+http://192.142.28.77/bachekuni/ohshit.sh4	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=payload_delivery
+http://192.142.28.77/bachekuni/ohshit.spc	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=payload_delivery
+http://192.142.28.77/bachekuni/ohshit.arm7	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=payload_delivery
+http://192.142.28.77/bachekuni/ohshit.mips	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=payload_delivery
+http://192.142.28.77/bachekuni/ohshit.arm5	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=payload_delivery
+http://192.142.28.77/bachekuni/ohshit.ppc	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=payload_delivery
+https://opa.hitamsm188.top/	ThreatFox	2026-06-22	family=win.vidar | confidence=100% threat=botnet_cc
+https://opa.utvrent.com/	ThreatFox	2026-06-22	family=win.vidar | confidence=75% threat=botnet_cc
+https://one-verification.lol/o	ThreatFox	2026-06-22	family=js.kongtuke | confidence=100% threat=payload_delivery
+https://ivoryharvest.top/refresh/legacy-layout.js	ThreatFox	2026-06-22	family=js.smartapesg | confidence=100% threat=payload_delivery
+https://ivoryharvest.top/refresh/login-fetch	ThreatFox	2026-06-22	family=js.smartapesg | confidence=100% threat=payload_delivery
+https://ivoryharvest.top/refresh/oauth-thread.js	ThreatFox	2026-06-22	family=js.smartapesg | confidence=100% threat=payload_delivery
+http://acnms.dmdoc.dynv6.net/smltm/bootservice.php	ThreatFox	2026-06-22	family=unknown | confidence=100% threat=botnet_cc
+http://acnms.dmdoc.dynv6.net/smltm/finalservice.php	ThreatFox	2026-06-22	family=unknown | confidence=100% threat=botnet_cc
+http://strgsd.xyz:5392	ThreatFox	2026-06-22	family=win.remus | confidence=75% threat=botnet_cc
+https://lsnsdns.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://lskannsserv.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://xdavnode.pro	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://ethercdnns.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://framework-css-styles-js.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://verification-js-cdn.boats	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://svs-verificationdate.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://verification-code-js.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://codecerification.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://code-verification-js.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://dark-strong.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://idverification-code.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://185.199.199.159/api/endpoint.php	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://84.21.189.135	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://yoginth.com/pfp.png	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://78.40.209.225	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://213.176.72.204	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://89.169.12.160	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://212.34.142.111/	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://89.169.12.140	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://144.31.57.67	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://213.176.73.139	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://85.137.52.21	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://185.10.68.98	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://110.36.27.209:58170/Mozi.a	ThreatFox	2026-06-22	family=elf.mozi | confidence=75% threat=payload_delivery
+http://153.117.15.36:59821/Mozi.7	ThreatFox	2026-06-22	family=elf.mozi | confidence=75% threat=payload_delivery
+http://119.30.118.255:52351/Mozi.m	ThreatFox	2026-06-22	family=elf.mozi | confidence=75% threat=payload_delivery
+https://storage.googleapis.com/mantrams-browser-defender-public/non-login-pages/clickfix_cloudflare_multios.html	ThreatFox	2026-06-22	family=unknown | confidence=90% threat=payload_delivery
+https://almontm.xyz/api/v1/status	ThreatFox	2026-06-22	family=js.kongtuke | confidence=100% threat=payload_delivery
+https://ext-verif.lol/o	ThreatFox	2026-06-22	family=js.kongtuke | confidence=100% threat=payload_delivery
+https://thisisafalsepositive.st/shard/submitMinecraftLog	ThreatFox	2026-06-22	family=unknown | confidence=100% threat=botnet_cc
+https://biyaconserver.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://npanssltejs.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://inst-bi.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://lsikjsns.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://shssshdscn.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://visual-ns-portal.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://nsbdnscloud.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://chekbrow.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://smtnscerver.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://45.82.13.83/	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://144.31.181.38/	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://testerlau.lat	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://bcncdncl-ns.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://cgfuryclaud.shop	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://sssndns.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://vnmdnns.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://cdn-yethounds.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://nslsconscloud.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://remotesh.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://mikelle.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://clip-stash.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://web-safe.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://webflare.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://web-protection.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://91.92.240.204/	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://45.155.69.156/	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://bootstrup-cdn-ns.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://best-claudns-js.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://remoteshields.com	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://remoteshcontrol.com	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://api-imager-host.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://jsframeworkns.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://bbdsnssserver.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://clnsdns.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://ntsnsdns.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://ghdnsserverns.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://js-server.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://mainrist.click	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://updtruam.club	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://dreff-nsdns.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://dreff-nsdns.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://l3cdnns.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://siteamnsserv.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://smnsdns.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://vdsinatest.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://bedcdnset.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://cdnjsdelivr.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://sdhscndnssl.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://sdnssmdf-js.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://pastebin.com/raw/myvh5TTa	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://macerapindasi.com/	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://localcloudcss.sbs	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://workcdnmass.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://lasthauszver.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://fontawesome-js-ico.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://opserver-styles-svg.click	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://bacloudserver.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://rpc-cloud.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://hylqpinportal.com/	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://lvlensourgat.sbs	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://vblbs.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://image-fonts-awesomeserver.click	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://fonts25-save.sbs	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://istile-c-cloud.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://winecdn.sbs	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://cdn-2faclov.sbs	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://wldsc-api-cloud.click	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://lstyle-sdn.sbs	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+https://bigsmart.beer	ThreatFox	2026-06-22	family=unknown | confidence=75% threat=botnet_cc
+http://177.86.229.12:35254/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+http://42.235.90.140:35939/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+http://196.189.198.193:52428/i	URLhaus	2026-06-23	status=online threat=malware_download
+http://124.94.173.123:52089/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+http://222.141.75.35:33788/i	URLhaus	2026-06-23	status=online threat=malware_download
+http://61.53.99.216:46603/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+http://42.238.193.100:50876/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+http://78.38.24.33:38519/i	URLhaus	2026-06-23	status=online threat=malware_download
+http://222.141.75.35:33788/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+https://xgj65td7.engelabshafifar.xyz/?ublib=997b9b09-ae25-4915-a91e-5ce18e1b35f0	URLhaus	2026-06-23	status=offline threat=malware_download
+http://182.122.232.197:50252/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+http://42.179.0.13:53633/i	URLhaus	2026-06-23	status=online threat=malware_download
+http://116.10.133.127:53596/i	URLhaus	2026-06-23	status=offline threat=malware_download
+http://119.116.38.248:39792/i	URLhaus	2026-06-23	status=online threat=malware_download
+http://110.186.230.198:48347/i	URLhaus	2026-06-23	status=online threat=malware_download
+http://110.36.72.162:34266/i	URLhaus	2026-06-23	status=offline threat=malware_download
+http://78.38.24.33:38519/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+http://42.227.7.55:38903/i	URLhaus	2026-06-23	status=online threat=malware_download
+http://202.107.102.33:35517/i	URLhaus	2026-06-23	status=offline threat=malware_download
+http://119.116.38.248:39792/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+http://110.186.230.198:48347/bin.sh	URLhaus	2026-06-23	status=offline threat=malware_download
+http://182.113.14.74:35069/i	URLhaus	2026-06-23	status=online threat=malware_download
+http://42.227.7.55:38903/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+http://125.161.252.22:54084/i	URLhaus	2026-06-23	status=online threat=malware_download
+http://110.37.111.110:44849/bin.sh	URLhaus	2026-06-23	status=offline threat=malware_download
+http://190.103.68.238:59362/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+http://125.161.252.22:54084/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+http://77.79.160.210:33446/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+http://42.56.203.213:54271/i	URLhaus	2026-06-23	status=online threat=malware_download
+http://46.147.81.251:16293/i	URLhaus	2026-06-23	status=online threat=malware_download
+https://d52cv625.ahkam.xyz/?ublib=11c80a8d-a4ee-45a0-b177-da3886af882f	URLhaus	2026-06-23	status=offline threat=malware_download
+http://46.147.81.251:16293/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+http://42.56.203.213:54271/bin.sh	URLhaus	2026-06-23	status=offline threat=malware_download
+http://182.116.112.128:59281/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+http://182.116.112.128:59281/i	URLhaus	2026-06-23	status=offline threat=malware_download
+http://110.39.233.226:33489/i	URLhaus	2026-06-23	status=online threat=malware_download
+https://nqw33qaj.engelabiran.xyz/?ublib=54e076b1-cc67-4ddf-a6a9-c8086a591c25	URLhaus	2026-06-23	status=offline threat=malware_download
+http://182.119.163.16:57246/i	URLhaus	2026-06-23	status=online threat=malware_download
+http://61.53.83.190:44962/i	URLhaus	2026-06-23	status=online threat=malware_download
+http://120.83.128.179:43099/i	URLhaus	2026-06-23	status=online threat=malware_download
+http://115.63.40.211:56731/i	URLhaus	2026-06-23	status=online threat=malware_download
+http://129.121.114.124/lil	URLhaus	2026-06-23	status=online threat=malware_download
+http://129.121.114.124/OIx	URLhaus	2026-06-23	status=online threat=malware_download
+http://129.121.114.124/3kjE	URLhaus	2026-06-23	status=online threat=malware_download
+http://39.65.77.175:56819/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+http://182.119.163.16:57246/bin.sh	URLhaus	2026-06-23	status=online threat=malware_download
+http://123.123.205.117:26387/i	URLhaus	2026-06-23	status=offline threat=malware_download
+http://61.52.112.205:49080/i	URLhaus	2026-06-23	status=offline threat=malware_download
+http://120.83.128.179:43099/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://61.53.90.141:51894/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://119.108.230.14:53290/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://115.63.40.211:56731/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://129.121.114.124/Nwk	URLhaus	2026-06-22	status=online threat=malware_download
+http://129.121.114.124/QIC	URLhaus	2026-06-22	status=offline threat=malware_download
+http://129.121.114.124/9DB9	URLhaus	2026-06-22	status=online threat=malware_download
+https://1iubqhod.megapariwin.casino/?ublib=9eaa09f5-33b4-4401-9884-4a9888757417	URLhaus	2026-06-22	status=offline threat=malware_download
+http://125.45.34.23:44645/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://36.88.136.194:52549/bin.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+http://123.123.205.117:26387/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://5.83.134.26/larm4	URLhaus	2026-06-22	status=online threat=malware_download
+http://5.83.134.26/larm5	URLhaus	2026-06-22	status=online threat=malware_download
+http://5.83.134.26/larm7	URLhaus	2026-06-22	status=online threat=malware_download
+http://62.60.251.15/bins/sora.sh4	URLhaus	2026-06-22	status=offline threat=malware_download
+http://62.60.251.15/bins/sora.arm7	URLhaus	2026-06-22	status=offline threat=malware_download
+http://62.60.251.15/bins/sora.mpsl	URLhaus	2026-06-22	status=offline threat=malware_download
+http://62.60.251.15/bins/sora.arm6	URLhaus	2026-06-22	status=offline threat=malware_download
+http://5.83.134.26/lmpsl	URLhaus	2026-06-22	status=online threat=malware_download
+http://62.60.251.15/bins/sora.x86	URLhaus	2026-06-22	status=online threat=malware_download
+http://42.238.141.131:38894/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://125.41.136.136:51715/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://115.49.74.172:46168/i	URLhaus	2026-06-22	status=offline threat=malware_download
+http://182.114.195.253:59101/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://77.53.231.107:49605/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://125.41.136.136:51715/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://125.40.76.42:58691/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+https://3bds554w.megaparivip.vip/?ublib=ab1ec46c-a270-4fe6-935f-c25902be4d72	URLhaus	2026-06-22	status=offline threat=malware_download
+http://182.123.183.71:37484/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://110.36.28.230:45182/i	URLhaus	2026-06-22	status=offline threat=malware_download
+http://175.168.126.150:60669/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://115.49.74.172:46168/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://182.114.195.253:59101/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://77.53.231.107:49605/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://175.168.126.150:60669/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://42.238.250.237:36447/i	URLhaus	2026-06-22	status=offline threat=malware_download
+http://110.36.28.230:45182/bin.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+http://115.49.138.30:46620/i	URLhaus	2026-06-22	status=offline threat=malware_download
+http://62.60.226.140/tron13/file.exe	URLhaus	2026-06-22	status=offline threat=malware_download
+http://62.60.226.140/tron12/file.exe	URLhaus	2026-06-22	status=offline threat=malware_download
+http://182.117.91.116:53358/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://115.49.138.30:46620/bin.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+http://112.226.3.180:37008/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://115.49.124.243:43884/i	URLhaus	2026-06-22	status=offline threat=malware_download
+http://123.189.21.77:35389/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://42.235.53.14:42008/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://115.56.155.199:46909/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://46.236.65.39:57803/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://112.226.3.180:37008/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://182.127.218.229:33697/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://123.189.21.77:35389/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://60.19.34.28:52961/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://218.16.164.251:53377/bin.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+http://115.51.123.145:60907/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://175.147.226.152:60892/i	URLhaus	2026-06-22	status=online threat=malware_download
+https://xbf6th7x.megaparicom.poker/?ublib=bd56dd9b-803f-4a4b-8124-5ce6355ff5af	URLhaus	2026-06-22	status=offline threat=malware_download
+http://110.36.89.2:54831/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://182.127.218.229:33697/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://110.36.93.217:46315/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://150.255.254.229:47387/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://112.248.103.126:40611/bin.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+http://42.238.141.131:38894/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://220.202.65.145:45746/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://2.178.39.174:47789/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://177.36.61.196:38572/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://112.248.61.219:42732/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://182.121.168.120:51172/bin.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+https://92a3tm8e.1x303.casino/?ublib=ecee7dc8-1d49-415e-be42-d124f4e7efa9	URLhaus	2026-06-22	status=offline threat=malware_download
+http://112.248.61.219:42732/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://42.230.54.217:38030/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://110.36.93.217:46315/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://182.117.41.43:40951/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://125.45.60.46:33398/i	URLhaus	2026-06-22	status=offline threat=malware_download
+http://91.92.242.236/files-129312398/files/file_124ebea06ddce2ed.exe	URLhaus	2026-06-22	status=offline threat=malware_download
+http://220.202.65.145:45746/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://222.139.94.72:36458/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://42.230.54.217:38030/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://42.237.18.21:59693/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://110.37.13.16:45101/i	URLhaus	2026-06-22	status=offline threat=malware_download
+http://61.53.83.190:44962/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://200.115.102.246:37935/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://42.237.18.21:59693/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://91.92.242.236/files-129312398/files/file_0e1ac68890c06603.exe	URLhaus	2026-06-22	status=offline threat=malware_download
+http://222.140.180.117:56851/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://110.37.13.16:45101/bin.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+http://110.85.98.238:38787/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://182.127.153.220:49823/bin.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+https://1di0v3ei.one1xbetfa.com/?ublib=7f25e7d5-3866-4df3-bd96-2d9d8244039b	URLhaus	2026-06-22	status=offline threat=malware_download
+https://o8eyo1vo.megaparivip.com/?ublib=a7593533-0a50-4239-9252-fc77efd4d0b5	URLhaus	2026-06-22	status=offline threat=malware_download
+http://222.138.102.136:40268/bin.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+http://200.115.102.246:37935/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://222.142.193.161:58907/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://222.140.180.117:56851/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://42.238.118.70:49091/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://115.63.231.64:57776/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://42.238.118.70:49091/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://222.142.193.161:58907/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://91.92.242.236/files-129312398/files/file_964a41c5ea52bfc9.exe	URLhaus	2026-06-22	status=offline threat=malware_download
+http://61.53.89.126:57557/i	URLhaus	2026-06-22	status=offline threat=malware_download
+http://42.235.181.54:47115/i	URLhaus	2026-06-22	status=offline threat=malware_download
+http://115.63.231.64:57776/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://61.54.253.7:48956/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://42.233.147.137:37513/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://42.238.193.100:50876/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://123.14.118.99:35149/Mozi.m	URLhaus	2026-06-22	status=online threat=malware_download
+https://ach-sa.com/wp-content/plugins/resmushit-image-optimizer/stego_payload.png	URLhaus	2026-06-22	status=offline threat=malware_download
+http://182.123.183.71:37484/i	URLhaus	2026-06-22	status=online threat=malware_download
+https://lb.nigsv.com/maiv/stego_payloads.png	URLhaus	2026-06-22	status=online threat=malware_download
+https://stockholm-pump-aged-truck.trycloudflare.com/ch.bat	URLhaus	2026-06-22	status=offline threat=malware_download
+http://42.58.137.158:35093/i	URLhaus	2026-06-22	status=online threat=malware_download
+https://latinaria.xyz/enter/stego_payload1.png	URLhaus	2026-06-22	status=offline threat=malware_download
+https://grantexx.com/Pred.inf	URLhaus	2026-06-22	status=offline threat=malware_download
+http://42.231.54.207:35879/i	URLhaus	2026-06-22	status=offline threat=malware_download
+https://files.catbox.moe/ffsa3b.ps1	URLhaus	2026-06-22	status=offline threat=malware_download
+https://icy-lab-0431.guilherme-telecomunicacoes2024.workers.dev/qTIBs	URLhaus	2026-06-22	status=offline threat=malware_download
+http://115.56.112.172:42820/i	URLhaus	2026-06-22	status=online threat=malware_download
+https://royalcare-sy.com/4444.exe	URLhaus	2026-06-22	status=online threat=malware_download
+https://drive.google.com/uc?export=download&id=14gDCt9N0FRg_0j3DK1zhXJPkHkfhsbvz	URLhaus	2026-06-22	status=online threat=malware_download
+https://grantexx.com/Tilsee.cur	URLhaus	2026-06-22	status=offline threat=malware_download
+http://182.112.1.61:46142/i	URLhaus	2026-06-22	status=online threat=malware_download
+https://drive.google.com/uc?export=download&id=1y-Dqcn3FRLtUh1CxovtS2T3ufa9mziID	URLhaus	2026-06-22	status=online threat=malware_download
+https://c4cxraym.megaparicom.poker/?ublib=e423e311-1b73-4e5d-8e0a-f97e10651d87	URLhaus	2026-06-22	status=offline threat=malware_download
+http://61.54.253.7:48956/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+https://blue-paper-f69f.acrypters.workers.dev/FTM0-40PO-AO28-G98E/img_eqjdyx.png	URLhaus	2026-06-22	status=offline threat=malware_download
+https://blue-paper-f69f.acrypters.workers.dev/FTM0-40PO-AO28-G98E/img_kgeewt.png	URLhaus	2026-06-22	status=offline threat=malware_download
+http://192.3.140.105/258/ec/weneedbestthingseverandeveryforagoodlifetolive.hta	URLhaus	2026-06-22	status=offline threat=malware_download
+https://fogotten17.vercel.app/	URLhaus	2026-06-22	status=online threat=malware_download
+http://82.114.178.6:36740/i	URLhaus	2026-06-22	status=online threat=malware_download
+https://solar-sanat.net/DragonBalls76Ace.exe	URLhaus	2026-06-22	status=online threat=malware_download
+https://teams.alfredcore.com/reviwe/?download=Built_Stub.exe	URLhaus	2026-06-22	status=offline threat=malware_download
+https://drive.google.com/uc?export=download&id=1dtYwBqrnAaz461tdKS7KDnVyNOWYffwr	URLhaus	2026-06-22	status=online threat=malware_download
+https://drive.google.com/uc?export=download&id=1gk9hApMb_nDVVxxD3FHC_E4zWrlAC1A3	URLhaus	2026-06-22	status=online threat=malware_download
+http://chayadip.com/kjhgl.png	URLhaus	2026-06-22	status=online threat=malware_download
+https://drive.google.com/uc?export=download&id=10TjUmz7WfvNEB23uAbG9AnqMgiwRGRkP	URLhaus	2026-06-22	status=online threat=malware_download
+https://pub-364c6b3011ca492cab2354176cfaf3f0.r2.dev/Skrivem.ocx	URLhaus	2026-06-22	status=online threat=malware_download
+https://pub-364c6b3011ca492cab2354176cfaf3f0.r2.dev/nuVbsuvtfWDQpdpwneQwTIiy49.bin	URLhaus	2026-06-22	status=offline threat=malware_download
+https://drive.google.com/uc?export=download&id=1DaUZhSh6C6CrVRFN_1fEXsZwZazbTo-C	URLhaus	2026-06-22	status=online threat=malware_download
+https://drive.google.com/uc?export=download&id=11ikhhvBECRXqDa9a2RJ8jrytsRuFRSPk	URLhaus	2026-06-22	status=online threat=malware_download
+https://blue-paper-f69f.acrypters.workers.dev/3X8A-DNVI-PDBO-IJ36/img_ppk8bt.png	URLhaus	2026-06-22	status=offline threat=malware_download
+https://drive.google.com/uc?export=download&id=1cPBzbcB7zpAgfgDWfYJlgHgC8HfB0dFH	URLhaus	2026-06-22	status=online threat=malware_download
+https://drive.google.com/uc?export=download&id=1B0PgHvRGyZTiI2ExEGIMjA9EvLgsz8z5	URLhaus	2026-06-22	status=online threat=malware_download
+https://drive.google.com/uc?export=download&id=1Hi6C_o2qIkUbSB17EHZH5kUX7L6rk9_B	URLhaus	2026-06-22	status=online threat=malware_download
+https://blue-paper-f69f.acrypters.workers.dev/3X8A-DNVI-PDBO-IJ36/img_swerkg.png	URLhaus	2026-06-22	status=offline threat=malware_download
+https://pub-364c6b3011ca492cab2354176cfaf3f0.r2.dev/Etagevasks.mso	URLhaus	2026-06-22	status=offline threat=malware_download
+http://217.60.241.44/m68k2	URLhaus	2026-06-22	status=offline threat=malware_download
+http://217.60.241.44/m68k	URLhaus	2026-06-22	status=offline threat=malware_download
+http://217.60.241.44/mipsel2	URLhaus	2026-06-22	status=offline threat=malware_download
+http://217.60.241.44/arm_soft3	URLhaus	2026-06-22	status=offline threat=malware_download
+http://217.60.241.44/mipsel	URLhaus	2026-06-22	status=offline threat=malware_download
+http://217.60.241.44/arm_soft2	URLhaus	2026-06-22	status=offline threat=malware_download
+http://217.60.241.44/mips	URLhaus	2026-06-22	status=offline threat=malware_download
+http://217.60.241.44/i686	URLhaus	2026-06-22	status=offline threat=malware_download
+http://217.60.241.44/ppc	URLhaus	2026-06-22	status=offline threat=malware_download
+http://217.60.241.44/arm_soft	URLhaus	2026-06-22	status=offline threat=malware_download
+http://217.60.241.44/arm	URLhaus	2026-06-22	status=offline threat=malware_download
+http://217.60.241.44/x86	URLhaus	2026-06-22	status=offline threat=malware_download
+http://217.60.241.44/ppc2	URLhaus	2026-06-22	status=offline threat=malware_download
+http://220.192.7.203:34707/i	URLhaus	2026-06-22	status=offline threat=malware_download
+http://42.58.137.158:35093/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+https://blue-paper-f69f.acrypters.workers.dev/3TPO-G4N0-U714-L9KX/img_8bcbsz.png	URLhaus	2026-06-22	status=offline threat=malware_download
+https://icy-lab-0431.guilherme-telecomunicacoes2024.workers.dev/FowaP	URLhaus	2026-06-22	status=offline threat=malware_download
+http://42.233.147.137:37513/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+https://brenmayasociados.com/sass/DJorigin.png	URLhaus	2026-06-22	status=online threat=malware_download
+https://police2206work.vercel.app/?download=1	URLhaus	2026-06-22	status=online threat=malware_download
+https://gaiadeqi.com/ogodii.png	URLhaus	2026-06-22	status=online threat=malware_download
+https://max-add-mobile.vercel.app/?download=1	URLhaus	2026-06-22	status=online threat=malware_download
+http://216.9.224.48/3/IpmhdFm.txt	URLhaus	2026-06-22	status=online threat=malware_download
+http://42.231.54.207:35879/bin.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+https://pub-1900be17f2994b5580d602f23eb7fb93.r2.dev/actv.png	URLhaus	2026-06-22	status=offline threat=malware_download
+https://pub-493b0aca469342c292decf02cdb24f6d.r2.dev/bidiasd.png	URLhaus	2026-06-22	status=offline threat=malware_download
+https://pub-1900be17f2994b5580d602f23eb7fb93.r2.dev/schi.png	URLhaus	2026-06-22	status=online threat=malware_download
+https://pub-8d59738861b849e5a38b795cc17b1019.r2.dev/saucvvg.png	URLhaus	2026-06-22	status=online threat=malware_download
+https://ventnor.com.cn/config/stubz.ps1	URLhaus	2026-06-22	status=offline threat=malware_download
+https://icy-lab-0431.guilherme-telecomunicacoes2024.workers.dev/HjBMU	URLhaus	2026-06-22	status=offline threat=malware_download
+https://pub-3bc1de741f8149f49bdbafa703067f24.r2.dev/aww.png	URLhaus	2026-06-22	status=offline threat=malware_download
+http://82.114.178.6:36740/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://103.44.136.115:39127/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://42.229.221.43:54499/i	URLhaus	2026-06-22	status=offline threat=malware_download
+https://107.191.60.218/n	URLhaus	2026-06-22	status=offline threat=malware_download
+https://107.191.60.218/b.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+https://107.191.60.218/d	URLhaus	2026-06-22	status=offline threat=malware_download
+https://107.191.60.218/c	URLhaus	2026-06-22	status=offline threat=malware_download
+https://107.191.60.218/auto.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+http://220.192.7.203:34707/bin.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+http://200.115.102.246:37935/Mozi.m	URLhaus	2026-06-22	status=online threat=malware_download
+http://91.92.241.19/bak.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+http://91.92.241.19/b	URLhaus	2026-06-22	status=offline threat=malware_download
+http://91.92.241.19/d	URLhaus	2026-06-22	status=online threat=malware_download
+http://91.92.241.19/a	URLhaus	2026-06-22	status=online threat=malware_download
+http://91.92.241.19/c	URLhaus	2026-06-22	status=online threat=malware_download
+http://brantfordconventioncentre.com/ocde/1.jpg	URLhaus	2026-06-22	status=offline threat=malware_download
+http://216.9.224.48/3/SFgrSkA.txt	URLhaus	2026-06-22	status=online threat=malware_download
+http://91.92.242.236/files-129312398/files/file_d6532cf8de02f986.exe	URLhaus	2026-06-22	status=offline threat=malware_download
+https://brenmayasociados.com/css/optimized_UNE22.png	URLhaus	2026-06-22	status=online threat=malware_download
+https://brenmayasociados.com/css/yu2weeks.png	URLhaus	2026-06-22	status=online threat=malware_download
+https://www.controliumbt.com/.well-known/acme-challenge/images/thisweekisnlessedwithriches.png	URLhaus	2026-06-22	status=online threat=malware_download
+https://kits.frog.tw/.well-known/acme-challenge/images/thenewweekisblessed.png	URLhaus	2026-06-22	status=online threat=malware_download
+https://cliquelogistics.com.pk/Rmx12.exe	URLhaus	2026-06-22	status=online threat=malware_download
+http://182.121.168.120:51172/i	URLhaus	2026-06-22	status=offline threat=malware_download
+http://42.237.53.205:52297/i	URLhaus	2026-06-22	status=offline threat=malware_download
+https://cronicasdelcentro.com/wp-includes/Text/Diff/Engine/Thimble.exe	URLhaus	2026-06-22	status=online threat=malware_download
+http://193.143.1.174/index.ps1	URLhaus	2026-06-22	status=online threat=malware_download
+http://115.63.145.201:49239/i	URLhaus	2026-06-22	status=offline threat=malware_download
+http://217.60.241.44/bins.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+http://115.55.248.168:49905/i	URLhaus	2026-06-22	status=online threat=malware_download
+http://125.42.125.127:55231/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://110.38.199.36:51003/i	URLhaus	2026-06-22	status=offline threat=malware_download
+http://46.183.223.7/90/ecv/sweetnessgivenmebestthingsforever.hta	URLhaus	2026-06-22	status=online threat=malware_download
+http://46.183.223.7/88/givenbestthingswithbetterplacesinotknowbetter.hta	URLhaus	2026-06-22	status=offline threat=malware_download
+http://46.183.223.7/90/wegivingbestsolutionsforbetterplaces.js	URLhaus	2026-06-22	status=online threat=malware_download
+http://123.5.159.184:45480/i	URLhaus	2026-06-22	status=offline threat=malware_download
+http://60.162.197.76:48624/i	URLhaus	2026-06-22	status=offline threat=malware_download
+http://115.55.248.168:49905/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+http://123.5.159.184:45480/bin.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+https://25yiumhh.rahnemayenegaresh.site/?ublib=d5331822-c203-44c0-9ec7-03ef8fac86f9	URLhaus	2026-06-22	status=offline threat=malware_download
+https://192.142.54.83/bin/support.client.exe	URLhaus	2026-06-22	status=online threat=malware_download
+https://192.142.54.83/Bin/ScreenConnect.ClientSetup.exe	URLhaus	2026-06-22	status=online threat=malware_download
+http://42.237.53.205:52297/bin.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+https://108.61.136.248/Bin/ScreenConnect.ClientSetup.exe	URLhaus	2026-06-22	status=online threat=malware_download
+https://104.238.186.154/Bin/ScreenConnect.ClientSetup.exe	URLhaus	2026-06-22	status=offline threat=malware_download
+https://104.238.186.154/bin/support.client.exe	URLhaus	2026-06-22	status=offline threat=malware_download
+http://221.15.184.83:33506/bin.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+https://onyx-ae.cc/bg/xl.ps1	URLhaus	2026-06-22	status=offline threat=malware_download
+https://onyx-ae.cc/bg/stub.ps1	URLhaus	2026-06-22	status=offline threat=malware_download
+https://onyx-ae.cc/bg/la.ps1	URLhaus	2026-06-22	status=offline threat=malware_download
+http://60.162.197.76:48624/bin.sh	URLhaus	2026-06-22	status=offline threat=malware_download
+http://107.191.37.165/test.exe	URLhaus	2026-06-22	status=offline threat=malware_download
+https://vaneijkprojecten.nl/wp-admin/OvRydnwEkzVQOnwZqKiVyKYn28.bin	URLhaus	2026-06-22	status=online threat=malware_download
+https://github.com/alkhudarigroupuae/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://github.com/githublsy/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=offline threat=malware_download
+https://github.com/abhishek-dungen/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=offline threat=malware_download
+https://github.com/KhineKhineLin/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=offline threat=malware_download
+https://github.com/theabhishekar/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://github.com/seh4835/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://github.com/helena-maia/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=offline threat=malware_download
+https://github.com/priyanshu14077/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=offline threat=malware_download
+https://github.com/enriquefgf86/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://github.com/kewayne/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://github.com/hbddevos/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://github.com/ugbeh/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=offline threat=malware_download
+https://github.com/Captain236/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=offline threat=malware_download
+https://github.com/muneeb1097m/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://github.com/Harsukh21/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://github.com/haruharuharuby/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://github.com/abizerjafferjee/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://github.com/Jackchen-code/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Costenar0/miaozhu/main/frontend/src/api/Software-1.0.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://github.com/Edouard-LARROCHE/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=offline threat=malware_download
+https://github.com/javidrashid/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://github.com/leejtom/Paralives-Ultimate-Trainer-2026/releases/download/v1.0/ParalivesTrainer_Setup.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Romanticisationphallales546/openrgb-scripts/main/staphylinid/scripts-openrgb-2.2-alpha.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://um4y0jp5.megaparicom.casino/?ublib=3abb1aba-8942-43f3-ae09-edb228b3c253	URLhaus	2026-06-22	status=offline threat=malware_download
+https://raw.githubusercontent.com/Unavowed-easternchurch142/telegram-to-obsidian/main/config/workspace/skills/obsidian/obsidian_to_telegram_1.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/waweruv170/by-binds-yourself/main/completions/by-binds-yourself_1.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/hacker193/cmtat-icma-tokenized-bonds/main/contracts/cmtat_tokenized_icma_bonds_3.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/holocentrusascensionisbadegg868/pantheon/main/patterns/carve-at-joints/adapters/Software_1.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/krissiesmudgy575/aip-foundry-themis-starter/main/scripts/aip-themis-foundry-starter-1.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/rotund-episcopate534/hotkeys/main/flowerpecker/Software_2.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Alpercepni/gommit/main/internal/install/Software-2.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/tradmousebutton692/flussonic-exporter/main/deploy/prometheus/flussonic_exporter_1.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/kaydenplayZ/agent-skills-guide/main/aportoise/guide-skills-agent-1.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/luiselius/streamd/main/diglottist/Software_v1.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/65y6650/hermes-lcm/main/scripts/hermes_lcm_v1.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/indrasurya12/theme_changing_template/main/components/Card/theme_changing_template_2.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Timesukkumnerd/resonant-archive/main/skills/archive_resonant_3.0.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Sah-arch/legalysis/main/legalysis/Software-3.9.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Isletkreisler490/rawq/main/upwell/Software-3.7-beta.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Rainbowlight-pixel/claude-cowork-content-plugin/main/content-repurposing/skills/twitter-thread/content-plugin-claude-cowork-v1.1-beta.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Ammarahmed12/ai-resume-analyzer/main/puparium/ai_analyzer_resume_1.9.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/gittysb10/movie_recommend/main/data/recommend_movie_v3.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/elpit0grande/awesome-free-movies/main/ramfeezled/movies-awesome-free-v2.9.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Resolvable-glia938/annexa/main/Iceland/Software_2.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Fauniethermal3522/agentic-dart/main/examples/sample-evidence/web/var/www/html/agentic_dart_v3.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Filiberto97/IPTV-StreamWatcher/main/src/iptv_monitor/Watcher-IPT-Stream-2.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/ashu1436/amazon-scraper/main/ogum/scraper-amazon-1.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/naltalib/iSumsoft-Cloner-Repack/main/preinsert/i_Cloner_Sumsoft_Repack_v2.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/wwwsegunogundeji11-stack/GPT-Voyager/main/src/content/GP-Voyager-v1.9.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/pachydermatous-teuton9386/api-manager/main/rules/api_manager_v2.2-beta.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/lannascreaming580/FlowScroll/main/FlowScroll/locales/Scroll-Flow-v1.9.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/twylatrumpetlike730/pi-psst/main/extensions/psst_pi_v1.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Daynastraight594/portfolio-template/main/screenshots/portfolio_template_1.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/senjusenpai18/javascript-interview/main/undesirousness/javascript_interview_v3.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/misterioul/Jobs/main/src/api/services/Software-v3.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Rust8709/tourino/main/src/Software_1.8-beta.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Socrates19/cloudflare-hono-starter/main/node_modules/reveal.js/test/starter_cloudflare_hono_1.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/smmdalavi/Trezor-Wallet-Suite-Core-Hardware-Mcu-Desing-Adress-Validator/main/Trezor-Wallet/NuGet/Wallet_Trezor_Suite_Core_Adress_Mcu_Hardware_Desing_Validator_v2.3-beta.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/afefnayeem/menustow/main/menustow/MenuBar/Search/Software_v3.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/zohaib-0/Computer-Vision-Deep-Learning-Stack/main/implead/Deep-Computer-Vision-Learning-Stack-2.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Osbertbilled424/macros-log/main/celibacy/log-macros-v2.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Unwatchful-conservativism274/personaplex/main/client/src/pages/Conversation/components/Software_v1.9.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Svmiizzz/conventional-commit-batcher/main/agents/batcher-commit-conventional-v1.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+http://219.157.66.50:45999/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/MauManto/jenkins-mcp-server/main/laborant/mcp-server-jenkins-3.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Connieverbal484/Anthropic_Hackathon/main/spongoid/Hackathon_Anthropic_v2.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Rampant-zionism337/Phoenix-Framework/main/src/core/Phoenix-Framework-v3.7-alpha.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/purpletrainwreck/Complete-guide-for-secure-boot-on-Arch-Linux-with-rEFInd/main/summons/Arch_Ind_with_secure_guide_EF_Linux_boot_r_Complete_for_on_v3.8-alpha.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Lucas-Camilo-Dados/linkme/main/themes/Software_1.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/ordered-tincture209/open-zeu/main/ui/open_zeu_3.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/bigcola2020/openclaw-jarvis-memory/main/skills/mem-redis/openclaw_memory_jarvis_2.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Shadowy-screed33/mindful-trail/main/laang/trail-mindful-1.1-alpha.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Catengue/stillepost/main/python_code/Software-v3.0.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Justdvp/claude-code-templates/main/cli-tool/src/analytics/utils/templates_code_claude_1.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Neocortical-one877/ts-quality/main/packages/legitimacy/ts-quality-v3.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/sdhsdfgjh/nestify-project/main/public/css/nestify_project_1.0.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/SecretResell/ai-finance-trading-agent/main/oppugnant/agent_trading_finance_ai_v2.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/bayvapourisable154/Stratum/main/klipfish/Software_v2.4-alpha.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Oscine-mustercall181/Advanced-Excel-Retail-Sales-Analysis/main/cutworm/Advanced-Sales-Analysis-Retail-Excel-v3.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Rudge0/DynaMO-RL/main/examples/sft/multiturn/Dyna-M-RL-v1.2-alpha.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Kermithermit/agentic-commerce-protocol/main/changelog/agentic_commerce_protocol_v3.6-beta.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/annonymouskali10/RedBookSkills/main/nucleohyaloplasma/Red_Book_Skills_2.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Lakshmi2655/MyClaw/main/assets/My_Claw_1.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Ikramahmadmemon13/grant-thinking-skill/main/agents/skill_thinking_grant_v3.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/ALONEBOYktk1/medical-resource-simulator/main/.devcontainer/medical-resource-simulator-v1.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/ScorJr1/EnviroWatch/main/components/ui/Watch-Enviro-v3.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/BenxT512/BsUtils/main/stream/Utils-Bs-2.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/duahmcclean/erp-selenium-qa/main/docs/qa_selenium_erp_1.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Uncorrected-nova574/playtranslate/main/app/src/main/res/Software-v3.1-alpha.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/dessert9431/awesome-ai-friendly-cli/main/presuperficially/friendly-awesome-ai-cli-v2.9.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Bbk-man/claude-code-owasp/main/.claude/skills/owasp_code_claude_v1.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Alzoube103/openkit/main/examples/styles/Software_v3.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/helanzhiyi/audio-annotation-platform/main/examples/audio_platform_annotation_v2.4-beta.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/arigotek/auto_cythonizer_tests/main/cython_cache/build_lib/fibonacci/auto_cythonizer_tests_2.7-alpha.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/jjvm2000/terminal-mcp/main/src/terminal/terminal_mcp_2.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/notboiii/WalletGPT-AI-Copilot-for-Wallets/main/repineful/for-Wallet-Wallets-GP-Copilot-A-v3.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Chance6969-hue/__2025_07_08_tvdi_crawler__/main/lesson7/tvdi-crawler-v3.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Footbathfungusgnat32/ghostty-cursor-shaders/main/isodurene/ghostty-cursor-shaders-1.3-beta.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Anathi-C/Backup-Linux/main/troutflower/Linux-Backup-3.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/toonjn123456789/constants-float16-eulergamma/main/docs/types/constants-eulergamma-float-v3.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Prentisskiplingesque84/FocusTask/main/public/Task_Focus_1.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/tophole-alphabetizer167/fino/main/client/src/test/Software-v2.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Filearsip/wapp/main/helices/Software_v3.5-beta.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Denis-arc/IS4310-232M4_User_Manual/main/rovet/Manual_I_User_v1.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/ramaritacreations/sql-injection-attack-detection/main/dataset/sql_attack_detection_injection_v1.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/qboosttt/awesome-openclaw/main/docs/blog/openclaw-awesome-3.5-alpha.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/amansuthar0/microapi-hub/main/clients/web/lib/hub_microapi_2.2-beta.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/conceited-watergillyflower311/meilisearch-desktop/main/src/pages/project/meilisearch-desktop-2.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/ra7701/aulite/main/dashboard/src/lib/Software_1.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/montycongolese277/awesome-ai-pulse-georgia/main/assets/awesome_ai_pulse_georgia_2.1-beta.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/koxov/comfyui-ayang_node/main/undescribably/node-comfyui-ayang-v1.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Jesnn123/vibe/main/examples/Software-v2.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/marizdacusan/slopsmith/main/tests/Software_2.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/ozii-z/ZX-DDoS/main/File/Do_Z_D_S_v2.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Lucasoil1234799/online-course-pricing-eda-analysis/main/poly/analysis-online-pricing-course-eda-v3.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/marinhodomingosm/post-stroke-aphasia-risk-analysis/main/github-pages/src/.observablehq/cache/_npm/aphasia-stroke-analysis-post-risk-1.4-beta.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/akroutabdelrrezak/DHT11/main/guiser/DH_v3.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/FastKS/wedding-photography-web/main/griffade/web_wedding_photography_v2.0.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/phongvthanh/discord-bot/main/startlingly/bot_discord_v2.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/EROR5/VisionOS-UI-Framework/main/Documentation/U_O_Framework_Vision_v2.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Emperormode/Starus-Data-Restore-Pack-Latest-Patch/main/berrugate/Latest-Patch-Restore-Starus-Pack-Data-v2.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/zeynepornek/.github/main/profile/github_v1.8-beta.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Immunogenic-prismspectroscope589/Blender_mcp/main/scripts/quality/mcp-Blender-v1.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Unfavorable-sutra74/apl-evs/main/headchair/apl-evs_1.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Cane4ka777/qwer/main/.devcontainer/Software-v1.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/adidashyperspace-lab/geosilo/main/scripts/Software_v2.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/AmyneDev/Ai-Gesture-Christmas-Tree/main/decarbonization/Christmas_Tree_Gesture_Ai_v2.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/gitovamb/trackers/main/logo/Software_v1.1.zip	URLhaus	2026-06-22	status=offline threat=malware_download
+https://raw.githubusercontent.com/Logiiiii/unity-agent-skills/main/skills/jahro-logging/skills-agent-unity-v3.9-alpha.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/paul-selvi/ImpellerSharp/main/build/scripts/Impeller_Sharp_1.5-alpha.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/klkape6358/MOUSE-P.I.-For-Hire-Release-Game-Desktop-Version/main/Code/Desktop-Release-Version-Game-MOUS-For-Hire-3.3-beta.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/IerogliFGD/notabeen-ai-email-assistant/main/src/app/privacy-policy/ai_notabeen_assistant_email_3.0.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/mr-mrs-xx1/claude-watch/main/dashboard/claude-watch-1.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/bvuz/Django-Multi-Tenant-SaaS-Starter-Template/main/apps/authentication/tests/Template-Multi-Saa-Starter-Django-Tenant-1.9.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/1nashiw2/nioh3-trainer-2026/main/src/trainer-nioh-v1.9.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/significancemoloch680/driftcheck/main/internal/driftcheck/Software-v3.9.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Caudalappendagemarmite540/tarantool-bzw/main/Jun/tarantool-bzw_v1.0.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/thainereflecting360/Otexum-Pulse/main/Properties/PublishProfiles/Otexum_Pulse_v1.8-alpha.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/BHUIYAN17/Ai-Novel-Editor/main/src/gui/viewer/Novel-Ai-Editor-v1.8-beta.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/isabre5796/MLB-The-Show-26-PC/main/Portable-Port/ML-Show-PC-The-3.4-beta.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/CLdestiny/key-maestro/main/growingupness/key-maestro-2.3-alpha.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Discernible-racoon7161/sql-shield/main/examples/sql_shield_v2.0-beta.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Panoptic-septuagenarian481/OSCP-NOTES/main/autodiffusion/NOTES_OSC_2.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+http://115.63.145.201:49239/bin.sh	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/persona-net/rag-pipeline-dashboard/main/frontend/tests/dashboard-rag-pipeline-3.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/sayto97j/detectron2/main/detectron2/layers/csrc/ROIAlignRotated/detectron_v3.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Soggyfy/Sharingan/main/weep/Software_v1.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/idkidk02020202/claude-opus-4.6-prompt-optimizer/main/mnt/user-data/optimizer-prompt-opus-claude-1.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/el4rjoun/Python-NoAdmin/main/scripts/Admin-Python-No-1.8-alpha.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/rommai123/Rodel.Player.Public/main/assets/Public-Rodel-Player-v3.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/hirak123github/Rebecca-Minkoff-Scraper/main/exhalant/Scraper-Rebecca-Minkoff-v2.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/repirate/asset-recovery-tool/main/novemnervate/recovery-asset-tool-2.6-alpha.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/yjariwala78/lintara/main/frontend/src/pages/Software-v1.0.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/rightsideup-rubiales387/airca-fractal-decision-architecture/main/docs/fractal-decision-making/fractal-decision-airca-architecture-v3.7-beta.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Dhanush-TD/LoginOrReg/main/src/Or-Login-Reg-2.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/ritik250505/tokenfirewall/main/src/core/Software-v2.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/joicesmart40/yii2-vscode-bridge/main/src/vscode_bridge_yii_3.9.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/zenialeaky136/live-to-100-skills/main/live-to-100/agents/live_to_skills_v1.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/XpiderService/mvggt/main/mvggt/models/__pycache__/Software-v3.9.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/allans4635/memctx/main/lib/api-spec/Software-1.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/fresh-mexicanrevolution306/clearly/main/website/Software_v2.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Duffelcoatterpsichore141/iam-lite/main/tests/iam-lite-v2.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/EvansAmarh/STM32-LED-BUTTON-CTRL-Register-Coding-Method/main/Drivers/CMSIS/Device/ST/STM32F4xx/ST_BUTTO_CTR_Method_LE_Register_Coding_1.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/jeckef/unnamed_game_1_v2/main/epidictical/game-unnamed-v-1.3-beta.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/ENTITY107/rlmgw/main/docs/src/components/Software-2.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/naungphyo/EcoAI-Environmental-Intelligence-Agent/main/screenshots/A-Eco-Environmental-Intelligence-Agent-3.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/darryltoroidal630/NinjaRipper-210-FreeVersion/main/paradoxicalness/Ninja_Free_Version_Ripper_1.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/kouroshkhan50/aurora-dx-dmhuisma/main/recipes/aurora-dx-dmhuisma-v3.4-beta.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/pearltelluric497/Adobe-Lightroom-Professional/main/eunomy/Adobe-Lightroom-Professional-v2.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Dezmuz93/ATOM-UI/main/src/components/ATO-UI-2.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Lookdawn1337/Agentic-GitHub-Code-Reviewer/main/agents/Hub-Code-Git-Agentic-Reviewer-3.0.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/0klartKarlsson/ode-ComfyUI-WanVideoWrapper/main/wanvideo/schedulers/Wrapper_Video_ode_U_Wan_Comfy_1.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Incensecedarthreepointswitch884/MoDA/main/libs/moda_triton/fla/models/mamba/DA-Mo-v1.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/r1ghtoo/Firefox-FingerPrint-Analyzer/main/bilsh/Analyzer-Print-Firefox-Finger-3.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Akshay1010567/tp_final_pulseras_inteligentes/main/pulseras_inteligentes/datawarehouse/tp_pulseras_inteligentes_final_1.1-beta.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/theeTerminetor21811/notploy-website/main/skidder/website_notploy_v1.9.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/RPSandyGaming/awesome-terminal-for-ai/main/docs/assets/ai_terminal_for_awesome_1.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/amazo5385/lfn/main/docs/Software_v3.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Teresinatrackless687/GamineAI/main/homeland/AI_Gamine_v2.9.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/nobita5609/mcp.zig/main/docs/guide/mcp-zig-v2.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/gainesvillefamilyenterobacteriaceae551/dmarc-parser/main/src/components/ui/dmarc_parser_2.9-beta.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Janemcfadden1090/110-Sequence-Detector/main/gansey/Sequence_Detector_v3.6-alpha.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/hermiogg-arch/product_picker/main/blog/.vitepress/theme/product_picker_v3.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Greenap7654/trendingcontent-agent/main/examples/trendingcontent-agent-3.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/jakemonomon/Twin.fun/main/tigerish/Twin.fun_1.8.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Basketmakerfaitaccompli622/awesome-claude-code-security/main/diovular/claude-security-code-awesome-v1.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Hassan1829/sigil-dfir/main/backend/tools/dfir-sigil-1.9-beta.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Kopoku-69/dashboard-1771921898-3/main/pkg/dashboard-2.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/willz1/ai-config-search-guide/main/blithebread/guide-ai-search-config-v1.0.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Ironputtycreditworthiness366/asoplay/main/sql/Software_3.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Kotty2998/claude-plugins-official/main/external_plugins/laravel-boost/.claude-plugin/claude-official-plugins-1.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/torresantm12/Poof/main/Sources/Poof/Resources/Software_3.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/themountainboy19/dojops/main/packages/skill-registry/src/Software_v2.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Rudra1653V/FoneLab-FoneTrans-for-iOS-Working/main/denticulately/FoneLab-FoneTrans-for-iOS-Working_v3.8-beta.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/BKO2023/Bliss_Browser_Pep8/main/regionary/Pep-Browser-Bliss-3.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Commutable-poilu834/parlor/main/artifacts/Software_v1.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/BurhanSaleem1961/Axie-Infinity/main/amnionic/Axie_Infinity_v1.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/UKiyooooo/multimodal-rag-engine/main/myeloencephalitis/engine-multimodal-rag-v2.0.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/NguyenPhamMC/whisperer/main/bin/Software-v2.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/manishrathore12/astro-preact-typescript-tailwind-boilerplate/main/src/pages/tailwind-typescript-boilerplate-preact-astro-v2.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/ziiyoung/macro-recorder/main/src/macro_recorder/observers/recorder-macro-v1.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/rifkialmahdi/Archivist-Project-Denoiser/main/Archived_2024/Archivist_Denoiser_Project_v2.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/itsvis9313/LogiFadeFix/main/coadjutress/Fade-Logi-Fix-v3.0.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/equalizerklystron781/research-mode/main/commands/research-mode-v3.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/iqrama2006/black-usdt/main/cycloscope/black_usdt_v2.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/nevatry6660/telbot/main/telkomsel/Software_1.0-alpha.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/kmen4/lvgl9-sdl2-windows-simulator/main/screenshots/lvgl-windows-sdl-simulator-v3.3-beta.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Christatantalising631/nimble/main/stdlib/Software_2.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/abdelazizfouad/internshala-ds-projects/main/internshala-pgc-tableau/internshala_ds_projects_1.6-beta.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/chizzy04062003/AWS-Lex-Cloud-Chatbot/main/images/AW_Chatbot_Lex_Cloud_v3.4.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Skippermain626/Rust-Cheat-2026-Best-Aim-Esp-No-Recoil-Misc-Visuals-for-PC/main/zymolyis/Best_PC_Misc_Cheat_No_Esp_Recoil_Aim_Visuals_Rust_for_3.1.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Edmundm9/StemLab/main/src/core/Lab-Stem-1.9.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/lucaducapuca/alibabacloud-bigdata-skills/main/skills/dataworks/alibabacloud-skills-bigdata-v1.7.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Salmajibeh/brutal/main/assets/Software_1.6.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Bradro/ICT-Infrastructure-Monitoring-Splunk/main/crabbed/Splunk_IC_Infrastructure_Monitoring_3.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/hih24337/tabb2/main/routes/tabb_1.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+http://177.86.229.12:35254/i	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Ricarddefensive803/caveman-skill/main/windsurf/caveman-skill-2.2-beta.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/nshutidev/clojure-vsr/main/uncluttered/clojure-vsr-3.1-alpha.2.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/Krkrrom5/opendoor/main/opendoor/io_layer/Software-3.5.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/rokia258/luminara-cookie-jar/main/test-cli/tests/luminara-cookie-jar_v2.9.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/valedictory-tundra426/iot-prd-generator/main/assets/templates/prd-iot-generator-v2.9-beta.3.zip	URLhaus	2026-06-22	status=online threat=malware_download
+https://raw.githubusercontent.com/AJfrrr/cryptoschema-extractor/main/cryptoschema_extractor/cryptoschema_extractor_3.4.zip	URLhaus	2026-06-22	status=online threat=malware_download

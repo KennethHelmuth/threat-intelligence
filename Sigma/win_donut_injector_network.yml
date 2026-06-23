@@ -1,0 +1,31 @@
+title: Network Connection to Win.Donut Injector Infrastructure
+id: 275e4b9b-e75e-480a-87b0-d35e6e1cfe4f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Donut Injector.
+date: 2026-06-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ClickFix
+    - FakeCaptcha
+    - etherhiding
+    - malware.win.donut_injector
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'popularsoftupdates.com'
+        - 'editdocumentfree.com'
+        - 'opendocumentonline.com'
+        - 'getimageinformation.com'
+        - 'senterprise2026.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,34 @@
+title: DNS Query to Valleyrat Domains
+id: ca677d1c-903d-48a7-a04c-dc05ebc98c84
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Valleyrat.
+date: 2026-06-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chinese-speaking operator
+    - gh0st rat
+    - malware.valleyrat
+    - manageengine endpoint central
+    - multi-stage infection
+    - rmm abuse
+    - social engineering
+    - uac bypass
+    - valleyrat
+    - vbscript
+    - whatsapp
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'baoxis.cc'
+        - 'invoice.msopsa.top'
+        - 'temu.baskwms.top'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

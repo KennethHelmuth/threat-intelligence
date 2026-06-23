@@ -1,0 +1,43 @@
+title: Network Connection to Valleyrat Infrastructure
+id: f47022bf-8afd-4b96-b912-1563fc3f687c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Valleyrat.
+date: 2026-06-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chinese-speaking operator
+    - gh0st rat
+    - malware.valleyrat
+    - manageengine endpoint central
+    - multi-stage infection
+    - rmm abuse
+    - social engineering
+    - uac bypass
+    - valleyrat
+    - vbscript
+    - whatsapp
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'baoxis.cc'
+        - 'invoice.msopsa.top'
+        - 'temu.baskwms.top'
+        DestinationIp|contains:
+        - '202.61.160.201'
+        - '202.61.160.137'
+        - '202.61.160.160'
+        - '202.61.160.202'
+        - '202.61.160.208'
+        - '38.55.151.63'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
