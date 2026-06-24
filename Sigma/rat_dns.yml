@@ -1,0 +1,32 @@
+title: DNS Query to Rat Domains
+id: b28693b5-e2ca-4f9c-b09a-7305f9124c8a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Rat.
+date: 2026-06-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - malware.rat
+    - multistage
+    - npm
+    - nuitka
+    - postcss
+    - python
+    - rat
+    - supply chain
+    - typosquatting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'nvidiadriver.net'
+        - 'winpatch-xd7d.win'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

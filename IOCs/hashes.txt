@@ -1377,3 +1377,232 @@ fad482ded2e25ce9e1dd3d3ecc3227af714bdfbbde04347dbc1b21d6a3670405	OTX	2026-06-22	
 7709d8c34d490509f3624104611eb75a862944dd9d7a642f44514ada16c85ee9	OTX	2026-06-19	family=sim.py | pulse='Threat Actors Weaponizing RAR Archives to Target Thailand's Healthcare Sector' pulse_id=6a3551ceb394e391f2a341f1
 e5f6d9d405819e6b05b5d8268a2e973294859ad65237ede36ab612b536d0ac2b	OTX	2026-06-19	family=sim.py | pulse='Threat Actors Weaponizing RAR Archives to Target Thailand's Healthcare Sector' pulse_id=6a3551ceb394e391f2a341f1
 f4d4b8cac004bb63834c6df436721babd9464c09787c80b268d839e0aada9f87	OTX	2026-06-19	family=sim.py | pulse='Threat Actors Weaponizing RAR Archives to Target Thailand's Healthcare Sector' pulse_id=6a3551ceb394e391f2a341f1
+000122bb86e71548cc16dd4c4f5bb6c8fdf548a098d1bd591ee10f1bc17f9883	ThreatFox	2026-06-23	family=unknown | confidence=75% threat=payload | vt=0/74
+0c5f1770ba4495fb3be0e3abd522a7b0685cb375e33acf5c42fde6cba0513c41	ThreatFox	2026-06-23	family=unknown | confidence=75% threat=payload | vt=2/74
+131d73baac6511df4290684e7a935aa72627ec459b07b2c2fcbb3eda06e48b5b	MalwareBazaar	2026-06-24	filetype=xapk md5=35f7de6e75bc3b7b9bbebe5ed68a203d sha1=None | vt=2/74
+53ec3546057bc6eaffc0403fed417b9a3aecf31482456aacc1c6ef8f64449963	MalwareBazaar	2026-06-24	filetype=xapk md5=56dccb2e418f5525eafc08dbe8982dd2 sha1=deafd0def7abf9b445090dc9f6fb011212026cb9 | vt=1/74
+92b4d6b3527a78cc2483f3a1f0cf30b849fc117272310fe85f1cef934914eaa7	MalwareBazaar	2026-06-24	filetype=xapk md5=16a4c860b844f21e6f56ec6f5a8ce8a3 sha1=0d504b3addbd85173e5522736bdf8fc5820c6fda | vt=1/74
+1516ab566efef411a809b5220ef748c79ee0199e2340b3576168204b59443bae	MalwareBazaar	2026-06-24	filetype=msi md5=bcadcac14962ec276a96c5d172158e4e sha1=ebb64f7657d820fc2fd85f55e10565ad3e646cf1 | vt=19/74
+a9bf6b54b485f91eb950df281998f1096f3a84c87bbd662710294e3b25c9f950	MalwareBazaar	2026-06-24	filetype=exe md5=ca75020407cd030a1f43a362b6f0f977 sha1=34d0b2b1c8fb7a4cadf50602e01be5277f8a9a98 | vt=54/74
+83db1389e824cba2f08277f4b9a57429d4d6b3fe6d779ad0b4860874553ba5d4	ThreatFox	2026-06-23	family=osx.amos | confidence=100% threat=payload
+79187195d75a83469f94d84887157251	ThreatFox	2026-06-23	family=win.stealc | confidence=95% threat=payload
+87c61136236dbb9ab635e379d866fe49	ThreatFox	2026-06-23	family=win.stealc | confidence=95% threat=payload
+1188d1f47cfc3797e1eb004e531b11b7a191a21475d97226dfa607db380b650b	ThreatFox	2026-06-23	family=win.stealc | confidence=95% threat=payload
+d2b4cb1d964d01bce7246acb289f2a23	ThreatFox	2026-06-23	family=win.stealc | confidence=95% threat=payload
+33166e17fdb736cdfbe304002b081db17069618d5110e30b3a01d9086d5e1273	ThreatFox	2026-06-23	family=win.stealc | confidence=95% threat=payload
+820e7ddb14f8b3de26b54c56d8b67749	ThreatFox	2026-06-23	family=win.stealc | confidence=95% threat=payload
+69e82da57188417c62f945e4d4747954ee3e75edfc82e7da9c28f67cef18430a	ThreatFox	2026-06-23	family=win.stealc | confidence=95% threat=payload
+ab0553ff56ec4cd19d58b115c03513e6	ThreatFox	2026-06-23	family=win.stealc | confidence=95% threat=payload
+dad8e703aa0e0077992d417f2825b9fd7b3c54058f76212547ffb0da2e072e02	ThreatFox	2026-06-23	family=win.stealc | confidence=95% threat=payload
+214e97b9f597cbb2422a4cf062c8154f	ThreatFox	2026-06-23	family=win.agent_tesla | confidence=95% threat=payload
+f56297a4158c79b49c9079ba634ea9595461717fb0955affe308ea05633ec9f1	ThreatFox	2026-06-23	family=win.stealc | confidence=95% threat=payload
+5ff36f2bfed0594959b6274942585334	ThreatFox	2026-06-23	family=win.formbook | confidence=95% threat=payload
+059f89bc7b83b669362cb3ce1182508255c2e97c296c1b9820415d0a9b1ba3d5	ThreatFox	2026-06-23	family=win.agent_tesla | confidence=95% threat=payload
+97894eccb6b591f2176e28068418b4cdb7d8ef439680b55936cc0189d4dff6c2	ThreatFox	2026-06-23	family=win.formbook | confidence=95% threat=payload
+9e88feaa39cb8d2c778b87ad7b89ae97	ThreatFox	2026-06-23	family=win.starloader | confidence=95% threat=payload
+dbb698ebf5abfaae07cc900762d6580df0c86eae78e416983a0784d611b25b19	ThreatFox	2026-06-23	family=win.starloader | confidence=95% threat=payload
+b5f51c54c5839d9a18e8dc4068ff247b177e9208c4a6d3404393494af83eec50	ThreatFox	2026-06-23	family=win.starloader | confidence=95% threat=payload
+01803f005f87f23b7fa07841b12e2bea	ThreatFox	2026-06-23	family=win.starloader | confidence=95% threat=payload
+c597e50b1cff780f6550c38184652947	ThreatFox	2026-06-23	family=win.starloader | confidence=95% threat=payload
+3cb00022d8a6eff781dc293e2ac2fd39	ThreatFox	2026-06-23	family=win.starloader | confidence=95% threat=payload
+c8ba0a3d838ca1b968f7c21976339a477f49c43413b7a83583592a03554b5a27	ThreatFox	2026-06-23	family=win.starloader | confidence=95% threat=payload
+0879e5569c1331665eabd5ab96b22c3d	ThreatFox	2026-06-23	family=win.starloader | confidence=95% threat=payload
+25e648823b90865e55cff7f7d9c0f53c46aaa80db33212aae1d6bb60f394da8d	ThreatFox	2026-06-23	family=win.starloader | confidence=95% threat=payload
+c7dfe7b9f5d6e98de85edf2e4f16e7e5	ThreatFox	2026-06-23	family=win.valley_rat | confidence=95% threat=payload
+9b30f3c425c9eb4d4bf7d6bca07b82f5f63fbcc92a43e0885b2e7613d76d7a1d	ThreatFox	2026-06-23	family=win.starloader | confidence=95% threat=payload
+449b0afdd3d6f27090a783b882c527a7	ThreatFox	2026-06-23	family=py.pxa_stealer | confidence=95% threat=payload
+3441e8dc5855680eecd7b9795d918ad23ec48a718a1a874979f2570751d4ce12	ThreatFox	2026-06-23	family=win.valley_rat | confidence=95% threat=payload
+ea425b8c0e70dca5e395592a4e7379d5	ThreatFox	2026-06-23	family=win.coinminer | confidence=95% threat=payload
+fcd0615378546a7f70b2a81cd83cd1da2bbc0595c75869c7b42956bd69d0015a	ThreatFox	2026-06-23	family=py.pxa_stealer | confidence=95% threat=payload
+2d715527ed271f79a106cea57e63c42c	ThreatFox	2026-06-23	family=win.vidar | confidence=95% threat=payload
+7aa0e249b5c1176344f5fa5579d39a095a08bcb156ffa1789c16c2828bb4cf13	ThreatFox	2026-06-23	family=win.coinminer | confidence=95% threat=payload
+448632521c4e9e8c6347c1a60068fda0	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+e22803cae1a7038c13aa1fedc934cdadf64aba5313c728246986febf3d219266	ThreatFox	2026-06-23	family=win.vidar | confidence=95% threat=payload
+d4ad0cc7f55c93e3283afcf27fd367df	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+d4a858911a34290410ef354e1d00e02874dca9ed946d4bef5bae5e0149b52b72	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+d25c2e6f6efa788da31393d2fd0bbe25dd9fb0ff8414115c020971df71efd3ab	ThreatFox	2026-06-23	family=py.blankgrabber | confidence=95% threat=payload
+6e0966ab703a05ce406d9a34a67c8519	ThreatFox	2026-06-23	family=py.blankgrabber | confidence=95% threat=payload
+b5fd21ff8bb89ae62c4e0ba14fdeb11ba5c42aef94a9718e830ea113a5cde880	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+cccaa74eb48cc6152f062bff6416def6922875ff7da6bbd2fac5f75b3332493b	ThreatFox	2026-06-23	family=win.hijackloader | confidence=95% threat=payload
+f9faf7b128cbe714fc5fea22fd6fcfca	ThreatFox	2026-06-23	family=win.hijackloader | confidence=95% threat=payload
+d9d8d0359d7307b6342bb65d21ca5242ea8cef686ece2a53832f18fedaebee0f	ThreatFox	2026-06-23	family=win.vidar | confidence=95% threat=payload
+2363e2bc658b1742795bb1b2b34ecb8f	ThreatFox	2026-06-23	family=win.vidar | confidence=95% threat=payload
+29571eb079c469ee84ed580743f3632920435540adc9100cf91b40ff2ef7647a	ThreatFox	2026-06-23	family=win.vidar | confidence=95% threat=payload
+c4cc23fb7a38b9891faacc6d69bf0e0d	ThreatFox	2026-06-23	family=win.vidar | confidence=95% threat=payload
+082c34d5ff4cc9268a700a57b1c3604bf0051e09be704549bb18876e7047f28b	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+da6350db6be2cdc4ccdb5577e36f8b33	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+8508735e2c6cc5b7a95cfc06f4d467cc0be161b6df6dfd5491117fdd5ed00dbb	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+66fd839bf8f8f2905ceb862805a0e2a3	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+966ce68b2eae61e5528a9f7a8cca097d1d1c8d698dd2006d8a45605c29894459	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+1f715464d6eeb3e78639882abe18bcb0	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+020319661288963025c1832c0f99ff6ec266f9c6deb7533c3ac0ec186367cd4c	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+b8f547ae812d1ef149f42436880621f7	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+b9f1f768ac05c84377c2e36fa56be5294856571cf59a168dc768cb6b29037fc3	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+048f9479bf9e79c486bd4b6a527f6025	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+01e9c74cbdced022d97ea6c20653112c396dc9c5307899ff0960de3a8895f036	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+ea9653fc6e7780c699895a8f6a65f7e7	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+4a89c176d80a853fbcfa41ae3f832366	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+72d63a58a15014d10fc40c909687ddbb	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+c5641ee1850c5ccb6d8a2bf6894235cf3177115205f1543548ab6ed41778b004	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+df82f49a449258f8b3369a9e9e15ec51	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+6a733de838f642ba5b8f65c589c19037c4e77f04fa3e26bdf4cb9719fa97b3c0	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+aa1b9dafea5da9a91038446d0d6e0e8a	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+1198a85b96154a18dfb7a2bb60e87750e21835e925aca7c89ed54d0e943f7bce	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+e802d26922497c447c7152d0dc7f1c35	ThreatFox	2026-06-23	family=win.vidar | confidence=95% threat=payload
+0928a46bc4622e85afba9206988f3fce40c8bd0c7a6263098228fa661320870c	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+d77ecb98f524306213dd2e2e4d2bbce0	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+e3133d6068eba141b3a07adf832a9f6200c116a9dbed925f8db92c5911c908a4	ThreatFox	2026-06-23	family=win.vidar | confidence=95% threat=payload
+acb6362aea9d26d1992131fddb32ec6ae6ce8a1a28b853593f5475f7fb212274	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+abbac2111fb10a1b0359548802e084e4dc5ef889c76b1508b766f74f37879ae1	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+0bb33ef113ce5c086bdd25e91a50c07a	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+12ea1472fafdbc11e93a379b76d9aa5dd683bd72639cc0977d4a17a266221e43	ThreatFox	2026-06-23	family=win.vidar | confidence=95% threat=payload
+2c70011ea7f76773e68ed581b89ef56e	ThreatFox	2026-06-23	family=win.vidar | confidence=95% threat=payload
+1a27d360e4870f260abe8feb74ff71014954200fb83358eb49429ae7306c3836	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+31e6b51f8ff1b0c429f68978e793b5bd	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+08230ab9413d48445adc50a44ac220c38b933fe0ee91c4e385420d7b1a37e117	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+4a28d74422d11c29804d84bff744fd0c	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+453926ac43baf65bad26a54d0d03e6e3	ThreatFox	2026-06-23	family=win.vidar | confidence=95% threat=payload
+da3fd6ee9a00c393e2237cd264fae318351b8cfdce982510107cc38034bd047d	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+c37b66823272ad2020cbd4d34f2d6cef	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+c7670cf49ec638996209d47baec772ab79e41ee7cb78fa08f61fb46a34843b2f	ThreatFox	2026-06-23	family=win.vidar | confidence=95% threat=payload
+33d553f06fa035685ebaa7e6d92b701af8f6f7a8731330dd2397fc9f7414672d	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+d32f235bef8d215d9841d2ef4826f7c6	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+e58a15a0e14a06d42f8520559225146b41245047bea80398eaa609e181b1f939	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+a81f5cc8fe2ee8f89c9406fbfe64ed19	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+316d5cd7a836b285db5a62a40d7a2d99	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+78d61f68070ec4bacd52a328c02080aab7476a540cc1fd2e72365396fb71722e	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+814500d9eed759f84863185d99ff4358	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+55db3327bd98150b3f343721ea85084960c1c71722557ca3b82f62738138b974	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+3285a1ae273683f154431dbdec2f9f884e81f9ec9074dddcc4749e1707685c84	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+a2cdebad9d05915a5a5294850f74adfe	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+0118a16faa4084c5240bf741342d47d4	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+1e76336b373ffda894b529553e1ef7e6	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+4a39903d55aefe27d938b752bb2156153157797915e7c74ce98cfcc4f1311f73	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+f515e22d8f2ad0d4e1dab5eb173f6d52	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+0b01016d6117a8a0af97c5a7a1f6e2241f0b2a31240628e8a70f6635e8386d20	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+5665f5570d006c5d08e9dfac4dc1eef5960ea07c403ffca33e88da564eaa0c83	ThreatFox	2026-06-23	family=win.valley_rat | confidence=95% threat=payload
+fb457a6418fc28940991bc763c342e3e	ThreatFox	2026-06-23	family=win.valley_rat | confidence=95% threat=payload
+c2686d007b37b0e0ba7a68b3a48a2f1c1f8a4da07b09a69bd5de6dde9889e0bc	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+f8caf4ff7737a95efeafb2ca3b219a79afd39736b02289c38eca6f46860bc181	ThreatFox	2026-06-23	family=win.coinminer | confidence=95% threat=payload
+ad0caca81694d9cff7ab3cbb5c51114b	ThreatFox	2026-06-23	family=win.coinminer | confidence=95% threat=payload
+10e23ac0190ab98cc4f6c851045279038a54dbaa1d30ae0ac6fa16543f7c0d1d	ThreatFox	2026-06-23	family=win.nanocore | confidence=95% threat=payload
+6d072d7f5d189f7714b3ef04bc0c2aec	ThreatFox	2026-06-23	family=win.nanocore | confidence=95% threat=payload
+c8525c9380f5c3d9d5c66e101120fee50c3e4a80d0981507d300b33a6cafb208	ThreatFox	2026-06-23	family=win.dostealer | confidence=95% threat=payload
+a1730a346e6f5ee77650976177a17e68	ThreatFox	2026-06-23	family=win.dostealer | confidence=95% threat=payload
+b45bbb0582aa658722616257d7cde23eb98430a2f31dbac3de596365122a642f	ThreatFox	2026-06-23	family=win.luca_stealer | confidence=95% threat=payload
+b97769a9e25a997a29d8b849800ac541	ThreatFox	2026-06-23	family=win.luca_stealer | confidence=95% threat=payload
+7127cc1a27fc514f5712dc78377877ff42bb42cb05ff217eb496166939a8c53e	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+a12583bca076954507329a37f52e2a5c	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+f2e59b3a78d4ee57638b940ea4910c76c0b09ec505da8f7719ca5064a3901f62	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+f8319f6f9c38d0bbeec1b2a153008055	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+5533719b6d2bda4dcca3cd4c9f0e5451	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+4cc86df7c8b0748102cbaca105313469	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+693e88c3ede9bf69c9f6b7c46cab0c1360ce5498ed6be7360f634314675a426e	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+6b7b93350359e62ca41a3acf97b73945	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+a068667d8f2bcb0a56930fb552a9b16e73b01b9621dbfd321c3ffc1ba4540aab	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+a937ae4c5bfa00c9c8b178587368d783	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+09318d5d0f9bda9ff2a4137a4025e042187804d36709c1228d98a805f6833f52	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+6019f364c9f02fa6b515eba7d1eec5d0	ThreatFox	2026-06-23	family=win.phantom_stealer | confidence=95% threat=payload
+04858a0860457288a32a37ca94a3ea082fb18448bb395e5eed7b04f28a1c8569	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+68cc228531adcc0b7c2f9068e443cb3d	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+24bcf4e8d33ea1e417d0a675016c6103be753ae57a6c2025e8711f0da17bc57f	ThreatFox	2026-06-23	family=win.phantom_stealer | confidence=95% threat=payload
+8fb9236c324c2fc8e9a691e0ef7fd5b6	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+e103baab2aabeaf26383fb69786e72c8068e91e8f7a086e0a496a431312b8ad3	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+d88a6aae901996d08a7796b90b670b9c	ThreatFox	2026-06-23	family=py.venus_stealer | confidence=95% threat=payload
+000bfd081641b1ef26e85ee67d601c34d9206de59929ce3faf5225cca379a407	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+a2d26b996d7b613ba4d4bc42950be5ef73e805a66e5566412e4f4588bff9dc93	ThreatFox	2026-06-23	family=py.venus_stealer | confidence=95% threat=payload
+c75668226449a2296a7788059616e975	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+33d615b96b07f00567f3939c08f4a02e	ThreatFox	2026-06-23	family=win.asyncrat | confidence=95% threat=payload
+1d424c09bb29a1c3c6c97de53d7ecee5a89060477715948d514bb06dcee0d381	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+7adeac778393f2889190521e4a72153903bff700790a50d76f6d4df05f99ca83	ThreatFox	2026-06-23	family=win.asyncrat | confidence=95% threat=payload
+bc50f5f0cf418acf65b177a2c9e9a770b7de778a638996ef82f8a86cc632f9fb	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+5b3538216b7079fbc8b0292d335fee14	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+ad02a396d2842b16b973bcd547aa0c81	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+1b57820e73fa101cbd1703fe47430606	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+82272ba8a1224ba27acf6790fce88e0b60380a3e6ab38939d48cd35e84e3f5e5	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+31bec9ae02ad45a5f57624526a2e55d7	ThreatFox	2026-06-23	family=win.darktortilla | confidence=95% threat=payload
+80790d8e694ebf955bee25b07a6d6a2dede80637e8da7642f563278aaf400a00	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+6c80b51f9655aafd1e76c6d19492fdeb	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+ca0d6b04fc3b7229e6379ad31799338a552a75f9c5b160cfee4678f88a4500fc	ThreatFox	2026-06-23	family=win.darktortilla | confidence=95% threat=payload
+8a2bfd3db3c1c7174d79577ee3669e04	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+6630c369dc42a3b09cc376337fc2b070f7aa2739e4f73867349b0b28fe0eba16	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+48aab8be1d71524bc52147732af43a4db631b5c9dacd731a08edaa44aeef6133	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+924e0f3caf68b9dc2d770ec7731e4363	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+f4dd083eebd66cb1829b90dd2f9cbf9f180a4106a23d4ecf35c0b91125a4909f	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+85c170552c596662d5903e35fa3d0803	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+cedaeda67b82f01eab28f268b9469bbf550eb9fd456b9c6cdab6cefd7fdcc06e	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+aba7b8104bf632cc981fa45dfaa4deca	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+e45497746ec8e85c6775af9e03ac001e691017773d081bd3aeb5df09f3e3afaa	ThreatFox	2026-06-23	family=win.quasar_rat | confidence=95% threat=payload
+6b730deb54b36fe9cb81817d533bcf89	ThreatFox	2026-06-23	family=win.quasar_rat | confidence=95% threat=payload
+0128796cc2b8849ba974e79ee44de0a8761550082e8c7ef920690e9b5c3dc99c	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+3dbaf616dcaacfcf66909b7a3404d1536f9e0d230b3b59934f1ccc6fe3e20554	ThreatFox	2026-06-23	family=win.asyncrat | confidence=95% threat=payload
+0be5324ba4c2f648cee646e91135728f	ThreatFox	2026-06-23	family=win.asyncrat | confidence=95% threat=payload
+e87151a8c2d6069a986895f5a7168c8ab98b52c5f917211d8d13e1156c0249eb	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+7abd23e3c92c5acbee7c6147cd1c7121	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+7b5c88bc57cd084b76f8e7da83a145ed0c65d64d4a9ca227cc4e40674a435afa	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+2eae922a47d8b14b7122ec1f93bb02c2	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+93b3fd82886a45a090e16c25da026a8197694567ecdb5bcd9aaa787e3f5f79d7	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+917337889870afed6fbc18dfbb96cb42	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+ad8699ff1e37c4939837e21aaa02ecf9	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+0bc5d51f8efe5fcb7293ef438ab7d90729b530bbca808a1a5fb10fd4638c5637	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+b9c44e860de162f8f8430a5ce7b0d81b	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+c6742350c0b2a1ef0fe7fe3bdf46dce7b43d34230318539810390699980f455c	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+4d547c0ed2440d19d7a5ed7186a2e162e224091e99b409b88b8c2fc9d7e0348e	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+2334ccbf5b701c36e95ff83289c874af	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+5e457f44b85ded5049f10308db21225c	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+00e6550efbb39731ffca412808163435	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+afc81242f78b72681897c590da4c4ccea2c714a9d132e867b2a40c479562bb77	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+191436a9bea707bb25df754d19c21bdd	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+011b3b20095e9de6e8c5f3a0f3ca18b5404869ada82599c4bf4473e2204953dc	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+0ad7f891ca02d0f11a3209211f3f6543393774f317dcad291628d9d7c7f0865e	ThreatFox	2026-06-23	family=win.netwire | confidence=95% threat=payload
+3fc221b4c837deedba2a10c9334aeef33acf1dd287e04208e1e2929a56cb5cad	ThreatFox	2026-06-23	family=elf.mirai | confidence=80% threat=payload
+68e2eaaf831a3f3ae2009b349226218be68c7eb16c0cbb051c3dacb15f51a665	ThreatFox	2026-06-23	family=elf.mirai | confidence=80% threat=payload
+52746757fcaa032ec73fa1344c12a86295b170fd44cec5ece496279b29796a17	ThreatFox	2026-06-23	family=elf.mirai | confidence=80% threat=payload
+b35ea6b18e0bb373da551d5aef9353b9b63878a771f6930e41f37b332bdb8fd8	ThreatFox	2026-06-23	family=elf.mirai | confidence=80% threat=payload
+7b15e02eb1012a75718bdbb7e4eb296337f7ddab152a72caf81f4440abf101b5	ThreatFox	2026-06-23	family=elf.mirai | confidence=80% threat=payload
+bb2b445a438cd2091098112e40248b332da6d01378dacf5d48c97eba74e62151	ThreatFox	2026-06-23	family=elf.mirai | confidence=80% threat=payload
+fbde3dfeefcc05bd893b757804dbcf3c6f1abe2e12cc28291bd778e01aa28af9	ThreatFox	2026-06-23	family=elf.mirai | confidence=80% threat=payload
+33efcefc39dabf8181aaf22dfab876531a86beb077a0eb87c77c80c5dadf2fa3	ThreatFox	2026-06-23	family=elf.mirai | confidence=80% threat=payload
+863bfa0c0feb80dcdb7b9d3312c141496ccaba5017d692f016482f020c3db3a2	ThreatFox	2026-06-23	family=elf.mirai | confidence=80% threat=payload
+aedc3120dd7be8cb7336e8e6ed9b31fcdc01e10bc51e3491053858a4d403f001	ThreatFox	2026-06-23	family=elf.mirai | confidence=80% threat=payload
+a30a9779079dc897a15fed27f27f614fab77a20e953368808ba99ac6c6a3375b	OTX	2026-06-23	family=ScreenConnect | pulse='Observed phishing URLs delivering RMM payload' pulse_id=6a3ae5bf02925732fd075068
+372f19a45d0eb4c8c52117c6ae2bb8040a91bc72be8670623f957a18c2166985	OTX	2026-06-23	family=Remcos RAT | pulse='A Multi-Stage Steganographic Loader Campaign Deploying Diverse Payloads Globally' pulse_id=6a3ac3d87dd519f2fec1d2ea
+897abf678edad72998554ec18675092f	OTX	2026-06-23	family=Remcos RAT | pulse='A Multi-Stage Steganographic Loader Campaign Deploying Diverse Payloads Globally' pulse_id=6a3ac3d87dd519f2fec1d2ea
+afe085b7324d72673eef749ff5f21a49	OTX	2026-06-23	family=Remcos RAT | pulse='A Multi-Stage Steganographic Loader Campaign Deploying Diverse Payloads Globally' pulse_id=6a3ac3d87dd519f2fec1d2ea
+c2e25aba8e2ad4cafdd6c633b8ca0906	OTX	2026-06-23	family=Remcos RAT | pulse='A Multi-Stage Steganographic Loader Campaign Deploying Diverse Payloads Globally' pulse_id=6a3ac3d87dd519f2fec1d2ea
+be36ef651eed6808760153200a3a2a2b7060cce5	OTX	2026-06-23	family=Remcos RAT | pulse='A Multi-Stage Steganographic Loader Campaign Deploying Diverse Payloads Globally' pulse_id=6a3ac3d87dd519f2fec1d2ea
+4924369c0bdaf73b21eb992eb9db4dea	OTX	2026-06-23	family=Remcos RAT | pulse='A Multi-Stage Steganographic Loader Campaign Deploying Diverse Payloads Globally' pulse_id=6a3ac3d87dd519f2fec1d2ea
+f3626a38fcf488c9eed54beb8c7c116f	OTX	2026-06-23	family=Remcos RAT | pulse='A Multi-Stage Steganographic Loader Campaign Deploying Diverse Payloads Globally' pulse_id=6a3ac3d87dd519f2fec1d2ea
+6df13b336f3daccc29a5f24bd5824f4ae9b4d7c45ee9c9adcd7a36679ee009c5	OTX	2026-06-23	family=SHEETCREEP | pulse='The #APT36 cluster can't stop, won't stop' pulse_id=6a3add255a93c4e851962479
+558dd73f708d4ea7b33fec295ac201ee5c76ba293856d8835225538c11ff208e	OTX	2026-06-23	family=SHEETCREEP | pulse='The #APT36 cluster can't stop, won't stop' pulse_id=6a3add255a93c4e851962479
+9a93231038c7807c7c1376de1546cae94b6778106bb2ef115631da0991adbb91	OTX	2026-06-23	family=SHEETCREEP | pulse='The #APT36 cluster can't stop, won't stop' pulse_id=6a3add255a93c4e851962479
+12335f9a1b7d3b84d2844b42f6f2ae03b70c2cc3d68e6c2dd468ee1ec6b2f3c1	OTX	2026-06-23	family=SHEETCREEP | pulse='The #APT36 cluster can't stop, won't stop' pulse_id=6a3add255a93c4e851962479
+3d74a0fb447590ba7c054e6e7c6d182d145651f588aa4de8bf0972461d9652f2	OTX	2026-06-23	family=SHEETCREEP | pulse='The #APT36 cluster can't stop, won't stop' pulse_id=6a3add255a93c4e851962479
+208166120775a11cb6680139ea0f3372	OTX	2026-06-23	family=rat | pulse='From PostCSS Masquerading to Windows RAT' pulse_id=6a3ac05e2137f66d3a690558
+4c1bdb2b045debf5b25e5be540ef99f0	OTX	2026-06-23	family=rat | pulse='From PostCSS Masquerading to Windows RAT' pulse_id=6a3ac05e2137f66d3a690558
+c2875e2f45e5f1dfa04463de53b3fa5a	OTX	2026-06-23	family=rat | pulse='From PostCSS Masquerading to Windows RAT' pulse_id=6a3ac05e2137f66d3a690558
+c5207f87b9103634b4db6f120eb6172a	OTX	2026-06-23	family=rat | pulse='From PostCSS Masquerading to Windows RAT' pulse_id=6a3ac05e2137f66d3a690558
+f189c338a5f2bc3cce06cee37c0b7522	OTX	2026-06-23	family=rat | pulse='From PostCSS Masquerading to Windows RAT' pulse_id=6a3ac05e2137f66d3a690558
+2890d90edfc08fb4cfafe0d5fa2a9fb6800dedf5	OTX	2026-06-23	family=rat | pulse='From PostCSS Masquerading to Windows RAT' pulse_id=6a3ac05e2137f66d3a690558
+71c6cd37ddc0e5899174c72eefee8b224fd1f4bb	OTX	2026-06-23	family=rat | pulse='From PostCSS Masquerading to Windows RAT' pulse_id=6a3ac05e2137f66d3a690558
+7b1919c35da92cf5fd2583783dc9364fd11b69d2	OTX	2026-06-23	family=rat | pulse='From PostCSS Masquerading to Windows RAT' pulse_id=6a3ac05e2137f66d3a690558
+8e162d4fc8c5c74e16bfb4346f893cc7a71c2476	OTX	2026-06-23	family=rat | pulse='From PostCSS Masquerading to Windows RAT' pulse_id=6a3ac05e2137f66d3a690558
+965e3d19c89f12ef730120b84d9ee38755841447	OTX	2026-06-23	family=rat | pulse='From PostCSS Masquerading to Windows RAT' pulse_id=6a3ac05e2137f66d3a690558
+164e322d6fbc62e254d73583acd7f39444c884d3f5e6a5d27db143fc25bc88b3	OTX	2026-06-23	family=rat | pulse='From PostCSS Masquerading to Windows RAT' pulse_id=6a3ac05e2137f66d3a690558
+17832aa629524ef6e8d8d6e9b6b902a8d324b559e3c36dbd0e221ab1690be871	OTX	2026-06-23	family=rat | pulse='From PostCSS Masquerading to Windows RAT' pulse_id=6a3ac05e2137f66d3a690558
+282b9bc318ad1234cbd1b86424b784299b8be31545802a7c6b751166b814b990	OTX	2026-06-23	family=rat | pulse='From PostCSS Masquerading to Windows RAT' pulse_id=6a3ac05e2137f66d3a690558
+50ffce607867d8fa8eaf6ef5cd25a3c0e7e4415e881b9e55c04a67bcddb74fdf	OTX	2026-06-23	family=rat | pulse='From PostCSS Masquerading to Windows RAT' pulse_id=6a3ac05e2137f66d3a690558
+c8075bbff748096e1c6a1ea0aa67bb6762fdd7551427a12425b35b94c1f1ecf2	OTX	2026-06-23	family=rat | pulse='From PostCSS Masquerading to Windows RAT' pulse_id=6a3ac05e2137f66d3a690558
+f6669bd504ce6b0e303be7ee47f2ebbc062989c88c41f0a3f436044a24869798	OTX	2026-06-23	family=rat | pulse='From PostCSS Masquerading to Windows RAT' pulse_id=6a3ac05e2137f66d3a690558
+4ce45e016a304d813e67b29a08265b2101c2e15a09ace5de6539cad02567affe	OTX	2026-06-23	family=node-fetch-utils | pulse='Artifact scanner detects npm package 'node-fetch-utils' using external dependency resolution with remote tarball dependency from GitHub' pulse_id=6a3a780ee89db8a716522418
+7bd07e4d557852446a284d038fa0ed0e	OTX	2026-06-23	family=node-fetch-utils | pulse='Artifact scanner detects npm package 'node-fetch-utils' using external dependency resolution with remote tarball dependency from GitHub' pulse_id=6a3a780ee89db8a716522418
+191f6b9a3bc7f0f01c6aaae6485b7bf85e6c12f4	OTX	2026-06-23	family=node-fetch-utils | pulse='Artifact scanner detects npm package 'node-fetch-utils' using external dependency resolution with remote tarball dependency from GitHub' pulse_id=6a3a780ee89db8a716522418
+7b7981c99d59595fe15377df84695bb72ce0b85560a3935f930657b2d162e5ef	OTX	2026-06-23	family=credential harvesting | pulse='PHISH ALERT: From a Simple Phishing Email to a Full Attack Arsenal: The Evolution of "ClickFix"' pulse_id=6a3a7809c43cfba36348ed9d
+adcd15f3d6b87f84d106ea426fa824fd20c9d64f6d199ce92580884290785f30	OTX	2026-06-23	family=credential harvesting | pulse='PHISH ALERT: From a Simple Phishing Email to a Full Attack Arsenal: The Evolution of "ClickFix"' pulse_id=6a3a7809c43cfba36348ed9d
+d7d2f0ee187549f3f4a114d716be12521fbf62d6d26e2ac23d2a32d521d08fd8	OTX	2026-06-23	family=credential harvesting | pulse='PHISH ALERT: From a Simple Phishing Email to a Full Attack Arsenal: The Evolution of "ClickFix"' pulse_id=6a3a7809c43cfba36348ed9d
+79e205576bdad2cce593ae850b0c9e31	OTX	2026-06-23	family=credential harvesting | pulse='PHISH ALERT: From a Simple Phishing Email to a Full Attack Arsenal: The Evolution of "ClickFix"' pulse_id=6a3a7809c43cfba36348ed9d
+e5989c374fa9cb1bc53b202032257a3c	OTX	2026-06-23	family=credential harvesting | pulse='PHISH ALERT: From a Simple Phishing Email to a Full Attack Arsenal: The Evolution of "ClickFix"' pulse_id=6a3a7809c43cfba36348ed9d
+5442dea013b109ac4d0cdc52248b758a6cb9684c	OTX	2026-06-23	family=credential harvesting | pulse='PHISH ALERT: From a Simple Phishing Email to a Full Attack Arsenal: The Evolution of "ClickFix"' pulse_id=6a3a7809c43cfba36348ed9d
+e46d05b8aa8f1b1a5e81da2ebe2bf8e94cbe85fe	OTX	2026-06-23	family=credential harvesting | pulse='PHISH ALERT: From a Simple Phishing Email to a Full Attack Arsenal: The Evolution of "ClickFix"' pulse_id=6a3a7809c43cfba36348ed9d
+7596699747d2b284df77d2c83714aa00	OTX	2026-06-23	family=credential harvesting | pulse='PHISH ALERT: From a Simple Phishing Email to a Full Attack Arsenal: The Evolution of "ClickFix"' pulse_id=6a3a7809c43cfba36348ed9d
+5cf01e24f6bafa64815d1bd2f3323ea091d504cc	OTX	2026-06-23	family=credential harvesting | pulse='PHISH ALERT: From a Simple Phishing Email to a Full Attack Arsenal: The Evolution of "ClickFix"' pulse_id=6a3a7809c43cfba36348ed9d

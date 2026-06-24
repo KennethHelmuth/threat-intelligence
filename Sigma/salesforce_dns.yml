@@ -1,0 +1,30 @@
+title: DNS Query to Salesforce Domains
+id: 0a7516c0-5128-413d-9cfa-9aa18e13d7a3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Salesforce.
+date: 2026-06-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - crm data breach
+    - klue
+    - lastpass
+    - malware.salesforce
+    - oauth tokens
+    - phishing risk
+    - salesforce
+    - supply chain attack
+    - third-party vendor compromise
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'baccarat.com.au'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

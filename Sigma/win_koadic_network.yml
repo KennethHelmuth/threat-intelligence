@@ -1,0 +1,25 @@
+title: Network Connection to Win.Koadic Infrastructure
+id: a29522c8-725b-4fa8-9bb1-efa3783b8d00
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Koadic.
+date: 2026-06-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Koadic
+    - malware.win.koadic
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'usoram2026.duckdns.org'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

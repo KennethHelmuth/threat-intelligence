@@ -1,0 +1,23 @@
+title: DNS Query to Win.Koadic Domains
+id: ca777a01-b13c-482a-92b9-042e6cfeb3e6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Koadic.
+date: 2026-06-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Koadic
+    - malware.win.koadic
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'usoram2026.duckdns.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

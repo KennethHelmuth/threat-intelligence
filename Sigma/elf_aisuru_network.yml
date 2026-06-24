@@ -1,0 +1,31 @@
+title: Network Connection to Elf.Aisuru Infrastructure
+id: 7dec807c-cf3e-4ecf-a53d-79733f9ad672
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Aisuru.
+date: 2026-06-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - AISURU
+    - c2
+    - malware.elf.aisuru
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '206.189.94.70'
+        - '129.212.233.8'
+        - '206.189.94.70'
+        - '129.212.233.8'
+        - '157.230.237.88'
+        - '147.182.217.141'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
