@@ -1,0 +1,25 @@
+title: Network Connection to Elf.Backdoorit Infrastructure
+id: f3791deb-323d-4936-94f8-cb0eccbe33fd
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Backdoorit.
+date: 2026-06-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - backdoor
+    - malware.elf.backdoorit
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'impresa.pub'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

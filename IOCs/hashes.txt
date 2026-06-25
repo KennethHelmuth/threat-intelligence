@@ -1606,3 +1606,33 @@ e5989c374fa9cb1bc53b202032257a3c	OTX	2026-06-23	family=credential harvesting | p
 e46d05b8aa8f1b1a5e81da2ebe2bf8e94cbe85fe	OTX	2026-06-23	family=credential harvesting | pulse='PHISH ALERT: From a Simple Phishing Email to a Full Attack Arsenal: The Evolution of "ClickFix"' pulse_id=6a3a7809c43cfba36348ed9d
 7596699747d2b284df77d2c83714aa00	OTX	2026-06-23	family=credential harvesting | pulse='PHISH ALERT: From a Simple Phishing Email to a Full Attack Arsenal: The Evolution of "ClickFix"' pulse_id=6a3a7809c43cfba36348ed9d
 5cf01e24f6bafa64815d1bd2f3323ea091d504cc	OTX	2026-06-23	family=credential harvesting | pulse='PHISH ALERT: From a Simple Phishing Email to a Full Attack Arsenal: The Evolution of "ClickFix"' pulse_id=6a3a7809c43cfba36348ed9d
+1eb89fbbdeaca143288cd71e73304fedf5abbeb093bfe64bce48ccb4e5158be9	ThreatFox	2026-06-25	family=unknown | confidence=75% threat=payload | vt=0/75
+34b1ab13d92e0551fb4bd85319cdec417ef110628d6af437b734c81358257254	MalwareBazaar	2026-06-25	filetype=sh md5=72304734486b1010ccdd69dd0369daf1 sha1=2eac89a4cade7be7e088425410351949fcc1f9bd | vt=19/75
+a8484c9b65270cb49da643faf17994959a035be72203eb9b4f9e90feb37f75e7	MalwareBazaar	2026-06-25	filetype=sh md5=353d831ea59f2a9a29fc339bbd432e72 sha1=04c8fa06daa7279db6f09f7a17123c83540ade3e | vt=19/75
+363ee51fc02f20cb206039434758c3afa1c71bc7d316c6db4a39b0d310ab92f9	ThreatFox	2026-06-25	family=win.remcos | confidence=100% threat=payload
+a8c80fd91c3104f110be2bea8288621eadba7d4e9060fe9d9ae97719d5a298f6	ThreatFox	2026-06-24	family=win.socks5_systemz | confidence=95% threat=payload
+f6ad32434247191f22bb92daec16df79	ThreatFox	2026-06-24	family=win.socks5_systemz | confidence=95% threat=payload
+c5c2c8515c39bb0752d0e4064af465978b8cbb12a762b0c2411297262c4230e4	ThreatFox	2026-06-24	family=win.formbook | confidence=95% threat=payload
+375e3e0945e1aae4a3ed38420238db1b	ThreatFox	2026-06-24	family=win.formbook | confidence=95% threat=payload
+69642cd14966d9ab7e824fa28c3f06b00c18a3d6de683d3754e41b5424d4f750	ThreatFox	2026-06-24	family=win.formbook | confidence=95% threat=payload
+e2e001f0896a74144a4fb0bbabe8e672	ThreatFox	2026-06-24	family=win.formbook | confidence=95% threat=payload
+a54318d38eb5b85ffa139155072f9581b55eab73b03aed1cfba6431dda1fc7c6	ThreatFox	2026-06-24	family=win.ghost_rat | confidence=95% threat=payload
+7f4dfafd6d37ad850e5d38f090eed2c9	ThreatFox	2026-06-24	family=win.ghost_rat | confidence=95% threat=payload
+e27a5045f2660cb54dff7d7e161e87dcb752a50c6ada34941615c0995349f0db	ThreatFox	2026-06-24	family=win.tinymet | confidence=95% threat=payload
+02729d88a009fbfd895cf9b5395ff8bb	ThreatFox	2026-06-24	family=win.tinymet | confidence=95% threat=payload
+67b8124fadb279c17d379cb2945280d3	ThreatFox	2026-06-24	family=win.wannacryptor | confidence=95% threat=payload
+3cbb2b2f06b3a55dafc4f53f0babb163668ecd5832363d69b5d96c378f6c7f85	ThreatFox	2026-06-24	family=win.vidar | confidence=95% threat=payload
+838690a59454ceca4ead19bb6182cce7	ThreatFox	2026-06-24	family=win.vidar | confidence=95% threat=payload
+8540b339ae5a8ce9b54e4a41e42a364b317d78ac6679a8a845d33c27d3f435c8	ThreatFox	2026-06-24	family=win.wannacryptor | confidence=95% threat=payload
+d89940de135aefb14006171ce9583685	ThreatFox	2026-06-24	family=win.asyncrat | confidence=95% threat=payload
+1056d0afee214f439f0b8f9a94144cb6	ThreatFox	2026-06-24	family=win.vidar | confidence=95% threat=payload
+b1b2ce043a42e8a9fd97d478bf86776103b2be910dfcff97e7d9ce6378e7701e	ThreatFox	2026-06-24	family=win.asyncrat | confidence=95% threat=payload
+3b39953c24882ef34dc75ef5badb0ada	ThreatFox	2026-06-24	family=win.vidar | confidence=95% threat=payload
+4109c17426627535aa43650672e76150d73150bb5358222d01ac4af02f6aec9f	ThreatFox	2026-06-24	family=win.vidar | confidence=95% threat=payload
+028f4d4e2a10746578248da6e51ff891	ThreatFox	2026-06-24	family=py.venus_stealer | confidence=95% threat=payload
+2f5a0566c5576efac2c72cdd0270840e4171c5b72e0fd7058b70e0f0c49d8f46	ThreatFox	2026-06-24	family=win.vidar | confidence=95% threat=payload
+90a27fd7f19422c8b76ac2961c329b544ce06f1320c98295ab5fcaceff02d543	ThreatFox	2026-06-24	family=py.venus_stealer | confidence=95% threat=payload
+ffba0d0ec1848f799a0ab489affb8ab7	ThreatFox	2026-06-24	family=win.vidar | confidence=95% threat=payload
+e5f8ab450586be710d9bd3b2a9e6f421a77567736b920833868045e1f0c7b44c	ThreatFox	2026-06-24	family=win.vidar | confidence=95% threat=payload
+86cdb9c9aed5bc74090be5d955162a2a	ThreatFox	2026-06-24	family=win.vidar | confidence=95% threat=payload
+294ae135fa8ca524f5a78f8a12e2ed99c535bc58c86333dba3759ab738e971c7	ThreatFox	2026-06-24	family=win.vidar | confidence=95% threat=payload

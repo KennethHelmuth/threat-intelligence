@@ -1,0 +1,23 @@
+title: DNS Query to Js.Magecart Domains
+id: d0d1953a-37be-4af6-afa8-6072268c7dd8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Js.Magecart.
+date: 2026-06-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Magecart
+    - malware.js.magecart
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'crimsonnightsky.top'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

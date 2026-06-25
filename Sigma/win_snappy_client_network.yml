@@ -1,0 +1,26 @@
+title: Network Connection to Win.Snappy Client Infrastructure
+id: dba39f11-d17c-4026-be35-31612a24d038
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Snappy Client.
+date: 2026-06-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - SnappyClient
+    - malware.win.snappy_client
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '91.92.240.107'
+        - '91.92.240.107'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

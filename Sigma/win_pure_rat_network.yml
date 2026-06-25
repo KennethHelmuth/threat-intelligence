@@ -1,0 +1,30 @@
+title: Network Connection to Win.Pure Rat Infrastructure
+id: 08079076-6db8-4f7d-8147-228bc0b25306
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Pure Rat.
+date: 2026-06-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - PureHVNC
+    - PureRAT
+    - RAT
+    - malware.win.pure_rat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '45.225.135.24'
+        - '192.163.162.63'
+        - '144.124.236.93'
+        - '45.192.211.77'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

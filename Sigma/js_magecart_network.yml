@@ -1,0 +1,25 @@
+title: Network Connection to Js.Magecart Infrastructure
+id: 70484e62-3e62-4302-851a-17b5164a7465
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Js.Magecart.
+date: 2026-06-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Magecart
+    - malware.js.magecart
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'crimsonnightsky.top'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
