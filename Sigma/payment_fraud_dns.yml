@@ -1,0 +1,34 @@
+title: DNS Query to Payment Fraud Domains
+id: fcc4f603-d48f-4762-b71c-edc60e3f6d45
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Payment Fraud.
+date: 2026-06-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential harvesting
+    - fifa 2026
+    - gambling redirect
+    - malware.payment_fraud
+    - mobile targeting
+    - payment fraud
+    - phishing campaign
+    - social engineering
+    - ticket fraud
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'fifa-ticket-26.com'
+        - 'buy-ticket-fifa.com'
+        - 'm.buy-ticket-fifa.com'
+        - 'wap.buy-ticket-fifa.com'
+        - 'www.buy-ticket-fifa.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,29 @@
+title: DNS Query to Lokibot - S0447 Domains
+id: 2269726e-da58-470a-8557-03d875a0ad49
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Lokibot - S0447.
+date: 2026-06-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - infostealer
+    - lokibot
+    - malspam
+    - malware.lokibot___s0447
+    - multi-stage
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'alphastand.trade'
+        - 'alphastand.win'
+        - 'alphastand.top'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

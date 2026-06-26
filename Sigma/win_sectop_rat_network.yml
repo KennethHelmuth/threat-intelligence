@@ -1,0 +1,40 @@
+title: Network Connection to Win.Sectop Rat Infrastructure
+id: bb739830-0b7f-4b2f-88d8-abf3c1798b6b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Sectop Rat.
+date: 2026-06-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 1xxbot
+    - ArechClient
+    - SectopRAT
+    - malware.win.sectop_rat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '2.26.75.141'
+        - '151.59.116.117'
+        - '94.130.51.119'
+        - '146.103.116.11'
+        - '212.43.156.47'
+        - '209.99.189.233'
+        - '5.188.87.210'
+        - '212.43.156.196'
+        - '144.124.252.209'
+        - '188.137.238.187'
+        - '212.43.156.145'
+        - '185.203.240.32'
+        - '95.133.228.222'
+        - '188.137.254.82'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

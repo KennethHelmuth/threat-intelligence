@@ -1636,3 +1636,258 @@ ffba0d0ec1848f799a0ab489affb8ab7	ThreatFox	2026-06-24	family=win.vidar | confide
 e5f8ab450586be710d9bd3b2a9e6f421a77567736b920833868045e1f0c7b44c	ThreatFox	2026-06-24	family=win.vidar | confidence=95% threat=payload
 86cdb9c9aed5bc74090be5d955162a2a	ThreatFox	2026-06-24	family=win.vidar | confidence=95% threat=payload
 294ae135fa8ca524f5a78f8a12e2ed99c535bc58c86333dba3759ab738e971c7	ThreatFox	2026-06-24	family=win.vidar | confidence=95% threat=payload
+784d0110eae807fcb24ef64e9572f329df5904dcd62de6ff0f9d3b383143bd0f	ThreatFox	2026-06-26	family=unknown | confidence=75% threat=payload | vt=8/75
+e759a82eeb018243cf1e9587cff8643b36df4e0f84f18c3712ae60dc5912be10	MalwareBazaar	2026-06-26	filetype=xapk md5=f2f708cee06d0c03aead6b0bf37009ce sha1=faf77edacc962a589e81814cc4198d617b5ba799 | vt=0/75
+3cc6e6617c1664c600a11cd855bc3e58e63d7d2a47e9dd0c3159fda856aa4b04	MalwareBazaar	2026-06-26	filetype=xapk md5=910c8410c7212c8ccb8a0e4ae6f7045b sha1=7af46c0388479eaa1fd034a205b006f7d5e31de7 | vt=3/75
+31f3e56bad615b2e749f41a9fc12e7e8689fe57f208e900da6bc1ad9ac28733d	MalwareBazaar	2026-06-26	filetype=apk md5=cafb7391bdc966114b12c08791617e97 sha1=db4458ce8a56d0b068177b1c50ab89566c5d1a0c | vt=2/75
+5b86fde4bb6f7fa46aa39d658f5b9f764d0908463607776f848cc2a219cb52e6	MalwareBazaar	2026-06-26	filetype=js md5=5ef196e37f60b027767c34fe866b0aa2 sha1=508dd47d014b3d2ae67077368ae00141cede2f7e | vt=23/75
+884e659a48fde8d06f389d1d07a5e987dd42055e444a8c9acb362cc16a3a6d21	MalwareBazaar	2026-06-26	filetype=js md5=0a4a61ab87f4d702555bafa814d41e70 sha1=dc6f1a30760c34243d648a10e10a827fb07b4d09 | vt=23/75
+ddc0d8f4f72fd20994dea4e5804c1f87d3c3fa42b0915f6acd8a4510329907e8	MalwareBazaar	2026-06-26	filetype=js md5=a8d7a56eab057b1e9acb08c6591c8ab5 sha1=1dc4042c93d082a64b214722b1d5d0cced7e2183 | vt=22/75
+e605f39e2e9595c2418ad436b48550c17f699ab45c285c605806a9cec4d503ef	MalwareBazaar	2026-06-26	filetype=js md5=e2d3c355e39f6c47e0428311e859973c sha1=ea948a4b9e107514832f42abea91d682ccb966c0 | vt=24/75
+ec35097f12a2438b5cd17e87d7957a30ed4397906a6b76f6c4bb735bb3457851	MalwareBazaar	2026-06-26	filetype=js md5=6eb83219bc884dbd975a7a4eb1d21bb4 sha1=d5254e6e5d11153558898364f52b86c8af987c53 | vt=20/75
+7151e925a0dd22bbe13d89ffa527fa87cb2cad798e30f3f621d0fa14d8792cec	MalwareBazaar	2026-06-26	filetype=js md5=455996485a6e84601910f28657e3a7b9 sha1=098d494a73e908fd1beb2f83b2bfec45042c4591 | vt=24/75
+3812545eca0c896401373dacca7a570711671c7d4eb969e4cc544c56c2faf1cf	MalwareBazaar	2026-06-26	filetype=js md5=55646cdc254c87deaef063f6517b958e sha1=1decfd27fcbc72d2a1adf76a9a03252ad8d2be45 | vt=16/75
+6b69bae086f89e934ebb648c027786743299d26dacc44a1e2b2470826df29a8d	MalwareBazaar	2026-06-26	filetype=js md5=d1ec66578091c23fa1d273a74fb28b20 sha1=f02261d448a79394daabae235b9ded64d1ad4d41 | vt=22/75
+e05a2bd3f42fd0ac737315878a945b0c902f91691cea0e71d01d7f7a343cc457	MalwareBazaar	2026-06-26	filetype=js md5=98633c1c935670bef0e9661f6a8d12ff sha1=798838e2b6ca798036624e4c647ce86ad9f551bd | vt=23/75
+fdeb52305559089696cc299e3d29e7d444daff908bde25279f44381cdf22f152	MalwareBazaar	2026-06-26	filetype=js md5=c8a5c8a8dc56b2eef50ae86b3fa6c8bb sha1=5b83aef5d618a3fd1c7cc87728ee0edb86bac317 | vt=22/75
+b604c2c1f3ac76338d5885e33d6ce1b5dd126cabf93278fb12ddfbcb20cf1b3b	MalwareBazaar	2026-06-26	filetype=js md5=49610649506fe33b85fc16c8f3455a4c sha1=96caf6fd9ca376ed8e58d79cff4515fa152de18a | vt=22/75
+73a95d572f8246407aaf60e06378fe7075f6e245f78df941b519ad4e034207a9	MalwareBazaar	2026-06-26	filetype=js md5=61465cb464e017e802e944257574aeab sha1=bf760e45c219e039e6d4835f973cab1f7d358ce2 | vt=20/75
+27988a7e5afee247366e8f560bd37e14	ThreatFox	2026-06-25	family=win.stealc | confidence=95% threat=payload
+a64eee9ab72607f0f5b69d6bb3871586767b8b3e46f23d3154833bada493afb5	ThreatFox	2026-06-25	family=py.stealler | confidence=95% threat=payload
+215d24f82100037b3b0212c7a53166e6	ThreatFox	2026-06-25	family=py.stealler | confidence=95% threat=payload
+d2894a452a69cd574591dd927e38f105	ThreatFox	2026-06-25	family=win.valley_rat | confidence=95% threat=payload
+faecc582b335ed2b680ea464419c30943a04c05117ba76cefdd453ec983febbe	ThreatFox	2026-06-25	family=win.stealc | confidence=95% threat=payload
+1bee14b1afc29e401d0f8f6e559cab82d2b40c6fde24e38bcaf70631795fac21	ThreatFox	2026-06-25	family=win.valley_rat | confidence=95% threat=payload
+7f01a05055ec07b287de38a6e92f2a04dc512fe1b6972c16e2412ff27c53ce6a	ThreatFox	2026-06-25	family=win.webmonitor | confidence=95% threat=payload
+744c291f1af31190766580c630d0c032	ThreatFox	2026-06-25	family=win.webmonitor | confidence=95% threat=payload
+9c167edb9c4ecd0de1e5cd5fe59a54db	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+f1a895267514b8b63673820a534724b1b9ad41b314be2aa1c458512f0d75a8d3	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+33f940fc07c36a2309cc994192f706a2	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+cf4468705b9eec5c9b791b0be310462f	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+9007698a67964ef5f647ae478ad2b4d6e6b940428ebb86ef22b8d746fd6b8d0a	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+06cab9b5ed4cd7f73393ebfeba6e4a75	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+9b1717eb154011b52aa24e4d6848976a9aafff2665f3171265aa767d5951be6c	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+104f3ba9a4884a153696833fb7d90c24	ThreatFox	2026-06-25	family=win.salatstealer | confidence=95% threat=payload
+34ae1b40cc36ff02ab71f076a78dd3961e1accb50dc158dc02f3b9c3ba538633	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+13a3e7f3955eb52b9e281f191cbcb8cfd7a7c21f371df21246ce5106070541c9	ThreatFox	2026-06-25	family=win.salatstealer | confidence=95% threat=payload
+352fed139c6838c4ccc695a26ccebfd5	ThreatFox	2026-06-25	family=win.salatstealer | confidence=95% threat=payload
+3972f0b20671837938996ebf0e6dba5e36a8dd3dcd9cf72ade6300506e670380	ThreatFox	2026-06-25	family=win.salatstealer | confidence=95% threat=payload
+a58321399f8aa6098a602e0336e4e3e4910412fae67f35baacceb90cf93625bc	ThreatFox	2026-06-25	family=win.valley_rat | confidence=95% threat=payload
+7dec659ecec8d9ff214b5af9f0e54d38	ThreatFox	2026-06-25	family=win.valley_rat | confidence=95% threat=payload
+0cc9c48a044cdfb621b3c24427e622c6	ThreatFox	2026-06-25	family=win.salatstealer | confidence=95% threat=payload
+1737899af08da74b07395f82cff64b0c6c8c0eb30ee9b3b5b5eb652874cd0112	ThreatFox	2026-06-25	family=win.salatstealer | confidence=95% threat=payload
+a9ab1790f4c6691fa91373bca0812a52	ThreatFox	2026-06-25	family=win.salatstealer | confidence=95% threat=payload
+6695bc02e32d5b7c076ab8bae9ca2693	ThreatFox	2026-06-25	family=win.asyncrat | confidence=95% threat=payload
+46ea5e72b0203fe4d9e2155a033f7bcd4582c12550d8ea9a112f7c03b24de347	ThreatFox	2026-06-25	family=win.salatstealer | confidence=95% threat=payload
+3ed1aa6794d410b4c93bde4a7b04cc4c	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+59bb710abe6edad7040227e259f3665f2852f2e954ac82059c746f54e947e6cd	ThreatFox	2026-06-25	family=win.asyncrat | confidence=95% threat=payload
+ac1a4d8a2c2bf91b75c4c173424b4b142ef29aa7356ee9e05f043e4faeab94dd	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+8ba608a4387e67dfd407e07bf04c83f2	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+3bb4f904ef0475df99243a5c00d041840b660252c837efc8523e2d2712251e87	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+e5c0637997dd3b06bf74d9285ce348f9	ThreatFox	2026-06-25	family=py.venus_stealer | confidence=95% threat=payload
+401ed2d083d047422220358d8d73f4c666a82e565e9cd915c6d52749bfba4bcf	ThreatFox	2026-06-25	family=win.wannacryptor | confidence=95% threat=payload
+4ca5e797a633675885e5676641291289	ThreatFox	2026-06-25	family=win.wannacryptor | confidence=95% threat=payload
+538bea099f31396d164d5a76a9f1e897	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+17502e8db2948738ef424ff4e5de9ffeaa7fea6777d0988540d32169cb7609ae	ThreatFox	2026-06-25	family=py.venus_stealer | confidence=95% threat=payload
+456a55c731ff6a8f443fe0fdec426af0	ThreatFox	2026-06-25	family=win.wannacryptor | confidence=95% threat=payload
+9213b2fbce84b1f8a824d6475831100538944bac794e12fc542d733b3b2201eb	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+6a0dfb7d51c8caed596fa2b89cdedf7180a86f09c4aba4e5bb43d03fd1b9d255	ThreatFox	2026-06-25	family=win.maskgramstealer | confidence=95% threat=payload
+5cdded78f2b177c4245ffb1778b6491f	ThreatFox	2026-06-25	family=win.maskgramstealer | confidence=95% threat=payload
+4afdc4faef1f739bb7b53936fea9f58f2f002e2a2b05f783ba797be96757ea9d	ThreatFox	2026-06-25	family=win.wannacryptor | confidence=95% threat=payload
+144a0a499e007931628c98f38929466f	ThreatFox	2026-06-25	family=win.dyepack | confidence=95% threat=payload
+b481b6034d399f7f85877662838d4cd461a8ef5ae694b2cd44fcd9614b8842fc	ThreatFox	2026-06-25	family=win.agent_tesla | confidence=95% threat=payload
+8e584b7f95ee67a337c103260f122413	ThreatFox	2026-06-25	family=win.agent_tesla | confidence=95% threat=payload
+fa94e3c046c382492715a9dcbc2eab36	ThreatFox	2026-06-25	family=win.wannacryptor | confidence=95% threat=payload
+0dc0fa727f900ed5033f46f8ba6cf2d97d20ab95fd334cabc0f216da6e0622b0	ThreatFox	2026-06-25	family=win.dyepack | confidence=95% threat=payload
+6737c77e8ee4db7099c297210c7ebd01	ThreatFox	2026-06-25	family=py.creal_stealer | confidence=95% threat=payload
+d3ca561473774b431ad7fd0563acb20bb87b46f42efe6300c183f784abb1c6b2	ThreatFox	2026-06-25	family=win.wannacryptor | confidence=95% threat=payload
+a2f47118550285e90517345545e3061c	ThreatFox	2026-06-25	family=win.adaptix_c2 | confidence=95% threat=payload
+ec7ea6a2febb44c94dc09f3d1a66ea49af94e61f2a4a330dfa9e24e7b776b0f4	ThreatFox	2026-06-25	family=py.creal_stealer | confidence=95% threat=payload
+3df8ef81dc48c642aa5a6fb0a7a3d56a	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+7df24f93af9945d9917b46d5996853604603836b08fcc1a730e8f72b99b52537	ThreatFox	2026-06-25	family=win.adaptix_c2 | confidence=95% threat=payload
+e597fbda1571b0debb7c8b82a374e761d7db21eea06ec6f3f7f998d29522e314	ThreatFox	2026-06-25	family=win.wannacryptor | confidence=95% threat=payload
+12b5b59530529b5b000e85bf364b9de7	ThreatFox	2026-06-25	family=win.wannacryptor | confidence=95% threat=payload
+a38a3d2fbfa94a870ad2a716356e3d4f09dd4e31edce3d4e9c5de543e4454ac2	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+a0b4085cf946ec17dfc382a16f873405	ThreatFox	2026-06-25	family=py.creal_stealer | confidence=95% threat=payload
+361ef56a8016de1052d39311bbf1288e3673d2fc8c06eb4a864841d018979eb7	ThreatFox	2026-06-25	family=win.phantom_stealer | confidence=95% threat=payload
+9856ca926fc6b0b41d1548c9b7878b9d	ThreatFox	2026-06-25	family=win.phantom_stealer | confidence=95% threat=payload
+b8fc34330f8eedcabb6b3c71d1748620	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+56865486886b3755cdf0b29a53d0d599d100565a609f8217e18b3983359b8e7f	ThreatFox	2026-06-25	family=py.creal_stealer | confidence=95% threat=payload
+b37e5964bddc09f0532077bf8915bd16	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+33bb1e43c6d93702f68f4238ffafda1c1c0766c1816d8e51328e872fe055c8e5	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+8928e0f9ade1ca6b96c0a7539ff6c9fb	ThreatFox	2026-06-25	family=win.wannacryptor | confidence=95% threat=payload
+3ff379fcedca10405d22eb467db5d93a9393e3e5b69f179989e02ec1ff23a578	ThreatFox	2026-06-25	family=win.vidar | confidence=95% threat=payload
+f3f5b3f73221c983693a4658a8875fc1	ThreatFox	2026-06-25	family=win.asyncrat | confidence=95% threat=payload
+1585edaf13490949e78b37a4f39d3001f81af41942dd16567a820eb8369cd9b8	ThreatFox	2026-06-25	family=win.wannacryptor | confidence=95% threat=payload
+70c2fe27f67d5bd45f18c826a1dc1f852fa86b2de8271151a7b8c4d6d58f34d7	ThreatFox	2026-06-25	family=win.asyncrat | confidence=95% threat=payload
+07cc22c1db2b39a7fc3058b02ec15225b2945e4866a9a0e84b8f73672ae9bcd7	ThreatFox	2026-06-25	family=win.stealc | confidence=95% threat=payload
+a61025e3511cf9700a38e681a1fcdc81	ThreatFox	2026-06-25	family=win.stealc | confidence=95% threat=payload
+32a09ed1e719a39805d854a368ba9ef6	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+fc7a60c88a82b47f9590bb64fb48ed57cf8f52908f5b55a8af83def45647856d	ThreatFox	2026-06-25	family=win.wannacryptor | confidence=95% threat=payload
+35db0ed31de09aef583803786e4d710e	ThreatFox	2026-06-25	family=win.wannacryptor | confidence=95% threat=payload
+1784d3f41e8a5314c54d7fb86d24805a	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+8fc455e31efe2cbb2ccffb27169f67e54d2535ecc71aa070f0d26817d0aca480	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+d1518d0bd89529e64e3e4e8a433b988c99334b2c3ebdbdf85de312addaa8bbbf	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+142f7ff0f06bc597c7eb5904a4bdeeb8	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+c4fabfcf75a6745956013a61656e620c485d9f39b286b4c7e3b099fe1bba652a	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+9a7a03f400f70df4492a7e5617c0ff15	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+ae6e65d00f1bb515ff1fb8f049afc360161fa38260e0bf1329c2dde072d70a67	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+db1c710f7f5576ec0308a1815c3883bd	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+f73a3a4e3c0aa4bfa571c98c439dd7f0	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+d727c634a81811e5a557dfcffb92e033862b636785410a81cf717046a91e0d19	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+720d4bce674dd06565b68942a704b683	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+38475cd6250b74e515d6f39e49ba51ab31fb5ab3e510e49756b45236e5a2f7cf	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+51db895887aa65d11f4548cec0ce7c1a	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+fb1e649118f2f86cb22147f0ccca53b4a75598619ed80afddd5a25a5563515d2	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+303e4d07247fa4e5685473e2bbacfe38	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+3596dcb90c580070993afc073e7158b4bcac5b4fb930b8e184fc531629012b14	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+330b792df60d23ef400d9347bd3bc3e001ddc2062d9ca7e54e66f834d41d4307	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+232966840c8f399ee9ae7a9d073c554b	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+b78a156ab33beb6fd8b0bf5283b9a9c67af2d42bc544ac04023185ab1eff5e73	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+25d89bb632271696eb7f9a0fccc19847	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+46be6a8ec8d32e8f534c96ab1f7e792b273ecaedf320f32080d3310cc7f7590d	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+3617e75cac18b8b7ff534014fa64f134	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+4a8e84fdae2a9cebfdd8c251cc06d0c5	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+bc92812448658c397f3ecf4c6475dc3de7ba80eb04c4f9a2ea67221bd8556176	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+5195e93ca254b2bcbfffb309848d42f3132538704343865a2dea3b4516c5ced8	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+3e0365986665180a9f1c96024377a85e	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+536874b4e68c8d067cbdb0100c0e4e46810248ea6fdb3c4fed4720b23d9bed89	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+b43622585386544a0ddf1b295ce55e1c	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+00c765d93bbf7f11013dcfb30a0143b0d2620e39f4e8ef47c0dcde10663276bc	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+8dca820fa28aa408d9686b79a038631d	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+c0d397d9e7844f2b27d6bc867ce9703a	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+882f750531309d59d6ebae6ce9f35a9b55312dc4900e0381e2656226b617102b	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+ad78fecd0f39e1c15214d0f9ad5b0bb77d93705ec95ef8da8b3270dab8410f3c	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+805a1412233ed58144381ecd904e10be	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+cd1b7d2dab1da7da0eba682c4b499282cf0c3bab37c2bdab8825af002bc7fd8d	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+31fd05d7375ec32b6d92c2df9f2cf077	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+fbface75828c2fdc3533b818268f5b8e680f65662953ff83d30240e78ff8d36b	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+023907a32ebf06ff02ca41f9f6ec89b8	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+072a01e30d89dd72021e33b33f97a2df	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+3ebeb21ddf3a0913397058609db41cf23e440dbdee26a2a569752521fb09d1eb	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+8d35b1c48357c10fd6357edb0154e97e02323f16694f13c495a0c7ce23b15a12	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+9d126c8f171e535a48c779c24d5dcadc	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+de79e908320bd93cfe500e4904bc39e57c01e8f84f6e23ab80fc05874145e862	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+8da34ec68b4dad99467ce20c6696d097	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+946cb371cd41764484013c0b85638d9157b947a4378d81c395b6461f594c5eb3	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+ef85ff913bdbaf39347ef2768ae8632b	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+041d3e837d4deeee1a1f1501cb2ea662	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+94dadfc956c7affead3690c011e4bffd29ecadb8ef328c0548adf6bae35fa3f0	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+d6799104c80839099fa8a7957326a30e	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+651a64eb4ebe8ef3ba9d6494e205257808c7ca58ae041dffb1b9683162b50328	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+88de4138699965edf561a5cd9bacd036fb8e474c61acf311b7a33e0563b04304	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+f20b87dd56f9686d7090e2eed1e14971	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+d31744fa54b637061ccdf4de0ceb9110cdef375f5a812ca71522a2e41eb50fab	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+df087178f6871ede7e7d88e814572bd3	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+5709e15f530c3c281cbd105751610e6ffb24d282207e2176bb98e99170173be7	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+18f28fe6464a529300124e6b2ec81766	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+c666ed1b15cca96e76c8657d260f25ac	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+63c030b19be8dd63081c8d5aeed5c4c1604be565ba4485af93006ad48ab57489	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+3e0499a96d5b14b1b37ff738b1d1953a	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+a63e488f5742245f1436035ba1ddc4f81c74b6678d3014f265eca541b15a88e1	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+c59d0913b35a03b8beb220ec4d261298	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+3eb586bc3205268becc78c10b6949d8c2960bfce9bceeab622201b1091b7f1b3	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+9f286fc8152bfc5e2f3d51b10f5775b3	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+6b7f6d33611b0362d7a60dea3e6f75f3745b3ebb9d25285106bc945943b14af5	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+a37e2db02cd6a1a6da7ccc124cc3d5e6	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+dd9eb55d35232b79b8fd3105f96c320d9b68e75cecb148d8b628b2c26c9bda44	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+75b7480830830bb47e35db46bbb4cf73	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+7fc84a19ee1029403baefd2f0c58ab6e55dfc346e759157a7fab4fd5cc397c4e	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+630af280e74aa6327ceff433d6dd20f9	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+e89aa9bec3284f837e7d338d5069842df245a0f9919617865b8a2eea480e3dd9	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+0205aa7b8a0852633918bb36f7b961ea61e6bfb0eec66690a946a33adef4f166	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+48c371568ae1e9a7e0b7d094c0b0994d	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+620e1b095c157be83a25c8772b941ee20051b53253d325117788716cbc4f50ed	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+a8936a401395781773004cb920cd89f02200f2a4ee25a1b241e593b1d3f544d3	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+7d3b985fa4df0c0037807e337dc970fd	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+ad19964d16858afba780be897f2cead7	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+e85141b23c76fe7b5b6cd7a7a6e4e3ccc444f8b7515e7883f64e1b91423997d8	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+6e9c7c732727236b82948c939557e019	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+2177d4601c94e659d142751797f3486a	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+c12b2a94593fead09896badb4bf2efc4144c69a7c63ab68b2250ae5b639f77a3	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+8b45d43cf0d9a4dcfb0a372f128725ab	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+3690225f09b36394ee90c3ca13bc11db63b9411bf5145f39acd028ac1a1da201	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+1664066b37236ad9855a4397f1981ad4	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+58d923fe877760cf366d83cba548eae53dd8f18f858b5d56c27b699db4f4c633	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+4db7967bfaf6c43d0abdb2ca9abb698b	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+2d4991fd72a7944cdc0593555d35f1dc7896e50bda71a0443376c3290d0ab0b4	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+4b3d341f6a15caacb540bb2e403dfbfbdbf98b077649f184505839d4a9e27cc2	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+19f96cdf0273950f87dd6b674fdcff92	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+8d9fc8a6c1fd93714a36ef4239ee7816a50f092b1b5a9d7fc31218159763d2e8	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+73a752c08b30f2deb6a7c5ad3dd55c75	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+4b0d8c093bf2f79b4297708a35a901735b1bafe812efbcb67b4161c84c037c31	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+5f5919f7939a670914954b9467cc49e6	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+85267c0d6cf650bb021dbe0d1486c15e	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+75bc2baf3c12afbefb893af00d361d6d66273d7852d8c0f16dce28e01293c3ff	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+632237a7536db7d9c6b29b28ba189c9b	ThreatFox	2026-06-25	family=win.nanocore | confidence=95% threat=payload
+7c82302ecd14f21edfceec918d47b51b5d4bc1792cf77bde61527111d8fdb56c	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+5187e5216ddf0f63d74a69f483c9568d0b04f7ae67dd17ed1d7644b97ce3a8d1	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+341a025fa2b8c640b9b09b8cafb2d329	ThreatFox	2026-06-25	family=win.coinminer | confidence=95% threat=payload
+93696af402e19dfc858f5867e56e9dd5ddfa4f88df05bbb68cb482ca2c21a79b	ThreatFox	2026-06-25	family=win.nanocore | confidence=95% threat=payload
+6434db989785abb5ce2088e34915935f	ThreatFox	2026-06-25	family=win.darktortilla | confidence=95% threat=payload
+7791be7f06e67cfb2e32c1f709b8bf8afc5f354653d1a2074a47e80d8c04ff49	ThreatFox	2026-06-25	family=win.darktortilla | confidence=95% threat=payload
+0f1463735ee52aca65375ac7ac116cb7980a0be3068360c3cbcce75bdb2c09ae	MalwareBazaar	2026-06-26	family=RemcosRAT | filetype=vbs md5=e0e9f907f1d2989ce43c01b0ac3dd729 sha1=1d82b10861144103fd4aee14a85873b4426e47e5
+1b2555b09ac62164638f47c8272beb6b0f97186e37d3a54cb84c723ff7a2eee5	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+4125681f9276487f4318c7ce9c8b6786	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+512b49f441765698c679b5da5f0cc868	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+56b75638beabd690f38de434f7efd623	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+661d4551df34661f3ffc565e2f4ecdbc	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+d58ce78503c60c19926ed642f0eb9d53	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+017830597704acd90fb171f3025bc6f28745da57	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+62d5e9ed6c1444469e4b89f3ca6c2047a5e8eb98	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+bbeaac7ef00268bd5cc583e26624e760085581dc	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+c27a1688fa5a4ec9497da0fc9bd88c8b362234c5	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+f9ea4f4b636614226579ac6cbfc8abe21539a8da	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+062bb28765fbaa11f8cc341fa16e2c7f942a122d929cb41f4a0f755b4429f246	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+16562974deec80e41ef57a71a6de8c03ceb393005fb1432f8d9d82c61294ef8c	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+2ee93ccbcd49ed94c65dcf52e7dcb8f0fa0a443ca24c0e0c7f79152efba657b7	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+69077fcf940fc5852fb32beed15636756ebc04ac971b7ed71d36251e7ea70a20	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+7035c2abeb617e828dfda1b119b8544fa9ae15a1d263d18bc5506acaf381f496	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+9ff07c9fafa9c03fdf69e4abf6806aa7c938b5480e7e258f227db0719ecd6386	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+a460d00ef93c8ce70d32e48e55781af66a53328fc2dde45519be196c265de074	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+c7425fbe6c3a4937934215c54027d4b67202d12ab490682fae03498870d66d06	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+cf3f8160eb5a5580e0c35054847e3ac4d01e9fe74fab8bc12bf6e8a40bf696b2	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+db2d33c4e6e4a5c2263b56e8303c343305a94dde1fc2968304ba260acbbd9f9f	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+e021662a652ba95c8778b991056696ab3c9b0f60d5e23b1e6cf73c3847db6610	OTX	2026-05-27	family=SimpleRunPE | pulse='From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities' pulse_id=6a1634fbefeffa7f0c6a52f5
+9758e76b601798a30d903bf05052a53df80451e5c156548ce9da828f608b6470	OTX	2026-06-25	family=KimJongRAT | pulse='KimJongRAT Continues to Evolve by Leveraging LOTS' pulse_id=6a3cb7a3c8dfa3feec75cb80
+221a39856b37e3c682f62427f1e6b965b36a2405764689c914672770a01a1fa9	OTX	2026-06-25	family=KimJongRAT | pulse='KimJongRAT Continues to Evolve by Leveraging LOTS' pulse_id=6a3cb7a3c8dfa3feec75cb80
+107b5aa3c4ef30b9b832e0a10b1efb1dcf433158bc6af8d890d66c0c9ed50d21	OTX	2026-06-25	family=KimJongRAT | pulse='KimJongRAT Continues to Evolve by Leveraging LOTS' pulse_id=6a3cb7a3c8dfa3feec75cb80
+e4ccb2328c06710a7f0254cb6315e1b106396b0ff525f9cf3eada6e85d285c1c	OTX	2026-06-25	family=KimJongRAT | pulse='KimJongRAT Continues to Evolve by Leveraging LOTS' pulse_id=6a3cb7a3c8dfa3feec75cb80
+c099f965144bccd0b590f946659fc3c0747c54aef505b6caaca9078712f455fb	OTX	2026-06-24	family=Lokibot - S0447 | pulse='LokiBot After a Decade: An Analysis of a Recent LokiBot Campaign' pulse_id=6a3c6b9416a51c4cdec616c4
+64c7dd0a3a3ae49977ac05913d3878000cce14e5d8c1ee05b782bdfd648bde91	OTX	2026-06-24	family=Lokibot - S0447 | pulse='LokiBot After a Decade: An Analysis of a Recent LokiBot Campaign' pulse_id=6a3c6b9416a51c4cdec616c4
+ad10ff9043d6f327045943635fcbd0c5918acb79dc998db92ee4c7dee5224710	OTX	2026-06-24	family=Lokibot - S0447 | pulse='LokiBot After a Decade: An Analysis of a Recent LokiBot Campaign' pulse_id=6a3c6b9416a51c4cdec616c4
+4c9f271242f61f1a31b8146305e9a7ed512c521445d4f7a7a901e301307add3d	OTX	2026-06-24	family=Lokibot - S0447 | pulse='LokiBot After a Decade: An Analysis of a Recent LokiBot Campaign' pulse_id=6a3c6b9416a51c4cdec616c4
+5864a697bd7b339f56b05405f29a097cd027cafdcc4e63c2aaeccccbf930605f	OTX	2026-06-24	family=Lokibot - S0447 | pulse='LokiBot After a Decade: An Analysis of a Recent LokiBot Campaign' pulse_id=6a3c6b9416a51c4cdec616c4
+a484efb02ab3c049666af91363bfdf77	OTX	2026-06-24	family=Lokibot - S0447 | pulse='LokiBot After a Decade: An Analysis of a Recent LokiBot Campaign' pulse_id=6a3c6b9416a51c4cdec616c4
+c44ec9336ed67352ee021097876a82407c40eea1	OTX	2026-06-24	family=Lokibot - S0447 | pulse='LokiBot After a Decade: An Analysis of a Recent LokiBot Campaign' pulse_id=6a3c6b9416a51c4cdec616c4
+b82936f37648518425c7d3cf9e09eaffa41d7cdb3840f6a40287e3a108880f7b	OTX	2026-06-25	family=credential manipulation | pulse='Zero-Day Exploitation of Vulnerability (CVE-2026-20245) in Cisco Catalyst SD-WAN Manager' pulse_id=6a3d476551c12310394b4adc
+ff8d2afd9d7f0a828592fee34ca55d1a3542f7ed	OTX	2026-06-24	family=Amadey - S1025 | pulse='Operation Endgame disrupts Amadey and Stealc' pulse_id=6a3c278cadbc5a0ba0a18ce3
+09002d4668a778853e8da5c488c6e421c0628357	OTX	2026-06-24	family=Amadey - S1025 | pulse='Operation Endgame disrupts Amadey and Stealc' pulse_id=6a3c278cadbc5a0ba0a18ce3
+11a42ef076686cb27ba2c8845301943652a5aadc	OTX	2026-06-24	family=Amadey - S1025 | pulse='Operation Endgame disrupts Amadey and Stealc' pulse_id=6a3c278cadbc5a0ba0a18ce3
+32d0c3300825b0bb991c4a8f1e6244f0ad2da989	OTX	2026-06-24	family=Amadey - S1025 | pulse='Operation Endgame disrupts Amadey and Stealc' pulse_id=6a3c278cadbc5a0ba0a18ce3
+38d744543b2051e6f749af171b5ef8d6df8aac7b	OTX	2026-06-24	family=Amadey - S1025 | pulse='Operation Endgame disrupts Amadey and Stealc' pulse_id=6a3c278cadbc5a0ba0a18ce3
+5f3f99b14243404c7cf57b40bb101244cce394bf	OTX	2026-06-24	family=Amadey - S1025 | pulse='Operation Endgame disrupts Amadey and Stealc' pulse_id=6a3c278cadbc5a0ba0a18ce3
+87867ad29e621bf9ebf57e1757f75090842458be	OTX	2026-06-24	family=Amadey - S1025 | pulse='Operation Endgame disrupts Amadey and Stealc' pulse_id=6a3c278cadbc5a0ba0a18ce3
+b4101027bf2f1261402bf6318c6eb016ce249037	OTX	2026-06-24	family=Amadey - S1025 | pulse='Operation Endgame disrupts Amadey and Stealc' pulse_id=6a3c278cadbc5a0ba0a18ce3
+c0e178d26e1e67985a9c67e649d71d54642e0eed	OTX	2026-06-24	family=Amadey - S1025 | pulse='Operation Endgame disrupts Amadey and Stealc' pulse_id=6a3c278cadbc5a0ba0a18ce3
+f61e3a643f2417e1a1ab2c83bbdbfc8a7cb96756	OTX	2026-06-24	family=Amadey - S1025 | pulse='Operation Endgame disrupts Amadey and Stealc' pulse_id=6a3c278cadbc5a0ba0a18ce3
+25b6fc4f9c54a28ba7bfc4dfeafb62c99b59ea6f0d17679219b876b321965095	OTX	2026-06-25	family=AMOS | pulse='ClickFix campaign delivers macOS infostealer via DMG' pulse_id=6a3d42cc11f8fec9a3aab237
+067ad6221b2224d5cdb64e51c5516132d820cf4d7edf9ec170643943e79c04b7	OTX	2026-06-25	family=AMOS | pulse='ClickFix campaign delivers macOS infostealer via DMG' pulse_id=6a3d42cc11f8fec9a3aab237
+d6f479736ba55d3c4e895c4940d035cf772f3192fb8dc496f09a801aed16d970	OTX	2026-06-25	family=AMOS | pulse='ClickFix campaign delivers macOS infostealer via DMG' pulse_id=6a3d42cc11f8fec9a3aab237
+833008c03d40422192051584d829d730497108bef31751cceb0cc043dd96bbfb	OTX	2026-06-25	family=AMOS | pulse='ClickFix campaign delivers macOS infostealer via DMG' pulse_id=6a3d42cc11f8fec9a3aab237
+8111edf01ac6cb5c77e249d4e84fd92a85b5e89c2e2bef92fbe00b6f1cc2aa8e	OTX	2026-06-25	family=AMOS | pulse='ClickFix campaign delivers macOS infostealer via DMG' pulse_id=6a3d42cc11f8fec9a3aab237
+f0038a5f46720da5982b6984ceef10cf99359432e102b12a0b0657498d36f670	OTX	2026-06-25	family=AMOS | pulse='ClickFix campaign delivers macOS infostealer via DMG' pulse_id=6a3d42cc11f8fec9a3aab237
+3d510977d60a44322f88100b515f06cb5ed83babc64247068d1a489595faa6c5	OTX	2026-05-26	family=PureLogs | pulse='Phishing Campaign Deploys JavaScript-Driven PureLogs Variant to Steal Sensitive Data' pulse_id=6a15ba258c1acc516e08c0fd
+07cd03e2082bcb0b890cc59ce4c770d1a095ac6f1ae9cf999f5542555c56f841	OTX	2026-05-26	family=PureLogs | pulse='Phishing Campaign Deploys JavaScript-Driven PureLogs Variant to Steal Sensitive Data' pulse_id=6a15ba258c1acc516e08c0fd
+6af99d08e9295db93ad869af5ec1422e	OTX	2026-05-26	family=PureLogs | pulse='Phishing Campaign Deploys JavaScript-Driven PureLogs Variant to Steal Sensitive Data' pulse_id=6a15ba258c1acc516e08c0fd
+e2470b4bb66131ac43a0e7d30bb30ede	OTX	2026-05-26	family=PureLogs | pulse='Phishing Campaign Deploys JavaScript-Driven PureLogs Variant to Steal Sensitive Data' pulse_id=6a15ba258c1acc516e08c0fd
+4f2c2a808194d27992ef227c4b9134de01d051fc	OTX	2026-05-26	family=PureLogs | pulse='Phishing Campaign Deploys JavaScript-Driven PureLogs Variant to Steal Sensitive Data' pulse_id=6a15ba258c1acc516e08c0fd
+cda7136e67b34757ef2688f1e168fc927f025625	OTX	2026-05-26	family=PureLogs | pulse='Phishing Campaign Deploys JavaScript-Driven PureLogs Variant to Steal Sensitive Data' pulse_id=6a15ba258c1acc516e08c0fd
+670384fafb23140d96f2f8fe04a13fc8cc8e2a6e5e8c973e39b58d103c5fea92	OTX	2026-05-26	family=PureLogs | pulse='Phishing Campaign Deploys JavaScript-Driven PureLogs Variant to Steal Sensitive Data' pulse_id=6a15ba258c1acc516e08c0fd
+b90988400cced319d260c4937f334ecc364785ed5c593cd2139965e62ca58173	OTX	2026-05-26	family=PureLogs | pulse='Phishing Campaign Deploys JavaScript-Driven PureLogs Variant to Steal Sensitive Data' pulse_id=6a15ba258c1acc516e08c0fd
+e20b35a8c30e076cdd0e1df05ba1ff2e418dbd39a674f084787cc0af2fda9e95	OTX	2026-05-26	family=PureLogs | pulse='Phishing Campaign Deploys JavaScript-Driven PureLogs Variant to Steal Sensitive Data' pulse_id=6a15ba258c1acc516e08c0fd
+686213cc11d36af764de824801bced9366dfca3823fe0d51b752f74149bcf1f4	OTX	2026-06-25	family=Prinz Eugen | pulse='Prinz Eugen ransomware: a deep dive into a new Go-based encryptor' pulse_id=6a3d416ff54ce39010db1033
+17dd3f59f13f54a34761cef0c2b73cd7	OTX	2026-06-25	family=Prinz Eugen | pulse='Prinz Eugen ransomware: a deep dive into a new Go-based encryptor' pulse_id=6a3d416ff54ce39010db1033
+9d94e2a15b75e1ef4487429ac71fc13e186c4a2d	OTX	2026-06-25	family=Prinz Eugen | pulse='Prinz Eugen ransomware: a deep dive into a new Go-based encryptor' pulse_id=6a3d416ff54ce39010db1033
+3d1158884fb339b3328bd330fcc27598e1f1c94bcac39e75d1a272afa4deee1a	OTX	2026-06-23	family=Edgecution | pulse='Payouts King Ransomware Initial Access Broker Deploys New Edgecution Malware' pulse_id=6a3ab74e2728d85de0799971
+a08d8e63b0cd3638fb40b8e6da546e26da69439597565827f9cec87915f78568	OTX	2026-06-23	family=Edgecution | pulse='Payouts King Ransomware Initial Access Broker Deploys New Edgecution Malware' pulse_id=6a3ab74e2728d85de0799971

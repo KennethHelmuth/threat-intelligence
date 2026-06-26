@@ -1,0 +1,35 @@
+title: Network Connection to Amos Infrastructure
+id: e276c1b0-0122-4867-b234-22782e3e647c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Amos.
+date: 2026-06-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - amos
+    - atomic macos stealer
+    - browser-theft
+    - clickfix
+    - credential-phishing
+    - infostealer
+    - macos
+    - malware.amos
+    - odyssey
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'fewfwfwfwfwf.info'
+        DestinationIp|contains:
+        - '178.16.52.101'
+        - '196.251.107.171'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

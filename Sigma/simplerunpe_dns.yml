@@ -1,0 +1,31 @@
+title: DNS Query to Simplerunpe Domains
+id: 13d61205-ce68-4057-a5aa-b2e366d54256
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Simplerunpe.
+date: 2026-06-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cryptojacking
+    - dll sideloading
+    - gpu mining
+    - malware.simplerunpe
+    - process hollowing
+    - screenconnect abuse
+    - seo poisoning
+    - simplerunpe
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'direct-download.gleeze.com'
+        - 'minemine.gleeze.com'
+        - 'start-download.gleeze.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

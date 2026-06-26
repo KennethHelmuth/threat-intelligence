@@ -1,0 +1,30 @@
+title: DNS Query to Amos Domains
+id: a848b2f2-d824-4667-9e5b-c54b3f0a9652
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Amos.
+date: 2026-06-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - amos
+    - atomic macos stealer
+    - browser-theft
+    - clickfix
+    - credential-phishing
+    - infostealer
+    - macos
+    - malware.amos
+    - odyssey
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'fewfwfwfwfwf.info'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

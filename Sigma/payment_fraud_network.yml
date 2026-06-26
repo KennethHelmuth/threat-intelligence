@@ -1,0 +1,36 @@
+title: Network Connection to Payment Fraud Infrastructure
+id: 4bc45606-7180-4c95-b65c-2a64374cf6d6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Payment Fraud.
+date: 2026-06-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential harvesting
+    - fifa 2026
+    - gambling redirect
+    - malware.payment_fraud
+    - mobile targeting
+    - payment fraud
+    - phishing campaign
+    - social engineering
+    - ticket fraud
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'fifa-ticket-26.com'
+        - 'buy-ticket-fifa.com'
+        - 'm.buy-ticket-fifa.com'
+        - 'wap.buy-ticket-fifa.com'
+        - 'www.buy-ticket-fifa.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,29 @@
+title: DNS Query to Kimjongrat Domains
+id: c3b26e32-47dc-4068-8cd3-0947c0fce681
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Kimjongrat.
+date: 2026-06-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - infostealer
+    - kimjongrat
+    - kimsuky
+    - lots
+    - malware.kimjongrat
+    - meshagent
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'lutkdd.corpsecs.com'
+        - 'pxqtkc.corpsecs.com'
+        - 'googleoba.servequake.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

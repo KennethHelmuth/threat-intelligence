@@ -1,0 +1,33 @@
+title: DNS Query to Prinz Eugen Domains
+id: 7c2f0363-ae34-4ba1-ad77-0dc15f5c21ca
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Prinz Eugen.
+date: 2026-06-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - go-based
+    - malware.prinz_eugen
+    - prinz eugen
+    - remotepc rmm
+    - rootboy
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - '6cudc5cqa2bjpwdhcwm2lj6dbqejjjqzeo6ipwvmbazr6cgu7vfk3dad.onion'
+        - 'stndrdbnk.cc'
+        - 'prinzfkbjiazbrur4mjje6mntjc4vydx3iatkkzycufoylqcoo4y7pqd.onion'
+        - 'captchafestung.sbs'
+        - 'darkempire.fun'
+        - 'g-captchafestung.sbs'
+        - 'old-pidop.ru'
+        - 'festung-e.duckdns.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

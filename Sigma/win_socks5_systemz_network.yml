@@ -1,0 +1,26 @@
+title: Network Connection to Win.Socks5 Systemz Infrastructure
+id: c86bb85b-d22e-4d99-8550-66c0aa966bac
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Socks5 Systemz.
+date: 2026-06-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ProxyBox
+    - Socks5 Systemz
+    - malware.win.socks5_systemz
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '209.99.186.92'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

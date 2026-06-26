@@ -1,0 +1,33 @@
+title: Network Connection to Lokibot - S0447 Infrastructure
+id: 7f925248-6460-49cc-a578-79a83de883d1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Lokibot - S0447.
+date: 2026-06-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - infostealer
+    - lokibot
+    - malspam
+    - malware.lokibot___s0447
+    - multi-stage
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'alphastand.trade'
+        - 'alphastand.win'
+        - 'alphastand.top'
+        DestinationIp|contains:
+        - '158.94.211.95'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

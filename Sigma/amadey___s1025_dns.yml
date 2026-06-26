@@ -1,0 +1,29 @@
+title: DNS Query to Amadey - S1025 Domains
+id: fc5a7071-703f-4f32-9321-9b619ee2e0d6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Amadey - S1025.
+date: 2026-06-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - amadey
+    - botnet disruption
+    - danabot
+    - infostealer
+    - lumma stealer
+    - malware.amadey___s1025
+    - operation endgame
+    - stealc
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'mi.overlapsnowbound.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

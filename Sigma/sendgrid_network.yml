@@ -1,0 +1,32 @@
+title: Network Connection to Sendgrid Infrastructure
+id: 4125a4da-75ab-4703-88f5-0c69c3e58926
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Sendgrid.
+date: 2026-06-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aws
+    - cloudflare
+    - malware.sendgrid
+    - mfa bypass
+    - phishing
+    - sendgrid
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'loginportal-aws.com'
+        - 'aws-central.us-west-login.com'
+        - 'aws.us-east-prod.com'
+        - 'aws.us-west-login.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

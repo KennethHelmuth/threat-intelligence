@@ -1,0 +1,33 @@
+title: Network Connection to Kimjongrat Infrastructure
+id: 25a089c3-d56d-459d-b3b5-548ad4ed1f42
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Kimjongrat.
+date: 2026-06-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - infostealer
+    - kimjongrat
+    - kimsuky
+    - lots
+    - malware.kimjongrat
+    - meshagent
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'lutkdd.corpsecs.com'
+        - 'pxqtkc.corpsecs.com'
+        - 'googleoba.servequake.com'
+        DestinationIp|contains:
+        - '104.200.67.46'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
