@@ -1,0 +1,60 @@
+title: Network Connection to Dcloud Infrastructure
+id: 32868bd2-c5a4-4042-8b68-e2bd29affd88
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Dcloud.
+date: 2026-06-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bulletproof hosting
+    - cryptocurrency scam
+    - dcloud
+    - investment fraud
+    - lssc
+    - malware.dcloud
+    - rainbowex
+    - uni-app
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'clintile.com'
+        - 'mypal.pro'
+        - 'lssc.ltd'
+        - 'forwarsprite.com'
+        - 'allegro-stroe.shop'
+        - 'allegrostroe.cc'
+        - 'allegro-stroe.cyou'
+        - 'allegro-stroe.cc'
+        - 'allegrostroe.shop'
+        - 'allegroau.com'
+        - 'g3user.com'
+        - 'usdtflow.net'
+        - 'allegrostroe.cyou'
+        - 'deepseekpg.bet'
+        - 'verify-what.com'
+        - 'lightacer.com'
+        - 'lssc-canada.ca'
+        - 'correoargentino-comarr.top'
+        - 'energy5.cyou'
+        - 'whats-zwp.vip'
+        - 'whats-zea.vip'
+        - 'whats-zei.vip'
+        - 'whats-zen.vip'
+        - 'whats-zef.vip'
+        - 'whats-zrs.vip'
+        - 'whats-zus.vip'
+        - 'm0vrsq6.top'
+        - 'polymk.com'
+        - 'bepviews.com'
+        - 'nasdaqpro.top'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

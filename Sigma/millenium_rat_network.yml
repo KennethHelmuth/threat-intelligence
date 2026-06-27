@@ -1,0 +1,39 @@
+title: Network Connection to Millenium Rat Infrastructure
+id: 10b791a6-56b4-444c-abc8-1fc1129f3b16
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Millenium Rat.
+date: 2026-06-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - asyncrat
+    - malware.millenium_rat
+    - millenium rat
+    - njrat
+    - shinyenigma
+    - xworm
+    - y2k operators
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'blackhatusa.com'
+        - 'modedapk.net'
+        - 'kuttabilla.top'
+        - 'milleniumrat.online'
+        - '75877.mcdir.me'
+        - 'www.thesnapchatmodapk.com'
+        DestinationIp|contains:
+        - '62.60.226.97'
+        - '130.12.180.43'
+        - '158.94.208.168'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

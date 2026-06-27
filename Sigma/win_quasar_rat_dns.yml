@@ -1,0 +1,25 @@
+title: DNS Query to Win.Quasar Rat Domains
+id: 8bf2ce5c-0781-451e-b427-747b2abb5068
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Quasar Rat.
+date: 2026-06-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - QuasarRAT
+    - RAT
+    - malware.win.quasar_rat
+    - quasar
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'babayagadead.duckdns.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

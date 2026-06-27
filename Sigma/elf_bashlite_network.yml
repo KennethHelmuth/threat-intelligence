@@ -1,0 +1,25 @@
+title: Network Connection to Elf.Bashlite Infrastructure
+id: a1528cc0-8eca-4fca-b520-b5382f08b69f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Bashlite.
+date: 2026-06-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Gafgyt
+    - malware.elf.bashlite
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '45.192.97.47'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

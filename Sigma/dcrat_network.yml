@@ -1,0 +1,44 @@
+title: Network Connection to Dcrat Infrastructure
+id: 1266e682-e468-4856-a209-6c3c80c4db7b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Dcrat.
+date: 2026-06-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - china-nexus
+    - dcrat
+    - fileless execution
+    - income tax impersonation
+    - india targeting
+    - malware.dcrat
+    - operation dragonreturn
+    - spear-phishing
+    - steganography
+    - tax infrastructure
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - '1kkkkddd.com'
+        - 'govtop.one'
+        - 'ikkkkddd.com'
+        - 'jiayingjing.com'
+        - 'kkxqbh.top'
+        - 'simaqz.com'
+        DestinationIp|contains:
+        - '27.50.54.191'
+        - '117.44.201.119'
+        - '118.107.0.197'
+        - '204.194.48.250'
+        - '223.26.63.40'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

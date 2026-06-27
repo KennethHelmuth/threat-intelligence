@@ -1518,3 +1518,69 @@
 178.16.52.101	OTX	2026-06-25	family=AMOS | pulse='ClickFix campaign delivers macOS infostealer via DMG' pulse_id=6a3d42cc11f8fec9a3aab237
 196.251.107.171	OTX	2026-06-25	family=AMOS | pulse='ClickFix campaign delivers macOS infostealer via DMG' pulse_id=6a3d42cc11f8fec9a3aab237
 212.80.7.74	OTX	2026-06-25	family=Prinz Eugen | pulse='Prinz Eugen ransomware: a deep dive into a new Go-based encryptor' pulse_id=6a3d416ff54ce39010db1033
+20.69.167.4:443	ThreatFox	2026-06-27	family=win.havoc | confidence=100% threat=botnet_cc
+27.124.43.182:8848	ThreatFox	2026-06-27	family=win.dcrat | confidence=100% threat=botnet_cc
+13.62.76.12:7777	ThreatFox	2026-06-27	family=win.asyncrat | confidence=100% threat=botnet_cc
+13.62.76.12:4444	ThreatFox	2026-06-27	family=win.asyncrat | confidence=100% threat=botnet_cc
+147.182.140.2:34567	ThreatFox	2026-06-27	family=elf.aisuru | confidence=100% threat=botnet_cc
+45.192.97.47:5555	ThreatFox	2026-06-27	family=elf.bashlite | confidence=100% threat=botnet_cc
+194.56.225.147:8081	ThreatFox	2026-06-27	family=win.vshell | confidence=100% threat=botnet_cc
+194.56.225.147:8088	ThreatFox	2026-06-27	family=win.vshell | confidence=100% threat=botnet_cc
+43.142.51.69:8001	ThreatFox	2026-06-27	family=win.vshell | confidence=100% threat=botnet_cc
+82.27.11.240:2095	ThreatFox	2026-06-27	family=win.vshell | confidence=100% threat=botnet_cc
+8.134.255.60:8084	ThreatFox	2026-06-27	family=win.vshell | confidence=100% threat=botnet_cc
+91.213.186.177:8084	ThreatFox	2026-06-27	family=win.vshell | confidence=100% threat=botnet_cc
+103.236.60.111:443	ThreatFox	2026-06-27	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+47.108.60.27:80	ThreatFox	2026-06-27	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+193.169.194.63:443	ThreatFox	2026-06-27	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+147.182.140.2:9035	ThreatFox	2026-06-26	family=elf.aisuru | confidence=100% threat=botnet_cc
+15.204.234.74:23	ThreatFox	2026-06-26	family=elf.mirai | confidence=75% threat=payload_delivery
+45.11.229.45:8001	ThreatFox	2026-06-26	family=elf.aisuru | confidence=100% threat=botnet_cc
+47.94.166.205:8083	ThreatFox	2026-06-26	family=win.vshell | confidence=100% threat=botnet_cc
+192.144.167.96:28891	ThreatFox	2026-06-26	family=win.vshell | confidence=100% threat=botnet_cc
+103.208.87.59:8080	ThreatFox	2026-06-26	family=win.vshell | confidence=100% threat=botnet_cc
+129.212.233.8:8080	ThreatFox	2026-06-26	family=elf.aisuru | confidence=100% threat=botnet_cc
+156.239.238.145:8084	ThreatFox	2026-06-26	family=win.vshell | confidence=100% threat=botnet_cc
+45.138.16.56:4040	ThreatFox	2026-06-26	family=win.asyncrat | confidence=100% threat=botnet_cc
+45.138.16.56:8888	ThreatFox	2026-06-26	family=win.asyncrat | confidence=100% threat=botnet_cc
+45.138.16.56:8808	ThreatFox	2026-06-26	family=win.asyncrat | confidence=100% threat=botnet_cc
+172.245.25.134:8787	ThreatFox	2026-06-26	family=unknown | confidence=75% threat=botnet_cc
+82.165.79.60:1336	ThreatFox	2026-06-26	family=win.sliver | confidence=75% threat=botnet_cc
+5.200.255.45:8848	ThreatFox	2026-06-26	family=win.dcrat | confidence=75% threat=botnet_cc
+45.254.246.208:4444	ThreatFox	2026-06-26	family=win.asyncrat | confidence=75% threat=botnet_cc
+209.54.103.150:7707	ThreatFox	2026-06-26	family=win.asyncrat | confidence=75% threat=botnet_cc
+193.169.194.63:4321	ThreatFox	2026-06-26	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+141.98.189.248:4321	ThreatFox	2026-06-26	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+103.11.41.19:52814	ThreatFox	2026-06-26	family=win.remcos | confidence=75% threat=botnet_cc
+147.182.140.2:9034	ThreatFox	2026-06-26	family=elf.aisuru | confidence=100% threat=botnet_cc
+45.138.16.56:6006	ThreatFox	2026-06-26	family=win.asyncrat | confidence=100% threat=botnet_cc
+82.29.100.224:8808	ThreatFox	2026-06-26	family=win.asyncrat | confidence=100% threat=botnet_cc
+45.138.16.56:4444	ThreatFox	2026-06-26	family=win.asyncrat | confidence=100% threat=botnet_cc
+82.29.100.224:6006	ThreatFox	2026-06-26	family=win.asyncrat | confidence=100% threat=botnet_cc
+178.83.121.60:8088	ThreatFox	2026-06-26	family=win.asyncrat | confidence=100% threat=botnet_cc
+185.194.175.132:4445	ThreatFox	2026-06-26	family=win.xworm | confidence=75% threat=botnet_cc
+196.251.107.186:80	ThreatFox	2026-06-26	family=win.solaris_loader | confidence=75% threat=botnet_cc
+192.162.199.186:80	ThreatFox	2026-06-26	family=win.stealc | confidence=75% threat=botnet_cc
+147.182.140.2:8443	ThreatFox	2026-06-26	family=elf.aisuru | confidence=100% threat=botnet_cc
+147.182.140.2:8080	ThreatFox	2026-06-26	family=elf.aisuru | confidence=100% threat=botnet_cc
+62.60.226.68:24041	ThreatFox	2026-06-26	family=win.remcos | confidence=100% threat=botnet_cc
+82.29.94.69:1933	ThreatFox	2026-06-26	family=win.quasar_rat | confidence=100% threat=botnet_cc
+147.182.140.2:8001	ThreatFox	2026-06-26	family=elf.aisuru | confidence=100% threat=botnet_cc
+64.83.33.240:5173	ThreatFox	2026-06-26	family=win.overlord | confidence=50% threat=botnet_cc
+192.3.16.35:5173	ThreatFox	2026-06-26	family=win.overlord | confidence=50% threat=botnet_cc
+192.3.16.34:5173	ThreatFox	2026-06-26	family=win.overlord | confidence=50% threat=botnet_cc
+185.103.166.53:5173	ThreatFox	2026-06-26	family=win.overlord | confidence=50% threat=botnet_cc
+192.109.200.233:5173	ThreatFox	2026-06-26	family=win.overlord | confidence=50% threat=botnet_cc
+107.175.115.123:8443	ThreatFox	2026-06-26	family=win.overlord | confidence=50% threat=botnet_cc
+87.120.84.133:5173	ThreatFox	2026-06-26	family=win.overlord | confidence=50% threat=botnet_cc
+27.50.54.191	OTX	2026-06-26	family=DcRAT | pulse='Operation DragonReturn: China-Nexus Cyber Espionage Campaign Targeting Govt. of India/MoF Tax Infrastructure via Multi-Stage DcRAT Deployment' pulse_id=6a3e75975494e990e7421b4d
+117.44.201.119	OTX	2026-06-26	family=DcRAT | pulse='Operation DragonReturn: China-Nexus Cyber Espionage Campaign Targeting Govt. of India/MoF Tax Infrastructure via Multi-Stage DcRAT Deployment' pulse_id=6a3e75975494e990e7421b4d
+118.107.0.197	OTX	2026-06-26	family=DcRAT | pulse='Operation DragonReturn: China-Nexus Cyber Espionage Campaign Targeting Govt. of India/MoF Tax Infrastructure via Multi-Stage DcRAT Deployment' pulse_id=6a3e75975494e990e7421b4d
+204.194.48.250	OTX	2026-06-26	family=DcRAT | pulse='Operation DragonReturn: China-Nexus Cyber Espionage Campaign Targeting Govt. of India/MoF Tax Infrastructure via Multi-Stage DcRAT Deployment' pulse_id=6a3e75975494e990e7421b4d
+223.26.63.40	OTX	2026-06-26	family=DcRAT | pulse='Operation DragonReturn: China-Nexus Cyber Espionage Campaign Targeting Govt. of India/MoF Tax Infrastructure via Multi-Stage DcRAT Deployment' pulse_id=6a3e75975494e990e7421b4d
+178.16.54.27	OTX	2026-06-26	family=TonRAT | pulse='Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access' pulse_id=6a3df8979895cc716bfbf931
+178.16.55.179	OTX	2026-06-26	family=TonRAT | pulse='Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access' pulse_id=6a3df8979895cc716bfbf931
+193.202.84.32	OTX	2026-06-26	family=TonRAT | pulse='Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access' pulse_id=6a3df8979895cc716bfbf931
+62.60.226.97	OTX	2026-06-25	family=Millenium RAT | pulse='Millenium: A RAT Rewritten, A Threat Multiplied' pulse_id=6a3d76e592eaea08a66ad337
+130.12.180.43	OTX	2026-06-25	family=Millenium RAT | pulse='Millenium: A RAT Rewritten, A Threat Multiplied' pulse_id=6a3d76e592eaea08a66ad337
+158.94.208.168	OTX	2026-06-25	family=Millenium RAT | pulse='Millenium: A RAT Rewritten, A Threat Multiplied' pulse_id=6a3d76e592eaea08a66ad337

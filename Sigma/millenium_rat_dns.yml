@@ -1,0 +1,33 @@
+title: DNS Query to Millenium Rat Domains
+id: ae92d560-03e4-4783-a0ec-151b85ff04a2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Millenium Rat.
+date: 2026-06-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - asyncrat
+    - malware.millenium_rat
+    - millenium rat
+    - njrat
+    - shinyenigma
+    - xworm
+    - y2k operators
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'blackhatusa.com'
+        - 'modedapk.net'
+        - 'kuttabilla.top'
+        - 'milleniumrat.online'
+        - '75877.mcdir.me'
+        - 'www.thesnapchatmodapk.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

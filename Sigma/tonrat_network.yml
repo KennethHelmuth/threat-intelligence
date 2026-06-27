@@ -1,0 +1,61 @@
+title: Network Connection to Tonrat Infrastructure
+id: ef9f294c-3421-4bb4-b9dd-40285821f878
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Tonrat.
+date: 2026-06-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - authentication laundering
+    - malware.tonrat
+    - purerat
+    - tonrat
+    - wacatac
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'zloapobikahy23.bond'
+        - 'prejointl.info'
+        - 'recallnine.info'
+        - 'visaphoto-secure.info'
+        - 'ministrew.info'
+        - 'heliosup.info'
+        - 'docshub-secure.com'
+        - 'visaimage-storage.icu'
+        - 'safephoto-vault.info'
+        - 'keypmenu.info'
+        - 'kellystreets.info'
+        - 'image-vlt.info'
+        - 'visaphoto-vault.info'
+        - 'safe-picvault.info'
+        - 'safedoc-storage.info'
+        - 'photobook-reserv.pro'
+        - 'imagestore-hub.info'
+        - 'photo-box.info'
+        - 'photo-hub-io.info'
+        - 'sec-safe-dc.info'
+        - 'hakeiwjs727wj.com'
+        - 'photo-dekor.xyz'
+        - 'photobookadm.pro'
+        - 'haobbao.com'
+        - 'recstrace.info'
+        - 'vertualstreak.info'
+        - 'dancamp.info'
+        - 'docshub-01.info'
+        - 'montagelips.info'
+        - 'safedocphoto.info'
+        DestinationIp|contains:
+        - '178.16.54.27'
+        - '178.16.55.179'
+        - '193.202.84.32'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

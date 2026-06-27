@@ -1,0 +1,60 @@
+title: Network Connection to Vidar Infrastructure
+id: 99027530-07ce-40d6-a2bf-0d7f1cc6b37d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Vidar.
+date: 2026-06-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential phishing
+    - cryptocurrency fraud
+    - facebook advertising exploitation
+    - fifa world cup 2026
+    - ghost stadium
+    - malware.vidar
+    - phishing-as-a-service
+    - ticket fraud
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'fifa.black'
+        - 'fifa.tax'
+        - 'fifaweb.com'
+        - 'fifa.red'
+        - 'fifa.fund'
+        - 'fifa-com.shop'
+        - 'fifa-com.site'
+        - 'fifa-com.store'
+        - 'fifa-com.website'
+        - 'fifa.city'
+        - 'fifa-com.vip'
+        - 'fifa-26-worldcup.com'
+        - 'fifa-com.co'
+        - 'fifa-com.com'
+        - 'fifa-com.top'
+        - 'fifa-com.xyz'
+        - 'fifa-web.co'
+        - 'fifa.bio'
+        - 'fifa.cash'
+        - 'fifa.market'
+        - 'fifa.party'
+        - 'fifa.sale'
+        - 'fifa.show'
+        - 'fifa2026tickets-streamlive.com'
+        - 'football-game.shop'
+        - 'football-ticket.shop'
+        - 'football-ticket.top'
+        - 'football-tickets.top'
+        - 'mm-fifa.top'
+        - 'unitycup2026.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
