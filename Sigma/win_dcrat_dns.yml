@@ -1,0 +1,25 @@
+title: DNS Query to Win.Dcrat Domains
+id: 15c48363-aee8-4b90-b614-a530ed2deb7d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Dcrat.
+date: 2026-06-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RAT
+    - dcrat
+    - malware.win.dcrat
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'comienzo.ydns.eu'
+        - 'guaricha.ydns.eu'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

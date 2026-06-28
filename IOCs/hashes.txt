@@ -2317,3 +2317,77 @@ cc47209d2e4d5a9b2b1d71622b0ad7f73e9c4aa56edd9aaf1e29265650c30f16	OTX	2026-06-25	
 de3842bbb6626912d5b9b01fb775e1843004edb5855d4e627fd74b88bc7fe33b	OTX	2026-06-25	family=Millenium RAT | pulse='Millenium: A RAT Rewritten, A Threat Multiplied' pulse_id=6a3d76e592eaea08a66ad337
 e4496565d9fd2f9425c10a98d3a8632c12af5fe4259484cb202d7f65532b7df2	OTX	2026-06-25	family=Millenium RAT | pulse='Millenium: A RAT Rewritten, A Threat Multiplied' pulse_id=6a3d76e592eaea08a66ad337
 fc41c336b79cbc6559a17d716b84101dbef1adc5357b643a75111af442719611	OTX	2026-06-25	family=Millenium RAT | pulse='Millenium: A RAT Rewritten, A Threat Multiplied' pulse_id=6a3d76e592eaea08a66ad337
+a5602dae7c1e216851e295865023239476ed76677abf46ec7626a17cd2ae29b4	MalwareBazaar	2026-06-28	filetype=sh md5=c01a85d1da1db0e10f0a896b801c575c sha1=6c82ad6b7fcada2ec49b37322a80766b2bab0833 | vt=26/75
+8cd1408dbe57b890cb7aac49c60567e659156f376075ef617d5d7afb588daa09	ThreatFox	2026-06-27	family=win.darkme | confidence=95% threat=payload
+891776acc33d8c22e4667d51c8370d49	ThreatFox	2026-06-27	family=win.darkme | confidence=95% threat=payload
+038112c489a65525aaa6c2ede6c33c2a	ThreatFox	2026-06-27	family=jar.crossrat | confidence=95% threat=payload
+2549dc1f259917a6179f726de0ed45e7	ThreatFox	2026-06-27	family=win.quasar_rat | confidence=95% threat=payload
+737646392a7c882064e22ecb9fc0b2732399e44ced2f56d873e656d0035af288	ThreatFox	2026-06-27	family=jar.crossrat | confidence=95% threat=payload
+885e4c62d17993ccffbfd44a1c128ddf	ThreatFox	2026-06-27	family=win.vidar | confidence=95% threat=payload
+feea6bd8a190f0820c19df24b870a205d5799a9c75ace8044542496650a91ef0	ThreatFox	2026-06-27	family=win.quasar_rat | confidence=95% threat=payload
+bac12c7b2bc08d4d552e4692bc1566d7d54efc67c3a1131628c491c23626d773	ThreatFox	2026-06-27	family=win.vidar | confidence=95% threat=payload
+f2cd38b6c081535971bc76d9aa3560ce3bf33e02986a430464a75e3261c4a8f1	ThreatFox	2026-06-27	family=win.wannacryptor | confidence=95% threat=payload
+c0b5ba4fbb2d486362d4be79caecc2b9	ThreatFox	2026-06-27	family=win.wannacryptor | confidence=95% threat=payload
+f269378bb7d1c7817fa6200a1198b9df	ThreatFox	2026-06-27	family=win.vidar | confidence=95% threat=payload
+52c76d9b7366f34a1fad3b5b0527e24f	ThreatFox	2026-06-27	family=win.socks5_systemz | confidence=95% threat=payload
+abb0ddc5d6972b69a938f88cbc354dffbd14adcd13b8049e6654f51dd3f5836d	ThreatFox	2026-06-27	family=win.vidar | confidence=95% threat=payload
+716612c11982500cca51970f822ddffb5a4b3aa84fda3cb30ffab6daa94f5248	ThreatFox	2026-06-27	family=win.socks5_systemz | confidence=95% threat=payload
+66800eefed4e4c7dae18fe4dfe388e5f0ef20159cf0c7188df6c1a1d88f63a03	ThreatFox	2026-06-27	family=win.asyncrat | confidence=100% threat=payload
+2eebecf7c504a215a51fb2876ec4f646b252fea92b43a6c5a811b8338f0ed133	ThreatFox	2026-06-27	family=win.asyncrat | confidence=100% threat=payload
+6bdc600936975f49a706081d941b5de37f23586828a13aded77e015cf01cccc5	ThreatFox	2026-06-27	family=win.asyncrat | confidence=100% threat=payload
+f636f4b5522e2a1c341fd1064190fe714a2965b4432b0bfe57c05233a60f611f	ThreatFox	2026-06-27	family=win.asyncrat | confidence=100% threat=payload
+d42e4181eb28a34149d95e716d63e9dcbe07c9f93f630bc7f6f19afda19bf3fc	ThreatFox	2026-06-27	family=win.crypto_ransomeware | confidence=75% threat=payload
+a7aa93ad69ee4641c9346eea3456415dbb00be679940d5070db0587894ede987	ThreatFox	2026-06-27	family=win.crypto_ransomeware | confidence=75% threat=payload
+cb1dd59ac326416b84a5c28ced438a25518d4b5fadfbb9c979ed319db844cda7	ThreatFox	2026-06-27	family=win.crypto_ransomeware | confidence=75% threat=payload
+0013d3a2143469022ce41148f0df1898a5c7f122bc5d2842139d47054178f83c	ThreatFox	2026-06-27	family=win.uacme | confidence=75% threat=payload
+3142e7ca3dbe7756b792ba425bf4e3c3b856c430647a8c51126a38993f916451	ThreatFox	2026-06-27	family=win.crypto_ransomeware | confidence=75% threat=payload
+ae6e5050df886ebe8d391f43c8b97dac2ca4e1b1de6e3021f573ca1dd3a62999	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=f357387f06b80fcea1bfa9bc88afe289 sha1=fe36c0e414b07e29a91adc8b343509fd574babd9
+e8ddc81d5b7fbc3585ae8bdfeb22d612eee224bc58a967eb7c40b9a2a9dccd85	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=c0193e5d6257988cb400290464f3a64d sha1=88fab23a40731876c79f21fd2fc9e0d3d9a8f0ea
+e7cfc962d32487c62508734bdfa918dd7f7faa9d812f71b1ad56b6788dc4bb3b	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=9eb797865a9218fa6c8560cacd827a75 sha1=f25b70a2302e33432dd246bd09aff515efebc2db
+05a2e838e3fcc27b6dbd536d0c123d52e25b341464ed8b38f892f38d38fa6cfa	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=ff725b4b2cd1636274f515aac8f73a38 sha1=119966b578d3135db54b6e158a2546e386d940a1
+7b2a71759e42740089ac9081f749d854b8d9132eab7e2edbef22279e0c2e8dcf	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=e3479279d8791a9178ff6458e45b6471 sha1=a8965e5388fe039dd0312b2b31a26ac6d3a36cd3
+5a9f6ea331964b80df719baa5b14a15ffd5a326cc32dd4849638443e76b8f65a	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=7fd703d6f08ddd58369efd810a80a24b sha1=7643befe22cbc317363b4a509190a0a5d689cfd3
+26a65e84c4ed6721d591f8c50676405bd240198185891773be2b7855e9f95133	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=47f2fc9ee1d3c734ba6d37846615fa61 sha1=e7967e9b25ec85a6611e056e72c8d5d8713c0838
+89a8132ebca5b6de89c9890a5e911883c2e0b58216161705eb6042a6ebb9b775	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=17be67fd28db0d7c79f2616775ba8665 sha1=27638da0a37ce54debfa9dac8d1f37256cdcad95
+04e16f35916321dab115dab2fd960623dc43e29f2c24f2094b492e5b48ffb8c8	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=f30f578b47dda1aa1c7e5e202f2168c6 sha1=fe9d748ac48fb5aac334f44c8e2557501acb6ffb
+4229febbc3cd893a2010b1d4a4174c9faac5a086973ffcc639d6f8ea9bee2c1b	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=9e320beb127e0ee7a49712913ec19577 sha1=049f52e0f60f999a8a034229cc80663fa259961d
+d6262ccd82f491d10bc9b8e5c6eb30f57c67c186b5cbc21766f1ad903f837b1d	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=226e5f566267acfd8ce24786ba70427f sha1=b8ff8b1a1d0322fd62467722adadcf770da44eb0
+03dea2fdbbece0bb95bcc7d1d0e46878d55f666efb087184a9a2bdde79cec5a2	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=0e22557694d8e0f071850e763d405986 sha1=7e9a3d97710eff78b8a184523122b334fe2ed93f
+eb413a52665242534572609a704d17b990599e3ace305d2abaeda555c9762ace	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=6cf053295fabe3cd3616721530e7d881 sha1=a44f820f655a538daf177aa62b2e899db5ca57ac
+e7730ccf5bfcb40df1c54f1600cdee4c0c56cb88fdcc6ae9c338d36a1a7f994d	MalwareBazaar	2026-06-28	family=Gafgyt | filetype=elf md5=ffc3f4db19d7755835d1b7773734d913 sha1=3b00f0622a660d8daea4ef156057a756187a687a
+239adbe22edee724d96e4b5fe0f4a7213c8eba6dba33ff938340dd33aaa08ad6	MalwareBazaar	2026-06-28	family=Gafgyt | filetype=elf md5=544630271edf03986a412bbfa6dcf3c0 sha1=f93bec6494b24956bbe9e3458cdf6d749e520f75
+3bbcf6984724e025180a86a790ff6e7fb442c4e66e0eb0518e2c553a2e698322	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=980251549a673b0f0803d2930cf4c64a sha1=b370790b4717c6066fc151ae17f98b69fd0d5bed
+4b516f504ee1a53a1056067398e231cf2a0011152335e06d680cc0876ec30383	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=609c38599c8b98d761612b8124b65fe8 sha1=518efd80f3f41107e02489a10c6cafdbd8be009b
+a0ac62b9a8c8f2bdebbeffa5ea6ba90c88d07f595fe1b39ff11d521ddb881a99	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=73702a508a923a0f3430e551e6ea9e11 sha1=8ff6b2eea92fbc10703cbd08167521ce3b097aee
+d4da359838c9d2f850f5b51266b5870ad82b7f1ebfea60baa81d7058dd4429da	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=3711839a4369e09f26524bad44e61513 sha1=fa8bf01945751afb4d2e0e57ce1884e36b77c72a
+1a7c957b107b4eccfe3c079472b457fd3c13068bc6b65c69c1bdf536d353bf8a	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=e28fd12fd6f4cd301522c69854faad66 sha1=73524232bed1b2ae880ec69506c261228a42f26c
+546c20af1d14d8f69618c0d3a1696b0815a1b0cec1a3c351f516a66cb781cfe1	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=8832c06e718636543f9dc53351bf879e sha1=aeca31304360380b5080736cd3af5e45c924f720
+db11e9ffefc70af6f51b4ffd4c0d127d0dd075667b62a48c095a211c4364c41d	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=fadb789df82b02628d28583f149e9b5a sha1=3d0920ed4a294a1147903233bef23007d8201320
+ddcb3ddec77d47804ea560d2ac6459925d85236a52854fd7106653c41128e49f	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=00041b0fdcd7183256e416330bc817b7 sha1=7ab01ed50c56fca004cdaf6ba0a3b700f2917249
+e3e4bebafddb63fee04a5e6dce99f4f2188115282794b6166865b38acd9cc7d2	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=de595161e1836427e8e5c2b765093548 sha1=e7c6ef8de95734b39ceb8ca02a0d589a069dcfd1
+21d6961360c9607230396b4458990f1816cfa4608bc2f1d943f2ddbcd003de70	MalwareBazaar	2026-06-28	family=Mirai | filetype=elf md5=09b31cb7bf982dbfe7a0197eeca99d1f sha1=21cc1d366af8dc8b9d7e53df9f2aba980075febc
+b6cab0b3aa8e56e2427f486c74588d598ae58bb0cbc0eda6939fe171cb0aed17	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+7bd3201946ef8b8a836bc2f951923adc	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+860ef29773cf680ed765cb08ac3072cb	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+6ca184cb838a989220254ff1914313d774e65712	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+db077e20e429b93d9b1187cf09869544d83dbe02	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+0a8ab3d16b12d3a453ee5a3208fe04744ad54514ef8ea27bb8fe32679efad270	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+0b028b781950641818800fee2b4bf68e4ef2bcee53fe71a21755275ba108783d	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+3318c614fa7d74b71c81f0e5532cc27e	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+425dbed05e53394a719c6e0986a9ce87	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+5fa825564b4ede126005a88ba9efbb54	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+ce9da8845b153c5ba50281304b77969b	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+0614fe623f6014bccae634e15e3c883a41aa89ee	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+2e763321936858b8a566eaadcaf5a7ce064bbad0	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+d068b346169ced2ed677e1d4d75becf84829017f	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+e581b38c6d4e659742839f3025a2add0a7e3fe60	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+0b1a36a31b952341a534fe24890f1ed2921ee259773cff46e4f6273b8c4d5d21	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+2a10ffe0367bb1b26ba2c3bc600892c21074725c0b8c9dc9161e6ceb33915460	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+3e3901519c2305fbe9d5483b7234c25c6d2b562512916481d96f26b849c39fdb	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+402625ec79e3573a80b6de9b33fc1e503e3c7803603cd958ddd515fb0549007c	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+65cba741fe30fa4799fb9002ea8de6d96042a59159dd7c3419c766af24c835e6	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+9c2ce925133a3bf5a924063bbef8df49918d5b7258695c1894cd18c75970157a	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+a35d2b67fa478a7174e308b43ce30bf69b3bc6f44fa76197fdf95fc2fbc1cf5b	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+c6ef82d2864dfd26f117a1ef5602679153423f2742970a7949cec72722f0a01e	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+d4e863f9818bfb2f1dd932df6441dff204e6142c3bdb55b298cb08dc7b6a0c62	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c
+e8ee6f5145c9d503c5130bfc6585567f6e19d409158c3c0ca0b259f1875b15f4	OTX	2026-05-28	family=AUDIOFIX | pulse='A New Threat Actor Targeting the Cryptocurrency Industry's Software Development Infrastructure' pulse_id=6a181e409d755171f4ac356c

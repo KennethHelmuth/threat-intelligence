@@ -1,0 +1,25 @@
+title: Network Connection to Win.Njrat Infrastructure
+id: 14bd2680-f4db-4f3e-a539-af3585665661
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Njrat.
+date: 2026-06-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.win.njrat
+    - njrat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '144.31.61.126'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,63 @@
+title: Network Connection to Audiofix Infrastructure
+id: dfe27ee4-0525-41e2-821c-8ca9abed4ece
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Audiofix.
+date: 2026-06-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - audiofix
+    - ci/cd hijacking
+    - cryptocurrency
+    - developer targeting
+    - linkedin phishing
+    - macos
+    - malware.audiofix
+    - minirat
+    - npm trojan
+    - social engineering
+    - supply chain attack
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'driver-updater.net'
+        - 'login.teamicrosoft.com'
+        - 'live.ong'
+        - 'teams.live.us.org'
+        - 'www.driver-updater.net'
+        - 'www.live.us.org'
+        - 'teams.retesta.live'
+        - 'www.drvstore.com'
+        - 'www.retesta.live'
+        - 'login.retesta.live'
+        - 'learn.retesta.live'
+        - 'driver-store.com'
+        - 'apple.driver-store.com'
+        - 'windows.driver-store.com'
+        - 'driver-hub.net'
+        - 'apple.drvstore.com'
+        - 'www.live.ong'
+        - 'www.driver-store.com'
+        - 'teams.live.ong'
+        - 'windows.drvstore.com'
+        - 'drvstore.com'
+        - 'learn.teams.us.org'
+        - 'learn.live.ong'
+        - 'www.driver-hub.net'
+        - 'team.live.us.org'
+        - 'login.live.ong'
+        - 'byte-io.us'
+        - 'cloud-sync.online'
+        - 'datahub.ink'
+        - 'alibaba.xyz'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

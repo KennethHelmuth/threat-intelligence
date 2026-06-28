@@ -1,0 +1,61 @@
+title: DNS Query to Audiofix Domains
+id: 3ed2c9fb-39ac-443c-9349-deab87f3735c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Audiofix.
+date: 2026-06-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - audiofix
+    - ci/cd hijacking
+    - cryptocurrency
+    - developer targeting
+    - linkedin phishing
+    - macos
+    - malware.audiofix
+    - minirat
+    - npm trojan
+    - social engineering
+    - supply chain attack
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'driver-updater.net'
+        - 'login.teamicrosoft.com'
+        - 'live.ong'
+        - 'teams.live.us.org'
+        - 'www.driver-updater.net'
+        - 'www.live.us.org'
+        - 'teams.retesta.live'
+        - 'www.drvstore.com'
+        - 'www.retesta.live'
+        - 'login.retesta.live'
+        - 'learn.retesta.live'
+        - 'driver-store.com'
+        - 'apple.driver-store.com'
+        - 'windows.driver-store.com'
+        - 'driver-hub.net'
+        - 'apple.drvstore.com'
+        - 'www.live.ong'
+        - 'www.driver-store.com'
+        - 'teams.live.ong'
+        - 'windows.drvstore.com'
+        - 'drvstore.com'
+        - 'learn.teams.us.org'
+        - 'learn.live.ong'
+        - 'www.driver-hub.net'
+        - 'team.live.us.org'
+        - 'login.live.ong'
+        - 'byte-io.us'
+        - 'cloud-sync.online'
+        - 'datahub.ink'
+        - 'alibaba.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

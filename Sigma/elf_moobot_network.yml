@@ -1,0 +1,25 @@
+title: Network Connection to Elf.Moobot Infrastructure
+id: b97e07fc-3b22-4287-988c-76e00d002fb1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Moobot.
+date: 2026-06-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.elf.moobot
+    - moobot
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '162.141.92.192'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
