@@ -1,0 +1,26 @@
+title: Network Connection to Win.Amadey Infrastructure
+id: d1cdd43f-9eda-4846-9fc6-21bd6212bd06
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Amadey.
+date: 2026-06-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Amadey
+    - ViriBack
+    - malware.win.amadey
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '47.236.116.9'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
