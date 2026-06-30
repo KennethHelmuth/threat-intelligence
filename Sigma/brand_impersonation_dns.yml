@@ -1,0 +1,58 @@
+title: DNS Query to Brand Impersonation Domains
+id: f2612119-3668-4dfe-a572-a45c8914b5c1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Brand Impersonation.
+date: 2026-06-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - brand impersonation
+    - chile
+    - credential harvesting
+    - domain rotation
+    - infrastructure
+    - malware.brand_impersonation
+    - pasastesintag
+    - phishing
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'pasastesintag.pics'
+        - 'parastesintago.click'
+        - 'parastesintago.help'
+        - 'pasastesintagc.top'
+        - 'pasastesintago.cyou'
+        - 'pasastesintago.online'
+        - 'pasastesintag26.click'
+        - 'pasastesintap.cfd'
+        - 'pasastesintap.cyou'
+        - 'pasastesintagas.mom'
+        - 'pasastesintagi.best'
+        - 'pasastesintagi.rest'
+        - 'pasastesintagi.top'
+        - 'pasastesintagionline.click'
+        - 'pasastesintagionline.help'
+        - 'pasastesintagionline.sbs'
+        - 'pasastesintagcl.best'
+        - 'pasastesintagcl.icu'
+        - 'pasastesintagcl.life'
+        - 'pasastesintagcl.mom'
+        - 'pasastesintagcl.rest'
+        - 'pasastesintaplmw.click'
+        - 'pasastesintag.xyz'
+        - 'pasastesintagas.best'
+        - 'pasastesintagas.click'
+        - 'pasastesintagas.buzz'
+        - 'pasastesintagas.help'
+        - 'pasastesintagas.casa'
+        - 'parastesintag.buzz'
+        - 'parastesintag.cfd'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

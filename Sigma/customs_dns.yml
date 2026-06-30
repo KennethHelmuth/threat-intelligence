@@ -1,0 +1,34 @@
+title: DNS Query to Customs Domains
+id: e4559152-e813-429f-beba-7efd8686caa2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Customs.
+date: 2026-06-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - customs
+    - email
+    - eu
+    - fraud
+    - impersonating
+    - malware.customs
+    - payment
+    - phishing
+    - postal services
+    - scam
+    - smishing
+    - taxes
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'anpost.ie-sci.help'
+        - 'service-charge.help'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

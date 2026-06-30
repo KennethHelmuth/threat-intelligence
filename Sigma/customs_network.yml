@@ -1,0 +1,38 @@
+title: Network Connection to Customs Infrastructure
+id: f6d0450b-eeb9-4c7b-ae9b-eb402c28ba7a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Customs.
+date: 2026-06-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - customs
+    - email
+    - eu
+    - fraud
+    - impersonating
+    - malware.customs
+    - payment
+    - phishing
+    - postal services
+    - scam
+    - smishing
+    - taxes
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'anpost.ie-sci.help'
+        - 'service-charge.help'
+        DestinationIp|contains:
+        - '34.244.249.157'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

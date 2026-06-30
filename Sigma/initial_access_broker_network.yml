@@ -1,0 +1,51 @@
+title: Network Connection to Initial Access Broker Infrastructure
+id: f7911b4b-c977-4ed5-a6c9-3654a9c8d0f6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Initial Access Broker.
+date: 2026-06-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bulletproof hosting
+    - clickfix
+    - drive-by attacks
+    - drivesurge
+    - fakeupdates
+    - initial access broker
+    - macos targeting
+    - malware.initial_access_broker
+    - ztds
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'ztds.info'
+        - 'cptoptious.com'
+        - 'captioto.com'
+        - 'newtdsone.shop'
+        - 'maxintora.com'
+        - 'check.first-node.rocks'
+        - 'testio.ecartdev.com'
+        - 'webgleam.info'
+        - 'brightson.icu'
+        - 'datumprobe.icu'
+        - 'keyview.icu'
+        - 'traceglimpse.icu'
+        - 'coverlink.icu'
+        - 'tracekey.icu'
+        - 'beacontrace.bond'
+        - 'bseolized.com'
+        - 'eraggifts.icu'
+        - 'jcdlforwarding.com'
+        - 'jclforwarding.com'
+        - 'ycyfugihih.cfd'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

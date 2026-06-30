@@ -1,0 +1,27 @@
+title: DNS Query to Steganography Domains
+id: d9a5056b-89d8-4051-bded-33a2dcae7c50
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Steganography.
+date: 2026-06-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - AsyncRAT
+    - Heavy obfuscation
+    - Remcos
+    - Steganography
+    - malware.steganography
+    - phishing
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'ffgfgjjddsgtrddhtjyfdsessxdssdfdfdfghfhg.duckdns.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

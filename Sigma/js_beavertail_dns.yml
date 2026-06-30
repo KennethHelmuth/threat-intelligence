@@ -1,0 +1,27 @@
+title: DNS Query to Js.Beavertail Domains
+id: bbb5e9c0-6f04-4272-a432-834220e2a0c7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Js.Beavertail.
+date: 2026-06-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - BeaverTail
+    - ContagiousInterview
+    - DPRK
+    - chainvisitalabs
+    - malware.js.beavertail
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'code-beautify.com'
+        - 'ipregionchecker.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

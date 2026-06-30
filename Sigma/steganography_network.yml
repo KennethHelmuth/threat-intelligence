@@ -1,0 +1,35 @@
+title: Network Connection to Steganography Infrastructure
+id: 559b0958-d726-447c-b2f8-7a4daa3f0d97
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Steganography.
+date: 2026-06-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - AsyncRAT
+    - Heavy obfuscation
+    - Remcos
+    - Steganography
+    - malware.steganography
+    - phishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'ffgfgjjddsgtrddhtjyfdsessxdssdfdfdfghfhg.duckdns.org'
+        DestinationIp|contains:
+        - '107.172.235.213'
+        - '198.12.83.75'
+        - '192.227.219.79'
+        - '173.231.188.244'
+        - '107.172.135.60'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
