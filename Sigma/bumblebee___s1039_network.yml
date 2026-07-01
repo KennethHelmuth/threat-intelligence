@@ -1,0 +1,42 @@
+title: Network Connection to Bumblebee - S1039 Infrastructure
+id: 93d18594-e0d1-429c-8bf8-c3bf5a7bc42e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Bumblebee - S1039.
+date: 2026-07-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adaptixc2
+    - akira
+    - bumblebee
+    - credential dumping
+    - lateral movement
+    - malware.bumblebee___s1039
+    - rustdesk
+    - seo poisoning
+    - trojanized installer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'angryipscanner.org'
+        - 'opmanager.pro'
+        - '2rxyt9urhq0bgj.org'
+        - 'axiscamerastation.org'
+        - 'ev2sirbd269o5j.org'
+        - 'ijt0l3i8brit6q.org'
+        - 'ip-scanner.org'
+        DestinationIp|contains:
+        - '172.96.137.160'
+        - '109.205.195.211'
+        - '193.242.184.150'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

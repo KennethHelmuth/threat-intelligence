@@ -1,0 +1,34 @@
+title: DNS Query to Vpn Go: Free Vpn Domains
+id: b5d4a10b-7f68-4285-923c-b9a5f5bedd4e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Vpn Go: Free Vpn.
+date: 2026-07-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser extension
+    - chrome web store
+    - clipboard stealer
+    - credential theft
+    - firefox add-ons
+    - free vpn by vpn go
+    - malware.vpn_go:_free_vpn
+    - staged updates
+    - supply chain
+    - vpn go: free vpn
+    - vpn impersonation
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'gecko.id'
+        - 'vpngogmail.com'
+        - 'vpngo.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

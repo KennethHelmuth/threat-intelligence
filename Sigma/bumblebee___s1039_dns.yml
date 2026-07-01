@@ -1,0 +1,36 @@
+title: DNS Query to Bumblebee - S1039 Domains
+id: ffe93a7b-6211-4ec5-8446-ab718abfee62
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Bumblebee - S1039.
+date: 2026-07-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adaptixc2
+    - akira
+    - bumblebee
+    - credential dumping
+    - lateral movement
+    - malware.bumblebee___s1039
+    - rustdesk
+    - seo poisoning
+    - trojanized installer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'angryipscanner.org'
+        - 'opmanager.pro'
+        - '2rxyt9urhq0bgj.org'
+        - 'axiscamerastation.org'
+        - 'ev2sirbd269o5j.org'
+        - 'ijt0l3i8brit6q.org'
+        - 'ip-scanner.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

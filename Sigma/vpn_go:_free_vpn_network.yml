@@ -1,0 +1,40 @@
+title: Network Connection to Vpn Go: Free Vpn Infrastructure
+id: 0489bc77-918f-40b7-91dc-db6cb8d1d70c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Vpn Go: Free Vpn.
+date: 2026-07-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser extension
+    - chrome web store
+    - clipboard stealer
+    - credential theft
+    - firefox add-ons
+    - free vpn by vpn go
+    - malware.vpn_go:_free_vpn
+    - staged updates
+    - supply chain
+    - vpn go: free vpn
+    - vpn impersonation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'gecko.id'
+        - 'vpngogmail.com'
+        - 'vpngo.com'
+        DestinationIp|contains:
+        - '77.91.123.187'
+        - '178.236.252.133'
+        - '178.236.252.161'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,35 @@
+title: Network Connection to Btmob Infrastructure
+id: 734534e0-55f5-4ce5-be3d-3a4e7d865491
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Btmob.
+date: 2026-07-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - accessibility abuse
+    - android rat
+    - apk builder
+    - brazil
+    - btmob
+    - latin america
+    - malware-as-a-service
+    - malware.btmob
+    - phishing campaigns
+    - remote access
+    - spysolr
+    - spysolr evolution
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'arbsniper.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

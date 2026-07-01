@@ -1,0 +1,60 @@
+title: DNS Query to Tonresolver Domains
+id: 9c897793-68e1-469b-8dc9-160ac7ba811c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Tonresolver.
+date: 2026-07-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - booking.com
+    - credential theft
+    - dead drop resolver
+    - hotel industry
+    - japan targeting
+    - malware.tonresolver
+    - node.js abuse
+    - phishing campaign
+    - ton blockchain
+    - tonresolver
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'photo-41473.xyz'
+        - 'photo-5512473.xyz'
+        - 'photo-1642054.cfd'
+        - 'photo-4773041.cfd'
+        - 'photo-31642054.cfd'
+        - 'photo-1773041.cfd'
+        - 'photo-2773041.cfd'
+        - 'photo-1777041.cfd'
+        - 'photo-5542054.cfd'
+        - 'photo-3777041.cfd'
+        - 'photo-21454.cfd'
+        - 'photo-62454.cfd'
+        - 'bjsdaklska283saik.com'
+        - 'bookaboutphoto.pro'
+        - 'photo-26554.cfd'
+        - 'haddjskak827sja.com'
+        - 'photo-26652.cfd'
+        - 'hakdsiwqs281ks.com'
+        - 'dsjkaksfks324das.com'
+        - 'havasssj291sld.com'
+        - 'photo-27657.cfd'
+        - 'jsdakksd283ksl.com'
+        - 'photo-27757.cfd'
+        - 'photo-26657.cfd'
+        - 'haskakwo291sa.com'
+        - 'hsaertyuoang34.sbs'
+        - 'amanohuguta.cfd'
+        - 'bookphotoreserv.pro'
+        - 'photo-5342054.cfd'
+        - 'aboutbookphoto.pro'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

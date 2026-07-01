@@ -1,0 +1,32 @@
+title: Network Connection to Keystroke Capture Infrastructure
+id: 011d5e5c-68a9-46ff-8e26-1a8d4c5b9c4b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Keystroke Capture.
+date: 2026-07-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser extension
+    - chrome extension
+    - data interception
+    - declarativenetrequest
+    - keystroke capture
+    - malware.keystroke_capture
+    - perplexity ai spoofing
+    - search hijacking
+    - typosquatting
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'perplexity-ai.online'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

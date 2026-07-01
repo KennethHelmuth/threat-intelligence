@@ -2812,3 +2812,265 @@ a4f0014474278238b5fe78fc2c4182b498012a33	OTX	2026-05-30	family=initial access br
 7aa15de93cf85729ddf970e8d7897f69ece3ca29608f73e784a9ba40c9cea18d	OTX	2026-05-30	family=initial access broker | pulse='A New Threat Actor Using ClickFix and Fake Update Drive-By Attacks in Thousands of Compromised Sites' pulse_id=6a1a7e87f6f70533d1443f96
 90aecb370dfb1a99a1f7de0a9c6842ab1b664521fddea16b0ec9a91f322646fc	OTX	2026-05-30	family=initial access broker | pulse='A New Threat Actor Using ClickFix and Fake Update Drive-By Attacks in Thousands of Compromised Sites' pulse_id=6a1a7e87f6f70533d1443f96
 a84b032b49773c2318b11b1164d1aada69e940229aedbf8185c33fc7dd1d2cdf	OTX	2026-05-30	family=initial access broker | pulse='A New Threat Actor Using ClickFix and Fake Update Drive-By Attacks in Thousands of Compromised Sites' pulse_id=6a1a7e87f6f70533d1443f96
+54415e8a8d8e1ad25fdb246d9dfd50c76dce805a47b92d84539f23d14f6ee31b	ThreatFox	2026-07-01	family=unknown | confidence=75% threat=payload | vt=22/75
+05309ac80a2b5ed3579b36a831963e674a598365fc119a9094952df0b7e37c00	ThreatFox	2026-06-30	family=unknown | confidence=75% threat=payload | vt=25/75
+29fcf145fb2958e113b59fc50d0a54f8ca26b10fe22ec96f2222b6d560d17f0c	ThreatFox	2026-06-30	family=unknown | confidence=75% threat=payload | vt=0/75
+ec889a49ebd5ad66c0499fbc6fbc604363c825abdcb216978d430a40f5fbead0	MalwareBazaar	2026-07-01	filetype=exe md5=f23a46170f50a0a300ee75f32dcb48f8 sha1=909881eeb554e63f5c01009682a66b86e2bccac1 | vt=16/74
+3483feeaab0ee0e47bac105a2e36ff634917228cbbb8e422f1289aeee38a58e8	MalwareBazaar	2026-07-01	filetype=elf md5=e3dd18f8204782161243812edb090624 sha1=45832824be96065601be988aab2eede8a0a048fc
+a6904afef81f509dad199a36cf38a78f4a6b17e15fe867e602a3b953e93fed75	MalwareBazaar	2026-07-01	filetype=sh md5=625ae77aaae292c9dce69e220d823cff sha1=8d7f4743b4548bc173ea14bf921a6d0ce2c861bd | vt=9/74
+03fc32e5233fbb4a0e70c3b424e2bc7ecd3c60a60dda62243c79332accb09ec0	MalwareBazaar	2026-07-01	filetype=sh md5=b745b465671b9c497c6ec2c179d42833 sha1=5bb9d451df9e07bd95689b1b32ce005f87df78c1 | vt=6/74
+4d96c7b298f7572c18106cc803f100062a80ebcd4db11e80b0fece135629bac3	MalwareBazaar	2026-07-01	filetype=sh md5=47769afa4e83392aa1970e524498f910 sha1=a50ced40d975a555ffdfb76d1c69dcd2aaeb1bb6 | vt=13/74
+4dd8a2c97d66f3a01e73e7e0154de994a08c359674013f1ecc8e61af562d4e2f	MalwareBazaar	2026-07-01	filetype=sh md5=faa433cce229925bfff20eba33b17575 sha1=f0e2e71591de7154b1577ffc8992da79e45f9c80 | vt=13/74
+283cfc119905c3e5db6fb6746aa4000cab290013157cbe61cfe6dfb650e19548	ThreatFox	2026-06-30	family=win.phantom_stealer | confidence=95% threat=payload
+b818f530a0a9a6247f9943fe3eb32bf3	ThreatFox	2026-06-30	family=win.phantom_stealer | confidence=95% threat=payload
+94da43172f8eb345594617df0937f4fd	ThreatFox	2026-06-30	family=win.valley_rat | confidence=95% threat=payload
+c32590372184842001ba5ae8f4f569352a1b65ece5ec31e4974b717b821362b3	ThreatFox	2026-06-30	family=win.formbook | confidence=95% threat=payload
+bde92ec067ba1011d451ae676aa2bcca	ThreatFox	2026-06-30	family=win.formbook | confidence=95% threat=payload
+2271d88227772b5b7f34958e611b74397fac5ee8c77e48aa2068fff2e1a69a0f	ThreatFox	2026-06-30	family=win.valley_rat | confidence=95% threat=payload
+8d5944e69ec9d5578cc17348f5eb97e7	ThreatFox	2026-06-30	family=win.valley_rat | confidence=95% threat=payload
+4d7800a3be568df4c44d375e24434b000e724f689af92ccfedadf9986138b601	ThreatFox	2026-06-30	family=win.valley_rat | confidence=95% threat=payload
+f1275a25ae3f83f91099e280a52da8be	ThreatFox	2026-06-30	family=win.valley_rat | confidence=95% threat=payload
+3db3678944d709bc08530b411c83ed5e	ThreatFox	2026-06-30	family=win.valley_rat | confidence=95% threat=payload
+5e1bc0c513824834b48ccd088bf1b9e112a0c650f930fe042a582f6aab1ab421	ThreatFox	2026-06-30	family=win.valley_rat | confidence=95% threat=payload
+5baca90a1f5e596203c47a01f7a219bc	ThreatFox	2026-06-30	family=win.valley_rat | confidence=95% threat=payload
+7d1f7c47c75e49e0aa4f759acc4fca6857df7e0415dfec7daab69ef4623bf951	ThreatFox	2026-06-30	family=win.valley_rat | confidence=95% threat=payload
+3f0352cbeaaec5e6bb9cad551a9b7007	ThreatFox	2026-06-30	family=win.easystealer | confidence=95% threat=payload
+2a9694c32d34d59d624b20b53cadf053220630cc628626c5e323d22a079f9e1f	ThreatFox	2026-06-30	family=win.valley_rat | confidence=95% threat=payload
+86eef43c56ef3a426f5e282c2f2afbf8	ThreatFox	2026-06-30	family=win.xoriumstealer | confidence=95% threat=payload
+7d2370b8831dd07db1346424e487534db6079ffc9472a4a1710f8b9fcd78c182	ThreatFox	2026-06-30	family=win.easystealer | confidence=95% threat=payload
+51c6b54a5b498e78765d8a95c065ede84380ec1f0438462baefb82b7e3967bbb	ThreatFox	2026-06-30	family=win.voltstealer | confidence=95% threat=payload
+958f3ce99157d6e0c1396d30f4d82e38	ThreatFox	2026-06-30	family=win.voltstealer | confidence=95% threat=payload
+67643a051e8cda3cddb10e20281dd42961ea4fe754c316201670446748819718	ThreatFox	2026-06-30	family=win.xoriumstealer | confidence=95% threat=payload
+65550f6d0ffec8421f703cdc7273d9c0563b3d480fe6702bad294a18afe72143	ThreatFox	2026-06-30	family=win.metaencryptor | confidence=95% threat=payload
+6f8647bbb9fb933a367abf32a6c6821d	ThreatFox	2026-06-30	family=win.metaencryptor | confidence=95% threat=payload
+49a58699c0421dc0f5769ec37936b3ae01b7dd5e715a7075e5e39ea78715120e	ThreatFox	2026-06-30	family=py.blankgrabber | confidence=95% threat=payload
+c9be244f13bff51377899f5f50ad7db8	ThreatFox	2026-06-30	family=py.blankgrabber | confidence=95% threat=payload
+a9eb130cb57881807b7ef072265af0f6ec84e73c728f11ecce8cc01a7b6a1567	ThreatFox	2026-06-30	family=win.vidar | confidence=95% threat=payload
+e009d13962fd200cf6259ac69ca86a40	ThreatFox	2026-06-30	family=win.vidar | confidence=95% threat=payload
+13ba8af75fb5088dc269b4a5ee3dcafc8dd397775a1258643eb350871851c1dc	ThreatFox	2026-06-30	family=py.venus_stealer | confidence=95% threat=payload
+4a179cad39a87c82efa611adaa33c40b	ThreatFox	2026-06-30	family=py.venus_stealer | confidence=95% threat=payload
+c3635ad319d02c61c07dd3095b4998cf81c6d1e361284fcb67d00fe8b01d1e38	ThreatFox	2026-06-30	family=win.stealc | confidence=95% threat=payload
+55a77ff1a1fca2d0a2bbf1c5b6d9b6db	ThreatFox	2026-06-30	family=win.stealc | confidence=95% threat=payload
+dec98a1ef5d1d1b5a6aa886345de1ac4adcea5829509e375b7cf87b7a22fb91d	ThreatFox	2026-06-30	family=win.supper | confidence=95% threat=payload
+caf61d5d2d0449eba635f900da57c26c	ThreatFox	2026-06-30	family=win.supper | confidence=95% threat=payload
+43f1a9accf541df4ce951ae76a058597	ThreatFox	2026-06-30	family=win.valley_rat | confidence=95% threat=payload
+f17cb686d2371074b25d8a992014dbd75a454d06d436324001eac3f9f0ecef5a	ThreatFox	2026-06-30	family=py.creal_stealer | confidence=95% threat=payload
+23ac423d9a6adec92d74a8c35cc153b3	ThreatFox	2026-06-30	family=py.creal_stealer | confidence=95% threat=payload
+2dfe7a647bfd6602e54d8803a9326207	ThreatFox	2026-06-30	family=win.socks5_systemz | confidence=95% threat=payload
+5835f5b27cd6f62d186fa92210f0cae7238e2aa2e030d0f223e1d2adc7016c4b	ThreatFox	2026-06-30	family=win.valley_rat | confidence=95% threat=payload
+5550e9b063aa3dbf466593011bc7c1b6c01e54ff2ffeeaad74814a7726c35804	ThreatFox	2026-06-30	family=win.socks5_systemz | confidence=95% threat=payload
+267f2c6578ec3efa95af78d36493219b5b7d1d9801e9f7ebc0559298e173e091	ThreatFox	2026-06-30	family=win.vidar | confidence=100% threat=payload
+4b9466b03553cbaf4b67efd3ef100a8f198c2463bf26ae5bf825dfd7a6742984	ThreatFox	2026-06-30	family=win.vidar | confidence=90% threat=payload
+e43580fc868229155276b47518770c3d27bcf34c66020d34413be5cfd896e7a6	ThreatFox	2026-06-30	family=js.clearfake | confidence=90% threat=payload
+757b20354a901501b2d8e99294940d1256d2d9140d336aded8307d95fdf479f3	ThreatFox	2026-06-30	family=js.clearfake | confidence=90% threat=payload
+ce29b8c2576712a33aae06aee02486440c9268fcc19da1496a074feeee0a5178	ThreatFox	2026-06-30	family=js.clearfake | confidence=90% threat=payload
+25e3c200de4868d754a3b4f4f09ec2bf	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+0a542751724a432a8448324613e0ce10393e41739a1800cbb7d5a2c648fcdc35	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+aa56f350882ce63429c6626567487b041f06168bb60f4fc371a262eabadfa660	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+0628ad6d1fd836b13b22e75fa169502d8ce78b7ad20f0261eb5151da98437bca	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+0f22e6ed962180838c03cb70af8bd66a	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+1011ac97559249522143d32338b08036	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+26ce4d8ea691bb54864c3455ed6b7620	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+3673d505d3050503be6f30eb235afcc4	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+38fe4db3b191c2ccb3cd71a36a38b9d6	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+516e0f3e44924d0a5595b4e28728d291	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+53d007e850871473321f3a4f68ab3615	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+54ce4a5145402b10b4660312ffe8385f	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+54d37f09251cbe283f42f64964083ca8	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+5652ea26835619fdd6b3609326ba9ea0	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+61c30bd7eb4914eb9419661af821944c	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+7881c012c247d29dbf43b05c8b042cc1	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+7db5fb56b60db0077b86e00eeff37394	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+7e2ab284b1068420178f0ced7895c064	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+7f493c8b8c3a1117c90e1f679c782d42	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+9989b5cf30f42f3ac013b5fb4c898b07	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+a4bd7b38313d8cd94e76a48b83683f57	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+a7a5c56f3549a65fe18ed356c56c595a	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+bb02daf9c37f7cd0df5a2ca0c0c1790f	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+bfd7d041bdfb28b62921b64af068ccab	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+c09e71fca97d609f48b0de1ffd669454	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+cd882f00cb63cfb382a4fa6013705ca6	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+d15a9b899b55b379933871ffb303613a	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+d46ba296b0a3894b04597a7c4cd731c7	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+dbd8934e2e80890a7067097079a40182	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+015259747ddb8f227fe56a6d12b0fc7f0dadd20e	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+0198883f685b52ff5adf0f7d2e64adbbf3c9c9da	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+1cb0d3de945cec63dc0cd00cb4404d48079e565b	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+2de67a7c23d3b96b3dbec9a81cf3e01ebefdeee9	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+3544b924c689b5d93b9452ad4e53bdfe86aef3c3	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+4038a93e767eac600e344ad9707a1c4643f0cb4b	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+5798d4eeb49cb3da09e2236ed3606332412e93e9	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+5c9d9649b439b86cf18987865b32dab228ace037	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+5cf24613f0c98f8bf7f90a8da6e028c62a2d0a76	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+606c4427da725b5dd7d399cb3177009e66432cc7	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+6409d1583a15a906ff76556ae0cb8a3611145ec3	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+6cc79ccdcf6a1fd08d69479f830f85a258152abf	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+72b086db438d2cf2574b3ecd62c022fea7b85c36	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+79e9925c155be31a917aa595ca1a41dd46486259	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+7ad568aa207f5bf58b75bbc388c2401b63169eb2	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+8491a0c251ffd9cdbbd9d6bebbe2cb3a430f16e2	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+8763e26ca6e9db481f49c4f8c15340e3093cae40	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+8954f531421de2a8e9faa1857924a91963c2ce62	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+91d17bf2241eb10deb245c9ce8eda6e39a18b3d1	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+96f3b957f46d4ccea82b9d2ee0f5bbdc3d97d01b	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+99d0bce258388ccce6ead0e4a36d7986c9c431db	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+a154ccae7aec83a3e85edc67c91ff9607fb27d8a	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+a7f68bd1566f67bbddb1a2a10ab093aa1d9366b5	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+e35893fabebb69483640687d6c43fab7919d46ed	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+ef2f51aa47fdc2372df6d561a3b881da8e518d6c	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+fda4e742ead8a0492c2d7cb61f256f1f400af06f	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+02a52c4cc11748d44c9b49d508ee4e46425661981fa1406f30ec0830cb69ddc5	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+140a7f995b0336942691a2e93e2017fd575267c017c7d0728d69169306f91963	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+168f50bf9a87099094ef410e3ac33e676a6a8740a5437cd09e7b63d73df8431a	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+1a60cb5f7e2fb7c09fc3dc8459108b26ac98ee73131f37a28cfdad5fc75b7a7d	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+244d81fd9908cd17815501d4edadeb1baf1c421aa25d8bd61c7cb481c939540e	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+2525d1e427a9983b0b4ca0906a4b44ffb9814b23d53fd8a2e3ab6512b027c733	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+26a2268281e8043125ef72b92f8980b42912048753d56894bc378fb54c7c188a	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+512ede9f2fa794907999f3c26165557fdfd383b7aad71ba022ce2c8ba6c0019d	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+58ac130a8ebb09e37592ac69841483edc5695d1545b1f04f23d5b760ac17cd94	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+5a4e86bbcf0ebc455d2995db225d9ad682e9b37b6bad472a604a462099d988bd	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+5aaaf972c8bf39a98f2748e526de3cc0370ba831997d7d9765cdaba599645c0d	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+6101d1e1811db052f869f7eb3402dad28da7e92103d4a44ee43f95846a075012	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+676cb2d0a60403afc06cea1b572cb7261f706365fac65621b5a4907893e7ac0d	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+6844ce1539014571360495c6fb50965e813c2721663bdd40d577d9e5163773c6	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+6ae94ce710016d86ed7457236deef2c4c51478587f3609b6e827a348828b3931	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+6bba64fa9e8a7b11cb2476cd071de08986db44b0783eff211c68fa5594ef8143	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+6f9832ebb4c3054bee4a6ce5ccb69c00e2020053e1308353343097e6a4041109	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+702261ba38b57ecc3a5407fed28b2f0611a74c2ec0c116aea4f9e6def0899aed	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+752c1cfe783ed343e470ab95a4843a23872cdc98b7d3ed5633dd6c881c071a14	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+75dd4fb011ed598374a46fc0d9c0d1d64a298341c34afc83a56a6983cfd27764	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+7ac974899e8e05aaacd417577c97e382d5e8c5f7f4a85632cffb47ec2f6ae4e0	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+8f09274e808e0063d51f34cac82a5770b3df30c792e426da2f6a80657f27affc	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+97a0497de585d3be6ec75064ab3bd0979cd85561193c1f0669ccf4db31330687	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+998a7ed1572ad9dc11375bc25294e1954e606b7cff9fabc5c120713e597cd274	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+a1e457c52eab430c20d48f2ac476e080386313f16efb135a0471902cf68ce475	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+a764d73795abe47ae640ba09999a18c47b5340e5ecc7b897afebf34f3f37638f	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+a892f1ef2e530d67bf948a48c734da3f27718eb8b883ca0b686ddb0a81071731	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+c6199e175fb988cbbeacdf0f5acdf9ed83f5bdaae5c95b7a6c27ee72cd11b0b1	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+c99139b0053c4c698ea0246d26d747f2a984c7aba4613da818ecd9f97899ef3a	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+d55057cd9110d12a192281356f06b94f342b9febb305cf0a5898a7e6af40758f	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+ddce0219923d152b8facd303f058a6286cf1f6924992b9fb9f5bf4d96436cc39	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+e5a9fdff900dd502e8f3dce52d2d1b69aa9afafb5094a28f9037e8770db0e63b	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+f76b13040c634f82a8332ff9443d84c89a5bced51ae9adad7fd15c05fadb4324	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+1c085c7663518f499396cbe95b5613ca8e46a011	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+434e9e0e6ccbf20172f31aab63586ea7	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+589ac68824823649437f4ca3e03e94f0	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+6377be88ba0ef67fb6ffab49c32ccfad	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+94cd8ba7c79fa2962b505fcef5e25601	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+c4ed9c1043b924f1739f57a66731336beb8378c4	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+e1e5af28ab858893c9baec1e0d7f2f199f97f56b	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+ebfade04b81e5ac679ef7e6beff7b850e3ff6ded	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+f20ba894c80e68c9324e211565319523	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+47ebf1f0ce0f93794b5db80e2a367fcb00fc9bff	OTX	2026-05-31	family=BTMOB | pulse='A stealthy RAT burrowing deep into Android devices' pulse_id=6a1cc51d7c8f832f819a0a43
+c04c947efdfdd9ce24617903b6746a83	OTX	2026-06-29	family=SHARDLOADER | pulse='India's government and energy sectors targeted with ZOHOMURK and MINIRECON' pulse_id=6a42d4a95543681c96ad0e57
+43d646eda4166261eb1433c7599bf5cc9129a4f1	OTX	2026-06-29	family=SHARDLOADER | pulse='India's government and energy sectors targeted with ZOHOMURK and MINIRECON' pulse_id=6a42d4a95543681c96ad0e57
+fcf4efa82d477c924d42cc6b71aa672ab2381ca256769925ae34dabe2e77e025	OTX	2026-06-29	family=SHARDLOADER | pulse='India's government and energy sectors targeted with ZOHOMURK and MINIRECON' pulse_id=6a42d4a95543681c96ad0e57
+390148f5157c0f6b337ff19d162c3c2ee3e6d782fdfbe11fb1e411c0684fd33b	OTX	2026-06-29	family=SHARDLOADER | pulse='India's government and energy sectors targeted with ZOHOMURK and MINIRECON' pulse_id=6a42d4a95543681c96ad0e57
+f53fd0626404a129dcddb8ee7589387dd7bda7999814e0df46c670af6b3da5f5	OTX	2026-06-29	family=SHARDLOADER | pulse='India's government and energy sectors targeted with ZOHOMURK and MINIRECON' pulse_id=6a42d4a95543681c96ad0e57
+8aeba3c711eaa0116807c66390284dfa572d2cc7	OTX	2026-06-29	family=SHARDLOADER | pulse='India's government and energy sectors targeted with ZOHOMURK and MINIRECON' pulse_id=6a42d4a95543681c96ad0e57
+b267acd1b7c15b18178ae9fd4974f3f4	OTX	2026-06-29	family=SHARDLOADER | pulse='India's government and energy sectors targeted with ZOHOMURK and MINIRECON' pulse_id=6a42d4a95543681c96ad0e57
+7e7b30071565773d480578537ee3b0e6	OTX	2026-06-29	family=SHARDLOADER | pulse='India's government and energy sectors targeted with ZOHOMURK and MINIRECON' pulse_id=6a42d4a95543681c96ad0e57
+bca1e295acaacbb19c7e3a7868746f6b772b7b71	OTX	2026-06-29	family=SHARDLOADER | pulse='India's government and energy sectors targeted with ZOHOMURK and MINIRECON' pulse_id=6a42d4a95543681c96ad0e57
+5f22ec5c14dfd47c92850a5fb3bd8e3754d538b8021b6238238e4020336cfb5c	OTX	2026-06-29	family=SHARDLOADER | pulse='India's government and energy sectors targeted with ZOHOMURK and MINIRECON' pulse_id=6a42d4a95543681c96ad0e57
+a43084f5af861f44c75c5273c779cb26d506cab6b51c33746626da504148a4ec	OTX	2026-06-29	family=SHARDLOADER | pulse='India's government and energy sectors targeted with ZOHOMURK and MINIRECON' pulse_id=6a42d4a95543681c96ad0e57
+cd9397797216fd4c08df324937509124e57258328c8e4c6d795c6a2cd25b69b0	OTX	2026-06-29	family=SHARDLOADER | pulse='India's government and energy sectors targeted with ZOHOMURK and MINIRECON' pulse_id=6a42d4a95543681c96ad0e57
+ebd533de7ca16daa70093b0b1084fb6136b6ba091d6ee0e4199762581e1b2e5a	OTX	2026-06-29	family=SHARDLOADER | pulse='India's government and energy sectors targeted with ZOHOMURK and MINIRECON' pulse_id=6a42d4a95543681c96ad0e57
+f2bed071676feb831ed460489643fd57f6c6c1e0d024a1ea447820276fb13828	OTX	2026-06-29	family=SHARDLOADER | pulse='India's government and energy sectors targeted with ZOHOMURK and MINIRECON' pulse_id=6a42d4a95543681c96ad0e57
+9f5f2f0fb0a7f5aa9f16b9a7b6dad89f	OTX	2026-06-30	family=Umbrij | pulse='How access to Gmail accounts is gained' pulse_id=6a43aeed1ecda1a314aec59e
+28cb7b261f4eb97e8a4b3b0d32f8def1	OTX	2026-06-30	family=Umbrij | pulse='How access to Gmail accounts is gained' pulse_id=6a43aeed1ecda1a314aec59e
+1ab58838e5790efb22f2d35ab98c0b7d	OTX	2026-06-30	family=Umbrij | pulse='How access to Gmail accounts is gained' pulse_id=6a43aeed1ecda1a314aec59e
+22aaeb4946ba6d2f2e27feb7dbb295de	OTX	2026-06-30	family=Umbrij | pulse='How access to Gmail accounts is gained' pulse_id=6a43aeed1ecda1a314aec59e
+3432dd9ac0df80ef86eb80bd080f839b	OTX	2026-06-30	family=Umbrij | pulse='How access to Gmail accounts is gained' pulse_id=6a43aeed1ecda1a314aec59e
+3d3a621f852c42d97fd7260681e42508	OTX	2026-06-30	family=Umbrij | pulse='How access to Gmail accounts is gained' pulse_id=6a43aeed1ecda1a314aec59e
+a7d7d6c4c3f227f7117261c63b9e23a9	OTX	2026-06-30	family=Umbrij | pulse='How access to Gmail accounts is gained' pulse_id=6a43aeed1ecda1a314aec59e
+bae82a15d1dbfb024617b9b56a8e5f66	OTX	2026-06-30	family=Umbrij | pulse='How access to Gmail accounts is gained' pulse_id=6a43aeed1ecda1a314aec59e
+f169d6d172dfb775895a5e2b1540c854	OTX	2026-06-30	family=Umbrij | pulse='How access to Gmail accounts is gained' pulse_id=6a43aeed1ecda1a314aec59e
+f61fbfb7aa1cd5dc8f70b055b51563e2	OTX	2026-06-30	family=Umbrij | pulse='How access to Gmail accounts is gained' pulse_id=6a43aeed1ecda1a314aec59e
+40859ede262098086962ab00c89f02452aa9941c88c7f4ac002db166179980c6	OTX	2026-06-30	family=Mimikatz | pulse='Defence Impairment Olympics' pulse_id=6a4323652af5f050747cd53a
+793768ce4fadab044c7502ea5ec4d8e1569283f289dfd73419e119f32d56d0f3	OTX	2026-06-30	family=Mimikatz | pulse='Defence Impairment Olympics' pulse_id=6a4323652af5f050747cd53a
+94cd18f3f030fcc9b259dc410b17ea72a1f9800ee654f8e0f07a87bb9443b593	OTX	2026-06-30	family=Mimikatz | pulse='Defence Impairment Olympics' pulse_id=6a4323652af5f050747cd53a
+bd74a00f4d2ec3bf50d13ddf324bb368b2464d547abd0c572ef5e2f77943a920	OTX	2026-06-30	family=Mimikatz | pulse='Defence Impairment Olympics' pulse_id=6a4323652af5f050747cd53a
+f0ff36ecdc843351913dbfbd9122b62563894936ff64215a7a2f89181ebdb57f	OTX	2026-06-30	family=Mimikatz | pulse='Defence Impairment Olympics' pulse_id=6a4323652af5f050747cd53a
+f63d293e117cae1d0a6c24359fc1361a9dc48178049cc6491051b09268c8c39c	OTX	2026-06-30	family=Mimikatz | pulse='Defence Impairment Olympics' pulse_id=6a4323652af5f050747cd53a
+00cc86d1144020c24c8fbb3a8dc6b908926497ebd23be3bf854360f93d1c8f4c	OTX	2026-06-30	family=TaskWeaver | pulse='A Djinn in the Machine: TaskWeaver's Node.js Intrusion Chain' pulse_id=6a432365e2207bde8681b975
+f4a72600a3735c2a4d843875ea61bbb6f935a1af51a81f2fbc992ce11ba94afc	OTX	2026-06-30	family=TaskWeaver | pulse='A Djinn in the Machine: TaskWeaver's Node.js Intrusion Chain' pulse_id=6a432365e2207bde8681b975
+43dc5b1d4c73d5ed9f4f7f561830079896eeb533a7c21bc577e4e267d5a3aa56	OTX	2026-06-30	family=VPN Go: Free VPN | pulse='Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates' pulse_id=6a43b188e88186c48de04785
+b3b63970833b3379ecec2d3ef8fea328fef8dd1c1574b1bcdfebad5bdce9280c	OTX	2026-06-30	family=VPN Go: Free VPN | pulse='Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates' pulse_id=6a43b188e88186c48de04785
+72fc06a8b03720f4a64744eecd5b3f658ad880bdb327c0c465c7bdc66b14a8d2	OTX	2026-06-30	family=VPN Go: Free VPN | pulse='Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates' pulse_id=6a43b188e88186c48de04785
+fbbdf4bc490ad7b28953630c1707aa68b89d319b9b735f3d8563320b81b21a97	OTX	2026-06-30	family=VPN Go: Free VPN | pulse='Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates' pulse_id=6a43b188e88186c48de04785
+2fe9c41901045013ba28ccb9af5870f9aef4f1ffd1e717cd5e0189ffdbe7fca2	OTX	2026-06-30	family=VPN Go: Free VPN | pulse='Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates' pulse_id=6a43b188e88186c48de04785
+11f01e8296a074e6e3b23e9413c51f205d4b6a14146fb4d95bec291d768a9071	OTX	2026-06-30	family=VPN Go: Free VPN | pulse='Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates' pulse_id=6a43b188e88186c48de04785
+638636692e3eef6c83dbca784a40fb7b6ac95b76d6551a2fbdfebc11588ad8ff	OTX	2026-06-30	family=VPN Go: Free VPN | pulse='Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates' pulse_id=6a43b188e88186c48de04785
+7386252b9a86e5357e6aa884326720abf015465a2567e75717830b6688ef05cc	OTX	2026-06-30	family=VPN Go: Free VPN | pulse='Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates' pulse_id=6a43b188e88186c48de04785
+d7d43e8e8f03afdcaaba85622daf24ced944e7ca4d03ac124fc325d0bb6e3d66	OTX	2026-06-30	family=VPN Go: Free VPN | pulse='Chrome and Firefox Extensions Posing as Free VPNs Add Clipboard Stealers via Malicious Updates' pulse_id=6a43b188e88186c48de04785
+5ec231d3d07530dd4e72127aeed10482d53a9fa6162624b9244ecd7418b73d4c	OTX	2026-06-29	family=TONResolver | pulse='RAT Abuses TON Blockchain to Target Japan's Hotel Industry' pulse_id=6a42d46fe5317e409adbaaa3
+9a75e798a71c2541f17102128f7c546288bbd3eb30b6b2b4948b17e73873a510	OTX	2026-06-29	family=TONResolver | pulse='RAT Abuses TON Blockchain to Target Japan's Hotel Industry' pulse_id=6a42d46fe5317e409adbaaa3
+c66119f0e5635c4380441d7a79baf0c02a0ab7ea6cd78de06507fc5dc2c1a5d9	OTX	2026-06-29	family=TONResolver | pulse='RAT Abuses TON Blockchain to Target Japan's Hotel Industry' pulse_id=6a42d46fe5317e409adbaaa3
+746f6e616a756b626875616b706f322e73686f70	OTX	2026-06-29	family=TONResolver | pulse='RAT Abuses TON Blockchain to Target Japan's Hotel Industry' pulse_id=6a42d46fe5317e409adbaaa3
+0fe5a035b02526ae1ecc1f212aea4564620103ce520532ed3dd6104abb6ac459	OTX	2026-06-29	family=TONResolver | pulse='RAT Abuses TON Blockchain to Target Japan's Hotel Industry' pulse_id=6a42d46fe5317e409adbaaa3
+4ec8b349dec92720325aa4cd2637165283ef9b657efed25595d1127e13d9ed6c	OTX	2026-06-29	family=TONResolver | pulse='RAT Abuses TON Blockchain to Target Japan's Hotel Industry' pulse_id=6a42d46fe5317e409adbaaa3
+540d78d1b48059f41d1e44f29bb255cfc4c3d628c2a4e2478fcca311c955c232	OTX	2026-06-29	family=TONResolver | pulse='RAT Abuses TON Blockchain to Target Japan's Hotel Industry' pulse_id=6a42d46fe5317e409adbaaa3
+5853f2fb23c9824382a29e5094110cafa28cd8bb4b9ecbc6e7f890bf728a0d45	OTX	2026-06-29	family=TONResolver | pulse='RAT Abuses TON Blockchain to Target Japan's Hotel Industry' pulse_id=6a42d46fe5317e409adbaaa3
+6d5b44d0678e6bd6703f2cabd2531ccf5a0b11cc081f8f7175bd679db4c12d41	OTX	2026-06-29	family=TONResolver | pulse='RAT Abuses TON Blockchain to Target Japan's Hotel Industry' pulse_id=6a42d46fe5317e409adbaaa3
+acf58e82c2716e3ca47eca715d318ab5c0fdf2d1bc50f4c89e7a8ad3324e244a	OTX	2026-06-29	family=TONResolver | pulse='RAT Abuses TON Blockchain to Target Japan's Hotel Industry' pulse_id=6a42d46fe5317e409adbaaa3
+ad8a41329520983bd5b87610729aee7bc984a262df0a611efecc1e65d8122ac8	OTX	2026-06-29	family=TONResolver | pulse='RAT Abuses TON Blockchain to Target Japan's Hotel Industry' pulse_id=6a42d46fe5317e409adbaaa3
+aea565f34dff268bbfea6d704d88ed7b198d0470f18a59e7e3468e64e4b9864f	OTX	2026-06-29	family=TONResolver | pulse='RAT Abuses TON Blockchain to Target Japan's Hotel Industry' pulse_id=6a42d46fe5317e409adbaaa3
+bf72fbba31df1d3699ae7b72dd2737a22c80219e07055db607d17c12cf8ed760	OTX	2026-06-29	family=TONResolver | pulse='RAT Abuses TON Blockchain to Target Japan's Hotel Industry' pulse_id=6a42d46fe5317e409adbaaa3
+ed53b4d2adfe22d7e3852667834bb472c7963777c8468c7355d9cc5b08086a6c	OTX	2026-06-29	family=TONResolver | pulse='RAT Abuses TON Blockchain to Target Japan's Hotel Industry' pulse_id=6a42d46fe5317e409adbaaa3
+a14506c6fb92a5af88a6a44d273edafe10d69ee3d85c8b2a7ac458a22edf68d2	OTX	2026-06-29	family=Bumblebee - S1039 | pulse='From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira' pulse_id=6a429369377f216bcfbdda03
+a746da514c90f26a187a294fda7edc1b	OTX	2026-06-29	family=Bumblebee - S1039 | pulse='From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira' pulse_id=6a429369377f216bcfbdda03
+bcee0ab10b23f5999bcdb56c0b4a631a	OTX	2026-06-29	family=Bumblebee - S1039 | pulse='From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira' pulse_id=6a429369377f216bcfbdda03
+1b9aa401457d29405c0bcf19cbf19a7028a0d214	OTX	2026-06-29	family=Bumblebee - S1039 | pulse='From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira' pulse_id=6a429369377f216bcfbdda03
+f352cec89a56e23dae20cdd62df4d40bc7f22b5e	OTX	2026-06-29	family=Bumblebee - S1039 | pulse='From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira' pulse_id=6a429369377f216bcfbdda03
+186b26df63df3b7334043b47659cba4185c948629d857d47452cc1936f0aa5da	OTX	2026-06-29	family=Bumblebee - S1039 | pulse='From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira' pulse_id=6a429369377f216bcfbdda03
+18b8e6762afd29a09becae283083c74a19fc09db1f2c3412c42f1b0178bc122a	OTX	2026-06-29	family=Bumblebee - S1039 | pulse='From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira' pulse_id=6a429369377f216bcfbdda03
+6ba5d96e52734cbb9246bcc3decf127f780d48fa11587a1a44880c1f04404d23	OTX	2026-06-29	family=Bumblebee - S1039 | pulse='From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira' pulse_id=6a429369377f216bcfbdda03
+a6df0b49a5ef9ffd6513bfe061fb60f6d2941a440038e2de8a7aeb1914945331	OTX	2026-06-29	family=Bumblebee - S1039 | pulse='From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira' pulse_id=6a429369377f216bcfbdda03
+ca8646dfc88423bb9fffda811160cebe	OTX	2026-06-29	family=Bumblebee - S1039 | pulse='From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira' pulse_id=6a429369377f216bcfbdda03
+febbaf5f08a8e0782ffcce8beef1f2b4e249a52b	OTX	2026-06-29	family=Bumblebee - S1039 | pulse='From Bing Search to Ransomware: Bumblebee and AdaptixC2 Deliver Akira' pulse_id=6a429369377f216bcfbdda03
+9321a61a25c7961d9f36852ecaa86f55	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+6afc6b04cf73dd461e4a4956365f25c1f1162387	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+f8965fdce668692c3785afa3559159f9a18287bc0d53abb21902895a8ecf221b	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+5af1dae21425dda8311a2044209c308525135e1733eeff5dd20649946c6e054c	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+b6b51508ad6f462c45fe102c85d246c8	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+96f0dbf52aed0afd43e44500116b04b674f7358e	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+7556ae58c215b8245a43f764f0676c7a8f0fdd1a	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+8f0577d28c4ff5f71b149f444bfaba8e	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+9ddae47ff968343a8c32a5344060257fdc08e2a7bdb9a227c8b3a584ee3c9f1e	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+eef8a950952696b018aa9c6da2f5d7ad	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+1fa071303fb846308571e64727501fb98b1c2be6	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+5abe477517f51d81061d2e69a9adebdcda80d36667d0afabe103fda4802d33db	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+5b4f59236a9b950bcd5191b35d19125f60cfb9e1a1e1aa2e4f914b6745dde9df	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+68fec379f2ae76c3d2ce913f7be650cea1d06990	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+5761bd63da03686fc480245da7bd1e9f	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+6ae7c9a7ea0b8c40a64225734f6bd01d	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+8468cb5888fb383d25f9144c2b2f61c414cea3f8	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+b67958afc982cafbe1c3f114b444d7f4c91a88a3e7a86f89ab8795ac2110d1e6	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+c7f7b5a6e7d93221344e6368c7ab4abf93e162f7567e1a7bcb8786cb8a183a73	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+3b46a729db7ae6af8b19711c9452194d	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+5aea74bf3e70f38eb596f8002b3c02514daee4f0	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+1af419b36a5edefef387409e2b3248c9223f7dc49a4f7b15ea095d371c3a70b2	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+10ca9a4040001560d053b7e7885c1b95	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+e7cc7b32d844ec6a2f41f0efbc64a0783afb56e4	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+02944c8a5535cdb5b2cbb893db2d5acf	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+3c471ebc947cdf32240a90ffadf49b13	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+4be8bb62f0ebbcf4ce52c35ab6f794f5	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+53c616677bc7e2a0a03127f19166d007	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+554e699c96b332468f1ae69c1ae81ef9	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+5c3b9821fc82a9028cb63b9671950919	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+5f0b2c6d9f442754258bf4dd841c8341	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+608faf58353b65c45ef9833358ac3787	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+73f0a8c3ea794a04e80c32038249f044	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+846dc77c1246db20d976346e0e359502	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+adac9984b3cc43d66a0d33079bbec299	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+ae0e536766788478263bf448a9381641	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+b3e418d30312c1b2c58a791286868f42	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+b9986a0f1f1f1a798dc3f0c59a80a1a3	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+c2764744dcb4b0e1db79ca1e8bf65368	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+d12a5b36dd00586cc374a1cae43efed4	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+d2f72897e8986303d5567eb2384932b8	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+de1522f9219497632f30f8a6e72f26b6	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+edb1c480295250dd1a38f3aa1357deae	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+fdae2beb813778b4540a997706862096	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+ab5ad04bb822435e5453706cd86cc001ee555aee	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+cb747c0134f99d5033bac6e966864e2435a2a94244ca8e3f614f4992df93ff10	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b

@@ -1,0 +1,35 @@
+title: Network Connection to Taskweaver Infrastructure
+id: 9c7863fe-4b58-4753-a344-fca983e0546f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Taskweaver.
+date: 2026-07-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai development tools
+    - credential theft
+    - cve-2026-48558
+    - djinn stealer
+    - malware.taskweaver
+    - node.js
+    - rmm exploitation
+    - simplehelp
+    - supply chain risk
+    - taskweaver
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'a.dev-tunnels.com'
+        DestinationIp|contains:
+        - '96.126.130.126'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

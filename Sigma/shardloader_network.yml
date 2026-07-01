@@ -1,0 +1,39 @@
+title: Network Connection to Shardloader Infrastructure
+id: 5e03bdbf-3173-48e4-8693-28871fd937a7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Shardloader.
+date: 2026-07-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cloud c2
+    - dll sideloading
+    - espionage
+    - government targeting
+    - hydropower
+    - india
+    - malware.shardloader
+    - minirecon
+    - pubload
+    - shadowpad
+    - shardloader
+    - toneshell
+    - websocket
+    - zoho workdrive
+    - zohomurk
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'couldinstallup.com'
+        - 'www.zohoapis.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

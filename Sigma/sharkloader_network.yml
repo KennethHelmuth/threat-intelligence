@@ -1,0 +1,40 @@
+title: Network Connection to Sharkloader Infrastructure
+id: 79f3bf1d-969b-4653-8c71-10015ee66515
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Sharkloader.
+date: 2026-07-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - appleseed
+    - byovd
+    - cobalt strike
+    - coolclient
+    - custom backdoor
+    - encryption tactics
+    - gpo deployment
+    - lateral movement
+    - malware.sharkloader
+    - mgbot
+    - network reconnaissance
+    - powercloud
+    - ransomware-as-a-service
+    - reversesocks
+    - sharkloader
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'rsat.activedirectory.ds-lds.tools'
+        DestinationIp|contains:
+        - '81.177.215.15'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

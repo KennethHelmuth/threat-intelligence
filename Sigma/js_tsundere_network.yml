@@ -1,0 +1,39 @@
+title: Network Connection to Js.Tsundere Infrastructure
+id: 0ab403d7-e2a4-467b-9f02-b85d41767df3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Js.Tsundere.
+date: 2026-07-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - DinDoor
+    - drb-ra
+    - malware.js.tsundere
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '91.92.43.194'
+        - '91.92.43.195'
+        - '91.92.43.196'
+        - '91.92.43.193'
+        - '89.125.153.29'
+        - '82.25.63.124'
+        - '82.25.63.130'
+        - '199.217.99.189'
+        - '199.91.220.216'
+        - '193.24.123.25'
+        - '185.45.193.84'
+        - '138.124.240.76'
+        - '138.124.240.76'
+        - '138.124.240.77'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
