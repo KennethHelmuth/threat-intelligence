@@ -1,0 +1,32 @@
+title: DNS Query to Gammaphish Domains
+id: d03b9f53-0dd1-4337-9e24-b627954dd370
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Gammaphish.
+date: 2026-07-02
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - fsb
+    - gamaredon
+    - gammaload
+    - gammaphish
+    - gammasteal
+    - gammaworm
+    - malware.gammaphish
+    - pteranodon
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'iiwdsxwamylbwwsoyrmj.supabase.co'
+        - 'quitethepastry.ru'
+        - 'efficiency-planes-emotions-fascinating.trycloudflare.com'
+        - 'moment-cat-qld-place.trycloudflare.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

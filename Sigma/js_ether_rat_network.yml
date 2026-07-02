@@ -1,0 +1,28 @@
+title: Network Connection to Js.Ether Rat Infrastructure
+id: 629052b4-6ab5-41f9-9a3f-c03bfaed06b6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Js.Ether Rat.
+date: 2026-07-02
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - EtherRat
+    - domain
+    - malware.js.ether_rat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'wiselystarting.com'
+        - 'itemrange.com'
+        - 'simultaneouslypower.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

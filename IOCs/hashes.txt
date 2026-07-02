@@ -3074,3 +3074,53 @@ edb1c480295250dd1a38f3aa1357deae	OTX	2026-06-29	family=SharkLoader | pulse='Rapi
 fdae2beb813778b4540a997706862096	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
 ab5ad04bb822435e5453706cd86cc001ee555aee	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
 cb747c0134f99d5033bac6e966864e2435a2a94244ca8e3f614f4992df93ff10	OTX	2026-06-29	family=SharkLoader | pulse='Rapid growth and a new ransomware variant' pulse_id=6a42506c95cc259404196a5b
+11b50a6143f0a10495f509cc7582a141e644b7322a481e02ea8e9a6db7edbbc0	ThreatFox	2026-07-01	family=unknown | confidence=100% threat=payload | vt=0/74
+48f8f9303da8baab31e347d8f5686fe4b13a3a34af9e34395a2b61f27fd0c2bd	MalwareBazaar	2026-07-02	filetype=js md5=c850951bd418c58a5ae4523065c1c922 sha1=7f760b124c5b36acd963560ff95898ae3e3cb5db | vt=17/74
+ebe4bd445397393fb554db6554fb37afd31d0a30d309df8194901104027c52cd	MalwareBazaar	2026-07-02	filetype=js md5=8e0aea2832cf3aa3e160438902aee0bb sha1=2436bd33c86ce7827f8c540f36871fbff8767ec1 | vt=9/74
+37daa89551604908ec63096ec5a87504	ThreatFox	2026-07-01	family=jar.crossrat | confidence=95% threat=payload
+e11bb364c56bf0880c2402744dbb4d83	ThreatFox	2026-07-01	family=py.venus_stealer | confidence=95% threat=payload
+f682942cb2b55e88b3dc13b228c35765ad624434cf472490078a29566c7bfa03	ThreatFox	2026-07-01	family=jar.crossrat | confidence=95% threat=payload
+83383615883396568ca7d3e26a3f52b0	ThreatFox	2026-07-01	family=win.nanocore | confidence=95% threat=payload
+c322fa3e02a79ecead674bc4a8e67b71d14632427f8dc9a380b0f588941bbf1a	ThreatFox	2026-07-01	family=py.venus_stealer | confidence=95% threat=payload
+a55f7b2226c1d9dbd94fe0a9d385473c	ThreatFox	2026-07-01	family=win.vidar | confidence=95% threat=payload
+a9b2a1d2cc97c1a621c729d2a7b706b202280e446a0300da493156e685c4dde9	ThreatFox	2026-07-01	family=win.nanocore | confidence=95% threat=payload
+f370ff620a0d83b45b133cfcb4a4c3fc	ThreatFox	2026-07-01	family=win.formbook | confidence=95% threat=payload
+9fd59b56ea2c757ee6f2b8fddc45f7d36efeca135cee1c92511799c85351ebf3	ThreatFox	2026-07-01	family=win.vidar | confidence=95% threat=payload
+133517cc137dba1e885871e6d461717b	ThreatFox	2026-07-01	family=py.venus_stealer | confidence=95% threat=payload
+58212fa6f29ef32418c801bbf37319c24f726a6fa155b3b7c4f7f6caf01935d0	ThreatFox	2026-07-01	family=win.formbook | confidence=95% threat=payload
+5d682fcbc666cd2426c45b11fa94f16b	ThreatFox	2026-07-01	family=win.maskgramstealer | confidence=95% threat=payload
+6f237ca43382d389421a084b18e0e32b522d60a10727d4742c9822ad64c9d999	ThreatFox	2026-07-01	family=py.venus_stealer | confidence=95% threat=payload
+2adb404eb99fe1b130e326ed36343411	ThreatFox	2026-07-01	family=win.tinymet | confidence=95% threat=payload
+fc4686a72c0387bd51e28916a20ab713eb0edac589dc8d7be28c0b1bef49694e	ThreatFox	2026-07-01	family=win.maskgramstealer | confidence=95% threat=payload
+2c768932e125bd22ea8b71a773053082	ThreatFox	2026-07-01	family=py.stealler | confidence=95% threat=payload
+20c993a491b065c511467b7e4af628781c4ef0a417d15cf5863f82f22d43e484	ThreatFox	2026-07-01	family=win.tinymet | confidence=95% threat=payload
+b4383d1cea47e89e1ff12432b38abb74	ThreatFox	2026-07-01	family=win.netwire | confidence=95% threat=payload
+3d195ba1802309316a5a54031e76cc666136cc21e01b97daf4a21a176ea5b3d3	ThreatFox	2026-07-01	family=py.stealler | confidence=95% threat=payload
+a23dfc3a4258c050790c5f02d50618b9	ThreatFox	2026-07-01	family=py.venus_stealer | confidence=95% threat=payload
+c972dd09d07972230bfc3282a82494c8a9ca29b48532038af8966f9c3d98564d	ThreatFox	2026-07-01	family=win.netwire | confidence=95% threat=payload
+7c72f6d08c1165bd5bf9ef8ffadf1705	ThreatFox	2026-07-01	family=win.coinminer | confidence=95% threat=payload
+301e2aa14956cf815b865c0c2ac7de438bad6072720d180118ca777779cb0a65	ThreatFox	2026-07-01	family=py.venus_stealer | confidence=95% threat=payload
+c31217109ba50059d7c081a7e832d0cf	ThreatFox	2026-07-01	family=win.hijackloader | confidence=95% threat=payload
+cb998078ed0aedf3de3ee34aff231339d701b14982809df14f6b382610a835eb	ThreatFox	2026-07-01	family=win.coinminer | confidence=95% threat=payload
+944f7a8303225eb154dda8eaf754e7e7	ThreatFox	2026-07-01	family=py.venus_stealer | confidence=95% threat=payload
+9c0a88ea53c4e0324157542385a1d342101feb51cf7b8cf76e9441376f1f522a	ThreatFox	2026-07-01	family=win.hijackloader | confidence=95% threat=payload
+3e5e4f01d4ff326c79ddbe3a96353821	ThreatFox	2026-07-01	family=win.salatstealer | confidence=95% threat=payload
+f8b3342addb666e359ef5852a4034e4ccb2612d0004d4a3ae620979955f34a2a	ThreatFox	2026-07-01	family=py.venus_stealer | confidence=95% threat=payload
+b8526300bca3da80a92fd8c5f668d0210738e3130c84d5e88250a1cc8dd8ce4f	ThreatFox	2026-07-01	family=win.salatstealer | confidence=95% threat=payload
+3f264a65feeeea6e03914ff97896b134	ThreatFox	2026-07-01	family=win.salatstealer | confidence=95% threat=payload
+d26bc055f0cfdef6b5e80e6e35a0b9512bd7d233579119a0a874228915fe4ed7	ThreatFox	2026-07-01	family=win.salatstealer | confidence=95% threat=payload
+2c43b32d0c017a335ad3e5f5aa33fbf7	ThreatFox	2026-07-01	family=win.salatstealer | confidence=95% threat=payload
+902f94d7819fa6a65e9ba1d491e8fc7cb3d2bcb15ae1e4a89a065223d815f9f8	ThreatFox	2026-07-01	family=jar.crossrat | confidence=95% threat=payload
+7226fb1c7386c342d188c0b9467f7bc5	ThreatFox	2026-07-01	family=jar.crossrat | confidence=95% threat=payload
+4c9e9d28c5bd78e82cd874856549b18c1cfd5d0fa4b2dd63f779de90cdd27ed8	ThreatFox	2026-07-01	family=win.salatstealer | confidence=95% threat=payload
+9907606ebe6ce1fdf54180373b03ad77	ThreatFox	2026-07-01	family=win.maskgramstealer | confidence=95% threat=payload
+bc03887e61e014c17deacc56b7842d47391cecfa3244e7b9cd6d45b4faff1f5f	ThreatFox	2026-07-01	family=win.maskgramstealer | confidence=95% threat=payload
+40f84ae721a13a383e13d18ba0d4cd120db5fe61fae4eefc117347fa6d1a4352	MalwareBazaar	2026-07-02	family=AsyncRAT | filetype=js md5=cc5eef48d8137eef70410515ae974aea sha1=9a297bdf2e2014743cc76739b71af175e27a9a66
+1794369214b7f62e70a0485e61335c61	OTX	2026-06-01	family=GammaPhish | pulse='FSB’s matryoshka #1/3 – Gamaredon’s gifts that keeps unpacking – GammaPhish and GammaWorm' pulse_id=6a1dde0927ce7587f79534ee
+8e1624d110c090ff57d4b493a9107c66	OTX	2026-06-01	family=GammaPhish | pulse='FSB’s matryoshka #1/3 – Gamaredon’s gifts that keeps unpacking – GammaPhish and GammaWorm' pulse_id=6a1dde0927ce7587f79534ee
+7ee17efef04bb7c9de90d5210263ed6993f867e5a11f86e65e3bb1362c7de237	OTX	2026-06-30	family=the gentlemen | pulse='Not very gentlemanly: Analyzing a zero-day exploit used to disable targets' EDRs' pulse_id=6a43f039e387ddd12ed0896c
+9ca9432b0d29204cb5420a1a6b01533d4552130c2a8a5ecd7837efadefb4a046	OTX	2026-06-30	family=the gentlemen | pulse='Not very gentlemanly: Analyzing a zero-day exploit used to disable targets' EDRs' pulse_id=6a43f039e387ddd12ed0896c
+c277ae5a4dd62f51de5278790796cd2700de7f77ea17762e97729f27872d076b	OTX	2026-06-30	family=the gentlemen | pulse='Not very gentlemanly: Analyzing a zero-day exploit used to disable targets' EDRs' pulse_id=6a43f039e387ddd12ed0896c
+e8be03f19ada1f5cec74b143e21d4939e781671d	OTX	2026-07-01	family=ValleyRAT | pulse='An Analysis of ValleyRAT Infection Campaigns from Fake Installers, Japanese Malicious Emails' pulse_id=6a446c5df8b0ab9d5af62b64
+65168c8dd93b16d3b77092fb70c0fa6fba4dffcc	OTX	2026-07-01	family=ValleyRAT | pulse='An Analysis of ValleyRAT Infection Campaigns from Fake Installers, Japanese Malicious Emails' pulse_id=6a446c5df8b0ab9d5af62b64
+eca7ed7b699835fadc2c2997a2845864e02b8dfe	OTX	2026-07-01	family=ValleyRAT | pulse='An Analysis of ValleyRAT Infection Campaigns from Fake Installers, Japanese Malicious Emails' pulse_id=6a446c5df8b0ab9d5af62b64

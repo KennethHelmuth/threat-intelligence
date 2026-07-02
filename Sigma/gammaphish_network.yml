@@ -1,0 +1,34 @@
+title: Network Connection to Gammaphish Infrastructure
+id: b0085929-103b-4ebb-83bd-492eeb200fff
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Gammaphish.
+date: 2026-07-02
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - fsb
+    - gamaredon
+    - gammaload
+    - gammaphish
+    - gammasteal
+    - gammaworm
+    - malware.gammaphish
+    - pteranodon
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'iiwdsxwamylbwwsoyrmj.supabase.co'
+        - 'quitethepastry.ru'
+        - 'efficiency-planes-emotions-fascinating.trycloudflare.com'
+        - 'moment-cat-qld-place.trycloudflare.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
