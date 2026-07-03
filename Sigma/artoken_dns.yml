@@ -1,0 +1,31 @@
+title: DNS Query to Artoken Domains
+id: ae759dce-189d-4545-9a10-73a542da8da8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Artoken.
+date: 2026-07-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - artoken
+    - business email compromise
+    - device code phishing
+    - eviltokens
+    - malware.artoken
+    - microsoft 365
+    - oauth abuse
+    - phishing-as-a-service
+    - primary refresh token
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'dashboard-bl.pamconj.com'
+        - 'spx.pamconj.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

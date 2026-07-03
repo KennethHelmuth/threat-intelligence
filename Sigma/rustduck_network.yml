@@ -1,0 +1,46 @@
+title: Network Connection to Rustduck Infrastructure
+id: a4d3cf78-b12a-4835-8f68-b053200bd7ba
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Rustduck.
+date: 2026-07-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - anti-debugging
+    - cross-platform
+    - cve-2017-17215
+    - cve-2018-8007
+    - cve-2024-1781
+    - cve-2025-29635
+    - ddos botnet
+    - encrypted c2
+    - iot compromise
+    - malware.rustduck
+    - rustduck
+    - two-stage loader
+    - weak password attacks
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'disciplinenahidwin.st'
+        - 'igmc.duckdns.org'
+        - 'criminalcloudflare.online'
+        - 'bigniggadick.ignorelist.com'
+        - 'dhdsjsdjxc.duckdns.org'
+        - 'fcfrfxrfrsfs5f.duckdns.org'
+        - 'gayporn.twilightparadox.com'
+        - 'ilovefemboy.mooo.com'
+        - 'qewqewqewqtq.duckdns.org'
+        - 'qewqewqewqtqthree.duckdns.org'
+        - 'qewqewqewqtqtwo.duckdns.org'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

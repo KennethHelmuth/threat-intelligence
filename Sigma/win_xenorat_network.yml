@@ -1,0 +1,25 @@
+title: Network Connection to Win.Xenorat Infrastructure
+id: 758575a4-29b2-4be0-b366-ffc668f4a975
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Xenorat.
+date: 2026-07-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - XenoRAT
+    - malware.win.xenorat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '96.245.7.21'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

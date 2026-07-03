@@ -1,0 +1,54 @@
+title: Network Connection to Redline Stealer - S1240 Infrastructure
+id: f533c59e-9f47-4afe-9146-c2d2aed8524f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Redline Stealer - S1240.
+date: 2026-07-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - business email compromise
+    - casbaneiro
+    - domain impersonation
+    - formbook
+    - infrastructure pivoting
+    - malware.redline_stealer___s1240
+    - maritime sector targeting
+    - metamorfo
+    - redline stealer
+    - south korean victims
+    - spear-phishing
+    - xloader
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'acasiallc.shop'
+        - 'amdocsllc.shop'
+        - 'ansysllc.shop'
+        - 'cimentosservices.online'
+        - 'epsilongroup.online'
+        - 'softinsallc.online'
+        - 'taicom.top'
+        - 'krysegroupllc.online'
+        - 'shengan-light.com.tw'
+        DestinationIp|contains:
+        - '194.156.79.122'
+        - '85.17.40.98'
+        - '185.252.24.52'
+        - '176.114.8.101'
+        - '176.114.8.90'
+        - '185.252.24.74'
+        - '185.252.24.78'
+        - '91.108.82.101'
+        - '91.108.82.73'
+        - '23.164.48.21'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

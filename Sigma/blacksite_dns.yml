@@ -1,0 +1,39 @@
+title: DNS Query to Blacksite Domains
+id: 5e63243d-6db3-48a6-9cef-9073bb482ec7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Blacksite.
+date: 2026-07-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aitm
+    - blacksite
+    - cloaking
+    - credential-theft
+    - malware.blacksite
+    - mfa-bypass
+    - phishing-as-a-service
+    - reverse-proxy
+    - session-hijacking
+    - tycoon 2fa
+    - url-evasion
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'allegro-pl.site'
+        - 'allegro-pl.top'
+        - 'charliesdemons.com'
+        - 'cloaked-demo.com'
+        - 'cloaked.gg'
+        - 'api.cloaked.gg'
+        - 'capture.cloaked.gg'
+        - 'cdn.cloaked.gg'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

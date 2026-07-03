@@ -3124,3 +3124,158 @@ c277ae5a4dd62f51de5278790796cd2700de7f77ea17762e97729f27872d076b	OTX	2026-06-30	
 e8be03f19ada1f5cec74b143e21d4939e781671d	OTX	2026-07-01	family=ValleyRAT | pulse='An Analysis of ValleyRAT Infection Campaigns from Fake Installers, Japanese Malicious Emails' pulse_id=6a446c5df8b0ab9d5af62b64
 65168c8dd93b16d3b77092fb70c0fa6fba4dffcc	OTX	2026-07-01	family=ValleyRAT | pulse='An Analysis of ValleyRAT Infection Campaigns from Fake Installers, Japanese Malicious Emails' pulse_id=6a446c5df8b0ab9d5af62b64
 eca7ed7b699835fadc2c2997a2845864e02b8dfe	OTX	2026-07-01	family=ValleyRAT | pulse='An Analysis of ValleyRAT Infection Campaigns from Fake Installers, Japanese Malicious Emails' pulse_id=6a446c5df8b0ab9d5af62b64
+d6d1f2dd6db3177ccbde0fe17170cc4fa81078d1a9a900f1f5dd73ddce5f06e6	MalwareBazaar	2026-07-03	filetype=apk md5=e044aa1347523b51bd989a427851f68f sha1=ef0a818e4a43fbe061993bee655640bd230fc5d2 | vt=7/74
+ca9ae76de194548709966263c227709d5c57c8e57f07f50d1532cf52fc5f438d	MalwareBazaar	2026-07-03	filetype=apk md5=0bf8e9415f1aeae1edb06a19f9b49a71 sha1=e21330f6f9b3fd20a6f29c6fbb53677c36adbc99 | vt=7/74
+84ddfdd7862e3c3481ae65b64d9087ab7c5c29355a29e9e7c3a4011a631f7387	MalwareBazaar	2026-07-03	filetype=apk md5=5ee0e3f5d62aa50c8fb91c59e15d71a4 sha1=2b0cf7ea9cdd7905565e02a9a35def1291bdba45 | vt=11/74
+cb7744fe6345dd0e4f15f1acdde23ecb6d484b3c8a6ce8792628a6a1453eefa4	MalwareBazaar	2026-07-03	filetype=apk md5=eb63a912c5765addf3d30a1db8d01252 sha1=7b52441aeb89988a642349327b66a52e541d5df6 | vt=6/74
+fca210ed8b28a9544d0db5a8387fe75c26091003041220a9d28cb445e8169aad	MalwareBazaar	2026-07-03	filetype=apk md5=986bc4bf920d7f572cca6715d3f31e93 sha1=ea31131371f2307d03b5453c94aa333fcfd6b182 | vt=12/74
+7286691d7986d2ba342adfc68697a81a3c7050ccbcad3ca4600f4205993c6588	MalwareBazaar	2026-07-03	filetype=elf md5=de6a5be52b665c5fb7914892c4e7cac6 sha1=a3e020fd83ef612a380b79a353d6d7e9c4f11345
+1961ed753ca8e8eb1e7e450aaa8bfc65	ThreatFox	2026-07-02	family=win.lalala_stealer | confidence=95% threat=payload
+b177b510a76386fddb69800592dbb85ccf5d1aada1059b721a061189c92300e0	ThreatFox	2026-07-02	family=win.salatstealer | confidence=95% threat=payload
+d8249352b400ff101c4598cd08d2d9e6	ThreatFox	2026-07-02	family=win.salatstealer | confidence=95% threat=payload
+4e9def021931e28ae897bcb608b537db	ThreatFox	2026-07-02	family=win.salatstealer | confidence=95% threat=payload
+97c5aed61b4b0a2d143311922cd07ac720e452781a98ed03a9e7002e315e2b8d	ThreatFox	2026-07-02	family=win.lalala_stealer | confidence=95% threat=payload
+6b98948154e2e58689c535cbed1cb0e5	ThreatFox	2026-07-02	family=win.salatstealer | confidence=95% threat=payload
+7e7ef5b1cc82799cff8ac357bc6f7b3e5c1bfc4275b0c93da61db7e458d611e8	ThreatFox	2026-07-02	family=win.salatstealer | confidence=95% threat=payload
+e63bc44fbf3dd02c91262e309fb4d0eb	ThreatFox	2026-07-02	family=win.darktortilla | confidence=95% threat=payload
+1c4948cac8289b0f94ce49f76bc5aec8024c9a7b1d609bc1f2fc6ae0b52c2456	ThreatFox	2026-07-02	family=win.salatstealer | confidence=95% threat=payload
+5ff9c0b47ad7adbba95955ad266ecbc5	ThreatFox	2026-07-02	family=win.formbook | confidence=95% threat=payload
+51e3e006da49bddcdfaeceb3ada3b0401abc6e1536098caf85d3897a9e3e48e4	ThreatFox	2026-07-02	family=win.darktortilla | confidence=95% threat=payload
+7abe81a4699823626728990671b4038f	ThreatFox	2026-07-02	family=win.coinminer | confidence=95% threat=payload
+0b3236531c608af3cdb33b3f09ab0d5bbd61f67cc341faa92c1c2cb2258bd409	ThreatFox	2026-07-02	family=win.formbook | confidence=95% threat=payload
+d8ff995ca4b9a9a2018b852331c1d0f6	ThreatFox	2026-07-02	family=win.agent_tesla | confidence=95% threat=payload
+51496979cca2c2e036b2993e9fd5b583175b6aeb37df0a635bf4453abd3cc573	ThreatFox	2026-07-02	family=win.coinminer | confidence=95% threat=payload
+1cf8d51ca815ee4fac497e15c6a5d9e6	ThreatFox	2026-07-02	family=win.valley_rat | confidence=95% threat=payload
+e131a1db2de30ed970ca887afe7153f0611215f663019c9296ae1a075cfd3245	ThreatFox	2026-07-02	family=win.agent_tesla | confidence=95% threat=payload
+3a7a359c92ebc3cb971f278c538b9ed5	ThreatFox	2026-07-02	family=win.valley_rat | confidence=95% threat=payload
+ca66840e7c8c30a572c0489618a57d25474039bc0b44b0955ca4edc9c5d81706	ThreatFox	2026-07-02	family=win.valley_rat | confidence=95% threat=payload
+a1cdb3fea0437aab03b9fbd4dcce6416	ThreatFox	2026-07-02	family=win.raton_rat | confidence=95% threat=payload
+75ccc97b9fefe904ad711e32f29fd337d78b7560dfb96252e421a643a1796c9a	ThreatFox	2026-07-02	family=win.valley_rat | confidence=95% threat=payload
+9eeb5e790993b3227f7a147a167e30c4	ThreatFox	2026-07-02	family=win.coinminer | confidence=95% threat=payload
+fddc9cca767ef639b17d70374bb9ca9d5c6516f58b9b63cae86f593ced0f3b6b	ThreatFox	2026-07-02	family=win.raton_rat | confidence=95% threat=payload
+179e5c88bbd34e45830e7ee3610d5216	ThreatFox	2026-07-02	family=win.asyncrat | confidence=95% threat=payload
+03a5770f345ad88c9628354cff3ced7cfd2c92ff187182881550ca9a8da3866c	ThreatFox	2026-07-02	family=win.coinminer | confidence=95% threat=payload
+6b5dc025587cfb9fb6d155f466dd1507	ThreatFox	2026-07-02	family=py.blankgrabber | confidence=95% threat=payload
+0aac658075b7d9e81419d0beaa3db796569bc14fd57512f4479fb36e9cc4c1a2	ThreatFox	2026-07-02	family=win.asyncrat | confidence=95% threat=payload
+2c9cbf61771160a3644e4a4fcbe98dd7	ThreatFox	2026-07-02	family=win.maskgramstealer | confidence=95% threat=payload
+de42b33110544bcc3b2251d6aae89643954eba9dd697c1fb4b2316b33081d0f7	ThreatFox	2026-07-02	family=py.blankgrabber | confidence=95% threat=payload
+538860d455edc8108e667b8498a41fe3	ThreatFox	2026-07-02	family=win.asyncrat | confidence=95% threat=payload
+85e1086d548cfd37e2550a0e74e6540394c555612a79f6afad183a8d7bf3eff4	ThreatFox	2026-07-02	family=win.maskgramstealer | confidence=95% threat=payload
+370ed8646f719d4e9c06a078f6515fe3	ThreatFox	2026-07-02	family=win.formbook | confidence=95% threat=payload
+fe126b87922ff8049c4b19d6588324a3bb4874020b943e86de176445ebe7c7b9	ThreatFox	2026-07-02	family=win.asyncrat | confidence=95% threat=payload
+668012498421c76b8a9d344ce6acfc67	ThreatFox	2026-07-02	family=jar.crossrat | confidence=95% threat=payload
+0220916d9e01ad27a30af87ce47a792d11b0e2f64a189390fe72b330ace56ad6	ThreatFox	2026-07-02	family=win.formbook | confidence=95% threat=payload
+f9158f928bff45d130cc27d4ae20aee8	ThreatFox	2026-07-02	family=jar.crossrat | confidence=95% threat=payload
+9a6475f5c793000640b312a5d5a9b18edf9d570cb2b86204dc9b7101ce5b4fdb	ThreatFox	2026-07-02	family=jar.crossrat | confidence=95% threat=payload
+075eb78eeae6f23401e6f41a024dc50a	ThreatFox	2026-07-02	family=win.formbook | confidence=95% threat=payload
+193863103749d8b2f536cef7bbac7e9691f96742962c5aea4e9f6604db0c4aa7	ThreatFox	2026-07-02	family=jar.crossrat | confidence=95% threat=payload
+f455803cf736015a73d4f03f165963df	ThreatFox	2026-07-02	family=win.formbook | confidence=95% threat=payload
+7212a9cb63a6703ad235ebb4db18d5c7eab2d5a3e13dfced075daf4c440f0900	ThreatFox	2026-07-02	family=win.formbook | confidence=95% threat=payload
+52fa117b71c087d3b0bad27cdafd803a	ThreatFox	2026-07-02	family=win.guidloader | confidence=95% threat=payload
+c60cbde6033fe5a3bd5f127248959e1742e48aeae539ece6e137dd5179df34e7	ThreatFox	2026-07-02	family=win.formbook | confidence=95% threat=payload
+0b400372039ffa4412f76ec1fa7a4486	ThreatFox	2026-07-02	family=win.guidloader | confidence=95% threat=payload
+f0f153962115ea9c51c8591360d45d483ea4700475a66ec09213eb7832d6410d	ThreatFox	2026-07-02	family=win.guidloader | confidence=95% threat=payload
+6a26cc31650fd8ca3d62532cd1106899	ThreatFox	2026-07-02	family=win.xworm | confidence=95% threat=payload
+eac05791af7cd178ae0c017b225dcefbbf860b4e927fe8045ba7f57636bb91b4	ThreatFox	2026-07-02	family=win.guidloader | confidence=95% threat=payload
+1204670b07905cd586d001137e3c690f	ThreatFox	2026-07-02	family=win.salatstealer | confidence=95% threat=payload
+7776706d26fb2dfd7cb96910810bb4c3a02b343a228035a0ca4db3ccf8e4d26a	ThreatFox	2026-07-02	family=win.xworm | confidence=95% threat=payload
+9992290015ca21f58eab64953830a94d	ThreatFox	2026-07-02	family=win.salatstealer | confidence=95% threat=payload
+78695b566b8aff8f42cccc5e264693a64582fb29d814650830a16a8a210e82ba	ThreatFox	2026-07-02	family=win.salatstealer | confidence=95% threat=payload
+eee97b264c2b0b6488dcf397800e16ac196ec495a6abd3c2623a020c36acdfd2	ThreatFox	2026-07-02	family=win.salatstealer | confidence=95% threat=payload
+02727498170edcb29c041a632172eda8b43c89f7235346b03b174b3e5985bb38	ThreatFox	2026-07-02	family=jar.crossrat | confidence=95% threat=payload
+683c7276bbdc7df8740788e245a461d5	ThreatFox	2026-07-02	family=jar.crossrat | confidence=95% threat=payload
+3d4d751665fc9f5247f34d7c3db5381d83c55cd1d49311b3570f2c002b36cb1e	MalwareBazaar	2026-07-03	family=CoinMiner | filetype=exe md5=3dcad3fff390dcb7acbb7a379e3cdbcf sha1=39d84147173f4274b80a3a730d1ccf12ee91fdbc
+b519ae088ee0fd4658c16aab474d51c6acdc5c9cd7fab3fd69032d05a45ffd9b	OTX	2026-07-02	family=RustDuck | pulse='RustDuck: An In-Depth Analysis of a Two-Stage Botnet' pulse_id=6a4635e7998db450b0ccdee2
+4d11bd496da82d15b3ed13050f414e44f5a892d4	OTX	2026-07-02	family=RustDuck | pulse='RustDuck: An In-Depth Analysis of a Two-Stage Botnet' pulse_id=6a4635e7998db450b0ccdee2
+6aa791c76b3107fca9d57b7ecea8f46d97d83738	OTX	2026-07-02	family=RustDuck | pulse='RustDuck: An In-Depth Analysis of a Two-Stage Botnet' pulse_id=6a4635e7998db450b0ccdee2
+8315f650e9e4f67c00277b076ab304eed23db47d	OTX	2026-07-02	family=RustDuck | pulse='RustDuck: An In-Depth Analysis of a Two-Stage Botnet' pulse_id=6a4635e7998db450b0ccdee2
+d39a3ee96be6b8f5238cb1253514ab55c88f714c	OTX	2026-07-02	family=RustDuck | pulse='RustDuck: An In-Depth Analysis of a Two-Stage Botnet' pulse_id=6a4635e7998db450b0ccdee2
+36e51d11e70c04c60a9c3a4f088ed507	OTX	2026-07-02	family=RustDuck | pulse='RustDuck: An In-Depth Analysis of a Two-Stage Botnet' pulse_id=6a4635e7998db450b0ccdee2
+9d864a76a4f6dc1d26febd34856c0509	OTX	2026-07-02	family=RustDuck | pulse='RustDuck: An In-Depth Analysis of a Two-Stage Botnet' pulse_id=6a4635e7998db450b0ccdee2
+a5d1b65b1055677156cd87b357ef488704115a2cbf52044dbb041072efed2f9d	OTX	2026-07-02	family=RustDuck | pulse='RustDuck: An In-Depth Analysis of a Two-Stage Botnet' pulse_id=6a4635e7998db450b0ccdee2
+07c39f79ab92fb21557b82283472dce1c112f577d796111fb752c3c6d84c86b5	OTX	2026-07-01	family=InfernoGrabber | pulse='Browser-Only Ransomware: From LLM Hallucinations to a Practical Attack Technique' pulse_id=6a4500ffd044499efcd70db1
+8e4c57358a66eb14d31abb614ddc68de	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+c2679a152084f3ebdb39aacb6ec6a23c61a46ae6	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+6ed15aec7504081c3e14a9f6064d7b754aa283e4adb1a59edf3beff65369bc55	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+01325880efffec546f59490089a3b415	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+0eee9bad07e22415439e854657fa1366	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+1e6a5c7b620d487d0cfc6874c3b77c90	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+479bd3bb617b39cd4a46d0768a2592d4	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+54025ce2a9405039899fe99a1d77e0bb	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+5b7e1fe55bd7b5ea54bd4ed1677e5a26	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+5f96c04e3afae97017b201be112284d2	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+695e794631ef130583368770e7b81e98	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+73bead922109a61e5f9f85771a7812c5	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+776dfd3df9c04bb9fcdd6c1880c3761a	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+83601c3d4ed28e8d2be1b99beb8ec18c	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+87603ea025623b19954e460add532048	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+8f4e8b680d3e8d3f5ac39bd72882f713	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+999a63730c9634481d1d76955a2e76a8	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+9a9ccd8b0e5d05f4ee77667b024844db	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+a40d3aeb0dae5b00bdb3a517f3135bbb	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+a85a5bfdcb7c65ab93043b8cf9e20065	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+b32810973132d11afd61ccee222bbb79	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+bd05fcf80e493cf9aa71ec510319469d	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+edff4f58722c93d7c09ed71899416396	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+b12b5720404e3d8794d72af064939dd953b6a8e0	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+ce1349eb9d4b2025d1a0dde651a690c7a471c5b0	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+d27fc9abbeccb60906d22906ef9a73bd05da2b7a	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+d497271a32633ddb4f56d548a13fefdab864b6e2	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+3cbd65ae3ff5039324b03a66947a1d1b808ea5ddb09da917ed8f1323c34e80f7	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+5b95e1d05d913676e9ebbd897a403ddfa6476524651a038d08ecebde29159b9a	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+7f53fade6f3942f710b230d52a574fc6066ea282e739e417ca039800dc1bb08e	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+8d08136a1964c72b6b450b11d9bf2b3d3d289c26dfadfc9f021114eac2cea1ca	OTX	2026-07-01	family=AsyncRAT | pulse='How a single ScreenConnect incident exposed a massive campaign' pulse_id=6a4545dbc77aff75fe16cee7
+400eb6a94810323a1fc5f8ab31c682fe765aaec2cc61b37c31d719c7e45c9a6c	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+8a7f5c8533df9e51b2da7cc2aeb52d8787418e4915577cc9288be1e46d1945c6	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+07d1db998e4dacc6777f1c854b3ab605	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+b56a18df4daf038785891f33c3e89489	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+d151ad777bcf1b3205273ab732c0fad6	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+d66de5d6dbcb6f460ae6240de8b7aab0	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+db6bc0e947acba379e540349f74fc6ee	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+1c841649189a46806084b189f50300e36c423163	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+3fe1fcc2a21e4bab144da57ea6d0f13ddb9819e0	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+40513398ae248c87f46b13b7f9f303e05d018472	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+42c83fbfb4299202c91b3391ace6e7732f77a602	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+8179539efdb90eab355667ac7683358741c8a8ec	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+13440348516ccee839675f6ac908dd1724ce1d28f92af92fdc7938740d2b7ec5	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+51a6686b8c5ec7c610637398f3de43589f4e9fcbe8bcc0245343c5454d3b91de	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+66dcd98c6b310f4429890821e609d48cc6395a6be15ffe5a121ec68b7a8f7402	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+a4f1b79e96a7d016de1991a64506792018de99eac5df00f7cabe26ef41b2bd81	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+bb0c7ae4f12e5141480ee26f473636b07e836bb994ff3b2cfec93d4480da171b	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+cc59bf019af195dcec4394ffd7a8e23c080f4e02b12dcb7c04fb1da6671922a1	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+ea755862ee81dd0d991b4afca42d8b82bb22a8f1d370bf3d28dbf2e44ab241dd	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+fa246327bed8fc5864827a8147b8b7aedb6246068259b8c97e82adb957315347	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+3c1f7d9d157c38d17a44f62b6560d3b4	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+c14dc6f17099a9505a2c303f204a4554a5cc219f	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+3b172281f65ceaee280ae810edb6fd39a1ecd25649f929f246c0405df94f4c89	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+6c74d29903bc2cc17ec4afdb1a120d2060209b22830cee2b7005f5436e86f90e	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+f7bde19f9e085650378076dabac586dcdc256e743a57890000e71a7ebb43d8ee	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+4186e41a8d6ae3b316174fc601e418b8e2a664b6	OTX	2026-07-01	family=MarkiRAT - S0652 | pulse='Iran-Nexus Disseminates MarkiRAT Surveillance Tool' pulse_id=6a45471afccee96152675f88
+d4eb4ff02df659fdeec17d36b77084627469623bb3c7d16383d257404b52d1c3	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+18205d398e5df7d38705dbdc700ccb46	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+22e3cd043e36a9c0bad1479ad4c3214a	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+26c0aee6c79935ee6da46e6444f1c109	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+ebb680f7ae4db6cdc426b8112d2536b6	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+11ca4e19ea79f68aaf23c4afe472dbc03833002c	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+1ec576cf0c82c023f2eb380809588980b98cd296	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+26b9b123e0f664dd9792b820255fe991496cf2d6	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+6e37b4a0c1d747d19abb6736a1ec3293972d3e0f	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+18fd38988d58dd930f5992d448cc09a9400c1eafba76b820b9a83239ac48cf4e	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+19ac18a50abb48dc0ea9524850acfaec49359e6b3bcc67c6193c2d56da812c71	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+1e77992666acbbfa0d01fcefa9cc8fbdac291e0681b35745be27c6dfb159a375	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+21b24f7ee1f6bdbbb670f0394d66009ee0daa8ced57048298da715e88f7a7cdd	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+48723a33bab89f174750576f9a62da35b3b9e5ac31a5a8f1ce9859a1b35bf8b8	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+4c9fdc2823da505ef339d43c6ad38499b7e3447736733e42b5ab6b1afcfd42aa	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+4ca2c863d740bb7022776dccabd8ae34bb9998768928042d76ebcf08984eefcb	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+540ee1936e61d2344b5ebc93485589a351ec2f113a9b4940ae16f3baa4807392	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+5837e47198a20877e1b04b270c36d9194206ee38d4f32fe3151b3c3b396c4f0d	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+5a2ed557c357ba8f96f2d55a8a00695987806b5df766cd1dfdab0cbed111774a	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+5e06af187b45476ade0d953e834fced6197d0a33ac60c2575877660e26ab15e8	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+65c1a998bac48e02b52b1c850cd500e9fb87521e21755c3a4a491243f5f9a700	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+6bc2e11b0917f47d0557288c4f0cb20bd7589185943b989a969fdc6d3704ee73	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+9d07a83cf89685651ea8992047ae694c24f6ddef193044357debd15ce07a64fe	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+9e81ade09cc18f0fc09d73e72d2e0bffad02f52fdcc26553e473cee8cabc1567	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+e2f0c2d4c1552cd81fa012043e4a5ac832582b639b7b6b7eccc0c4802d7a8ad8	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+e6e78eb2e9bd41a4bc62f7ad54d095ea9813864bebe37172ae30a1afa631fe14	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+fadbb8061715128bebecf7bc59132b6bb04fe8cc39b965aa5b8722dffe28d7e7	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+ffb9eb47cc0cb2f43e04a10dc84df13d04bca1ebacbe47fad0b669728de2f59c	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553

@@ -1,0 +1,62 @@
+title: DNS Query to Markirat - S0652 Domains
+id: e290f7b9-0868-4270-8449-9a782f1a3ab5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Markirat - S0652.
+date: 2026-07-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bouldspy
+    - dchspy
+    - fake vpn
+    - farsi-speaking targets
+    - ferocious kitten
+    - furball
+    - iran
+    - irgc
+    - malware.markirat___s0652
+    - markirat
+    - surveillance
+    - tag-182
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'yemplayer.site'
+        - 'min.comi-site.website'
+        - 'microsoft.comi-site.website'
+        - 'comesignt.website'
+        - 'min.come-site.website'
+        - 'google.comisignin.online'
+        - 'accountes.google.comesignt.website'
+        - 'accounts.google.comisignin.online'
+        - 'microsoft.come-site.website'
+        - 'comi-site.website'
+        - 'com-accounts.website'
+        - 'come-signin.quest'
+        - 'comisignin.online'
+        - 'pis2ray.online'
+        - 'admin.google.com-accounts.website'
+        - 'admin.instagram.com-accounts.website'
+        - 'c.pis2ray.online'
+        - 'google.com-accounts.website'
+        - 'google.com-signin.site'
+        - 'host.comview.website'
+        - 'microsoft.comesite.website'
+        - 'microsoft.comview.website'
+        - 'microsoft.pis2ray.online'
+        - 'min.comview.website'
+        - 'min.pis2ray.online'
+        - 'ns1.com-signin.site'
+        - 'ns2.com-signin.site'
+        - 'prx.pis2ray.online'
+        - 'svpn.pis2ray.online'
+        - 'vpn.pis2ray.online'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

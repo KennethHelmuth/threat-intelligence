@@ -1,0 +1,34 @@
+title: DNS Query to Ousaban Domains
+id: f6c555f1-e8df-4d2a-b764-2d4e20f47c02
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Ousaban.
+date: 2026-07-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - banking trojan
+    - casbaneiro
+    - credential theft
+    - geofencing
+    - iberian peninsula
+    - malware.ousaban
+    - ousaban
+    - phishing
+    - portugal
+    - spain
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'controlfacturas.site'
+        - 'faturanova.xyz'
+        - 'facture-arsys.duckdns.org'
+        - 'faturanova.duckdns.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,33 @@
+title: Network Connection to Artoken Infrastructure
+id: f23aee1c-bdcf-4c39-817b-a9a516c26de2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Artoken.
+date: 2026-07-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - artoken
+    - business email compromise
+    - device code phishing
+    - eviltokens
+    - malware.artoken
+    - microsoft 365
+    - oauth abuse
+    - phishing-as-a-service
+    - primary refresh token
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'dashboard-bl.pamconj.com'
+        - 'spx.pamconj.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

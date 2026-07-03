@@ -1,0 +1,41 @@
+title: Network Connection to Blacksite Infrastructure
+id: a20a2586-043a-4764-b5c8-74e7d5630575
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Blacksite.
+date: 2026-07-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aitm
+    - blacksite
+    - cloaking
+    - credential-theft
+    - malware.blacksite
+    - mfa-bypass
+    - phishing-as-a-service
+    - reverse-proxy
+    - session-hijacking
+    - tycoon 2fa
+    - url-evasion
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'allegro-pl.site'
+        - 'allegro-pl.top'
+        - 'charliesdemons.com'
+        - 'cloaked-demo.com'
+        - 'cloaked.gg'
+        - 'api.cloaked.gg'
+        - 'capture.cloaked.gg'
+        - 'cdn.cloaked.gg'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,41 @@
+title: Network Connection to Ousaban Infrastructure
+id: 9fa77ed4-f054-47cc-8a87-e61642a8591b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Ousaban.
+date: 2026-07-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - banking trojan
+    - casbaneiro
+    - credential theft
+    - geofencing
+    - iberian peninsula
+    - malware.ousaban
+    - ousaban
+    - phishing
+    - portugal
+    - spain
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'controlfacturas.site'
+        - 'faturanova.xyz'
+        - 'facture-arsys.duckdns.org'
+        - 'faturanova.duckdns.org'
+        DestinationIp|contains:
+        - '162.33.179.46'
+        - '91.92.240.140'
+        - '78.40.209.32'
+        - '213.159.64.191'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
