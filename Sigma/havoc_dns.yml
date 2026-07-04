@@ -1,0 +1,30 @@
+title: DNS Query to Havoc Domains
+id: 1a4d9fd2-d46c-486b-b660-d1609bf0aa50
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Havoc.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - banana rat
+    - brazil tax lure
+    - havoc
+    - invoice phishing
+    - kongtuke
+    - malware.havoc
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'thomphon.com'
+        - 'e4wxbrg5277.com'
+        - '49xb5hoiqsr.com'
+        - 'jh038x18gy9.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

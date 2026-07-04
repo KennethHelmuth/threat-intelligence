@@ -1,0 +1,32 @@
+title: Network Connection to Avalon Infrastructure
+id: a64187f2-3e54-46ba-9213-442a1c2db978
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Avalon.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-assisted development
+    - avalon
+    - credential theft
+    - crownx
+    - defense evasion
+    - lateral movement
+    - malware.avalon
+    - phishing
+    - ransomware
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'helloxcherry.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

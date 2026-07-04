@@ -1,0 +1,30 @@
+title: Network Connection to Atlas Rat Infrastructure
+id: f9e71934-ecd1-4cc6-8c60-88b033024f37
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Atlas Rat.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - atlas rat
+    - malware.atlas_rat
+    - romulusloader
+    - silentrunloader
+    - ta4922
+    - valleyrat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'nwphotoblog.com'
+        - 'ws.ztts88.cyou'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

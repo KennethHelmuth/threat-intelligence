@@ -1,0 +1,58 @@
+title: DNS Query to Sessiongate Domains
+id: a8e55566-0d5c-45f3-9231-2958aa7f5068
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Sessiongate.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - animateclipper
+    - click hijacking
+    - cryptocurrency clipper
+    - infostealer
+    - malware.sessiongate
+    - remusstealer
+    - sessiongate
+    - traffic distribution system
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'guiformat.com'
+        - 'forestoaker.com'
+        - 'arch2.maxdatahost1.cyou'
+        - 'buccstanor.pics'
+        - 'gluckcreek.online'
+        - 'intem.lat'
+        - 'ropea.top'
+        - 'ilspy.org'
+        - 'cdn-1415.brightcanvas.digital'
+        - 'flame-guard.cc'
+        - 'appfreshstart.com'
+        - 'appgetonline.com'
+        - 'appmakingcenter.com'
+        - 'carlessclapped.com'
+        - 'crystaldiskmark.org'
+        - 'dnspy.org'
+        - 'ghidralite.com'
+        - 'grpcurl.com'
+        - 'integritycrc.com'
+        - 'javascriptapiusa.com'
+        - 'mfcmapi.com'
+        - 'mobileversioncrc.com'
+        - 'mqttexplorer.com'
+        - 'originaldownloads.info'
+        - 'ukentaspectsofc.org'
+        - 'unlockcontent.org'
+        - 'webcrcprove.com'
+        - 'webinnosetup.com'
+        - 'winsetupfromusb.org'
+        - 'yourfastcrc.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,60 @@
+title: Network Connection to Sessiongate Infrastructure
+id: 8844a0fc-3a04-4ad6-9d9d-c595efad9c87
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Sessiongate.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - animateclipper
+    - click hijacking
+    - cryptocurrency clipper
+    - infostealer
+    - malware.sessiongate
+    - remusstealer
+    - sessiongate
+    - traffic distribution system
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'guiformat.com'
+        - 'forestoaker.com'
+        - 'arch2.maxdatahost1.cyou'
+        - 'buccstanor.pics'
+        - 'gluckcreek.online'
+        - 'intem.lat'
+        - 'ropea.top'
+        - 'ilspy.org'
+        - 'cdn-1415.brightcanvas.digital'
+        - 'flame-guard.cc'
+        - 'appfreshstart.com'
+        - 'appgetonline.com'
+        - 'appmakingcenter.com'
+        - 'carlessclapped.com'
+        - 'crystaldiskmark.org'
+        - 'dnspy.org'
+        - 'ghidralite.com'
+        - 'grpcurl.com'
+        - 'integritycrc.com'
+        - 'javascriptapiusa.com'
+        - 'mfcmapi.com'
+        - 'mobileversioncrc.com'
+        - 'mqttexplorer.com'
+        - 'originaldownloads.info'
+        - 'ukentaspectsofc.org'
+        - 'unlockcontent.org'
+        - 'webcrcprove.com'
+        - 'webinnosetup.com'
+        - 'winsetupfromusb.org'
+        - 'yourfastcrc.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

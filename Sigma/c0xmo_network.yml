@@ -1,0 +1,30 @@
+title: Network Connection to C0Xmo Infrastructure
+id: 691d4825-59c9-4755-9c01-7edc12f18450
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with C0Xmo.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - botnet
+    - c0xmo
+    - ddos
+    - gafgyt
+    - malware.c0xmo
+    - python scanner
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '217.160.125.125'
+        - '85.215.131.70'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

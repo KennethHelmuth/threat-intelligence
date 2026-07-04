@@ -1,0 +1,30 @@
+title: DNS Query to Avalon Domains
+id: dfed7b25-12cb-4505-8d0d-4530e3ee6c41
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Avalon.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-assisted development
+    - avalon
+    - credential theft
+    - crownx
+    - defense evasion
+    - lateral movement
+    - malware.avalon
+    - phishing
+    - ransomware
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'helloxcherry.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

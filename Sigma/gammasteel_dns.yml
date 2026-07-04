@@ -1,0 +1,36 @@
+title: DNS Query to Gammasteel Domains
+id: 0ba7d17e-b0ce-4129-932f-241df831fc1b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Gammasteel.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cyberespionage
+    - dead-drop-resolver
+    - dpapi
+    - fsb
+    - gamaredon
+    - gammaload
+    - gammaphish
+    - gammasteel
+    - gammawipe
+    - gammaworm
+    - infostealer
+    - malware.gammasteel
+    - ukraine
+    - usb-propagation
+    - vbscript
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'justsstop.ru'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

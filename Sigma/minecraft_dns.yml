@@ -1,0 +1,60 @@
+title: DNS Query to Minecraft Domains
+id: faae5602-a354-4236-b6bb-750dd7f742d9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Minecraft.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - children targeting
+    - credential phishing
+    - data harvesting
+    - disposable domains
+    - gaming platforms
+    - malware.minecraft
+    - minecraft
+    - offerwall schemes
+    - roblox
+    - subscription traps
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'roblox-com.com'
+        - 'blox.ink'
+        - 'bloxlink.net'
+        - 'bloxlink.site'
+        - 'www-roblox.pw'
+        - 'www.robiox.com.ua'
+        - 'robiox.com.ua'
+        - 'robiox.com.ps'
+        - 'robiox.com.gr'
+        - 'www.r.oblox.com.et'
+        - 'verify-bloxlink.cfd'
+        - 'r.oblox.com.et'
+        - 'ro-verify.net'
+        - 'shortsurl.bio'
+        - 'rover-linked.com'
+        - 'autosecure.cy'
+        - 'bloxlink.com'
+        - 'bloxlink.pro'
+        - 'bloxlink.xyz'
+        - 'blxup.shop'
+        - 'freerobux.top'
+        - 'htps-www-roblox.co'
+        - 'httpss--roblox.co'
+        - 'luau-lang.org'
+        - 'oblox.shop'
+        - 'rblox.shop'
+        - 'rblxo.shop'
+        - 'ro-verify.ink'
+        - 'ro-verify.org'
+        - 'robbux.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,27 @@
+title: Network Connection to Apk.Hook Infrastructure
+id: 5a03e3f0-614e-4c36-b08d-c987f00659d5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Apk.Hook.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - drb-ra
+    - hook
+    - malware.apk.hook
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '212.193.23.223'
+        - '212.193.23.223'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

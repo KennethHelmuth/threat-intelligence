@@ -1,0 +1,45 @@
+title: Network Connection to Fake App Stores Infrastructure
+id: d27969b0-88e7-446f-9ccb-01ecd0f074be
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Fake App Stores.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - affiliate fraud
+    - brand impersonation
+    - casino redirection
+    - fake app stores
+    - malware.fake_app_stores
+    - online gambling scams
+    - progressive web apps
+    - pwa
+    - social media advertising
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'topstatus.site'
+        - 'rewardsmonzo.website'
+        - 'optimismphantasm.shop'
+        - 'revvo-online.website'
+        - 'ridereuphoric.shop'
+        - 'seekerlucid.shop'
+        - '345rodeoslot.com'
+        - '87roulettino12.com'
+        - 'blinbd.com'
+        - 'lemniscal.live'
+        - 'monzoslots.life'
+        - 'seekerlucis.shop'
+        - 'spinlynx36.com'
+        - 'tesscogames.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,28 @@
+title: DNS Query to Atlas Rat Domains
+id: 10b8ae91-d861-40c5-b4d0-0e022488b608
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Atlas Rat.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - atlas rat
+    - malware.atlas_rat
+    - romulusloader
+    - silentrunloader
+    - ta4922
+    - valleyrat
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'nwphotoblog.com'
+        - 'ws.ztts88.cyou'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

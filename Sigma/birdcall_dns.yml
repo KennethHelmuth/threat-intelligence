@@ -1,0 +1,37 @@
+title: DNS Query to Birdcall Domains
+id: 973e6da1-2b15-401a-8d57-b82386f8d808
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Birdcall.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - android trojan
+    - birdcall
+    - gaming platform compromise
+    - malware.birdcall
+    - supply-chain attack
+    - yanbian targeting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - '1980food.co.kr'
+        - 'cndsoft.co.kr'
+        - 'colorncopy.co.kr'
+        - 'sejonghaeun.com'
+        - 'www.inodea.com'
+        - 'www.lawwell.co.kr'
+        - 'inodea.com'
+        - 'sqgame.com'
+        - 'sqgame.com.cn'
+        - 'www.sqgame.net'
+        - 'xiazai.sqgame.com.cn'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

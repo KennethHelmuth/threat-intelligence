@@ -1,0 +1,39 @@
+title: Network Connection to Birdcall Infrastructure
+id: 074dee74-b332-4ab1-a100-b0d8e337036f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Birdcall.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - android trojan
+    - birdcall
+    - gaming platform compromise
+    - malware.birdcall
+    - supply-chain attack
+    - yanbian targeting
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - '1980food.co.kr'
+        - 'cndsoft.co.kr'
+        - 'colorncopy.co.kr'
+        - 'sejonghaeun.com'
+        - 'www.inodea.com'
+        - 'www.lawwell.co.kr'
+        - 'inodea.com'
+        - 'sqgame.com'
+        - 'sqgame.com.cn'
+        - 'www.sqgame.net'
+        - 'xiazai.sqgame.com.cn'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

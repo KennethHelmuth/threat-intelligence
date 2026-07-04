@@ -3279,3 +3279,272 @@ e2f0c2d4c1552cd81fa012043e4a5ac832582b639b7b6b7eccc0c4802d7a8ad8	OTX	2026-07-01	
 e6e78eb2e9bd41a4bc62f7ad54d095ea9813864bebe37172ae30a1afa631fe14	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
 fadbb8061715128bebecf7bc59132b6bb04fe8cc39b965aa5b8722dffe28d7e7	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
 ffb9eb47cc0cb2f43e04a10dc84df13d04bca1ebacbe47fad0b669728de2f59c	OTX	2026-07-01	family=Ousaban | pulse='Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula' pulse_id=6a45880f3df872860c77a553
+1fb0b008bc63f128227ddaaa8bc77542c0caa198825f9c514c15cec26f1660f4	ThreatFox	2026-07-03	family=unknown | confidence=100% threat=payload | vt=0/74
+291c081c856ab085cef02df6f3ac744944cc938d1e5e319b5c5b20d148d76648	MalwareBazaar	2026-07-04	filetype=exe md5=4d43c9ef2c01a224adee8ea60872ea1c sha1=9a9a0ab6d16d087a32ffcb19d34c6262158d4b52 | vt=0/74
+6cb55456e3e5c099a85a7314076bb741	ThreatFox	2026-07-04	family=win.formbook | confidence=95% threat=payload
+c2c4fcaa0b2a62e71056e0d4f7411f9d	ThreatFox	2026-07-04	family=jar.crossrat | confidence=95% threat=payload
+4f0925945aedb397ad3cbdd0e9b9a3ebf96d64c242699a971c2c016636383569	ThreatFox	2026-07-04	family=win.formbook | confidence=95% threat=payload
+9e4329504365602cb6ca0c6d4c1dd66b	ThreatFox	2026-07-04	family=win.valley_rat | confidence=95% threat=payload
+f37d19918ca9a92945198b23ab4e10be7d681e4aa1f8dfd1b0905482a006e7dd	ThreatFox	2026-07-04	family=jar.crossrat | confidence=95% threat=payload
+d3d588d890278dd2318b41ea30ae7b40	ThreatFox	2026-07-04	family=win.stealc | confidence=95% threat=payload
+a65205ca49ac9a4308981ef7de0d1e5f834741ecfb6f5f2196f2ede18fc0a1cd	ThreatFox	2026-07-04	family=win.valley_rat | confidence=95% threat=payload
+4d3ed418cb63b8f513d97835a761e391	ThreatFox	2026-07-04	family=py.venus_stealer | confidence=95% threat=payload
+2599fc6c97a60c08520c557b1cc551cdd543293291e60c81dc010d6dcb8a8b03	ThreatFox	2026-07-04	family=win.stealc | confidence=95% threat=payload
+b07f16a3b524017d20d360823c09b956	ThreatFox	2026-07-04	family=win.luca_stealer | confidence=95% threat=payload
+91e7539be877509b04b7425e35185615e76cabd3e9cb9e9ca4bfad36ad9096b9	ThreatFox	2026-07-04	family=py.venus_stealer | confidence=95% threat=payload
+4f8d6901a24803c4f90aa766de0005d5	ThreatFox	2026-07-04	family=win.nanocore | confidence=95% threat=payload
+4e5b2ae91379b8069c04c6639bb0bca5ddea0dde567bea8cb9bc9822b9cdda0d	ThreatFox	2026-07-04	family=win.luca_stealer | confidence=95% threat=payload
+3eed6feda84d42e38d4c0c9406460af6	ThreatFox	2026-07-04	family=win.webmonitor | confidence=95% threat=payload
+b66119ad548007e383d58987d81a200a42a89f021d0fc3b57022b91ea267bd2c	ThreatFox	2026-07-04	family=win.nanocore | confidence=95% threat=payload
+0c78720e1c3df66ab5a7c60a9e0c8502	ThreatFox	2026-07-04	family=win.quasar_rat | confidence=95% threat=payload
+d365700f7b92b99111394dc199b782a237e5aeaf9f0544875b5071a9b3cb9a34	ThreatFox	2026-07-04	family=win.webmonitor | confidence=95% threat=payload
+64be9719cd0cf6fa1d33d27953aab23b	ThreatFox	2026-07-04	family=jar.crossrat | confidence=95% threat=payload
+4694ccf2399010c0e069f481e3471745dfe0a4f72003ed476ecf86b7b6b4ef7f	ThreatFox	2026-07-04	family=win.quasar_rat | confidence=95% threat=payload
+0697eae9deae7c2d4039d83539811f17	ThreatFox	2026-07-04	family=win.xenorat | confidence=95% threat=payload
+6eaa4e25359d0b61c37a9884fbdb8c53bf00e8e9a5478e325e63338d0d2ad51b	ThreatFox	2026-07-04	family=jar.crossrat | confidence=95% threat=payload
+58a919673d1c3d581fe9e14a437a94297a77cce098191c286d5021a2211d6130	ThreatFox	2026-07-04	family=win.raton_rat | confidence=95% threat=payload
+a95c4a4d11d588a6690fd1e95e4c3520	ThreatFox	2026-07-04	family=win.raton_rat | confidence=95% threat=payload
+eacea4983eb01cabe9f621d7b28ae37cbc3e801106575272795e025de1064a29	ThreatFox	2026-07-04	family=win.xenorat | confidence=95% threat=payload
+f770e3955872fbb611e7a8bc154efc34b2e363493847c3f211da72214fb2c4e6	ThreatFox	2026-07-04	family=win.raton_rat | confidence=95% threat=payload
+2de32f09e2ee68bb35d0bf164e6cf4b9	ThreatFox	2026-07-04	family=win.raton_rat | confidence=95% threat=payload
+48ed2a2fc7652fc12c6edfc2efbef6d65a9f85bf5874dbaf275301775265e136	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+faabc72c2848caf771c29c6cddfd5254	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+015a389e5c97ec1e545978359e19c08050ce2b3d23c88557ec9f4a540a4c6c51	ThreatFox	2026-07-04	family=win.lalala_stealer | confidence=95% threat=payload
+3542f2e27fa10e348e726fdc3a743b47	ThreatFox	2026-07-04	family=win.lalala_stealer | confidence=95% threat=payload
+275035f44dc9cf992964e3954ba0af5d09e0df6b5c1009befaaeb21408cc0bba	ThreatFox	2026-07-04	family=win.stealc | confidence=95% threat=payload
+3aa8ec7fb0c2f9ecf0553bfcbd6aad64	ThreatFox	2026-07-04	family=win.stealc | confidence=95% threat=payload
+ff825f043105b50df62b498b65c6c7632f2e7aab5efff1cdca49400e38bd2943	ThreatFox	2026-07-04	family=win.prometei | confidence=95% threat=payload
+d32a6f12ae3234ebab9b240102730f38	ThreatFox	2026-07-04	family=win.prometei | confidence=95% threat=payload
+eeb2d44d0f86670ac2ee5e0b7aa44ec41b7be9962359f59ac21f736d7b0e7889	ThreatFox	2026-07-04	family=win.valley_rat | confidence=95% threat=payload
+27d3039a8ca9acbcbc985b88f27720a8	ThreatFox	2026-07-04	family=win.valley_rat | confidence=95% threat=payload
+7c4d1e3bff4c3d62adb8352b78e586b01eeba9e6d4b96715df89da84bae79c92	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+01498deabb5500164c89021f8ff6d330	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+85ec743443fe4830daddd95a454fc05b6434adf486a6889134b5d50c29570c9d	ThreatFox	2026-07-04	family=win.asyncrat | confidence=95% threat=payload
+659981348eab7fcf5fc2f0ead01628bd	ThreatFox	2026-07-04	family=win.asyncrat | confidence=95% threat=payload
+094cdc3550ebb0d6a7ad470eae50b506	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+16e34d5b3836f196864a8efe804d8dcb5938801d29bed451a3b67dca6f7b0929	ThreatFox	2026-07-04	family=win.salatstealer | confidence=95% threat=payload
+a4cd834ba9819b28bb0a45a90f34f45b	ThreatFox	2026-07-04	family=win.salatstealer | confidence=95% threat=payload
+94faff7500a2f959889a3fff9bed01cb30fdb6ab5dbcbe984f592a3891333f36	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+a6264afd465d3a04bc0594251771ca50e372a8d40068707a67830be581bb2c2b	ThreatFox	2026-07-04	family=win.formbook | confidence=95% threat=payload
+0b131788c78be101415eb77a32a97866	ThreatFox	2026-07-04	family=win.formbook | confidence=95% threat=payload
+c1cc183b4feb7f01efb4e39d1465c323	ThreatFox	2026-07-04	family=win.maskgramstealer | confidence=95% threat=payload
+3dcad3fff390dcb7acbb7a379e3cdbcf	ThreatFox	2026-07-04	family=win.coinminer | confidence=95% threat=payload
+3de9cb6da3cc57f662e02e9545621ed5	ThreatFox	2026-07-04	family=win.coinminer | confidence=95% threat=payload
+0275c6cf588a7e26e97cbd3a8d301370ebeb18470e86b21d295c8d93ca778d86	ThreatFox	2026-07-04	family=win.maskgramstealer | confidence=95% threat=payload
+0433de72013e991a30c62cca38146e55	ThreatFox	2026-07-04	family=win.nanocore | confidence=95% threat=payload
+78ce14986dcd70c0fcf65e9a3dea518a6a66c17589dca2149134406d3e95c414	ThreatFox	2026-07-04	family=win.coinminer | confidence=95% threat=payload
+dfcc75c15d845541948899841cbf0114	ThreatFox	2026-07-04	family=py.creal_stealer | confidence=95% threat=payload
+cadea6f17dbee66cfb2d7aa1ed49f168f9fc201dcdd8d5b30d4e2cfdb7e069ca	ThreatFox	2026-07-04	family=win.nanocore | confidence=95% threat=payload
+fbfe4c2ffe4f4eba18c3c784bcd27528	ThreatFox	2026-07-04	family=py.creal_stealer | confidence=95% threat=payload
+ed3171b8abf77dcc65bb6801c784a3a5adf671332fa0ad38b81c5fd87005bcf3	ThreatFox	2026-07-04	family=py.creal_stealer | confidence=95% threat=payload
+94e7502ee1d0fb12fa17acaa5588edb5	ThreatFox	2026-07-04	family=jar.crossrat | confidence=95% threat=payload
+57d26f045da134f570eb745cee88057c0c3872d6aeab9477fc17ae46853e93c2	ThreatFox	2026-07-04	family=py.creal_stealer | confidence=95% threat=payload
+bb9a5f5fe0d086e592ea23909cb1aa8baf792990c90691016da16908d01e83a4	ThreatFox	2026-07-04	family=jar.crossrat | confidence=95% threat=payload
+7bb8ff1a5d1262d63167c0db64c00ae1965671c5168720fda081ca62d41d57d3	ThreatFox	2026-07-04	family=win.valley_rat | confidence=95% threat=payload
+608646f448c0a5c26a34c79fcec2257a	ThreatFox	2026-07-04	family=win.valley_rat | confidence=95% threat=payload
+27ef8e01f2cc70843dfc973156abacf1f2abf601d3055476084ca8991a2f02c5	ThreatFox	2026-07-04	family=win.valley_rat | confidence=95% threat=payload
+dfa94b0185b88f097d6eb93b215ebd1c	ThreatFox	2026-07-04	family=win.valley_rat | confidence=95% threat=payload
+0214ece62b99fe55834a76ea2d928583	ThreatFox	2026-07-04	family=win.venon | confidence=95% threat=payload
+dd0bebc17d103b682c00e5cc6f92ae28432a357cc9f9fc49f1747d28931c6402	ThreatFox	2026-07-04	family=win.stealc | confidence=95% threat=payload
+e1b807c2d7b670f8b7ba75df1fc4dbdd	ThreatFox	2026-07-04	family=win.stealc | confidence=95% threat=payload
+7751792eebb0d401d0a580f5e142756a	ThreatFox	2026-07-04	family=win.stealc | confidence=95% threat=payload
+ee0e3b3489ea0dd06f2af0b969e480c4fc6f2755cf4016dcba5d1299ac74f84e	ThreatFox	2026-07-04	family=win.venon | confidence=95% threat=payload
+e634daa853d4d5a55ad3ee5d20d336a9	ThreatFox	2026-07-04	family=win.agent_tesla | confidence=95% threat=payload
+fd2d5ada1da9e1088e3ad645543dcdf407a1996be32041c4fd64e15591962577	ThreatFox	2026-07-04	family=win.stealc | confidence=95% threat=payload
+a20ea51a49e18c2d2dc9d385fc4e2424	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+31d293ffa5e55ff2df504ab951b785e902b335974826a9bfbcd4dfb29ab59068	ThreatFox	2026-07-04	family=win.agent_tesla | confidence=95% threat=payload
+c189e3cd9342923a743770f191bd70cc	ThreatFox	2026-07-04	family=win.agent_tesla | confidence=95% threat=payload
+62f1532516f3008ca2e15699e9862cd1c72eb84c7fb42289e81259d64c89b4f1	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+bbd5dd6263af978ebe7ddc57537204a4	ThreatFox	2026-07-04	family=win.formbook | confidence=95% threat=payload
+7dd595347aea3817cde5da19e3a6b76adf2f0baef0ecbd67ff3d80be1d5930a4	ThreatFox	2026-07-04	family=win.agent_tesla | confidence=95% threat=payload
+3e344a746bd85356e818872c40cc2407	ThreatFox	2026-07-04	family=jar.crossrat | confidence=95% threat=payload
+5971c4311611d94ae809f00b0ac2142e3e2db8b9a7ee5851ccd6321274c20c73	ThreatFox	2026-07-04	family=win.formbook | confidence=95% threat=payload
+91b84b14b1e6d72dc63caf997a338c87	ThreatFox	2026-07-04	family=win.formbook | confidence=95% threat=payload
+e6b15512909dad441e5da10f301d6369f333a5b51ad94f3504e9e6ef12dade3a	ThreatFox	2026-07-04	family=jar.crossrat | confidence=95% threat=payload
+4da40a378b91a1231d9e3a105d61fe9f	ThreatFox	2026-07-04	family=win.formbook | confidence=95% threat=payload
+a73cd72f82f334e31d4669d43ec819a033c3f088dc96f5fc21002941ace6b61e	ThreatFox	2026-07-04	family=win.formbook | confidence=95% threat=payload
+e0253c7bbc5b4e8dbc6ea231f51ea800	ThreatFox	2026-07-04	family=osx.xagent | confidence=95% threat=payload
+6ebd94209f4a45ea9919b17f13d6c07a6db2be45a399e9f8db989d7e961e0d83	ThreatFox	2026-07-04	family=win.formbook | confidence=95% threat=payload
+f4b19ddac26cc4add956fb01856469d0	ThreatFox	2026-07-04	family=win.formbook | confidence=95% threat=payload
+e061a76a42aead05e3cf7161b65a73fb8e6f074a0a2aba1b3817eae9ef659491	ThreatFox	2026-07-04	family=osx.xagent | confidence=95% threat=payload
+bac16a48407ea22b8905e476bbb93fc0b5ecda8bb70364094479700e33cb15d1	ThreatFox	2026-07-04	family=win.formbook | confidence=95% threat=payload
+0d1d9fb7cbc129aaf5dfb93869f58d40	ThreatFox	2026-07-04	family=win.formbook | confidence=95% threat=payload
+fbbb5b74e9d1d24d79f9ca7f8dc44dac9ea7663d666ee829bc5e2d2cbcec3174	ThreatFox	2026-07-04	family=win.formbook | confidence=95% threat=payload
+b9783c0434065058751b59f89948498ed8d08f93f6c5780cc0ce3a6d02bdf77e	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+7c766f29e987f4acf421154bb35193f2	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+b46f58cd9bbdcfdec0908e67229b484c6f8482523092dd627e0e97fec62e53a4	ThreatFox	2026-07-04	family=win.tinymet | confidence=95% threat=payload
+080e5a2094def756472bef0647b24c7a	ThreatFox	2026-07-04	family=win.tinymet | confidence=95% threat=payload
+f5b43a3803a8149dda677d208ba7ef5e0aa33640bcd3dd58924355f4fc54be99	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+1ec808d23dc8b2775c37db0dabe09573	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+58a7e2f088cb22dba94ec1ebf9aad4ac	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+b15fabb4f73fff2dd8dbb1a58e46423e9d33d985af34880d17e410b9ecd6bc47	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+5f94e59c132a7ed0e35b60146d973a728ab9f390c8291f9547cee26c56427738	ThreatFox	2026-07-03	family=apk.craxs_rat | confidence=100% threat=payload
+fc99609172910a8fad9522b374f8bae21e5805abdf052a49029edb53620a8e8c	ThreatFox	2026-07-03	family=apk.craxs_rat | confidence=100% threat=payload
+1cd9eccc8e73d60164390beddf4cdc48	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+703a8383a3df68abce59b02fcd0b5678	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+28f871af1833935beba160b51e4a732c43a5dde5	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+ca9d7aaff7c636120149168e2bbb509c10544993	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+20042f1efb59c99e3addf822a3e9e5a496f0b701362df038a50a32a9f504a136	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+3ddb67ab079509dd1e7ac77fc4cfed25a271526668c68f8a2221e96a4cc21812	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+41e8e327abbf2ba721be677ad8a416a7295708257b39688a0af03275fb199cec	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+444a9d34a9f59dc7975dfabefb47d789813a4497bbac9127c4806dd816e85211	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+450ea44da0c9d96a2e8f4d6bad34f1c35cd35743295b8cd2defa9f7a9884685d	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+7413cbb6eab4d6b10346f71be5dd76d7cf2f4817f7776367b162f83755aefa1f	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+8fc2d35b66c692d37a85ae9d30dc5c7f06f0b3eaf01112a5a6398a1a0feb3aee	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+9394666007fac4014a4641fdae150c1b969ed2bc4299876318a336fd386abf59	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+b61a5508847a2167b737d31193dc393e92c5be2aa5141bbe4b7ea6f440fd4799	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+b6f835ced11059d341222eba11fff3a4672f4de47a3a4d791fad86059a2b06d4	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+d452f22dacab9785539484245c13e9cce58df23fc82eeef205684fcd196da20b	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+dff0edae6e8854ddd3e617054ee0bd74c696c91411f704dff60aabaec839bec9	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+ea44138b9701fce1b2fe13de8f9e00681c007c9adc625edc9f507f177704c2e8	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+eead44c0af7ddb12cece1a6125cf213bab3c22511cd59aff9d63dcfddb7d4386	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+f02b1d8010dac35b007796def0cbd5d0c9414df790e2b55b105c95df2f2ffa91	OTX	2026-06-03	family=C0XMO | pulse='Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO' pulse_id=6a20a73f2ecb12c1ffd10df5
+fb3630822b70bacb56aa4cec29b5a0e3e9acb3920809e70310a4003385a6d34a	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+0743154262c5ccf24794168ee331feeefc6539386715307ee44d5d9b6b321077	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+d24216d0b82747e9406a696da76960183926145f9621947e34a772137f5e22a6	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+f2357e70f359803d42298d016c7e1631e9fba6c7e01e5df1eb8fb9ff7eb3df4e	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+3578e1588846a805ee806fa6151b5801d0acb88879a93d378300e2ee7665736e	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+7d4fb94f6b4623690daea67ed52e97705cb102f443988ff605f2a9c4898244dc	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+eca5c297008e7c07a5c6fc9070c03121d702ef093b4a8e508b712040d87fed36	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+1d09357b6a096fdc35cd5c873eed15665d6b3c879d20c8cf01e6bca0005512cf	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+d2c637235d62ad766f961f9b8563f6a0e6db2ec0a343470385991b4df826afbc	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+1fc515870c681bf3e1b7947e2248bbcfe9918db2978117e91134de20bd42fd6a	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+ced6b0f4441085bb9c54a32da9ab4ba14c6e21daf6e34fd61d54923f87baacd0	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+afd5f1ed45a9867daf3bc64152cef460a06b164c8183e490db39146d4749a82c	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+2cd88d5280a61714836f5f07a16df190911c5b952af2998dbbcda910b3b1c494	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+00d979bdb1b29b2859f2120580f101f40e8e13de0b3b7bc29675e2c31098a03c	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+ae8cded2822c56dd85f52bba09d9285cb2db3e6317227530b848ea143afb067c	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+9eefc66d1fca7f18a91f49affb569b41bcde043f91567e7f5cc9f2016aeddf8c	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+c958de72460256c9c1cceef527d880862e8bc29e3ae4e2d478af97dcafd41180	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+6dc41555455860b8584d761303a7ae5487117944e2a24d74fa3e91ad8f840077	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+6b22df0de0a40ff372973639c8a1974cfb75084b8e3b85f9ab9038e0acce43c0	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+31f27fdc14505e0cebe360579e1ba0326762cbe0948e50b5f920da51fdef1b51	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+389a6a2007e4f06d16beac0ec2cb01391f80ad5e392343386cae3ceb82ec1502	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+01b43dad62e56164771db696827a30ae	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+07d0d4c580ac76ac3ffb63353c9b6b85	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+19b2f2902825eaf62f2db1eb8aaa520a	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+347a3f5f2ed2f503a22f68c4951c78c7	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+37b996509ce2873f96781c9f9b12d8b5	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+37e065585c573ecc082aacbfd31564eb	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+4442897e3b772dfa4f7af109bec8924d	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+609c3fc64a67630a7b206a6880c893a8	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+63e45ffa6d0c22cb04646ef549d61065	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+659575cb45a67b4d0c70e7361709fb03	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+6b8ec32dc76fa3138f00616156962f4f	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+6ee4050ac0c5192961c9f34568ca68fd	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+7d384886720c8e576c3ca9d68cb5f08b	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+9d066964414cff647beeecb75affb5b5	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+a9198c1497481b2fea007ea5f13eafbf	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+ce9abf0dab1facd7afeb70dc34925a78	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+e6c69f14d7b0dabff5c67e54cf87aba2	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+f799ea5df9ec08690385d0972aefb59d	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+fa9d1f3e719d9284af8af075b1cef9cc	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+149f5cfe98e06f9f7fb6d29dd271830c02250f9d	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+29b38a57b22f0a442e4e731525aeada927ea2f56	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+2b258b5cd3fc997d537ab92b7ebe2d42349a6f92	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+34e20e58b54e241596dfb2b87451b42f6bbaea95	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+5a7caaed79b1302285c371960ee3f50779f26a81	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+70bee643d79fd82f7835b208e15a6d722f64dd7a	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+86ff1313888780942c6a0ad2f683312911582498	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+aeb63fc27339747fa922f52ae58d32f8c978ee71	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+af98e97cd49229845123a1063b8c386cc9b2f441	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+afd1818d136a5cad592fbd81122e2c0a1aaae4b2	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+b14e1f931f602b1e1985d1362db0e17dd2d2131f	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+c6c9b69fbfb77f1d07b44991dccc58719c37faf7	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+d79246b49a00169993de60779cbcec17cae9da21	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+dafbe5c235051bd6689f4b36a725360c38abdf25	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+deb10789274bf903060d700b3472fdf094a14763	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+e47d2c9f62adbffff5353e21e212d98de869c81d	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+fd8e880cc32377af08327c9d187f6220c6ac449f	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+b032d4ec4e24714f59e853da9b6e63794aacdbcb	OTX	2026-06-03	family=Havoc | pulse='The Demon Arrives Later: A Havoc Stager Hides Behind Microsoft Defender DLP' pulse_id=6a20a73fc005e1fc15255876
+87361ba2bb412dcf49f8738f3b8b9b7dccb557ad2e76ea8d98ffa5b098ae3886	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+8c4f8abe69bde5e1a53ca98fe22e13aa	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+bfea4ee8ef934be7a2b4c64a0bad1e92	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+f0ea4c47bc8fec96770d023f1025bcb3	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+f48bf08687948ead049686cdee0e92dd	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+606966a9ec33765baedf63331595d1168f2a596f	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+a3d2ea3aa5850ecac5e75b0cc1467bda57dbb776	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+d6b6eb84b0718cbd02eea586637679b4d77bb34f	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+15e6df0c95f2147952308e640d55270e9d097639eaebb34d4b352415f1c6bceb	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+26f2abfc254a59c2386dd46dca16744f7147a0f0366cb6008e1d53219175f44c	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+2e842eab0c16ddd1a2ec4a56610adb58d115b65a1e08e9b67e7e375f8eed0873	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+39dc2327fe1e5a56ac5ad9dc02f0386cff3d83dcfdc558cacba42ebb9dcc5ec2	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+3bb92771e287aa0a8bdd8e5b5bb697427223eaefded3d9b64b5d5c32ad40f3c2	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+4cdb1f7ac502289119f7f8256f00baaa994e6ecfb4000dcf5e1c46073508fcb3	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+598b023e56c45b19173e8f96c1c88036d732fec305cf6bf1b9cf4dbe304beb7f	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+74091f5a8746a1c68d73e1fc1e4e1ff514632ee3f632a8b306f35dabae2d2b64	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+cbad672d9bd06ce91ce465d049e50696fbaec9d209ca0ab1fd814d993d04bc9b	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+ce0888df5e28716432013a8ae002437bd3e993fbe8362c5ff9efbddabfe0ab77	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+e6a1a428a7c09c9946f7c0179d89b263f442dc3208b5144a9146c200e4185bd6	OTX	2026-06-03	family=SessionGate | pulse='Impersonation, Click Hijacking, and TDS: Inside a Malware Distribution Ecosystem' pulse_id=6a20679f5ade869dcb4bf6b5
+2d2a251a88632f010fd9671789746908eeccaa5bc5c0a5d25e4649efe4f5b15d	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+0ffb16209def5500ff4380d9e8093437	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+3e7066e44132e64360a30974b6ea3671	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+483a36fb9e4aef9704aa1e4edfb88c492dfe4140	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+7b2c661cfb69e9c75df90d5102647bb014c28ad5	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+0857148fb0bc4aa7adf967ede2307bdb4fc427065d5b6a6db132688a5a8e1eb8	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+3119cf37b8267db8a2dcd11d9a83d5237d7ef1e42388e7c9afa2831b91da8a2d	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+314f4b59535d1b783e1c20c2be00f9e30f8ed27b2e21fad06a73b47ea43279ef	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+40b41979b317406f8abc601677a3b93aaf6ef8ab8ac188b8f383735e388f13b5	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+4fcfa88fffacbce30bbe2136753c9ab5a4c092940d2406fd9d44d5118e745b9d	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+584a9448dda46bd590d7a2f86228100d2ae6e0d6d990c1a4459ed5ee28e07ae8	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+66a3836b9a17771bce2161f6b73cbc2494a91e49d6aa30d2d53711e8d10de60d	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+8c9b6542f73c5c7fe455b52f5101314407da4f65ff48e7ebf6896605e607c8d0	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+9d0a55c545c4147956db2c2667c4ed931a2875309147548b1dfdd216228f5f73	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+a648db354820ea4d02940cb1702b35974513b7aae83f6dffaacaac4ba31f9295	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+a75eab31d7ff06b6864960ad7e633be3f9730ff3d3873e4539c8f425fc632dad	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+de82998ad5fcd63deae030803388e0fb4290d6223fda82368fd25b99b823f0d2	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+e0a6a71c605d9a4076147e9537f82f79f1e1eccadc874595160aa4637ff4088c	OTX	2026-06-03	family=Atlas RAT | pulse='TA4922: The Suspected Chinese Crime Group is Going Global' pulse_id=6a20244bdece9b50eee824aa
+21ca0287ec5eaee8fb2f5d0542e378267d6ca0a6	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+2c6cc71b7e7e4b28c2c176b504bc5bdb687c4d41	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+5b70453ab58824a65ed0b6175c903aa022a87d6a	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+d9a369e328ea4f1b8304b6e11b50275f798e9d6b	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+f9f6c0184cee9c1e4e15c2a73e56d7b927ea685b	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+7331602726f61959d8f0e7820d457370	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+03e3ece9f48cf4104aafc535790ca2fb3c6b26cf	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+33d887ca2e57fa03fc807dfba5376bf96718ee88f56e90d95ee4896a2c019bd0	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+23a1eacad84be4f2c5830755b1948582	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+3d3d2dc34f01bcf890f185a5421836c7	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+72ac1287a8d71b27c437ec1f379ab506	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+a0830ce48537ba052f1d3b905d11a5bf	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+a48b62e55a692bf6d1046d2be64d7150	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+01a33066fbc6253304c92760916329abd50c3191	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+2b81f78ec4c3f8d6cf8f677d141c5d13c35333af	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+409c5acaed587f62f7e23da47f72c4d9ec3144d9	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+59a9b9d47ae36411b277544f25ad2cc955d8dd2c	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+7356d7868c81499fb4e720f7c9530e5763b4c1d0	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+95bdb94f6767a3cce6d92363bbf5bc84b786bdb0	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+b06110e0feb7592872e380b7e3b8f77d80dd1108	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+fc0c691db7e2d2bd3b0b4c1e24d18df72168b7d9	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+185633e5dbe9235fc7e6a1ccb8631650afefd8f7da88c5c07d9b99ea38159822	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+415b253a81e67c8c860a97c73edc9017ce732b3c025d943d3b1a445b4ac82822	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+5aa7afd790481ad98357636fa4d9927ae01111409c8d7ce69998d2485c1d5e6f	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+95cda8431419f77407484ab72dc1e356421dcd801eccabe8869f77ee0eb58eb2	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+dfa9c6adac98311d0f62e0eeecb947d92f7bda41ddf4ce9a6f9e20af7990422d	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+a8fe823d451d636d0a0366c0629ef5c3	OTX	2026-05-05	family=BirdCall | pulse='A rigged game: compromises gaming platform in a supply-chain attack' pulse_id=69f9c539da459757922d22d8
+b98575f3c0259b480a31b917aa73bc56	OTX	2026-07-02	family=BoryptGrab Stealer | pulse='GitHub Impersonation Deploys Information Stealer' pulse_id=6a468e99941f9e2f4d672d80
+fd01262bd56510088b9ddfe58ca101ab	OTX	2026-07-02	family=BoryptGrab Stealer | pulse='GitHub Impersonation Deploys Information Stealer' pulse_id=6a468e99941f9e2f4d672d80
+c3587edc48c37656b29bcd3da9458eea	OTX	2026-07-02	family=Avalon | pulse='Vibe Coded Extortion: Path from Legal Lure to CrownX Ransom Capabilities' pulse_id=6a46d120d41fcc87a8a52932
+4b7301f02b8312ae6de614981f325dbbabee32166630618fdff74615d9a487ba	OTX	2026-07-02	family=Avalon | pulse='Vibe Coded Extortion: Path from Legal Lure to CrownX Ransom Capabilities' pulse_id=6a46d120d41fcc87a8a52932
+59a260716d05c20229c6a46fe0a2fb5b80fa30c9c73a850222d9d3454426a60a	OTX	2026-07-02	family=Avalon | pulse='Vibe Coded Extortion: Path from Legal Lure to CrownX Ransom Capabilities' pulse_id=6a46d120d41fcc87a8a52932
+607cb58b8a592885eef5cfbe35ddce962741b0775c575f58cb3a96ca0ee893a6	OTX	2026-07-02	family=Avalon | pulse='Vibe Coded Extortion: Path from Legal Lure to CrownX Ransom Capabilities' pulse_id=6a46d120d41fcc87a8a52932
+adbc18f15019ef2ba6890b7996445c14350d57ba772eb33182889bc14ac47085	OTX	2026-07-02	family=Avalon | pulse='Vibe Coded Extortion: Path from Legal Lure to CrownX Ransom Capabilities' pulse_id=6a46d120d41fcc87a8a52932
+b7d50d0406afcd2efd87bf3bf8c4211719ba9817dd2e0ad62af10c933e765e28	OTX	2026-07-02	family=Avalon | pulse='Vibe Coded Extortion: Path from Legal Lure to CrownX Ransom Capabilities' pulse_id=6a46d120d41fcc87a8a52932
+c725815cbb07ab5be8903e74ef8aea46ef9c25e4a3bc626ae94bfc1ae21df6e3	OTX	2026-07-02	family=Avalon | pulse='Vibe Coded Extortion: Path from Legal Lure to CrownX Ransom Capabilities' pulse_id=6a46d120d41fcc87a8a52932
+e3ec5926a167d6e3359f98cdfb7ac3b2cce97652843056505d02e6d2898573c6	OTX	2026-07-02	family=Avalon | pulse='Vibe Coded Extortion: Path from Legal Lure to CrownX Ransom Capabilities' pulse_id=6a46d120d41fcc87a8a52932
+bae0005a0bf0d467a672600833eeed92	OTX	2026-07-03	family=PamStealer | pulse='PamStealer: a Rust-based macOS infostealer that validates credentials through PAM' pulse_id=6a471de6cf9848f2ef9503c0
+e291f991d4bd616203b291a36121dc8b0c15f509	OTX	2026-07-03	family=PamStealer | pulse='PamStealer: a Rust-based macOS infostealer that validates credentials through PAM' pulse_id=6a471de6cf9848f2ef9503c0
+06fdd1d97df1105c542ddb881d751b659d555b5522c266f6364dae9f350fcfd0	OTX	2026-07-03	family=PamStealer | pulse='PamStealer: a Rust-based macOS infostealer that validates credentials through PAM' pulse_id=6a471de6cf9848f2ef9503c0
+2b512f6c393edad89a89ecafe26cd23b71cfdd271c10522f8dba98997ebf39bb	OTX	2026-07-03	family=PamStealer | pulse='PamStealer: a Rust-based macOS infostealer that validates credentials through PAM' pulse_id=6a471de6cf9848f2ef9503c0
+36d46ac7123e0cef04f179d88e590891c7e7c64ec5a77df4512cb485e40286da	OTX	2026-07-03	family=PamStealer | pulse='PamStealer: a Rust-based macOS infostealer that validates credentials through PAM' pulse_id=6a471de6cf9848f2ef9503c0
+60df952153696d46a09774e44ca602393c6829f9e2c2ec4f95d571f9846242a8	OTX	2026-07-03	family=PamStealer | pulse='PamStealer: a Rust-based macOS infostealer that validates credentials through PAM' pulse_id=6a471de6cf9848f2ef9503c0
+96c8ad78f6ccdf83d3dcabfd33ba563f7995f7237fe825de1eefd340821abdf3	OTX	2026-07-03	family=PamStealer | pulse='PamStealer: a Rust-based macOS infostealer that validates credentials through PAM' pulse_id=6a471de6cf9848f2ef9503c0
+ab3a14096851cc18a253c1cd1c25df74f2cf23eb29051784ce47f9fc318f0f22	OTX	2026-07-03	family=PamStealer | pulse='PamStealer: a Rust-based macOS infostealer that validates credentials through PAM' pulse_id=6a471de6cf9848f2ef9503c0
+bb01f3c36110d2cc31ae51c4ff2f17be19bea625755b5339680431fab98616df	OTX	2026-07-03	family=PamStealer | pulse='PamStealer: a Rust-based macOS infostealer that validates credentials through PAM' pulse_id=6a471de6cf9848f2ef9503c0
+ca7f5c0668f1a871523d485e42884c3b98910117d7ca17c8b3c3b3744a936e0f	OTX	2026-07-03	family=PamStealer | pulse='PamStealer: a Rust-based macOS infostealer that validates credentials through PAM' pulse_id=6a471de6cf9848f2ef9503c0
+e8b18c420669deb8fc6f69e74146e499057c3c77436ac6ca54af37befa9ddaa5	OTX	2026-07-03	family=PamStealer | pulse='PamStealer: a Rust-based macOS infostealer that validates credentials through PAM' pulse_id=6a471de6cf9848f2ef9503c0
+f48b69e4b7fb4d53de25b4c9be8e8dbe0999c10d5306e01aa08e1761fc3dedbe	OTX	2026-07-03	family=PamStealer | pulse='PamStealer: a Rust-based macOS infostealer that validates credentials through PAM' pulse_id=6a471de6cf9848f2ef9503c0
+ff20b429cb1c89e1cdb6734b00cc8cf021d2d13fd686bbc70709b3dd549285d2	OTX	2026-07-03	family=PamStealer | pulse='PamStealer: a Rust-based macOS infostealer that validates credentials through PAM' pulse_id=6a471de6cf9848f2ef9503c0
+026e6e27fe574cd05c83c82610046ba2	OTX	2026-07-03	family=AsyncRAT | pulse='AsyncRAT and Remcos Delivered in Multi-Stage Phishing Campaign' pulse_id=6a471de4dcdacfc396979ab8
+7efc7341472dc671779c0ca8d4e8ac5c	OTX	2026-07-03	family=AsyncRAT | pulse='AsyncRAT and Remcos Delivered in Multi-Stage Phishing Campaign' pulse_id=6a471de4dcdacfc396979ab8
+4ca48fb14e6f26d617c77d219ae5529935bb4893	OTX	2026-07-03	family=AsyncRAT | pulse='AsyncRAT and Remcos Delivered in Multi-Stage Phishing Campaign' pulse_id=6a471de4dcdacfc396979ab8
+b36519598b8cd8ebcc959965db5dba1ace8d78a6	OTX	2026-07-03	family=AsyncRAT | pulse='AsyncRAT and Remcos Delivered in Multi-Stage Phishing Campaign' pulse_id=6a471de4dcdacfc396979ab8

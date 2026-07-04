@@ -1,0 +1,38 @@
+title: Network Connection to Gammasteel Infrastructure
+id: 4785482d-d740-494b-9e4e-5ba969f1be62
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Gammasteel.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cyberespionage
+    - dead-drop-resolver
+    - dpapi
+    - fsb
+    - gamaredon
+    - gammaload
+    - gammaphish
+    - gammasteel
+    - gammawipe
+    - gammaworm
+    - infostealer
+    - malware.gammasteel
+    - ukraine
+    - usb-propagation
+    - vbscript
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'justsstop.ru'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

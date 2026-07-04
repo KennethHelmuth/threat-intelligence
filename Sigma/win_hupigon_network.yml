@@ -1,0 +1,26 @@
+title: Network Connection to Win.Hupigon Infrastructure
+id: 5c33ce59-68d5-4eff-a66e-178c0be84122
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Hupigon.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Gh0stRAT
+    - PurpleFox
+    - malware.win.hupigon
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '123.99.198.201'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

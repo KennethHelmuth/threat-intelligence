@@ -1,0 +1,43 @@
+title: DNS Query to Fake App Stores Domains
+id: e61ee6e2-7104-41e8-b42e-efa7db52ad54
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Fake App Stores.
+date: 2026-07-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - affiliate fraud
+    - brand impersonation
+    - casino redirection
+    - fake app stores
+    - malware.fake_app_stores
+    - online gambling scams
+    - progressive web apps
+    - pwa
+    - social media advertising
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'topstatus.site'
+        - 'rewardsmonzo.website'
+        - 'optimismphantasm.shop'
+        - 'revvo-online.website'
+        - 'ridereuphoric.shop'
+        - 'seekerlucid.shop'
+        - '345rodeoslot.com'
+        - '87roulettino12.com'
+        - 'blinbd.com'
+        - 'lemniscal.live'
+        - 'monzoslots.life'
+        - 'seekerlucis.shop'
+        - 'spinlynx36.com'
+        - 'tesscogames.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
