@@ -1,0 +1,34 @@
+title: Network Connection to Mfa Bypass Infrastructure
+id: 87492e66-28f5-474e-8656-f8813619806c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Mfa Bypass.
+date: 2026-07-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cloud data theft
+    - credential phishing
+    - extortion
+    - helpdesk impersonation
+    - malware.mfa_bypass
+    - mfa bypass
+    - social engineering
+    - the com
+    - vishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'deploypasskey.com'
+        - 'passkeyadd.com'
+        - 'passkeydeploy.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

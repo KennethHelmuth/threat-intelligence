@@ -1,0 +1,32 @@
+title: Network Connection to Argamal Infrastructure
+id: 05cb4c8c-9cbd-436f-98c2-eb7a6311dc09
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Argamal.
+date: 2026-07-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adult gaming
+    - argamal
+    - credential theft
+    - malware.argamal
+    - pixeldrain
+    - powershell
+    - termixia
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'asper1.freeddns.org'
+        - 'country1.ignorelist.com'
+        - 'winst0.kozow.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

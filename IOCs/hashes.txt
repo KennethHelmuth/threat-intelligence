@@ -3548,3 +3548,223 @@ ff20b429cb1c89e1cdb6734b00cc8cf021d2d13fd686bbc70709b3dd549285d2	OTX	2026-07-03	
 7efc7341472dc671779c0ca8d4e8ac5c	OTX	2026-07-03	family=AsyncRAT | pulse='AsyncRAT and Remcos Delivered in Multi-Stage Phishing Campaign' pulse_id=6a471de4dcdacfc396979ab8
 4ca48fb14e6f26d617c77d219ae5529935bb4893	OTX	2026-07-03	family=AsyncRAT | pulse='AsyncRAT and Remcos Delivered in Multi-Stage Phishing Campaign' pulse_id=6a471de4dcdacfc396979ab8
 b36519598b8cd8ebcc959965db5dba1ace8d78a6	OTX	2026-07-03	family=AsyncRAT | pulse='AsyncRAT and Remcos Delivered in Multi-Stage Phishing Campaign' pulse_id=6a471de4dcdacfc396979ab8
+94f2e4d8d4436874785cd14e6e6d403507b8750852f7f2040352069a75da4c00	ThreatFox	2026-07-04	family=unknown | confidence=75% threat=payload | vt=45/74
+f193b47f2739aaa35c0ecec5d2731dc7d343c200340015e4a2bff663c3041512	MalwareBazaar	2026-07-05	filetype=exe md5=4be39027f6e94c46bf4307f6762d8b98 sha1=def05ff2de5bf7d550e6230c19480bae253d8043 | vt=34/74
+11936fb09c6770b658ce5335e704bdba76722e1282eb53630beca2e007bb0850	MalwareBazaar	2026-07-05	filetype=zip md5=8a4c99ebd4cc814064ef6b209e8aa874 sha1=51c6fa57c0590d67f12565dbf43a8b35e9935ebf | vt=6/74
+c016fd7194859f518e61b204e9df51a683959a28399bd88ec0f7b7f30858f133	MalwareBazaar	2026-07-05	filetype=zip md5=e1824c5e2e9ade06e617a7e061fc8633 sha1=b0f7017a9b3ddbd3c9caaecfb19a18c18f628465 | vt=8/74
+422c55e0219b09d0262782b25420c601304f5d1b46a325f2b4859ef77244ff42	MalwareBazaar	2026-07-05	filetype=exe md5=99755cc0b98e663e73aac9be9aa33c13 sha1=116af423f975819cd0668484d7e0fb7c83460fb8 | vt=22/74
+720035e8c6cfb6cdc35041b7f6fd3883d2dc4821aad56e39f3ca0f2947e2dc8e	MalwareBazaar	2026-07-05	filetype=7z md5=f344e4d3d76ac6712ddc17a7ac284da3 sha1=a73bfde9e33db85ab272a2e3b883879fd4c20824 | vt=0/74
+134385f37bc37813bd7b811a628b700d0791c31c2ea0f2cf037d2463e02976f3	MalwareBazaar	2026-07-05	filetype=7z md5=fafe52bd2c298f8b7a88ecc8778fd098 sha1=659251f9149677fb5515b3ce45078fba2dd7f2c2 | vt=0/74
+6cb7fd54f66b99cc623bfc38f8aed37b87e36a59882ea770ce30c825bbbe754b	MalwareBazaar	2026-07-05	filetype=zip md5=62fbcb5eed035d28a3cd95bce4c81bdc sha1=4485ba9c695d1d711f5c4fa8d9f255582c5969a9 | vt=9/74
+f1ecb89facb7e31ee9c03278f4106113c0339ff9fc10b1aefe33aaab776e8540	OTX	2026-06-04	pulse='ClickFix Deno Abuse to CastleRAT' pulse_id=6a21aa7db4b7cf1351f27cb6 | vt=20/75
+f704a49c0cdaaae4515105bf937e26b5e39b1101c8a0cefaca3959fce7418e9d	OTX	2026-06-04	pulse='ClickFix Deno Abuse to CastleRAT' pulse_id=6a21aa7db4b7cf1351f27cb6 | vt=0/73
+82056127b671583deb500d931ecb893224c34d3b8de66c0959700d55a1bfbbfd	OTX	2026-06-04	pulse='ClickFix Deno Abuse to CastleRAT' pulse_id=6a21aa7db4b7cf1351f27cb6
+c9afa1e8ce84b3af50304b504519a587488658142137cf4bbf85f5780c06f682	OTX	2026-06-04	pulse='ClickFix Deno Abuse to CastleRAT' pulse_id=6a21aa7db4b7cf1351f27cb6
+b04bc0780b2cd11fde488372387f557a87fd473ba546295f5fca7771d5b8a394	OTX	2026-06-04	pulse='ClickFix Deno Abuse to CastleRAT' pulse_id=6a21aa7db4b7cf1351f27cb6
+f2bab102784860e65cd488387e42ca50	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+9a7af0a766f7717d478c94414b15d25e	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+904613f59987b5ebbc3e7d94b1390420	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+9b3dce50e1056e6eca0faee733c33f35	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+c12dde993b1954bb7a890e0d6a3c1314	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+cb3ac44312acae80a626ba1aa593f4de	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+266f33db148efc6ea7f978a246d36663	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+be6010d8bddef29ebbf3c8bb28f19517	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+1c302704a76e2effc99f2d5e339d7f64	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+f1e9419110b9f316c070eca39bea63d6	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+69446d7192ce7e5737bd9f7cbc7ca74a	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+7d31b4d8fa391abaf49bf2c36d33fea2	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+251af0f2bea6c39064e162eac3b99ed6	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+fe609cbd263e01a51c53ce0651ad0ade	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+432fdcf8fc43c3871c3346bb2aeb3de2	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+0a52eca4d42889d0b3d21de101d4bea6	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+1ff7de4a7b52e02a211e39831061916f	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+335d1205e666a401cc9ae6525a66546d	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+cf135dac1f6d5c72cb2f361aad02591f	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+ba9e9d8577544204e544d91a4cfbed9b	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+64622cb996b115fac71477650db0bb90	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+561a13e7c71a8ebd4db51d04e61ba1ab	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+6b96b2e3cbd523607816524e67c36539	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+e48e6c4a26379e2cf4a8e8c9a59ef094	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+fe9b98bcd6fdab8766d8744e2ebda2c0	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+a61ecd4bce5b291686756e7f1cda5c7b	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+0bf7db6f6f756c1ce4346ac88727d04c	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+25f568d7838e70b4f8dafadd74a7d7fc	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+78d5bbac805b333ec066c1a407403077	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+d53974a4be8dc8fe98ca1bf1e8209b5c	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+c1497cc6759e5c9f0e3a86d40b601559	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+4e0e3ad31c0c52c1e171fd1ed6b857f0	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+39015f73ac1c8fcbf6bce413a22cfadb	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+74ceeff02f9c10bd97b9d51b912d1907	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+510e518bbcae3b73aaece35b95cd25a8	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+ba72eaf5f68103e43240c5b78711fb62	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+a27c95793111ec5ad8be6d3d9728d94a	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+493cf7c8d3ed22ce8990e6ef1c5bb1b5	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+1e3e29a85fc7fe89f3696facaa9db43c	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+59521e38698120af1b5072b64894df68	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+d772282592444d6215d3a334c7cc338f	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+ee11300d9a4fcec0e2172de5519049ac	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+9212fe6f148538c752ed95789c963e3b	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+8873d6ba9da18451ee95da046c7c6de7	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+6d3b8d56916cd9b741d9a6639ad5044a	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+4ef616fe7054594e771868ae860feee5	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+6dd9bd329127ae9eb15cbbe715ca9da0	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+d343a2faa7dcd81c8c45ca87c78a9531	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+691a2eac6ec1368ab1ebbf8e5827b41b	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+f548df5972128c4fe852dfd221150738	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+2393affaacf65a5fe1755315d581cf0a	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+a82006f49debbb71c624429efed67e58	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+e218b8685c58080ff42dd0c8af154849	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+479a7ca02fe77c4465a3cf732eaa4791	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+13a208ad6b172ec37bfe5dacaf0b96fe	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+780a6443312a97c4c04955d21f767bd1	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+540276ec9bc5944cb769956ad207288e	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+5be0b456c1488e32b8d152087401cc20	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+d402ffe03674489bb2d5103c8ab3f60e	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+f5f52b13178c96bc8e25d1b7e78d1497	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+5ee634e2b12edba1e2c403fb9ba3e3fd	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+29026cecfb181e3fcc00e2ee3685f451	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+ce8a61aa2ea8ba555e41d2cba59bf397	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+1a5c04fc48b962864b86682f54294031	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+0622a0674df6620c1e54a4180955fb63	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+21317bd3996c39b8b4cb7361268a1b7a	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+63e36739580577e2e5d9677f03b1ebb1	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+549bb011a726e68223260f0bb50f7920	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+1d0c30501bf776c01ceaa65f5691a506	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+4359fa960923f059edce5fcdc39c5e4c	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+cacae2128226e58ba93a2c09b4caaa82	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+ee6376447ef8346bdd1fe625185fbfd0	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+bdab673b0e619e58212c9e8820d37d51	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+7c407c1bad69c37f2498b3efce43d9ce	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+725bf8595f4373bff566ab35a9a6c5d2	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+100f2629b705497eaf152730ac3b41bc	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+665597a2901fe9839725126b1884321b	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+19c43bee02e049b2a6d25121e2be8782	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+3e27e51227c7d613c967afbff8e7e6af	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+ab94023e14dd50565704857b12952e54	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+85e816f6bd731a288f1be797a2531b0e	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+106c26587eb27cdab973e320f4cc10f3	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+715d011c170ae2246bc17e33de4fbb7d	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+8c113b3aa82c81eee7c6b4ed0ba9a90f	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+fa7a39d34106ef52741a56adb281da3a	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+adfbbaa06a48ff59d0a48672867da825	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+5ec7de7a4df5aadb52c317c05bd00cd0	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+22958a7a7044a2ff42c64639d71af989	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+3d30d0eb3484b37f2dc2bf9a804b0156	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+70735b4870e7d8e52bf45548df922149	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+7c51a9bfc46e3efc5de5397938868954	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+ba37105a276d86e128bf737c1386e6cc	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+d882aad77e0395c3db221213ff0f1a4f	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+4778be442a687b1a454a83b070c526a3	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+d907a8565b03664455b7eb68dae7a81c	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+2863a98a0e08b4b13da0874ec6b7cf15	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+9765e16983b302d180471084929544eb	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+956f2e9ba3205c88d64d6e308662c690	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+152fbd62a872a4f80dafd9a2f0548d59	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+67e5faa2e8bdb1776ca9ba9614ed1573	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+ec20bdb75f0d4ddd40f559795b4cda74	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+4e8ca5230752370c7137411362d884be	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+ef1df6880f861de62d8b30cd3623f410	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+db1d42421e41141175b3d14de1b5421f	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+ee238e2b2cf81300aed1ac5fc8c25bec	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+416bc269b470acc180734ad891b0a453	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+30fe6c10974aeb31c1709732c2e60fdb	ThreatFox	2026-07-04	family=win.akira | confidence=75% threat=payload
+77c96f339974b65ae435313a8fcc3b35	ThreatFox	2026-07-04	family=win.mimikatz | confidence=95% threat=payload
+889cc3e793cb39889c7acc8e73a84973e9a08fcd69451f7b546509c74ffdda90	ThreatFox	2026-07-04	family=win.mimikatz | confidence=95% threat=payload
+82db12c13a8c6695c43ae207fa358ebf	ThreatFox	2026-07-04	family=win.xworm | confidence=95% threat=payload
+21d7da7df67ca557739367e12f015061	ThreatFox	2026-07-04	family=win.valley_rat | confidence=95% threat=payload
+ffa6334625c7613e5a3b8817c742e43a2e9447fcaae7305e3eeaf0be5eb4ea70	ThreatFox	2026-07-04	family=win.xworm | confidence=95% threat=payload
+79a2ef6dd3056588d046746120a10ef1fceec80bf05e4221598101115d9215e9	ThreatFox	2026-07-04	family=win.valley_rat | confidence=95% threat=payload
+06ab1af35ab18f2b8e8777b397a2cd4b	ThreatFox	2026-07-04	family=win.ghost_rat | confidence=95% threat=payload
+765bfb5d7829184a23f615b871baebf893563d911dddd1d1c1a34604e5456cce	ThreatFox	2026-07-04	family=win.ghost_rat | confidence=95% threat=payload
+6c05ab37c2665353719dc535df55d6c4	ThreatFox	2026-07-04	family=win.stealc | confidence=95% threat=payload
+98006c884a359668964ba2fa91770f35	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+6af02f9f08e5d6e9318ed302e4d74618148f7c600af1b394e05812b18b8ca040	ThreatFox	2026-07-04	family=win.stealc | confidence=95% threat=payload
+4393ba303809c3ce1e5edcf4fa73d2f6	ThreatFox	2026-07-04	family=win.acr_stealer | confidence=95% threat=payload
+27e3c9b676e96ef69a0043ebf547748ac7189207dc2100cc188ea024be596266	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+8cd18949fe86667303cd19c683310d55	ThreatFox	2026-07-04	family=win.acr_stealer | confidence=95% threat=payload
+8cbe48fc14585b878bda6c568ae10e1c0f063034c86f868b3cc324354596d32f	ThreatFox	2026-07-04	family=win.acr_stealer | confidence=95% threat=payload
+5a67fd7e1f3bd5d1bca01efa7bd91407635d0c69e4d8924b0c4c87296dc11d40	ThreatFox	2026-07-04	family=win.acr_stealer | confidence=95% threat=payload
+3855f94e68b2b0353b8e318a2864b959631ecff88e90fddde4e5a77c69acac72	ThreatFox	2026-07-04	family=win.acr_stealer | confidence=95% threat=payload
+a23a1b44ccc709bcbbc23ee3cd6fb342	ThreatFox	2026-07-04	family=win.acr_stealer | confidence=95% threat=payload
+ce23b56615c9b0625799dca8c83558eb1016cce8aec1919dd52d31bf646eface	ThreatFox	2026-07-04	family=win.zloader | confidence=95% threat=payload
+dcfbe94f7ead20bb942b06ecb67937fd	ThreatFox	2026-07-04	family=win.zloader | confidence=95% threat=payload
+4ae4d4f2faf96941187abdf2d292b4ce995ecc94dc68f8e7d4e0e49747caed6d	ThreatFox	2026-07-04	family=elf.kuiper | confidence=95% threat=payload
+6bedd45f963b7f078071bb6eeb1edcae	ThreatFox	2026-07-04	family=elf.kuiper | confidence=95% threat=payload
+6f8075452b80f23418fd92e80429999ae270a6c4b88ce22cfb4223ba9853d6e1	ThreatFox	2026-07-04	family=py.venus_stealer | confidence=95% threat=payload
+f61219176469a9f98818c223a40ab36e	ThreatFox	2026-07-04	family=py.venus_stealer | confidence=95% threat=payload
+be5b469852253e4c60925777c114b46e7fca797bd21dc39b2f3774589ce0909a	ThreatFox	2026-07-04	family=py.venus_stealer | confidence=95% threat=payload
+7e81a8f28d5cd3b1a247c11b5ae64366	ThreatFox	2026-07-04	family=py.venus_stealer | confidence=95% threat=payload
+1b6c6fd00fe08524cbb4cdd0ef1eeb9a	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+6bbf04841f5907661a1d85a386a256ec	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+1aa4445c35c8bfb52304fcd252451843ff671d115c9e75a123043dc79ae9cdc6	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+d0cc83bf01aa935bd8c0f6c274fbfcac	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+def580734d7194d862e5dac7d48980c392ba93ce5bf85c37f664666b61f83899	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+e1b2d22e59ae44fc34f2120f1b86c7f8	ThreatFox	2026-07-04	family=win.quantloader | confidence=95% threat=payload
+c2a388115e47c2ffb0f65ec4ef28f8c961e9c37ade10b39dd920fa5909824e7f	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+a8e9db0011ac6886b75ddcd69bc503d8	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+dcfd33a5ed6c86fde6216ee270884e6a977e0daed7db7077ae0b1c7fbe3af860	ThreatFox	2026-07-04	family=win.quantloader | confidence=95% threat=payload
+0b88b880dccce959dd97041c5a816cf4	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+3fc02d5534d74a38e1ef4b6121818ce3358bbe1e9a823f7e6c741e9d1911cc48	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+0afa3d3d8b58319412921c9b85e0c336	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+20d47fa34fb6c5841bbebea4796b7b9fcc3f6920ef9d3be0530978f0cbc6e4d7	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+d284841b717f1ced21ea84cd6a6b6b620daaf7c6f12f8b1f16525ada570f7d82	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+62d519d2145d24a251dee3cf9b4b8cd72fb48bdb5697289e38a784e8fffe7003	ThreatFox	2026-07-04	family=win.nanocore | confidence=95% threat=payload
+3dec0c4966559f2471c4c03dad2b3d4d	ThreatFox	2026-07-04	family=win.nanocore | confidence=95% threat=payload
+b02174f08e5f467415dbd2a8e61404c8a370e2adcbfaa68bd8e3b52ad68097b4	ThreatFox	2026-07-04	family=win.nanocore | confidence=95% threat=payload
+aa6160ad03a10f68a2069b8cb8ed567b	ThreatFox	2026-07-04	family=win.nanocore | confidence=95% threat=payload
+6906e4395bc38d607d969c0699c73492	ThreatFox	2026-07-04	family=py.venus_stealer | confidence=95% threat=payload
+3a87b24c57f5a83bfadca1e83360618f89f8d53c1bfccb1a8c005547877feac2	ThreatFox	2026-07-04	family=py.venus_stealer | confidence=95% threat=payload
+1d66a458777f3fc06bc4f412cf7f80ec	ThreatFox	2026-07-04	family=py.venus_stealer | confidence=95% threat=payload
+9d4c5dc5e3e3fda1a041e655a539b8d6	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+8f718c4590f4b47e990071b4a139c08a8a130c35913106d3014360d87f18309f	ThreatFox	2026-07-04	family=py.venus_stealer | confidence=95% threat=payload
+222d979c43fe54adb1a7479982a3fa30	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+144cc3e02b7ef259abcb2d6eaf5f4f770630ad2c75dcfa48437df3b17f5094bf	ThreatFox	2026-07-04	family=win.wannacryptor | confidence=95% threat=payload
+bd950dd35df99a4cef5f7056f9338103	ThreatFox	2026-07-04	family=elf.krasue_rat | confidence=95% threat=payload
+24a86b9e58a4369e6c58d9b8185881a0a67987465ae18af1b7bbc7577cce724e	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+1ce5558cc258c2882174c3bba8de331ade2a393592d7bf90c3855131be550e72	ThreatFox	2026-07-04	family=elf.krasue_rat | confidence=95% threat=payload
+a2f9b36903b3f2bb82cff00b8b916db81dcf33a9764b9a94d429c92bc0120b1d	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+1e07711bb5efbdfcf3565f86fee55095	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+015ca6dc0327be60d7ee89b2c92fd1fb	ThreatFox	2026-07-04	family=py.venus_stealer | confidence=95% threat=payload
+daebfec55301e8ae10bbee72084c6f0b	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+c82df76eec8d28b99a294bc174433851aad21df208a7f27038bc3fd5af91db3a	ThreatFox	2026-07-04	family=py.venus_stealer | confidence=95% threat=payload
+51242d1f06d41c80ea8c6fa541be3d6e	ThreatFox	2026-07-04	family=win.maskgramstealer | confidence=95% threat=payload
+6c419d26fdf99bc352570d32094e9e78b06e5b3e3b5fb64989292593e58048b3	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+eb4c2dc7db21d6a8a889c74c7b90eaac0e095205063ae3e348a400e253c6bdd8	ThreatFox	2026-07-04	family=win.maskgramstealer | confidence=95% threat=payload
+95ebb02315da2e1b32a56df3613778de16ed4f0c55b6cb5d5e786de23cc45df8	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+acd8bb66be0920b8bfacaeb22d10ba31	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+094c4eb7f5480fb893aa6bb24d40b1b36534c0c85ea5e3f8c485146c45328ad6	ThreatFox	2026-07-04	family=py.venus_stealer | confidence=95% threat=payload
+125eacdebdfc926549fb90c2a655cafc	ThreatFox	2026-07-04	family=py.venus_stealer | confidence=95% threat=payload
+b7ec650df72dc36580fdf68d9ccbbbc4e91286c9389064570c9e61d6b1dd8bca	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+b8b049aa3105e673e702c73b3698ffb5	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+63737ab4e5b5310e0468b3707e749c53609e9962ed0e4a19ab1ce2a358dcd3a4	ThreatFox	2026-07-04	family=win.coinminer | confidence=95% threat=payload
+8de53e5218a9fb8e332209778920471c	ThreatFox	2026-07-04	family=win.coinminer | confidence=95% threat=payload
+4a47fe8302615af0e44cb9340b497562	ThreatFox	2026-07-04	family=win.tinymet | confidence=95% threat=payload
+a422649564f3069ed4fcd02f25796ca99ed25cdaa0192652a11688005182a3fe	ThreatFox	2026-07-04	family=win.tinymet | confidence=95% threat=payload
+d452e6814073eff62f07b56d290da680	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+4e42e7ab43f9d868b899961aff67c804	ThreatFox	2026-07-04	family=py.venus_stealer | confidence=95% threat=payload
+2603246549cd0da58081690c184ebac031b17d034552019089eedcbbfdf1db3a	ThreatFox	2026-07-04	family=win.vidar | confidence=95% threat=payload
+6bfcd5ae2d0c24563fe755a56b5c8bb0	ThreatFox	2026-07-04	family=win.ghost_rat | confidence=95% threat=payload
+8ee45671a9bfc0c4f45c228cdb8a0bbb70898303739a2b787a1ec47ecffb9805	ThreatFox	2026-07-04	family=py.venus_stealer | confidence=95% threat=payload
+bab942641669db23c43e76e650b83daf	ThreatFox	2026-07-04	family=win.valley_rat | confidence=95% threat=payload
+1a4b2bb9352969a3913db57f776dbaa48b03dfb96ce3addfa346e92687b8cf20	ThreatFox	2026-07-04	family=win.ghost_rat | confidence=95% threat=payload
+26c54b1a0cb5d8636966e6f27505035b2521c7733ee8827b21a9a76f934665e7	ThreatFox	2026-07-04	family=win.valley_rat | confidence=95% threat=payload
+02819d200d1424882af81cb504b3e8614b32397a	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+1405a3c5e0aeb08012484134e16cdec4ab29b4a4	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+17f8f8f34dfa737f36182fed7ff9e9814a114058	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+2423a5bf0fa7cb9ec09211630a5488629499691b	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+29f1d346a6e71774c7dad25b90f446b2974393df	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+42add9475e67a1ccc6a6af94b5475d3defc01b85	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+535f4337f261b6da20a3c614eb13270bed2d533a	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+5f1f3689bcf23de1b280b5f35712946da0f7978f	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+69331cfdac792dc79240e6a6bb6e803eabd70beb	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+76253fb55aed707440e808ea78e7101318436b1c	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+901cfa97b1baaf908fd4a02bb52d970f576c4193	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+954722b0c9c678b1313d1f8b204e102842dc5889	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+9803604ec45f31f9ef75bcca1e1310d8ac1fc3a6	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+ae4601a19d28332a3ec6ac31b385cdf53be53450	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+c2d9d48b3b10bd58cdf5df9463e3ffcd60533ff3	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+d2cb0d7a9ad2b5d4ea7c2da8aec62beb37cf36d6	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+dad26f61da7b8bccc78364411812be74c025b475	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+e05f1767c2a337910ed75e90288838d6d0541164	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+e815a9b418d09c2d4bcd074c2c0bc21406eeb22f	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273
+edce72f59e4c1d136cd1946af70d334c19df858d	OTX	2026-06-04	family=Argamal | pulse='Argamal: Malware hidden in hentai games' pulse_id=6a214338125edff8d16ab273

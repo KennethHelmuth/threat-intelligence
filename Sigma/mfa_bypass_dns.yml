@@ -1,0 +1,32 @@
+title: DNS Query to Mfa Bypass Domains
+id: 588d9e97-8b3c-493d-8974-4fa8fb5fd43b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Mfa Bypass.
+date: 2026-07-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cloud data theft
+    - credential phishing
+    - extortion
+    - helpdesk impersonation
+    - malware.mfa_bypass
+    - mfa bypass
+    - social engineering
+    - the com
+    - vishing
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'deploypasskey.com'
+        - 'passkeyadd.com'
+        - 'passkeydeploy.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

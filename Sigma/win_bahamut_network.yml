@@ -1,0 +1,26 @@
+title: Network Connection to Win.Bahamut Infrastructure
+id: e5e35cf2-83b6-4521-ba14-32dcbf9f2a43
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Bahamut.
+date: 2026-07-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Bahamut
+    - ViriBack
+    - malware.win.bahamut
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'www.dservices.space'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

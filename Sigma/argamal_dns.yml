@@ -1,0 +1,30 @@
+title: DNS Query to Argamal Domains
+id: 8a50188d-1167-4ffd-b30f-3d2d14465faf
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Argamal.
+date: 2026-07-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adult gaming
+    - argamal
+    - credential theft
+    - malware.argamal
+    - pixeldrain
+    - powershell
+    - termixia
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'asper1.freeddns.org'
+        - 'country1.ignorelist.com'
+        - 'winst0.kozow.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

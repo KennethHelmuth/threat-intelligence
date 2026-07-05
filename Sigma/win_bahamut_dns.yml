@@ -1,0 +1,24 @@
+title: DNS Query to Win.Bahamut Domains
+id: 7fd0b88b-cec4-4f36-8bdd-68fd3cdb0858
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Bahamut.
+date: 2026-07-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Bahamut
+    - ViriBack
+    - malware.win.bahamut
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'www.dservices.space'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
