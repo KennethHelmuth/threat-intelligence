@@ -1,0 +1,26 @@
+title: Network Connection to Win.Blacknet Rat Infrastructure
+id: 79b93df5-482d-41bc-b0ac-cce470e7696c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Blacknet Rat.
+date: 2026-07-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - BlackNET
+    - c2
+    - malware.win.blacknet_rat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'kalashnikovs-001-site1.jtempurl.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

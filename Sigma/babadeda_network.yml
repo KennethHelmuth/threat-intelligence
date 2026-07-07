@@ -1,0 +1,35 @@
+title: Network Connection to Babadeda Infrastructure
+id: 3ac20841-dc02-4298-92e8-762904466609
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Babadeda.
+date: 2026-07-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - BabaDeda
+    - ClickFix
+    - malware.babadeda
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'cirealci.com'
+        - 'humansbad2026.com'
+        DestinationIp|contains:
+        - '91.92.243.161'
+        - '158.94.208.104'
+        - '77.238.248.158'
+        - '89.124.81.216'
+        - '158.94.208.92'
+        - '94.26.83.190'
+        - '95.163.152.190'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

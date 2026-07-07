@@ -1,0 +1,43 @@
+rule babadeda
+{
+    meta:
+        description = "Auto-generated stub for babadeda based on 24 hashes"
+        author      = "ti-pipeline (auto-generated)"
+        date        = "2026-07-07"
+        version     = "1.0"
+        source      = "OTX"
+        family      = "babadeda"
+        hash_count  = "24"
+
+    strings:
+        // Hashes (SHA-256) – reference only; add byte-strings/imphash conditions below
+        // b2e581c85432bd4df6a59a00cbda1cb3
+        // 2efaac26a7e8c4efaaf643f19cb8b978
+        // 3c32116f5e98f5920c2d9f2b19755077
+        // bf43af6116053819ebd41ee1deb40f85446c774d
+        // c11d639851e27293cddac5eec891e909cc641821
+        // 0c0dc13805564d986b5eac6c5e8c90d336256fbb7f8a0c52180f1f5c690fe203
+        // 1e1d25391cf825d9607f652249e33cf1d2b98f260b587a1b1b33710e2ea6b91f
+        // 2afa7b6f825ae82c0121117b2966c57d825e7f1cfecaef36e638f66a08060db6
+        // 3b4208ec304b60ba9d0ca74838ad7031224a32c36d6e1fa7c616a5ecf5074a5b
+        // 3e881c9663db5c80a0093f4b0f7008aa1e73866c57aa672e53b38274df4c2807
+        // 425501b6428e19536be925b4a286f73ae94270bc23ac516832ea27ba6c875998
+        // 5c6144b1bb4c195a4dcd7ebac8c427852c7e15cb5b4f5217dda0cfb39a90062a
+        // 71f19394bf15ae47b668fcbe13d0fe4d46d8c06ce004eeccf82c8d1770bba558
+        // 7eb345c26a1b827e7b2ef5b7881cb406b04b056ebc36cc92e3f7643decd2671f
+        // 809d030d1fd65c909260b4b33bff9c99f775aea332d944ad1f64b4e5e81a6d60
+        // 91255813151e6fb3d2a45e088490214c110ff035bbd1ee01ff430782868c77b3
+        // 9677584602ae15bdd20d91b9a14768a17c126107739e3853d969ff4e02e10e71
+        // 9a736f4812b485f9cf5b1332a791b205b5135a4b3a0c41f473ad9cc9fbe2d75c
+        // a8a2148d6cf70d06a9c2ecded8b1a21f982cf11ffc9774442209f536a66a8630
+        // c92950568a2b757d4ee0bad84b33f5b3414f0d5fdf3d3f5b06e7d304a7ccf1a1
+        // d79a454beabcd59459c350c71598bffd6badb6a8905b0e9fa3c1ee22cbef7d7e
+        // dcd612f1d86ff5c9b43f1a3d0baea16b9c08e4b844bcd82564c720ee1caafe3c
+        // e38550a29e4ff48d8cd4df5ab34a88b9b28f23d50e66129c896689cd334849a9
+        // fa25acfac32c557f809ab544764d4348f31cf9909ad9d512883d6cba8369ba88
+
+    condition:
+        // TODO: replace with byte-level strings, pe.imphash(), or hash.sha256() checks
+        // Example: pe.imphash() == "aabbccdd..."
+        false  // stub – analyst must complete this rule
+}

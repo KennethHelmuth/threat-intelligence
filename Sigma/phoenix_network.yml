@@ -1,0 +1,57 @@
+title: Network Connection to Phoenix Infrastructure
+id: c3653ecb-9bcd-4de9-84b1-24242227a9ff
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Phoenix.
+date: 2026-07-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - balkans
+    - darcula
+    - government impersonation
+    - malware.phoenix
+    - payment card theft
+    - phaas
+    - phoenix
+    - serbia
+    - smishing
+    - traffic fines
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'entry.target'
+        - 'puteva.cc'
+        - 'putevi-srbbqfije.com'
+        - 'putevi-srbije.help'
+        - 'putevi-srbije.icu'
+        - 'putevi-srbijeaf.help'
+        - 'putevi-srbijeag.help'
+        - 'putevi-srbijeah.help'
+        - 'putevi-srbijeah.homes'
+        - 'putevi-srbijeba.homes'
+        - 'putevi-srbijebc.homes'
+        - 'putevi-srbijezt.homes'
+        - 'putevi-srbile.help'
+        - 'putevi-srbtrfije.com'
+        - 'putevie-srbije.help'
+        - 'putevii-srbije.help'
+        - 'putevis-srbbije.top'
+        - 'putevis-srbiiossje.top'
+        - 'putevismetc.cc'
+        - 'putevissdeoetc.top'
+        - 'putevisteetc.cc'
+        - 'putevs.cc'
+        - 'putevti-srbije.help'
+        - 'putevi-srbije.gbgwsq.homes'
+        - 'putevi-srbije.xkuckx.homes'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

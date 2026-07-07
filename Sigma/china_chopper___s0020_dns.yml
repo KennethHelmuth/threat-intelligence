@@ -1,0 +1,34 @@
+title: DNS Query to China Chopper - S0020 Domains
+id: bf8d6886-4914-4d9d-b33c-9ab6acfbdb6b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with China Chopper - S0020.
+date: 2026-07-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - antsword
+    - china chopper
+    - china-nexus
+    - gh0st rat
+    - ghost rat
+    - log poisoning
+    - malware.china_chopper___s0020
+    - nezha
+    - phpmyadmin
+    - web compromise
+    - web shell
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'gd.bj2.xyz'
+        - 'c.mid.al'
+        - 'host.404111.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

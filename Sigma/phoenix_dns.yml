@@ -1,0 +1,55 @@
+title: DNS Query to Phoenix Domains
+id: ced0dacb-661b-4bbd-a810-9aa5cc1823e6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Phoenix.
+date: 2026-07-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - balkans
+    - darcula
+    - government impersonation
+    - malware.phoenix
+    - payment card theft
+    - phaas
+    - phoenix
+    - serbia
+    - smishing
+    - traffic fines
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'entry.target'
+        - 'puteva.cc'
+        - 'putevi-srbbqfije.com'
+        - 'putevi-srbije.help'
+        - 'putevi-srbije.icu'
+        - 'putevi-srbijeaf.help'
+        - 'putevi-srbijeag.help'
+        - 'putevi-srbijeah.help'
+        - 'putevi-srbijeah.homes'
+        - 'putevi-srbijeba.homes'
+        - 'putevi-srbijebc.homes'
+        - 'putevi-srbijezt.homes'
+        - 'putevi-srbile.help'
+        - 'putevi-srbtrfije.com'
+        - 'putevie-srbije.help'
+        - 'putevii-srbije.help'
+        - 'putevis-srbbije.top'
+        - 'putevis-srbiiossje.top'
+        - 'putevismetc.cc'
+        - 'putevissdeoetc.top'
+        - 'putevisteetc.cc'
+        - 'putevs.cc'
+        - 'putevti-srbije.help'
+        - 'putevi-srbije.gbgwsq.homes'
+        - 'putevi-srbije.xkuckx.homes'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

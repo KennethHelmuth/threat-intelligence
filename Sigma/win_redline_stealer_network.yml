@@ -1,0 +1,25 @@
+title: Network Connection to Win.Redline Stealer Infrastructure
+id: acede4c3-561a-4aa7-b375-276e3b6c94ef
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Redline Stealer.
+date: 2026-07-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RedLineStealer
+    - malware.win.redline_stealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '194.156.79.16'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

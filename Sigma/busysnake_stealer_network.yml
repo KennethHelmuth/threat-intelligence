@@ -1,0 +1,48 @@
+title: Network Connection to Busysnake Stealer Infrastructure
+id: 75a2f1ca-ee00-4bf7-b4a7-59b7e9061613
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Busysnake Stealer.
+date: 2026-07-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aquilarat
+    - browser password extraction
+    - busysnake stealer
+    - credential theft
+    - electric power sector
+    - go2tunnel
+    - government targeting
+    - malware.busysnake_stealer
+    - pyarmor obfuscation
+    - reverse ssh tunnel
+    - spear-phishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'lvl99.store'
+        - 'arvax.xyz'
+        - 'grked.online'
+        - 'ndrt.ink'
+        - 'onetoken.ink'
+        - 'varenie.live'
+        - 'winupdate.ink'
+        - 'winupdate.live'
+        - 'myboard.chickenkiller.com'
+        - 'myboard.twilightparadox.com'
+        DestinationIp|contains:
+        - '159.198.41.140'
+        - '159.198.32.222'
+        - '159.198.75.219'
+        - '69.67.173.153'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

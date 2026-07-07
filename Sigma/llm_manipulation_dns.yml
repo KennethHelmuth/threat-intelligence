@@ -1,0 +1,40 @@
+title: DNS Query to Llm Manipulation Domains
+id: 077bc299-e573-4620-ad13-5676b968c42d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Llm Manipulation.
+date: 2026-07-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai agents
+    - cryptocurrency scam
+    - indirect prompt injection
+    - ipi
+    - llm manipulation
+    - malware.llm_manipulation
+    - payment fraud
+    - seo poisoning
+    - typosquatting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'runners-daily-blog.com'
+        - 'bistro-reserve-now.net'
+        - 'consensus-protocol-v4.org'
+        - 'debank.auction'
+        - 'digital-asset-mart.org'
+        - 'edge-compliance-node.org'
+        - 'identity-breach-response.org'
+        - 'market-insight-global.com'
+        - 'py-lib-repository.dev'
+        - 'visual-media-rights-group.org'
+        - 'permits.global-transit-authority.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

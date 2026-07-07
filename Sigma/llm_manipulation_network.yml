@@ -1,0 +1,42 @@
+title: Network Connection to Llm Manipulation Infrastructure
+id: c5a8f495-c91a-4ee7-91e8-ffff40c2b6f8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Llm Manipulation.
+date: 2026-07-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai agents
+    - cryptocurrency scam
+    - indirect prompt injection
+    - ipi
+    - llm manipulation
+    - malware.llm_manipulation
+    - payment fraud
+    - seo poisoning
+    - typosquatting
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'runners-daily-blog.com'
+        - 'bistro-reserve-now.net'
+        - 'consensus-protocol-v4.org'
+        - 'debank.auction'
+        - 'digital-asset-mart.org'
+        - 'edge-compliance-node.org'
+        - 'identity-breach-response.org'
+        - 'market-insight-global.com'
+        - 'py-lib-repository.dev'
+        - 'visual-media-rights-group.org'
+        - 'permits.global-transit-authority.org'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

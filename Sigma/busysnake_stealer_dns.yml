@@ -1,0 +1,41 @@
+title: DNS Query to Busysnake Stealer Domains
+id: 564a17f7-5d2d-4d1a-a93d-5a6077ab195e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Busysnake Stealer.
+date: 2026-07-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aquilarat
+    - browser password extraction
+    - busysnake stealer
+    - credential theft
+    - electric power sector
+    - go2tunnel
+    - government targeting
+    - malware.busysnake_stealer
+    - pyarmor obfuscation
+    - reverse ssh tunnel
+    - spear-phishing
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'lvl99.store'
+        - 'arvax.xyz'
+        - 'grked.online'
+        - 'ndrt.ink'
+        - 'onetoken.ink'
+        - 'varenie.live'
+        - 'winupdate.ink'
+        - 'winupdate.live'
+        - 'myboard.chickenkiller.com'
+        - 'myboard.twilightparadox.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

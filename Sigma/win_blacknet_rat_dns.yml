@@ -1,0 +1,24 @@
+title: DNS Query to Win.Blacknet Rat Domains
+id: 88efd514-c3b2-42c3-86ff-a0f67317a218
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Blacknet Rat.
+date: 2026-07-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - BlackNET
+    - c2
+    - malware.win.blacknet_rat
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'kalashnikovs-001-site1.jtempurl.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
