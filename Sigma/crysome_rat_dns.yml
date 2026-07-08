@@ -1,0 +1,30 @@
+title: DNS Query to Crysome Rat Domains
+id: cc08dd64-7354-4bf0-af98-741f8fa5ae18
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Crysome Rat.
+date: 2026-07-08
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - amsi bypass
+    - browser hijacking
+    - credential theft
+    - crysome rat
+    - living-off-the-land
+    - malware.crysome_rat
+    - spear-phishing
+    - uac bypass
+    - windefctl
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'signindat.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

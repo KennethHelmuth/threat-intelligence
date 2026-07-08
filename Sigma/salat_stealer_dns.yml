@@ -1,0 +1,30 @@
+title: DNS Query to Salat Stealer Domains
+id: ab66c42d-fa96-4cb4-8e91-168d48f5d63d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Salat Stealer.
+date: 2026-07-08
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - cryptocurrency wallets
+    - go language
+    - infostealer
+    - malware.salat_stealer
+    - salat stealer
+    - surveillance capabilities
+    - windows defender evasion
+    - xeno executor
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'xenoexecutor.in'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

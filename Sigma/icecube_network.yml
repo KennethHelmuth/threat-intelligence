@@ -1,0 +1,40 @@
+title: Network Connection to Icecube Infrastructure
+id: d3018feb-ff9c-4ef2-a315-45118ce5ccc3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Icecube.
+date: 2026-07-08
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - china-aligned
+    - cross-site scripting
+    - cve-2023-2868
+    - cve-2024-42009
+    - cve-2025-49113
+    - icecube
+    - icecube stealer
+    - malware.icecube
+    - roundcube exploitation
+    - snowlight
+    - squareshell
+    - squareshell webshell
+    - university targeting
+    - unk_masstraction
+    - vshell
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '45.86.229.111'
+        - '194.213.18.133'
+        - '45.150.109.151'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,27 @@
+title: Network Connection to Win.Crimson Infrastructure
+id: ece13125-0b18-44d4-af31-c6e29056360b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Crimson.
+date: 2026-07-08
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - APT36
+    - CrimsonRAT
+    - c2
+    - malware.win.crimson
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '180.131.145.13'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

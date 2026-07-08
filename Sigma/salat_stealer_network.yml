@@ -1,0 +1,32 @@
+title: Network Connection to Salat Stealer Infrastructure
+id: cd441ebf-1be7-4850-a9b2-739fe41ef2ec
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Salat Stealer.
+date: 2026-07-08
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - cryptocurrency wallets
+    - go language
+    - infostealer
+    - malware.salat_stealer
+    - salat stealer
+    - surveillance capabilities
+    - windows defender evasion
+    - xeno executor
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'xenoexecutor.in'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

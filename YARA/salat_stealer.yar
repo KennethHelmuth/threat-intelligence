@@ -1,0 +1,29 @@
+rule salat_stealer
+{
+    meta:
+        description = "Auto-generated stub for salat_stealer based on 10 hashes"
+        author      = "ti-pipeline (auto-generated)"
+        date        = "2026-07-08"
+        version     = "1.0"
+        source      = "OTX"
+        family      = "salat_stealer"
+        hash_count  = "10"
+
+    strings:
+        // Hashes (SHA-256) – reference only; add byte-strings/imphash conditions below
+        // 60118ba6124480d1c28b3d30f380aa64030418ba1774e8437f9cfae5ea191271
+        // 075b3caa3a754c23f929a1591c6b333c7da1080a5fdf8ea2a3497d1505b60dde
+        // 7376aaca33eab974ec527d44753d8016c1d305e2db935189a91a57b0ecbb3ccd
+        // d6c7ca66c4fef2bf7c62261f58f2f6ab
+        // 7e6f8597028e4dc2ff63ed330f989fe9dbca3093
+        // 347e3ef094831fd280628c711804603f695b020e365606174a6ba118ebf56cff
+        // 742be0bf09856460bc85f9674d6914c7
+        // 3711d405a68a926f73df57c886845a1c7928b778
+        // 7018dc48efdf1311d644225e3c9e5f8f6d49863dbaca315f16d25473f127978d
+        // fec793499d9df0458b611a71dda23b41ba1c28038a79924ab606937e26e77115
+
+    condition:
+        // TODO: replace with byte-level strings, pe.imphash(), or hash.sha256() checks
+        // Example: pe.imphash() == "aabbccdd..."
+        false  // stub – analyst must complete this rule
+}

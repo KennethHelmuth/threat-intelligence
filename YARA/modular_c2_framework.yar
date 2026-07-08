@@ -1,0 +1,37 @@
+rule modular_c2_framework
+{
+    meta:
+        description = "Auto-generated stub for modular_c2_framework based on 18 hashes"
+        author      = "ti-pipeline (auto-generated)"
+        date        = "2026-07-08"
+        version     = "1.0"
+        source      = "OTX"
+        family      = "modular_c2_framework"
+        hash_count  = "18"
+
+    strings:
+        // Hashes (SHA-256) – reference only; add byte-strings/imphash conditions below
+        // a9336884e006503bc821f3f0d36f141f
+        // d0bba7c040ecffd8cc31a62330a144eb
+        // 0f57a2bb4c0696170b73e2d35f17c5a6f2f910d7
+        // 843d2017c4ded1dbb694dd4bf20bcd9e92af92f6
+        // 0a3663648a46771a5a5423ad01e91a4e7ba825595e99fa934cb35cbb4848adc8
+        // 2cb1ad3b22db8e3666ea138fee88034a87a87cf43db3d3265a675ebf221379b0
+        // 30cb4679c4b8599eeb3d63a551716475c6332bdc4d4b4e3de0964aadb3092a10
+        // 37e123bd7998af4eae32718ce254776f36365a80ba56952593dab46f536d4066
+        // 5394d3b220de4695f731647e3a70545f951a8912ceb0c6585efab8d6842e8b42
+        // 541b1f417b9e42078c3355693a8a492b6a76048850f6549a429e0be99e6819cb
+        // 5dc08bda6919a57a85e5f38b857985fa71529ca39c8299868d5a49a987e19b18
+        // 7d586fb7f94182a8e2a0e53c7e4deb898066da029da5cd9972a94a59ca6d255a
+        // 8e9425c0b46eeb516610ae913d13f2b3f44a023043cb099277031d4ec38a6134
+        // 92cae0ad7f98f51a14bcc0ee05e372ebdc29ea96ea7bd161bd3f55198767603b
+        // a4aa217def4c38f4ecacdf47b1cd687f60cc74c18ab75195be3c4357a790bf41
+        // b630c96d3763182533d4fb9b614134382bd644cb02c6c1c3ade848b6ecc31e86
+        // cbc9485db715e1b8cc384fe94b4cceadca4006cda8a5e28adc8848529cfafc93
+        // ccf218189c3aadb1c761da14bfda3bae686769031e1e1b10007648bd72e34748
+
+    condition:
+        // TODO: replace with byte-level strings, pe.imphash(), or hash.sha256() checks
+        // Example: pe.imphash() == "aabbccdd..."
+        false  // stub – analyst must complete this rule
+}

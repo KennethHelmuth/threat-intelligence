@@ -1,0 +1,33 @@
+title: Network Connection to Win.Agent Tesla Infrastructure
+id: f644fda7-c206-4b9a-be8e-e98b9f0c74d1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Agent Tesla.
+date: 2026-07-08
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - AgentTesla
+    - malware.win.agent_tesla
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'ftp.orangesac.com'
+        - 'ftp.acellemez.hu'
+        - 'ftp.3dsportsgins.com'
+        - 'ftp.dankely.org'
+        - 'ftp.enogcaen-br.com'
+        - 'ftp.telewatte-pe.com'
+        - 'ftp.hivimer.com'
+        - 'ftp.avion.com.sg'
+        - 'ftp.vilimorin.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

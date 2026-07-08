@@ -1,0 +1,32 @@
+title: Network Connection to Crysome Rat Infrastructure
+id: 55ee9ab4-5691-4b5f-81a1-0387baa978ca
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Crysome Rat.
+date: 2026-07-08
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - amsi bypass
+    - browser hijacking
+    - credential theft
+    - crysome rat
+    - living-off-the-land
+    - malware.crysome_rat
+    - spear-phishing
+    - uac bypass
+    - windefctl
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'signindat.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

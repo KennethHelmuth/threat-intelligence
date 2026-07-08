@@ -4030,3 +4030,94 @@ f3570bb6e0f9c695d48f89f043380b43831dd0f6fe79b16eda2a3ffd9fd7ad16	OTX	2026-07-03	
 6f336f372c5a642b57413363265e7d7e	OTX	2026-07-03	family=China Chopper - S0020 | pulse='The Crown Prince, Nezha' pulse_id=6a4828eab61bec7567ac88b1
 89cb9c926e136c54011f3e0792b4a28c	OTX	2026-07-03	family=China Chopper - S0020 | pulse='The Crown Prince, Nezha' pulse_id=6a4828eab61bec7567ac88b1
 1c948822cb57763c1d343542ee4ade212d8f4fbb	OTX	2026-07-03	family=China Chopper - S0020 | pulse='The Crown Prince, Nezha' pulse_id=6a4828eab61bec7567ac88b1
+65a052908f79efc7878d6799fd3b7be1e30eba49fa05156d7e5239b2b9ddaf71	ThreatFox	2026-07-07	family=unknown | confidence=75% threat=payload | vt=2/73
+6c303e19f1337a7eacef23bdd882d97329bebc7aff0d42f0726d2c876e3cdea5	MalwareBazaar	2026-07-08	filetype=exe md5=490bcc9e85b3600ea2cea36151acf8d6 sha1=763f4398c2527fcb954ad8b794a4ae54ecacd0ab | vt=48/73
+6a83689b2dfdaed0f04d621d34b066aca3238d224575f961dc2448b8bfdd0658	MalwareBazaar	2026-07-08	filetype=exe md5=2f77eef5f24bf43c423e6336601130cb sha1=e3e268a96b118551d4b16634b3aa6dbc10561783 | vt=57/73
+90e72cb310525972af1e9d97cd837d48aaf87a429930b507f56befddff1ff713	MalwareBazaar	2026-07-08	filetype=sh md5=27c926823687337fe491a0578dcee3bf sha1=3c11433b0e5a3354dab55eea7b535074e3c11103 | vt=3/73
+87b25bb68d599cee8dcd11fee91b3b1a03c87eca0f460c6ed0962fc26239674c	MalwareBazaar	2026-07-08	filetype=sh md5=b2083bceb73991db1f2483a6fe14e5cc sha1=e8a42ec3282560b9baee22b5cb48149c7a75b3e8 | vt=16/73
+85752e86ea189634b042f5bb296f4fe0851a1a71ecd3a8228110740fff89f4bc	MalwareBazaar	2026-07-08	filetype=exe md5=c054e4ac40efec39798d76fcdfae45a2 sha1=8c80bf39118b8533ad972e370922dcebfd931c33 | vt=20/73
+f0fb6aa794861412977827099a4127f45d368885adf92b75904efb493a1eb5cb	ThreatFox	2026-07-08	family=py.venus_stealer | confidence=95% threat=payload
+2a8ce7e05836d21a6a31ca558ccd679f	ThreatFox	2026-07-08	family=py.venus_stealer | confidence=95% threat=payload
+26a1127f0bac441d6a94709ddfdb9c5b	ThreatFox	2026-07-08	family=win.asyncrat | confidence=95% threat=payload
+0d529740e9cc8a9c5abd9af0a915b8ce	ThreatFox	2026-07-08	family=win.njrat | confidence=95% threat=payload
+0625595cc9f373c417d09a8fadf6d62f4f678de169c80039c151e1db599e7747	ThreatFox	2026-07-08	family=win.asyncrat | confidence=95% threat=payload
+9167ebf77d442c08692aff65cdbc99d3	ThreatFox	2026-07-08	family=win.formbook | confidence=95% threat=payload
+ffa874d010db98be13b184074f4f857b151a6f22b95503899714804a24799620	ThreatFox	2026-07-08	family=win.njrat | confidence=95% threat=payload
+78617f90f7cdcbd54891c1db1ef15ccb	ThreatFox	2026-07-08	family=win.njrat | confidence=95% threat=payload
+047736a92aa5bbb3eb3f173d99effbd83e595e5d24064c2ac3a5b9fef5275ff2	ThreatFox	2026-07-08	family=win.formbook | confidence=95% threat=payload
+20d1adb10b96e85874d6dceab96918da	ThreatFox	2026-07-08	family=win.formbook | confidence=95% threat=payload
+307bf7df1df445947a15b7fc5374688b8b6940dd0f4584bae712b2b044c3372c	ThreatFox	2026-07-08	family=win.njrat | confidence=95% threat=payload
+55bc609cf12b4db41c6f2adcc6496769	ThreatFox	2026-07-08	family=win.formbook | confidence=95% threat=payload
+823b729ba0b96fd4d8c71db1e4a22fa0063eeca6cf6f711846b45f31af1f9ad4	ThreatFox	2026-07-08	family=win.formbook | confidence=95% threat=payload
+77ef3956571c199697945e44f76cd308	ThreatFox	2026-07-08	family=win.formbook | confidence=95% threat=payload
+9031505a66d8e83a7d04cbb1054a8988731505ffed4a973d9e36fe0d634f0cd4	ThreatFox	2026-07-08	family=win.formbook | confidence=95% threat=payload
+31c7a4892a28121cff9b4f98f97a507f	ThreatFox	2026-07-08	family=win.formbook | confidence=95% threat=payload
+bdc73b726aa57f248d2e79aed4e4130d6eb0a87b766bdb22b396911dc374105a	ThreatFox	2026-07-08	family=win.formbook | confidence=95% threat=payload
+1491af89583872f964267808da1128f6	ThreatFox	2026-07-08	family=win.formbook | confidence=95% threat=payload
+a742591f7154ecab659896004a6827f7be16bb8d536446cb12af8ca1e07500fa	ThreatFox	2026-07-08	family=win.formbook | confidence=95% threat=payload
+225117fe6244da7cdb75649909b78289	ThreatFox	2026-07-08	family=win.darktortilla | confidence=95% threat=payload
+17573c0499be1c915e2391300211f8a36cdb6c237c2042e8592c4e46f02986a0	ThreatFox	2026-07-08	family=win.formbook | confidence=95% threat=payload
+17c783bb84f17edb43a538f0dfbeb1e9	ThreatFox	2026-07-08	family=win.arkei_stealer | confidence=95% threat=payload
+78ffc2b5dd00a7bce12ea7bb87c97c94175b595e7ea2b35f9605f943a5dbcf3b	ThreatFox	2026-07-08	family=win.darktortilla | confidence=95% threat=payload
+ecb499448f45703e58fb73775ae80825	ThreatFox	2026-07-08	family=win.maskgramstealer | confidence=95% threat=payload
+79a00dc593777f03f4de27e234f44908a91d600766f34b40f59aa2100000dd09	ThreatFox	2026-07-08	family=win.arkei_stealer | confidence=95% threat=payload
+09765552f6adc879d572921e394723f0	ThreatFox	2026-07-08	family=win.maskgramstealer | confidence=95% threat=payload
+cb46e59ba30a58775e80a51f23232e30b35c7eb11f8c5eb20015c2404e68ce88	ThreatFox	2026-07-08	family=win.maskgramstealer | confidence=95% threat=payload
+eceee0d92a65b8b01f7bfb352e3ea087	ThreatFox	2026-07-08	family=py.stealler | confidence=95% threat=payload
+285af50a0e10e07d112f0abb8877a13cd20d29780690160d0040b5fc35a6cc71	ThreatFox	2026-07-08	family=win.maskgramstealer | confidence=95% threat=payload
+4153a9d749c374ad789884e9144dde8e	ThreatFox	2026-07-08	family=win.valley_rat | confidence=95% threat=payload
+dbccfce8d0ebc5ea70b601130d6453cb31db779c002149c9f2a3c6b0236fe8af	ThreatFox	2026-07-08	family=py.stealler | confidence=95% threat=payload
+32f90f34610520f8dbded26e5e7494c1	ThreatFox	2026-07-08	family=win.valley_rat | confidence=95% threat=payload
+dbb4d3b8bec4b2fbe8aee5c5b76ed750ab81ea346e18c31da77f04874b1017ab	ThreatFox	2026-07-08	family=win.valley_rat | confidence=95% threat=payload
+379717f664cc19a3f295a11e189dd386	ThreatFox	2026-07-08	family=jar.crossrat | confidence=95% threat=payload
+0fa2579031a74d6ac6477c036f2a53695ab92d907fd0220c48bba31dffa976da	ThreatFox	2026-07-08	family=win.valley_rat | confidence=95% threat=payload
+436d5a5d5c35f34cdb4f6be2c4ff30dc	ThreatFox	2026-07-08	family=jar.crossrat | confidence=95% threat=payload
+aa4d642727be33ecd94acb8a24e546aeed325f08367333bb8974f5e54d99e715	ThreatFox	2026-07-08	family=jar.crossrat | confidence=95% threat=payload
+ed1427c973e2c1fecdf2536e270fec2af98e31e229fbdae6664b0e23af321f9a	ThreatFox	2026-07-08	family=jar.crossrat | confidence=95% threat=payload
+d1487fa8c36489e6e46c950484855b52d4bd3e5a6e86b9caffc7e9a3168a60f4	ThreatFox	2026-07-07	family=elf.xmrig | confidence=75% threat=payload
+c8415587863d57e1cc4aa543ee9c0cb04ec486f031b49f2d7448631c4a5b29da	MalwareBazaar	2026-07-08	family=CoinMiner | filetype=exe md5=92b274e8cc85fe15f8ddf066725bcc69 sha1=4e0d350ebb2ab380db1b1fbf4d5f99a3d4559436
+e4897305c584eb9c2dee7fbf0cea9f454a2aadf83736edfa497b610d60e6aa3e	MalwareBazaar	2026-07-08	family=Mirai | filetype=elf md5=52aabad745746d348248cbe3059355f1 sha1=e59a9ae26fb769a6809d9c9da760465edca1ffab
+7433b8c9472586d713797a725388c7cad5c070311051a2355ce1f880d41f94f6	MalwareBazaar	2026-07-08	family=Mirai | filetype=elf md5=e0821c6c6fc42697e6ab4d1081c7e14c sha1=73b5b842092c01a4310958ff1d19d3f944145c2b
+3afefe3a97b3df9dffee6259161dd4e1c37a59f4726f68d9194921a631b1058b	MalwareBazaar	2026-07-08	family=Mirai | filetype=elf md5=7e531e28099ba33434b92f8698f7973d sha1=09cb3b96b11395ea767e78165ebeada5d961f52b
+0bfb8671ec522cc77656f514c3cff9034ef67f97a780672ade79804eccafe7a4	MalwareBazaar	2026-07-08	family=Mirai | filetype=elf md5=dd8a8c786bee729b89c4d54ca2ebf507 sha1=50dd7d65e44a69c16a4ba37489deab900e7b8a54
+02666285148eae0968f8e25b6c6de6ebe8827b8b15e25ef617635ad3b4e24007	MalwareBazaar	2026-07-08	family=Mirai | filetype=elf md5=04f65af5fbec750c21d7d33c84a178b4 sha1=19090434303b65e68428e75bd0ea6f6483910cf8
+53315d3131904093f56cffcccb235424aa53eb24ff814c68c6dece1a3744a2fe	MalwareBazaar	2026-07-08	family=Mirai | filetype=elf md5=ed872b0fe5df2c7175d2828e8495ca64 sha1=61c74d2c193ec487fcfc0d6a8290b6869f746fd7
+ff5dbdcf6d7ae5d97b6f3ef412df0b977ba4a844c45b30ca78c0eeb2653d69a8	OTX	2026-07-07	family=CrySome RAT | pulse='From Phishing to Persistence: A CrySome RAT Infection Chain Analysis' pulse_id=6a4d09e0fbf878666b3d5afd
+f8a3f28ecbd0b08ecab73ef571f16c3d0bd5e009	OTX	2026-07-07	family=CrySome RAT | pulse='From Phishing to Persistence: A CrySome RAT Infection Chain Analysis' pulse_id=6a4d09e0fbf878666b3d5afd
+2f4b5a0d98bc4e5616f2dd04337ae674	OTX	2026-07-07	family=CrySome RAT | pulse='From Phishing to Persistence: A CrySome RAT Infection Chain Analysis' pulse_id=6a4d09e0fbf878666b3d5afd
+ec68666e8f0a3b9870d7177bab684c8dcfb8ca0bc7c8c484a71b2b33ea4e26f4	OTX	2026-07-07	family=CrySome RAT | pulse='From Phishing to Persistence: A CrySome RAT Infection Chain Analysis' pulse_id=6a4d09e0fbf878666b3d5afd
+53f1da8a032115aa682749a114f4cfebcb5ef933400a89b4bbfa84f2057222ff	OTX	2026-07-07	family=CrySome RAT | pulse='From Phishing to Persistence: A CrySome RAT Infection Chain Analysis' pulse_id=6a4d09e0fbf878666b3d5afd
+ced4407f4ac7e43c1a3010a394d111d2ad1b50a2e95668b4e9cfe739235e67bd	OTX	2026-07-07	family=CrySome RAT | pulse='From Phishing to Persistence: A CrySome RAT Infection Chain Analysis' pulse_id=6a4d09e0fbf878666b3d5afd
+b7ca8fd9ebe0a76f16deea315fac7ee94dcb18e6ac2832b5c4cb562fbc6e0ed3	OTX	2026-07-07	family=CrySome RAT | pulse='From Phishing to Persistence: A CrySome RAT Infection Chain Analysis' pulse_id=6a4d09e0fbf878666b3d5afd
+c380268d493e0cba914ce2bc55faa1d7c050c599893c3196fee01fa745e6466a	OTX	2026-07-07	family=CrySome RAT | pulse='From Phishing to Persistence: A CrySome RAT Infection Chain Analysis' pulse_id=6a4d09e0fbf878666b3d5afd
+45a2228e44257169210cc5dc06e12a6c	OTX	2026-07-07	family=CrySome RAT | pulse='From Phishing to Persistence: A CrySome RAT Infection Chain Analysis' pulse_id=6a4d09e0fbf878666b3d5afd
+de2df0905ece1a1e7f0a70adf36c75deb06b4e4b	OTX	2026-07-07	family=CrySome RAT | pulse='From Phishing to Persistence: A CrySome RAT Infection Chain Analysis' pulse_id=6a4d09e0fbf878666b3d5afd
+a02f124c5ce4180bd130a62ee03262f399c33491de3aed36e0b15155ae4926c0	OTX	2026-07-07	family=IceCube | pulse='One Email Closer to the Edge: UNK_MassTraction & the Physics of Exploitation' pulse_id=6a4cc5e62f81e1c341eba563
+60118ba6124480d1c28b3d30f380aa64030418ba1774e8437f9cfae5ea191271	OTX	2026-07-06	family=Salat Stealer | pulse='Bundled to Steal: The Salat Stealer Campaign' pulse_id=6a4c3a7bc1e7623521754884
+075b3caa3a754c23f929a1591c6b333c7da1080a5fdf8ea2a3497d1505b60dde	OTX	2026-07-06	family=Salat Stealer | pulse='Bundled to Steal: The Salat Stealer Campaign' pulse_id=6a4c3a7bc1e7623521754884
+7376aaca33eab974ec527d44753d8016c1d305e2db935189a91a57b0ecbb3ccd	OTX	2026-07-06	family=Salat Stealer | pulse='Bundled to Steal: The Salat Stealer Campaign' pulse_id=6a4c3a7bc1e7623521754884
+d6c7ca66c4fef2bf7c62261f58f2f6ab	OTX	2026-07-06	family=Salat Stealer | pulse='Bundled to Steal: The Salat Stealer Campaign' pulse_id=6a4c3a7bc1e7623521754884
+7e6f8597028e4dc2ff63ed330f989fe9dbca3093	OTX	2026-07-06	family=Salat Stealer | pulse='Bundled to Steal: The Salat Stealer Campaign' pulse_id=6a4c3a7bc1e7623521754884
+347e3ef094831fd280628c711804603f695b020e365606174a6ba118ebf56cff	OTX	2026-07-06	family=Salat Stealer | pulse='Bundled to Steal: The Salat Stealer Campaign' pulse_id=6a4c3a7bc1e7623521754884
+742be0bf09856460bc85f9674d6914c7	OTX	2026-07-06	family=Salat Stealer | pulse='Bundled to Steal: The Salat Stealer Campaign' pulse_id=6a4c3a7bc1e7623521754884
+3711d405a68a926f73df57c886845a1c7928b778	OTX	2026-07-06	family=Salat Stealer | pulse='Bundled to Steal: The Salat Stealer Campaign' pulse_id=6a4c3a7bc1e7623521754884
+7018dc48efdf1311d644225e3c9e5f8f6d49863dbaca315f16d25473f127978d	OTX	2026-07-06	family=Salat Stealer | pulse='Bundled to Steal: The Salat Stealer Campaign' pulse_id=6a4c3a7bc1e7623521754884
+fec793499d9df0458b611a71dda23b41ba1c28038a79924ab606937e26e77115	OTX	2026-07-06	family=Salat Stealer | pulse='Bundled to Steal: The Salat Stealer Campaign' pulse_id=6a4c3a7bc1e7623521754884
+a9336884e006503bc821f3f0d36f141f	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+d0bba7c040ecffd8cc31a62330a144eb	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+0f57a2bb4c0696170b73e2d35f17c5a6f2f910d7	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+843d2017c4ded1dbb694dd4bf20bcd9e92af92f6	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+0a3663648a46771a5a5423ad01e91a4e7ba825595e99fa934cb35cbb4848adc8	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+2cb1ad3b22db8e3666ea138fee88034a87a87cf43db3d3265a675ebf221379b0	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+30cb4679c4b8599eeb3d63a551716475c6332bdc4d4b4e3de0964aadb3092a10	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+37e123bd7998af4eae32718ce254776f36365a80ba56952593dab46f536d4066	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+5394d3b220de4695f731647e3a70545f951a8912ceb0c6585efab8d6842e8b42	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+541b1f417b9e42078c3355693a8a492b6a76048850f6549a429e0be99e6819cb	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+5dc08bda6919a57a85e5f38b857985fa71529ca39c8299868d5a49a987e19b18	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+7d586fb7f94182a8e2a0e53c7e4deb898066da029da5cd9972a94a59ca6d255a	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+8e9425c0b46eeb516610ae913d13f2b3f44a023043cb099277031d4ec38a6134	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+92cae0ad7f98f51a14bcc0ee05e372ebdc29ea96ea7bd161bd3f55198767603b	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+a4aa217def4c38f4ecacdf47b1cd687f60cc74c18ab75195be3c4357a790bf41	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+b630c96d3763182533d4fb9b614134382bd644cb02c6c1c3ade848b6ecc31e86	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+cbc9485db715e1b8cc384fe94b4cceadca4006cda8a5e28adc8848529cfafc93	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+ccf218189c3aadb1c761da14bfda3bae686769031e1e1b10007648bd72e34748	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
