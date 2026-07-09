@@ -1,0 +1,65 @@
+title: DNS Query to Overlord Domains
+id: 1f42af27-3eb6-4f93-8f09-79b7046b7f43
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Overlord.
+date: 2026-07-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - cryptocurrency theft
+    - developer targeting
+    - flexibleferret
+    - github repositories
+    - invisible ferret
+    - malware.overlord
+    - north korea
+    - ottercookie
+    - overlord
+    - overlord framework
+    - unk_deaddrop
+    - visual studio code
+    - vsix extensions
+    - wallet exfiltration
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'alphanonega.org'
+        - 'asteara.org'
+        - 'careerpredictto.space'
+        - 'careerpulsynk.xyz'
+        - 'careertrixauvex.ink'
+        - 'ceronet.work'
+        - 'ceronetwork.org'
+        - 'connectptogether.ink'
+        - 'contactpredicttogether.ink'
+        - 'contactpulsynk.ink'
+        - 'contacttrixauvex.ink'
+        - 'coslyintra.online'
+        - 'cotrixauvex.ink'
+        - 'culyrax.us'
+        - 'deep-ai-guard.store'
+        - 'domatisc.ink'
+        - 'doxxela.ink'
+        - 'elsavora.us'
+        - 'empowerpharmacy.space'
+        - 'hyperdevpipline.org'
+        - 'mailpredicttogether.ink'
+        - 'mailpulsynk.xyz'
+        - 'mailtrixauvex.ink'
+        - 'migadyn.info'
+        - 'nemesis.work'
+        - 'nemesistrade.work'
+        - 'notifypulsynk.ink'
+        - 'nowurisch.fit'
+        - 'nxlog.tech'
+        - 'ondofinance.tech'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

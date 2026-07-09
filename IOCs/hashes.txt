@@ -4121,3 +4121,229 @@ a4aa217def4c38f4ecacdf47b1cd687f60cc74c18ab75195be3c4357a790bf41	OTX	2026-07-06	
 b630c96d3763182533d4fb9b614134382bd644cb02c6c1c3ade848b6ecc31e86	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
 cbc9485db715e1b8cc384fe94b4cceadca4006cda8a5e28adc8848529cfafc93	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
 ccf218189c3aadb1c761da14bfda3bae686769031e1e1b10007648bd72e34748	OTX	2026-07-06	family=modular c2 framework | pulse='Cavern Manticore: Exposing Iran-Linked Modular C2 Framework' pulse_id=6a4bb565cb9499639bf4125b
+e0d1e9dbfb7ee326cc6152ac810d7835cb1f2cd2031e3d8ba83e3777e18bd755	ThreatFox	2026-07-08	family=unknown | confidence=75% threat=payload | vt=8/73
+1ca17239f5bec17ef244fc55357c6d0560337d7cadd1bb61574ab010f14a8d14	ThreatFox	2026-07-08	family=unknown | confidence=100% threat=payload | vt=0/73
+830a22ea4eb2ebb8c60c7731fa5175d3a315d023a812aea40147326cc4c8a4dd	ThreatFox	2026-07-08	family=unknown | confidence=100% threat=payload | vt=12/73
+44133ca548dcd718f6e93db14a46697d5fe6b250a2cd071dbf27cc4b0e2739be	MalwareBazaar	2026-07-09	filetype=exe md5=dbfe5555acd72ab1c69774cff1633086 sha1=624e6902af3f5ca1b23ee7da781a59f32f695d41 | vt=20/73
+b0194c2c0f5d3779822b8ea3ec8ddb802b66b661079955809d7a397c19b70d32	MalwareBazaar	2026-07-09	filetype=exe md5=8751569e63b6eac4a2b21beb64f26227 sha1=16746f9848d4d4bbf0537465df853c7ca7c6c24d | vt=4/73
+8f708114c42c3ee145d51b0e698f787d249ca86345e5916ac554e750d6eac0c2	ThreatFox	2026-07-09	family=win.sliver | confidence=100% threat=payload
+d9228d6c7d4d2557202a251e3b7018788cdb7ac6f64440774d96b7fdc3d2bac3	ThreatFox	2026-07-09	family=win.sliver | confidence=100% threat=payload
+70bf89c7580c7195407735cc8fa8b48ab17741036ffcd85704d6d4b600d824c8	ThreatFox	2026-07-09	family=win.sliver | confidence=100% threat=payload
+15f446470be5c470e41b42b8d18f36c10cb6efbac3c69f1f7fd21a1496e4a7a6	ThreatFox	2026-07-09	family=elf.aisuru | confidence=75% threat=payload
+4ff468f704f266022358d80e61845af92dea230f66e1e2674776431c161e8c01	ThreatFox	2026-07-09	family=apk.kimwolf | confidence=75% threat=payload
+84e114db07c2fbe9225d08bc856ed52f	ThreatFox	2026-07-08	family=elf.kuiper | confidence=95% threat=payload
+16f2b00efb6012eddafdabaf21f7e7ff	ThreatFox	2026-07-08	family=elf.kuiper | confidence=95% threat=payload
+fdf03609a12b2535488e008293cd89d596f967af96d7763b880ee1ffd8702630	ThreatFox	2026-07-08	family=elf.kuiper | confidence=95% threat=payload
+7c0f9f1375d685ec9a30c2e1a5cf7817	ThreatFox	2026-07-08	family=win.netwire | confidence=95% threat=payload
+07e019e4309cd2d20874488411df839728fbda0b580c6f09a72c99f4d873f931	ThreatFox	2026-07-08	family=elf.kuiper | confidence=95% threat=payload
+b62119f0ae9ad41612f252dd703799d4	ThreatFox	2026-07-08	family=win.netwire | confidence=95% threat=payload
+60c730addd2a15e4213a1d37f55186686976de73a106317b5a258fe0121cfd5c	ThreatFox	2026-07-08	family=win.netwire | confidence=95% threat=payload
+57d20ed65870aa249ca374142d763d13	ThreatFox	2026-07-08	family=win.netwire | confidence=95% threat=payload
+dc8b056dd6eb75df21e9721ac2e340f91bb5e94d5a6ff412d7d0c7539e0f06e2	ThreatFox	2026-07-08	family=win.netwire | confidence=95% threat=payload
+75f68d369e48fba33a4d53d45f32a6c6	ThreatFox	2026-07-08	family=win.njrat | confidence=95% threat=payload
+433b61c29aefaa5b55fe78063e6ad8597d3835f36e1242d5402ab23e6dc61194	ThreatFox	2026-07-08	family=win.netwire | confidence=95% threat=payload
+6e9cd29d317d6f0251aba016f04ea281	ThreatFox	2026-07-08	family=win.agent_tesla | confidence=95% threat=payload
+3f434324ac709227290512410977bca99eb164fc86cae6f22cd4844eb9eb9130	ThreatFox	2026-07-08	family=win.njrat | confidence=95% threat=payload
+fe2226cdeb007a5b1f5aa13e042d9b11	ThreatFox	2026-07-08	family=win.stealc | confidence=95% threat=payload
+ec8642b8f9d76743c3d9b65f2496f41ba136ff4f1ccfbe4069d494e6a3e579f3	ThreatFox	2026-07-08	family=win.agent_tesla | confidence=95% threat=payload
+f5d8c56c2b66818eba0bacd35be33b2d2069ff3e28befe67dd4ca17b675b7b27	ThreatFox	2026-07-08	family=win.njrat | confidence=95% threat=payload
+97960cb546365a3a320fd26dac47d10e	ThreatFox	2026-07-08	family=win.njrat | confidence=95% threat=payload
+c4ce7dd05a3865b7d16a33adc9fa57d15a221abb83cb57fad43e947bc0a17eb1	ThreatFox	2026-07-08	family=win.stealc | confidence=95% threat=payload
+da483f0d56aabc55d45b170c4f605c97c722b3c2400cc6a5643a45f116121258	ThreatFox	2026-07-08	family=py.venus_stealer | confidence=95% threat=payload
+55b80c0bb297e1cdbd85530c30c6d723	ThreatFox	2026-07-08	family=py.venus_stealer | confidence=95% threat=payload
+06f915bc056a74c1c9b6faa3098a700ef4e5f54b8b1e84f73c70dcc6f5096949	ThreatFox	2026-07-08	family=win.arkei_stealer | confidence=95% threat=payload
+32ba76496cf54bf0c9302e6ddab64cd9	ThreatFox	2026-07-08	family=win.arkei_stealer | confidence=95% threat=payload
+86f77feba22ad9641d9464ac07c0fc4c2657f62cf02b85bdb50a192980265ebf	ThreatFox	2026-07-08	family=win.vidar | confidence=95% threat=payload
+c6da85645488cfbb1120310f837f7fc7	ThreatFox	2026-07-08	family=win.vidar | confidence=95% threat=payload
+5f319c7e83b8daa6836b8ae674c8e0e6	ThreatFox	2026-07-08	family=win.gentlemen | confidence=100% threat=payload
+6add66a89721e2b7d817ba0d0f0d660e	ThreatFox	2026-07-08	family=win.gentlemen | confidence=100% threat=payload
+55adc1b1cd21895765d8aff36d894382	ThreatFox	2026-07-08	family=win.gentlemen | confidence=100% threat=payload
+15ced19102f80a843c22480e362c8811	ThreatFox	2026-07-08	family=win.gentlemen | confidence=100% threat=payload
+50d6a53992cb7d6eb09bc71294e5a68f	ThreatFox	2026-07-08	family=win.gentlemen | confidence=100% threat=payload
+71f152d84b2928c6163724de1cb6fae3	ThreatFox	2026-07-08	family=win.gentlemen | confidence=100% threat=payload
+4a9837dd830f8db27380836ef3a6adec	ThreatFox	2026-07-08	family=win.gentlemen | confidence=100% threat=payload
+f3c6ca1ba97b7f94ab52584dc62ea691	ThreatFox	2026-07-08	family=win.gentlemen | confidence=100% threat=payload
+3f6e227fe444e7e6c33d765567d70ccff250db5ae0d88a033a6a87cff6423bd7	MalwareBazaar	2026-07-09	family=Mirai | filetype=elf md5=23d7d62aee0b7b9e1a7123073f89ed6b sha1=374724acec37c0293b54d2358ccf6dfb3c5e12a6
+2a8ea9f1ad8936fb302243faa64b91c5767df411923715cbdb1a869e3bfd7e6d	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+c0b73ff43312d442260328a8cefdf3b6	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+4528d5cf07bf0e1ac769b390236cab1bf34b938c	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+7200a9f1e1ea51b66ab9c9274e9d8f805633179634e8ff4dcb8ef82bc02518df	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+2af0a6135df3502a7f6de4d2de6db73b	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+b1c4a94df23638d70dae45f3193a64a6b036056d	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+3d371ef71e40c34a75c168d4647db096c2f386499d99a88d4e16b63cd4acda25	OTX	2026-06-08	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+a84375d4bd67c46d50fef7f7af31c7fb	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+526833a16669a85f0546809bfc35122e6f0bc17b	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+1c170b7470d507378ddb78e9d66305f1184e965baaf2d27ededb23a318a58953	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+2d9adb7932b7842dfb0e0f453b87e5d28dd4552094105e6340bad009956d8c2b	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+378809699c7252dc38b31969b9cc40858397759f15d6e418246dfaba9088fdd1	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+37b42a83715f7a34e00d3458d4f4b6e53b8c95372677ce020a2e38e80e60ba87	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+3c0330f9f934f86b6b70e108ff279a009b88a4a815acbed4adb3664e322e3e59	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+44f6f7ba668fc645129d66353e6f60402822ae929ce54648cae0bba6348a18ea	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+4e21c4c97aeb391473ee1e44961676f32de2ee8b56ecb136c1d8081df97c3db4	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+507b2fcdae058cebbd550965b90c44e878d7a2463058c846eeb68f0dc1b48eda	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+6083aac5376b7ca74cc363e0d66f70beaffee543d098c612b820b16fbfb0aa52	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+65c053030558b4a3588e2590c5c4961a9912180b731686deb3f4c831e765a095	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+718465f44c0680740fb61790eda3d2f4c5218c9de0c560299c580fa1602dc9c7	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+77963398e2c5c2fdf9d28d9c5f9c2791cfbf422ba02225e01635dd7f5b31eff8	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+7d3ba419751e5ea52b567e1162f6a366bf3d06c44c8956a9f14520e9fb6ed0b1	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+8150b2b39fa62fa2de177ed8526c621a3581c0eb481dd9740fc5894ce2b7c13b	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+82fda6ea769d61aba230c3487787087cec53dd378e22f22a8fb8f0bd5ae83ded	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+89d20418450b34efe698bd36214100cfa49f60adf1c39a8bc8d65991b1ce2c23	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+a717dd74c01fcfce35a28f374e1c6f9ded06d6f7b0cc04618ce9454ad64febb8	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+b01f31c9541579ad34f4e50acafec252eb419f5b1ca98155e0ec84c19d12c9e4	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+bf338d88f60c0d352cd0d1b5e4bc6a1d9f1ac8fe1df48516ec0042cafda821e9	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+ce78748acd8e9be741b143ad716d735dc682bd5a010427a199744b81456f8e35	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+d1d26b0f68e26ac591848796aeef7b9c766442bbff47af8823f9b23d1b588836	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+dc5082b07eb994ddee343a4080dce0a9ec2e891e5690654e24ae74ba9eabe422	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+e08dcb80346ded2bb2393a180e3f2612ed4c2ff0d3842390a5b527d003060212	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+e6bd725a2af981cd2b5c2217c1d7d906369d8daf48f02023fb73635f9e2b9659	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+e9d6938c9980cab735e8fb2eaa082ddc6f5dd7f2ff84d8ece01e8caaefdbb930	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+f668bd551859007cf2cc2a62bf0bf5414870a04e9782590c9bf85c849ddb308b	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+f9d2907d6b1de3078a0f111cc98764a92baf5ebd06cc8ab02637a65eff3b7f3a	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+6a48fbe91482b2f14ed977c110a3685c	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+f8817d46652594d745f28cb985b0000cf2669352	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+023c8f8e2a71da2044e3f04ac74c8b3616f417436476cea85222f01119615979	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+22b07d2af98bb180474c33d93861124bbdf9b5dd7e42a8bddc654310469a9a2c	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+276789b3b946753e9be482219bc4526da2da8772701f3b9d00c74038e2604ece	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+2a6ce2445c096fc5e577a0af513ba6f4fb8a8097764c7df81824a782e07e7f65	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+5d164b6d74dae9fe3022bc3cf453cd8b846e9cdc0cd616246fe620be88e3f1e5	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+68bafc624a4c0d11ef7a949c0077c704aa5ba0a3205fe5b62d29b727b46ccfe4	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+c2527a907b209bc4ce911e36b79781ec260f0851eeb466dbeb386d67fec11467	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
+008cd423ca45134d3343f66cced1d104	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+038cab0c60c53cf12f048272014024c0	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+06bed0a0906e52c764b3b7016d6a4428	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+08c069f133ac27cbc02a0ed79e4e87ba	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+09d0517a1f69feff8186655ae3b567e0	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+0b1870d57221eec6f3bbef648e71a724	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+0c32bfdf83ecebe3a1399d261dc8ff57	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+10824d14c814524155f2b529cf5fee43	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+129225b3e93c17f131bcc2a982ffb09a	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+1344e6bc51cea35befb4adff7a25899b	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+1742a9fa35e253614b76ac0f687ba02e	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+1c0924f5711a24821921de5ad822213b	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+1d09499cb2d7d70df903b60602a58887	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+1e1edf879b2dc6c9892a22bfa5985db1	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+1ff222457f5e0e32adfa8341f260dde7	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+242038139842ec79ec1044c64eb0804a	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+26100db3f56880110a92a2b4742d6eaf	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+2d5533fb65ebb50a5a5fd53e62d73b9a	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+2db94ee3ec69988588702bd77999a5d4	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+2f40bcee90abed0898e92521da17e52d	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+36b3be503c6e34613ff50cb28e0f3ddb	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+389a1bbdbf5c91bd1c179227f5ae0923	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+3a9b0875fc692944c180b165a83a0d17	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+3b974ff986445e5944c51179d19bd6be	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+3d9cbc944f9a9e127550ffb4e8394965	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+3ee38b944e5c83922f99641846f7db0c	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+4c8a0531653b5398a35c6b1b80ff1350	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+5398b7eaa94f0ee570b1c5642b559047	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+53ba13cc6066adfd67f8098c0a5b8dde	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+54a308f734095d54ae0e1c86c849a2d8	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+555a6722436d7cf7de396e0c57d32a27	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+56be07e46fd452315008ed246ebbf52b	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+56d1de3159adbfda20aca593c99901f9	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+579e8bbd6a5bcca89b5acd6fb5db32db	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+5e81f72614db42615489266be11b1d09	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+60f8b115aec8a13b0069efc84fc645f5	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+61647db645f7cc221046999ef1dbe1d1	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+62123c39477389d500e74e82782adea5	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+68e310de44c3165ffffa25bc495d6fc5	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+6cf548445c39aff844be96d73c89e376	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+6d365de5c5a13006b7cadd6bc6876e84	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+6dfef58ef68fb7965a23da8be3141af9	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+717ab7624c192f6f8dd38994116c28dc	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+76c819185e3c8b8557a2c3986ab80a7c	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+78250fa890220821e2b91e31b965de59	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+7d35b4961914ad83a57f8832d8e870d8	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+7da855b2fd9b52f9088e64d656164637	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+80e5bde401d6b0ca96015ae9cfeb6535	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+83f66862c0cc40da20236fd6b47138fd	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+841b7d3863b49f62d4faa9949ff5df38	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+84bb66a982710c5536143a07d84e8749	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+8db0adf8fd6dc6195d7ae55e37e49f97	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+911a21aa999c324dc960d3498eec528e	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+96dbdc2651d829bf9ba35674dd4bfcae	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+9810ea6752112b3569ddc096e1a72e1d	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+9f37fff7e5d22f83fc1c0872ad5332f9	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+a36082c998391a3ebaf05ba4f834172c	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+a3dba01c76571adc0797801ff30f2b90	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+b36968b98046d1b033d84f292e7ca1cb	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+bc0ebf67986eea803b4c9633ed3a4bb5	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+c12ebe625737ed0908b045e811f14ecd	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+cd0c5b9e4e47df4231d02ed87ff49f26	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+cf54f6cbdb4dbf1ce6fc2e5be4ca3b20	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+cf682a6fee80a78be578b1edd82627fa	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+d13997b1716e4c82ab454285202eafdc	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+d78adab5e16c26d4cd14fe38f77e29e6	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+dd8fea244afc8223b961f1d9d6ac8c5d	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+e14cc9a959bbe16c48b8dff063b311f3	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+e99efd77392e2b4fe4d9bf5728a12b98	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+ecb57d8793514aa02314417265b1853f	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+f2af797ac45b9f578c53cc49e5797397	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+f2dc794bf93887e281ad89209493065a	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+f88d2b5c3b885ad5a9c1c44551bccc60	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+fa04aeedc0d2f5bb6ed357fdae1c1435	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+fa3c222f6b53d6a2e35a54600f6aa011	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+fe04d230db612ea24af3826fda667131	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+4a2bc7c04c972689c24a475046d4ef045b893af1	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+42dccb7afdc883755eeec27a00fef532e1533d308ba376697b6270ffdbbc2d67	OTX	2026-06-08	family=BlackReaperRAT | pulse='Hacktivists are broadening their scope beyond political motivation' pulse_id=6a2699c629b0ddee8d84e7b6
+2812e0847d472cb8870c94f463331dbe53b84135132b9bf5f6d84c2382be628f	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+339907b44f161f57ff30819f422c552382ff437b3ae437463b4222cfe86bd943	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+35813f4401d3ad77b618275473a556eb47bfa6f4b7439dd8943b19f81aa7252e	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+4c0d9b802c075be79e9edb52d88f8dd72e6904f5c58267213745818470945c78	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+4f7a8c3d2e1b5f9071a6b2c8d4e3f50a92b1c7d6e8f4a30b5c2d9e1f7a6b8c4d	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+52886aab179f26421678ff23af1b0fabf0a17ffbb534369cdbbac8008cbed8e7	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+62761f38ed194c59abe15c49f09f0ebc431ac852c965180c9327ed84d3a454fb	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+6cf9f7b2aa456a0b438600588df869b38d8007e28f01fa96022f9d8059f120b0	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+734699773e53d995f20d485eb61261033d9d00b4332b39ca26071bcd60cd352f	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+808e7154b7af2bc7a4b28d577297c55f77221c355191cbe00f9f1810b6d4a619	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+91b9381d19b2e6a2db5cc0307167979b502731cb3fb50da684479e9ed35261aa	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+a2b9a769df84d9d3a4694bb0252a2c6a5e5f5d1a85a04565362737092bbb3a86	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+bb10adac5b0124efedfe71102c1d5638135ec9e1cde8c8cb3353c5ed91bb9f81	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+c935808147f0236c81483d7bbeda4b9d602f3595d5d4057f8115d39e222d1c4b	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+d3ebce2f05fe91a8260e87fd11a6ea17c156703d081b3f91d9bbe5fd6aeedc10	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+d5e9288693aa745dc89368deac677e7ea1ec81e663283af30838cdae189b7a7e	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+e1bf1b29e6fa3525d7f32f429290a88d6ea2890e61c06574b8ff6372aa5d0667	OTX	2026-06-08	family=Overlord | pulse='Don't Fear the Repo: UNK_DeadDrop Phishing Campaign Targets Developers to Steal Cryptocurrency' pulse_id=6a2693f169b076341f77f7b6
+42692bd13333623e9085d0c1326574a3391efcbf18158bb04972103c9ee4a3b8	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+b42159d68ba58d7857c091b5acc59e30e50a854b15f7ce04b61ff6c11cdf0156	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+123e80a34508c4dede7cc70e76931fcc	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+b1b7aaa5bd4408a4d3003a9fabcdd041	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+130fdc32de36a362e65c7138b560eb8d8f6ae599	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+b8eed63ab9cbdca494f26a6f66bfd4a0a693b3f0	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+2388ed7aee0b6b392778e8f9e98871c06499f476c9e7eae6ca0916f827fe65df	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+90b760ed1d0dcb3ef0f2b6d6195c9d852bcb65eca293578982a8c4b64f51b035	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+84b573305b732a8372a082c057242953	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+f1f64ed1ee74d3b84f338a612e59c81997d6f70e	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+aa688682d44f0c6b0ed7f30b981a609100107f2d414a3a6e5808671b112d1878	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+320a0b5d4900697e125cebb5ff03dee7368f8f087db1c1570b0b62f5a986d759	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+9c44bc9373377831c45dd0ac2661a28e	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+b439749a581ac5a29b5c9d91fc092bf4ceaa76a4	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+24a11a26a2586f4fba7bfe89df2e21a0809ad85069e442da98c37c4add369a0c	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+2654c08491a0f7c4a3dfc6282de5638b	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+4b8ab808442bf7cb084fddf983a558c2cd4b3ff2	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+625b6535321d58bb5c613e85332bf731	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+70686215a49afbae21c351e912940e50dbabadd6	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+45313a6745803a7f57ff35f5397fdf117eaec008a76417e6e2ac8a6280f7d830	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+92fb4ad6dee9362d0596fda7bbcfe1ba353f812ea801d1870e37bfc6376e624a	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+dfb37247d12351ef9708cb6631ce2d7017897503657c6b882a711c0da8a9a591	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+00e195d94d3b1f7092eb9ed132f89d1b	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+c392262fa86c390a20b998970639a51c	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+873f1277a42de5c82f869459e7fb7c94554a642b	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+dbe26539ed4701596371aa585520dd276d437398	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+e28a96f983b8605decd2ac1db16ebad5fa741a6aa4e585a38ade0e5ad7d6cec0	OTX	2026-06-05	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+40d264cf9c73923932c3dfd52d20f46ff602be3fea8dc6ecc71aca46e6067bf5	OTX	2026-06-05	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+e981fc4eaaa6417e6034e21438e55c0360773674a6fc0b63c1b95026449e5254	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+ee41e06ed96182ce80cd4544a6abd5d7719c4a5c0e5ddb266a83842d39b99b0a	OTX	2026-06-05	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+f06457d2be0840faac9f0a91e63e33f932bf82922b25ac8c046fab38bb1e0b36	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+f70abe93112637d3ec2f6c5e058ccac0307ebf63e496f38588cbfc17a8f8a264	OTX	2026-06-05	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+58d4eccc982c9e9b1b98aa62c514e53a	OTX	2026-06-05	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+84ad78b2bab946c3677fdc28ebd8a774	OTX	2026-06-05	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+95dc2289427ed29b8b996d0e3d1b78cb	OTX	2026-06-05	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+98ee964edeb5a988c3bba8ea1e57fe0e	OTX	2026-06-05	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+681075027553546c119ec447eb8df84633dcffce	OTX	2026-06-05	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+e952c18272efa1c3d73d0a5381bcf443c02743fe	OTX	2026-06-05	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+f4d77958a12a0778283d3e679b24b18f82e332c4	OTX	2026-06-05	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+f8d93c1769e877aae7e7d5c289a467b5ae371c7a	OTX	2026-06-05	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+eb141a43958802727a6c813452450c10b92704bea4474ee5fd87c0a1be326e2e	OTX	2026-06-05	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+4931441cae81aaefa80d65d7cce4e1ea	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f
+458653300b48c90a8659b9e9cadc13717bce42b6	OTX	2026-06-08	family=BRICKSTORM | pulse='VerdantBamboo: Just Another BRICKSTORM in the Firewall' pulse_id=6a2310765ec1df9836ee072f

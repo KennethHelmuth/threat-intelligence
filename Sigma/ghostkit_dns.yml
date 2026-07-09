@@ -1,0 +1,30 @@
+title: DNS Query to Ghostkit Domains
+id: d3f2a12a-bea9-42bc-b351-b81d3b0887b9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Ghostkit.
+date: 2026-07-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cobalt strike
+    - efspotato
+    - gamshen
+    - ghostkit
+    - malware.ghostkit
+    - meterpreter
+    - plugx
+    - timestomping
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'hcgos.com'
+        - 'ashx.lhlsjcb.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

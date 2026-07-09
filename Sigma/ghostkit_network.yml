@@ -1,0 +1,32 @@
+title: Network Connection to Ghostkit Infrastructure
+id: e39fc2e2-5935-43a5-898a-8ba845c26a27
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Ghostkit.
+date: 2026-07-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cobalt strike
+    - efspotato
+    - gamshen
+    - ghostkit
+    - malware.ghostkit
+    - meterpreter
+    - plugx
+    - timestomping
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'hcgos.com'
+        - 'ashx.lhlsjcb.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

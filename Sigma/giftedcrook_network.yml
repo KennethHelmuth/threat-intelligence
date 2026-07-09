@@ -1,0 +1,46 @@
+title: Network Connection to Giftedcrook Infrastructure
+id: f8747005-d659-4c47-9149-5d01890e39c9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Giftedcrook.
+date: 2026-07-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - cve-2025-8088
+    - gammasteel
+    - giftedcrook
+    - giftedcrook stealer
+    - hta infection chain
+    - information stealer
+    - malware.giftedcrook
+    - russia-aligned threats
+    - ukraine targeting
+    - winrar exploitation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'astrocaf.com'
+        - 'malicious.workers.dev'
+        - 'joymobile.com.ua'
+        DestinationIp|contains:
+        - '166.0.132.237'
+        - '38.225.209.229'
+        - '23.26.237.80'
+        - '136.0.141.138'
+        - '194.58.66.82'
+        - '136.0.141.112'
+        - '136.0.141.41'
+        - '38.225.209.122'
+        - '194.58.66.53'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

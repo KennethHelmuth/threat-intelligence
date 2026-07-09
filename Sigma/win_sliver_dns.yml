@@ -1,0 +1,26 @@
+title: DNS Query to Win.Sliver Domains
+id: fc723c39-2db8-45af-9dd5-1aba048395ef
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Sliver.
+date: 2026-07-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - feng-shui
+    - malware.win.sliver
+    - pan-os
+    - sliver
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'secpopper.world'
+        - 'catalapnews.today'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

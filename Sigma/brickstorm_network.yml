@@ -1,0 +1,38 @@
+title: Network Connection to Brickstorm Infrastructure
+id: a0c9d9bf-c3cc-4d48-9557-d54e3a4b234d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Brickstorm.
+date: 2026-07-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - brickstorm
+    - malware.brickstorm
+    - verdantbamboo
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'service.systemsvcs.com'
+        - 'winfoacacorp.com'
+        - 'performanceviewtools.com'
+        - 'fiveworkscorp.com'
+        - 'devs.calixcloudinfo.com'
+        - 'natsupport.net'
+        - 'barannclinic.com'
+        - 'bititer.org'
+        - 'calixcloudinfo.com'
+        - 'faoith.com'
+        - 'kitfloor.org'
+        - 'systemsvcs.com'
+        - 'www.natsupport.net'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

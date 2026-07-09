@@ -1,0 +1,34 @@
+title: DNS Query to Giftedcrook Domains
+id: 76f55399-8ada-4155-aca5-b5ffa9847062
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Giftedcrook.
+date: 2026-07-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - cve-2025-8088
+    - gammasteel
+    - giftedcrook
+    - giftedcrook stealer
+    - hta infection chain
+    - information stealer
+    - malware.giftedcrook
+    - russia-aligned threats
+    - ukraine targeting
+    - winrar exploitation
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'astrocaf.com'
+        - 'malicious.workers.dev'
+        - 'joymobile.com.ua'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
