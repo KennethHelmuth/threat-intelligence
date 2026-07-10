@@ -1,0 +1,23 @@
+title: DNS Query to Win.Count Loader Domains
+id: c51330e8-3cc0-441d-83b4-6ae5027e4716
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Count Loader.
+date: 2026-07-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - CountLoader
+    - malware.win.count_loader
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'twit-follow.vg'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

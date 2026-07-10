@@ -1,0 +1,31 @@
+title: DNS Query to Pypi Domains
+id: 73d6699a-8ef9-4894-a403-5ef1f2706383
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Pypi.
+date: 2026-07-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - malware.pypi
+    - multi-ecosystem
+    - ngrok
+    - npm
+    - payment sdk
+    - pypi
+    - sandbox evasion
+    - token exfiltration
+    - typosquatting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'caliber-spinner-finishing.ngrok-free.dev'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

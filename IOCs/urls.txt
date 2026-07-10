@@ -12149,3 +12149,25 @@ https://166.0.132.237:7044/rcv/	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old W
 https://38.225.209.229:9623/rcv/	OTX	2026-06-09	family=GIFTEDCROOK | pulse='Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open' pulse_id=6a2699c6a6badcc8eac21083
 http://140.206.161.227:443	OTX	2026-06-08	family=GhostKit | pulse='Agentic AI Uncovers New China-Linked Cluster OP-512' pulse_id=6a23107727fdc1e824252731
 http://43.160.202.246:8053	OTX	2026-06-08	family=GhostKit | pulse='Agentic AI Uncovers New China-Linked Cluster OP-512' pulse_id=6a23107727fdc1e824252731
+http://158.178.230.77:7443/3Jms	ThreatFox	2026-07-10	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+http://18.163.217.102/getinstall64	ThreatFox	2026-07-10	family=win.valley_rat | confidence=100% threat=botnet_cc
+http://wagosinga.ydns.eu:7045/is-ready	ThreatFox	2026-07-10	family=win.houdini | confidence=100% threat=botnet_cc
+http://62.234.54.51:443/ga.js	ThreatFox	2026-07-10	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+http://62.234.54.51:443/DCqe	ThreatFox	2026-07-10	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+https://tbs.omni-signage.com/	ThreatFox	2026-07-09	family=win.vidar | confidence=100% threat=botnet_cc
+https://tbs.kataksm188.top/	ThreatFox	2026-07-09	family=win.vidar | confidence=100% threat=botnet_cc
+https://littleforlot.com/nfront.php	ThreatFox	2026-07-09	family=win.satacom | confidence=100% threat=botnet_cc
+http://dikdiy.xyz:6504	ThreatFox	2026-07-09	family=win.remus | confidence=75% threat=botnet_cc
+http://cochru.xyz:5747	ThreatFox	2026-07-09	family=win.remus | confidence=75% threat=botnet_cc
+https://kev.omni-signage.com/	ThreatFox	2026-07-09	family=win.vidar | confidence=100% threat=botnet_cc
+https://kev.kataksm188.top/	ThreatFox	2026-07-09	family=win.vidar | confidence=100% threat=botnet_cc
+https://atv.omni-signage.com/	ThreatFox	2026-07-09	family=win.vidar | confidence=100% threat=botnet_cc
+https://atv.kataksm188.top/	ThreatFox	2026-07-09	family=win.vidar | confidence=100% threat=botnet_cc
+https://amazonalert.xyz/download/code.txt	OTX	2026-06-09	family=HarborWatch Agent | pulse='From Fake Amazon Security Alert to HarborWatch Agent: ClickFix Delivery of a Custom Monitoring RAT' pulse_id=6a28363f58453c0b99062360
+https://amazonattention.com/verify	OTX	2026-06-09	family=HarborWatch Agent | pulse='From Fake Amazon Security Alert to HarborWatch Agent: ClickFix Delivery of a Custom Monitoring RAT' pulse_id=6a28363f58453c0b99062360
+https://muckcoding.com/LG-LW/Api-Certificate	OTX	2026-07-09	family=AsyncRAT | pulse='Malicious Go Module Exposes GitHub Malware Lure Network Spanning 222 Repositories' pulse_id=6a4f5adbd8cb65e0d44c0d53
+https://rlim.com/MicrosoftCur/raw	OTX	2026-07-09	family=AsyncRAT | pulse='Malicious Go Module Exposes GitHub Malware Lure Network Spanning 222 Repositories' pulse_id=6a4f5adbd8cb65e0d44c0d53
+https://muckdeveloper.com/LGTV/MicrosoftCur	OTX	2026-07-09	family=AsyncRAT | pulse='Malicious Go Module Exposes GitHub Malware Lure Network Spanning 222 Repositories' pulse_id=6a4f5adbd8cb65e0d44c0d53
+http://muckcoding.com/LG-LW/Api-Certificate	OTX	2026-07-09	family=AsyncRAT | pulse='Malicious Go Module Exposes GitHub Malware Lure Network Spanning 222 Repositories' pulse_id=6a4f5adbd8cb65e0d44c0d53
+https://sw.run/Verification	OTX	2026-07-07	family=credential theft | pulse='Phishers Abuse Business Account Manager Service' pulse_id=6a4d09f2b48d42a59af0ffa3
+https://caliber-spinner-finishing.ngrok-free.dev:443/	OTX	2026-07-07	family=pypi | pulse='Coordinated npm and PyPI Campaign Typosquats Popular Secure Payment Apps' pulse_id=6a4d89817cfad2c0f464e67a

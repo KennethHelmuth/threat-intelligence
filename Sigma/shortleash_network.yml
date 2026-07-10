@@ -1,0 +1,41 @@
+title: Network Connection to Shortleash Infrastructure
+id: ed942b85-f181-4591-9a2d-18787b9cff55
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Shortleash.
+date: 2026-07-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - backdoor
+    - china-nexus
+    - cve-2020-22653
+    - cve-2020-22658
+    - cve-2023-25717
+    - cve-2025-2492
+    - dogleash
+    - jarleash
+    - leashtest
+    - longleash
+    - malware.shortleash
+    - orb networks
+    - ruckus routers
+    - shortleash
+    - uat-7810
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '95.182.100.231'
+        - '194.233.92.26'
+        - '217.15.160.247'
+        - '217.15.164.147'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,33 @@
+title: Network Connection to Pypi Infrastructure
+id: 27c048e3-abda-4216-8b5d-d6d21a4eb773
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Pypi.
+date: 2026-07-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - malware.pypi
+    - multi-ecosystem
+    - ngrok
+    - npm
+    - payment sdk
+    - pypi
+    - sandbox evasion
+    - token exfiltration
+    - typosquatting
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'caliber-spinner-finishing.ngrok-free.dev'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

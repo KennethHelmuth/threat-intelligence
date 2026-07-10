@@ -1,0 +1,25 @@
+title: Network Connection to Win.Count Loader Infrastructure
+id: ec31a774-0766-4a52-a028-5bd5de646788
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Count Loader.
+date: 2026-07-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - CountLoader
+    - malware.win.count_loader
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'twit-follow.vg'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

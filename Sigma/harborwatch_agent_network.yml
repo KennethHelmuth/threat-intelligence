@@ -1,0 +1,30 @@
+title: Network Connection to Harborwatch Agent Infrastructure
+id: be64b64e-7a05-4b3b-9faa-f9d396a6cb51
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Harborwatch Agent.
+date: 2026-07-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - fake captcha
+    - harbor sentinel
+    - malware.harborwatch_agent
+    - phishing campaign
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'amazonalert.xyz'
+        - 'amazonattention.com'
+        - 'security.amazonassist.xyz'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
