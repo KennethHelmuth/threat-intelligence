@@ -1,0 +1,33 @@
+title: Network Connection to Netsupport Manager Infrastructure
+id: 57535f42-abbf-4a07-bb17-7357b5c41e63
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Netsupport Manager.
+date: 2026-07-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - belarus
+    - chemical industry
+    - lnk file
+    - malware.netsupport_manager
+    - netsupport manager
+    - phishing campaign
+    - powershell loader
+    - russian targets
+    - url shortener
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'imhfamily.com'
+        - 'fleepsterones.fun'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

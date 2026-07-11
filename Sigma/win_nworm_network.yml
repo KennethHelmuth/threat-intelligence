@@ -1,0 +1,25 @@
+title: Network Connection to Win.Nworm Infrastructure
+id: a32a317b-335d-4cc1-821c-1c3999f991ee
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Nworm.
+date: 2026-07-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - N-W0rm
+    - malware.win.nworm
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '134.122.204.241'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

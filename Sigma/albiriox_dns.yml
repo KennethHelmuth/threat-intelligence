@@ -1,0 +1,31 @@
+title: DNS Query to Albiriox Domains
+id: f2c14184-fad8-4600-ac8f-2bb0bb828c91
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Albiriox.
+date: 2026-07-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - accessibility abuse
+    - albiriox
+    - android
+    - banking trojan
+    - brand impersonation
+    - italy
+    - malware.albiriox
+    - overlay attacks
+    - sms interception
+    - telegram delivery
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'unicredit-tme.shop'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

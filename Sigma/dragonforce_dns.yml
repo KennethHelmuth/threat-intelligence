@@ -1,0 +1,37 @@
+title: DNS Query to Dragonforce Domains
+id: 4d75625a-cf63-4e61-b450-e5daa5816a86
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Dragonforce.
+date: 2026-07-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - citrixbleed 2
+    - cve-2025-5777
+    - dragonforce
+    - impacket
+    - initial access broker
+    - malware.dragonforce
+    - mimikatz
+    - netscaler
+    - privilege escalation
+    - ransomware
+    - screenconnect
+    - session hijacking
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'doauthentication.do'
+        - 'vpts.us'
+        - 'opa.tlsd.shop'
+        - 'relay.dltsolutions.top'
+        - 'relay.eurofin.digital'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,33 @@
+title: DNS Query to Plugx - S0013 Domains
+id: 8e7e2583-8818-4a52-9930-4525606db632
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Plugx - S0013.
+date: 2026-07-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - asyncrat
+    - balochistan police
+    - china-nexus
+    - cobalt strike
+    - cyberespionage
+    - india-nexus
+    - law enforcement targeting
+    - malware.plugx___s0013
+    - pakistan
+    - plugx
+    - remcos
+    - shadowpad
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'cms.balochistanpolice.gov.pk'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

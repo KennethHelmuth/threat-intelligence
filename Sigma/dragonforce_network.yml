@@ -1,0 +1,39 @@
+title: Network Connection to Dragonforce Infrastructure
+id: e16f3179-dff9-4b45-8980-48cd6573d0af
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Dragonforce.
+date: 2026-07-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - citrixbleed 2
+    - cve-2025-5777
+    - dragonforce
+    - impacket
+    - initial access broker
+    - malware.dragonforce
+    - mimikatz
+    - netscaler
+    - privilege escalation
+    - ransomware
+    - screenconnect
+    - session hijacking
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'doauthentication.do'
+        - 'vpts.us'
+        - 'opa.tlsd.shop'
+        - 'relay.dltsolutions.top'
+        - 'relay.eurofin.digital'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,33 @@
+title: DNS Query to Redhook Domains
+id: 2d2b0920-253c-4da1-8a90-23d350ac4445
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Redhook.
+date: 2026-07-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adb wireless debugging
+    - android rat
+    - malware.redhook
+    - persistence mechanisms
+    - phishing
+    - privilege escalation
+    - redhook
+    - shizuku framework
+    - social engineering
+    - southeast asia
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'api.3n7wj.com'
+        - 'skt.3n7wj.com'
+        - 'sktv.3n7wj.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
