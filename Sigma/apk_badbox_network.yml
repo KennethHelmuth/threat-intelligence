@@ -1,0 +1,38 @@
+title: Network Connection to Apk.Badbox Infrastructure
+id: 065df394-760f-4b2d-ba98-e53a4a416eb2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Apk.Badbox.
+date: 2026-07-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.apk.badbox
+    - moyu
+    - tigertv
+    - zhima
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'a1.xmsae.sbs'
+        - 't1.xmsae.sbs'
+        - 'a1.xshaon123.sbs'
+        - 't1.xshaon123.sbs'
+        - 'a1.ishano456.sbs'
+        - 't1.ishano456.sbs'
+        DestinationIp|contains:
+        - '165.154.202.29'
+        - '144.217.243.201'
+        - '172.96.114.6'
+        - '98.98.71.19'
+        - '98.98.71.20'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

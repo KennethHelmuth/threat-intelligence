@@ -1,0 +1,28 @@
+title: DNS Query to Nightforge Domains
+id: 14f299db-f7db-4680-a9e3-d537f208925d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Nightforge.
+date: 2026-07-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - havoc demon
+    - kaynldr
+    - khmer shadow
+    - malware.nightforge
+    - nightforge
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'linkednewsapi.top'
+        - 'sharingfile.cloud'
+        - 'www.sharingfile.cloud'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

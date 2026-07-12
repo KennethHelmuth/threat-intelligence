@@ -1,0 +1,27 @@
+title: DNS Query to Sniperdz Domains
+id: cad42f72-f3d7-49b6-8584-cd62843bc2eb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Sniperdz.
+date: 2026-07-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser hijacking
+    - malware.sniperdz
+    - phishing-as-a-service
+    - sniperdz
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'aff.bnaosf1he.shop'
+        - 'win.anababayala.com'
+        - 'win.feezossl.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

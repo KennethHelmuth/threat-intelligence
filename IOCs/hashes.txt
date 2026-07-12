@@ -5010,3 +5010,89 @@ b29f91a440527fb621d106a2048f6379fff3263c60aeda9c82ff8c1d5ae880a8	OTX	2026-07-09	
 9fae3f15900e13ec3860a109555ecd33ca43d38907c63438c50a2d6d91bfee1d	OTX	2026-07-09	family=GodDamn | pulse='GodDamn Ransomware: Latest Beast Rebrand Uses Malicious Driver to Disable Defenses' pulse_id=6a4f99c77bfb2dde4f69e174
 e097f3b445b63b07afacde8d6a67f0be654dd51e228a3610fb0710a1f7e29a69	OTX	2026-07-09	family=GodDamn | pulse='GodDamn Ransomware: Latest Beast Rebrand Uses Malicious Driver to Disable Defenses' pulse_id=6a4f99c77bfb2dde4f69e174
 ece33e4b7e2d26eeca8ad9db4439f9801a7a77e332611116156738b1b0316046	OTX	2026-07-09	family=GodDamn | pulse='GodDamn Ransomware: Latest Beast Rebrand Uses Malicious Driver to Disable Defenses' pulse_id=6a4f99c77bfb2dde4f69e174
+5ac877f1702cfb39fdc4b8c4650fb4cffabfcff00757ea40c7860e6eae6f84d6	MalwareBazaar	2026-07-12	filetype=exe md5=da5b9ae440090b076b7cea6b35d6fd5b sha1=9a96f88a43bae446faacb26faf28477efcf93fbe
+f203c98a908119c7bbd8f4be45a8ca429e1cedce7c971d59b1d432bbdb4595b0	MalwareBazaar	2026-07-12	filetype=sh md5=17c0ccbb94b1a3fba9048def3efa927f sha1=d8f7dc0dbccbd2af4d281df423fdc2f8275e50f8 | vt=15/74
+9679b99144febbed9aae1222361e08578897e83d9b5d12024850a8aa57a011a8	MalwareBazaar	2026-07-12	filetype=sh md5=4cae732539ab3103bbdf3bdcb3638e70 sha1=b1936c1cfbffb262e761f71edf4a4244720637ef | vt=13/74
+01c727469c703060764c88239e7a02fbc9582ba31a3a4a44c958958521bcad58	MalwareBazaar	2026-07-12	filetype=sh md5=efb1721958b04808ca280ccbb541acab sha1=b324bce98608c9dabf5fa206fa6fba4978387c33 | vt=6/74
+766d88722c18c4722e1b3a28281133b0c88082a5f3b58d4c58391879ed20a643	MalwareBazaar	2026-07-12	filetype=exe md5=4e34490ccfb4ee2b193eb197b273b202 sha1=de31fee2c26ecadfbf65cf5200b7b272089e220f | vt=8/74
+5BEA5AF5215089D97749D438351D7288310D0B8A472616EDBE1B34168AD1001C	ThreatFox	2026-07-11	family=win.latrodectus | confidence=75% threat=payload
+78d584e29cf2af465baa137c03d6644a8d8c269716349b03eddde76f3b9c88a0	MalwareBazaar	2026-07-12	family=Mirai | filetype=elf md5=0603f6162bc0970c925752f9c7d338a6 sha1=1e7f5d2ccc76208f117a834213c118bd05efdb77
+80f66f2a896623bf068089121aba8be0104f1ad71f0c3b503f6775b57705c858	MalwareBazaar	2026-07-12	family=Mirai | filetype=elf md5=38f7048e3c632fd7dc38bfee214eca7f sha1=9e9601e41b8259f2b823d715c0705310d781190d
+66d7509a1d19c4f6a25b5aec9f432e8423b3b123b6359b4d5be2cc52385b3842	MalwareBazaar	2026-07-12	family=Mirai | filetype=elf md5=a1c5ee42de2466c1db34b90bb0486ce0 sha1=8422c0d2720dd3609d4c5f2ce35260d0e74df5f4
+19fca0c2200f6443cd0bcb954503a677eaef23bb5edf3025690e768d67255f3d	MalwareBazaar	2026-07-12	family=Mirai | filetype=elf md5=4768f2aa106a18a13ded44b3b19b6dc0 sha1=5b64e10fac9b776909f0a2f4063721404eea8621
+24c1f320e51df5849f6b1dffe253a72558117e911c2ba210ec085cd15ec42ca1	MalwareBazaar	2026-07-12	family=Mirai | filetype=elf md5=e4bdb4d95851223de861274eadce1f8d sha1=11d69ab1e083b8a9331cb99c190aa5ae66b3d76b
+a77c058ead923018c2aaf9266e7d2ee57a40f97de14a52282930dcac96f9cec0	MalwareBazaar	2026-07-12	family=Mirai | filetype=elf md5=6d90bb5cc519bf7937952b40c45f2306 sha1=2c37bd39a6a7a05299810824b815c5896291a578
+b8445de08b5f8dc796f0e20a3df7ef4ff1e3c17c8241367e067a93b44541f469	MalwareBazaar	2026-07-12	family=Mirai | filetype=elf md5=06c8a05632b2ede63ce321d123069d71 sha1=b6e8e672f072710fc29c92355a694e40ce66a83b
+01dd3eeddc0ff280ab0ae9272d20a807c80f10afe4b1394fa68e427a87cebadd	MalwareBazaar	2026-07-12	family=Mirai | filetype=elf md5=b2e57ceb077251f9db228ad6de4aef57 sha1=42655ff9c03f6ab8531c5f5913c7bcdd6c429cab
+42dbebaa947798c63208f77fc2bf81ba4749dbf8c423cd30663e4fc95d46c32d	MalwareBazaar	2026-07-12	family=Mirai | filetype=elf md5=846f6f750d925c98614e83b206203cc1 sha1=831e176df466c896015aafd42ca4ecf58861d656
+795896a03556795d8c69818b26b5779f2e949c29b0f67d037e78be3da7765326	MalwareBazaar	2026-07-12	family=Mirai | filetype=elf md5=adb7997d0a288c3ae6454ee7223c7c0c sha1=f4dde76732f54cfd162975f70da4b1b376ea107d
+b2c0cae650ddf10b0d3be03931adb4f7ade22e061b71e6728205f8a11b02f5a5	MalwareBazaar	2026-07-12	family=Mirai | filetype=elf md5=170e626f9c595f98c42d3ea81f78a587 sha1=a1e2a3641cc5dcdbd443f02c879bada1057c1541
+f4f3d6cfb309115d5ac33dbdd5a850e97cf542be479f2bdfe87bbc68af86df27	MalwareBazaar	2026-07-12	family=Mirai | filetype=elf md5=79190736e65e2cd1a001359854fbf04c sha1=5049abcc9f1efbad498ef4cc656fda764e149a53
+a92ba723f321aa6a37d07ed61538f259c859e63cf4768a07e253361800e48758	MalwareBazaar	2026-07-12	family=Mirai | filetype=elf md5=313d2bbe173988f47fc4ec6477323dfe sha1=80577cd959e65f39893155b657df24a9eb8b06bf
+50302d86e61e5e6cea8e71c74a4a3284334de374e41f6075485be16c7e45bc6e	MalwareBazaar	2026-07-12	family=Mirai | filetype=elf md5=ebe8a3c3ff031c6f38f1aee6b11f4fc8 sha1=2e6fc88bcd6777b803769e458f8b037898bcac49
+1a200226e352bb22c9009bebcbaaabc755a3d56d03ba97152a7c6277c09ef8ff	MalwareBazaar	2026-07-12	family=Mirai | filetype=elf md5=d6e4a17d0c32cf7b94e351d4aaccb993 sha1=a5d4a4fc5263d06566a6745865bf1967ec1ea357
+032ef58b7978d079287874044dc516af624ae5f5	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+202fb56edb2fb542e05c845d62ffbdcfbebed9ec	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+2a387d7d47a63d6e47d9cc92d3dc69a53816c2c0	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+7105caa6d4fd8a2c67523d385277528e556ae4f6	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+82e579bd49d69845133c9aa8585f8bd26736437b	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+a40ee8ff313e59aa92d48592c494a4c3d81449af	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+c2eb1033bc01ab0fd732a7ba4967be02c0690bf0	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+d35695f2366a43628231e73ffa83ca106306a8fa	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+f96bcd875836da89800912de1e557891697c7cf4	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+fdcb35cd9cb8dc1474cbcdf1c9bb03200dcf3f18	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+fe0161fb8a26a0bf4afad746c7ebf89499dcd3a7	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+e2d949cf06842b5f7ae6b2dffaa49771a93a00d9	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+9df3f0d8525edf2b88c4a150134c7699a85a1508	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+bb060e5e7f7e946613a3497d58fbf026ae7c369a	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+d1357b284c951470066aaa7a8228190b88a5c7c3	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+3dfc3d81572e16ceaae3d07922255eb88068b91d	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+49dff13500116b6c085c5ce3de3c233c28669678	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+8b991d4f2c108fd572c9c2059685fc574591e0be	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+1eda0de280713470878c399d3fb6c331ba0fadd0bd9802ed98ae06218a17f3f7	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+8b824be52de7a8723124bad5a45664c574d6e905f300c35719f1e6988887bd62	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+2194271c7991d60ae82436129d7f25c0a689050a	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+996d0ac930d2cdb16ef96edc27d9d1afc2d89ca8	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+377fdc842d4a721a103c32ce8cb4daf50b49f303	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+cc918f0da51794f0174437d336e6f3edfdd3cbe4	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+50a755b30e8f3646f9476080f2c3ae1347f8f556	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+ac10f5b1d5ecab22b7b418d6e98fa18e32bbdeab	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+b998f1b92ed6246ded13b79d069aa91c35637dec	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+cd13210a142da4bc02da47455eb2cfe13f35804a	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+b744878e150a2c254c867bad610778852c66d50a	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+83d520e8c3fdaefb5c8b180187b45c65590db21a	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+77c42f66dadf5b579f6bcd0771030adc7aefa97c	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+b4e6ddcd78884f64825fdf4710b35cdbeaabe8e2	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+bd39591a02b4e403a25aae502648264308085ded	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+efac23b0e6395b1178bcf7086f72344b24c04dcc	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+7642f2181cb189965c596964d2edf8fe50da742b	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+e615632c9998e4d3e5acd8851864ed09b02c77d2	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+9b66c815bd292244d337bd6ced3c16c2	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+fd2c2f1bf90592604febf404e5579f89	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+150764a71deef498de6f8c95ecccb4455c1b601f	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+19a69f856efa811c376f68e4feb0997b4724f8bd	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+48febb91a10d1462461a012fafc0918bb028e947	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+490194e9bb5128eca8693ad9e610891c2ed185af	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+4ad36ad6c165b5174967020cb1a3358f78d7a283	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+51176139b0b2220b802c1578a4994df68df5bcd1	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+511b77459673ec42163f19e300ff1d233b6c39fb	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+57352b3ceee32216e5aa20baa848483d7ab5a6fb	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+59a8553a4f8130f576ab234e0b220be4d4da0e98	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+865a1739337d3303b3ab02c5e694c22b79c42b7d	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+91f042f59be4bdcb6e5ea21b91decd731c175b54	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+9bc06df9f932746a05ee728c8b103bd3ba6bf395	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+9ca1a5c7f79882db913534c1e62b26bcdcb9f6dd	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+a177ed0bffeb1efe1d9d31d72a82ef2625ae646d	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+a8e2bbbfcb86500322d2367744fa12755ab0c165	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+b0fea981d02f6f76de81ebaefcb68b7d205d6194	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+b7b2d2db544f9eea74453cdf2b8beea58cf07c48	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+f74f1feb62b662cda489fdb2453727824e55acb9	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+f8f8209987ca7f139de6a62f9e6ee21bd2ae93a9	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+2bfaf9773b7fac658ab439b9b763a92e144e5388301ca03021ef56501be3036a	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+eb52d1791fc861e459ee14f15ef8d4819a4afde3ac7ce5e8cebdcd5f7840925f	OTX	2026-06-11	family=SPECTRALVIPER | pulse='From external espionage to domestic targeting' pulse_id=6a2ac312c98386d398eab284
+03e7a4065df354a99add76e8ba7dd37b	OTX	2026-06-11	family=NIGHTFORGE | pulse='Targeted espionage against Cambodian government entities' pulse_id=6a2aa0fe417d1a6f2b89eec1
+04e7a98fb3b7738cca42557c3e2d9906d04fa2f6	OTX	2026-06-11	family=NIGHTFORGE | pulse='Targeted espionage against Cambodian government entities' pulse_id=6a2aa0fe417d1a6f2b89eec1
+15278c52f4e0d8b5bbfe288a5e826ab2ebeaedb7fb85572940cf1263e384761f	OTX	2026-06-11	family=NIGHTFORGE | pulse='Targeted espionage against Cambodian government entities' pulse_id=6a2aa0fe417d1a6f2b89eec1
+1852120a84a328edd1995e633dfd2009867898a8e3f0b385e2490cf21c77a994	OTX	2026-06-11	family=NIGHTFORGE | pulse='Targeted espionage against Cambodian government entities' pulse_id=6a2aa0fe417d1a6f2b89eec1
+90bbfa9e7af176b85d110f4f1789cae6777fcb60813b047133c8f12caa344a17	OTX	2026-06-11	family=NIGHTFORGE | pulse='Targeted espionage against Cambodian government entities' pulse_id=6a2aa0fe417d1a6f2b89eec1
+b3e853eee14fb7948c6907888ee07139085ba9af4231c30e97ff6236b86ca024	OTX	2026-06-11	family=NIGHTFORGE | pulse='Targeted espionage against Cambodian government entities' pulse_id=6a2aa0fe417d1a6f2b89eec1

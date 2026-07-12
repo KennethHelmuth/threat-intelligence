@@ -1,0 +1,27 @@
+title: DNS Query to Win.Latrodectus Domains
+id: b6a27c18-eb85-499b-83c3-25a7d4c9e28b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Latrodectus.
+date: 2026-07-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 7za-exe
+    - Latrodectus
+    - c2
+    - config-file
+    - malware.win.latrodectus
+    - stage2
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'bewsertinekk.info'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

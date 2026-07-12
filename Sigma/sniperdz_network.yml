@@ -1,0 +1,29 @@
+title: Network Connection to Sniperdz Infrastructure
+id: dca65433-fec3-4e93-8e96-53f498267aa8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Sniperdz.
+date: 2026-07-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser hijacking
+    - malware.sniperdz
+    - phishing-as-a-service
+    - sniperdz
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'aff.bnaosf1he.shop'
+        - 'win.anababayala.com'
+        - 'win.feezossl.xyz'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

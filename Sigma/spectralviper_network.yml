@@ -1,0 +1,59 @@
+title: Network Connection to Spectralviper Infrastructure
+id: cc649268-bc68-4f04-a060-bfd4c415d772
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Spectralviper.
+date: 2026-07-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - apt32
+    - fireant metakit
+    - malware.spectralviper
+    - phoreal
+    - soundbite
+    - stock investors
+    - supply-chain attack
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'cnrp7.org'
+        - 'nguoitieudung.com.vn'
+        - 'anessallie.com'
+        - 'arkoimmerma.com'
+        - 'carosseda.com'
+        - 'eighrimeau.com'
+        - 'hieryells.com'
+        - 'tefanortin.com'
+        - 'adineohler.com'
+        - 'aisicoin.com'
+        - 'alicervois.com'
+        - 'antenham.com'
+        - 'arinaurna.com'
+        - 'aulolloy.com'
+        - 'avidilleneu.com'
+        - 'avidsontre.com'
+        - 'aximilian.com'
+        - 'biasatts.com'
+        - 'braydenhateaub.com'
+        - 'chascloud.com'
+        - 'dreyoddu.com'
+        - 'dwarduong.com'
+        - 'eckenbaue.com'
+        - 'errellawle.com'
+        - 'erstin.com'
+        - 'frahreiner.com'
+        - 'hristophe.com'
+        - 'ichardt.com'
+        - 'icmannaws.com'
+        - 'iecopeland.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

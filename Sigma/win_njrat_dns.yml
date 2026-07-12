@@ -1,0 +1,24 @@
+title: DNS Query to Win.Njrat Domains
+id: 49b32e25-2e6c-4887-a8b6-b826fbe2312f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Njrat.
+date: 2026-07-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RAT
+    - malware.win.njrat
+    - njrat
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'indigo2forjoy.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
