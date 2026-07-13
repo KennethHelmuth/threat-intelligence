@@ -1,0 +1,45 @@
+title: DNS Query to Apk.Triada Domains
+id: ebc7eedc-5dca-4046-8678-26184c4f5463
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Apk.Triada.
+date: 2026-07-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - AlexMods
+    - Android
+    - GBWhatsApp
+    - OBWhatsApp
+    - Tencent
+    - Triada
+    - apk
+    - malware.apk.triada
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'file.pushclick.online'
+        - 'c.whatsplusdownload.com'
+        - 'c.obwhatsappdownload.com'
+        - 'server.fbsecurity.net'
+        - 'rpif.ad-tracker.network'
+        - 'app.pushonline.online'
+        - 'app.whatsplusdownload.com'
+        - 'app.obwhatsappdownload.com'
+        - 'c.pushonline.online'
+        - 'dubai.thelayzf.fyi'
+        - 'gbw.cmpc.fun'
+        - 'p.thelayzf.fyi'
+        - 'q.thelayzf.fyi'
+        - 'h5.webser.site'
+        - 'c.whatsplus.online'
+        - 'app.gbwhat.pro'
+        - 'app.whatsplus.online'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

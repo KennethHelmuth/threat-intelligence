@@ -1,0 +1,53 @@
+title: Network Connection to Apk.Triada Infrastructure
+id: 6871cf42-6c6c-456d-9562-8f2dc6f94e40
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Apk.Triada.
+date: 2026-07-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - AlexMods
+    - Android
+    - GBWhatsApp
+    - OBWhatsApp
+    - Tencent
+    - Triada
+    - apk
+    - malware.apk.triada
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'file.pushclick.online'
+        - 'c.whatsplusdownload.com'
+        - 'c.obwhatsappdownload.com'
+        - 'server.fbsecurity.net'
+        - 'rpif.ad-tracker.network'
+        - 'app.pushonline.online'
+        - 'app.whatsplusdownload.com'
+        - 'app.obwhatsappdownload.com'
+        - 'c.pushonline.online'
+        - 'dubai.thelayzf.fyi'
+        - 'gbw.cmpc.fun'
+        - 'p.thelayzf.fyi'
+        - 'q.thelayzf.fyi'
+        - 'h5.webser.site'
+        - 'c.whatsplus.online'
+        - 'app.gbwhat.pro'
+        - 'app.whatsplus.online'
+        DestinationIp|contains:
+        - '43.163.58.72'
+        - '43.153.237.175'
+        - '43.163.45.197'
+        - '43.163.45.205'
+        - '43.163.58.184'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
