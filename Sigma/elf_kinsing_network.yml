@@ -1,0 +1,33 @@
+title: Network Connection to Elf.Kinsing Infrastructure
+id: 6e28631d-0b6e-4eee-aba5-573116dc3a42
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Kinsing.
+date: 2026-07-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Shell
+    - b2f628
+    - cron
+    - cryptojacking
+    - kdevtmpfsi
+    - malware.elf.kinsing
+    - redis
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 's.na-cs.com'
+        - 'oracle.zzhreceive.top'
+        DestinationIp|contains:
+        - '162.243.3.92'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
