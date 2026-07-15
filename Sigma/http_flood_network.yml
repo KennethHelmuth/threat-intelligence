@@ -1,0 +1,38 @@
+title: Network Connection to Http Flood Infrastructure
+id: 06e970fe-ed06-46a4-ac09-37e4c4169d9d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Http Flood.
+date: 2026-07-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adware
+    - browser-based attack
+    - ddos botnet
+    - http flood
+    - malware.http_flood
+    - npm campaign
+    - student targeting
+    - supply chain abuse
+    - web proxy
+    - websocket flood
+    - wisp protocol
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - '21baseballacademy.com'
+        - 'lucideon.top'
+        - 'c.vipersfutbol.com'
+        - 'cdn.caan.edu'
+        - 'cdn.conditionfuneral.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

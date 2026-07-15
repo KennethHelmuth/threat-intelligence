@@ -1,0 +1,34 @@
+title: Network Connection to Crashstealer Infrastructure
+id: 9f2d2fd2-fc5f-480d-a7c6-5c19d0b194d6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Crashstealer.
+date: 2026-07-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - crashstealer
+    - infostealer
+    - macos
+    - malware.crashstealer
+    - notarized dropper
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'cohezo.com'
+        - 'endpoint-api-v1.com'
+        - 'werkbit.io'
+        - 'cohezo.io'
+        - 'collabox.uk'
+        - 'cordinex.io'
+        - 'icky-lyrical.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

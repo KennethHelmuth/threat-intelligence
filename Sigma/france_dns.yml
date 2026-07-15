@@ -1,0 +1,59 @@
+title: DNS Query to France Domains
+id: f985e24b-1e45-4e7f-919c-b1db3786fb05
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with France.
+date: 2026-07-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - celine dion concert
+    - facebook scam
+    - france
+    - malware.france
+    - phishing kit
+    - shopify abuse
+    - social engineering
+    - ticket fraud
+    - ticketmaster exploitation
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'ticketmaster-celinedion.fr'
+        - 'axs-billetterie.com'
+        - 'billeteriecelinedion.com'
+        - 'celine-dion-arena.com'
+        - 'celine-dion-paris.com'
+        - 'celinedion-2026.com'
+        - 'celinedion-billetterie.com'
+        - 'celinedion-fr.com'
+        - 'celinedion-france.com'
+        - 'celinedion-paris-billetterie.com'
+        - 'celinedion-paris.com'
+        - 'celinedion-paris.fr'
+        - 'celinedion-parisladefense-arena.com'
+        - 'celinedion.co'
+        - 'celinedion2026tour.com'
+        - 'celinedionofficial.com'
+        - 'celinedionparis.com'
+        - 'celinedionparistickets.com'
+        - 'celinedionparsifr.com'
+        - 'celinedionviptickets.com'
+        - 'fr-celinedionparis.com'
+        - 'ticketmaster-celinedion.com'
+        - 'tickets-celinedion.com'
+        - '252faccount.celine-dion-arena.com'
+        - '252faccount.celinedion-paris-billetterie.com'
+        - '252faccount.celinedion-parisladefense-arena.com'
+        - '252faccount.ticketmaster-celinedion.fr'
+        - 'account.celine-dion-arena.com'
+        - 'account.celinedion-paris-billetterie.com'
+        - 'account.celinedion-parisladefense-arena.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

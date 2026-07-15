@@ -1,0 +1,36 @@
+title: Network Connection to Win.Revstealer Infrastructure
+id: 5488f27f-d4d0-4d17-8bc0-999737c2bdcb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Revstealer.
+date: 2026-07-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RevStealer
+    - exe
+    - malware.win.revstealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'sso.northjournal.one'
+        - 'worker.ivoryboard.lol'
+        - 'audit.techreef.one'
+        - 'catalog3.calmtexture.click'
+        - 'cron6.health-ly.lol'
+        - 'deploy.works-rhythm8.click'
+        - 'dns.frame-works.click'
+        - 'index.gentle-weekly.lol'
+        - 'queue8.vibepulse.one'
+        - 'relay7.apiforge.click'
+        - 'scheduler.civic-team.xyz'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

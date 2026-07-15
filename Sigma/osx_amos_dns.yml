@@ -1,0 +1,55 @@
+title: DNS Query to Osx.Amos Domains
+id: 6aa9aa62-3c3b-4388-8b2b-77964236fcb7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Osx.Amos.
+date: 2026-07-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ClickFix
+    - Cloudflare
+    - DGA
+    - api-join
+    - malware.osx.amos
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - '102z512uqjl6m.xyz'
+        - '108h764sg7npw.xyz'
+        - '1ard675vnxd1l.com'
+        - '1jmldxvj0gimm.app'
+        - '1p6kkehfjfb2s.net'
+        - '1v9g4jgcqisg4.com'
+        - '1z0ky1gcb02j8.com'
+        - '20hc9ahim3kky.site'
+        - '212uqd371gsar.com'
+        - '2169tae0hhtd6.net'
+        - '226c6tcnujin1.app'
+        - '2hnjv5o9tq18x.xyz'
+        - '2qww8z7zh33r1.com'
+        - '2t8cpyvwbhcze.app'
+        - '2w189cccuwx1s.org'
+        - '2w6p9lgp0st41.org'
+        - '2xzklzguutbgd.com'
+        - '32caj76pwqj8t.com'
+        - '3dfkb2ls19wa5.xyz'
+        - '3hhx8mtzd3dnc.org'
+        - '3kyn1qbvv8l4s.com'
+        - '3n5t7tlqbvfbi.net'
+        - '3o93soz9pvqis.xyz'
+        - '3vbdn0ysm07pe.xyz'
+        - '6uh312tvknrg.net'
+        - 'a6dz9tb6oicn.app'
+        - 'emig4ta5wi0z.site'
+        - 'j56d50s1q53v.com'
+        - 'se2lnidzfvts.org'
+        - 'vrgqgg8y4ryf.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,32 @@
+title: DNS Query to Crashstealer Domains
+id: bda4dcd7-eb6a-41c3-83a7-1f0339873c70
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Crashstealer.
+date: 2026-07-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - crashstealer
+    - infostealer
+    - macos
+    - malware.crashstealer
+    - notarized dropper
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'cohezo.com'
+        - 'endpoint-api-v1.com'
+        - 'werkbit.io'
+        - 'cohezo.io'
+        - 'collabox.uk'
+        - 'cordinex.io'
+        - 'icky-lyrical.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

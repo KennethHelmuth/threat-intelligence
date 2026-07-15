@@ -1,0 +1,24 @@
+title: DNS Query to Win.Phantom Stealer Domains
+id: c5f6f6b9-d9b3-4ca4-a98f-b5528f6ccc68
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Phantom Stealer.
+date: 2026-07-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - PhantomStealer
+    - malware.win.phantom_stealer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'exczx.com'
+        - 'ftp.episcenergy.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

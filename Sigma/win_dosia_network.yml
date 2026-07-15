@@ -1,0 +1,29 @@
+title: Network Connection to Win.Dosia Infrastructure
+id: 9fc13a10-bc4d-4027-943c-3bfa30f17ddc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Dosia.
+date: 2026-07-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - DDoS
+    - DDoSia
+    - botnet
+    - c2
+    - malware.win.dosia
+    - noname057
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '185.76.78.136'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

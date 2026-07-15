@@ -1,0 +1,29 @@
+title: DNS Query to Modheader Domains
+id: 7432aa3e-22c5-40e6-98ac-413fbda664e4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Modheader.
+date: 2026-07-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adware
+    - browser extension
+    - chrome web store
+    - domain harvesting
+    - malware.modheader
+    - modheader
+    - spyware
+    - supply chain attack
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'api.stanfordstudies.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

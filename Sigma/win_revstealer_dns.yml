@@ -1,0 +1,34 @@
+title: DNS Query to Win.Revstealer Domains
+id: e80129c1-b977-429c-8c06-e1cee4f3db6b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Revstealer.
+date: 2026-07-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RevStealer
+    - exe
+    - malware.win.revstealer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'sso.northjournal.one'
+        - 'worker.ivoryboard.lol'
+        - 'audit.techreef.one'
+        - 'catalog3.calmtexture.click'
+        - 'cron6.health-ly.lol'
+        - 'deploy.works-rhythm8.click'
+        - 'dns.frame-works.click'
+        - 'index.gentle-weekly.lol'
+        - 'queue8.vibepulse.one'
+        - 'relay7.apiforge.click'
+        - 'scheduler.civic-team.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

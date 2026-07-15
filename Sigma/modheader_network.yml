@@ -1,0 +1,31 @@
+title: Network Connection to Modheader Infrastructure
+id: 22a7068e-fc64-4438-acc2-dad9a748aa20
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Modheader.
+date: 2026-07-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adware
+    - browser extension
+    - chrome web store
+    - domain harvesting
+    - malware.modheader
+    - modheader
+    - spyware
+    - supply chain attack
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'api.stanfordstudies.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,24 @@
+title: DNS Query to Win.Ave Maria Domains
+id: 6042db83-ab6b-4092-a52d-abfdf7087689
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Ave Maria.
+date: 2026-07-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - AveMariaRAT
+    - RAT
+    - malware.win.ave_maria
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'paymenthhcvhs.ddns.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
