@@ -1,0 +1,24 @@
+title: DNS Query to Win.Houdini Domains
+id: a34d71e7-f205-41af-b87e-177c3d17a6a3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Houdini.
+date: 2026-07-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RAT
+    - WSHRAT
+    - malware.win.houdini
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'wagosinga.ydns.eu'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

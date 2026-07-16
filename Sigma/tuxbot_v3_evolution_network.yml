@@ -1,0 +1,45 @@
+title: Network Connection to Tuxbot V3 Evolution Infrastructure
+id: 512709f8-1f4b-4385-b639-fbc554589c31
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Tuxbot V3 Evolution.
+date: 2026-07-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aisuru
+    - ddos-for-hire
+    - gafgyt
+    - iot botnet
+    - kaitori
+    - keksec ecosystem
+    - llm-generated code
+    - malware.tuxbot_v3_evolution
+    - mhddos
+    - telnet brute-force
+    - tsunami
+    - tuxbot v3
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'jetross.com'
+        - 'cfcybernews.eu'
+        - 'digikalas.online'
+        - 'newtuxdev.sevielw.digikalas.online'
+        - 'api.digikalas.online'
+        - 'health.digikalas.online'
+        DestinationIp|contains:
+        - '185.10.68.127'
+        - '194.46.59.169'
+        - '154.6.197.43'
+        - '37.32.24.195'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

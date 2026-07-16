@@ -1,0 +1,26 @@
+title: DNS Query to Miasma V3 Domains
+id: b16d8323-5730-42d7-aff6-ed6aacb4bed6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Miasma V3.
+date: 2026-07-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - asyncapi
+    - malware.miasma_v3
+    - miasma v3
+    - npm hijacking
+    - supply chain attack
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'obfuscator.io'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,30 @@
+title: Network Connection to Miasma V3 Infrastructure
+id: 66b0adcb-ebde-4712-b899-17689a9ab6c0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Miasma V3.
+date: 2026-07-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - asyncapi
+    - malware.miasma_v3
+    - miasma v3
+    - npm hijacking
+    - supply chain attack
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'obfuscator.io'
+        DestinationIp|contains:
+        - '85.137.53.71'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

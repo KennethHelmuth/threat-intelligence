@@ -1,0 +1,47 @@
+title: DNS Query to Spacex Ipo Domains
+id: e8742747-fe34-4979-b759-8b5ea8510a76
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Spacex Ipo.
+date: 2026-07-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - brand impersonation
+    - cryptocurrency theft
+    - fake portals
+    - financial scam
+    - investment fraud
+    - malware.spacex_ipo
+    - phishing campaign
+    - spacex ipo
+    - w-8ben forms
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - '8fv4dxp7lx035f8ylk7.live'
+        - '467jtzbkqcfl22t9hxh.live'
+        - 'ddgaoylh4h420fvm7o5.live'
+        - 'u7aq3ocwrexd70ulpdj.live'
+        - 'zavpejjyz432d577l2e.live'
+        - 'cd7yt860whhm7g7ylj8.live'
+        - 'g8iqelymkc4eya9zs49.live'
+        - 'hy0zu0fuf7rc2ou5aje.live'
+        - 'k1rg2oz4zpzw91pdx90.live'
+        - 'ogqw9cpz7t7et3j1rur.live'
+        - 'adanispacex.com'
+        - 'fidelityspacex.site'
+        - 'fidelityspacexipo.site'
+        - 'muskspacexipo.com'
+        - 'muskspacexipo.vip'
+        - 'robinhoodspacex.com'
+        - 'spacexshares.xyz'
+        - 'mail.musksapcex.space'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

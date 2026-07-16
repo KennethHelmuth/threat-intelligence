@@ -1,0 +1,34 @@
+title: Network Connection to Labubarat Infrastructure
+id: f7b139ad-4f0e-44b5-aa61-64ccd16651b1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Labubarat.
+date: 2026-07-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - dns tunneling
+    - labubapanel
+    - labubarat
+    - malware.labubarat
+    - rust
+    - socks5 proxy
+    - webview2
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'pipicka.xyz'
+        DestinationIp|contains:
+        - '168.222.254.204'
+        - '191.44.109.130'
+        - '87.120.108.18'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,30 @@
+title: Network Connection to Cryptocurrency Fraud Infrastructure
+id: 9a65a488-18d8-4ddf-9ae7-c0c267deb7bc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Cryptocurrency Fraud.
+date: 2026-07-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-assisted hacking
+    - botnet operations
+    - cryptocurrency fraud
+    - google gemini cli
+    - malware.cryptocurrency_fraud
+    - patriot bait
+    - wordpress compromise
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '213.165.51.115'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

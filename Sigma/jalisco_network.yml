@@ -1,0 +1,38 @@
+title: Network Connection to Jalisco Infrastructure
+id: 9a05f507-6dfe-4413-9abc-405e931de827
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Jalisco.
+date: 2026-07-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - darcula
+    - jalisco
+    - kali365
+    - malware.jalisco
+    - mfa bypass
+    - microsoft 365
+    - oauth token theft
+    - omegalord
+    - phishing-as-a-service
+    - tycoon2fa
+    - venom
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'authplanned.online'
+        - 'levaquin2us.top'
+        - 'sessionopen0.site'
+        - 'grantfundingapplications.com'
+        - 'secure-folder-9f8a2983fbf5479e8d8c267e0df4e73d.3vvcompany.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

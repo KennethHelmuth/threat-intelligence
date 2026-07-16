@@ -1,0 +1,28 @@
+title: DNS Query to Labubarat Domains
+id: 460f8359-6de1-4108-bd5f-e2943b936544
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Labubarat.
+date: 2026-07-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - dns tunneling
+    - labubapanel
+    - labubarat
+    - malware.labubarat
+    - rust
+    - socks5 proxy
+    - webview2
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'pipicka.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

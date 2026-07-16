@@ -1,0 +1,33 @@
+title: Network Connection to Py.Invisibleferret Infrastructure
+id: f2846294-3b3c-4ae7-af3a-3a17dcd302c3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Py.Invisibleferret.
+date: 2026-07-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ContagiousInterview
+    - DPRK
+    - InvisibleFerret
+    - Lazarus
+    - malware.py.invisibleferret
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'pub-acf013a9b65140b7b58cc3c104ee7105.r2.dev'
+        - 'pub-06714264305c44ea94491c0c8d961a87.r2.dev'
+        DestinationIp|contains:
+        - '95.216.64.240'
+        - '95.217.102.138'
+        - '138.201.128.169'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

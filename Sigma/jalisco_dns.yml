@@ -1,0 +1,36 @@
+title: DNS Query to Jalisco Domains
+id: c88ef5c6-3fd3-48a6-b25a-7638b2a25359
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Jalisco.
+date: 2026-07-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - darcula
+    - jalisco
+    - kali365
+    - malware.jalisco
+    - mfa bypass
+    - microsoft 365
+    - oauth token theft
+    - omegalord
+    - phishing-as-a-service
+    - tycoon2fa
+    - venom
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'authplanned.online'
+        - 'levaquin2us.top'
+        - 'sessionopen0.site'
+        - 'grantfundingapplications.com'
+        - 'secure-folder-9f8a2983fbf5479e8d8c267e0df4e73d.3vvcompany.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

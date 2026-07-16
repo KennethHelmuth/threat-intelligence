@@ -1,0 +1,35 @@
+title: Network Connection to Pepesoft.Exe Infrastructure
+id: 742d16cf-8456-46db-8d99-6c5f034b3bdf
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Pepesoft.Exe.
+date: 2026-07-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - dns-over-https evasion
+    - game cheats
+    - google sheets telemetry
+    - hardware fingerprinting
+    - malware.pepesoft.exe
+    - nuget supply chain
+    - pepesoft.exe
+    - pyinstaller payload
+    - screenshot exfiltration
+    - telegram bot control
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 's3.ru-3.storage.selcloud.ru'
+        - 'bots.pepesoft.ru'
+        - 'grandrp.su'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

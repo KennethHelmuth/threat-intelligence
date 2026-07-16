@@ -1,0 +1,40 @@
+title: DNS Query to Tookps Domains
+id: ad2632d5-7820-4ec0-aaa0-0e15eafdad90
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Tookps.
+date: 2026-07-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser extension
+    - cryptocurrency theft
+    - hdutil
+    - malware.tookps
+    - okobot
+    - okospyware
+    - rdp
+    - rilide
+    - seed phrase
+    - seedhunter
+    - ssh tunnel
+    - tevirat
+    - tookps
+    - vmprotect
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'coffeesaloon.online'
+        - 'livewallpapers.online'
+        - '2baserec2.guru'
+        - 'kbeautyreviews.com'
+        - 'recavb22.online'
+        - 'thatwascringe.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

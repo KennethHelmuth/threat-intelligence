@@ -1,0 +1,59 @@
+title: DNS Query to Macsync Stealer Domains
+id: d84d38f3-a3b0-4f83-bf27-0525f3de24a5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Macsync Stealer.
+date: 2026-07-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - claude platform abuse
+    - clickfix
+    - credential stealing
+    - cryptocurrency theft
+    - macos targeting
+    - macsync stealer
+    - malvertising
+    - malware.macsync_stealer
+    - shared chat abuse
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'buywx.com'
+        - 'cincycarpetcleaning.com'
+        - 'homeinspectionsdelaware.com'
+        - 'vacationrentalvirginia.com'
+        - 'sonyda.com'
+        - 'trailblazehealth.com'
+        - 'sdlasik.com'
+        - 'pine-1.com'
+        - 'toledotreeservices.com'
+        - 'olympiapetemergency.com'
+        - 'newjerseypetsitter.com'
+        - 'charlottefilmstudios.com'
+        - 'seattlefilmstudios.com'
+        - 'alluringsites.com'
+        - 'kidsjumpandplay.com'
+        - 'floridakitchencabinet.com'
+        - 'journey71.com'
+        - 'realtorsmichigan.com'
+        - 'fullcolorprinters.com'
+        - 'nationalspacecouncil.com'
+        - 'miamidadenotary.com'
+        - 'lalandscapelighting.com'
+        - 'aisolutions247.com'
+        - 'healthcareqai.com'
+        - 'belldredgingpump.com'
+        - 'kylesplumbing.com'
+        - 'modernhomeai.com'
+        - 'coeragent.com'
+        - 'beachjiujitsu.com'
+        - 'bcrealestateagency.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

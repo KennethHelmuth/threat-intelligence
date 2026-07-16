@@ -1,0 +1,33 @@
+title: DNS Query to Pepesoft.Exe Domains
+id: 9f7c3009-eb71-46ed-bd6b-e6791ed007f1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Pepesoft.Exe.
+date: 2026-07-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - dns-over-https evasion
+    - game cheats
+    - google sheets telemetry
+    - hardware fingerprinting
+    - malware.pepesoft.exe
+    - nuget supply chain
+    - pepesoft.exe
+    - pyinstaller payload
+    - screenshot exfiltration
+    - telegram bot control
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 's3.ru-3.storage.selcloud.ru'
+        - 'bots.pepesoft.ru'
+        - 'grandrp.su'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

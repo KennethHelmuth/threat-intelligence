@@ -1,0 +1,42 @@
+title: Network Connection to Tookps Infrastructure
+id: bca6f7f7-9478-4d6b-9ba7-d26d3696e055
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Tookps.
+date: 2026-07-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser extension
+    - cryptocurrency theft
+    - hdutil
+    - malware.tookps
+    - okobot
+    - okospyware
+    - rdp
+    - rilide
+    - seed phrase
+    - seedhunter
+    - ssh tunnel
+    - tevirat
+    - tookps
+    - vmprotect
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'coffeesaloon.online'
+        - 'livewallpapers.online'
+        - '2baserec2.guru'
+        - 'kbeautyreviews.com'
+        - 'recavb22.online'
+        - 'thatwascringe.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
