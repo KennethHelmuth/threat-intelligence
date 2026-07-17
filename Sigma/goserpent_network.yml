@@ -1,0 +1,39 @@
+title: Network Connection to Goserpent Infrastructure
+id: 691c4b2f-ccbb-409a-9a26-1c5e61330038
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Goserpent.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential dumping
+    - data exfiltration
+    - diplomatic entities
+    - goserpent
+    - government targeting
+    - malware.goserpent
+    - mcmx
+    - mimikatz
+    - proxy capabilities
+    - quarksdumplocalhash
+    - southeast asia
+    - stowaway
+    - thumbcacheservice
+    - tmcloader
+    - tmcpayload
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '144.48.6.46'
+        - '103.138.13.30'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

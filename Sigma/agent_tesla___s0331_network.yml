@@ -1,0 +1,43 @@
+title: Network Connection to Agent Tesla - S0331 Infrastructure
+id: 82f2f22c-732e-4ed8-8d01-2b933badc1d0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Agent Tesla - S0331.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - agent tesla
+    - autoit
+    - best private logger
+    - donut shellcode
+    - fileless execution
+    - infostealer
+    - lua loader
+    - malware.agent_tesla___s0331
+    - obfuscation
+    - phishing campaign
+    - rat deployment
+    - remcos
+    - snake keylogger
+    - ttf disguise
+    - xworm
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'mail.taikei-rmc-co.biz'
+        - 'mail.allportcargoservice.com'
+        - 'newremupdate.duckdns.org'
+        - 'mail.teamengineersgroup.com'
+        DestinationIp|contains:
+        - '104.239.66.86'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -5894,3 +5894,221 @@ cf3cbf93adf43d50618c88705857d3adb123ed24	OTX	2026-07-13	family=AsyncRAT | pulse=
 e9a44b3fe951cca57313533d6bc1d11e789c2018	OTX	2026-07-13	family=AsyncRAT | pulse='One Misconfigured Server, Three Active Campaigns: Full exposure of three AiTM Phishing Operators' pulse_id=6a54bfc57c70fae743cb883e
 eb8ede7598220dbef28953dc7df2e5418d52fa36	OTX	2026-07-13	family=AsyncRAT | pulse='One Misconfigured Server, Three Active Campaigns: Full exposure of three AiTM Phishing Operators' pulse_id=6a54bfc57c70fae743cb883e
 f496736e2d2344de7963d4f722381f03227ec452	OTX	2026-07-13	family=AsyncRAT | pulse='One Misconfigured Server, Three Active Campaigns: Full exposure of three AiTM Phishing Operators' pulse_id=6a54bfc57c70fae743cb883e
+5da44e36790d8bb2ab51d7b70bbc25063d8236b959a3452cbb4bc41b5bcd4966	MalwareBazaar	2026-07-17	filetype=exe md5=e8c3c8d8b522b6c0879c364ccfbf38b0 sha1=265109b8a26b6602bc5bcbb300fc7d38e7d07936 | vt=23/74
+6669e10c960f6c2297bcd3d5a27412aa	ThreatFox	2026-07-16	family=unknown_stealer | confidence=75% threat=payload
+3166ae39b46472d2ee53a880eb8248e0	ThreatFox	2026-07-16	family=win.ghost_rat | confidence=95% threat=payload
+2b46ed6e01f2baae933707d06704d14c	ThreatFox	2026-07-16	family=win.asyncrat | confidence=95% threat=payload
+0e8553970999b60c3a0a2637e0c282ca52b33d3e3ae88c99b6fa426bddc0075d	ThreatFox	2026-07-16	family=win.ghost_rat | confidence=95% threat=payload
+c20a54cc45596e10f5eaf83a388128fe	ThreatFox	2026-07-16	family=win.valley_rat | confidence=95% threat=payload
+e6d51d45edea7591b826b2d703c20a426fffa27a022c0156916ae9c35245bd07	ThreatFox	2026-07-16	family=win.asyncrat | confidence=95% threat=payload
+3a85be4f475378e774b44aafd20102cd	ThreatFox	2026-07-16	family=win.valley_rat | confidence=95% threat=payload
+04bc0dbf904d347bfa0b064bb436650fad0583b550dbd9450c8d00f4cb5a3b1b	ThreatFox	2026-07-16	family=win.valley_rat | confidence=95% threat=payload
+56ff460150b3ddeb5f1a01495ab44ee2	ThreatFox	2026-07-16	family=win.valley_rat | confidence=95% threat=payload
+551854f430801e8352f6562a48077cb04f399cdc505b42f0daaa3ad61d0e9f62	ThreatFox	2026-07-16	family=win.valley_rat | confidence=95% threat=payload
+eee7db42470f6c58dc1e696ee937e87bd72f0cabe8df566021a79880d288e370	ThreatFox	2026-07-16	family=win.valley_rat | confidence=95% threat=payload
+9a0cea11f75f63bbff8d0cea420787da972e78d8eb3baa14cd575f55bde369d8	ThreatFox	2026-07-16	family=win.salatstealer | confidence=95% threat=payload
+23285f10bb9b3002a24d3dbf865f07e1	ThreatFox	2026-07-16	family=win.salatstealer | confidence=95% threat=payload
+68c9207a1e4e703b897300fc6c21cf0472549b352d80a64259e21ed4fdfe63a4	ThreatFox	2026-07-16	family=win.darktortilla | confidence=95% threat=payload
+1f017ca7bcdae763c27483193017747a	ThreatFox	2026-07-16	family=win.darktortilla | confidence=95% threat=payload
+3bf8bc35c9909047deea7338c690480e8e2e36e5eb36b207c449080bda0e9a40	MalwareBazaar	2026-07-17	family=Mirai | filetype=elf md5=aaa40766d73644b1aea823ee8274d4d6 sha1=e0ff53931adf18ec1bf38bb69a739bf3a3a3a38f
+94a7cc706c15d397c1269f95c40b34d0ad7b9d4a90289bc1a133fc77323a3e98	MalwareBazaar	2026-07-17	family=Mirai | filetype=elf md5=56da8a8b5981071db11ba15f633cdc3c sha1=3be7631d7e8dcae60dbaf3e43ca73e4c9d07646d
+7873a2d6270b9eb4b775d3a95a2b358d36ce2021fb09dc50ee538ff0782b8b2b	MalwareBazaar	2026-07-17	family=Mirai | filetype=elf md5=15accbb84473e4d8acce18393a4a3ec9 sha1=75923c8ecf134bcd108a1389269af549d52ad7a4
+38de5b216c33833af710e88f7f64fc98	OTX	2026-07-16	family=Starland RAT | pulse='The Patch Wars have begun' pulse_id=6a5947760995db41a09b5025
+9f1f11a708d393e0a4109ae189bc64f1f3e312653dcf317a2bd406f18ffcc507	OTX	2026-07-16	family=Starland RAT | pulse='The Patch Wars have begun' pulse_id=6a5947760995db41a09b5025
+9896a6fcb9bb5ac1ec5297b4a65be3f647589adf7c37b45f3f7466decd6a4a7f	OTX	2026-07-16	family=Starland RAT | pulse='The Patch Wars have begun' pulse_id=6a5947760995db41a09b5025
+66c72019eafa41bbf3e708cc3824c7c4447bdab6	OTX	2026-07-16	family=Starland RAT | pulse='The Patch Wars have begun' pulse_id=6a5947760995db41a09b5025
+2915b3f8b703eb744fc54c81f4a9c67f	OTX	2026-07-16	family=Starland RAT | pulse='The Patch Wars have begun' pulse_id=6a5947760995db41a09b5025
+c2efb2dcacba6d3ccc175b6ce1b7ed0a	OTX	2026-07-16	family=Starland RAT | pulse='The Patch Wars have begun' pulse_id=6a5947760995db41a09b5025
+b34d42e320d6674d7747fcb93083c6d59feadb99	OTX	2026-07-16	family=Starland RAT | pulse='The Patch Wars have begun' pulse_id=6a5947760995db41a09b5025
+90b1456cdbe6bc2779ea0b4736ed9a998a71ae37390331b6ba87e389a49d3d59	OTX	2026-07-16	family=Starland RAT | pulse='The Patch Wars have begun' pulse_id=6a5947760995db41a09b5025
+0398df5a18f71efcfeef4571a2cef577	OTX	2026-07-16	family=Starland RAT | pulse='The Patch Wars have begun' pulse_id=6a5947760995db41a09b5025
+b8be9a5e0a191050f9099c11c155b436863e9bc43bc904cdb842e249679aa35a	OTX	2026-07-16	family=Starland RAT | pulse='The Patch Wars have begun' pulse_id=6a5947760995db41a09b5025
+ebffd5a76aaa690bcdb922f82e0bacc5	OTX	2026-07-16	family=GoSerpent | pulse='GoSerpent backdoor attacks in Southeast Asia' pulse_id=6a590384cb730e14eaafeac5
+dc506ff7bb72735444fb3703a6bee6d8	OTX	2026-07-16	family=GoSerpent | pulse='GoSerpent backdoor attacks in Southeast Asia' pulse_id=6a590384cb730e14eaafeac5
+d6e86bf8a90e9b632add5fa495f97fbc	OTX	2026-07-16	family=GoSerpent | pulse='GoSerpent backdoor attacks in Southeast Asia' pulse_id=6a590384cb730e14eaafeac5
+cb6c4c70a3b171fa3404b8e1a3382116	OTX	2026-07-16	family=GoSerpent | pulse='GoSerpent backdoor attacks in Southeast Asia' pulse_id=6a590384cb730e14eaafeac5
+64e9d1950e42bc98486dfd9919463d1c	OTX	2026-07-16	family=GoSerpent | pulse='GoSerpent backdoor attacks in Southeast Asia' pulse_id=6a590384cb730e14eaafeac5
+cbbb6d483737ea3566726e51752dff40	OTX	2026-07-16	family=GoSerpent | pulse='GoSerpent backdoor attacks in Southeast Asia' pulse_id=6a590384cb730e14eaafeac5
+7f223ee0716ce2ad56f55d3744419449	OTX	2026-07-16	family=GoSerpent | pulse='GoSerpent backdoor attacks in Southeast Asia' pulse_id=6a590384cb730e14eaafeac5
+19f8befcb035f52bf70094e6b4f5779a	OTX	2026-07-16	family=GoSerpent | pulse='GoSerpent backdoor attacks in Southeast Asia' pulse_id=6a590384cb730e14eaafeac5
+846ef7c1c7323849b2a778c5e4cda162	OTX	2026-07-16	family=GoSerpent | pulse='GoSerpent backdoor attacks in Southeast Asia' pulse_id=6a590384cb730e14eaafeac5
+d08a059e8b815e3b891505bc8777fc28	OTX	2026-07-16	family=GoSerpent | pulse='GoSerpent backdoor attacks in Southeast Asia' pulse_id=6a590384cb730e14eaafeac5
+93a1569d5d5ab2c4761fedf84f83709e	OTX	2026-07-16	family=GoSerpent | pulse='GoSerpent backdoor attacks in Southeast Asia' pulse_id=6a590384cb730e14eaafeac5
+31323334353637383930616263646566	OTX	2026-07-16	family=GoSerpent | pulse='GoSerpent backdoor attacks in Southeast Asia' pulse_id=6a590384cb730e14eaafeac5
+0cfdffc56f0fa325d0c4d24780b46597	OTX	2026-07-16	family=HelloInjector | pulse='HelloNet campaign: a threat via the ViPNet update system' pulse_id=6a5903832a32a07a14de0d86
+16c211c96735f2fae9361b89bd7a31bf	OTX	2026-07-16	family=HelloInjector | pulse='HelloNet campaign: a threat via the ViPNet update system' pulse_id=6a5903832a32a07a14de0d86
+1bfe2b9493128574907a8279256a8bcc	OTX	2026-07-16	family=HelloInjector | pulse='HelloNet campaign: a threat via the ViPNet update system' pulse_id=6a5903832a32a07a14de0d86
+41c938b3cd7e55d4077e34976929b140	OTX	2026-07-16	family=HelloInjector | pulse='HelloNet campaign: a threat via the ViPNet update system' pulse_id=6a5903832a32a07a14de0d86
+6001829a128fe264b4403138700c11a8	OTX	2026-07-16	family=HelloInjector | pulse='HelloNet campaign: a threat via the ViPNet update system' pulse_id=6a5903832a32a07a14de0d86
+9f5606a0755bc633b9bd7db6d179c09e	OTX	2026-07-16	family=HelloInjector | pulse='HelloNet campaign: a threat via the ViPNet update system' pulse_id=6a5903832a32a07a14de0d86
+b103cd21280b4061f88b2bcc51394894	OTX	2026-07-16	family=HelloInjector | pulse='HelloNet campaign: a threat via the ViPNet update system' pulse_id=6a5903832a32a07a14de0d86
+ee4ff46ddd8489e81447962f927bc3f6	OTX	2026-07-16	family=HelloInjector | pulse='HelloNet campaign: a threat via the ViPNet update system' pulse_id=6a5903832a32a07a14de0d86
+f9eed2f0158dc98e7012fb809152209c	OTX	2026-07-16	family=HelloInjector | pulse='HelloNet campaign: a threat via the ViPNet update system' pulse_id=6a5903832a32a07a14de0d86
+686292c07e33c4a5ca456db446bb71fb9fc67a81	OTX	2026-07-16	family=HelloInjector | pulse='HelloNet campaign: a threat via the ViPNet update system' pulse_id=6a5903832a32a07a14de0d86
+ffdc194775b2904564bbbd1cf0eb01d1a01f83ef5197d1612b6e2d69de7a4732	OTX	2026-07-16	family=HelloInjector | pulse='HelloNet campaign: a threat via the ViPNet update system' pulse_id=6a5903832a32a07a14de0d86
+511ba918e1781ff38310530801b8cec5	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+c029ceede8f8f8c8a4f58687e6681536fe4cc97b	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+41ad1f28134f4b4a443b53af04aeb3fa57a2f72a3cc58a6466e84fc3225f38be	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+2b1248d89fd9a7c716816f9688402942827fc1bfa89d5dccd741521725104279	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+417fc4d6119dac40f276b563498a0ad3f9bf42262ec650a4463cbdbe78da388b	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+619d2628dcf0c8e15a6febb0e562609556ca57f9f8216800ee77a39e336b8bf4	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+96e22da4d5c0ea4b0efde0ad3eaa8fdedc60228f84fb3c56899afbb9338da2a1	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+ba2793c45a12e96683a8b1b7cb5a5c3e	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+c5724b86aae0e637b8b0b6f3c8d31168	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+efd92efb0321bf811e74717974b14897	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+ff3db8cc2d38ca5878a32fe40d7a8ba5	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+409f57557a91d2a7a424d122aef4e73f2b533b18	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+425ba7d4138a0e72e0e32db5438ee4bd88aa2982	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+9d8a4d41058d5d7934d55f2c97d032124a0d74e3	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+f17ee43fda3735a0eea7330774ed6c10c0749fa5	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+05390dd0d2c84f77475c0c6aa082638e23977da591302e911cbcb071c42a9451	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+1539468a21a439dd4f8d72a6c34ce503f0585281fc2e88535c3c33727bfdc717	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+16516e3298278719123068bf0ed808ea4e00f73c970a8a83377066b4e3c3c950	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+16f9692debe0d4e35d76b48312979e5a90a85ce066e7375269ce78f43da52769	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+1c4419d687bf45bdc5474b6347e41e89459fc0f5115f0d012c46c57280b242bf	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+1d9dd914cf623dcae4b88834744a005e5e3eae827ded1aafd23ed1d7be57b90a	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+2fe30eccd36f4346cb117af0cf626c2bca84b50c658b0c9af09110b9f86a53f4	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+3ace400380bd1fc51e83d008dbbe9ceb70b2572da95264be09d85979a6276a37	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+4c001e107a42d65c1b1e6092e4aa6932dbd1544d097d1a432ba27e3b4bddfcc1	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+5409b3fa21dcc2f854697ec731f9574603dd0b6bdfd892e968a2b412ed85f52c	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+5b271a1b1ffe2716ae420f8e9d40dbc8e9e682f6e4125d4f174a335bf070ac29	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+6700e6d2a0c285d3ebf1a55aecec63b1e42d7d581f691331c667a8920dac7029	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+775ae9a8c7363e2368cbb559f9c2d26a6c479d4e7998fe71d45830885ccde429	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+7df42fc54f053d1bb65f43d4386a75be02770f7923b66e713fb04631582e864e	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+81edd5e740bea0fefb5c1bbd14a671bd1daff37bf3641e34f3a1f7e93559184a	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+8c28bc87eb4f2613117d41a716e78f62d55c19edaeea573c2c96e787da055167	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+9674da676ee226ee456d35c774715d9b58655423806f281de19dc9ef899e9532	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+986d1d5270822af7d7744762ecd8fc4e9b2886c85b3660e9fdf0b5906d6c4117	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+b12b743d4ecc0fe7320b6c1533e2a60bb89f94ca39a5be37143e7af27daacf04	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+bbeb74e6af12536ecb6761a65ed893fbddd1b86a17cd4a61b616e5fc6106ec9a	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+be4fcf88a287f783a3d199e889f9f088f77338eafe0dce70a38ade01192fb223	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+c7159e589e29f9c866cc9983839ae9c9a1457df542a2dcd5103baf38636e08fd	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+c92740b6b90582a4bf73fef979ca047b9e6ae432e892a97f71e70b45c09e478e	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+ca9639f7db6c3d1b37a004493f44aaa4e1282ea9333bc8ca5eac5d263d899e6a	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+cc041def6013da331f025e12f21f43677cea08073018d6be037f15a343a9cc24	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+e2a95dd038a153dfb463c94554912f992cd04cf0f420552a95f4aea3d6f31e18	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+ec494785f243f5f1b516b31d8455fadafe5495e11d47a5ce2bd50b1b3791fec6	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+fbf9a87d351ef702d87e0cd9e0148baa44c6d619f50fbf91d79a1c5e37719a77	OTX	2026-07-16	family=Agent Tesla - S0331 | pulse='The TTF Trap: A Global Campaign of a Low-Detection Lua Loader' pulse_id=6a59018a415370b96937338d
+26a15a6a9bea58e9ad2ada9a6c8606b5	OTX	2026-07-16	family=Spirals | pulse='Spirals: New Stealthy Ransomware Deployed Against Asian IT Company' pulse_id=6a58c2ecd43c8e98d4bdd2e0
+e25c56bd13eff7280e493bf58501c47891fe63bf	OTX	2026-07-16	family=Spirals | pulse='Spirals: New Stealthy Ransomware Deployed Against Asian IT Company' pulse_id=6a58c2ecd43c8e98d4bdd2e0
+0f9574dc38e5c34a31153f0bcc603c6ec29cb3bf65c3d25380dbe86d42573141	OTX	2026-07-16	family=Spirals | pulse='Spirals: New Stealthy Ransomware Deployed Against Asian IT Company' pulse_id=6a58c2ecd43c8e98d4bdd2e0
+4cab935d0ec400059a3fcdc95b6623efdd51a61dff401fba8d5da244cc2de649	OTX	2026-07-16	family=Spirals | pulse='Spirals: New Stealthy Ransomware Deployed Against Asian IT Company' pulse_id=6a58c2ecd43c8e98d4bdd2e0
+7f0d49b11d0a3697685622ce510c570199bf2dc76515b3f9a6b6735de8c9134b	OTX	2026-07-16	family=Spirals | pulse='Spirals: New Stealthy Ransomware Deployed Against Asian IT Company' pulse_id=6a58c2ecd43c8e98d4bdd2e0
+83a7e51f3787ac5a8a9884edd0a58ddbef380969aa6529d282a461a1a614a892	OTX	2026-07-16	family=Spirals | pulse='Spirals: New Stealthy Ransomware Deployed Against Asian IT Company' pulse_id=6a58c2ecd43c8e98d4bdd2e0
+84b9a9a1668145df04faa3d0e118e2f0acbebd3d9d260baf3a355b44c815c22d	OTX	2026-07-16	family=Spirals | pulse='Spirals: New Stealthy Ransomware Deployed Against Asian IT Company' pulse_id=6a58c2ecd43c8e98d4bdd2e0
+862a3ca7e944ccf0ff3a6d556b34faade4b68343015c35a014a43725ac14a2a1	OTX	2026-07-16	family=Spirals | pulse='Spirals: New Stealthy Ransomware Deployed Against Asian IT Company' pulse_id=6a58c2ecd43c8e98d4bdd2e0
+b5d598b00cc3a28cabc5812d9f762819334614bae452db4e7f23eefe7b081556	OTX	2026-07-16	family=Spirals | pulse='Spirals: New Stealthy Ransomware Deployed Against Asian IT Company' pulse_id=6a58c2ecd43c8e98d4bdd2e0
+0a1fb016bd10bac5455175c79aa4511e5ff1a330	OTX	2026-07-16	family=ClickLock Stealer | pulse='ClickLock Stealer: Paste Once, Lose Everything' pulse_id=6a58c1a90a160ce1e25e78e7
+2fc970e25570532f9cbe33b7ebfe1f0383a7341a	OTX	2026-07-16	family=ClickLock Stealer | pulse='ClickLock Stealer: Paste Once, Lose Everything' pulse_id=6a58c1a90a160ce1e25e78e7
+8dda05168ea8610a2449419a47517bc32823d6ec	OTX	2026-07-16	family=ClickLock Stealer | pulse='ClickLock Stealer: Paste Once, Lose Everything' pulse_id=6a58c1a90a160ce1e25e78e7
+b67aa4f598c0ea625a7409ea7884e10a7bc9c3ff	OTX	2026-07-16	family=ClickLock Stealer | pulse='ClickLock Stealer: Paste Once, Lose Everything' pulse_id=6a58c1a90a160ce1e25e78e7
+d9617710d4ed8e9b87f6fee0b7014c4101effba0	OTX	2026-07-16	family=ClickLock Stealer | pulse='ClickLock Stealer: Paste Once, Lose Everything' pulse_id=6a58c1a90a160ce1e25e78e7
+a6821c7e9bfe2e6af0f690d906ec6a26161e2198c256fb60f3b4731c317f3ad9	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+c33f097fdb2b69b4cbb1c3f29ae88b43	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+650e751e8ee5f5958c6a70288a24a4e3d19904a2	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+162e436f18fe6099c57855c8d63fd747493624e87702dc749b242eb9a6b758ca	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+17e41d66ebfd56edc960f58f4285697ceceaa812514bb15092672c747979896e	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+1a01ad25712d306f27f526332fdccf959f2de53207b54e4e80f60faa804d6cb6	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+1b46f761719dce44baa2d7b417c5214fc41c080f7f9ba485e7e489d949097f1f	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+2751281d3800d82ecd3fad7c1d2293f3b947875a343b0672b4f4024a261165d2	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+2a27b3415114b874da295c19cce5227a8b8d9525cc2da331034a1f45528eecae	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+2c7a99f137efd718f89cf8b260379c99af89ea1939568df09314918f2c5999a3	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+365024336c7681ac0854321ac6c140a245b9593285da02d2a590124cdc592370	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+36e3838d07978f49ebe6546d57d2f311b8d6566558bcd58448e921c988cc346a	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+451ac8ca34d5bcdfe476465f69eb517b2608f267c7e8d69f8ef36197a6f1d949	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+47dedb08385449d48d8b6543030310317c92cddafa25e14ee0cb9a32d53ced5c	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+575ce92c473e6d47810321e309a4e29dd7f52f4152526b0bdca80f54b53aed2f	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+5b9bf7957a9f8869c87ace1a6d76b48e2623073e72739ad0636b5dfa4bb2e0c3	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+603fd9724de346a06e00c1b8502c2ac1180812a18bbf30032dab8d469e5c18e1	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+6ae334ce60d1a9b7fb96d1d0d0eda5ec7c2c31d3f0cf3e4d7e3056504d50043d	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+6ca7a458985350ac082a9c9820d7f8d39128a4c4bda2f5d32f169a45b7b22bc6	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+7dc77a5abab119960fbe42b1535c957020cce1b8e0a3cf58d4eddc51b5bf9940	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+896185a89bd7eb0520b03fdcfb8db0be98b43cf15f14041d73b23d3988c1bcab	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+964256d3259b6e0c701ec04116c45cf0ec381c1c209dc29b09a7930cd7a4810b	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+a080b5380ccc8fc40b24c02151d305efc32d931dc547881e01a2e6f2b070c7dc	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+a1835d333ac3db961a8ff1f4864e3c10a6f73a872c040599091390a009ac7804	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+a32ac345e39cb7606322e2155bd7b4d6941c1678619e48d1f14d9301ee53e6c0	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+a59742d3086924c5f511d248df01601bfbf723359590fb3f3ba355f2792cc455	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+d52540621dec5ed56cac8532f0e4fe10a7575c3e17e984f59646909fa587dd35	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+ddcf66ecc61dc6b8cd36748d284d8cb45a470201b5373dd2bfc47700c7da32e1	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+f4491736743a16f1278b8ba01649ee93343764e35ae5e1c0d5e0c0e1d7e32c14	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+f8da52ff98e66b137b5d31908f0a5d0fa1eb446034337f8bba3d5bba60f586be	OTX	2026-07-16	family=Starland RAT | pulse='Novel Starland RAT and bespoke WLDR C2 implant deployed in financially motivated campaign' pulse_id=6a58c1aa702b1130710d1bfb
+8a4033425d36cd99fe23e6faef9764fbf555f362ebdb5b72379342fbbe4c5531	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+ecb1d69999a730760b3c5654920f0ef6	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+b4ddb0adf94e28b53e392900c5ff2f538616441b	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+048e18416177de2ead251abdf4d89837f6807c6aba4d5b1debe49adfdecbf05c	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+65ab49119c845801f29a57e8aa177146b2ffbd289d4278109b146f933380f951	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+6bbf10bcbef7ac5102b54c81137859891a3802dbacd888be90f990d50e18b0b4	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+6f9fbe29f8cc2788e2bc9d631e0eea2a8e9837076837b55838005a0e654f0a9e	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+821da79d727351dd67ce5df7950e9a3de6647a3cf474bb3a093f67507fed92a6	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+8284c8676cc22c4b2e66826ac16986da7ddecba1f2776b16771be17bfdc45dc2	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+82b37a92589dfd4d67ca87eb9e52ac8e682e8e60d2211f59074cd5ccc693013b	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+9335f61f8ad276d94455c5b6876fea48152c3cea759f2598c8108ee461fa5759	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+aea26980059ef2ad11e99556a4edfa1f8ec769fa9f06aa573b81bedf319954b5	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+cd078957167e1af4de39aecdb981cd14156fa81d5a9c6ac51e74ae5b6199a12a	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+ce66b8221446c9b6d83f0ce6382f430e519601641e5daaaf1ca7a8a8806cb0b0	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+d0da2832ae1e13a98f7ce7e33a66c1b0d9797b81f69ece134e4462ea55ac923e	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+d20a3c928761fe00ac522eeb474612b5804cd9108453ea8591106d5d4428428e	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+e45b18c93d187aac5c4486f57483bc87580e15def82a312bfb377ff16eb96b22	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+f174c19902523dcf005fa044b6598403a5e5c0a5982398d1bc0dcc5ec1cd351b	OTX	2026-06-16	family=Backdoor.Turn | pulse='Attackers Weaponize Microsoft Teams Relays to Stay Hidden' pulse_id=6a316151d9ab4af59e56576d
+79f7b67ce8b39070f3e1c2b90fce0ce84134782a7dedcccc1edac197ee9e089b	OTX	2026-06-16	family=Potemkin | pulse='Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack' pulse_id=6a315d670f9460fe003298a8
+d37cc44db90a65341263deb162024447	OTX	2026-06-16	family=Potemkin | pulse='Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack' pulse_id=6a315d670f9460fe003298a8
+4537b37b65e9dc35640d750f3fa7f4944534f6b1	OTX	2026-06-16	family=Potemkin | pulse='Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack' pulse_id=6a315d670f9460fe003298a8
+2abe5dd3a057fdef935722e50e9251c272d29fd26113187b853a1f9a9cb89d9b	OTX	2026-06-16	family=Potemkin | pulse='Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack' pulse_id=6a315d670f9460fe003298a8
+2ada24dd6e517f37942b749c2bd57ddd97445e9853002cee70a0bc30d0b0ce3a	OTX	2026-06-16	family=Potemkin | pulse='Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack' pulse_id=6a315d670f9460fe003298a8
+3b7ae925e2d64522b4f69b56285b05aeca8c5aab5ab46a9c02c4fafb69d881ce	OTX	2026-06-16	family=Potemkin | pulse='Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack' pulse_id=6a315d670f9460fe003298a8
+cd4e5e2c65b1660470d3446539ee68adf5faeece3eaeb46583623be9911ee145	OTX	2026-06-16	family=Potemkin | pulse='Potemkin Loader & RMMProject The Anatomy of a ClickFix Attack' pulse_id=6a315d670f9460fe003298a8
+fc586cad94e5a10dd5be6a6ae6096bd02dfbfd094365bec87e788ed0798d6f67	OTX	2026-06-16	family=DarkComet - S0334 | pulse='Gamers beware: malicious wallpapers on Steam found stealing accounts' pulse_id=6a311c5582f3c51d5631d979
+18dedc0009f0927cba6425c84cce9883	OTX	2026-06-16	family=DarkComet - S0334 | pulse='Gamers beware: malicious wallpapers on Steam found stealing accounts' pulse_id=6a311c5582f3c51d5631d979
+5620f01284329f561b1839a36be55355	OTX	2026-06-16	family=DarkComet - S0334 | pulse='Gamers beware: malicious wallpapers on Steam found stealing accounts' pulse_id=6a311c5582f3c51d5631d979
+74414ed4b63aadec039b603c32762b80	OTX	2026-06-16	family=DarkComet - S0334 | pulse='Gamers beware: malicious wallpapers on Steam found stealing accounts' pulse_id=6a311c5582f3c51d5631d979
+8c2cc585ad8a13a72a704c0fda0c9854	OTX	2026-06-16	family=DarkComet - S0334 | pulse='Gamers beware: malicious wallpapers on Steam found stealing accounts' pulse_id=6a311c5582f3c51d5631d979
+95856f2ce428c728d9781d3296558068	OTX	2026-06-16	family=DarkComet - S0334 | pulse='Gamers beware: malicious wallpapers on Steam found stealing accounts' pulse_id=6a311c5582f3c51d5631d979
+c133c3dd9f7d6934598025047df41abf	OTX	2026-06-16	family=DarkComet - S0334 | pulse='Gamers beware: malicious wallpapers on Steam found stealing accounts' pulse_id=6a311c5582f3c51d5631d979
+ded08ae5df7f1b12e5fdb767dbbed0b1	OTX	2026-06-16	family=DarkComet - S0334 | pulse='Gamers beware: malicious wallpapers on Steam found stealing accounts' pulse_id=6a311c5582f3c51d5631d979
+59868381885b33f6c8809cd3d945da7d167439a3	OTX	2026-06-16	family=DarkComet - S0334 | pulse='Gamers beware: malicious wallpapers on Steam found stealing accounts' pulse_id=6a311c5582f3c51d5631d979
+d602f4eeb914cf32782799376a8c5953	OTX	2026-07-16	family=Miasma | pulse='Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery' pulse_id=6a58813c09a76d1819c69bb0
+93d8cffab1171a115228808e526d9bd7fe935e4e	OTX	2026-07-16	family=Miasma | pulse='Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery' pulse_id=6a58813c09a76d1819c69bb0
+69813c330d52f2a93082651c071a302c	OTX	2026-07-16	family=Miasma | pulse='Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery' pulse_id=6a58813c09a76d1819c69bb0
+71e67d32d2a6e052893dc0c679f9f7fd	OTX	2026-07-16	family=Miasma | pulse='Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery' pulse_id=6a58813c09a76d1819c69bb0
+8c09a52a15a6e617e2b6ccee11046805	OTX	2026-07-16	family=Miasma | pulse='Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery' pulse_id=6a58813c09a76d1819c69bb0
+cd961d0b7b29996b795ddc80c09cc5d9	OTX	2026-07-16	family=Miasma | pulse='Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery' pulse_id=6a58813c09a76d1819c69bb0
+e67c6be63e55148de424e030cf6bed3b	OTX	2026-07-16	family=Miasma | pulse='Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery' pulse_id=6a58813c09a76d1819c69bb0
+1f5c2e809d1ebd369d34ac22b771c522ced6e5b4	OTX	2026-07-16	family=Miasma | pulse='Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery' pulse_id=6a58813c09a76d1819c69bb0
+46a236cc9f140deb62bbcfb055e7865d5b23ad81	OTX	2026-07-16	family=Miasma | pulse='Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery' pulse_id=6a58813c09a76d1819c69bb0
+9b65b9f1bb27cef7b8a2b0327a47a539b8e473fb	OTX	2026-07-16	family=Miasma | pulse='Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery' pulse_id=6a58813c09a76d1819c69bb0
+ef2d28477befaa103031c7182a6f0dd6b4bb82dd	OTX	2026-07-16	family=Miasma | pulse='Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery' pulse_id=6a58813c09a76d1819c69bb0
+03fa348b70819296c958c842e7646b3b7efe5fa217ed5098143003c47995a746	OTX	2026-07-16	family=TELEPUZ | pulse='TELEPUZ: a modular MaaS malware spreading via CLICKFIX-VIDAR chains' pulse_id=6a584223f539e1c98cd537cb
+444f1c0c82b3f6cc31d685bac68b20edbde5722ce219af9cceab0c2a6537efc1	OTX	2026-07-16	family=TELEPUZ | pulse='TELEPUZ: a modular MaaS malware spreading via CLICKFIX-VIDAR chains' pulse_id=6a584223f539e1c98cd537cb
+580b441e2961739fd26e54e0a0ea08351cb10a51839519fc722cfa39ecd0c954	OTX	2026-07-16	family=TELEPUZ | pulse='TELEPUZ: a modular MaaS malware spreading via CLICKFIX-VIDAR chains' pulse_id=6a584223f539e1c98cd537cb
+58aec6e3835aaf20f7b4a7e308b36a19e7454673a6f71783871e9bcf6cae8eed	OTX	2026-07-16	family=TELEPUZ | pulse='TELEPUZ: a modular MaaS malware spreading via CLICKFIX-VIDAR chains' pulse_id=6a584223f539e1c98cd537cb
+9733a3f6409de81271f21993c7f8b9865ac9f5c68c3d4336e91afe6b312477eb	OTX	2026-07-16	family=TELEPUZ | pulse='TELEPUZ: a modular MaaS malware spreading via CLICKFIX-VIDAR chains' pulse_id=6a584223f539e1c98cd537cb
+a955d7e2819d5fa8b5f879cb970e1a1a91327098a7383f2a03a5e1e7e19435e3	OTX	2026-07-16	family=TELEPUZ | pulse='TELEPUZ: a modular MaaS malware spreading via CLICKFIX-VIDAR chains' pulse_id=6a584223f539e1c98cd537cb
+bf3b4e645a3c0c23f87c55971069014f7424ad14497371ee7567eff68ffaf343	OTX	2026-07-16	family=TELEPUZ | pulse='TELEPUZ: a modular MaaS malware spreading via CLICKFIX-VIDAR chains' pulse_id=6a584223f539e1c98cd537cb
+cee96a38e2dfe31ccf8c3aa7d0d9323e1e3183b2478ba582285822e943d242e9	OTX	2026-07-16	family=TELEPUZ | pulse='TELEPUZ: a modular MaaS malware spreading via CLICKFIX-VIDAR chains' pulse_id=6a584223f539e1c98cd537cb
+ff791fe1532a2dc3b3c188a71bfd0177f973ef228e4d1dda1db6d3c4b0d62b3e	OTX	2026-07-16	family=TELEPUZ | pulse='TELEPUZ: a modular MaaS malware spreading via CLICKFIX-VIDAR chains' pulse_id=6a584223f539e1c98cd537cb
+1abffe97aafe9916b366da57458a78338598cab9742c2d9e03e4ad0ba11f29bf	OTX	2026-07-16	family=Golden Gh0st Loader | pulse='Introducing CylindricalCanine: The GoldenEyeDog subgroup responsible for the April DigiCert incident' pulse_id=6a584222408c03d24cc2103d
+4eaebd93e23be3427d4c1349d64bef4b5fc455c93aebb9b5b752981e9266488e	OTX	2026-07-16	family=Golden Gh0st Loader | pulse='Introducing CylindricalCanine: The GoldenEyeDog subgroup responsible for the April DigiCert incident' pulse_id=6a584222408c03d24cc2103d
+dd44dabff536a1aa9b845dd891ad483162d4f28913344c93e5d59f648a186098	OTX	2026-07-16	family=Golden Gh0st Loader | pulse='Introducing CylindricalCanine: The GoldenEyeDog subgroup responsible for the April DigiCert incident' pulse_id=6a584222408c03d24cc2103d
+54def291b6bd573186734895b7ed03b6	OTX	2026-07-16	family=Golden Gh0st Loader | pulse='Introducing CylindricalCanine: The GoldenEyeDog subgroup responsible for the April DigiCert incident' pulse_id=6a584222408c03d24cc2103d
+639b0dd0fe4da3f4743de6347d7d58b7	OTX	2026-07-16	family=Golden Gh0st Loader | pulse='Introducing CylindricalCanine: The GoldenEyeDog subgroup responsible for the April DigiCert incident' pulse_id=6a584222408c03d24cc2103d
+efe7a351491008a2ccb6b5d586904aba	OTX	2026-07-16	family=Golden Gh0st Loader | pulse='Introducing CylindricalCanine: The GoldenEyeDog subgroup responsible for the April DigiCert incident' pulse_id=6a584222408c03d24cc2103d
+f04ccc9a18dc71ccc4d4b1f651d3d0d2af8ab402	OTX	2026-07-16	family=Golden Gh0st Loader | pulse='Introducing CylindricalCanine: The GoldenEyeDog subgroup responsible for the April DigiCert incident' pulse_id=6a584222408c03d24cc2103d
+f1888d0b44e5e1d5864ca5a9e93bf65c09411320	OTX	2026-07-16	family=Golden Gh0st Loader | pulse='Introducing CylindricalCanine: The GoldenEyeDog subgroup responsible for the April DigiCert incident' pulse_id=6a584222408c03d24cc2103d
+2031a71c399563adaf1572e10abb395387eb132208a001c5e140496d7a3e0b26	OTX	2026-07-16	family=Golden Gh0st Loader | pulse='Introducing CylindricalCanine: The GoldenEyeDog subgroup responsible for the April DigiCert incident' pulse_id=6a584222408c03d24cc2103d
+27b722c66f69e360c4da106daacf3b9eeaabd20634d7e5eff45a28bd70ebfd65	OTX	2026-07-16	family=Golden Gh0st Loader | pulse='Introducing CylindricalCanine: The GoldenEyeDog subgroup responsible for the April DigiCert incident' pulse_id=6a584222408c03d24cc2103d
+2b0071007c3f5fa8e949a8de53be03e97901dd505694ca939b575a49e4fdbdbb	OTX	2026-07-16	family=Golden Gh0st Loader | pulse='Introducing CylindricalCanine: The GoldenEyeDog subgroup responsible for the April DigiCert incident' pulse_id=6a584222408c03d24cc2103d
+3313f347e83aaf48ea31fb1d49fc37452f48f81d20a1b93009e2e78385ff4bba	OTX	2026-07-16	family=Golden Gh0st Loader | pulse='Introducing CylindricalCanine: The GoldenEyeDog subgroup responsible for the April DigiCert incident' pulse_id=6a584222408c03d24cc2103d
+81e276aaa3eb9b3f595663c316b3c6414cc3dde5e6cc3a82856b7276acabb7de	OTX	2026-07-16	family=Golden Gh0st Loader | pulse='Introducing CylindricalCanine: The GoldenEyeDog subgroup responsible for the April DigiCert incident' pulse_id=6a584222408c03d24cc2103d
+8a913610e905c3dd1f657811ea3b1933471b230f88e1c155616099a03ab0abc0	OTX	2026-07-16	family=Golden Gh0st Loader | pulse='Introducing CylindricalCanine: The GoldenEyeDog subgroup responsible for the April DigiCert incident' pulse_id=6a584222408c03d24cc2103d
+d1b1938963037aa332591a4c999523a05886d1f62d80e03f0adc22630b8671c4	OTX	2026-07-16	family=Golden Gh0st Loader | pulse='Introducing CylindricalCanine: The GoldenEyeDog subgroup responsible for the April DigiCert incident' pulse_id=6a584222408c03d24cc2103d
+f67de637fca127212dc60b9a02f74e66dbd602b3b9f6f6e4f2b75614c1f9e944	OTX	2026-07-16	family=Golden Gh0st Loader | pulse='Introducing CylindricalCanine: The GoldenEyeDog subgroup responsible for the April DigiCert incident' pulse_id=6a584222408c03d24cc2103d
+4e143876eeaf5e767a9971f603b0f13c	OTX	2026-06-16	family=GlassWASM | pulse='WebAssembly Malware Found in Trojanized Open VSX Extensions' pulse_id=6a30d0b403db287f819b47e9
+b262b8d2ac2f0ab3c78251db44ecf3ac	OTX	2026-06-16	family=GlassWASM | pulse='WebAssembly Malware Found in Trojanized Open VSX Extensions' pulse_id=6a30d0b403db287f819b47e9
+f595fb7867beb76b4deab53fa328e0a2	OTX	2026-06-16	family=GlassWASM | pulse='WebAssembly Malware Found in Trojanized Open VSX Extensions' pulse_id=6a30d0b403db287f819b47e9
+824e601b599b9ad97ee12f0b3a72efd20ba59d47	OTX	2026-06-16	family=GlassWASM | pulse='WebAssembly Malware Found in Trojanized Open VSX Extensions' pulse_id=6a30d0b403db287f819b47e9
+8ebac142e34a20c297d3ccaca7ee5d9ddd24fed4	OTX	2026-06-16	family=GlassWASM | pulse='WebAssembly Malware Found in Trojanized Open VSX Extensions' pulse_id=6a30d0b403db287f819b47e9
+c0ed7d575fe8085e942898c9a26f15992c895ba9	OTX	2026-06-16	family=GlassWASM | pulse='WebAssembly Malware Found in Trojanized Open VSX Extensions' pulse_id=6a30d0b403db287f819b47e9
+1e283327ad048bea39f4a8501770858a20f3555e87fe3e202274f2e87f8a3c25	OTX	2026-06-16	family=GlassWASM | pulse='WebAssembly Malware Found in Trojanized Open VSX Extensions' pulse_id=6a30d0b403db287f819b47e9
+3aa31999398e7f80231c03d7137ffdb554a84b83dbcffc59ce16c9a65f9e5d58	OTX	2026-06-16	family=GlassWASM | pulse='WebAssembly Malware Found in Trojanized Open VSX Extensions' pulse_id=6a30d0b403db287f819b47e9
+558b4f1d9a263c13756ab0126c09dd080c85ba405b29488e1c4e6aa68b554f1f	OTX	2026-06-16	family=GlassWASM | pulse='WebAssembly Malware Found in Trojanized Open VSX Extensions' pulse_id=6a30d0b403db287f819b47e9

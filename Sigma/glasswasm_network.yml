@@ -1,0 +1,34 @@
+title: Network Connection to Glasswasm Infrastructure
+id: 222aa682-69b0-4e9a-a828-0bab6abf554d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Glasswasm.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chacha20 encryption
+    - cryptocurrency targeting
+    - dead-drop c2
+    - glasswasm
+    - malware.glasswasm
+    - open vsx
+    - solana blockchain
+    - supply chain
+    - tinygo
+    - vs code extensions
+    - webassembly
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'dodod.lat'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,41 @@
+title: Network Connection to Clicklock Stealer Infrastructure
+id: d75a79c1-ee5b-497f-8f98-b1e60cc8df0a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Clicklock Stealer.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - atomic stealer
+    - banshee stealer
+    - browser credential theft
+    - clickfix
+    - clicklock stealer
+    - cryptocurrency wallets
+    - cthulhu stealer
+    - cuckoo
+    - gsocket backdoor
+    - infostealer
+    - macos
+    - macstealer
+    - malware.clicklock_stealer
+    - password theft
+    - poseidon
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'update-check.com'
+        - 'cottonbox.co.il'
+        - 'panalobet.ph'
+        - 'store.grafsynergy.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

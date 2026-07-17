@@ -1,0 +1,52 @@
+title: DNS Query to Microsoft 365 Domains
+id: 9d002e7b-7f45-426d-9d80-80940bf9c55d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Microsoft 365.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - account takeover
+    - credential theft
+    - europe
+    - kratos
+    - malware.microsoft_365
+    - microsoft 365
+    - phishing-as-a-service
+    - spain
+    - united states
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'buenne.de'
+        - 'enerdizerandtron.de'
+        - 'ihrsupportcenter.de'
+        - 'rundwasser.de'
+        - 'sonnenbrillenspot.de'
+        - 'dwbud.vilaribit.com'
+        - 'abal.my'
+        - 'starwellmedia.com'
+        - 'aabiz.de'
+        - 'aspireglobal.ltd'
+        - 'dufllot.sbs'
+        - 'espaciocf.de'
+        - 'ilersls.org'
+        - 'aaalen.de'
+        - 'smartcontrolengineer.com'
+        - 'trisrnareprjdocz.com'
+        - 'razen.online'
+        - 'theoceanac.online'
+        - 'jumpast.es'
+        - 'crm-technik.de'
+        - 'klenpare.com'
+        - 'uvarnix.cfd'
+        - 'xavon.sbs'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,43 @@
+title: Network Connection to Backdoor.Turn Infrastructure
+id: e57fab87-8a87-474d-903e-1dd69cf15e4b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Backdoor.Turn.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - backdoor.turn
+    - byovd
+    - credential theft
+    - cve-2023-52271
+    - cve-2025-1055
+    - cve-2025-61155
+    - dll side-loading
+    - dragonforce
+    - malware.backdoor.turn
+    - microsoft teams abuse
+    - ransomware
+    - turn relay
+    - vulnerable drivers
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'comunidadesparentais.com.br'
+        - 'glanz-gmbh.de'
+        - 'mysimerp.net'
+        - 'professionalhomebasedbusiness.com'
+        - 'projetosmecanicos.com.br'
+        - 'safefire.jo'
+        - 'socialbizsolutions.com'
+        - 'turnkeyaiagents.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

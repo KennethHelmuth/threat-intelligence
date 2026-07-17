@@ -1,0 +1,30 @@
+rule helloinjector
+{
+    meta:
+        description = "Auto-generated stub for helloinjector based on 11 hashes"
+        author      = "ti-pipeline (auto-generated)"
+        date        = "2026-07-17"
+        version     = "1.0"
+        source      = "OTX"
+        family      = "helloinjector"
+        hash_count  = "11"
+
+    strings:
+        // Hashes (SHA-256) – reference only; add byte-strings/imphash conditions below
+        // 0cfdffc56f0fa325d0c4d24780b46597
+        // 16c211c96735f2fae9361b89bd7a31bf
+        // 1bfe2b9493128574907a8279256a8bcc
+        // 41c938b3cd7e55d4077e34976929b140
+        // 6001829a128fe264b4403138700c11a8
+        // 9f5606a0755bc633b9bd7db6d179c09e
+        // b103cd21280b4061f88b2bcc51394894
+        // ee4ff46ddd8489e81447962f927bc3f6
+        // f9eed2f0158dc98e7012fb809152209c
+        // 686292c07e33c4a5ca456db446bb71fb9fc67a81
+        // ffdc194775b2904564bbbd1cf0eb01d1a01f83ef5197d1612b6e2d69de7a4732
+
+    condition:
+        // TODO: replace with byte-level strings, pe.imphash(), or hash.sha256() checks
+        // Example: pe.imphash() == "aabbccdd..."
+        false  // stub – analyst must complete this rule
+}

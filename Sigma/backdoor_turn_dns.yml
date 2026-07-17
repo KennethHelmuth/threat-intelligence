@@ -1,0 +1,41 @@
+title: DNS Query to Backdoor.Turn Domains
+id: adf401ea-48f0-4a2a-8738-354a93190ac9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Backdoor.Turn.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - backdoor.turn
+    - byovd
+    - credential theft
+    - cve-2023-52271
+    - cve-2025-1055
+    - cve-2025-61155
+    - dll side-loading
+    - dragonforce
+    - malware.backdoor.turn
+    - microsoft teams abuse
+    - ransomware
+    - turn relay
+    - vulnerable drivers
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'comunidadesparentais.com.br'
+        - 'glanz-gmbh.de'
+        - 'mysimerp.net'
+        - 'professionalhomebasedbusiness.com'
+        - 'projetosmecanicos.com.br'
+        - 'safefire.jo'
+        - 'socialbizsolutions.com'
+        - 'turnkeyaiagents.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

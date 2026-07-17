@@ -1,0 +1,32 @@
+title: DNS Query to Glasswasm Domains
+id: 5f1b4782-fd62-401e-884c-c203c32b746e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Glasswasm.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chacha20 encryption
+    - cryptocurrency targeting
+    - dead-drop c2
+    - glasswasm
+    - malware.glasswasm
+    - open vsx
+    - solana blockchain
+    - supply chain
+    - tinygo
+    - vs code extensions
+    - webassembly
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'dodod.lat'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

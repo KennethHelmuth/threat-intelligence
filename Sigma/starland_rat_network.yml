@@ -1,0 +1,48 @@
+title: Network Connection to Starland Rat Infrastructure
+id: 4340a1d6-faef-4f5e-b0b2-e1b752bc8e39
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Starland Rat.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - castlestealer
+    - clickfix
+    - credential harvesting
+    - cryptocurrency theft
+    - financial motivation
+    - malware.starland_rat
+    - powershell implant
+    - python rat
+    - remcos rat
+    - russian-speaking adversary
+    - starland rat
+    - trojanized installers
+    - uat-11795
+    - wldr agent
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'w32.b8be9a5e0a-95.sbx.tg'
+        - 'windowscreenrepairnearme.com'
+        - 'zynaris.io'
+        - 'aipythondevs.com'
+        - 'alphabitcapital.info'
+        - 'eorthopaedics.com'
+        - 'niggerdemon.in'
+        - 'sastoro.com'
+        - 'web-devtools.com'
+        DestinationIp|contains:
+        - '193.149.176.254'
+        - '74.114.119.201'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

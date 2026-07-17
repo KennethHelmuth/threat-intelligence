@@ -1,0 +1,39 @@
+title: DNS Query to Potemkin Domains
+id: 683afb4d-b11c-4f93-85b9-664ff43a40e7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Potemkin.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - blockchain c2
+    - chisel
+    - clickfix
+    - credential theft
+    - dga
+    - etherrat
+    - hidden desktop
+    - lateral movement
+    - malware.potemkin
+    - potemkin
+    - rmmproject
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'resumeacceptable.com'
+        - 'cl.distritovagas.com'
+        - 'sonra.eutialyson.com'
+        - 'pestrear-lamp.xyz'
+        - 'anus-staylard.xyz'
+        - 'fair-bath-fond.xyz'
+        - 'rule-bead-dust.xyz'
+        - 'uglyshop-mare.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

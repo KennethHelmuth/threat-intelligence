@@ -1,0 +1,28 @@
+title: DNS Query to Telepuz Domains
+id: 9bc7deff-061e-48db-a954-3f68deadd6ee
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Telepuz.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - maas
+    - malware.telepuz
+    - telepuz
+    - vidar
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'hurgadatour.shop'
+        - 'cal.joycedoula.com.br'
+        - 'cal.snehamumbai.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

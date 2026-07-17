@@ -1,0 +1,30 @@
+title: Network Connection to Telepuz Infrastructure
+id: 59f9bbcf-3e8e-44d8-bdd9-235bce63360c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Telepuz.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - maas
+    - malware.telepuz
+    - telepuz
+    - vidar
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'hurgadatour.shop'
+        - 'cal.joycedoula.com.br'
+        - 'cal.snehamumbai.org'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

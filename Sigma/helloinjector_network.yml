@@ -1,0 +1,38 @@
+title: Network Connection to Helloinjector Infrastructure
+id: ef4ff04a-0a09-4497-a8d6-f5817aa3cb5f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Helloinjector.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chinese apt
+    - dll sideloading
+    - hellobackdoor
+    - hellocleaner
+    - helloexecutor
+    - helloinjector
+    - hellonet
+    - helloproxy
+    - malware.helloinjector
+    - putty
+    - russia targeted
+    - rust backdoor
+    - ssh tunneling
+    - vipnet
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '176.32.34.135'
+        - '5.39.253.206'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

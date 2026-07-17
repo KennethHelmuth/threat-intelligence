@@ -1,0 +1,52 @@
+title: DNS Query to Win.Metastealer Domains
+id: da6a52f8-1c3c-4321-a6f8-45441f8f66e4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Metastealer.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - MetaStealer
+    - malware.win.metastealer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'yyowcsswsesksomi.xyz'
+        - 'yyqewussumqweisi.xyz'
+        - 'yyqisgekkgammukq.xyz'
+        - 'yyqkageayymeoses.xyz'
+        - 'yyqokiuoyqkuwiog.xyz'
+        - 'yywesmeciecsmksk.xyz'
+        - 'yquagqysgcsuceqs.xyz'
+        - 'yqukwqcwqgceousm.xyz'
+        - 'yqusqqumoekaqaoq.xyz'
+        - 'yqwqkcaiaeemoouq.xyz'
+        - 'yqwysiuoiyomosec.xyz'
+        - 'yqyoccyuaoysckmm.xyz'
+        - 'yqyueyuoukmsmqem.xyz'
+        - 'yyaqcymcosceugwu.xyz'
+        - 'yyaygggumsoywcwk.xyz'
+        - 'yyeckmeayawguoim.xyz'
+        - 'yyeoguuueeoaggwi.xyz'
+        - 'yygiiasyoqkgsqee.xyz'
+        - 'yyigcsagquigikkq.xyz'
+        - 'yyiicoewgysyayam.xyz'
+        - 'yqaaywumkgiuoegk.xyz'
+        - 'yqagqiuauqoyuwkw.xyz'
+        - 'yqaiqmaygauogoyk.xyz'
+        - 'yqckmsmisoycykgc.xyz'
+        - 'yqeaqqsiqwgaoyws.xyz'
+        - 'yqegkgwweowiowmw.xyz'
+        - 'yqiiwqcuyquwcmse.xyz'
+        - 'yqkquakgsccocsqg.xyz'
+        - 'yqkyggoocksesowc.xyz'
+        - 'yqmaimewwksoksue.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

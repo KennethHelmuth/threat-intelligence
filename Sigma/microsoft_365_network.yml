@@ -1,0 +1,56 @@
+title: Network Connection to Microsoft 365 Infrastructure
+id: 187100b7-e424-4f02-aece-152121fbd49c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Microsoft 365.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - account takeover
+    - credential theft
+    - europe
+    - kratos
+    - malware.microsoft_365
+    - microsoft 365
+    - phishing-as-a-service
+    - spain
+    - united states
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'buenne.de'
+        - 'enerdizerandtron.de'
+        - 'ihrsupportcenter.de'
+        - 'rundwasser.de'
+        - 'sonnenbrillenspot.de'
+        - 'dwbud.vilaribit.com'
+        - 'abal.my'
+        - 'starwellmedia.com'
+        - 'aabiz.de'
+        - 'aspireglobal.ltd'
+        - 'dufllot.sbs'
+        - 'espaciocf.de'
+        - 'ilersls.org'
+        - 'aaalen.de'
+        - 'smartcontrolengineer.com'
+        - 'trisrnareprjdocz.com'
+        - 'razen.online'
+        - 'theoceanac.online'
+        - 'jumpast.es'
+        - 'crm-technik.de'
+        - 'klenpare.com'
+        - 'uvarnix.cfd'
+        - 'xavon.sbs'
+        DestinationIp|contains:
+        - '41.128.0.142'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

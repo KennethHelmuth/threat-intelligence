@@ -1,0 +1,43 @@
+title: DNS Query to Starland Rat Domains
+id: d8c53dcf-edd5-45fe-afbb-fee7ae6f5f5b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Starland Rat.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - castlestealer
+    - clickfix
+    - credential harvesting
+    - cryptocurrency theft
+    - financial motivation
+    - malware.starland_rat
+    - powershell implant
+    - python rat
+    - remcos rat
+    - russian-speaking adversary
+    - starland rat
+    - trojanized installers
+    - uat-11795
+    - wldr agent
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'w32.b8be9a5e0a-95.sbx.tg'
+        - 'windowscreenrepairnearme.com'
+        - 'zynaris.io'
+        - 'aipythondevs.com'
+        - 'alphabitcapital.info'
+        - 'eorthopaedics.com'
+        - 'niggerdemon.in'
+        - 'sastoro.com'
+        - 'web-devtools.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

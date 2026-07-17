@@ -1,0 +1,33 @@
+title: Network Connection to Netsupport Rmm Infrastructure
+id: df0f8015-a6f6-44ba-8121-8cf6ad30d51a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Netsupport Rmm.
+date: 2026-07-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - dll hijacking
+    - email delivery
+    - malware.netsupport_rmm
+    - mediafire
+    - netsupport rmm
+    - process injection
+    - python side-loading
+    - remote access
+    - scheduled task persistence
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'bsc.blockrazor.xyz'
+        - 'xn--fiqq24b9hejs1c.clickvector.tech'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
