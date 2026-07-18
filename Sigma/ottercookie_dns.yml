@@ -1,0 +1,34 @@
+title: DNS Query to Ottercookie Domains
+id: 4d657bf0-91eb-4849-a380-eb7ed81464c6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Ottercookie.
+date: 2026-07-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - beavertail
+    - cryptocurrency wallet theft
+    - developer targeting
+    - dprk
+    - fake job interviews
+    - malware.ottercookie
+    - ottercookie
+    - steganography
+    - supply chain attack
+    - svg
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'controller.rightwidth.dev'
+        - 'file.rightwidth.dev'
+        - 'ldb.rightwidth.dev'
+        - 'upload.rightwidth.dev'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

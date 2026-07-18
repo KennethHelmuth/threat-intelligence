@@ -1,0 +1,33 @@
+title: DNS Query to Nadmesh Domains
+id: 497b081b-56f2-47ab-9091-5a6c9145f7ff
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Nadmesh.
+date: 2026-07-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai infrastructure targeting
+    - autonomous scanning
+    - botnet
+    - credential harvesting
+    - cve-2016-0638
+    - go-based
+    - kubernetes compromise
+    - malware.nadmesh
+    - mcp exploitation
+    - nadmesh
+    - polymorphic
+    - shodan intelligence
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'cdnorigin.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

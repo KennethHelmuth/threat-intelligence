@@ -1,0 +1,36 @@
+title: Network Connection to Ottercookie Infrastructure
+id: 13a8b9c9-fac6-4c39-b70c-00482c48a932
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Ottercookie.
+date: 2026-07-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - beavertail
+    - cryptocurrency wallet theft
+    - developer targeting
+    - dprk
+    - fake job interviews
+    - malware.ottercookie
+    - ottercookie
+    - steganography
+    - supply chain attack
+    - svg
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'controller.rightwidth.dev'
+        - 'file.rightwidth.dev'
+        - 'ldb.rightwidth.dev'
+        - 'upload.rightwidth.dev'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

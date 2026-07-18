@@ -1,0 +1,43 @@
+title: DNS Query to Acr Stealer Domains
+id: 7f3093e6-6efa-4856-ab08-e03f30f98fd7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Acr Stealer.
+date: 2026-07-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - acr stealer
+    - amatera stealer
+    - blockchain c2
+    - clickfix
+    - malware.acr_stealer
+    - steganography
+    - webdav
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'proton-network.com'
+        - 'ux.strainedeasily.icu'
+        - 'looksta.icu'
+        - 'fast.raidher.icu'
+        - 'apigrokcloud.icu'
+        - 'deep-harborio.com'
+        - 'zealpraxis.com'
+        - 'prism-vertex.com'
+        - 'auramatrixa.com'
+        - 'cpppemwjewjoiwejow.sale'
+        - 'creativecommunityinfo.art'
+        - 'enhanceblabber.cc'
+        - 'prism-matrixs.com'
+        - 'breaksd.wifihot.icu'
+        - 'contrite.quirksturdy.icu'
+        - 'walter.filloco.icu'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

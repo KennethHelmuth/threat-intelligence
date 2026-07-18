@@ -6112,3 +6112,81 @@ c0ed7d575fe8085e942898c9a26f15992c895ba9	OTX	2026-06-16	family=GlassWASM | pulse
 1e283327ad048bea39f4a8501770858a20f3555e87fe3e202274f2e87f8a3c25	OTX	2026-06-16	family=GlassWASM | pulse='WebAssembly Malware Found in Trojanized Open VSX Extensions' pulse_id=6a30d0b403db287f819b47e9
 3aa31999398e7f80231c03d7137ffdb554a84b83dbcffc59ce16c9a65f9e5d58	OTX	2026-06-16	family=GlassWASM | pulse='WebAssembly Malware Found in Trojanized Open VSX Extensions' pulse_id=6a30d0b403db287f819b47e9
 558b4f1d9a263c13756ab0126c09dd080c85ba405b29488e1c4e6aa68b554f1f	OTX	2026-06-16	family=GlassWASM | pulse='WebAssembly Malware Found in Trojanized Open VSX Extensions' pulse_id=6a30d0b403db287f819b47e9
+877525407f4b6feafe8e16b736e9eaad24ef4df2ad142387cc005b3b0fba76f6	MalwareBazaar	2026-07-18	filetype=elf md5=92517887ba84517087365c3a968b4474 sha1=acaf4e685fd695d48981bcdab5b331c6c70482d4 | vt=19/74
+1e83be9c9bcc879bbf68332b8c5b5fb5ab2591ae6098a4ed4fe65aee0780cfac	MalwareBazaar	2026-07-18	filetype=elf md5=7f2923d90252b80cc12adb63a61ee57c sha1=76a39f86cdce0bf9371e94c790bc0e557a4c49c1
+7df3cebf5b779a0a266ca4fdb979fab474223505bfc9a63d27a1ff985ef9fffc	MalwareBazaar	2026-07-18	filetype=elf md5=f30e4a13e462ab1f0348d5b8acf705f8 sha1=efd6eb2a650dda0032b29865b591c9b9b638e140
+bed4780f7c726192443063214f085b9f93b89f736e25ab17e44c1aa77f667c2f	MalwareBazaar	2026-07-18	filetype=elf md5=e6948f214e3e79d6e4ff27517baa8aa8 sha1=fd859a43f66cfe5178235599739b6c280dc546e5
+d45935ba4fc0213cff236e68a531c80aef0e40c5149866ec8435130e512b5e65	MalwareBazaar	2026-07-18	filetype=elf md5=8ac48fc25ec684b2cede7adf242b1651 sha1=0854f2ca4c2a54d4ec932fb64579f3f440e234fe | vt=6/74
+cd6dc7a2725ad8550e21cc16f471519e3e2abd32df2acb45804d5af6a078c44f	MalwareBazaar	2026-07-18	filetype=elf md5=4d6062a9d3e08ea7c9d7ee54139457d0 sha1=b8828dbaac27f85e408b28af922ce03455ae52d7 | vt=5/74
+51228996cf0280efc9b4c45d499e8527029667335b7b26951990feac7f22595a	MalwareBazaar	2026-07-18	filetype=elf md5=c556ed940db446c46ac3e92271e10472 sha1=a59ac1b178deef238cb08df040999786b65ea75b | vt=8/74
+1858c51b58e913ca8d868ea94493ad1c74fad15ce283d94c10c22ceb3e92541d	MalwareBazaar	2026-07-18	filetype=elf md5=055a97568f56cd2a04b43cc3f6cc88c7 sha1=c9b93c78e6d09da14d693dc7996420d47c0138ab
+049a2ed3406e7c70ce358c108d1f57001d6f2f1f924215f06d9e43b6c213f62b	MalwareBazaar	2026-07-18	filetype=elf md5=b66634a4b9445c23eb96c1fe52e72dd8 sha1=82643cdd009c6074f4e0898fded08a2603a5765f | vt=7/74
+f84fab97acebb6a52e2e839403b8e3a7fe040dcc30e808b6198e02a3621015a8	MalwareBazaar	2026-07-18	filetype=sh md5=eb8d2d42a44c9b3f8796ccd77ccf4842 sha1=d2f0b43c27602c9a01682d9b1b8949aae454d956
+296a72481bfbddcfc395c8e0ed3b6c3c0489530f8c20c90f60c519c4cb73e3df	MalwareBazaar	2026-07-18	filetype=sh md5=3b0ca49256172bf132a0e168ee289ec9 sha1=7a6bcb2a919d526c8b008400a3cb98ef790eb97f | vt=17/74
+f85c795e38bd714fd320ce2888c6eb3d445723cd586c3db1411e443fb69edd7f	MalwareBazaar	2026-07-18	filetype=exe md5=1e0e6fc873098ca705b15bf80ee22b64 sha1=3bbe67845c033d712dd7b0f5c22a37e4d5ca390b | vt=21/74
+e3763b1555c565bdf4e4ad9c1ffd65f01b504f483375d8573ecba6b5467e2330	MalwareBazaar	2026-07-18	filetype=elf md5=470181143901f40f04995fc65daf3d40 sha1=566067b3dc2fc3c1faa83073d2f3bdcc78fe4db9 | vt=11/74
+7961c4cb8175e03c7a6ab0cef01d0b0feaecc2fe3b25b7c8a036ce3051135284	MalwareBazaar	2026-07-18	filetype=sh md5=7d28f0fd133cddea07d46a5e907bc8c5 sha1=fbc3d98c3b3440e7d4d6ab782476e8f611090724 | vt=17/74
+e99b526cf03cf0950237edca206f76dcdfb98ba7459a50e8ec5720d847b0427a	MalwareBazaar	2026-07-18	filetype=elf md5=e22701b42ac6230c9d733cf68b9e4c84 sha1=2fe01185165d63cd47d9a5b7171593e5dfbce5c5 | vt=5/74
+32248ab13cb51588769a70d7672bd98a200f1ede0067ae6193f56c74fc358321	MalwareBazaar	2026-07-18	filetype=elf md5=93d220bc13630dec8849d4823ad11a47 sha1=0e1427b6279801a02291f8853a3f707e8f896476 | vt=11/74
+7073018596b174f584299d5152cf90f89a1f4e3bf072b778fc3342fda5c82f4f	ThreatFox	2026-07-17	family=win.vidar | confidence=95% threat=payload
+c45f291fda8740a843202a77180a15a1	ThreatFox	2026-07-17	family=win.vidar | confidence=95% threat=payload
+240861bb6ee7723f0a7449ec501c466b	ThreatFox	2026-07-17	family=win.vidar | confidence=95% threat=payload
+cf4866e9f6c60a4b253de4bb85f4da90	ThreatFox	2026-07-17	family=win.vidar | confidence=95% threat=payload
+8ca5069041a3de3536f0be3b8f1b9044a0dfffd0295d7495cbd57d6a312af0b5	ThreatFox	2026-07-17	family=win.vidar | confidence=95% threat=payload
+06ba715b44892af143c4336c189c28b5d95f446d3d07ca7ce7a6ab2a0601168b	ThreatFox	2026-07-17	family=win.vidar | confidence=95% threat=payload
+0a9a59c9e53e6d9f218fc6c307016b44	ThreatFox	2026-07-17	family=win.vidar | confidence=95% threat=payload
+2fdcac512cef51c5b0d8a4fb23c278b973d20978aab5d463abbe131dd04879a0	ThreatFox	2026-07-17	family=win.vidar | confidence=95% threat=payload
+7514a13877ee29b842859862663a03ed	ThreatFox	2026-07-17	family=win.vidar | confidence=95% threat=payload
+c13be88a14d2c50b4e5ebca6b490fd6b8a6982555051c58b1d45fef6011671ee	ThreatFox	2026-07-17	family=win.vidar | confidence=95% threat=payload
+057739a12fa0d25a1017e5f7a8538140	ThreatFox	2026-07-17	family=win.vidar | confidence=95% threat=payload
+752b88ff4f0f5ea39ac1912c924f2f4d	ThreatFox	2026-07-17	family=win.wannacryptor | confidence=95% threat=payload
+8d5025b2ab7917dc3283738d91634a741d1bc3e03196d2855a1fd81fd9d80381	ThreatFox	2026-07-17	family=win.vidar | confidence=95% threat=payload
+b0a87d0fcdd49c072364c4378dfc9f8b	ThreatFox	2026-07-17	family=win.wannacryptor | confidence=95% threat=payload
+431e527d800caf5391917f79b07bb0650501ded29678edca8627007f629c1bad	ThreatFox	2026-07-17	family=win.wannacryptor | confidence=95% threat=payload
+1da954be17c19b2e61d605097f1c7b29	ThreatFox	2026-07-17	family=win.wannacryptor | confidence=95% threat=payload
+3b6603d9bd648152700076a8e00a0e23218fd642ce63b5b47891f9db9ec0172b	ThreatFox	2026-07-17	family=win.wannacryptor | confidence=95% threat=payload
+48fca9f4433f79d8595fb75fe0940af8177b91b51068c132655472551b91af5a	ThreatFox	2026-07-17	family=win.wannacryptor | confidence=95% threat=payload
+993e330b2c80db36a50514c5fd50466c	ThreatFox	2026-07-17	family=win.wannacryptor | confidence=95% threat=payload
+81961b2997cdf859ab8b96c3dd0afb07	ThreatFox	2026-07-17	family=win.asyncrat | confidence=95% threat=payload
+4caa645feeb04cad5af75a3c5024076e99560678584c84ae07950c9c106d2af0	ThreatFox	2026-07-17	family=win.wannacryptor | confidence=95% threat=payload
+53b75c21bfc49c21d1e3998cf2acd14a	ThreatFox	2026-07-17	family=win.wannacryptor | confidence=95% threat=payload
+938a9136aa1f128c6462899bac6ab7a6a7cfd3a1bcc79fb38bfb207032d8515b	ThreatFox	2026-07-17	family=win.asyncrat | confidence=95% threat=payload
+1574e58fb3f049dd10d6923ca6b36bc440160cfdf57407328191ada99d3e1a89	ThreatFox	2026-07-17	family=win.wannacryptor | confidence=95% threat=payload
+ee28d48c9b22e4f02b8c61bc98af039df9cda6939b99fb71d9b0fd16e9fba14e	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=e83c3615eac82b11b5e7e3ead73ca9f8 sha1=b07f7797e0332e402bd747d1c1391c164bc35b2a
+fe83fd60fa4682327eb66a1991685d427054af49f0bf0956546d77acc1f1db6a	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=b45eac742a1dcd6b9046cb1a7a75e429 sha1=bcacd420f7a898ae6a2371e38d775e95e3860d78
+f5084fcd2670db2e030285c84e99ed075fc99d22ef64585d61f39ea04391862f	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=ebc8a7e916fc1849ff7e3074e8e71b2f sha1=6ee7f42f9ac9d55b3812f554fc9a3e75f8bb3efb
+41a5af65484f67ccf26159a27523f6e5de98beeeebad69596fc76ccecc815304	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=5dc827ece2271260cd23164c4ac601f1 sha1=668ba50e838b11c8687fae32f0e15f119109106b
+aab0a6d8d9c2934691ffda0d08aa903770cd556cfe02da7dd55f6106977a220a	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=a5ebbe192e9ebc424323c921c09fdcba sha1=64d8bb84ede931b0c7fcb0880fe58a46fd40a6c4
+52d04addeae331314cfb21fd5dc3287532b49f0dbdd4839de53cdcb52380b0b1	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=47c42d9a6c64965b66c88d8ddf0c3b1a sha1=fa911c8f357c11681537620d374aa505d585dc3e
+84b817443d7488ad8c899daa0a08a237536ffa9165de500922e579f136f86463	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=9974a5839e22f5a9784099ef047d1718 sha1=2c8eea44968baafb0b61571ad4d91c2bf20695c5
+798f3c696c7642b3cd47f47ff039150ee946dce877ee04cd36af64e63e27a2c1	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=b7fa4d17fd286e95d499493dd9731267 sha1=1ba8e12d2ffebf9c81e9f56af6cdc750726adab1
+848f1546a84dd92cce3c1463e3e964698533d93d6ea7be00e000db5efbb1d2f4	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=2134f87d40aeeee0a20edb47e698304f sha1=7f57d53ae2db7d3e19e0e11071430565d67a6b58
+541d02331c910b5c73bf2b5a5e744319f9bd2b42f716c9ba28c9105eab915bdc	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=f6dd344828f4ffdb46f4eb258487ba54 sha1=fe6e55984d30ea737dcb4fd2846d47fe51ad0fc9
+e4377c8a0d26d9843a34644c145732c3d5179f9dbc87ae46d8cac66545b3ba8c	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=f6a4f8cc9fa2903d39664ee6bfbc6fe7 sha1=428c4be79c29ab1d749ecc603578d81125ac178a
+c569ae79cce6d17ccd35031c39c1b3d6c634e4e906b932fcce48ac0a0336fdbf	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=0a38e1daf9790f01c3f9c52eb797cb85 sha1=ec92c67a450bc9fe82ac3120a262bef40612c675
+561397d9a74f3923c8b4cfe955b0b4727e56fab6d1eba096964a172bfe14ed29	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=b0678c101d5d57affdafe807856303d8 sha1=a691a5a221fa720a23a87d05e16631524b706ea1
+1e3c77937fbeb6c30db92b5f571623264260e71ddfae8b5c2f79a76c20057e23	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=3ab16a5b3f205f6aa2bc47f84cfb7cc3 sha1=73c5bfe39f7de12efc981445b49d742056204356
+f8514ee48f0e84bb0a1172f469b5efeeb89625b53689d2a6a0a1beeb584fe658	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=a3e7157750a5eaf2be237c57cbb069c2 sha1=b22ef593a5af37c601ef40244597547231aa704b
+fbf46de3022593c85013ee66b07967bfa02a0d7f618532b6192722296331a43b	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=bfb121288d2399d8ee0990a73fc85587 sha1=385cb87b1aeea6ac11c70c296b8fc094ed657760
+029e273cda07c75ccc3bd5b09ba4b622a732abf2bfe3cdc69c133de70813b7eb	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=b3a00eb825f17280eef4d1ffebae2d9e sha1=0b4265eab33c2493c5864cf9f4abd13a5650fda8
+2ed322830841e3043f09476f755ca36da1d58324521924483b24c1fc2fb650cc	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=8af46a6ba5db654b98b5bbb853d5a691 sha1=acd0564760d19c5d84aa2788fd6648432712d618
+d03c0e897d5aef598330056653174ccb4d9213e006fa761f1330cebb209f050a	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=7b60f9c1322a439a205c36045bf6e7d7 sha1=59a461a7f6231a2dad6a0d6c040cb7646cd48ae7
+edaea93baed98567c213668dc5b258d541623ce7358c0b7368fe8cdd07c54da1	MalwareBazaar	2026-07-18	family=Mirai | filetype=elf md5=25d9270e4067f6a29de1b3776dc83729 sha1=aa8ed8e85a664f1e50dbed084940fad680e9b626
+ca024acead8f54cfe5b07ac4bdf7fcea	OTX	2026-07-17	family=NadMesh | pulse='Botnet Analysis: A Product-Grade Threat for the AI Service Era' pulse_id=6a5a11b5327ee76f3502c500
+31c69b3e12936abca770d430066f379ec1d997ec	OTX	2026-07-17	family=NadMesh | pulse='Botnet Analysis: A Product-Grade Threat for the AI Service Era' pulse_id=6a5a11b5327ee76f3502c500
+fc4109f5dd1d30b65dd60e57dc639ac1d313bfa5241e36e61fbc4aabc1cda482	OTX	2026-07-17	family=NadMesh | pulse='Botnet Analysis: A Product-Grade Threat for the AI Service Era' pulse_id=6a5a11b5327ee76f3502c500
+3e6360f83a95540aa2176d279ca4694513afb1e5116a7ffe591c6b5bcf3b9c3c	OTX	2026-07-17	family=OTTERCOOKIE | pulse='Contagious Interview malware in SVG images: DPRK campaign' pulse_id=6a5a8ba0229db5a5b2686baa
+4e7639045b4a64de60bfb6312951a5c3dffbd3fb04b84837663242ed27f09864	OTX	2026-07-17	family=OTTERCOOKIE | pulse='Contagious Interview malware in SVG images: DPRK campaign' pulse_id=6a5a8ba0229db5a5b2686baa
+54bf36910d81ab516037cb3d69d7c85190f90aa0da9e58617799c1fc738dc5a9	OTX	2026-07-17	family=OTTERCOOKIE | pulse='Contagious Interview malware in SVG images: DPRK campaign' pulse_id=6a5a8ba0229db5a5b2686baa
+8e571d58794b9b44ae53c2c67bedef72c500e8adbb80aab7a5c263adcba55b1e	OTX	2026-07-17	family=OTTERCOOKIE | pulse='Contagious Interview malware in SVG images: DPRK campaign' pulse_id=6a5a8ba0229db5a5b2686baa
+96357529d17c4690826d5d4c74deac51743a5388733b3f04004d898f0635ef20	OTX	2026-07-17	family=OTTERCOOKIE | pulse='Contagious Interview malware in SVG images: DPRK campaign' pulse_id=6a5a8ba0229db5a5b2686baa
+9df01d242ef46adfedf8c35cb7cc67b1d27d7dc4a1ce74ab32e984090d579886	OTX	2026-07-17	family=OTTERCOOKIE | pulse='Contagious Interview malware in SVG images: DPRK campaign' pulse_id=6a5a8ba0229db5a5b2686baa
+c5aed4c063d4970a03250778da8041da9e0c83d8f22d2f1994da0ad72567ebd9	OTX	2026-07-17	family=OTTERCOOKIE | pulse='Contagious Interview malware in SVG images: DPRK campaign' pulse_id=6a5a8ba0229db5a5b2686baa
+cc97517f80f567977300450de11e9a0be53f52657525a20b1091c99fe9e45730	OTX	2026-07-17	family=OTTERCOOKIE | pulse='Contagious Interview malware in SVG images: DPRK campaign' pulse_id=6a5a8ba0229db5a5b2686baa
+fb94b2caee2c40635448a98ba0118421e19a400e74ccff73315f8fa42351f53f	OTX	2026-07-17	family=OTTERCOOKIE | pulse='Contagious Interview malware in SVG images: DPRK campaign' pulse_id=6a5a8ba0229db5a5b2686baa
+07d7d21c2c0920d198efb9ea54900a80	OTX	2026-07-17	family=Remcos RAT | pulse='Behind the Refund: From GST Phishing to Remcos RAT Through a Multi-Stage .NET Infection Chain' pulse_id=6a5a0f86e175ec219dfa17b2
+20476f3a51dfddf3dc0603fc7858d894	OTX	2026-07-17	family=Remcos RAT | pulse='Behind the Refund: From GST Phishing to Remcos RAT Through a Multi-Stage .NET Infection Chain' pulse_id=6a5a0f86e175ec219dfa17b2
+2a34bdd25b404737ee5d3b52bf0b3b70	OTX	2026-07-17	family=Remcos RAT | pulse='Behind the Refund: From GST Phishing to Remcos RAT Through a Multi-Stage .NET Infection Chain' pulse_id=6a5a0f86e175ec219dfa17b2
+3757dccb2adae65ccdf8d5e5c948b927	OTX	2026-07-17	family=Remcos RAT | pulse='Behind the Refund: From GST Phishing to Remcos RAT Through a Multi-Stage .NET Infection Chain' pulse_id=6a5a0f86e175ec219dfa17b2
+7842d12d9e37c75076133be5b9904cb2	OTX	2026-07-17	family=Remcos RAT | pulse='Behind the Refund: From GST Phishing to Remcos RAT Through a Multi-Stage .NET Infection Chain' pulse_id=6a5a0f86e175ec219dfa17b2
+cc34d9760394104ad47877a0d57e9c63	OTX	2026-07-17	family=Remcos RAT | pulse='Behind the Refund: From GST Phishing to Remcos RAT Through a Multi-Stage .NET Infection Chain' pulse_id=6a5a0f86e175ec219dfa17b2
