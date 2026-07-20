@@ -6252,3 +6252,21 @@ f238406f5cd53942450f145e1c977476	ThreatFox	2026-07-18	family=win.hijackloader | 
 036227aa4ccacd6153de68143e02f001	ThreatFox	2026-07-18	family=win.nanocore | confidence=95% threat=payload
 6aa982f7c6167752e8f58083dc5f1c11ff0aa63b3c3d2e192009cce2cef84ee0	ThreatFox	2026-07-18	family=win.ghost_rat | confidence=95% threat=payload
 c1d7ce9290ee9a148ea430871f900a44511b8db374dedcb4d417072b54e48d07	ThreatFox	2026-07-18	family=win.nanocore | confidence=95% threat=payload
+c125bbd2333186b24a2dc74b99c7f3db4fca9fbe86af42e68cc4999252453a2a	MalwareBazaar	2026-07-20	filetype=exe md5=c6e9c0fbdb1865cb396d7d8f9e810eba sha1=0ae402fdc9baf13b4143c8fe10e90baea060d043 | vt=23/74
+8c21b2fbded2faeb6db2e7a20c513cdb	ThreatFox	2026-07-20	family=win.redline_stealer | confidence=95% threat=payload
+52f56cc1abe3ed2f437aaae0c74f5db9	ThreatFox	2026-07-20	family=py.venus_stealer | confidence=95% threat=payload
+b59653f1e2b8dae784ca4211199d2887ea676d27e7af9d057a625cf9281c17e0	ThreatFox	2026-07-20	family=win.redline_stealer | confidence=95% threat=payload
+9c986d7e311ce1e8db7bd65b8271a87d	ThreatFox	2026-07-20	family=win.valley_rat | confidence=95% threat=payload
+5f85e22acb86ebc9031256efb11af9f1eed58621312a0c0bf448fe699e809c92	ThreatFox	2026-07-20	family=py.venus_stealer | confidence=95% threat=payload
+b0c4fe17a83df1621ce3db824684bb55	ThreatFox	2026-07-20	family=win.phorpiex | confidence=95% threat=payload
+40c98ff9673f67cfa82d9e2e16a2e55644f71fec87e2d92f25821a2b917f8145	ThreatFox	2026-07-20	family=win.valley_rat | confidence=95% threat=payload
+d0b2dbfbc3a1d6474628f5268cf884fc	ThreatFox	2026-07-20	family=py.venus_stealer | confidence=95% threat=payload
+2ac492ce3b66a7979ceba5f26c594f0a69698d19b2ffdb56ac8b741dc30f8e5e	ThreatFox	2026-07-20	family=win.phorpiex | confidence=95% threat=payload
+0561a3921c93fe5913454241362e80e2	ThreatFox	2026-07-20	family=win.valley_rat | confidence=95% threat=payload
+2c292ea5d66b3aa9b531e60f55d6af341d101961a649614d022111ff743492f3	ThreatFox	2026-07-20	family=py.venus_stealer | confidence=95% threat=payload
+e6f4c46f2a72a4d8b1eda2c2c431c64d73eae7057221b35a6fc16138e4dc4d43	ThreatFox	2026-07-20	family=win.valley_rat | confidence=95% threat=payload
+e85149704da6ee8f9bc1c55304c560d1a792180489d4859a64cf0a4e056ccf52	ThreatFox	2026-07-20	family=win.amadey | confidence=95% threat=payload
+f8e68cddf13a94d821a4b265172a0e32	ThreatFox	2026-07-20	family=win.amadey | confidence=95% threat=payload
+5d11d7b9b175695c197014bc6aa2fbdb	ThreatFox	2026-07-20	family=win.amadey | confidence=95% threat=payload
+a86c023a02f1454738b39f753f50777c238b4ea296ffc76cd41c3059f216be10	ThreatFox	2026-07-20	family=win.amadey | confidence=95% threat=payload
+45fb50f074613b46672fac2ce2f30f1dd5f4e15a3d7f1fd53c333b1e198dbbc3	ThreatFox	2026-07-19	family=osx.unidentified_001 | confidence=100% threat=payload
