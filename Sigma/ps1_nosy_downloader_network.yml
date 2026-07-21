@@ -1,0 +1,25 @@
+title: Network Connection to Ps1.Nosy Downloader Infrastructure
+id: a8a4ac82-69c7-4e73-a04b-017a3c581ae3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Ps1.Nosy Downloader.
+date: 2026-07-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.ps1.nosy_downloader
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - '6b6t.org'
+        - 'hajar-tricks.braincert.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

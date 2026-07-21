@@ -1,0 +1,26 @@
+title: Network Connection to Win.Cur1 Downloader Infrastructure
+id: 6dc7eab9-4728-4e40-9a97-3b85ba6435f3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Cur1 Downloader.
+date: 2026-07-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.win.cur1_downloader
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'enhancements.wtf'
+        - 'meteorclient.com'
+        - 'phantom.pub'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

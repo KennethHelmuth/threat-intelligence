@@ -6270,3 +6270,83 @@ f8e68cddf13a94d821a4b265172a0e32	ThreatFox	2026-07-20	family=win.amadey | confid
 5d11d7b9b175695c197014bc6aa2fbdb	ThreatFox	2026-07-20	family=win.amadey | confidence=95% threat=payload
 a86c023a02f1454738b39f753f50777c238b4ea296ffc76cd41c3059f216be10	ThreatFox	2026-07-20	family=win.amadey | confidence=95% threat=payload
 45fb50f074613b46672fac2ce2f30f1dd5f4e15a3d7f1fd53c333b1e198dbbc3	ThreatFox	2026-07-19	family=osx.unidentified_001 | confidence=100% threat=payload
+12552a110d5bcb5f593c40df2e78ce7253cc6103b245adb3029b15d44026f3c0	MalwareBazaar	2026-07-21	filetype=elf md5=3fd762fe2e87352ffa725d1bdd682d32 sha1=f9c97c0af0cbaed6854b7c9ad24010ca92160dcd
+44f4620c1f239c8abba7f0b04b63f2238ed917f1285ebc416d2c2d21adb3a6cf	MalwareBazaar	2026-07-21	filetype=elf md5=dcc38510f3241c82412f875c49cbd216 sha1=ad809e10528e0ac74b491f2a9f21c2853243b5b1
+db99e7a9d7ba73fbdcf2e0c9d6a7efb496beb29f87d00ddccff1825c641d1bf4	MalwareBazaar	2026-07-21	filetype=sh md5=7957bf772a86d49fde270c135de93bf4 sha1=466c9fadc4bdaff7422b479fdb77eace85a8e88e
+dc745c186d00780cc85dd82adf4186441935ebc6547e375d778eaffb5dbe9305	MalwareBazaar	2026-07-21	filetype=msi md5=41149b65e88f1807a83269dc1535f6ed sha1=fa6bcae7978bc960c587fb2682fa5ad156962e0a | vt=18/74
+941bae04b8307eff2faa47f60c59298717d218e06c4e716ff576dc9cf0363ddb	MalwareBazaar	2026-07-21	filetype=sh md5=dceeadcf0b77afca511c5a8caf653b0f sha1=87f75ccce73b499013e72bac644f174f21d82027
+26dfbed73c43b51a8b0b2136e35f78bd987aff9fd163c5c7abaeca4ce639ae17	MalwareBazaar	2026-07-21	filetype=exe md5=9d9debe827b125fa52e76692b0d6d25a sha1=60e2f3ee0d06652eacfc71d1c36f503d68b28988 | vt=20/74
+ebaa6717e0011710c3cc8f4b2fd7fb767a3a0e4d01415957d9b24919650a7a09	ThreatFox	2026-07-20	family=unknown_stealer | confidence=100% threat=payload
+3fc95667b98c637ba785b67dff1bd15ff7a21f082d25894c3a78ec1b6206fcd7	ThreatFox	2026-07-20	family=win.ghost_rat | confidence=95% threat=payload
+eff8675fac22c49107a2a42d3c735f10	ThreatFox	2026-07-20	family=win.ghost_rat | confidence=95% threat=payload
+f47ac99afe9dbccccf308de99a8c791c675810047d11bd4613c5a4a4f08568e7	ThreatFox	2026-07-20	family=win.rhadamanthys | confidence=95% threat=payload
+159e06ef198371caf78e9a168b5ef4e9	ThreatFox	2026-07-20	family=win.rhadamanthys | confidence=95% threat=payload
+84b7baaa2e134146258d883388114f18	ThreatFox	2026-07-20	family=win.vidar | confidence=95% threat=payload
+0a4b3b6e4de78361552735cbbc95a1819a7338c810e7f31e1a3d68a06a5252bb	ThreatFox	2026-07-20	family=win.vidar | confidence=95% threat=payload
+788fc952b7bdc334fc677426dcf2af39	ThreatFox	2026-07-20	family=win.vidar | confidence=95% threat=payload
+aac21459dc203d21c539a72d54221102	ThreatFox	2026-07-20	family=win.formbook | confidence=95% threat=payload
+78e53037a3b94c1a14f4c8283f27b1b9b6a0601515fe6b4cdc28ac8fce9b938f	ThreatFox	2026-07-20	family=win.formbook | confidence=95% threat=payload
+164e4dd739dacd0e13fb125905abd4ef3293391d34405421ddad4470826c1941	ThreatFox	2026-07-20	family=win.tofsee | confidence=95% threat=payload
+7aff39817fd60f3ea5b9298e8838b481	ThreatFox	2026-07-20	family=win.tofsee | confidence=95% threat=payload
+ea96de1d5ee80bbe8795d352f7ac3e30	ThreatFox	2026-07-20	family=win.vidar | confidence=95% threat=payload
+43fe17a95010413fce338858f7f675708e1f3b9fb1998a436881c35dbe49825f	ThreatFox	2026-07-20	family=win.asyncrat | confidence=95% threat=payload
+eb3fd1706066aecf68f002c744100218	ThreatFox	2026-07-20	family=win.asyncrat | confidence=95% threat=payload
+7a8f47c4a4d9870b838791d51abafab65b8279e5c347add2b7e5aaa0222ab84a	ThreatFox	2026-07-20	family=win.vidar | confidence=95% threat=payload
+58328b7f4fecb0407da1947937b41162e23a61559d6f49526ec1683febad6ddc	ThreatFox	2026-07-20	family=win.agent_tesla | confidence=95% threat=payload
+10cc531b5f4765f53cd3a58a2c23ffcf	ThreatFox	2026-07-20	family=win.agent_tesla | confidence=95% threat=payload
+2112d749000ec32a1eeb719eb1e0daee69cda7946eab3049f5d2fd83bac566c2	ThreatFox	2026-07-20	family=win.agent_tesla | confidence=95% threat=payload
+d8d19575c1de6c091ebf0624596478fa	ThreatFox	2026-07-20	family=win.agent_tesla | confidence=95% threat=payload
+d1dc20911470ed43af8bce0355fd0cf7	ThreatFox	2026-07-20	family=win.xworm | confidence=95% threat=payload
+80571d10fe416a63ceb0c3b582c547573c41c1b1108ebda0e5604edf4532ff97	ThreatFox	2026-07-20	family=win.xworm | confidence=95% threat=payload
+2d1a5a0c9b43b6dbff32bd3b66d1a96c0d36773f5b7b546fcb9da93580f9246a	ThreatFox	2026-07-20	family=jar.crossrat | confidence=95% threat=payload
+8465b5392ea382ceec662c25ea7acc34	ThreatFox	2026-07-20	family=jar.crossrat | confidence=95% threat=payload
+e16ea5b5892442616eb4b0d8e53a242e6532b77db42202d33b78ef9461745cc5	ThreatFox	2026-07-20	family=win.njrat | confidence=95% threat=payload
+b3f9d748284ba06c5f74c062b11c6066	ThreatFox	2026-07-20	family=win.njrat | confidence=95% threat=payload
+9aa928b433983f53758e42961aa0cf8096a4211a5562bfcd7ba3cb63d902282b	ThreatFox	2026-07-20	family=win.phantom_stealer | confidence=95% threat=payload
+c8a7ae786c0294734130e1685a6f5ae3	ThreatFox	2026-07-20	family=win.phantom_stealer | confidence=95% threat=payload
+d3adedb75d5f43ee0a1400fa5be76e4f734ec031d40b426a390ec5f453a40859	ThreatFox	2026-07-20	family=win.formbook | confidence=95% threat=payload
+0c9381cfd85e2d1aad8ccbe8bec861ca	ThreatFox	2026-07-20	family=win.formbook | confidence=95% threat=payload
+6b1f9dee6182e98eabff20baa433fced12a7f584e4973eb7b020f6a0c297fcec	ThreatFox	2026-07-20	family=win.wannacryptor | confidence=95% threat=payload
+a563ff5a153b001223ff8d93d68405c9	ThreatFox	2026-07-20	family=win.wannacryptor | confidence=95% threat=payload
+330f79845eb9694405707e1b2ef8621e8673920b3da8ccb3a4136418b7404254	ThreatFox	2026-07-20	family=win.phantom_stealer | confidence=95% threat=payload
+e14ec518b3e9768fd51d95f13c60dea1	ThreatFox	2026-07-20	family=win.phantom_stealer | confidence=95% threat=payload
+a3f6cbc6b8366c4378504eedbb2408d1	ThreatFox	2026-07-20	family=win.formbook | confidence=95% threat=payload
+865884c27b7ee53c1744c183ca07ce310b4485dfa085fe3ed3c658e38f7d99f2	ThreatFox	2026-07-20	family=win.formbook | confidence=95% threat=payload
+a0abe6eb238036b9a233799296c270282a19f603ed5560d4874a277fa55b17c3	ThreatFox	2026-07-20	family=win.socks5_systemz | confidence=95% threat=payload
+a77da66551da74d743efd55f09d46dc8	ThreatFox	2026-07-20	family=win.socks5_systemz | confidence=95% threat=payload
+791d27fd45d5ac5f25235b46547129ad	ThreatFox	2026-07-20	family=win.agent_tesla | confidence=95% threat=payload
+44ddc80c714f91959bcaa1aeb3cfe1d5	ThreatFox	2026-07-20	family=win.asyncrat | confidence=95% threat=payload
+940f0d74f64672c50d4b6ed704aefa743d81b7cdfbeb6666a00f690f80b7b001	ThreatFox	2026-07-20	family=win.agent_tesla | confidence=95% threat=payload
+e6290924b6e7a434776239ae19e79b02e88c3a6bef1b0e1d61041cc4176dec6e	ThreatFox	2026-07-20	family=win.agent_tesla | confidence=95% threat=payload
+a757a8b09d99acc2835fd0d26541e46c	ThreatFox	2026-07-20	family=win.agent_tesla | confidence=95% threat=payload
+26fc8807ce9a5e6dc534c237d84c2ac7491755532a2078878bc8fb1695fcb2eb	ThreatFox	2026-07-20	family=win.asyncrat | confidence=95% threat=payload
+707d1f44be9210b1f0dd678a37aef925c4b09c3072289a575fadad571470ed2f	ThreatFox	2026-07-20	family=win.wannacryptor | confidence=95% threat=payload
+ca9050aa6e139627dd5c0d4cdd5e3eaa	ThreatFox	2026-07-20	family=win.wannacryptor | confidence=95% threat=payload
+584e516edb5fc2b79960940b18cd65b5	ThreatFox	2026-07-20	family=win.wannacryptor | confidence=95% threat=payload
+b4991986b29c3882404e7078ccd37954f9f9676bb766f83161199eee1f1b85d0	ThreatFox	2026-07-20	family=win.krakenkeylogger | confidence=95% threat=payload
+4be889e143b460ccf80fc02e44840ee0	ThreatFox	2026-07-20	family=win.krakenkeylogger | confidence=95% threat=payload
+7132a14099e6824598c5899dea19a4b8f4d89683bb01774b402674da1d4fee2f	ThreatFox	2026-07-20	family=win.wannacryptor | confidence=95% threat=payload
+be9aee8c3cb56fa17d293d48dd0fc1d1	ThreatFox	2026-07-20	family=win.privateloader | confidence=95% threat=payload
+3270606f7138f08b0c4e051d0a9ebc2b	ThreatFox	2026-07-20	family=win.valley_rat | confidence=95% threat=payload
+d5e71f60f77f8f7853d80ff308d7b0420e20600fe03af2529a2c8e740ed52943	ThreatFox	2026-07-20	family=win.valley_rat | confidence=95% threat=payload
+a4fbd707f4ce7ca68e6137cef1c56b6f408e5f0a0f148434d996bb98c3a21fff	OTX	2026-07-18	family=AsyncRAT | pulse='Still Circling: Toolkit Keeps Evolving' pulse_id=6a5b639c3194d1cc5f0e281b
+a73cb9d5d46e19f3daa4a14cfe5d8fa4319a3d62452039e4972e6a316bbb26f4	OTX	2026-07-18	family=AsyncRAT | pulse='Still Circling: Toolkit Keeps Evolving' pulse_id=6a5b639c3194d1cc5f0e281b
+09bedbf7a41e0f8dabe4f41d331db58373ce15b2e9204540873a1884f38bdde1	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+4f1773a1228e2c009cbcf61e9e550e01	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+2aa47fb23074e8ae776a369f9e28d1a2f6e70739	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+17aae57cf6255c7eb169bf62ea67376d9708976eb7831f8cdd0ea38bdcb37dc4	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+bc61ef6d7ad9ee878028f24d50e9dcf6d7d88bf2	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+26b2da88cb95b98b46bb985f67f76154	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+2fdfdd13a0c548bb68c9d5aa8599a9265d4659da3e237fe7a42ac6ac06b9a06a	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+3c181f642e24c28602a87be7f195e2f3d1ffa30b37e20f5121d99f88b22ab80e	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+63bfd6567f4c704e8ed6530f5cdd704e	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+080fdb73a6bbc99625c2190730257d1e54723952	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+3f31aee0948d16f8d64bf6bec69a4331099993e502b11bfc56b2c0112024489d	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+59ad96dd3b4d5f10a5c53bbd465446e52dc7701a4ac633632f762bf1336d3347	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+66dbe675480dc229e5b3ab8ad74207f73486e64e57805074f784bb2e01bcb865	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+6dbd6f9f2fa636c16ac4fa81418b68a604424861b9650dd9c4f2b0ba6f67d6ac	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+7887e919555fb5948c217556ba149392a72982b1bc427d3db779db9dcbf09ee8	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+a6fb779be35592fb0ff624a8f8e12ab3cafe7bcfc312cd98263814db7fb01e02	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+c46e907886e2158cbc453e767183aecf07887b5ac8848f19684451883d69f5f0	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+c4e93449453cf67c5d5605bb8f425207a738a242fdb432d720acc32faa74926c	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+c5b1e9aafc8f2b4ab05effc00fd43f3114b9ef1d592a086c952793ac4e299809	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c

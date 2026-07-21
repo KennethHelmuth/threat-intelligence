@@ -1,0 +1,60 @@
+title: Network Connection to Cruciferra Infrastructure
+id: 1a88651d-6a62-4b96-84bd-e603054f1d58
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Cruciferra.
+date: 2026-07-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adaptixc2
+    - agenttesla
+    - asyncrat
+    - byovd
+    - cruciferra
+    - crypter-service
+    - darkcloud stealer
+    - dcrat
+    - defense-evasion
+    - dll-sideloading
+    - edr-tampering
+    - formbook
+    - malware-as-a-service
+    - malware.cruciferra
+    - phantom stealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'almacensantangel.com'
+        - 'gatuso.duckdns.org'
+        - '0zbqnac1t4dv2t2wuodv1m.com'
+        - 'digital-magicians.com'
+        - 'fiusyevr.live'
+        - 'fvxcuvuyte.live'
+        - 'fuaytrwese.love'
+        - 'hsauyeet.live'
+        - 'jaiydteds.love'
+        - 'kdsuyrse.live'
+        - 'lisiutegrm.live'
+        - 'mksfuuerwo.live'
+        - 'ncduuyese.live'
+        - 'oakwusya.love'
+        - 'paiwudyea.love'
+        - 'qeuasytua.love'
+        - 'svuatwea.love'
+        - 'syfiaydytea.live'
+        - 'vusuydryt.love'
+        - 'xnbscuya.love'
+        - 'xuastyrdqk.love'
+        DestinationIp|contains:
+        - '89.34.90.99'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

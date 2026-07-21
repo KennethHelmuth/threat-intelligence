@@ -1,0 +1,32 @@
+title: DNS Query to Js.Mints Loader Domains
+id: 0390c60c-fbac-4fd0-8a39-75ceabb19ff7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Js.Mints Loader.
+date: 2026-07-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ClickFix
+    - MintsLoader
+    - malware.js.mints_loader
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'syshash4392.top'
+        - 'logintrust5845.lol'
+        - 'basehex1267.top'
+        - '1629bqt9p34elwv.top'
+        - 'statpass3183.lol'
+        - 'apibyte4811.com'
+        - 'webtask6566.top'
+        - 'portalbyte8345.lol'
+        - 'authservice6020.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

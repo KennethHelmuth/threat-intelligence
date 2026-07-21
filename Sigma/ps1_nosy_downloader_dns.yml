@@ -1,0 +1,23 @@
+title: DNS Query to Ps1.Nosy Downloader Domains
+id: ea7bf25b-546c-4269-b546-bbbca98ef997
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Ps1.Nosy Downloader.
+date: 2026-07-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.ps1.nosy_downloader
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - '6b6t.org'
+        - 'hajar-tricks.braincert.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

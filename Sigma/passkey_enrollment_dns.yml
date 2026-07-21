@@ -1,0 +1,31 @@
+title: DNS Query to Passkey Enrollment Domains
+id: f69e25cd-b877-4844-87b9-1f3ff37a2636
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Passkey Enrollment.
+date: 2026-07-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - data extortion
+    - malware.passkey_enrollment
+    - microsoft entra
+    - operator-controlled phishing
+    - passkey enrollment
+    - phone-based social engineering
+    - pink dls
+    - vishing
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'setpasskey.com'
+        - 'assignpasskey.com'
+        - 'exampleentity.setpasskey.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
