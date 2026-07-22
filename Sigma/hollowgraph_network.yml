@@ -1,0 +1,34 @@
+title: Network Connection to Hollowgraph Infrastructure
+id: d343199c-7b53-48e7-b688-ff9e95f9b378
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Hollowgraph.
+date: 2026-07-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - calendar c2
+    - cavern
+    - cyber espionage
+    - dns tunneling
+    - hollowgraph
+    - iranian-nexus
+    - israeli targets
+    - malware.hollowgraph
+    - microsoft graph api abuse
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'cloudlanecdn.com'
+        - 'p.cloudlanecdn.com'
+        - 'q.cloudlanecdn.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

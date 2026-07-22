@@ -1,0 +1,48 @@
+title: Network Connection to Gomir Infrastructure
+id: fea135d0-b348-484f-a2cc-72058ca24244
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Gomir.
+date: 2026-07-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - birdtroy
+    - drivetroy
+    - endoor
+    - gobear
+    - gomir
+    - google drive c2
+    - groupware
+    - httpspy
+    - httptroy
+    - kimsuky
+    - malware.gomir
+    - south korea
+    - supply-chain
+    - trollstealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'commit.hanbiro.o-r.kr'
+        - 'node828765.dwservice.net'
+        - 'node896147.dwservice.net'
+        - 'auth.samecloud.o-r.kr'
+        - 'global.webjine.o-r.kr'
+        - 'node449013.dwservice.net'
+        - 'oauth.shacloud.o-r.kr'
+        - 'oobe.webjine.o-r.kr'
+        - 'www.ilskdeid.o-r.kr'
+        DestinationIp|contains:
+        - '163.245.195.172'
+        - '69.10.50.165'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

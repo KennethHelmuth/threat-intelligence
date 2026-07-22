@@ -1,0 +1,34 @@
+title: Network Connection to Teleshim Infrastructure
+id: fc138e20-758d-4bc5-a7c7-e1f2b0c99a0c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Teleshim.
+date: 2026-07-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bindcloak
+    - code obfuscation
+    - dll sideloading
+    - east asia
+    - environmental keying
+    - government targeting
+    - malware.teleshim
+    - middle east
+    - mixedkey
+    - telegram abuse
+    - teleshim
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'cert.hypersnet.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

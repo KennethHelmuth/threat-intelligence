@@ -1,0 +1,32 @@
+title: DNS Query to Hollowgraph Domains
+id: eb32692a-1b34-4541-a361-e4e48dd588d8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Hollowgraph.
+date: 2026-07-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - calendar c2
+    - cavern
+    - cyber espionage
+    - dns tunneling
+    - hollowgraph
+    - iranian-nexus
+    - israeli targets
+    - malware.hollowgraph
+    - microsoft graph api abuse
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'cloudlanecdn.com'
+        - 'p.cloudlanecdn.com'
+        - 'q.cloudlanecdn.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

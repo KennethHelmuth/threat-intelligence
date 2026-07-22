@@ -1,0 +1,36 @@
+title: Network Connection to Meshagent Infrastructure
+id: e44f7f9e-86fe-4ca4-ad1b-3e2646aa88b8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Meshagent.
+date: 2026-07-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cloudflare turnstile
+    - docusign phishing
+    - macos targeting
+    - malware.meshagent
+    - meshagent
+    - rmm abuse
+    - screenconnect
+    - simplehelp
+    - uemsagent
+    - vbs deployment
+    - windows defender evasion
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'i8reactorsee.xyz'
+        - 'magroys.lat'
+        - 'rosetomaz.com.br'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

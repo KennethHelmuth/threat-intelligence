@@ -6350,3 +6350,68 @@ a6fb779be35592fb0ff624a8f8e12ab3cafe7bcfc312cd98263814db7fb01e02	OTX	2026-07-20	
 c46e907886e2158cbc453e767183aecf07887b5ac8848f19684451883d69f5f0	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
 c4e93449453cf67c5d5605bb8f425207a738a242fdb432d720acc32faa74926c	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
 c5b1e9aafc8f2b4ab05effc00fd43f3114b9ef1d592a086c952793ac4e299809	OTX	2026-07-20	family=Cruciferra | pulse='Unpacking "Cruciferra": An Analysis of a Sophisticated Crypter Service' pulse_id=6a5dec09c0c4b7d2a00d7b2c
+1490e65be0e21b946e6128846e30dba08b7f8efbd4a1f8f1adf863c5fc93f974	MalwareBazaar	2026-07-22	filetype=exe md5=58911b28ea02eecca641d17ff7e1e264 sha1=58bd88564e96dac078f10f671188afa2fc26cc93 | vt=21/74
+73db8e9a1b49daa01f362573eeb79a0b7ac9455f581e79d49a1c99734181d65f	MalwareBazaar	2026-07-22	filetype=exe md5=9bc71a095bfa877ccd3036c8751468f4 sha1=5a26f05258240fef106471e5e8ed4557177d8917
+85142e27e44b83ae26230454694d1666652e718e3764e57a1d6539c83e448402	MalwareBazaar	2026-07-22	filetype=exe md5=eba7c112a3522d28fc665e6384945ffc sha1=69ecc978c6058b4c17f68693228c72a198757635 | vt=21/74
+55a47a54228736d7dad743a053f6c7a832b06efe94ae2c6645d5f0df034cff58	MalwareBazaar	2026-07-22	filetype=exe md5=b55e3e76c407170c3c6b8193989c83d9 sha1=9549f4ae06357d7fa827878d46aa7fc1e375dc80 | vt=23/74
+2cb2ced283d72a7323be7e4c95c1563ff5f26546794e602e58c2701f2b3c623a	MalwareBazaar	2026-07-22	filetype=exe md5=6ddbc6c25176e1b5b32f242f1f336e6f sha1=0778c4b49cf9f1931a81200574d6e4a4448804f6 | vt=13/74
+4f09b4b24d59d2db69f9fe5b4b7b1fcb4f65e8412728d1c9d8ceb636358f7207	MalwareBazaar	2026-07-22	filetype=exe md5=250ab84cd2e77519bb7ae2800551f313 sha1=17dc28450826ff0d8f500102e1cecb940699f034 | vt=20/74
+8f0637cd0ceefdd4a98b8d33c7ab50ca6664647f8e979d23b43f3c56329ab269	MalwareBazaar	2026-07-22	filetype=sh md5=691a7c469efa2ba0eb10c6fe5acdf957 sha1=9d0c4e3ab13a247a61aac38c5a55b9207972b5f3
+56819d1e3fb265c80e117800fd1df93744135ca391a311250d0221e7ecc9fd81	MalwareBazaar	2026-07-22	filetype=sh md5=2688dbe613f744f03b334524b6357eb3 sha1=45dae35f1a1312dfc4d4cccb18c0f23e474e209e
+fb881f10b82cd577893fc57375fcfa43a5650c395f82ab42c18eca04874679d4	MalwareBazaar	2026-07-22	filetype=exe md5=b7a1013cd426ba6847ed608ea7128584 sha1=b4887b506b23eab809e9ba44c7733697ee82173c | vt=23/74
+47f8790c9b5b9aab6ae179a192a91d4a5b4e6aac17c14f103858fa3b72ceba25	MalwareBazaar	2026-07-22	family=BlackMatter | filetype=exe md5=4af3347681b6ef41b4d8a444c03ac6ce sha1=ac22c26cae3ae7842b8e60eb3ec23a0cdc16b88d
+e77221d7a4b47b9107ba1b61a551ca89	OTX	2026-07-21	family=Raccoon Stealer | pulse='Operation STANDOFF: A Campaign Hiding C2 Behind GitHub Redirects' pulse_id=6a5f5a54ab92617993537c0b
+95c5ae3fec0d900e4634e11b3ad81971e78e2b31	OTX	2026-07-21	family=Raccoon Stealer | pulse='Operation STANDOFF: A Campaign Hiding C2 Behind GitHub Redirects' pulse_id=6a5f5a54ab92617993537c0b
+22ebb950592ccc987fd1dab9ddcd34c4fc519975dc1b82e4a793dc038d2d8e41	OTX	2026-07-21	family=Raccoon Stealer | pulse='Operation STANDOFF: A Campaign Hiding C2 Behind GitHub Redirects' pulse_id=6a5f5a54ab92617993537c0b
+2a206b085fedf8b20d1db883814c15e0202617da223dbb4e28b7109df98645df	OTX	2026-07-21	family=MeshAgent | pulse='From E-Sign to RMM: DocuSign Kit Targets Windows and...' pulse_id=6a5f5a391cc670d0388a1d29
+4f1c8de304a855c2a4d1995b41069641dee84f1b51b6fb4a6e24eee59c6a30e4	OTX	2026-07-21	family=MeshAgent | pulse='From E-Sign to RMM: DocuSign Kit Targets Windows and...' pulse_id=6a5f5a391cc670d0388a1d29
+087499849115eb28c4364581d2b28d09	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+28b47bdf16d7af6f8ec21218eac9145a	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+3f60d53a2b5737d77e058d9e33cbe9eb	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+68926e6c958562deaae35de3d9f59de3	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+78a4f8574830bf7fbaf63d7da09be2b8	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+7a14a99d70d42d3f7bf72f843185fc07	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+7cbc51ada1a4aec88660ec32c408114b	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+97124a93766be732e8fef5a56a5346a2	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+b776eb638fbb535708fb92b12fcc1731	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+c99f29ac08454855b3d538960bb2f34f	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+1099bf51e53bd5fb32401edb4e0be841d8486b19	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+2377c47cfde148c2140faa7105628174f9c4d56d	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+577b1cc894636f4ac5ad670b0079b9b7ade137c3	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+86ee99f293a30720bcc898a4a8e391f93fb9be95	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+c1f16e31ae71372ee45fa6fd6927c7b887a4e3f2	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+ccb2002fe8f5cc1f511d52309625b52d1c507421	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+ee287d6a09295502ab2407aec336f9f0d8477d68	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+f46c01a5be2e08e36d4ec3302a8650a6ed25ec14	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+fee6806c96f87bf1e240a2eb6fd7e045101d58d3	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+0637069c7052118fd5c0f1113541bdd35e5f71cd9689f2516045da152c6fa8d9	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+32529043d15e9111ba284f1d8a9e4b3f58e071c6b69c8f271d4d02feacd44e66	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+3b0c658ebaa2bae80af97f390b9b2bb20a2f815eb584b2251255e84da4fa669d	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+3b3eaea783fd6dab90f0408274bf8a9c49adbdc70c0efd70658d65b0e1684a3f	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+5c2fe953da53da66fbcbb3be0fd6b63907c10714c337f287b2fc258857bbff6d	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+789fd11285642861190dc074c1e9a5957073f1a2afebd5160f9cc907f7f320bd	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+c84542ac30cbe9bb8bd648bad323c37801023bf9451c1c0990452466e084340f	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+cac1f37beaa814461f7709a073aeec468c74e5d70f7d693a9e367ece4a3a78be	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+db11ff3f37a8b2aa25c480871504b886a6364167ecb501eacf7345f6bbf9582b	OTX	2026-07-20	family=TELESHIM | pulse='Targeted Attack on Government Entities in the Middle East | Part 1' pulse_id=6a5e772bc58d968a512e89c4
+315bdba98c6fe863d39f6afccc727e17d5aea63bf21259444fa988cae56d61c1	OTX	2026-07-20	family=HOLLOWGRAPH | pulse='HOLLOWGRAPH: Turning Microsoft 365 Calendars into Covert Command-and-Control Channels' pulse_id=6a5e7a9d5abc92aab562f131
+1573e125197ec77d8e9930c611ba2802ee59e19629396b5e99b426b46c53bd25	OTX	2026-07-20	family=HOLLOWGRAPH | pulse='HOLLOWGRAPH: Turning Microsoft 365 Calendars into Covert Command-and-Control Channels' pulse_id=6a5e7a9d5abc92aab562f131
+75e51774b8f79e5f256eaae639635f911b3e744d4774fd6068dd980255621509	OTX	2026-07-20	family=HOLLOWGRAPH | pulse='HOLLOWGRAPH: Turning Microsoft 365 Calendars into Covert Command-and-Control Channels' pulse_id=6a5e7a9d5abc92aab562f131
+b3d0f6e4e3be395fd7cf9e8101c89963d77216578cbb117a6ac9bc3564485eff	OTX	2026-07-20	family=HOLLOWGRAPH | pulse='HOLLOWGRAPH: Turning Microsoft 365 Calendars into Covert Command-and-Control Channels' pulse_id=6a5e7a9d5abc92aab562f131
+f3f3006f8304788251b153d53b305322b8acab0c66ec816b8d9f101bcc851da3	OTX	2026-07-20	family=HOLLOWGRAPH | pulse='HOLLOWGRAPH: Turning Microsoft 365 Calendars into Covert Command-and-Control Channels' pulse_id=6a5e7a9d5abc92aab562f131
+84e9b066bebd49036b7fc71b5f5f8d83	OTX	2026-07-20	family=Gomir | pulse='Analysis of Kimsuky's Attack on a South Korean Groupware Vendor Using a New Gomir Family Variant' pulse_id=6a5e7a9e8b20b763327b0d2d
+a452a860f973c7a43ea804c17e9427d2	OTX	2026-07-20	family=Gomir | pulse='Analysis of Kimsuky's Attack on a South Korean Groupware Vendor Using a New Gomir Family Variant' pulse_id=6a5e7a9e8b20b763327b0d2d
+aa61e76255a6e13313439655bc02bdf5	OTX	2026-07-20	family=Gomir | pulse='Analysis of Kimsuky's Attack on a South Korean Groupware Vendor Using a New Gomir Family Variant' pulse_id=6a5e7a9e8b20b763327b0d2d
+b1c72139f2cdd9419562369fc6ced4fc	OTX	2026-07-20	family=Gomir | pulse='Analysis of Kimsuky's Attack on a South Korean Groupware Vendor Using a New Gomir Family Variant' pulse_id=6a5e7a9e8b20b763327b0d2d
+bf215181b5140522137b3d4f6b73544a	OTX	2026-07-20	family=Gomir | pulse='Analysis of Kimsuky's Attack on a South Korean Groupware Vendor Using a New Gomir Family Variant' pulse_id=6a5e7a9e8b20b763327b0d2d
+c2e37232556357944a04edf1dec3934b	OTX	2026-07-20	family=Gomir | pulse='Analysis of Kimsuky's Attack on a South Korean Groupware Vendor Using a New Gomir Family Variant' pulse_id=6a5e7a9e8b20b763327b0d2d
+ca98a51cebdc802d255030b4baa44ca0	OTX	2026-07-20	family=Gomir | pulse='Analysis of Kimsuky's Attack on a South Korean Groupware Vendor Using a New Gomir Family Variant' pulse_id=6a5e7a9e8b20b763327b0d2d
+dff787bce68c7653495f153c0534cb96	OTX	2026-07-20	family=Gomir | pulse='Analysis of Kimsuky's Attack on a South Korean Groupware Vendor Using a New Gomir Family Variant' pulse_id=6a5e7a9e8b20b763327b0d2d
+e6c6fa32da47d9341b778bfa424abb4c	OTX	2026-07-20	family=Gomir | pulse='Analysis of Kimsuky's Attack on a South Korean Groupware Vendor Using a New Gomir Family Variant' pulse_id=6a5e7a9e8b20b763327b0d2d
+e911f8f7c49476806ada37f3ebb7a28a	OTX	2026-07-20	family=Gomir | pulse='Analysis of Kimsuky's Attack on a South Korean Groupware Vendor Using a New Gomir Family Variant' pulse_id=6a5e7a9e8b20b763327b0d2d
+3fb6111490cac9f5c4b34f9fed459f01c10d2314	OTX	2026-07-20	family=Gomir | pulse='Analysis of Kimsuky's Attack on a South Korean Groupware Vendor Using a New Gomir Family Variant' pulse_id=6a5e7a9e8b20b763327b0d2d
+f3ed0bcc692555fea83c6556abaa5dc2b91bcb38	OTX	2026-07-20	family=Gomir | pulse='Analysis of Kimsuky's Attack on a South Korean Groupware Vendor Using a New Gomir Family Variant' pulse_id=6a5e7a9e8b20b763327b0d2d
+01b1c767f62e48efeb86410fd014fed4295ccb084bfcd6d5b9197638b615a648	OTX	2026-07-20	family=Gomir | pulse='Analysis of Kimsuky's Attack on a South Korean Groupware Vendor Using a New Gomir Family Variant' pulse_id=6a5e7a9e8b20b763327b0d2d
+073d9dd98a9ca3cd03901c31ba57811a1632e316923022640670ce00622cd8a9	OTX	2026-07-20	family=Gomir | pulse='Analysis of Kimsuky's Attack on a South Korean Groupware Vendor Using a New Gomir Family Variant' pulse_id=6a5e7a9e8b20b763327b0d2d
+8cb0c223b018cecef1d990ec81c67b826eb3c30d54f06193cf69969e9a8baea2	OTX	2026-07-21	family=ENCFORGE | pulse='JADEPUFFER evolves: The agentic threat actor deploys ransomware built to destroy AI models' pulse_id=6a5eb7c2617139caf1fe0f2d
+ab9824b61587c77a8d8649545cdbdc63ed2c384e45c9aba534e3f457f96efa7a	OTX	2026-07-21	family=ENCFORGE | pulse='JADEPUFFER evolves: The agentic threat actor deploys ransomware built to destroy AI models' pulse_id=6a5eb7c2617139caf1fe0f2d
+ea7822eac6cecef7746c606b862b4d3034856caf754c4cf69533662637905328	OTX	2026-07-21	family=ENCFORGE | pulse='JADEPUFFER evolves: The agentic threat actor deploys ransomware built to destroy AI models' pulse_id=6a5eb7c2617139caf1fe0f2d

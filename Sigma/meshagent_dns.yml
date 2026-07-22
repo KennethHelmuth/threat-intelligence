@@ -1,0 +1,34 @@
+title: DNS Query to Meshagent Domains
+id: f5b2f9a6-6eba-447a-9ef9-ea7422e143f4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Meshagent.
+date: 2026-07-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cloudflare turnstile
+    - docusign phishing
+    - macos targeting
+    - malware.meshagent
+    - meshagent
+    - rmm abuse
+    - screenconnect
+    - simplehelp
+    - uemsagent
+    - vbs deployment
+    - windows defender evasion
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'i8reactorsee.xyz'
+        - 'magroys.lat'
+        - 'rosetomaz.com.br'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,65 @@
+title: DNS Query to Raccoon Stealer Domains
+id: 4b7373e7-9664-4119-bf36-3451cef2c292
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Raccoon Stealer.
+date: 2026-07-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - active-directory-targeting
+    - ai-driven-influence
+    - amadey
+    - github-redirect-concealment
+    - glupteba
+    - malware.raccoon_stealer
+    - pay-per-install
+    - proxy-botnet
+    - raccoon stealer
+    - redline
+    - russian-speaking
+    - smokeloader
+    - socelars
+    - telegram-account-farm
+    - timeweb-infrastructure
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'listincode.com'
+        - 'www.listincode.com'
+        - 'wfsdragon.ru'
+        - 'topniemannpickshop.cc'
+        - 'all-mobile-pa1ments.com.mx'
+        - 'buy-fantasy-gxmes.com.sg'
+        - 'buy-fantasy-football.com.sg'
+        - 'new-androidapps.me'
+        - 'rcacademy.at'
+        - 'cloudjah.com'
+        - 'www.wgqpw.com'
+        - 'server5.trumops.com'
+        - 'bull-drops.online'
+        - 'bull-drops.ru'
+        - 'bulldrops.online'
+        - 'bulldrops.ru'
+        - 'ggstandoff.online'
+        - 'influencesite.ru'
+        - 'loopaai.ru'
+        - 'mobilearena.online'
+        - 'russianhackers.online'
+        - 'russianhckers.online'
+        - 'xn----9sbhgocsfmg4a1kfg.xn--p1ai'
+        - 'xn--90aguaqgfu.xn--p1ai'
+        - 'zadrot.gg'
+        - 'api.russianhackers.online'
+        - 'gginfluence.influencesite.ru'
+        - 'www.loopaai.ru'
+        - 'www.mobilearena.online'
+        - 'www.xn----9sbhgocsfmg4a1kfg.xn--p1ai'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

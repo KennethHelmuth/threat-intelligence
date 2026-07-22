@@ -1,0 +1,23 @@
+title: DNS Query to Elf.Bashlite Domains
+id: 0b243138-90df-476b-8ee9-c1e64975ef43
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Elf.Bashlite.
+date: 2026-07-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Gafgyt
+    - malware.elf.bashlite
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'lifeisabouthavingfun448.duckdns.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,33 @@
+title: Network Connection to Encforge Infrastructure
+id: f49ac9e4-d1c7-480b-891d-c23c49fcc15c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Encforge.
+date: 2026-07-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai infrastructure
+    - autonomous threat
+    - container escape
+    - cve-2025-3248
+    - encforge
+    - jadepuffer
+    - langflow
+    - machine learning
+    - malware.encforge
+    - ransomware
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '45.131.66.106'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
