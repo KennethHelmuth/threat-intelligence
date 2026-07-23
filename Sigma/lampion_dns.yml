@@ -1,0 +1,34 @@
+title: DNS Query to Lampion Domains
+id: 9f4aa4d4-8bcc-488e-880c-dd72b6e87e44
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Lampion.
+date: 2026-07-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - banking trojan
+    - chepro
+    - lampion
+    - malware.lampion
+    - obfuscation techniques
+    - phishing campaign
+    - portugal targeting
+    - portuguese lures
+    - sapo impersonation
+    - vbs infection chain
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'auto-contabilistica.com'
+        - 'autoridade-contabilistica.org'
+        - 'autoridade-financeira.com'
+        - 'fat-contabislitaca.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

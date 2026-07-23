@@ -1,0 +1,31 @@
+title: Network Connection to Trickbot - S0266 Infrastructure
+id: 148ed202-3a05-4be9-9ef1-c57b69f963a3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Trickbot - S0266.
+date: 2026-07-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - dns tunneling
+    - malware.trickbot___s0266
+    - modular architecture
+    - obfuscation techniques
+    - persistence mechanism
+    - process injection
+    - task scheduler
+    - trickbot
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'westurn.in'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

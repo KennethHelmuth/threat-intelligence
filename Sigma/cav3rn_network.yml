@@ -1,0 +1,45 @@
+title: Network Connection to Cav3Rn Infrastructure
+id: 3726521c-abf6-49d7-9cad-6c24ffa32c64
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Cav3Rn.
+date: 2026-07-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - apt34
+    - cav3rn
+    - cyberespionage
+    - dns aaaa
+    - encryption
+    - israel
+    - malware.cav3rn
+    - microsoft graph
+    - oilbooster
+    - oilcheck
+    - outlook calendar
+    - project cav3rn
+    - rdat
+    - sc5k
+    - solar
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'clipeditskill.com'
+        - 'accesslinkssl.com'
+        - 'd.53466d4c67515a.0.p.cloudlanecdn.com'
+        - 'google.com.ayalon-print.co.il'
+        - 'ns1.cloudlanecdn.com'
+        - 'ns2.cloudlanecdn.com'
+        - 'ns3.cloudlanecdn.com'
+        - 'ns4.cloudlanecdn.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

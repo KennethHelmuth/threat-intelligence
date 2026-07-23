@@ -1,0 +1,51 @@
+title: DNS Query to Aitm Phishing Domains
+id: 828ec9f0-cac1-48d1-99a2-2ce7d4238cd9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Aitm Phishing.
+date: 2026-07-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aitm phishing
+    - credential theft
+    - domain compromise
+    - evilproxy
+    - flowerstorm
+    - kali365
+    - malware.aitm_phishing
+    - mfa bypass
+    - procurement lures
+    - session hijacking
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'sohantraders.com'
+        - 'satoriestate.com'
+        - 'company.com'
+        - 'duemineral.uk'
+        - 'assessmentevaluationreport.com'
+        - 'barifurniture.net'
+        - 'consistenthostinghub.de'
+        - 'corporatetermscompliance.com'
+        - 'designenhancessatisfaction.de'
+        - 'employeehandbookcompliance.com'
+        - 'esignidentification.com'
+        - 'evergreenhostingoptions.de'
+        - 'innovativegrowthstrategy.de'
+        - 'q1evaluationperformance.net'
+        - 'reliablecontinuitysolutions.de'
+        - 'solidhostingservices.de'
+        - 'sustainablegrowthlaunch.de'
+        - 'testserveren.com'
+        - 'usersatisfactionlab.de'
+        - 'vresortsliving.com'
+        - 'ajgroupuae.usersatisfactionlab.de'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

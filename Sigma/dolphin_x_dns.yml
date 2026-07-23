@@ -1,0 +1,32 @@
+title: DNS Query to Dolphin X Domains
+id: b0bc3510-4b47-4eba-8bf4-a992e1c80761
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Dolphin X.
+date: 2026-07-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai profiling
+    - cloud tokens
+    - credential theft
+    - cryptocurrency wallets
+    - devops
+    - dolphin x
+    - infostealer
+    - malware.dolphin_x
+    - rat
+    - ssh keys
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'thedolphinx.top'
+        - 'backend.thedolphinx.top'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
