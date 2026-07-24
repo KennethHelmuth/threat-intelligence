@@ -1,0 +1,43 @@
+title: Network Connection to Hades Infrastructure
+id: 81a687f0-4ef6-4c09-974d-27f926c16641
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Hades.
+date: 2026-07-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - apache hadoop targeting
+    - autonomous attack operations
+    - cve-2017-7269
+    - cve-2021-3156
+    - cve-2021-4034
+    - cve-2026-31431
+    - cve-2026-43284
+    - cve-2026-43500
+    - cve-2026-43503
+    - government espionage
+    - hades
+    - hades implant
+    - hermes ai agent
+    - hiveserver2 exploitation
+    - malware.hades
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'mail4.pl'
+        - 'redhatupdating432.dnsrd.com'
+        DestinationIp|contains:
+        - '43.246.208.207'
+        - '103.97.0.57'
+        - '202.181.27.115'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

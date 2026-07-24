@@ -1,0 +1,46 @@
+title: Network Connection to Microsoft Teams Threats Infrastructure
+id: 47169352-3382-4805-aec5-d7ea4f3ad4ae
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Microsoft Teams Threats.
+date: 2026-07-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adversary-in-the-middle
+    - business email compromise
+    - captcha-gated phishing
+    - credential theft
+    - malware.microsoft_teams_threats
+    - microsoft teams threats
+    - phishing-as-a-service
+    - qr code phishing
+    - social engineering
+    - tycoon2fa
+    - vishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'x2mails.com'
+        - 'acceptable-use-policy-calendly.de'
+        - 'cocinternal.com'
+        - 'compliance-protectionoutlook.de'
+        - 'na.businesshellosign.de'
+        - 'gadellinet.com'
+        - 'harteprn.com'
+        - '9i6pokerdepot.com'
+        - 'ecajovna.sk'
+        - 'ilyff.com'
+        - 'j-gmails.com'
+        - 'cocinternal.cm'
+        - 't90141296286.p.clickup-attachments.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

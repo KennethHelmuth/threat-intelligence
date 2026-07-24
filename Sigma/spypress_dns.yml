@@ -1,0 +1,40 @@
+title: DNS Query to Spypress Domains
+id: 72428dd9-553b-4a81-855c-a4adecb33dbc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Spypress.
+date: 2026-07-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cross-site scripting
+    - cve-2023-43770
+    - cve-2024-42009
+    - cve-2025-27915
+    - cve-2025-3929
+    - cve-2025-49113
+    - cve-2026-8496
+    - eastern europe targeting
+    - gru
+    - half-click vulnerability
+    - malware.spypress
+    - operation roundpress
+    - spypress
+    - ta458
+    - webmail exploits
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'upgybj.store'
+        - 'xsza.net'
+        - 'hgmydr.wiki'
+        - 'share-ya.space'
+        - 'zxzaq.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

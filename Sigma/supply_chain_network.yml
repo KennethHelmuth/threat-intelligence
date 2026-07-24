@@ -1,0 +1,33 @@
+title: Network Connection to Supply Chain Infrastructure
+id: ed4f6aeb-a9f5-41ed-a74e-f7c43f9480eb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Supply Chain.
+date: 2026-07-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ci/cd attack
+    - cpanel exploitation
+    - credential harvesting
+    - cve-2026-41940
+    - distributed scanning
+    - github actions abuse
+    - malware.supply_chain
+    - repository compromise
+    - supply chain
+    - whm vulnerability
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'f5b0b742-240a-4811-8a5b-b0ba6060685d.dnshook.site'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

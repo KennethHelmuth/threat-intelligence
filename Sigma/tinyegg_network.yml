@@ -1,0 +1,41 @@
+title: Network Connection to Tinyegg Infrastructure
+id: 48cea162-d854-4c4b-a689-f2fd833555d1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Tinyegg.
+date: 2026-07-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser credential theft
+    - chonkychicken
+    - chromeggscalator
+    - clickfix
+    - maas
+    - malware.tinyegg
+    - modular architecture
+    - revc2
+    - tag-127
+    - terralogger
+    - terrastealerv2
+    - tinyegg
+    - websocket c2
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'xtrafftrck.net'
+        - 'screenly.cam'
+        - 'ahdaratlegalservices.com'
+        - 'paysolutions.ink'
+        - 'aurekh.com'
+        - 'thessa.trackgrid.net'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

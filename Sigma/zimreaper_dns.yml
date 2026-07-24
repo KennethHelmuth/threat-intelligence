@@ -1,0 +1,41 @@
+title: DNS Query to Zimreaper Domains
+id: f8f65d08-b7c6-40ee-bae3-178c1ddbbe2a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Zimreaper.
+date: 2026-07-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - cve-2025-66376
+    - dns tunneling
+    - half-click exploits
+    - laundry bear
+    - malware.zimreaper
+    - russian intelligence
+    - ta488
+    - void blizzard
+    - xss vulnerability
+    - zimbra
+    - zimreaper
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'zimbra-metadata.com'
+        - 'emailanalytics.com.ua'
+        - 'mailnalysis.com'
+        - 'analyticemailmeter.com'
+        - 'zimbrastat.com'
+        - 'zimbrasoft.com.ua'
+        - 'istc-cloud.com'
+        - 'synacorzimbra.nl'
+        - 'zmailanalytics.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

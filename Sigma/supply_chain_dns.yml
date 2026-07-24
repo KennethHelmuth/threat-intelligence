@@ -1,0 +1,31 @@
+title: DNS Query to Supply Chain Domains
+id: 600d86f6-730d-4c41-a9e4-78387a0ad315
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Supply Chain.
+date: 2026-07-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ci/cd attack
+    - cpanel exploitation
+    - credential harvesting
+    - cve-2026-41940
+    - distributed scanning
+    - github actions abuse
+    - malware.supply_chain
+    - repository compromise
+    - supply chain
+    - whm vulnerability
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'f5b0b742-240a-4811-8a5b-b0ba6060685d.dnshook.site'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

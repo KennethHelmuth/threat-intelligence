@@ -1,0 +1,56 @@
+title: Network Connection to Sectoprat Infrastructure
+id: 2da4ef82-683c-4632-b57b-642e41d37135
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Sectoprat.
+date: 2026-07-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - claude ai
+    - directx shader encryption
+    - dll sideloading
+    - ethereum blockchain
+    - etherhiding
+    - gpu anti-vm
+    - malvertising
+    - malware.sectoprat
+    - sectoprat
+    - stealc
+    - vmprotect
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'download-app.us'
+        - '5ca8758c-02d0-4a72-89c8-d468b66dda41.com'
+        - 'claude.ai.download-app.us'
+        DestinationIp|contains:
+        - '104.194.133.210'
+        - '107.189.24.67'
+        - '107.189.26.86'
+        - '107.189.21.86'
+        - '45.59.124.17'
+        - '107.189.17.143'
+        - '45.59.125.228'
+        - '45.59.122.134'
+        - '45.59.122.235'
+        - '107.189.22.118'
+        - '107.189.20.32'
+        - '107.189.20.95'
+        - '45.59.117.145'
+        - '45.59.114.190'
+        - '45.59.123.122'
+        - '45.59.117.67'
+        - '191.101.80.211'
+        - '2.24.131.246'
+        - '195.110.58.222'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

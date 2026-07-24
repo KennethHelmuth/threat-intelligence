@@ -1,0 +1,39 @@
+title: DNS Query to Tinyegg Domains
+id: 58a8f82b-2260-4e09-a59c-bc4e2752edbe
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Tinyegg.
+date: 2026-07-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser credential theft
+    - chonkychicken
+    - chromeggscalator
+    - clickfix
+    - maas
+    - malware.tinyegg
+    - modular architecture
+    - revc2
+    - tag-127
+    - terralogger
+    - terrastealerv2
+    - tinyegg
+    - websocket c2
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'xtrafftrck.net'
+        - 'screenly.cam'
+        - 'ahdaratlegalservices.com'
+        - 'paysolutions.ink'
+        - 'aurekh.com'
+        - 'thessa.trackgrid.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

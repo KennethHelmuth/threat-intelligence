@@ -1,0 +1,30 @@
+title: DNS Query to Data Extortion Domains
+id: ceb61b5d-378a-47e0-85ec-10064eeeb0c6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Data Extortion.
+date: 2026-07-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - blackfile
+    - data extortion
+    - device code phishing
+    - identity-based attacks
+    - malware.data_extortion
+    - mfa abuse
+    - sharepoint exfiltration
+    - shinyhunters
+    - vishing
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'oskeysync.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

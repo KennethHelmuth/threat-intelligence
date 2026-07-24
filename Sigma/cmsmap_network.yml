@@ -1,0 +1,36 @@
+title: Network Connection to Cmsmap Infrastructure
+id: 6c61a773-599d-4222-a805-38dff6b6e8c0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Cmsmap.
+date: 2026-07-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - batch api exploitation
+    - cmsmap
+    - cve-2026-60137
+    - cve-2026-63030
+    - malware.cmsmap
+    - plugin upload
+    - pre-authentication
+    - rce
+    - sql injection
+    - webshell
+    - wordpress
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '172.235.128.52'
+        - '79.177.131.206'
+        - '94.100.52.128'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

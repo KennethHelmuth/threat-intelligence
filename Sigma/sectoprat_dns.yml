@@ -1,0 +1,34 @@
+title: DNS Query to Sectoprat Domains
+id: 6a49493a-291c-422e-9fe1-94f54c4132bd
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Sectoprat.
+date: 2026-07-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - claude ai
+    - directx shader encryption
+    - dll sideloading
+    - ethereum blockchain
+    - etherhiding
+    - gpu anti-vm
+    - malvertising
+    - malware.sectoprat
+    - sectoprat
+    - stealc
+    - vmprotect
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'download-app.us'
+        - '5ca8758c-02d0-4a72-89c8-d468b66dda41.com'
+        - 'claude.ai.download-app.us'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

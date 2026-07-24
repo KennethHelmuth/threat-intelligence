@@ -1,0 +1,34 @@
+title: Network Connection to Cyberespionage Infrastructure
+id: 843bf4a3-07a1-469f-8224-5c3ce06810d6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Cyberespionage.
+date: 2026-07-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cl-sta-1114
+    - cve-2025-66376
+    - cyberespionage
+    - javascript injection
+    - laundry bear
+    - malware.cyberespionage
+    - russian threat actor
+    - void blizzard
+    - zero-click phishing
+    - zimbra
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '185.86.79.95'
+        - '194.156.103.193'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

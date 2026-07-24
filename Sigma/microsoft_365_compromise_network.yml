@@ -1,0 +1,39 @@
+title: Network Connection to Microsoft 365 Compromise Infrastructure
+id: e950b394-0f8f-4585-8f9b-b1f353b381ab
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Microsoft 365 Compromise.
+date: 2026-07-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - authentication broker
+    - device code phishing
+    - email account takeover
+    - malware.microsoft_365_compromise
+    - mfa bypass
+    - microsoft 365 compromise
+    - oauth 2.0 abuse
+    - session hijacking
+    - spearphishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'html.phish.microsoft'
+        - 'cholaw-kr.co'
+        - 'rlcounsel.com'
+        - 'up88qope1z.hlpadditives.com'
+        - 'zr6dgshpvf.flosli.com'
+        - 'eusei.com'
+        - 'zrdesignlabo.com'
+        - 'profileupdate-collaboration.stefan-dufva.workers.dev'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

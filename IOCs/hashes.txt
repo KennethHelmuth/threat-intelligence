@@ -6587,3 +6587,339 @@ b1c101bd1ba134ffbea61f9fac2b7c8fbd13ca113a37944abdc131ef86da92ac	OTX	2026-07-21	
 c6618bb692fb3f5d7959f8db1fedaaac5e8a36fb901397a008aa2b88874448fd	OTX	2026-07-21	family=Lampion | pulse='Portugal-focused phishing campaign delivers multistage malware' pulse_id=6a5f98b0ca49303f8f2e4aa7
 d25d32478ae67403484a309591b6409224d26ca3d094c5ccd8428ebef7efcfd1	OTX	2026-07-21	family=Lampion | pulse='Portugal-focused phishing campaign delivers multistage malware' pulse_id=6a5f98b0ca49303f8f2e4aa7
 fe769fd85a7440751e1508614c8d9ef0de00bece803329bf3318ff863a146216	OTX	2026-07-21	family=Lampion | pulse='Portugal-focused phishing campaign delivers multistage malware' pulse_id=6a5f98b0ca49303f8f2e4aa7
+7fc5cb22a222d2162d9412af7cd0befd9d194482b0545900c496ad2a74fe5f8d	MalwareBazaar	2026-07-24	filetype=xapk md5=ff3d0cb75537555755472eeb6aef5ea2 sha1=None | vt=0/74
+01b8d27f31cf1b2590e5eec4fe6da5d00da282cbee66149d48e2b6d615b92fc7	MalwareBazaar	2026-07-24	filetype=exe md5=77cf2430f64096aa293a04bbd03fda99 sha1=16ca0ee1a711cc518c3ceb1d8ab7957ee814b508 | vt=11/74
+4852391f807c55bf92aa89c874b739add2d284e2669a9c9c51e8e7e76882fa8a	MalwareBazaar	2026-07-24	filetype=exe md5=9df42833b7883f44a56e12204d97c8ca sha1=eda9f79a062f143ec604ce7abdec3c40e982d86a | vt=22/74
+f2b90487ccf966408996bd182314719a9be80a95a6e646cf71b98055be58691e	MalwareBazaar	2026-07-24	filetype=exe md5=94286af26c9a9621483324dd64279afe sha1=270f3959b09da9a2425b95de3cb8ea073c300ffb | vt=22/74
+da97b7a5526123b0c6e19b97d1a0fce298421d4762c42d2531956a05e6800527	MalwareBazaar	2026-07-24	filetype=exe md5=638b5cd6de617fe14d37aad28dc18814 sha1=37537be80e2c45635e3d7ff9b3f5fcaf17d6d5a9 | vt=0/0
+5b024a63ee25fd79958bc723626d82fca9fac59828047b67dd986c91d1c4c175	MalwareBazaar	2026-07-24	filetype=xapk md5=fd380fe51c98a268df0ea811c1d876cd sha1=2b9a38c8a0b5f34bc9a768264b3aa75d457e3c8c | vt=0/74
+896620fec435d32e0d65a8933f91fa41156f1ebaf45ec9a7f1f8a45f2cea18f8	MalwareBazaar	2026-07-24	filetype=xapk md5=c8d908a085637acbc0ff0a88ea79f1b3 sha1=755133883e4feba9c3c55d8187f99f308d7c03c3 | vt=2/74
+3c296974599361635eed48f91f3bfe43d09b4375deb0f7cc582b33874f06cfdb	MalwareBazaar	2026-07-24	filetype=xapk md5=bd90a300ae347b9882d2c3f6ae187dc7 sha1=882d1ccc351303c92c938290f0e36dff4b9ce04f | vt=1/74
+642905ce09772b7ee37efac563f1d14581b2d677a738aa8f44244659d331f921	MalwareBazaar	2026-07-24	filetype=vbs md5=f52d4fd0fed3a7a77b8c1dcf6463ebea sha1=310ae09bbecf35553ca6d73ac4c642f41590abc4 | vt=8/74
+53d826779abf284ea492ff4c09865e1566c3c62836c28d3c5ad7729f0a8d523a	MalwareBazaar	2026-07-24	filetype=exe md5=5174460710efac2beec5915d5ac0de7a sha1=7ca4e69dfb8f3e2b6027e933e216cdaa92ee482d | vt=22/74
+a20052c78501ce91feba8ce56a3aa665	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+9f95d8290bd17c8319a2f3b47db6bd75	ThreatFox	2026-07-24	family=win.coinminer | confidence=95% threat=payload
+56091719eeba4881f3db1f837feaa9d47a5a275bff6218186d97614e252e6d21	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+9f3955f8be35326246e2551754bd6d5e	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+e006cb0220146177e684c11e8548ab39	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+afc61229018541efa19cd9affa1aeb72	ThreatFox	2026-07-24	family=win.valley_rat | confidence=95% threat=payload
+3bb64d86bed8337443f4b6f6c981914dd7d94b6fa7b61709015f9698e13bc67c	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+5cc694a33b659fb6c6e18633daea040c	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+98f5e6cc01bd74709e63639e75a6e4d68b6c5fb9654ae97490155792888bebdd	ThreatFox	2026-07-24	family=win.valley_rat | confidence=95% threat=payload
+c118f7037676c76b39d05c16c337158c0d714decee91af1c44f41c899233b265	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+e3fd70ee3f7e5da3d77af2bde5e7eddbc6a9df6b3e8df62aafbd28fdcd65bd27	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+4202ea3b73d6d50177e93c2dc10ebee0	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+0a2054469724717c2577c145907e3501	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+fcac06aded114ab89c60bce606c5c217	ThreatFox	2026-07-24	family=win.formbook | confidence=95% threat=payload
+879daa96ac18a98fe5d8c650f71aad182776f96d00209eabcd05450833c8cfa7	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+578d6beea6123baf73ce30fd1cb245fac0225fcd2199754e12597550ffafd40a	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+c9c763b2affed693071ced6d9c074af3	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+1f30a807c047970be0b5cfcb0c2a7bc1958d7474ea4920ade5980b5942d3ddbb	ThreatFox	2026-07-24	family=win.formbook | confidence=95% threat=payload
+62fa24c9f3f0cb8f0ef411ecd4d0939e775bcbadc30ae8a0ac4e999dae049dbb	ThreatFox	2026-07-24	family=win.mydoom | confidence=95% threat=payload
+d121235211b62df289ee961414e06fa4	ThreatFox	2026-07-24	family=win.mydoom | confidence=95% threat=payload
+016fc23a8337a322ffdc0f850efa7a7f	ThreatFox	2026-07-24	family=win.mydoom | confidence=95% threat=payload
+198906594ae1cb1951d6e75e1921a7dd1188c8356371b847556ff15226dc5e83	ThreatFox	2026-07-24	family=win.darktortilla | confidence=95% threat=payload
+24711f1cd12f005cdf6353c261f8eaf4	ThreatFox	2026-07-24	family=win.darktortilla | confidence=95% threat=payload
+602cc7985ad5a2a05425cfa1b16aa7a6e00165455a6d6566234141bc787ff8e9	ThreatFox	2026-07-24	family=win.mydoom | confidence=95% threat=payload
+2b1f09c4559ffa9c0c4400d2bf96807e14243144c242b4d58d57af2fec004f18	ThreatFox	2026-07-24	family=win.agent_tesla | confidence=95% threat=payload
+0ac806ee073f53b035d805fac4f532fa	ThreatFox	2026-07-24	family=win.agent_tesla | confidence=95% threat=payload
+e130fb44008595cc59028b23ee7c616e3c927a8ccdc03b0972a690e0378b0265	ThreatFox	2026-07-24	family=win.agent_tesla | confidence=95% threat=payload
+1d4b4313f46c5e36636df5689a02eb2a	ThreatFox	2026-07-24	family=win.agent_tesla | confidence=95% threat=payload
+73827e53552bac53092a3f937f4c29d060969093cf20d9548836de516f2efede	ThreatFox	2026-07-24	family=jar.crossrat | confidence=95% threat=payload
+9ce153849e117145877431ce9e43e110	ThreatFox	2026-07-24	family=jar.crossrat | confidence=95% threat=payload
+74d740193b40387b0bb8d31d4e681146	ThreatFox	2026-07-24	family=win.agent_tesla | confidence=95% threat=payload
+02469c593ecd42b98fd30db086bfc49c9a486d123085a626cf2ab247d7003e65	ThreatFox	2026-07-24	family=win.agent_tesla | confidence=95% threat=payload
+4f1d4fda1144646990ce36efc915d43b	ThreatFox	2026-07-24	family=win.agent_tesla | confidence=95% threat=payload
+ccad1d780f53e439985bc9e6035211d7	ThreatFox	2026-07-24	family=win.guidloader | confidence=95% threat=payload
+5cae1bc499bb70c7bd93592360a9d6d5a4fefa3969feecb4c87553ddb582976d	ThreatFox	2026-07-24	family=win.agent_tesla | confidence=95% threat=payload
+2cacc53c31ebfb5f3dcbccb953a57e19	ThreatFox	2026-07-24	family=py.creal_stealer | confidence=95% threat=payload
+3fc2edb46b7b5bb430b2e63b7da48dcbef35a63884e219edac2960131062a651	ThreatFox	2026-07-24	family=win.guidloader | confidence=95% threat=payload
+00cd35c4f8afda228da86503adcc2be3	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+eaa828acafc7d731d4f4c64c997b9d72b728c43a94c46ef17a5acb4952152179	ThreatFox	2026-07-24	family=py.creal_stealer | confidence=95% threat=payload
+0ec313029dce62c5ee7aa979263f208b	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+eddcc00fbbaa2823bdfc0ce09f0c4d1f13de9ced5d54deaeda103739a67d0881	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+8316c11965ea33d19a0b81e1b1d3e1c1	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+23135f7a9ef043ebf31d296b08b93b1a636ce43f9ea490afe778433c024726a7	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+fd35f58efcd6af8b7ad198bb07052fd2	ThreatFox	2026-07-24	family=win.zstealer | confidence=95% threat=payload
+2ecc8f99a7860a6806347bc55842e71f2baa81afeffd7f0dbcebe22da5228a2e	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+e5ce90ab36024193e2d1e9268e89ae81187d108c6a29a1275ba5ed909681f107	ThreatFox	2026-07-24	family=win.zstealer | confidence=95% threat=payload
+9c41611e704f413156caa104cc487b9f0a095768a4343898861de8d69d827abb	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+6bc44d424cdc16e6d3c5988db50b27a5	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+e87c28ea4cde41c36ff6016fd8f682f688db2f72b3af45525d787b38a4f65ee5	ThreatFox	2026-07-24	family=apk.facestealer | confidence=95% threat=payload
+8a3eea9f1ba7f1b64966d71d6c50fa84	ThreatFox	2026-07-24	family=apk.facestealer | confidence=95% threat=payload
+2725c0d119ac513e2c64bbbc74a2809cfc19415488f0262a63413931638cd803	ThreatFox	2026-07-24	family=win.overlord | confidence=95% threat=payload
+dc9ca98f5da7e48d1a334a46f7669660	ThreatFox	2026-07-24	family=win.overlord | confidence=95% threat=payload
+90382f4b63fc009d530db77b9b8ebc57	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+5922d829e7b5787f08c7e031eecdf9fa2edf9fc988c09ad90ad5091612cd3109	ThreatFox	2026-07-24	family=win.wannacryptor | confidence=95% threat=payload
+55371257357570a711cadd7ac48cd58b	ThreatFox	2026-07-24	family=win.wannacryptor | confidence=95% threat=payload
+9684b0229634d90636f8c1cf68589484	ThreatFox	2026-07-24	family=win.acr_stealer | confidence=95% threat=payload
+d922f7fc1790cc37aa590a76b0035e26d0680c53294ac57287d05f54e53c9f04	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+26a562d67700a099274ce90626570e68	ThreatFox	2026-07-24	family=win.zstealer | confidence=95% threat=payload
+86471a7fea86de0cd8301ab2e5220170e154f71a14ce04b15ba67d1ab62a0b7c	ThreatFox	2026-07-24	family=win.acr_stealer | confidence=95% threat=payload
+94e24e844c98b2a6095a79397f6898c6	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+0c81d6dbad069b31724b40b793fe42e139f2794a542830ae13dacff897b1617f	ThreatFox	2026-07-24	family=win.zstealer | confidence=95% threat=payload
+f2bcdcb1db9ea4088d89f96283d54e0f	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+dc6149638981cc66314286fc00c75a16e54aac19811425f5bf0ab56256115dc5	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+59e159baaba5a53144003115d39539efb7b72c96c7070eeb670830df6eae633c	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+f25b3a5ddd9a115b0447804fc50a5303	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+40e0968b64ebf8904c7676dafdac691f2d98beda4f084534c2c462602abbfbdf	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+ad5d551335f98af221996306603a1618f990832bf6fdda23200e886be5a28f99	ThreatFox	2026-07-24	family=win.acr_stealer | confidence=95% threat=payload
+0c09c139f79368d432460b08f99610fb	ThreatFox	2026-07-24	family=win.acr_stealer | confidence=95% threat=payload
+f8a09b989de6f5f57a4a1666f1b0fb4d1b1175e624d35f9e3dd7805dc06ea52f	ThreatFox	2026-07-24	family=win.acr_stealer | confidence=95% threat=payload
+4c8cdacf7e5ec0657c281ec2b107af86	ThreatFox	2026-07-24	family=win.acr_stealer | confidence=95% threat=payload
+e6f0059933f463ddbac645d710bf92f0	ThreatFox	2026-07-24	family=win.overlord | confidence=95% threat=payload
+b17e88ed55e2a1d3b8e69e62b3208913	ThreatFox	2026-07-24	family=win.acr_stealer | confidence=95% threat=payload
+e3bc5a94be843c4858570ebb7ce42bb80940d3d7628961448b076995f7b87ec5	ThreatFox	2026-07-24	family=win.overlord | confidence=95% threat=payload
+80b64331aab73ae1cb476c6a1dbe804abf304fded3d52303a700524e8370c92b	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+b3c956a1ff7f13abc16a17f2d4a7ad96	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+499f27061cc38ec593b8104599919c92bb729a55640e6057778a18b05eb7191c	ThreatFox	2026-07-24	family=win.acr_stealer | confidence=95% threat=payload
+11d800c0e492f8ee8090a873f5838561	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+018cff3b8d3d9ecd0cdff35222c83d0859933652f5b368246a8641d96fa7154c	ThreatFox	2026-07-24	family=win.stealc | confidence=95% threat=payload
+71527a93de96710a1c83c3083189e323	ThreatFox	2026-07-24	family=win.stealc | confidence=95% threat=payload
+bad86d2aabc76beaa78036bec4f2ecd8f2c8649f75ee7d85aabe487cdd343853	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+27d6d9269b546067e85d88538254575cff12928e4b6da2bccd7a04a7c6ad2c24	ThreatFox	2026-07-24	family=win.valley_rat | confidence=95% threat=payload
+799451c91e029e6e173fca3608d12c78	ThreatFox	2026-07-24	family=win.valley_rat | confidence=95% threat=payload
+824c913c874d3300c7deefd16ea653d323cfa6a5a7680f10beb00a8cbfa398a4	ThreatFox	2026-07-24	family=win.acr_stealer | confidence=95% threat=payload
+2825198bfb35cf74f4a841f5dc4fb798	ThreatFox	2026-07-24	family=win.acr_stealer | confidence=95% threat=payload
+0628c0d2ca16727fefb2160576fbd9200f8d5d163a8ce550bbd87a650cc66fe1	ThreatFox	2026-07-24	family=win.valley_rat | confidence=95% threat=payload
+1fe76b7c6e8be90ab3965b243aceed93	ThreatFox	2026-07-24	family=win.valley_rat | confidence=95% threat=payload
+9973d36e850834c933f89c5e6e5a9ba0	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+214491310a1e9189a111954e90388be6f6b8fec87676e957e694328e56a038a8	ThreatFox	2026-07-24	family=win.valley_rat | confidence=95% threat=payload
+08bdbef301eed124e661cf01eb6ec8fa	ThreatFox	2026-07-24	family=win.valley_rat | confidence=95% threat=payload
+ac116b7e2f9a0c0ec6d2e6f679aacdf9fe7bce28c7e879c562f2d4c84ccb9897	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+f306f95f4a9b8b5f708e349465614c67ed2e60a13f2d28efefc7fc78c223e51e	ThreatFox	2026-07-24	family=win.guidloader | confidence=95% threat=payload
+2cb69abed9d824a2d7e65bac470e7c42	ThreatFox	2026-07-24	family=win.guidloader | confidence=95% threat=payload
+262373e7649042b5541bcab907599a71	ThreatFox	2026-07-24	family=win.amadey | confidence=95% threat=payload
+b5eadff0a0813eb801ceaf68c2314686	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+5f160eb9a281a5f2a1a6ea1c5743d34fd3c0f1c34407ea1bd2d197e64cfa8c3c	ThreatFox	2026-07-24	family=win.amadey | confidence=95% threat=payload
+dd71a4e1f9223545aa723c7be6f6d70d	ThreatFox	2026-07-24	family=win.formbook | confidence=95% threat=payload
+481a3abe0c3fb8d4f00ae6cd2199d1c289bbff2fba9ce04fd0785b7cf2d34ab6	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+6feeb8c1867a946303c8fccb5bc68583	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+8b32f0d7aef7046e3d48633a0d759e64f86b9d3ccc9eb7b7f12fc5733ddf27d4	ThreatFox	2026-07-24	family=win.formbook | confidence=95% threat=payload
+e7114daa688a2df942983472af9489fd	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+64e49a171913fdcbac24270f98be5aa7fae093c88b59f72b4d84f0aa7c1160b2	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+c38117d47d5f0051ca68f32fb9ffcfeb	ThreatFox	2026-07-24	family=win.mirai | confidence=95% threat=payload
+3ad4b34297520e16c1326483216d801892b3230761ef68fbed6483f3d4493cd3	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+40bd243e3246d22a519995ed54036e3f53279a99be514bae836ecf971f3fc856	ThreatFox	2026-07-24	family=win.webmonitor | confidence=95% threat=payload
+4860a5ee8aefbfaf28fbb930bece10ea	ThreatFox	2026-07-24	family=win.webmonitor | confidence=95% threat=payload
+23dce97932f96517f4232f771be505d3ff885ba264dc27ddc23262fd31100e09	ThreatFox	2026-07-24	family=win.mirai | confidence=95% threat=payload
+df8056bd298f4fd5bc18e419e525f4ee8bda52496b45806d6505ecc2c2ab7f99	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+1a975ae02f8a20bd2e816a7df4564df3	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+0e7819f4ad43256d03865fbd75f883a2	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+c33d466717f4166ef7ef39cde196cd9b0facabba20e14140b2964a1839e59862	ThreatFox	2026-07-24	family=win.formbook | confidence=95% threat=payload
+63722ea0b71a80ef782987d135fc633e	ThreatFox	2026-07-24	family=win.formbook | confidence=95% threat=payload
+1eef1e2d398259813c25501f12d846ad	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+b2239dd0af4d3ec78f4453294dfbf7f213b1a6f86969120277858e911eeef505	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+8a6e25495bc52143928dfe6b31e52973884232e2a3d8024d0ae39dc96791b68b	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+6c5157e20c93de46124ecd70d21b96c5ff86234adbf31e41c82769cd43119123	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+5e6736f38424f8e796a1115fbae43ed8	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+28ca44eb0ad7125d36186ce8d383f066	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+4013ce45572f3c9c8606e037f34ab083867c32419865125601873e4b3aa477b6	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+4851a35a58ee0af8f3278fc5843472ab	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+0ddbc520d021578afa29c88a35af673c	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+b2499ca307b9903a6694e13648c6453e4c1f1d50e208b8107b89704a1e81847d	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+356da0ec0a8ee0dbbce0a40f84b960a9	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+cc0e5688ca82ac4d9916e9d9308edc06d918558b724b2c8c296b55d8989d346f	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+6a9ac6b3fff7b695dbd4df6ff7f6c516	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+d33682b92ddee2be9ab8dce71d6940cf17084571a869cf3e6cebe2f8a41137ef	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+077bb61e9d3cc382319c34388faf2065	ThreatFox	2026-07-24	family=win.formbook | confidence=95% threat=payload
+872d8079ab450bfd1417b9128b619f7e9b43291dc7391044dd838f5b7e8dde52	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+a4fe1d12cfb25e841d32048c3c5a10bb	ThreatFox	2026-07-24	family=win.valley_rat | confidence=95% threat=payload
+dc5ced17f0c85fef8a1fa466796a84fb83592eb7c8a86302d9b0cc9e5837c140	ThreatFox	2026-07-24	family=win.formbook | confidence=95% threat=payload
+58809009fa78d2d9c757f730bfe843a6	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+212d6b6ed3c8910e12580e8d7f5844f1471aa4e4be50261f9402c8569fad6377	ThreatFox	2026-07-24	family=win.valley_rat | confidence=95% threat=payload
+1b6ef1d87f6fc98261cfbdfec854878a	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+78495c054f2466cb5997d0fc5d1ee913d01edeb191b7e730cf508d17ec1b3083	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+7ca92a98fd8560acf02d252b76b426e81e995587cd81fe5f5fe0944008e3cea8	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+cc359d8b70f186ed204649ced3e94babce413ff0f62cb3910c1685450efe8143	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+c27cd9477eb9130abc64679274ebb99b	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+8792005f7b055d1cc53ef15429b147f5	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+162abdcac85d37a9c3953c8730190a9f	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+fa608193e8f5c475f7120317f319eb77ea199ddb7d8ddef58b4580181d4b763b	ThreatFox	2026-07-24	family=win.vidar | confidence=95% threat=payload
+941839c9e6720789cfacbe9993db460b8033a1da421ef3abacd94b75d5c886b3	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+0cfcb4c3fda04c09c01c32b7544c155a	ThreatFox	2026-07-24	family=py.venus_stealer | confidence=95% threat=payload
+2c355642547e30bc702280efc25646ac33db35a49649d3abc6af5e8e9c339199	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+100964269cd0b904e8a91a1e0e637db7	ThreatFox	2026-07-24	family=win.nanocore | confidence=95% threat=payload
+5785ea78b4e7e0528c2c0c3291732d51	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+d733c41692ef27d0a925ed79d5b09d9ff981c943e6a686d245cf420e06043b95	ThreatFox	2026-07-24	family=win.nanocore | confidence=95% threat=payload
+2680dd7239138d434e72e4e260792c00	ThreatFox	2026-07-24	family=win.masslogger | confidence=95% threat=payload
+054fe387cda25efcaf47ef4e5fc18fbfdc6c52f35715d2adbb22700eb96736be	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+fc80da6fac6d35bea5d9fe676acca41a	ThreatFox	2026-07-24	family=win.asyncrat | confidence=95% threat=payload
+f1ca533620933da6d4e119a4bc7b44e233617007cd4ee0239591d0fd0946e718	ThreatFox	2026-07-24	family=win.masslogger | confidence=95% threat=payload
+851d82fdbc98057e893c8fb6510add04	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+fe1e3f38e6bd2ec3cfcacc946a22c8d8212f083c8165cb3caa9ae301c25332ff	ThreatFox	2026-07-24	family=win.asyncrat | confidence=95% threat=payload
+c225f601c7e09fbd672b8f151d20cf73	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+9c60f568244136d6ea1af2159ea85be3bb5058bbb464c8e4f979268dd9a9027f	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+13aa55915fe8418214edc3f57138e29e	ThreatFox	2026-07-24	family=win.pure_rat | confidence=95% threat=payload
+239dede0d31cb07ddd78d5d521cbf30ae057c695d70fb43c98d3a70b112e5fd0	ThreatFox	2026-07-24	family=elf.kuiper | confidence=95% threat=payload
+71fc38575f3641e70a22e1a291e55395	ThreatFox	2026-07-24	family=win.wannacryptor | confidence=95% threat=payload
+5f2979cd7d8192bb50266546557be153907b952d73f911122655c79c9ba73591	ThreatFox	2026-07-24	family=win.pure_rat | confidence=95% threat=payload
+731fc822a6bdfe76804b1d55fdd08de05680ca6d99bd8c3216a466ece9a3f92b	ThreatFox	2026-07-24	family=win.wannacryptor | confidence=95% threat=payload
+6546d4bcaf4bd2848d6f5d86def14961a312b482302a12c7850f5dd1d58601cf	MalwareBazaar	2026-07-24	family=ACRStealer | filetype=dll md5=de1d167e0e42a518c464c5df1a687b21 sha1=1c91259e7d9ba7bebaef410bfb9dce4325c437b8
+f4eabc26ada6bbe04591abbcbbefd73a4e9c517508a2c45cec565c434c462974	MalwareBazaar	2026-07-24	family=Mirai | filetype=elf md5=33af9d47b1efc1b9adb163eb4c393fa7 sha1=44092f321336d5bc4c006a42af822cabdf395d0d
+6b232621c7d31c73bee8fd4462106f68b9a060810a504ce4383470cd9c0c47d4	MalwareBazaar	2026-07-24	family=Mirai | filetype=elf md5=6637ece78593a2d04c6b7d10a7fc535f sha1=f47288984e2d4860787ac493506395134bd0e179
+9c9976adbb1f4cda0e3ba85d3ed9c211	OTX	2026-07-23	family=Hades | pulse='Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Staged' pulse_id=6a6280a6b0f220d5330af106
+cfa6312db63b91f8c4022078a487c1c86b7e0901	OTX	2026-07-23	family=Hades | pulse='Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Staged' pulse_id=6a6280a6b0f220d5330af106
+0f8c905aa25c86f85454acb7e77bf5c50220c2a82e5b69a33741e55c8a85f2fc	OTX	2026-07-23	family=Hades | pulse='Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Staged' pulse_id=6a6280a6b0f220d5330af106
+2a4cb412efa93fed7c3b3b3e49d6247b11a95ce9fddf71d9fe9db8e5f0068e0d	OTX	2026-07-23	family=Hades | pulse='Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Staged' pulse_id=6a6280a6b0f220d5330af106
+5633bc0033fde3aad929d6cbd47c554e264180360b017aae04687c2d6d83f753	OTX	2026-07-23	family=Hades | pulse='Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Staged' pulse_id=6a6280a6b0f220d5330af106
+576c70e12be8b2e8e7c35a5feb082e90621989adce8e64400126918d37f13e49	OTX	2026-07-23	family=Hades | pulse='Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Staged' pulse_id=6a6280a6b0f220d5330af106
+58338a93fee4e008ea28e459c4d1598313d1524763ab13894ab63bf2bec4302a	OTX	2026-07-23	family=Hades | pulse='Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Staged' pulse_id=6a6280a6b0f220d5330af106
+9ff4b6d3b7dbb023bad65d2538ade745d46b763e5a12116c9c83aa2f6f5d96aa	OTX	2026-07-23	family=Hades | pulse='Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Staged' pulse_id=6a6280a6b0f220d5330af106
+a9447ae174f4aa54f760b7d7cc985c1a970f31e151d3ff66fac247f99ba1b509	OTX	2026-07-23	family=Hades | pulse='Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Staged' pulse_id=6a6280a6b0f220d5330af106
+b65b7ede835ebba36294d52d7780065523340ee09bb8b209ef2dc495e53dfd53	OTX	2026-07-23	family=Hades | pulse='Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Staged' pulse_id=6a6280a6b0f220d5330af106
+d252ee7b348b7e43e432d8fb154465838f5cd5fb564905323460e6f0a0c7d1e2	OTX	2026-07-23	family=Hades | pulse='Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Staged' pulse_id=6a6280a6b0f220d5330af106
+dbbb8a11a239da11cbaf99f847a2d032f34d3b522e13b0fd4ef7b2649da7123b	OTX	2026-07-23	family=Hades | pulse='Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Staged' pulse_id=6a6280a6b0f220d5330af106
+ec7e9ab43a0cc65d29f0b84a93ba88c43d01fed3dec5c968525dc73c03cbfda2	OTX	2026-07-23	family=Hades | pulse='Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Staged' pulse_id=6a6280a6b0f220d5330af106
+ff662b60f6a142f99292fbdd65dd1ccd79dc9628686ddf5935c92f7fb1b62a81	OTX	2026-07-23	family=Hades | pulse='Thailand's Ministry of Finance Targeted With Hermes AI Agent Running Unattended, Hades Implant Staged' pulse_id=6a6280a6b0f220d5330af106
+6c23b7723a9f69ea48f02c8fe13fd60ecbfc2fb28e32e481c46ec968a66c66cd	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+b7b322f4638ead5c39031ffc7ca8c791c8d47211b09449f7ceb49f0c32a19b45	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+45c8cbaeb5c7708e7b8030e701747c65203958e82eddc41f39e0ca93bd36c114	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+d2e1ab10d5a0c16a724aeda8acb46b38f551ade58137969c3bc3c9cdc0a12425	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+5cae5202ddcc29f19f954d81ba138f11b8a4080d05fef63c05a00b9242c06967	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+9a2d714ddd5c48722c35df8a70e97f12d46bcde05dc79b7242a7e692bd346826	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+6c7619c34497f430c4f7618cfefe07d1defacfae48f6730c20f52e7a7344faa9	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+41aa04782e436345ef45dc159321d5c0e0e5cba300e55a4d1d3194e5c7c5fd97	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+d5dea9a51b984be9d7fa76e3e8ff89cfb97c335927331e8e348b9ee269070c1b	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+16735cb80d796865b2430aa11d21a539fcb00b027932f2c63e4b5c098d26585b	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+e3153ced59bb0376186b0eee0ec68f0b5aa9ae5820ef8508ae4e67625e1a3581	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+6922b319dc96d020738bcf466c4d6d9233e4767b68592e1fd9258a232f166ce1	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+03713176e7f0d9f3b37ac6eb644d90bb	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+210f57e3b1c88447ddc11467f7b2fbb9	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+2cc1ec080f7e1fcd2c0c6ae033b988c5	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+2cf627a0a9d64db3e4cd13fda3ce5636	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+3418b6439309250feb2cd983aa00da44	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+396d4f44e429e7128af9c02e0c1bdf99	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+552d991cccd6c5053dfda46c0ac32623	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+60992cdeb88dddfb17e12573e4436c42	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+70983540817fd9ff46204001a7b35ba0	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+7a0edeb5bebc51de8ce455f38d9a7670	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+7c6e4a085b1fd9b98407ba4400f91201	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+8ea54a900bd13ff3ecca01e62428e508	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+960688e3484eb744cdbbee55a7415bd1	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+9bd6f7a308418a2b376e731d9e80bac1	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+9d6f7697c0fbea55d6bfb39642eb87df	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+c21f69bbf1f78ebf4f1aa784cee035ce	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+cbe0daeec71e47840672d930e112d467	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+e4ee5ed330eaa0602f4f637f5567d08e	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+f23cb60ab395cc6bf931eed16b801ed7	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+06eade11e16465edef89ba0199d7d6f8c18a3200	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+10f6effed5a4dfff9b6e94ea90bc2134510f770f	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+26545d3db9802c44145e289b8e989d0a68bf90cb	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+2b57771989fc059bbef8f28fc0ca24eeae7e7863	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+39b3b4bb7a1b45cc155e0f8a7149df393e98b2b6	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+3a0257f31f8db0bf5e1526f4c65f79808e4a5eea	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+3ea1ccbd98c3fa8ed5cc23642ef5db39e900d88b	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+49d8bcb15cbf235a1a5f5d81a5ed4e1045b2d90a	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+5c50a13f91b0c5a109c96628e2e35f86a2c3d6c3	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+6a29c8ebd0c77e5655c39963df9c86ca9c145d08	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+72e488857a6c6c659c0c673f0e4c32a610ea41ee	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+7df85059c75bcd3e6280b4c60e1d75c094429664	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+813cd8a638b4d5cde58bdf8df7c02260a404802c	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+b5b0993b33d65f14a357b4f371d2093238c0e9d0	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+c5d8601c7b65a584696fe63e8817b395414bc1ed	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+c6c299162eae50a1d76ee9f6d42f60cef464fa04	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+d48d1a4dfb6d015df1ee019ea70ec59137c4b948	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+d810f563443e8f11478937bfcf20ff178d45eedb	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+e6b4511b53ed8ef7c857c236a5907d077862f7ad	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+086273cd91f3d6556ed2af915df310e4b184b3db84c3903aa09830d49d1fbb62	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+200fbc76bd9fab3b4adcecfe44233cf47146f5709a9735a0232cb4aa7284eadb	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+3250adbca0a0bfeab8bd88ee93b603be31fc86b341fd77a152b4843416560d53	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+337e92c233edc38842c6122fa38e0e84a478f5aa5af2a95ca6be3ca056d925b8	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+33a12c2328db22429c4a515400a57ffeaf7aec48a2a3c299ab6f1ce2d2b0e87d	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+5d585f2b24503a96011bbe928f42b1b663946e822b309f8496573c66b5ee834c	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+652346c05123b4c9556c27f5c5efc4bcd941dd66957e3797c6751246a2bff9c6	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+6adf68448b8541e3cbe4a471845cb6c2ac07613f08698567e5ed76dc2a921834	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+7ee371ff1a13a3bbd26c925a9beedb1aa0d0c03fe6f63d3803a3a55aaccd0a5b	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+a3a0aced0f3c13b0b9890ec74802a1cb4936bccfaf5e8a6a52f555c82e09d92f	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+be7b80f42b0d859b7afaeefca04e46dc10fb5c0a532692bbbfef2924254d1175	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+c455c02ca6b3844027e05d941830de97753c3966dd57c5fa9f1938d8cd1cca3b	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+c4e2af286ee2ed12375bb66a5bff1a9d3bb5a6579842bc3a28ac00dfae195adc	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+c4e55e9e6837de01f0dadc7db299abd48630bf115a442f09ea0c6a593c559e6f	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+ccb6be9211b3946d290e8b23497b8f0e6ac045d1dcde4aaae424680e9029e4eb	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+e481d16e51f90c4cc0e7096284b53eef06f7ee8b37a03d92734521d8bca24409	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+f3d2ad7440a6f985846710d2dcf0dd2db268dc690837bdf19e4e4e6684483527	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+f3f4de7eb30c01044ad3c7f2c22376d0ab6f6dc60ef6aee3cde75fd33fbddacc	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+4b8478afbfb3d4e271b47e323d893b829258a10b	OTX	2026-07-23	family=TinyEgg | pulse='Upgrades MaaS Ecosystem with Modular Tools' pulse_id=6a6241aa476b940a0df81e20
+11420d6d693bf8b19195e6b98fedd03b9bcbc770b6988bc64cb788bfabe1a49d	OTX	2026-07-23	family=microsoft teams threats | pulse='Email threat landscape: Q2 2026 trends and insights' pulse_id=6a6241aa79fc3235d84045f9
+5db1ecbbb2c90c51d81bda138d4300b90ea5eb2885cce1bd921d692214aecbc6	OTX	2026-07-23	family=microsoft teams threats | pulse='Email threat landscape: Q2 2026 trends and insights' pulse_id=6a6241aa79fc3235d84045f9
+b5a3346082ac566b4494e6175f1cd9873b64abe6c902db49bd4e8088876c9ead	OTX	2026-07-23	family=microsoft teams threats | pulse='Email threat landscape: Q2 2026 trends and insights' pulse_id=6a6241aa79fc3235d84045f9
+467f4c566f8a49fa9bc5d36f50f89568	OTX	2026-07-23	family=microsoft teams threats | pulse='Email threat landscape: Q2 2026 trends and insights' pulse_id=6a6241aa79fc3235d84045f9
+99ce8ecb93b9a43c5697bfa9cbd13b7b	OTX	2026-07-23	family=microsoft teams threats | pulse='Email threat landscape: Q2 2026 trends and insights' pulse_id=6a6241aa79fc3235d84045f9
+7d509d135292020a317b0f7a2f444b665396e891	OTX	2026-07-23	family=microsoft teams threats | pulse='Email threat landscape: Q2 2026 trends and insights' pulse_id=6a6241aa79fc3235d84045f9
+f5d0ee4f6eb348d10ccaa4f24cae392782b9bfa3	OTX	2026-07-23	family=microsoft teams threats | pulse='Email threat landscape: Q2 2026 trends and insights' pulse_id=6a6241aa79fc3235d84045f9
+625e4c166c7a1d5a1becf56b27d4f76a2f95935cbd8d556c30a493263d10dbf8	OTX	2026-07-23	family=SpyPress | pulse='Operation RoundPress Rolls on with More Half-Click Webmail Zero-Days' pulse_id=6a6241a95227e5bddd350d13
+3a449148a0e3cac604fb93210dd7d91ccf48e06ed9aae064bc53a419a84ce9ba	OTX	2026-07-23	family=SpyPress | pulse='Operation RoundPress Rolls on with More Half-Click Webmail Zero-Days' pulse_id=6a6241a95227e5bddd350d13
+6b2c02bf82087a3ca5fb7ef8046554ff29ce85d52202bdcfae2b2653aede139a	OTX	2026-07-23	family=SpyPress | pulse='Operation RoundPress Rolls on with More Half-Click Webmail Zero-Days' pulse_id=6a6241a95227e5bddd350d13
+8b5a4dc237a4c89042176bc89864a4c357dcdd14fa544fe6496ccb6c31cd5b7f	OTX	2026-07-23	family=SpyPress | pulse='Operation RoundPress Rolls on with More Half-Click Webmail Zero-Days' pulse_id=6a6241a95227e5bddd350d13
+a0c80cab70d6672b01710a70f93311fc1c1db2fbbf9cd6daa543c34b87e3444a	OTX	2026-07-23	family=SpyPress | pulse='Operation RoundPress Rolls on with More Half-Click Webmail Zero-Days' pulse_id=6a6241a95227e5bddd350d13
+e27d1bf82249002a66395c89dbda6ec5d8df012a84b79d36fffbbf7808d28878	OTX	2026-07-23	family=SpyPress | pulse='Operation RoundPress Rolls on with More Half-Click Webmail Zero-Days' pulse_id=6a6241a95227e5bddd350d13
+fb8ec4dbed14c0a91361abd82ebe9fb083615c3dbb15348f57317af7cc41dd34	OTX	2026-07-23	family=SpyPress | pulse='Operation RoundPress Rolls on with More Half-Click Webmail Zero-Days' pulse_id=6a6241a95227e5bddd350d13
+c010f64080b0b0997b362a8e6b9c618e	OTX	2026-07-23	family=ZimReaper | pulse='Zimbra Mailservers Targeted with Half-Click Exploits' pulse_id=6a6241a85c158acad5feb72c
+e3ce7d13a83716594787a12edf6cbeedc76b9a65	OTX	2026-07-23	family=ZimReaper | pulse='Zimbra Mailservers Targeted with Half-Click Exploits' pulse_id=6a6241a85c158acad5feb72c
+98df604ecc57f884a2e6ce3266a0013ad64455cac48442c2312cfa4765007aaf	OTX	2026-07-23	family=ZimReaper | pulse='Zimbra Mailservers Targeted with Half-Click Exploits' pulse_id=6a6241a85c158acad5feb72c
+1517b3caa495f6c4e832df9c75fc94667e3c233773f7fa4e056d5e30e5ead760	OTX	2026-07-23	family=ZimReaper | pulse='Zimbra Mailservers Targeted with Half-Click Exploits' pulse_id=6a6241a85c158acad5feb72c
+60db9abae75cd8ccc49dd7ea5feb41677566dcd442f12ebc5745ffd2810fb874	OTX	2026-07-23	family=ZimReaper | pulse='Zimbra Mailservers Targeted with Half-Click Exploits' pulse_id=6a6241a85c158acad5feb72c
+b1f5beb1175fc5c7d1806a2f0d900eb124c54f0286c5c52b66eea7a6633adb1d	OTX	2026-07-23	family=ZimReaper | pulse='Zimbra Mailservers Targeted with Half-Click Exploits' pulse_id=6a6241a85c158acad5feb72c
+572745566ec674c6eae10c179b0de2ba	OTX	2026-07-23	family=supply chain | pulse='Large-Scale GitHub Actions Abuse Powers a Distributed cPanel and WHM Exploitation Campaign' pulse_id=6a624074f254a9070c274d94
+e219da0599dea936ee867792e2dfe6a2c2a7c68b	OTX	2026-07-23	family=supply chain | pulse='Large-Scale GitHub Actions Abuse Powers a Distributed cPanel and WHM Exploitation Campaign' pulse_id=6a624074f254a9070c274d94
+22f721fd3a81d2e27cbf90a122bb977f630c50b79daa98350f0e57b04dfa81f1	OTX	2026-07-23	family=supply chain | pulse='Large-Scale GitHub Actions Abuse Powers a Distributed cPanel and WHM Exploitation Campaign' pulse_id=6a624074f254a9070c274d94
+2a1410d8e2a8337ac2171cedea8c0fdc47c647a0	OTX	2026-07-23	family=CMSmap | pulse='Exploitation in the Wild of wp2shell' pulse_id=6a61c32bf83a8841dbf45852
+58eca847e9eae9e6b08cc211f1559817b71bc4cc	OTX	2026-07-23	family=CMSmap | pulse='Exploitation in the Wild of wp2shell' pulse_id=6a61c32bf83a8841dbf45852
+d9a220c8039f1c4d72cae7ccb8b3a33dec8815be	OTX	2026-07-23	family=CMSmap | pulse='Exploitation in the Wild of wp2shell' pulse_id=6a61c32bf83a8841dbf45852
+e9756e2338f84746007235e4cab7a70d5b3ca47f	OTX	2026-07-23	family=CMSmap | pulse='Exploitation in the Wild of wp2shell' pulse_id=6a61c32bf83a8841dbf45852
+ebea44890f434d5d67ede22009a3f4bb5cac33f8	OTX	2026-07-23	family=CMSmap | pulse='Exploitation in the Wild of wp2shell' pulse_id=6a61c32bf83a8841dbf45852
+04dcc1abb68aae9d3ae4901cc140dbb8	OTX	2026-07-23	family=SectopRAT | pulse='Inside FakeAgent: How a Claude Desktop Malvertising Campaign Hit 29 Organizations with SectopRAT' pulse_id=6a616004250472ee87e19829
+71fdd6fb7f0acd3e9a6206851452e11b	OTX	2026-07-23	family=SectopRAT | pulse='Inside FakeAgent: How a Claude Desktop Malvertising Campaign Hit 29 Organizations with SectopRAT' pulse_id=6a616004250472ee87e19829
+82011a9ff3692236df69427eb200ba05799205b0	OTX	2026-07-23	family=SectopRAT | pulse='Inside FakeAgent: How a Claude Desktop Malvertising Campaign Hit 29 Organizations with SectopRAT' pulse_id=6a616004250472ee87e19829
+da7a5028b9694c406a881eb85e5acd8ea375a890	OTX	2026-07-23	family=SectopRAT | pulse='Inside FakeAgent: How a Claude Desktop Malvertising Campaign Hit 29 Organizations with SectopRAT' pulse_id=6a616004250472ee87e19829
+1cd58cfba596da296ab1878d74023e00c399345a1b6c2a0e5446c53563f4e3bb	OTX	2026-07-23	family=SectopRAT | pulse='Inside FakeAgent: How a Claude Desktop Malvertising Campaign Hit 29 Organizations with SectopRAT' pulse_id=6a616004250472ee87e19829
+1fe3646d27d286db8123297e06ae7badf3e26f352a04f91b6d82c28869a91664	OTX	2026-07-23	family=SectopRAT | pulse='Inside FakeAgent: How a Claude Desktop Malvertising Campaign Hit 29 Organizations with SectopRAT' pulse_id=6a616004250472ee87e19829
+26bae4d7012bf59847ab4036a065419c3d4ca47e020479f55b3b2c6d0d21394a	OTX	2026-07-23	family=SectopRAT | pulse='Inside FakeAgent: How a Claude Desktop Malvertising Campaign Hit 29 Organizations with SectopRAT' pulse_id=6a616004250472ee87e19829
+f8acb8f5cf88b77a4c27d7fd6856aa299bb178e85f9963c2fbd447d818da3ed0	OTX	2026-07-23	family=SectopRAT | pulse='Inside FakeAgent: How a Claude Desktop Malvertising Campaign Hit 29 Organizations with SectopRAT' pulse_id=6a616004250472ee87e19829
+fd826215add30c1319eefa291b6eaf8ddfa7720cfe816c49aef6fe8a88de7939	OTX	2026-07-23	family=SectopRAT | pulse='Inside FakeAgent: How a Claude Desktop Malvertising Campaign Hit 29 Organizations with SectopRAT' pulse_id=6a616004250472ee87e19829
+b8053bcd04ce9d7d19c7f36830a9f26b	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+3ba9a74f8faeff3de03e4c834f266582e2eb46a8	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+e82ecbe3823046a27d8c39cc0a4acb498f415549946c9ff0e241838b34ed5a21	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+35feef0e6806c14f4ccdb4fceff8a5757956c50fb5ec9644dedae665304f9f96	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+d5590802bf0926ac30d8e31c0911439c35aead82bf17771cfd1f9a785a7bf143	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+88ac1c5fc9ee89491c70ea16131e264a	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+910465739b3170584150e9260bfba6a65e633f35	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+c64eda499e2a21ad158841b9dbc7adc9	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+3de213252d98348a7d833c4956a099bfcd36b9e2	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+0482d6053f96e6bde0a92af25497f3c0	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+0e6d22c2a81d29b1f9d8395d44e19e53	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+35cdbf8a16da1245d574a0365cb87287	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+38e317af0fc0efcc88265f243a264542	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+39d4012e49f58092ec5cefed13dbbcfd	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+3b3dd8f3a5e1ff85c63f2453ad270415	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+3fe9c84025f4401f8cd661675642c526	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+4faf4fd91d28e014b4f2362d6a7bb8ac	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+5222a31cf24f9f57ae3d1831f264a983	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+5b75b00a4b4c32b6e213514e80500a65	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+7840f30b395fac347f85b38633c2d08d	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+796f82a4833be330b1e35af63e55b597	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+7c84e75817349adcdea9925b86f67670	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+8002ab4d0cf7e1888ee72de0b9f4282c	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+853f760f76de3201b0af0e41f1f65fba	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+9e01bf0e28c86435cfb1afaef44238e9	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+a4cdecc57a215243d279cdb065863308	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+aedd185b76ccda8d65dbd26204cc0e9a	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+bb5c88de9e04e6306260b9f3a4498933	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+bef0b8599d18acf1c74192ae9f198f85	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+c1f45a0609c5c1bd2c21cad20703f126	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+c512adfa8743c3b3c776d4452f00c6c0	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+d99392248bdd7e351e63ead6733638ba	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+df1f03a2534480a4838f62339bcb90d8	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+e067ffea77875ae0dc13d4ce045931d3	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+ee5a2cdd4ce6ccb2e9279c9e13e8bd15	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+efac43473d7e87ede5176fe01a114abb	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+f2ce6fe8b52dfbacfee482a48f4ae972	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+f360afe51b499a036c7be8c0ecc4dc89	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+fef1d3cb35129ad25d95e279565b9001	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+3915dfb85d698abe2d5b4285bef1fb0f63520ea3	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+4a7545fa95cf3ede0ef796f04bed7d0c9afe5276	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+97918307c96d4357c81caf7ca6f942c32f43857e	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+8f2e8a2f9d3edc12d39ca07f4717277e863d4bfeb8ec31fe4f391ddd0f64df84	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+d38e05a6fea310e778a8b1e623ee9b00f430ee76622f7a66cd0ca538fcaa1613	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+d4d249c621b5c27fd96505d041674ea472d5dec0a7730b44324c8af6a7fb7f0a	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b

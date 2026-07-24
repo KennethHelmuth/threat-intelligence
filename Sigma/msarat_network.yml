@@ -1,0 +1,33 @@
+title: Network Connection to Msarat Infrastructure
+id: 094cf552-3d9f-4589-b6d8-3372a4164f55
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Msarat.
+date: 2026-07-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser hijacking
+    - chrome devtools protocol
+    - cloudflare workers
+    - covert tunneling
+    - malware.msarat
+    - msarat
+    - ransomware-as-a-service
+    - rust-based rat
+    - twilio turn
+    - webrtc
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'is-01-ast.ols-img-12.workers.dev'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
