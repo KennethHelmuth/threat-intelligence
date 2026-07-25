@@ -1,0 +1,32 @@
+title: Network Connection to Npm Infrastructure
+id: d09f59c0-44f2-4365-90b2-6b47f1d0a115
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Npm.
+date: 2026-07-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential-theft
+    - github
+    - intercom
+    - malware.npm
+    - npm
+    - shai-hulud
+    - supply-chain
+    - typescript
+    - worm
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'zero.masscan.cloud'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

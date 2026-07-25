@@ -4873,3 +4873,123 @@
 2.24.131.246	OTX	2026-07-23	family=SectopRAT | pulse='Inside FakeAgent: How a Claude Desktop Malvertising Campaign Hit 29 Organizations with SectopRAT' pulse_id=6a616004250472ee87e19829
 195.110.58.222	OTX	2026-07-23	family=SectopRAT | pulse='Inside FakeAgent: How a Claude Desktop Malvertising Campaign Hit 29 Organizations with SectopRAT' pulse_id=6a616004250472ee87e19829
 192.252.186.62	OTX	2026-07-23	family=TriBack Loader | pulse='JadeProx: Tracing a China-nexus Operation Through an OPSEC Mistake' pulse_id=6a620199948bf751adbd698b
+203.195.217.161:22	ThreatFox	2026-07-25	family=unknown | confidence=100% threat=botnet_cc
+103.101.85.103:4747	ThreatFox	2026-07-25	family=win.quasar_rat | confidence=100% threat=botnet_cc
+182.92.117.223:1234	ThreatFox	2026-07-25	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+111.170.148.134:9000	ThreatFox	2026-07-25	family=unknown | confidence=100% threat=botnet_cc
+122.51.215.90:10011	ThreatFox	2026-07-25	family=unknown | confidence=100% threat=botnet_cc
+134.175.86.167:21111	ThreatFox	2026-07-25	family=win.vshell | confidence=100% threat=botnet_cc
+81.70.95.138:4444	ThreatFox	2026-07-25	family=win.vshell | confidence=100% threat=botnet_cc
+111.170.148.134:9443	ThreatFox	2026-07-25	family=unknown | confidence=100% threat=botnet_cc
+87.76.146.91:1604	ThreatFox	2026-07-25	family=win.njrat | confidence=100% threat=botnet_cc
+218.59.87.198:34687	ThreatFox	2026-07-25	family=unknown | confidence=75% threat=payload_delivery
+111.170.148.134:7791	ThreatFox	2026-07-25	family=unknown | confidence=100% threat=botnet_cc
+111.170.148.134:3310	ThreatFox	2026-07-25	family=unknown | confidence=100% threat=botnet_cc
+111.170.148.134:888	ThreatFox	2026-07-25	family=unknown | confidence=100% threat=botnet_cc
+216.250.255.1:9000	ThreatFox	2026-07-25	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+111.170.148.134:8080	ThreatFox	2026-07-25	family=unknown | confidence=100% threat=botnet_cc
+209.200.246.194:34586	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+103.193.150.74:8087	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+111.170.148.134:80	ThreatFox	2026-07-24	family=unknown | confidence=100% threat=botnet_cc
+175.43.223.202:7443	ThreatFox	2026-07-24	family=unknown | confidence=100% threat=botnet_cc
+111.170.148.134:443	ThreatFox	2026-07-24	family=unknown | confidence=100% threat=botnet_cc
+167.172.80.107:8080	ThreatFox	2026-07-24	family=elf.aisuru | confidence=100% threat=botnet_cc
+111.230.238.243:8080	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+47.96.154.174:443	ThreatFox	2026-07-24	family=win.havoc | confidence=100% threat=botnet_cc
+111.230.238.243:443	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+111.230.238.243:80	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+1.94.106.150:9999	ThreatFox	2026-07-24	family=win.vshell | confidence=100% threat=botnet_cc
+82.156.166.227:22	ThreatFox	2026-07-24	family=unknown | confidence=100% threat=botnet_cc
+103.101.85.111:4747	ThreatFox	2026-07-24	family=win.quasar_rat | confidence=100% threat=botnet_cc
+113.44.90.0:8000	ThreatFox	2026-07-24	family=unknown | confidence=100% threat=botnet_cc
+106.52.255.211:9000	ThreatFox	2026-07-24	family=unknown | confidence=100% threat=botnet_cc
+111.228.62.67:8000	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+195.20.115.53:2004	ThreatFox	2026-07-24	family=win.dcrat | confidence=100% threat=botnet_cc
+47.129.159.160:8888	ThreatFox	2026-07-24	family=win.dcrat | confidence=100% threat=botnet_cc
+12.187.175.73:7878	ThreatFox	2026-07-24	family=win.dcrat | confidence=100% threat=botnet_cc
+87.251.64.204:63812	ThreatFox	2026-07-24	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+46.246.12.2:2512	ThreatFox	2026-07-24	family=win.dcrat | confidence=75% threat=botnet_cc
+45.11.59.152:43200	ThreatFox	2026-07-24	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+38.60.220.51:7443	ThreatFox	2026-07-24	family=unknown | confidence=75% threat=botnet_cc
+23.94.252.7:80	ThreatFox	2026-07-24	family=js.tsundere | confidence=75% threat=botnet_cc
+2.27.248.80:80	ThreatFox	2026-07-24	family=js.tsundere | confidence=75% threat=botnet_cc
+193.93.194.42:57301	ThreatFox	2026-07-24	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+185.212.129.117:9000	ThreatFox	2026-07-24	family=elf.evilginx | confidence=75% threat=botnet_cc
+158.94.211.191:8848	ThreatFox	2026-07-24	family=win.dcrat | confidence=75% threat=botnet_cc
+157.20.182.21:1992	ThreatFox	2026-07-24	family=win.asyncrat | confidence=75% threat=botnet_cc
+156.247.47.108:12159	ThreatFox	2026-07-24	family=win.dcrat | confidence=75% threat=botnet_cc
+156.247.47.108:8848	ThreatFox	2026-07-24	family=win.dcrat | confidence=75% threat=botnet_cc
+156.247.47.109:12159	ThreatFox	2026-07-24	family=win.dcrat | confidence=75% threat=botnet_cc
+156.247.47.109:8848	ThreatFox	2026-07-24	family=win.dcrat | confidence=75% threat=botnet_cc
+156.247.47.110:12159	ThreatFox	2026-07-24	family=win.dcrat | confidence=75% threat=botnet_cc
+156.247.47.110:8848	ThreatFox	2026-07-24	family=win.dcrat | confidence=75% threat=botnet_cc
+156.247.47.106:12159	ThreatFox	2026-07-24	family=win.dcrat | confidence=75% threat=botnet_cc
+156.247.47.106:8848	ThreatFox	2026-07-24	family=win.dcrat | confidence=75% threat=botnet_cc
+151.236.21.109:2096	ThreatFox	2026-07-24	family=win.havoc | confidence=75% threat=botnet_cc
+143.110.132.139:65000	ThreatFox	2026-07-24	family=unknown | confidence=75% threat=botnet_cc
+13.143.139.239:6606	ThreatFox	2026-07-24	family=win.asyncrat | confidence=75% threat=botnet_cc
+13.143.139.239:7707	ThreatFox	2026-07-24	family=win.asyncrat | confidence=75% threat=botnet_cc
+13.143.139.239:8808	ThreatFox	2026-07-24	family=win.asyncrat | confidence=75% threat=botnet_cc
+43.144.19.224:53	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+119.29.21.84:80	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+119.29.21.84:8080	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+119.29.21.84:443	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+216.250.255.1:888	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+216.250.255.1:22	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+216.250.255.1:8000	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+216.250.255.1:7000	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+216.250.255.1:3306	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+111.228.62.67:3000	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+111.228.62.67:8181	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+111.228.62.67:8085	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+111.228.62.67:22	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+216.250.255.1:80	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+111.228.62.67:8080	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+168.144.135.136:8080	ThreatFox	2026-07-24	family=elf.aisuru | confidence=100% threat=botnet_cc
+27.124.10.162:4453	ThreatFox	2026-07-24	family=win.valley_rat | confidence=75% threat=botnet_cc
+111.228.62.67:443	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+101.96.224.108:50005	ThreatFox	2026-07-24	family=win.vshell | confidence=100% threat=botnet_cc
+111.228.62.67:80	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+27.124.10.162:4452	ThreatFox	2026-07-24	family=win.valley_rat | confidence=100% threat=botnet_cc
+162.19.139.33:5553	ThreatFox	2026-07-24	family=win.quasar_rat | confidence=100% threat=botnet_cc
+103.149.93.150:8084	ThreatFox	2026-07-24	family=win.vshell | confidence=100% threat=botnet_cc
+216.250.255.1:8080	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+115.159.210.123:8088	ThreatFox	2026-07-24	family=win.vshell | confidence=100% threat=botnet_cc
+221.132.16.23:8000	ThreatFox	2026-07-24	family=unknown | confidence=100% threat=botnet_cc
+146.56.205.231:8084	ThreatFox	2026-07-24	family=win.vshell | confidence=100% threat=botnet_cc
+102.117.171.29:7443	ThreatFox	2026-07-24	family=unknown | confidence=100% threat=botnet_cc
+8.160.167.144:22	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+8.140.239.162:3000	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+192.252.180.45:4449	ThreatFox	2026-07-24	family=win.asyncrat | confidence=75% threat=botnet_cc
+168.144.135.136:9035	ThreatFox	2026-07-24	family=elf.aisuru | confidence=100% threat=botnet_cc
+94.158.245.53:9992	ThreatFox	2026-07-24	family=win.quasar_rat | confidence=75% threat=botnet_cc
+172.245.95.9:2404	ThreatFox	2026-07-24	family=win.remcos | confidence=75% threat=botnet_cc
+8.160.167.144:8080	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+8.160.167.144:443	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+8.160.167.144:80	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+8.140.239.162:8080	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+47.108.25.113:22	ThreatFox	2026-07-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+139.28.37.250	OTX	2026-07-24	family=privilege escalation | pulse='Security Advisory - Action Required - July 2026 Security Update' pulse_id=6a6375b8843a154abdf4a0f0
+151.241.99.207	OTX	2026-07-24	family=privilege escalation | pulse='Security Advisory - Action Required - July 2026 Security Update' pulse_id=6a6375b8843a154abdf4a0f0
+151.241.99.233	OTX	2026-07-24	family=privilege escalation | pulse='Security Advisory - Action Required - July 2026 Security Update' pulse_id=6a6375b8843a154abdf4a0f0
+158.62.198.182	OTX	2026-07-24	family=privilege escalation | pulse='Security Advisory - Action Required - July 2026 Security Update' pulse_id=6a6375b8843a154abdf4a0f0
+79.133.46.209	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+185.82.73.162	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+185.82.73.164	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+185.82.73.171	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+135.136.1.133	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+185.82.73.165	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+185.82.73.167	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+185.82.73.168	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+185.82.73.170	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+175.110.121.107	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+175.110.121.39	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+175.110.121.42	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+185.82.73.175	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+185.225.17.225	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+141.11.164.153	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+192.142.54.79	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+84.200.205.165	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+88.80.150.199	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+88.80.150.200	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19
+88.80.150.202	OTX	2026-07-24	family=IOCONTROL | pulse='Ongoing PLC Exploitation Against Critical U.S. Infrastructure' pulse_id=6a635bdde06bc9c9945e6c19

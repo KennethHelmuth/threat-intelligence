@@ -1,0 +1,22 @@
+title: DNS Query to Elf.Shadowv2 Domains
+id: bf4c70f7-6724-4f92-97b8-4f09b0ba61c0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Elf.Shadowv2.
+date: 2026-07-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.elf.shadowv2
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'guns.lol'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,24 @@
+title: Network Connection to Elf.Shadowv2 Infrastructure
+id: 4aada918-ac16-4984-ae10-9665b3b907de
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Shadowv2.
+date: 2026-07-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.elf.shadowv2
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'guns.lol'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

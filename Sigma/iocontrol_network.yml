@@ -1,0 +1,57 @@
+title: Network Connection to Iocontrol Infrastructure
+id: 9ab6a6d5-1299-49f4-8779-3724c6d6d6a0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Iocontrol.
+date: 2026-07-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - critical infrastructure
+    - energy sector
+    - hmi manipulation
+    - industrial control systems
+    - iocontrol
+    - irgc-cec
+    - malpdb
+    - malware.iocontrol
+    - ot security
+    - plc exploitation
+    - water facilities
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'ocferda.com'
+        - 'tylarion867mino.com'
+        - 'uuokhhfsdlk.tylarion867mino.com'
+        DestinationIp|contains:
+        - '79.133.46.209'
+        - '185.82.73.162'
+        - '185.82.73.164'
+        - '185.82.73.171'
+        - '135.136.1.133'
+        - '185.82.73.165'
+        - '185.82.73.167'
+        - '185.82.73.168'
+        - '185.82.73.170'
+        - '175.110.121.107'
+        - '175.110.121.39'
+        - '175.110.121.42'
+        - '185.82.73.175'
+        - '185.225.17.225'
+        - '141.11.164.153'
+        - '192.142.54.79'
+        - '84.200.205.165'
+        - '88.80.150.199'
+        - '88.80.150.200'
+        - '88.80.150.202'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,34 @@
+title: DNS Query to Iocontrol Domains
+id: ac3200e4-ec72-47a0-a299-e45b7edea520
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Iocontrol.
+date: 2026-07-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - critical infrastructure
+    - energy sector
+    - hmi manipulation
+    - industrial control systems
+    - iocontrol
+    - irgc-cec
+    - malpdb
+    - malware.iocontrol
+    - ot security
+    - plc exploitation
+    - water facilities
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'ocferda.com'
+        - 'tylarion867mino.com'
+        - 'uuokhhfsdlk.tylarion867mino.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

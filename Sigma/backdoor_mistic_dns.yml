@@ -1,0 +1,56 @@
+title: DNS Query to Backdoor.Mistic Domains
+id: db9c9dd5-1438-48be-ae9a-9982e14c06bb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Backdoor.Mistic.
+date: 2026-07-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - backdoor.mistic
+    - credential stealer
+    - d3f@ck loader
+    - gatekeeper
+    - initial access broker
+    - malware.backdoor.mistic
+    - mintsloader
+    - modelorat
+    - nexshield
+    - qilin
+    - ransomware
+    - sideloading
+    - social-engineering
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'mail.authorized-logins.net'
+        - 'mueleer.com'
+        - 'grande-luna.top'
+        - 'oeannon.com'
+        - 'human-check.top'
+        - 'update.update-fall.com'
+        - 'cwrtwright.com'
+        - 'carrolc.com'
+        - 'w3xasv14culvnqj.top'
+        - 'authorized-logins.net'
+        - 'b6w9m2z5x8q1v3k.top'
+        - 'rotoa-upda-lo.com'
+        - 'sql-updater-service.com'
+        - 'upd-domain-goloro.com'
+        - 'updater-worelos.com'
+        - 'upscale-kolo.com'
+        - 'defs.updater-worelos.com'
+        - 'ftps.upd-domain-goloro.com'
+        - 'mailes.upd-domain-goloro.com'
+        - 'mails.updater-worelos.com'
+        - 'nano.upscale-kolo.com'
+        - 'php.authorized-logins.net'
+        - 'sss.authorized-logins.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

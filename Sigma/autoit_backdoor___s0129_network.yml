@@ -1,0 +1,37 @@
+title: Network Connection to Autoit Backdoor - S0129 Infrastructure
+id: ff7e02eb-1993-4ef2-8a19-bdd1249a04cc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Autoit Backdoor - S0129.
+date: 2026-07-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - apt
+    - autoit
+    - github abuse
+    - kimsuky
+    - lnk files
+    - malware.autoit_backdoor___s0129
+    - pebbledash
+    - powershell
+    - prxclient
+    - south korea
+    - spear phishing
+    - task scheduler
+    - xenorat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'bohyeonsanvil.com'
+        - 'kumhosports.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,30 @@
+title: DNS Query to Npm Domains
+id: eb1b3d2b-4dff-40bf-a5d1-f7876ff4b5f6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Npm.
+date: 2026-07-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential-theft
+    - github
+    - intercom
+    - malware.npm
+    - npm
+    - shai-hulud
+    - supply-chain
+    - typescript
+    - worm
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'zero.masscan.cloud'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
