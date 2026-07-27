@@ -7236,3 +7236,5 @@ cf426ee0da8f8907c42dfe264552ec560d5a97ff85ec7a7bf4518e773b19ce50	ThreatFox	2026-
 1b27f8fc61f3c0d5798c71e88678c68a	ThreatFox	2026-07-25	family=win.phorpiex | confidence=95% threat=payload
 4f8df06e14378fef16c78183525ba7c0dbcc5176e92ae20102d6ea25dbccbf1d	ThreatFox	2026-07-25	family=win.vidar | confidence=95% threat=payload
 bdabc7198cc94abbf0446bda43a21128c548f8fa3e039562502e308de3a890b6	ThreatFox	2026-07-25	family=win.phorpiex | confidence=95% threat=payload
+85a229fa75bcf5ef41066bb0618ade943cba3b72c377fee22bc2ff94dfaf4160	MalwareBazaar	2026-07-27	filetype=exe md5=b9b9e94e807a98caa367cf2b4b995eeb sha1=ac38d4936c5bdf74c2ecdd3d6da8adc35db12b6b
+00ec97c78c9c4fc27f8beda4ffe27d4f4cb98b0208e13b7a1652d6c1e120cd76	MalwareBazaar	2026-07-27	filetype=exe md5=b25fd6814be7f03c56bfb669d8587844 sha1=27f9857ee08246eacb56c194989071ec5213c704 | vt=21/74
