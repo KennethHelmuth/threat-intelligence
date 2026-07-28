@@ -1,0 +1,33 @@
+title: DNS Query to Openshield Domains
+id: e8fa36d4-7674-4447-803d-60bc929a5468
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Openshield.
+date: 2026-07-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - apprunner
+    - corepack impersonation
+    - developer targeting
+    - infostealer
+    - malware.openshield
+    - node.js
+    - openshield
+    - phishing
+    - proxyware
+    - supply chain attack
+    - typosquatting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'corepack.org'
+        - 'yakteam.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
