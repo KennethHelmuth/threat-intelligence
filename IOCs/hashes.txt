@@ -7334,3 +7334,200 @@ b9974299de794e9b5e30ec95f7849e97	ThreatFox	2026-07-27	family=win.salatstealer | 
 6a12f1b9d531003b507b251a6fbbd9fc8c3673bb386852749c161730fbc312d9	ThreatFox	2026-07-27	family=win.supper | confidence=95% threat=payload
 fc09faa3fdbf0f6b7d7aad125eca6798b8fb928714dfb0c6b7964a866fdffe39	MalwareBazaar	2026-07-28	family=RemcosRAT | filetype=vbs md5=e9985c83a9ef65973cbaa4e2673c597a sha1=cdd5f5657b7efdab718d345d94693cb04a15c538
 52f011851639a0c3a5ac55a68314d0b11d6893805f93f0934a4b72f5c3c6d15d	MalwareBazaar	2026-07-28	family=CoinMiner | filetype=exe md5=1bb73ccfdacfd31c472d9f6b477eb55d sha1=7f2d5191f591515ba76b90bd34e4a74ebad68785
+a8ab5c112f0e6f7f2762b0f96fd16da312af98820d46a79f58689abdb679d561	ThreatFox	2026-07-28	family=unknown | confidence=100% threat=payload | vt=1/74
+c74820349ce06caf983178ef5ad7c8748afb1078caa98d66d1bb325a6f99d414	MalwareBazaar	2026-07-29	filetype=sh md5=97e9bd358da99b670578c833bf2fe245 sha1=9d53153124d4888f69d32e0b2a34d73fc4202e29 | vt=17/74
+96aa9b5fcc9f02bf0879ae9b1e088b3f8dc978ec323da003b194fb660acd0713	MalwareBazaar	2026-07-29	filetype=exe md5=682b9aca0ad2123c253d8324633cf648 sha1=f05a7689454b9a1ae949f8177eaf6c1d682b8d57 | vt=50/74
+7dfab6d94576579e466f5bc7ace0019b	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+5b033d3a4db05e99ae970ffe77f0a55b	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+bf1dde0ee67946f8ec76c64b6eb4252040ad4ffb097cdc9528c844de923a1dad	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+510950ff5cb5d12c8a9d4a71d2a88d2e	ThreatFox	2026-07-28	family=win.nanocore | confidence=95% threat=payload
+4ddf530a9ced8cb042c88e3fdd75933a08cd1419a1f3bbd7a3e6b8f3e6b6260d	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+ef876baf02db22ca0d03a888226bea7728b508e39e75f84dc894ec900b296fae	ThreatFox	2026-07-28	family=win.nanocore | confidence=95% threat=payload
+ce3376b9a6834ccfd743785dfec778a1	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+3fe19e12a6c3054ca089010c5da14867a4e7ccbd72560dcbe8cdc99f44e36f48	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+f5236d7bb0342a14ab7eb986c6689d2b	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+4fef8581b198c27c37f06137df872d52	ThreatFox	2026-07-28	family=win.xworm | confidence=95% threat=payload
+17c4da4a81155d233e6eaf6ef7cd2590d6fda76a46bacede4881ab3cd1bf88d3	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+a9ff5612013f81d8ccb00c564e007290	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+712ca31e2937bf843579e0e782ac8bc33ae84b4d580a3c69aabd531ff416b5b8	ThreatFox	2026-07-28	family=win.xworm | confidence=95% threat=payload
+baa453124334a345c4a906dd4bced099	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+21fa2933a5f8ecc157747f190d86762317d8b64f800f67287fbecf0169764b46	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+ba1a44c6bfd17c461d2ebf0f033bae12	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+a3c889a83799583a0dcbfaa90ad905cafbb0cd3221b54b49cb5fe3ceecec3d34	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+5734b587edb55648f7d0b461a3f3c466	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+04ef9757c950005f926458dee36517a6c879d39e5798a378bdd6aa7a45d0d23a	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+e947f8a540eb337c4090c14d880948f07106dbe19d64625b7577cf9416935fae	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+4a93a809cf87667cb73e0405f5e5b102	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+b06316fc674d62db99afd11be3ec60eb212fd0e64a23c20685017fe7d7221f5d	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+d31040a2b95b66340fe07d1bed67ef96fbe1d60e6635acc2736de3d648f90131	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+60b6c61db4b78d713fa014568db9263b	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+764d5bcb4be851ed27008a40010ed48669160dee3c83fecfc3a0c0654dcece3f	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+da3c4fd3f4f3738f9f626c96de56a535	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+4a319c860dacdd7ff95772e04b7072bba01e43d9f9d03a3cc3ece1e7064e071b	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+eb80b24437ca144ae6cf0b19a03ca599	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+9dde2022d383851518ce67221f6c3f51	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+c7e6b3208a4bf04ef28fd3b37008b7d2	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+1bb73ccfdacfd31c472d9f6b477eb55d	ThreatFox	2026-07-28	family=win.coinminer | confidence=95% threat=payload
+b2070d140b362a0ad381ae4c6dcf48a7	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+346807f0534467f59b6baea973ed71ef	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+07e01575db8e5a3b8a97aa7977a631e541f412548d16f15f8744969f1540d609	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+51ef4b8441aa94c9c2b1280e869e5a2d	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+24ec774133cf8b8fd595751cffec810d6e179561644bc55e22301335aa6c028e	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+fcacc7ea0897dce4fd6aa38979978db7	ThreatFox	2026-07-28	family=win.netwire | confidence=95% threat=payload
+d4e159aa3c7efe664c91952efa73624a1cf50975d64402aaaba290924cdf8ee5	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+691f35bf0e51a5c1445a284029c28e29	ThreatFox	2026-07-28	family=win.netwire | confidence=95% threat=payload
+aa5f4e85e97d1507df8a70018a9f1429360039b337b096b56fd695a532b926ba	ThreatFox	2026-07-28	family=win.netwire | confidence=95% threat=payload
+78e063c23731705994a1b23d5375f3d9	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+072fb279608d062dd75764fedc60c55f672a9eb381fa243b53164c9be0a841c8	ThreatFox	2026-07-28	family=win.netwire | confidence=95% threat=payload
+4200fbf91504f5a9e545fbd6aa9b1ec4	ThreatFox	2026-07-28	family=py.venus_stealer | confidence=95% threat=payload
+6a11fdf8efa8d65257b58f265c43aa937efdba13953abc99203ab3b30c96a8f0	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+c7ffd01310d80e2983ec4027232b5b63	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+5043c52418d1e8c7e0ef50572965de2900e4bb092c88d15f6cbebe45f830bdc8	ThreatFox	2026-07-28	family=py.venus_stealer | confidence=95% threat=payload
+2ac1f830806ce3bdd35cdcb957f139ba	ThreatFox	2026-07-28	family=win.quasar_rat | confidence=95% threat=payload
+aa4948508c0c98758400c5b167319a5fc45fa2bdec45c352db96719e3b075362	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+07a303ec82a2e27132dbbefaabd33471	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+9270d36aa57eec3d44dc2d66929551198cb8a31d0ef383a726c38b75ad8144ba	ThreatFox	2026-07-28	family=win.quasar_rat | confidence=95% threat=payload
+30eff0fbbd41f9172813bd4907d68730	ThreatFox	2026-07-28	family=jar.crossrat | confidence=95% threat=payload
+93acfa3e1128452e59dbd9d479265747718cd7a37734ecfefee4c10e43b06dde	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+c189e889e530d891501d459eea14af09e51af8f489cfb827cca985af057f2276	ThreatFox	2026-07-28	family=win.formbook | confidence=95% threat=payload
+a560021ea970572d26d453d3d02ccb25	ThreatFox	2026-07-28	family=win.formbook | confidence=95% threat=payload
+6599585dcd0455e6c47701e369283af406735c102a6bacaadace6947acc56d18	ThreatFox	2026-07-28	family=jar.crossrat | confidence=95% threat=payload
+cd154bf27d4f62cc67f1a6ae44bbb9cb85a8d7c15233886242299b63dfc50e3f	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+fc99d7a06531cd8ab0d6bd228a473322	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+61b5291e4636aae8ea85b6d5d963f781c2160fb3bc6cf99c720a3c4aeede33e1	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+9db20e972d03665775e8e87836562619	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+329519abb208137bb0ed2129efd51bd1cd85b1a21610c33aef2d15d7379cfca5	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+1ca303227696443d914fb59cd63aa52e	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+2a8e577f4a3e9d7930a9cecc839e1dbdc36570dd876ae54bd67d749535234f60	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+e48199bb764bd840f0f9a6ae7f495a38	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+929f05e274f24763222f9649eb3b14f4	ThreatFox	2026-07-28	family=win.stealc | confidence=95% threat=payload
+9ed59215e24621404e058f8c0e9101e9351e147f5b367679b8d62ec73f44d169	ThreatFox	2026-07-28	family=win.formbook | confidence=95% threat=payload
+a11bc7fddad2602881739faab6875ad6	ThreatFox	2026-07-28	family=win.formbook | confidence=95% threat=payload
+4ed3931ab5bddd24ce23fd0d5546ae45b52a0cd0124afe7cb3692a56510ac1ed	ThreatFox	2026-07-28	family=win.stealc | confidence=95% threat=payload
+1f6b1d72c0ce7791411926925d4f6f1c	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+16c8dfdb6a5528d9d937a7ac643816f6	ThreatFox	2026-07-28	family=py.venus_stealer | confidence=95% threat=payload
+90a7dc10998cbc29704868b8dfe1e69a6f01a08032784f9506988d9558f63ca0	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+00f41782b7ffda43f48a632433f8d70d2363600af03b02182009d72d825ec650	ThreatFox	2026-07-28	family=win.luca_stealer | confidence=95% threat=payload
+41d9eba31f341c2c2a4cfd6af4a94023	ThreatFox	2026-07-28	family=win.luca_stealer | confidence=95% threat=payload
+baf71232724f96eeac468eb71dba5e5af62cebdac9a3aa181ce234d8bdb2a748	ThreatFox	2026-07-28	family=py.venus_stealer | confidence=95% threat=payload
+624f9d23167fef7006ceed2413a6e491b69abfe918e07918335a90e97ffc4852	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+f6996d9e9f587d804b8d87d93226dfb0	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+624ac3ad002bf57ad104a1153a4196e24d954086091348bcf7a0b57b38998dbc	ThreatFox	2026-07-28	family=win.adaptix_c2 | confidence=95% threat=payload
+0a84486e20e0fdca44aa5ce8c3c121a0	ThreatFox	2026-07-28	family=win.adaptix_c2 | confidence=95% threat=payload
+d8b6088156477df342a5387bc81aef1e242f12d2f722e5e2030cbc51c203d547	ThreatFox	2026-07-28	family=win.adaptix_c2 | confidence=95% threat=payload
+a60ff47f224bebdaeac73aeab370854d	ThreatFox	2026-07-28	family=win.adaptix_c2 | confidence=95% threat=payload
+f7fc3b0773b7c63939174cb2db2a6f7fa645e8c3251b131a5ab071f2d293d87d	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+2c6cbec4eb4b6fe7442effcc933e71d1	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+1f7c4122131ba1c798fe09827fe1ee9b	ThreatFox	2026-07-28	family=win.asyncrat | confidence=95% threat=payload
+6c0ff1c6abb8601339f818e03e4b3a14	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+0a50174b6ef5b50a5d26fd07855446697d6d8145d5162a8df3de50c6e54aaad9	ThreatFox	2026-07-28	family=win.asyncrat | confidence=95% threat=payload
+398bae29ba107b311eac608a7679da9b	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+9f6d1bb57a8e1d6a35b192a38f21ba2f2c26ee299a7640c2b1d6f724d1c23862	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+f8e97b3d0e4335fe86255cf198663149	ThreatFox	2026-07-28	family=win.coinminer | confidence=95% threat=payload
+88cb4873b9bfbdf78da245f0e0a622161fb00b26c15a32bbdcba1dfad53cc4e8	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+c9d0dafd346d0654623b72b7039ab63a	ThreatFox	2026-07-28	family=win.coinminer | confidence=95% threat=payload
+dc907a7b5d67117a35298a23c57df45549b96937f90bf067ac792b32c97edf76	ThreatFox	2026-07-28	family=win.coinminer | confidence=95% threat=payload
+4555ce1f128a9c70a0cabb1cb14afdd4	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+c1996d4fe6c679462269511c38184b50b89ff7f05a3c3055b1cf8f686d2b03c4	ThreatFox	2026-07-28	family=win.coinminer | confidence=95% threat=payload
+d33bc3e0969ef5e0960659f9befe232bdb4f8ab9b6b1e2556f2dcf4f8fc35659	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+5e10c356f7a41764011d102094f4823f2dce439c5cd50c68c23e3328de9255dc	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+accc992b82f7332df297b48a2c778301	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+51147a93ee2f3b3ac60c446435c96e72bdd54a1c0fb27cda033537f88c3690a0	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+ce7d00292e5012a93207c63daef53c67	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+65ee6b42c5babfa8327fa896df54c007	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+234d3cc64ff2bff76866cd1e991ebbf5	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+4eac222c9b28ad1fcb44fe3a15a228632cce94333d6ca132f8e156d09adb8677	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+3f95a86fb5a628574736c53ce3d4b54a9e039caae220c64b55f03d9490fffb9e	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+e23c0c97b7dcc8f83261c18e88dd2511	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+602f19d79ed622fbefe826da2fa006c7	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+247ccd7c34e6600d90b6e6d5dc82858fcf369da21d9a323db52a37ade981c62c	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+21fb6930c2679a056a8cfd79f93f53cd	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+0cf715d47bf25c5ca920110d091807c3fddb2bc14b45701fd2b36648e5463826	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+070181f442b486e6bc3192434f99c19bff30441fdc069a2274987d742178c2ec	ThreatFox	2026-07-28	family=py.creal_stealer | confidence=95% threat=payload
+f1364dc74d53b9ea08064172a21cabdb9fca69e78884c01799abafd1bd864ef1	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+700f8ae06cd33b7ae8d5e7d10b168f0d	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+1d9bbba8601db0ad5ef2a66b75a1a0f1c8f4c4cb01378bce031d360c9c543f32	ThreatFox	2026-07-28	family=win.coinminer | confidence=95% threat=payload
+ac4f0f8c136e3cf7302b5fd1d6cd6e1b	ThreatFox	2026-07-28	family=win.coinminer | confidence=95% threat=payload
+5839887f0a72b6e522074c4346850603	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+6936c872fc55301340ca5e2575216688f66c0c94888072d57cdf53e11167eb39	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+ab96159be2090be87021bf5ec7cd96ad	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+d20a462ee82fc009d69338c62a759272	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+3fcc93723abb9c679e5e310a0c1a7089e858fb9fa9cd34f9da998f1cfb30c5eb	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+706e4e3277a565232ca3c363299b032f	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+02479b50896ebe3d90514056603edb2ba16394bfe2249e1eca795667f8ca1508	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+33dbe6464c260480fe018c5e09a32df1	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+83723bbe3d6116bdc45de533d7c890ab627bc18531d2c19d0d199e5151627fd2	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+5a0d8566ca1081047d435f1839a9577a	ThreatFox	2026-07-28	family=win.coinminer | confidence=95% threat=payload
+6bb93285730e63fcb09bc3db2bbaffedfd21227f648c3c7cfa2ee347f75360f0	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+9dbe63ff5c9393de11670dbb2d40a957	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+679a9028729d7ce6177c78ed0a4607194343c1877abcac6a8552c8085066dc41	ThreatFox	2026-07-28	family=win.coinminer | confidence=95% threat=payload
+9049c0570c16e47553be0dee7b4e02ab	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+a10a9ed6f6c5d33349fe711cb5dcbb0556973505d5430fb08a81ac1a5ab135ea	ThreatFox	2026-07-28	family=win.phorpiex | confidence=95% threat=payload
+8d1bcf322230e8935758228cebec1bb6	ThreatFox	2026-07-28	family=win.formbook | confidence=95% threat=payload
+0d7b6965d455ee7e00ba279a77a299caeaf7c872d863738d07aa52139c1ac1b1	ThreatFox	2026-07-28	family=elf.kuiper | confidence=95% threat=payload
+a3ab968ecfe40961e381aff0e5bba919eb4e8cfcbbf445cf44441197aefbb399	ThreatFox	2026-07-28	family=win.formbook | confidence=95% threat=payload
+376968a612e976c22025dc552cf79c6eda5af8a82136fe2dbff48fd72afaacaa	ThreatFox	2026-07-28	family=win.wannacryptor | confidence=95% threat=payload
+d017feba12f5960520155ba240beb093	ThreatFox	2026-07-28	family=win.wannacryptor | confidence=95% threat=payload
+47f9779b48eeda53a846a2460456c738ad752ad0e02483231d927930f3f37dce	ThreatFox	2026-07-28	family=win.wannacryptor | confidence=95% threat=payload
+700fb7e2c6a2ff13cd27e08a18703423	ThreatFox	2026-07-28	family=win.wannacryptor | confidence=95% threat=payload
+0605015c8428fb4efc98e0abd8af027c7a01f2e87471dbc7e4389a3c6e5844c4	ThreatFox	2026-07-28	family=py.stealler | confidence=95% threat=payload
+dc23b8b8afcffbf1798d09ebf443af85	ThreatFox	2026-07-28	family=py.stealler | confidence=95% threat=payload
+6f620f266c74d2bd871f50ea4b7fa2ee	ThreatFox	2026-07-28	family=win.coinminer | confidence=95% threat=payload
+e95766d2d9dcc598cada3c33133935fda7d54d245d8a46fc05be47986e036fff	ThreatFox	2026-07-28	family=win.njrat | confidence=95% threat=payload
+cee0e495adc06bbac4be33544bd393ca	ThreatFox	2026-07-28	family=win.njrat | confidence=95% threat=payload
+460210f3fd4047499e12f4e4fcbbf556f2a1957f1ef276238aaa152554a02b37	ThreatFox	2026-07-28	family=win.coinminer | confidence=95% threat=payload
+6d785f191a10799f38e08cfc5563bd559729ec74efe2aa242c4542fd853f90d1	MalwareBazaar	2026-07-29	family=Mirai | filetype=elf md5=17cfec542adc8dadd3e2ddc86e209327 sha1=a1e333da3fb3406aeef2588d00f219431fb6ffab
+336ff5d2c361e594327c54a8a5398bc0255f152d175f99bf3a9efd621c51a3b0	MalwareBazaar	2026-07-29	family=Mirai | filetype=elf md5=616d444d5d09d06f7a2c79d9e04d517d sha1=8eccb26b2367a367160ab29637830cb2ecc00b0a
+eae10853be098476c31a1cb7d37c3b2dbc7ef80d73ce9d64306962eca8be8cc2	MalwareBazaar	2026-07-29	family=Mirai | filetype=elf md5=fef8fcd25ca8007f5cd5d3eed991c1c0 sha1=0744720e7bc8ba5cd65c050f641fce7af1c28464
+7d6f5eb4bc8cdea4b40f7a3f659c50b35020602abdd8e8a2e2fc31732330a92a	MalwareBazaar	2026-07-29	family=Mirai | filetype=elf md5=734ea4993da57f44368650260febf468 sha1=f3213afec77a01847857e9b01278c844e4bb4e06
+42f847597109da2a220391bb09d00676	OTX	2026-07-28	family=NightLedger | pulse='Mirage Kitten targets Middle East and Africa region with new malware' pulse_id=6a689c34d4df4bb1475d80c7
+5fa15ef96808ea82f0a6176f0bb4b386	OTX	2026-07-28	family=NightLedger | pulse='Mirage Kitten targets Middle East and Africa region with new malware' pulse_id=6a689c34d4df4bb1475d80c7
+6038d42af0affd1fb263f470c0956f6b	OTX	2026-07-28	family=NightLedger | pulse='Mirage Kitten targets Middle East and Africa region with new malware' pulse_id=6a689c34d4df4bb1475d80c7
+a239e655709a2518dd0b7bdbed163679	OTX	2026-07-28	family=NightLedger | pulse='Mirage Kitten targets Middle East and Africa region with new malware' pulse_id=6a689c34d4df4bb1475d80c7
+ae628efa305387b633dce82f9364875b	OTX	2026-07-28	family=NightLedger | pulse='Mirage Kitten targets Middle East and Africa region with new malware' pulse_id=6a689c34d4df4bb1475d80c7
+afb1c1583606599c7272cfb33cc6f498	OTX	2026-07-28	family=NightLedger | pulse='Mirage Kitten targets Middle East and Africa region with new malware' pulse_id=6a689c34d4df4bb1475d80c7
+c832ecd135781b11f59e3fffb3d2b6ac	OTX	2026-07-28	family=NightLedger | pulse='Mirage Kitten targets Middle East and Africa region with new malware' pulse_id=6a689c34d4df4bb1475d80c7
+c90f0efadbf322e5eb1c4103a38c30e6	OTX	2026-07-28	family=NightLedger | pulse='Mirage Kitten targets Middle East and Africa region with new malware' pulse_id=6a689c34d4df4bb1475d80c7
+d09b14a2fe01c7363ecc56f5d046162c	OTX	2026-07-28	family=NightLedger | pulse='Mirage Kitten targets Middle East and Africa region with new malware' pulse_id=6a689c34d4df4bb1475d80c7
+f7d36cc5904a53252d2bb3d21615134f	OTX	2026-07-28	family=NightLedger | pulse='Mirage Kitten targets Middle East and Africa region with new malware' pulse_id=6a689c34d4df4bb1475d80c7
+6e85d21c17d68c7c7e3e10433a53486c5371c127	OTX	2026-07-28	family=NightLedger | pulse='Mirage Kitten targets Middle East and Africa region with new malware' pulse_id=6a689c34d4df4bb1475d80c7
+c4a9de21aad3e71b08bfbcc827d4c242f8915e763117d254e41febe6df4807cc	OTX	2026-07-28	family=NightLedger | pulse='Mirage Kitten targets Middle East and Africa region with new malware' pulse_id=6a689c34d4df4bb1475d80c7
+3d1819de80c5a6633bc546f7b07086a4	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+7a818efa2a3af3130a3c4b69260a08aa	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+925dc63fc70de650127f41e00e9ffbf3	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+b42366dcf2612adb43ed0c617bfa98d4	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+b6a74fcadf1efca4e9f01658529556bc	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+1d93080e7e97cd265e259a5e6f4d76e5583ed211	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+233dbba4110d6d52d5378eb8ca6e8edb5f271445	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+3f25712f02617eda348f1703bb1096e8a121ceaf	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+7ddb7a07d5ecb0056f545306225e7a59a8bc2753	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+a6491268ab79940dcbb811c32f1b19a988219814	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+35ea50f16bd5c080c91dbaa3dd4937408ed9563c1d9aa1cd0c751ae58db0eedc	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+41748648b71a70431123ec48e38868ff8aad3a7a06f5d781c2d2a4f718e7fd91	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+51edd14233483bcf36e0b0f31451f28eac681fe3f2036f76c02b7ec1bb17ce33	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+5d53246b0e6b681bc624739a7bead39a61fb07c0f4474b8170112e829c053f85	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+65af5c3ba2d00967b25b9165d2d3171fa81f209ee0790299805bb907d492a670	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+66b2b22397cea219266afb8cbbb28fe93997c1444f642a183ac8fc9ca1fabed5	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+759287052b8cc4f4ce16065857cbc9dba72aab218e709d3419483a95092c6f96	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+7dcabb6d07d52b92bbf8d659d1ed373fa780e7839fd3d744826a56fc1cd2372f	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+9136ffb749c6cec13b826cd4f25ffdcf170375889feba9fee28dd74c32578f52	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+f36bfccf944b5d1e5e306958c1a728e38786c042ee4e536cc44c9d43940b1121	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+f85960dee17ba587b712cd8cdf89042bcd6ba711c3d5d548bef7c7f0988413f5	OTX	2026-07-27	family=GoGRPC | pulse='Helpdesk Hijackers: Teams Vishing, Quick Assist, and GoGRPC Backdoor' pulse_id=6a678b1bffd8195d4d34ef68
+12de8ce21bc534a968c327c00f2aa933b9034bc39b367ad1659f5aaa8be07744	OTX	2026-07-28	family=cve-2026-60137 | pulse='Technical Advisory: wp2shell — Unauthenticated Remote Code Execution and Full Site Takeover in WordPress Core' pulse_id=6a6823754b2a6d2295eb3330
+37d86716edcb5b481d5d34b38b3bb4b522fcabdf0baf9b0523a0a61957620fad	OTX	2026-07-28	family=cve-2026-60137 | pulse='Technical Advisory: wp2shell — Unauthenticated Remote Code Execution and Full Site Takeover in WordPress Core' pulse_id=6a6823754b2a6d2295eb3330
+4f4dc354dfa3ab9df33107b02106424d9940119363ceaff3399aefa8b14859dc	OTX	2026-07-28	family=cve-2026-60137 | pulse='Technical Advisory: wp2shell — Unauthenticated Remote Code Execution and Full Site Takeover in WordPress Core' pulse_id=6a6823754b2a6d2295eb3330
+5588eb0d473bbc104ecb7d41037a747280eba03956a3d4c11368e4f0bd427ead	OTX	2026-07-28	family=cve-2026-60137 | pulse='Technical Advisory: wp2shell — Unauthenticated Remote Code Execution and Full Site Takeover in WordPress Core' pulse_id=6a6823754b2a6d2295eb3330
+67ce5c125611078c2a6294faacd378b7dccbfb490641a0ca0822b071a22f759c	OTX	2026-07-28	family=cve-2026-60137 | pulse='Technical Advisory: wp2shell — Unauthenticated Remote Code Execution and Full Site Takeover in WordPress Core' pulse_id=6a6823754b2a6d2295eb3330
+9c1bf6681ca94ab703d4f393fbfdd0acfb081285cd47ea4cf718ff9b71835722	OTX	2026-07-28	family=cve-2026-60137 | pulse='Technical Advisory: wp2shell — Unauthenticated Remote Code Execution and Full Site Takeover in WordPress Core' pulse_id=6a6823754b2a6d2295eb3330
+d3e34d9306106aca15b1deb6dcfbe169c5f0df470bd22095845d553a60cbfd1e	OTX	2026-07-28	family=cve-2026-60137 | pulse='Technical Advisory: wp2shell — Unauthenticated Remote Code Execution and Full Site Takeover in WordPress Core' pulse_id=6a6823754b2a6d2295eb3330
+d4cf7b5d8722236de52e9bad855b4ed4d99f18a561d192aec33525ec89557a7c	OTX	2026-07-28	family=cve-2026-60137 | pulse='Technical Advisory: wp2shell — Unauthenticated Remote Code Execution and Full Site Takeover in WordPress Core' pulse_id=6a6823754b2a6d2295eb3330
+d8dfdab3a4358dbcd0eb129494d9e64b8392ef564bdc4cbe73e238c6d3ba51cd	OTX	2026-07-28	family=cve-2026-60137 | pulse='Technical Advisory: wp2shell — Unauthenticated Remote Code Execution and Full Site Takeover in WordPress Core' pulse_id=6a6823754b2a6d2295eb3330
+ee8395666b9367967749757da27784922fdc18dc3e85db864d30fa703eb9db18	OTX	2026-07-28	family=cve-2026-60137 | pulse='Technical Advisory: wp2shell — Unauthenticated Remote Code Execution and Full Site Takeover in WordPress Core' pulse_id=6a6823754b2a6d2295eb3330
+d26ea6828cc01ae151d99bbee78c4e6d132e9077842a558bce3901fa0970d9be	OTX	2026-07-28	family=CastleLoader | pulse='Expanding the Castle: New Campaigns, New Tooling, and the NeedleStealer Connection' pulse_id=6a682376fe6eac7ecb782129
+2fcf553b9656523b3207c08cdf16f7be9a25e55cf8c29f5caf933151c9214367	OTX	2026-07-28	family=CastleLoader | pulse='Expanding the Castle: New Campaigns, New Tooling, and the NeedleStealer Connection' pulse_id=6a682376fe6eac7ecb782129
+1390903f57b21f346193aefbbfd36759	OTX	2026-07-28	family=CastleLoader | pulse='Expanding the Castle: New Campaigns, New Tooling, and the NeedleStealer Connection' pulse_id=6a682376fe6eac7ecb782129
+4d5f81bf79554aa7a2187e6ffbc9702a	OTX	2026-07-28	family=CastleLoader | pulse='Expanding the Castle: New Campaigns, New Tooling, and the NeedleStealer Connection' pulse_id=6a682376fe6eac7ecb782129
+6728b11f74fd435f926ed25c5f2952bb	OTX	2026-07-28	family=CastleLoader | pulse='Expanding the Castle: New Campaigns, New Tooling, and the NeedleStealer Connection' pulse_id=6a682376fe6eac7ecb782129
+0c48fd6a18ad9c701b254bbdd412efbf7dfdd2be6534a61c14bce719d259df9f	OTX	2026-07-28	family=CastleLoader | pulse='Expanding the Castle: New Campaigns, New Tooling, and the NeedleStealer Connection' pulse_id=6a682376fe6eac7ecb782129
+edff43ecdf7aa476331d925db04e68a2251920165a2109be9df91a56d86b87c7	OTX	2026-07-28	family=CastleLoader | pulse='Expanding the Castle: New Campaigns, New Tooling, and the NeedleStealer Connection' pulse_id=6a682376fe6eac7ecb782129
+fa67487da701ce1d61ee3abb84869f669a6c2aa50ca0148a3c4a87e667716638	OTX	2026-07-28	family=CastleLoader | pulse='Expanding the Castle: New Campaigns, New Tooling, and the NeedleStealer Connection' pulse_id=6a682376fe6eac7ecb782129

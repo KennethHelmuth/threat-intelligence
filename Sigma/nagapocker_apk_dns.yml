@@ -1,0 +1,59 @@
+title: DNS Query to Nagapocker.Apk Domains
+id: 2769d46b-2472-47eb-bb20-0bd855c29aac
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Nagapocker.Apk.
+date: 2026-07-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - account takeover
+    - geopolitical conflict
+    - malware.nagapocker.apk
+    - mobile security
+    - phishing
+    - russia
+    - social engineering
+    - ukraine
+    - url shorteners
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'xx.com'
+        - 'gui.snitch-dev.site'
+        - 'kzeva2010.sbs'
+        - 'gui.snitch-dev.online'
+        - 'snitch-dev.space'
+        - 'gui-snitch.online'
+        - 'gui.snitch-dev.xyz'
+        - 'gui.dev-snitch.xyz'
+        - '2fbing.com'
+        - 'awawc.icu'
+        - 'bostonsportsthenandnow.com'
+        - 'gricanjolt.com'
+        - 'gui-grafit.online'
+        - 'kccomputech.in'
+        - 'kropyva-group.online'
+        - 'malicious-website.com'
+        - 'radenspinrtp.cloud'
+        - 'signal-qr.org'
+        - 'solulu.vip'
+        - 've1edm.cc'
+        - 've2edm.cc'
+        - 'weppf.icu'
+        - 'wswwc.icu'
+        - '90999.fdjk34sddsf90999.cc'
+        - 'azojwdsj.xinchaoshan.com'
+        - 'cdnimg.jeayacrai.in.net'
+        - 'csdh.wangzhan.mobi'
+        - 'fable.tele-tale.cn'
+        - 'gld45a.cqxqlsz.com'
+        - 'gui.dev-snitch.cloud'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

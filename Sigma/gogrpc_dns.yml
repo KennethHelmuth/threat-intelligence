@@ -1,0 +1,41 @@
+title: DNS Query to Gogrpc Domains
+id: bfc61364-1ade-4e77-a567-48e8ca127116
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Gogrpc.
+date: 2026-07-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - blinddoor
+    - data exfiltration
+    - gogrpc
+    - grpc
+    - initial access broker
+    - malware.gogrpc
+    - microsoft teams
+    - powershell
+    - pygrpc
+    - quick assist
+    - ransomware
+    - revsocket
+    - rsox
+    - s3siphon
+    - socks proxy
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'scansec-upd.com'
+        - 're102.fastwinnow.com'
+        - 're2.filesdwnload.top'
+        - 're8.dowlfles.online'
+        - 'update19.upldf.online'
+        - 'xeds.geranteeg.online'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

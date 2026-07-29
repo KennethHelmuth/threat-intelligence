@@ -1,0 +1,42 @@
+title: Network Connection to Kubernetes Infrastructure
+id: c4777715-4a09-41f4-b74f-ed29d51fa657
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Kubernetes.
+date: 2026-07-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai agent security
+    - aws bedrock
+    - container escape
+    - credential theft
+    - honeypot
+    - kubernetes
+    - llmjacking
+    - malware.kubernetes
+    - mcp
+    - model context protocol
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '115.84.87.150'
+        - '23.27.175.241'
+        - '102.210.28.96'
+        - '103.151.172.25'
+        - '108.80.112.16'
+        - '115.84.114.84'
+        - '152.55.176.13'
+        - '222.247.231.147'
+        - '39.162.24.20'
+        - '91.209.48.146'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

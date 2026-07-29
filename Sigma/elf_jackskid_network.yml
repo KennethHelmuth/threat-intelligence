@@ -1,0 +1,28 @@
+title: Network Connection to Elf.Jackskid Infrastructure
+id: e1ef3250-0a27-4fc1-9ca1-20e3315ee237
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Jackskid.
+date: 2026-07-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - DDoS
+    - Jackskid
+    - botnet
+    - malware.elf.jackskid
+    - rctea
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '185.104.63.90'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

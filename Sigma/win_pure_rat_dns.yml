@@ -1,0 +1,26 @@
+title: DNS Query to Win.Pure Rat Domains
+id: 0dcd32b4-903d-4e2a-86e9-11b251be7d81
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Pure Rat.
+date: 2026-07-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - PureRAT
+    - censys
+    - malware.win.pure_rat
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'draxwas.thruhere.net'
+        - 'ge.ghostnod.h4ck.me'
+        - 'richiescreen.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

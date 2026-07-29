@@ -1,0 +1,47 @@
+title: Network Connection to Nightledger Infrastructure
+id: 14ca6237-c9a8-4901-b6a8-26211346ca77
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Nightledger.
+date: 2026-07-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - africa
+    - arcbridge
+    - backdoor
+    - bridgehead
+    - cyber-espionage
+    - lightrail
+    - malware.nightledger
+    - middle east
+    - minifast
+    - miniupdate
+    - mirage kitten
+    - nightledger
+    - pollblend
+    - retrograde
+    - spear-phishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'neexportfolio.com'
+        - 'buisness-centeral-transportation.com'
+        - 'healthcarezoomcenteral.org'
+        - 'tjconsultingservices.com'
+        - 'realhealthshop.com'
+        - 'aecert.org'
+        - 'businessmixture.com'
+        - 'global-reds.com'
+        - 'maadinglobal.com'
+        - 'thehealth-life.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

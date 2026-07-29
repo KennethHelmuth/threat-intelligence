@@ -1,0 +1,50 @@
+title: Network Connection to Gogrpc Infrastructure
+id: 03be34f8-ccf3-484f-8593-3a704d593e41
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Gogrpc.
+date: 2026-07-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - blinddoor
+    - data exfiltration
+    - gogrpc
+    - grpc
+    - initial access broker
+    - malware.gogrpc
+    - microsoft teams
+    - powershell
+    - pygrpc
+    - quick assist
+    - ransomware
+    - revsocket
+    - rsox
+    - s3siphon
+    - socks proxy
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'scansec-upd.com'
+        - 're102.fastwinnow.com'
+        - 're2.filesdwnload.top'
+        - 're8.dowlfles.online'
+        - 'update19.upldf.online'
+        - 'xeds.geranteeg.online'
+        DestinationIp|contains:
+        - '94.140.114.192'
+        - '45.86.162.228'
+        - '5.253.59.222'
+        - '193.29.57.37'
+        - '46.30.191.126'
+        - '46.30.191.60'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
