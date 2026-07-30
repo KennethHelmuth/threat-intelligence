@@ -5252,3 +5252,112 @@
 179.132.128.189	OTX	2026-07-28	family=CastleLoader | pulse='Expanding the Castle: New Campaigns, New Tooling, and the NeedleStealer Connection' pulse_id=6a682376fe6eac7ecb782129
 216.107.139.188	OTX	2026-07-28	family=CastleLoader | pulse='Expanding the Castle: New Campaigns, New Tooling, and the NeedleStealer Connection' pulse_id=6a682376fe6eac7ecb782129
 91.92.33.167	OTX	2026-07-28	family=CastleLoader | pulse='Expanding the Castle: New Campaigns, New Tooling, and the NeedleStealer Connection' pulse_id=6a682376fe6eac7ecb782129
+207.57.123.129:8080	ThreatFox	2026-07-30	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+207.57.123.129:22	ThreatFox	2026-07-30	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+118.31.18.77:22	ThreatFox	2026-07-30	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+207.57.123.129:80	ThreatFox	2026-07-30	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+45.87.53.6:8889	ThreatFox	2026-07-30	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+45.87.53.6:8892	ThreatFox	2026-07-30	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+110.42.189.130:8086	ThreatFox	2026-07-30	family=win.vshell | confidence=100% threat=botnet_cc
+119.45.160.160:22	ThreatFox	2026-07-30	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+110.42.189.130:1234	ThreatFox	2026-07-30	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+156.224.18.21:80	ThreatFox	2026-07-29	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+1.116.121.47:8081	ThreatFox	2026-07-29	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+124.222.141.204:8085	ThreatFox	2026-07-29	family=win.vshell | confidence=100% threat=botnet_cc
+168.144.138.186:9035	ThreatFox	2026-07-29	family=elf.aisuru | confidence=100% threat=botnet_cc
+83.147.15.95:3232	ThreatFox	2026-07-29	family=unknown | confidence=100% threat=botnet_cc
+8.218.120.126:4330	ThreatFox	2026-07-29	family=unknown | confidence=100% threat=botnet_cc
+47.108.140.10:9999	ThreatFox	2026-07-29	family=unknown | confidence=100% threat=botnet_cc
+172.86.90.64:60000	ThreatFox	2026-07-29	family=unknown | confidence=100% threat=botnet_cc
+172.86.90.64:22	ThreatFox	2026-07-29	family=unknown | confidence=100% threat=botnet_cc
+172.86.90.64:8080	ThreatFox	2026-07-29	family=unknown | confidence=100% threat=botnet_cc
+172.86.90.64:80	ThreatFox	2026-07-29	family=unknown | confidence=100% threat=botnet_cc
+92.118.39.95:3043	ThreatFox	2026-07-29	family=win.bianlian | confidence=75% threat=botnet_cc
+91.199.133.133:8080	ThreatFox	2026-07-29	family=elf.mirai | confidence=75% threat=botnet_cc
+78.153.149.82:80	ThreatFox	2026-07-29	family=elf.mirai | confidence=75% threat=botnet_cc
+67.210.97.40:7707	ThreatFox	2026-07-29	family=win.asyncrat | confidence=75% threat=botnet_cc
+67.210.97.40:8808	ThreatFox	2026-07-29	family=win.asyncrat | confidence=75% threat=botnet_cc
+57.129.92.151:4321	ThreatFox	2026-07-29	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+51.79.185.253:56001	ThreatFox	2026-07-29	family=win.pure_rat | confidence=75% threat=botnet_cc
+51.79.185.253:56002	ThreatFox	2026-07-29	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.195.8.67:4321	ThreatFox	2026-07-29	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+43.213.254.221:443	ThreatFox	2026-07-29	family=unknown | confidence=75% threat=botnet_cc
+27.124.36.151:56001	ThreatFox	2026-07-29	family=win.pure_rat | confidence=75% threat=botnet_cc
+27.124.36.151:56003	ThreatFox	2026-07-29	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.90.163.37:35342	ThreatFox	2026-07-29	family=elf.mirai | confidence=100% threat=botnet_cc
+95.85.238.53:56001	ThreatFox	2026-07-29	family=win.bobik | confidence=100% threat=botnet_cc
+194.59.31.51:8808	ThreatFox	2026-07-29	family=win.asyncrat | confidence=75% threat=botnet_cc
+195.20.17.146:56776	ThreatFox	2026-07-29	family=unknown | confidence=75% threat=botnet_cc
+194.59.31.51:7707	ThreatFox	2026-07-29	family=win.asyncrat | confidence=75% threat=botnet_cc
+192.71.244.238:7443	ThreatFox	2026-07-29	family=unknown | confidence=75% threat=botnet_cc
+192.253.245.178:2026	ThreatFox	2026-07-29	family=win.dcrat | confidence=75% threat=botnet_cc
+185.212.128.207:9000	ThreatFox	2026-07-29	family=elf.evilginx | confidence=75% threat=botnet_cc
+185.174.102.28:443	ThreatFox	2026-07-29	family=win.pure_rat | confidence=75% threat=botnet_cc
+178.16.53.65:443	ThreatFox	2026-07-29	family=win.pure_rat | confidence=75% threat=botnet_cc
+172.86.89.227:443	ThreatFox	2026-07-29	family=win.pure_rat | confidence=75% threat=botnet_cc
+162.216.231.230:7443	ThreatFox	2026-07-29	family=unknown | confidence=75% threat=botnet_cc
+155.2.192.251:443	ThreatFox	2026-07-29	family=win.pure_rat | confidence=75% threat=botnet_cc
+154.194.50.252:443	ThreatFox	2026-07-29	family=win.pure_rat | confidence=75% threat=botnet_cc
+149.56.30.94:3122	ThreatFox	2026-07-29	family=win.chaos | confidence=75% threat=botnet_cc
+142.93.52.11:7443	ThreatFox	2026-07-29	family=unknown | confidence=75% threat=botnet_cc
+130.12.182.209:443	ThreatFox	2026-07-29	family=win.pure_rat | confidence=75% threat=botnet_cc
+104.239.66.154:56001	ThreatFox	2026-07-29	family=win.pure_rat | confidence=75% threat=botnet_cc
+104.239.66.154:56002	ThreatFox	2026-07-29	family=win.pure_rat | confidence=75% threat=botnet_cc
+104.239.66.154:56003	ThreatFox	2026-07-29	family=win.pure_rat | confidence=75% threat=botnet_cc
+103.97.131.179:443	ThreatFox	2026-07-29	family=win.pure_rat | confidence=75% threat=botnet_cc
+20.215.40.6:7000	ThreatFox	2026-07-29	family=win.quasar_rat | confidence=100% threat=botnet_cc
+172.86.90.64:443	ThreatFox	2026-07-29	family=unknown | confidence=100% threat=botnet_cc
+103.193.150.74:80	ThreatFox	2026-07-29	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+103.193.150.74:8080	ThreatFox	2026-07-29	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+34.21.170.78:8080	ThreatFox	2026-07-29	family=win.vshell | confidence=100% threat=botnet_cc
+45.192.213.11:8084	ThreatFox	2026-07-29	family=win.vshell | confidence=100% threat=botnet_cc
+103.193.150.74:443	ThreatFox	2026-07-29	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+134.209.42.122:9895	ThreatFox	2026-07-29	family=win.remus | confidence=100% threat=botnet_cc
+117.72.72.254:21116	ThreatFox	2026-07-29	family=unknown | confidence=100% threat=botnet_cc
+117.72.72.254:21118	ThreatFox	2026-07-29	family=unknown | confidence=100% threat=botnet_cc
+160.25.134.148:8964	ThreatFox	2026-07-29	family=win.vshell | confidence=100% threat=botnet_cc
+118.31.18.77:2053	ThreatFox	2026-07-29	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+69.167.7.72:443	ThreatFox	2026-07-29	family=win.dcrat | confidence=100% threat=botnet_cc
+94.26.83.46:7777	ThreatFox	2026-07-29	family=win.dcrat | confidence=100% threat=botnet_cc
+2.50.130.11:8808	ThreatFox	2026-07-29	family=win.asyncrat | confidence=100% threat=botnet_cc
+103.85.225.138:7777	ThreatFox	2026-07-29	family=win.dcrat | confidence=100% threat=botnet_cc
+185.53.179.146:7527	ThreatFox	2026-07-29	family=win.remus | confidence=75% threat=botnet_cc
+134.122.154.180:80	ThreatFox	2026-07-29	family=win.vshell | confidence=100% threat=botnet_cc
+144.208.127.87:8080	ThreatFox	2026-07-29	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+134.122.154.180:8080	ThreatFox	2026-07-29	family=win.vshell | confidence=100% threat=botnet_cc
+144.208.127.87:80	ThreatFox	2026-07-29	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+144.208.127.87:443	ThreatFox	2026-07-29	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+118.31.18.77:8080	ThreatFox	2026-07-29	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+118.195.198.186:8080	ThreatFox	2026-07-29	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+118.195.198.186:443	ThreatFox	2026-07-29	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+118.195.198.186:80	ThreatFox	2026-07-29	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+119.45.190.210:27017	ThreatFox	2026-07-29	family=unknown | confidence=100% threat=botnet_cc
+39.107.238.247:5667	ThreatFox	2026-07-29	family=win.vshell | confidence=100% threat=botnet_cc
+107.172.190.252:65530	ThreatFox	2026-07-29	family=win.vshell | confidence=100% threat=botnet_cc
+41.216.189.163:22	ThreatFox	2026-07-29	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+114.132.125.10:9443	ThreatFox	2026-07-29	family=win.vshell | confidence=100% threat=botnet_cc
+14.225.212.124:30005	ThreatFox	2026-07-29	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+140.143.130.157:22	ThreatFox	2026-07-29	family=unknown | confidence=100% threat=botnet_cc
+81.70.21.248:9443	ThreatFox	2026-07-29	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+103.244.149.133:3232	ThreatFox	2026-07-29	family=unknown | confidence=100% threat=botnet_cc
+51.222.87.16:50050	ThreatFox	2026-07-29	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+1.116.121.47:22	ThreatFox	2026-07-29	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+45.192.213.11:8085	ThreatFox	2026-07-29	family=win.vshell | confidence=100% threat=botnet_cc
+35.209.74.6:8083	ThreatFox	2026-07-29	family=win.vshell | confidence=100% threat=botnet_cc
+130.162.224.102:2222	ThreatFox	2026-07-29	family=win.quasar_rat | confidence=100% threat=botnet_cc
+108.187.7.66	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+108.187.7.71	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+154.44.25.12	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+207.56.30.188	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+207.56.30.194	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+77.105.161.235	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+85.137.253.48	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+92.42.100.131	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+78.153.155.152	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+217.60.195.160	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+76.164.203.171	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+144.31.38.215	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+23.27.202.27	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+198.105.127.210	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+166.88.134.62	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+23.27.13.43	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687

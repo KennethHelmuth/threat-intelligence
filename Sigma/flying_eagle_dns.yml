@@ -1,0 +1,38 @@
+title: DNS Query to Flying Eagle Domains
+id: 08609802-0f1a-4d60-806f-9573c7d29543
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Flying Eagle.
+date: 2026-07-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - android rat
+    - btmob
+    - china-nexus
+    - credential theft
+    - flying eagle
+    - malware.flying_eagle
+    - mobile banking fraud
+    - night dragon
+    - spynote
+    - telegram distribution
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - '110gongan.com'
+        - 'fusu666.cc'
+        - 'xyttkx.cc'
+        - 'alcs.xyttkx.cc'
+        - 'h5.xyttkx.cc'
+        - 'ls.j2x8a.top'
+        - 's.orove.cn'
+        - 'txl.xyttkx.cc'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

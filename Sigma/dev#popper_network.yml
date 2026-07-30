@@ -1,0 +1,35 @@
+title: Network Connection to Dev#Popper Infrastructure
+id: 699ef420-d195-494f-a14e-8b4fd2e7ae49
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Dev#Popper.
+date: 2026-07-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - blockchain loader
+    - dev#popper
+    - developer targeting
+    - infostealer
+    - malware.dev#popper
+    - npm supply chain
+    - omnistealer
+    - polinrider
+    - remote access trojan
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '23.27.202.27'
+        - '198.105.127.210'
+        - '166.88.134.62'
+        - '23.27.13.43'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

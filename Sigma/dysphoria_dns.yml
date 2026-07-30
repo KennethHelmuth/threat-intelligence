@@ -1,0 +1,43 @@
+title: DNS Query to Dysphoria Domains
+id: 025e5997-18d8-4f91-b5a7-fc6e18bcdc36
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Dysphoria.
+date: 2026-07-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - blockchain c2
+    - botnet
+    - cve-2013-3307
+    - cve-2016-20016
+    - cve-2017-17215
+    - cve-2017-5259
+    - cve-2018-14558
+    - cve-2020-25499
+    - cve-2020-8515
+    - cve-2022-35733
+    - cve-2025-28137
+    - cve-2025-34152
+    - cve-2025-55182
+    - cve-2025-9528
+    - ddos
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'c2.saintpetersburgresident.ru'
+        - 'peer.saintpetersburgresident.ru'
+        - 'dysphoria.androiddebugbridge.su'
+        - 'jerusalem.androiddebugbridge.su'
+        - 'kieron.androiddebugbridge.su'
+        - 'node.androiddebugbridge.su'
+        - 'telaviv.androiddebugbridge.su'
+        - 'wow.androiddebugbridge.su'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

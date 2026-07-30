@@ -1,0 +1,35 @@
+title: DNS Query to Lib-Mtop Domains
+id: c1cf49c8-6226-4d8b-8b4b-eefef94f16cd
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Lib-Mtop.
+date: 2026-07-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - alibaba
+    - aone-cli
+    - china
+    - cross-platform
+    - cve-2026-41940
+    - dependency-confusion
+    - dingtalk
+    - industrial-espionage
+    - lib-mtop
+    - malware.lib_mtop
+    - npm
+    - rat
+    - supply-chain
+    - typosquatting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'diamond-cli-znsxphqell.cn-shanghai.fcapp.run'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

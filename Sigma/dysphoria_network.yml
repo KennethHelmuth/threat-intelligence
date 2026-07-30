@@ -1,0 +1,51 @@
+title: Network Connection to Dysphoria Infrastructure
+id: 780dbf49-2d02-4690-8c9d-ff21386fb0c0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Dysphoria.
+date: 2026-07-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - blockchain c2
+    - botnet
+    - cve-2013-3307
+    - cve-2016-20016
+    - cve-2017-17215
+    - cve-2017-5259
+    - cve-2018-14558
+    - cve-2020-25499
+    - cve-2020-8515
+    - cve-2022-35733
+    - cve-2025-28137
+    - cve-2025-34152
+    - cve-2025-55182
+    - cve-2025-9528
+    - ddos
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'c2.saintpetersburgresident.ru'
+        - 'peer.saintpetersburgresident.ru'
+        - 'dysphoria.androiddebugbridge.su'
+        - 'jerusalem.androiddebugbridge.su'
+        - 'kieron.androiddebugbridge.su'
+        - 'node.androiddebugbridge.su'
+        - 'telaviv.androiddebugbridge.su'
+        - 'wow.androiddebugbridge.su'
+        DestinationIp|contains:
+        - '92.42.100.131'
+        - '78.153.155.152'
+        - '217.60.195.160'
+        - '76.164.203.171'
+        - '144.31.38.215'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

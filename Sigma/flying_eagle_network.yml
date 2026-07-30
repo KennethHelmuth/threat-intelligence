@@ -1,0 +1,48 @@
+title: Network Connection to Flying Eagle Infrastructure
+id: b7514f16-1822-48a8-b940-17f2b9b753e6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Flying Eagle.
+date: 2026-07-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - android rat
+    - btmob
+    - china-nexus
+    - credential theft
+    - flying eagle
+    - malware.flying_eagle
+    - mobile banking fraud
+    - night dragon
+    - spynote
+    - telegram distribution
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - '110gongan.com'
+        - 'fusu666.cc'
+        - 'xyttkx.cc'
+        - 'alcs.xyttkx.cc'
+        - 'h5.xyttkx.cc'
+        - 'ls.j2x8a.top'
+        - 's.orove.cn'
+        - 'txl.xyttkx.cc'
+        DestinationIp|contains:
+        - '108.187.7.66'
+        - '108.187.7.71'
+        - '154.44.25.12'
+        - '207.56.30.188'
+        - '207.56.30.194'
+        - '77.105.161.235'
+        - '85.137.253.48'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,22 @@
+title: DNS Query to Js.Tonrat Domains
+id: bd42933d-10e7-4b98-a25c-ba2cc9d0743d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Js.Tonrat.
+date: 2026-07-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.js.tonrat
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'image-id76167.info'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

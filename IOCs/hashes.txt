@@ -7531,3 +7531,227 @@ d26ea6828cc01ae151d99bbee78c4e6d132e9077842a558bce3901fa0970d9be	OTX	2026-07-28	
 0c48fd6a18ad9c701b254bbdd412efbf7dfdd2be6534a61c14bce719d259df9f	OTX	2026-07-28	family=CastleLoader | pulse='Expanding the Castle: New Campaigns, New Tooling, and the NeedleStealer Connection' pulse_id=6a682376fe6eac7ecb782129
 edff43ecdf7aa476331d925db04e68a2251920165a2109be9df91a56d86b87c7	OTX	2026-07-28	family=CastleLoader | pulse='Expanding the Castle: New Campaigns, New Tooling, and the NeedleStealer Connection' pulse_id=6a682376fe6eac7ecb782129
 fa67487da701ce1d61ee3abb84869f669a6c2aa50ca0148a3c4a87e667716638	OTX	2026-07-28	family=CastleLoader | pulse='Expanding the Castle: New Campaigns, New Tooling, and the NeedleStealer Connection' pulse_id=6a682376fe6eac7ecb782129
+55f0132ba99eaf397afb997f26900c6ae6c9c797f2dd99da5423c33f549b5afe	MalwareBazaar	2026-07-30	filetype=sh md5=d7a1cea97c38ea97117b62c110a6dd31 sha1=44acb93271ac94d05b45df54fdee94155f310caf | vt=24/74
+edd25cef88fe2c1bd562e33f9403c1644f09f80ce10690f1337e7b295357d751	MalwareBazaar	2026-07-30	filetype=js md5=c7af916042594863f89341a58d0af1c3 sha1=096d5d58cb60fe2f81d90e7d7f7131e970bc498c | vt=3/74
+22eec70bf4412de64eb3ac2aaf1991a7e1ca197f8ec37339fa549e0037908e85	MalwareBazaar	2026-07-30	filetype=exe md5=fb6e7e9a50c63be76b593d320b543d5c sha1=b92a001a0e3fba6eb0debff08bab9ce59a851754 | vt=34/74
+1bef2e01e1f4aad8becdec1dc5f525dedd83567f9fecfe51f6c8ac9efdfc0b8e	MalwareBazaar	2026-07-30	filetype=sh md5=2eb2415d67e7323be8ccf9c1d24cef1f sha1=ec1b9bc58305b85817fc400a8fbf094e8240488e | vt=23/74
+4bc1bc072949437c41adf9203ba98595ebaeb1ee47d231fc9e59a16e697e336c	MalwareBazaar	2026-07-30	filetype=exe md5=03009c13a8a4188a14bc879b6ba40416 sha1=cc455511e8fc282f3bf819d0f87616c77f99164a | vt=25/74
+a80f608476a3faacca1ef34361cc418a68661db2d87ccf0d9b14d307453e59f4	MalwareBazaar	2026-07-30	filetype=sh md5=a428d83303fd1f9930f9135a3d0fdea0 sha1=4600206147b580d5408409ca9ab1c67664bdcfa6 | vt=25/74
+fe2d63e6c7d907019e44bb4a2138b236	ThreatFox	2026-07-29	family=win.salatstealer | confidence=95% threat=payload
+24aee3a61aecc5ec58375d838322010b	ThreatFox	2026-07-29	family=win.salatstealer | confidence=95% threat=payload
+fce8ba975afa37727c61a9940c81c8e20da1de724f8a10b44b89d7ed44d7f526	ThreatFox	2026-07-29	family=win.salatstealer | confidence=95% threat=payload
+1e780a793ee1c9cb30f9dca02c91390b	ThreatFox	2026-07-29	family=win.valley_rat | confidence=95% threat=payload
+2cc5df961162f8f9cea6273cb82756ea591f1d5ee62ee5cd0f19bc12cda7b7d3	ThreatFox	2026-07-29	family=win.salatstealer | confidence=95% threat=payload
+fc5062774b187283d0e3edfe421a001a	ThreatFox	2026-07-29	family=elf.kuiper | confidence=95% threat=payload
+324126d263910469357915525f2637ec1b0a2a6b875399b96c979687fed86e40	ThreatFox	2026-07-29	family=win.valley_rat | confidence=95% threat=payload
+e76d61ff0b8f528fa958b514f9a521dc	ThreatFox	2026-07-29	family=win.netwire | confidence=95% threat=payload
+504d3db673cea7561272630dcdbcb132c470cdb6b4735af762f541f3adf19942	ThreatFox	2026-07-29	family=elf.kuiper | confidence=95% threat=payload
+740898b58e04118c41b698eea2c74e52	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+1bfb41a19de49c9c0dc63f434ff46f51ccba78e25629031bfda16e56b0f09df9	ThreatFox	2026-07-29	family=win.netwire | confidence=95% threat=payload
+6c31dfcd522d65460e749941d675c714	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+0c16963f43604246e81f006d1f7df0a7258b36b929252c1502d92fea573d86aa	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+f651e9225960daeb8dfb96c3da275294	ThreatFox	2026-07-29	family=win.gcleaner | confidence=95% threat=payload
+c200f2497e8169897a1f0569e720331faf5f2fbc50530614641d612b4488797c	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+375f8a4ff4eafe485b210a9ffb6a84bdbdb9c52ae602293ddae53717935e8daa	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+88fa7d9c846fd17986f8d0143cb3ca3a	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+cb8d68041200958ef7c8b1c5d5cb82c2545f2d89b67dd49c564242f2f009362c	ThreatFox	2026-07-29	family=win.gcleaner | confidence=95% threat=payload
+b1d3605941588587ac6927b78bded977	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+61ab1d22949eac0582e989ae065ec4caee9ac99998276317edda96735cd311fb	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+a8480ece517b8367ca8418d7888f410d	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+d1b8f36f0654d83e8f85fc828ccd8beb	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+99cd8530772b5bb986883ebfd09410bfd5328581a3e993472826eda78d6e3405	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+21aa4b32defa0fa0aea3e28559ee8fd8	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+39e07fb60fbf206b06d1b5b2b74848d9d393c6bd66fd11e003436cd7ee6b5788	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+7072509bfed6050e7f498f78adbb2fa8dd6b3ffb5ac71c2a3dff942bd484b413	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+40d291a45b171ed64df46347ff3aecd1	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+cea15fe7edd6b1b26f4326901781c16034ebe195cdb89ede2338e91c1d7ce6ac	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+13b4f73885f424f73207481d097109fa	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+16efe20ecbe454a3390e05e1641c91bbbf436a2ab1c830b76dc6c8a8b4843f14	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+52f00e919a910e2445bcd4d35e896693	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+d1b360a94b3b6acd26d04e9b2cde1df1	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+72ba37f28406579b8556ca03137e7c2c4bed79e5fc875e560c017f161840fa65	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+798b6a521d6763f1b684f6d2a6c91e3eab92425dbd9265372a132aba1e213c5f	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+f901e1a138129e819f4759f30102e94a9987409f0978c9505c2d679d1a0880e2	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+25774b9f2918cb30364298716f64b014	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+ee2169a39bff9da6e3152e80a13b0bd9dc1e55c3ab191ca387bf8ede1ebdcd8d	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+9aefb5da315cf02ef084b88028f5cef1	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+91b902474fed81407fd811fb273df070	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+77857be5f099f715e7706217aae7dd42	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+ff1c3a2866f389f8ec2e4d57600446da4d131bad8ded341aa6619c0a0d35f752	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+b8d28b59c891a75a318dee8dc16dbcdd	ThreatFox	2026-07-29	family=apk.clipper | confidence=95% threat=payload
+b6bc55d2b6e281b5bbf84f589a2847544233ad4b7abd05f942f27cba26703b8b	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+0121b38de05462d8e1ab8081f3d76f04	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+5ee86cbcd296e0998ca20ee65a7506fb3baecfb7ce98eede29bff1a6a6e0fc95	ThreatFox	2026-07-29	family=apk.clipper | confidence=95% threat=payload
+127f833a0f80b73664cfa547065265da	ThreatFox	2026-07-29	family=win.gcleaner | confidence=95% threat=payload
+8802527c317068b4b824d7bc1843dee0e52e047c7fae4997d577c11349c1ef01	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+ec6a85b5e33265ceedccbf7ae41894b9	ThreatFox	2026-07-29	family=win.gcleaner | confidence=95% threat=payload
+d35d30ccc119aacab7cbf48fdddb54a9149507f79e99d102e37b43958e80e835	ThreatFox	2026-07-29	family=win.gcleaner | confidence=95% threat=payload
+1a020229e3b01d58230ab2512fdb373b22d91676b441a792240a01f72b27affb	ThreatFox	2026-07-29	family=win.ramnit | confidence=95% threat=payload
+aaccc00c1a56e171d41aaca42d78b989	ThreatFox	2026-07-29	family=win.ramnit | confidence=95% threat=payload
+1f49316f60cee5fd365ecda4b1c43fcfe10ec5a52fd0721b4eeb811afeab77ba	ThreatFox	2026-07-29	family=win.gcleaner | confidence=95% threat=payload
+475e69baae47f29ca6e4689e5953926b5a1357d69ed8e0022b85804cff62d51e	ThreatFox	2026-07-29	family=elf.kuiper | confidence=95% threat=payload
+2ecf35ea5f805a9ae32af7b6d6cc0507	ThreatFox	2026-07-29	family=elf.kuiper | confidence=95% threat=payload
+48b105ad27033c679bb3db5703531ccf	ThreatFox	2026-07-29	family=elf.kuiper | confidence=95% threat=payload
+98d3876e0850a8a70afc220e945c24723b5ea973f187eacf23958acfa9df2e68	ThreatFox	2026-07-29	family=win.luca_stealer | confidence=95% threat=payload
+803b5aee2d97654630910acc48c49964	ThreatFox	2026-07-29	family=win.luca_stealer | confidence=95% threat=payload
+2e957df212add29eeac4d567c6ddbcb9	ThreatFox	2026-07-29	family=py.venus_stealer | confidence=95% threat=payload
+691b0e2f9555f229e921b0679f72452fe66c0d2432156efa4ff18c3f3724066a	ThreatFox	2026-07-29	family=elf.kuiper | confidence=95% threat=payload
+f7fb31cc8b2a0be022168204bcfd91a7	ThreatFox	2026-07-29	family=win.vipkeylogger | confidence=95% threat=payload
+8a8857de50c2170ca7af40786168a6526e8190e297ec55e3d6a71fbfd21c3b17	ThreatFox	2026-07-29	family=py.venus_stealer | confidence=95% threat=payload
+0a7f48c4c09e3f9d552fc60dc4727fef	ThreatFox	2026-07-29	family=elf.kuiper | confidence=95% threat=payload
+f68b0ab0aa45a9119c1a097c4d64dd3250733f771b34cec0699e3f9a7c88d79e	ThreatFox	2026-07-29	family=win.vipkeylogger | confidence=95% threat=payload
+b01bcc20137e6cc6683881d70eef7815	ThreatFox	2026-07-29	family=elf.kuiper | confidence=95% threat=payload
+b4f3acd50d0947aded733854216516d46990d57ce5e2cdcfdec432f0e498472a	ThreatFox	2026-07-29	family=elf.kuiper | confidence=95% threat=payload
+0a383df79d9a6bbc48efb5868fb14d96	ThreatFox	2026-07-29	family=win.netwire | confidence=95% threat=payload
+88a809fd0fbcfe06987d6c3ec704c78f0c5a1d83aee1ce8b54954d6a6a9d6f87	ThreatFox	2026-07-29	family=elf.kuiper | confidence=95% threat=payload
+9480a93d4617c0260a02aba0d7a973a3	ThreatFox	2026-07-29	family=win.netwire | confidence=95% threat=payload
+03c5743f47a1fda44c176239e5db1fce92956512abeff90104c89fff4762acbd	ThreatFox	2026-07-29	family=win.netwire | confidence=95% threat=payload
+06ba9a25b7493b4c4340e7f4a9a74230	ThreatFox	2026-07-29	family=win.phorpiex | confidence=95% threat=payload
+eba88b2d0eaa3aee3ed5065d902ae7445adf6f5874e3b47691637112168dca30	ThreatFox	2026-07-29	family=win.netwire | confidence=95% threat=payload
+7e24bcfac39c612504d8f96883837345	ThreatFox	2026-07-29	family=win.netwire | confidence=95% threat=payload
+4f55629fddb7c272fe500b6a132fb15341d2f58ca29fb597be19ebdb77e1994d	ThreatFox	2026-07-29	family=win.phorpiex | confidence=95% threat=payload
+682a8c5dc87cb706bb33221e61975d09	ThreatFox	2026-07-29	family=win.netwire | confidence=95% threat=payload
+f40c9170ce158fb797deb5bd41f4110b51439d9fd9217944a01c325a6ca5c1c8	ThreatFox	2026-07-29	family=win.netwire | confidence=95% threat=payload
+2135da1fbfb04479247c4268d2002059ca335b5384929093644e4896c44a37bb	ThreatFox	2026-07-29	family=win.netwire | confidence=95% threat=payload
+fa1d0a6bce748dd794a27ee6179bf948	ThreatFox	2026-07-29	family=win.netwire | confidence=95% threat=payload
+1650509e245d62930fcd56d8f8aafe5e8ed9a57c746f027d7565fc732b77d7dd	ThreatFox	2026-07-29	family=win.netwire | confidence=95% threat=payload
+d8a5b845155fb8b7c1e6f584c1632049071ea72a8b64748e54d9e7a9802af31f	ThreatFox	2026-07-29	family=win.netwire | confidence=95% threat=payload
+98d8b9bb62d412dcb2914f919e4750c3	ThreatFox	2026-07-29	family=win.netwire | confidence=95% threat=payload
+b9b09102f0be935f39d742fe72bb0b98815d2a21b3f9b96c403ed1fb143a816c	ThreatFox	2026-07-29	family=win.netwire | confidence=95% threat=payload
+c2972373fdc63127610f62f83b69767f	ThreatFox	2026-07-29	family=win.netwire | confidence=95% threat=payload
+03d2e8ef968a70c032ffb01c98b29ab612ae48043b44e63d15c2504f7f85de13	ThreatFox	2026-07-29	family=win.njrat | confidence=95% threat=payload
+0f74892809973a93321c7ba05bdf61ca	ThreatFox	2026-07-29	family=win.njrat | confidence=95% threat=payload
+96508589d281460eab4eb1819c80e89bdffdb5fe86b8fe1400bb9268deb09e74	ThreatFox	2026-07-29	family=win.phorpiex | confidence=95% threat=payload
+1ab31f82e6c8455c61f3a14b753a7ace	ThreatFox	2026-07-29	family=win.phorpiex | confidence=95% threat=payload
+91426a0ecbec54c757f946939bcfa983a365c12c4b4350d0565ecb46039ee353	ThreatFox	2026-07-29	family=elf.kuiper | confidence=95% threat=payload
+bb13d29331412404a07db7e9375aa9cb	ThreatFox	2026-07-29	family=elf.kuiper | confidence=95% threat=payload
+de5b161afabe16c6de6a329454fb6bc2503a016431881e1a152b1ab755afc447	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+729f1552e401d7881dcf8b895a48565a	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+c9d073ae0783c17d1c211a9fa1658ed8	ThreatFox	2026-07-29	family=win.agent_tesla | confidence=95% threat=payload
+b91d0d56c1d7ed94962d0f6501761db3573b1090fac15d9424e8b3c8b1914c9a	ThreatFox	2026-07-29	family=win.phorpiex | confidence=95% threat=payload
+e5a7e8a76088d1cb0db01c805588bbf2	ThreatFox	2026-07-29	family=win.phorpiex | confidence=95% threat=payload
+529a4e8314130d9693118be4e2ed9c2a	ThreatFox	2026-07-29	family=win.agent_tesla | confidence=95% threat=payload
+e9d45ec597fd2f9ac69d259f8f03c4646cf34b59ab07fe2aaf942174d727a8fd	ThreatFox	2026-07-29	family=win.agent_tesla | confidence=95% threat=payload
+d6d9e71ef20eb564c30cf0f92d038ce7	ThreatFox	2026-07-29	family=py.venus_stealer | confidence=95% threat=payload
+43e782d8c5b308ecc64aa65004d0165ff2ef3a0be3c659a2a02e1a4b5777094a	ThreatFox	2026-07-29	family=win.agent_tesla | confidence=95% threat=payload
+23c6244df18b30fa08cb97ff92e83414	ThreatFox	2026-07-29	family=elf.kuiper | confidence=95% threat=payload
+aa1e87294fdee8bb644eefa9d72dfc8751aec4aeb47104edaf83447f397f3802	ThreatFox	2026-07-29	family=py.venus_stealer | confidence=95% threat=payload
+824a0ef05857141f251523a56b979b1f	ThreatFox	2026-07-29	family=win.salatstealer | confidence=95% threat=payload
+40717c6dd9e3d28afd7937b8651efa2096c77478633ca1039f23c624ea322045	ThreatFox	2026-07-29	family=elf.kuiper | confidence=95% threat=payload
+db1cdbdc30d7056eecab4157714e8e43	ThreatFox	2026-07-29	family=win.salatstealer | confidence=95% threat=payload
+dcac68a58f09eec59bce587a86d91ea1570919edc8100715ed83bcb1a0fea364	ThreatFox	2026-07-29	family=win.salatstealer | confidence=95% threat=payload
+796ffe1a6e49e48a819e3d7a11456dac	ThreatFox	2026-07-29	family=win.salatstealer | confidence=95% threat=payload
+bb24b382d5de5194bbb4cdf6d8127a3e82a205ccad251bcbc19100f876cd64d7	ThreatFox	2026-07-29	family=win.salatstealer | confidence=95% threat=payload
+484f574d72b7e472020cca3ee5392e9e	ThreatFox	2026-07-29	family=win.salatstealer | confidence=95% threat=payload
+75ec6ba7daa02f22c6a1cb3e9d3a642a2ebeaef99128519919f747211e4e84f7	ThreatFox	2026-07-29	family=win.salatstealer | confidence=95% threat=payload
+af9b05c7311f0f4049467a64bb1484b2264955faf61b19e8974757802f197177	ThreatFox	2026-07-29	family=win.salatstealer | confidence=95% threat=payload
+970a40aeb1cc1f4269aaf5edf091dcfb	ThreatFox	2026-07-29	family=win.salatstealer | confidence=95% threat=payload
+b1c8c2390f909d83d50dfd9380eb7ae96b3a1cf456ecef96b459c5b053087a51	ThreatFox	2026-07-29	family=win.salatstealer | confidence=95% threat=payload
+75c8b4652b33fab81e814a0bec7ae7ec8c13a24665c14481e66e72a7e9112341	ThreatFox	2026-07-29	family=win.salatstealer | confidence=95% threat=payload
+8353ae27e81a6a737021a536c2dbbf47	ThreatFox	2026-07-29	family=win.salatstealer | confidence=95% threat=payload
+5459c708a6b6a6bfbbc7e28b668fcbb1a18138abb758244fa15d74d3216dfa3a	ThreatFox	2026-07-29	family=py.venus_stealer | confidence=95% threat=payload
+69705cd49851f98f1db3d2598c62bad4	ThreatFox	2026-07-29	family=py.venus_stealer | confidence=95% threat=payload
+0ed62134ba816c2c604a319692d97201	ThreatFox	2026-07-29	family=win.phorpiex | confidence=95% threat=payload
+ebd140217102e211a74b341198292a392a0e25ecf5ec1a53fb411c14c3b7b6f8	ThreatFox	2026-07-29	family=win.phorpiex | confidence=95% threat=payload
+6edb9c07dccb6bbf836fb28a6560e921	ThreatFox	2026-07-29	family=win.phorpiex | confidence=95% threat=payload
+d664021eff6b92368479a4b9401272f9f869bddb0a22da5434747bb0433fff45	ThreatFox	2026-07-29	family=win.phorpiex | confidence=95% threat=payload
+6a4d371a7e82215799f79944204cf1ae4586a5a1cb6bdd5f6fb55e811e2154f2	ThreatFox	2026-07-29	family=win.wannacryptor | confidence=95% threat=payload
+609a433ec177c59a2667d9e29a15e17e	ThreatFox	2026-07-29	family=win.wannacryptor | confidence=95% threat=payload
+88536cf7df49585be4aa97e938b5ef5b5ccc46abbd2919010646a9a17281e3b5	ThreatFox	2026-07-29	family=win.nanocore | confidence=95% threat=payload
+2c5a9aa5ca5b6d98a5551da0ec0be9af	ThreatFox	2026-07-29	family=win.nanocore | confidence=95% threat=payload
+db05580a540923fc9018705a62224a36	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+2ec31f7f0ed881a6f33f44be53ddc89fff6f5f80390504093ddb4edccb46a830	ThreatFox	2026-07-29	family=py.venus_stealer | confidence=95% threat=payload
+5f9f58a97a8fa8fdede17725cfd8d08d	ThreatFox	2026-07-29	family=py.venus_stealer | confidence=95% threat=payload
+9ac564e1f6b5b1fb1fa22cf419566ef0	ThreatFox	2026-07-29	family=win.wannacryptor | confidence=95% threat=payload
+a58cdd282196a800054eabccafbecbbf5a4eeb6a5a7a925353d7901dae0db9da	ThreatFox	2026-07-29	family=win.stealc | confidence=95% threat=payload
+6f65ac067cd914ac0d3a04d801e0363cf615f867c0fe683340656387e48f9337	ThreatFox	2026-07-29	family=win.wannacryptor | confidence=95% threat=payload
+2a01a22a5d823b5705dad1f7de5d15ebf9068347099726b95878aeaf9de9b625	MalwareBazaar	2026-07-30	family=njrat | filetype=vbs md5=395c72857511f2fa5a36caf83d5004db sha1=656de2be0895a3b9f7a2d4880b90c0f4f7f64aff
+aa585df9ce9d53ee758526dea601e4718bfd333ac594448574b7f6ac711f0fe8	MalwareBazaar	2026-07-30	family=Mirai | filetype=elf md5=07ee3ab32e52dfa1f08e7b0ac0cf81ad sha1=537b3545145a2bf77a0c334eeb04017120055cc4
+18827998ad05c58da1d218066374fe16	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+645ee92d197441684919c0b1ad5cfd15	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+81694f8296ea8e589acc68382add4311	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+b5f64311ffe3c6f1eb13b769663702c6	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+d23e2d0c71cbf0a5d67e17e7b3c690e0	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+5d95ddf7cd857acaaa3447e710a3ee596262b4e2	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+68389a8ae359c2e730e33ab60e9fa6ad71120983	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+d767524b3b288f09840f3d7196718e4187515f6b	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+e02955f78fca6c758d760c36474ae0d4f546efb4	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+e9c71b51de94d6ef1f1090a36754d987374f6f70	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+0376db397807c1f1e32a99a9db622f35f4fe5597bd05b4fd5e93117062e0131f	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+1456f31bf6b5d4ade90fe080006478133296080353bf69c1819fa9b766e7f57a	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+4395db6ad53a415532673b16f5b64207d53cecc5b15a736c038cf3890368a164	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+5dee5cde6f2874c582effe302960b21569ee007e9e0cd4f7499d418cceb9095b	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+773c77494d6321e4e449c9558c7915166bcb6c05e3c42a9d30e5eac4db8ee0df	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+7fe8d14e7a9cda92c79d5ae836ed95d772bcc853079c4020c5213c3894c7f7af	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+82520e6aa6194b2de0b1c404805a5da7d3693acab8f7ae2dd5104f14baf82cd7	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+b803cd5032dc1abd7aabc45c8cadc471c8a59872a95d48807f13e230c58230f3	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+c692ad120cc90548d48dbe57d006f2403c49833b8993af3c38fe031eb39999bd	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+d8a82d7b4457352774772bfac094127d7f67526ae7011d838cc3f7ccc15fd86e	OTX	2026-07-28	family=Flying Eagle | pulse='Flying Eagle Android RAT: Leaked Source Code, 170 Active Servers, and a New Platform Called Night Dragon' pulse_id=6a691cbdc292b7f2437d3655
+17c5f13da5b62b155dd973f9062f12061687cc44ee9150d42871005ab5b9c4b5	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+b55bd5db1e23f5f8da29de762624a69fda49e4c12030adb1bd5907e5c62d150e	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+336db0baaeb3528aad5ec906dbd2253827900e60d697be3e8d830c232c7d07d3	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+0269c367eff172f6bfcb54ed717a3f9520be4130c4ab4d2f4a5c95c8dbaead5b	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+1c5080b6fa705f69758a8add633e3314f1953308ff68750be9455340bc91536b	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+19dfcbd3726d6803844fb30dc04502ef	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+25081bdec05f64eb4f313420c82d8de957e30026	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+d0310e982b671884e67580d627b1ad9dbaeaf2f68fef0611526615604ed93449	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+b17532532560628d67674ca968c38b47	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+d993c59e338b0b3160f053ccd4a90794	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+73651c02b29f1c07e3177e86c967fc45e9f30f0f	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+8db6c78533c176f13b61405cdc3f8fad703325f1	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+955ff909972958098f0d4a06bcc4d6b9eea90449	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+9c1716d770ea69e8e1418d96d52222396ecb4362	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+a3b9575897c16cbf6afe3af1aa8b55171ea6edf9	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+b0782a9d6eef2ce02f734a6e5e1d8e0f9a2b65be	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+b7faa44ab0772047a8581bbfdd9c561e28fc66de	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+c1bedea261f325441fb9a75c50b11d0c8fb01ac6	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+dcea71b9ab9de8efca301de9e2f7bf11c7132364	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+df510f6f69a5c149c216c7b3accc4f460d8cf363	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+e7e1694162639ed587625432a79cfaa49f560d11	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+0eb9d7be572752b2978458a54c9e2222	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+2ca1c7f343ad6e8ff1d1e4055ae80130	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+4544683ef9879b53dee835de76d59b3f	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+6c07b423216bcb472cfc437b621f1cc8	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+7e24b6f83f38fd25eaf5f17b137b2407	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+a233dd26477ede4dfe1aaad67d6ca49e	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+eb7fe0fd1463a58a165df1111669eaea	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+461a9036ea41cca79988c0504c72059af47b5e8ec1a9194d88da5395fe4e452f	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+5883fef28a236079cfcd98ffe50d85711a2e763763f218239d2a81e05ae43ace	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+8df9fee6cc31f0f62218ac3fc3165f6533968370d718cc59e0c49dad870582f8	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+d6b7bb3baba4a7a97d0fab24faa2165ca4f658a87447761321c77b8cda841a97	OTX	2026-07-29	family=Dysphoria | pulse='Botnet Rising Star: The Evolution and In-Depth Technical Analysis of Dysphoria' pulse_id=6a696c974025043392ff887b
+f11057ab58bef936d98ba189829c64260a6a540cdaa046f93613138e820c98c6	OTX	2026-07-29	family=webdav | pulse='ClickFix Keeps Evolving: Rundll32 Ordinal Execution over WebDAV' pulse_id=6a696c957b6f57a0709333e4
+5ef7bf4ed52be2a6d5ebbcf3076fba5f	OTX	2026-07-29	family=webdav | pulse='ClickFix Keeps Evolving: Rundll32 Ordinal Execution over WebDAV' pulse_id=6a696c957b6f57a0709333e4
+9e03e983e26d4782a3fef0a6ebb47fdcd46974c9	OTX	2026-07-29	family=webdav | pulse='ClickFix Keeps Evolving: Rundll32 Ordinal Execution over WebDAV' pulse_id=6a696c957b6f57a0709333e4
+2cfede38fb121a71a2f3607474aa8cd588a99f51b37e5e6f0d8cb789fa275032	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+26351aed0397158d3a3b8cc8fd3047d4c015d264c9895f10f20f1521b974ed18	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+36ff00b45e67baa7e3674b0c80f48e88737264c61e5c6b3b091200972de8157c	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+adc4af90540d33cd1e98f44b51482ae9250fbeb97d6f8d7841c81b618cb2c6e6	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+8e8b90dedd456ded0c5748119836e1ca1066112bc569c1b41ca70eb931d1d4dc	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+5f6a92006ca2ea4b464d66fb41af777edce7296939a7c6ee491e2b3cbfe09848	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+bcc93dc55bc7daedf4ca57254f0e7a7f1c40e09851eab98fe10cde801982db17	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+1352ad22c99983d91e600348b7cbf58235131b1ee34cea9f09623206d5b7dea7	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+67c6ef602cc850f10d935fee53fa40440df841adf081563bf4fc2631a71249ce	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+c5742ea1875ecd2360022624149994909cd0546e221e4203dffd01f48de45469	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+cb46f12d70824ea24ed1f8bcf45bf3f86680e02a9089aafc03b27f691be57be3	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+f452f9cfa539f4a1fe25187a99a484391290d5dbaa422ba455edf6b04f81b7d1	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+78f0de8682e0e894a5784eb7e95db4da6088f528918ca3107dd1e76f80a561d8	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+ae7565109fd01b88d82acf7f73ab20709cbc2c9f26fdea13e429ccc87a55d4fb	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+26e679eaf1e9baeb7c55eb48db482301171d4d26e1728544b23734a90dc70e1b	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+b7c8c84d1729e78ca9d64d1d6dd97fe4	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+e147076dd588df4e2bc9db25fcc306fb34a04a55	OTX	2026-07-29	family=DEV#POPPER | pulse='Two Joyfill npm Beta Releases Compromised to Deliver DEV#POPPER Remote Access Trojan' pulse_id=6a696c951815449cad089687
+84a6ccaaab1596139d28e822f40cc99c68d337d4c81d1c6d9692c1d6bb22e4af	OTX	2026-07-29	family=lib-mtop | pulse='Distributed npm Package Cluster Delivers Cross-Platform RAT Targeting Alibaba Developers' pulse_id=6a69c06acb4cb0c583b92b6f
+6044974c633b3a319c31bb32110411520c425e89722a64806528553227e7a50a	OTX	2026-07-29	family=lib-mtop | pulse='Distributed npm Package Cluster Delivers Cross-Platform RAT Targeting Alibaba Developers' pulse_id=6a69c06acb4cb0c583b92b6f
+0910ecfa049738ef3f2540855341a380df89224ff71da94b4c21689fd66f62e3	OTX	2026-07-29	family=lib-mtop | pulse='Distributed npm Package Cluster Delivers Cross-Platform RAT Targeting Alibaba Developers' pulse_id=6a69c06acb4cb0c583b92b6f
+b8b81af76163bdcc5b4f7d8fe6795f164991f8a62678c971db031b9e90a27813	OTX	2026-07-29	family=lib-mtop | pulse='Distributed npm Package Cluster Delivers Cross-Platform RAT Targeting Alibaba Developers' pulse_id=6a69c06acb4cb0c583b92b6f
+ef9a1896eeaae929800eade768276e2240ef252d26d0d96c1950a1a5e1aadb34	OTX	2026-07-29	family=lib-mtop | pulse='Distributed npm Package Cluster Delivers Cross-Platform RAT Targeting Alibaba Developers' pulse_id=6a69c06acb4cb0c583b92b6f
+e5d8350f1540fe91145dc262c455bca7748ad97dafb2d9facd5adebed9f66d2d	OTX	2026-07-29	family=lib-mtop | pulse='Distributed npm Package Cluster Delivers Cross-Platform RAT Targeting Alibaba Developers' pulse_id=6a69c06acb4cb0c583b92b6f
+41957bd0ba2d9c07af2e069f10780fdf6b2102c065bebe0db2136dfe07d67a28	OTX	2026-07-29	family=lib-mtop | pulse='Distributed npm Package Cluster Delivers Cross-Platform RAT Targeting Alibaba Developers' pulse_id=6a69c06acb4cb0c583b92b6f
+33b58598eb317553942e27545982d4c25ce6120eae10e42393746eb0e02ecae9	OTX	2026-07-29	family=lib-mtop | pulse='Distributed npm Package Cluster Delivers Cross-Platform RAT Targeting Alibaba Developers' pulse_id=6a69c06acb4cb0c583b92b6f
+3201d407b7899a12d6d439950511c6a5	OTX	2026-07-29	family=lib-mtop | pulse='Distributed npm Package Cluster Delivers Cross-Platform RAT Targeting Alibaba Developers' pulse_id=6a69c06acb4cb0c583b92b6f
+2ec78d556d696e208927cc503d48e4b5eb56b31abc2870c2ed2e98d6be27fc96	OTX	2026-07-29	family=github credentials | pulse='Shai-Hulud-Style npm Worm Hits' pulse_id=6a69c0698ac8620efa23e8f6
+b82e54923f7e440664d2d75bd31588ca	OTX	2026-07-29	family=github credentials | pulse='Shai-Hulud-Style npm Worm Hits' pulse_id=6a69c0698ac8620efa23e8f6
+e7d582b98ca80690883175470e96f703ef6dc497	OTX	2026-07-29	family=github credentials | pulse='Shai-Hulud-Style npm Worm Hits' pulse_id=6a69c0698ac8620efa23e8f6
+fdc9e765546c72841221b86fe1383c37	OTX	2026-07-29	family=BlueShell | pulse='Analysis of BlueShell Variants Used by APT Groups' pulse_id=6a69c06b441d532a963887ee
+d7513a05ff14ee84594ec97c1defa37a1e430770	OTX	2026-07-29	family=BlueShell | pulse='Analysis of BlueShell Variants Used by APT Groups' pulse_id=6a69c06b441d532a963887ee
+3228da011423853efd3d94ce3a28046b5ca19e921861ea5aee2700bc90fc1d55	OTX	2026-07-29	family=BlueShell | pulse='Analysis of BlueShell Variants Used by APT Groups' pulse_id=6a69c06b441d532a963887ee
+944b774d592f5e7fe2c34ac6c3abb2a77bfa96707c4f3c33ac77b8d54800244f	OTX	2026-07-29	family=BlueShell | pulse='Analysis of BlueShell Variants Used by APT Groups' pulse_id=6a69c06b441d532a963887ee

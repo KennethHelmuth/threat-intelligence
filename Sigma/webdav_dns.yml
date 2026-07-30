@@ -1,0 +1,32 @@
+title: DNS Query to Webdav Domains
+id: 6c07eded-6808-45e9-ba60-c70ab7381c39
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Webdav.
+date: 2026-07-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - credential theft
+    - evasion techniques
+    - malware.webdav
+    - ordinal execution
+    - phishing
+    - rundll32
+    - social engineering
+    - webdav
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'hcwjcope.poundbahis.com'
+        - 'uttepcheweaxtowxdj.gentletouchchiropracticclinicauroracol.com'
+        - 'vqrlwsmzu.webyek.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
