@@ -1,0 +1,33 @@
+title: Network Connection to Win.Darkcomet Infrastructure
+id: 2683f850-e930-435c-81dc-810caa50b4b2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Darkcomet.
+date: 2026-07-31
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Breut
+    - Fynloski
+    - darkcomet
+    - klovbot
+    - malware.win.darkcomet
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '176.129.203.146'
+        - '86.109.75.132'
+        - '86.109.75.132'
+        - '189.150.133.139'
+        - '151.247.193.128'
+        - '105.100.163.183'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
