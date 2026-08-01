@@ -1,0 +1,33 @@
+title: DNS Query to Owareaper Domains
+id: e007f866-ebf2-42f6-baa9-341bd18642cb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Owareaper.
+date: 2026-08-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - cve-2026-42897
+    - half-click exploit
+    - javascript implant
+    - malware.owareaper
+    - outlook web access
+    - owareaper
+    - ta488
+    - xss vulnerability
+    - zimreaper
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'acocdn.com'
+        - 'dnsrecursive.eu'
+        - 'tdndns.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

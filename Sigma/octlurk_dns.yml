@@ -1,0 +1,46 @@
+title: DNS Query to Octlurk Domains
+id: bac6015b-a386-456f-95e9-7739760e3075
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Octlurk.
+date: 2026-08-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - central asia
+    - credential harvesting
+    - cyber-espionage
+    - fscan
+    - government targeting
+    - impacket
+    - lurkproxy
+    - malware.octlurk
+    - octlurk
+    - plugx
+    - silklurk
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'confbase.mdpsupport.net'
+        - 'fm01.clouddevicemetrics.com'
+        - 'ssl.blsouqs.com'
+        - 'about.blsouqs.com'
+        - 'api2.annoyingremote.com'
+        - 'ctyuhjerf.kozow.com'
+        - 'digital.leroymerling.com'
+        - 'dns.multitoconference.com'
+        - 'dns.ssentialserv.xyz'
+        - 'gycudore.kozow.com'
+        - 'rgnojb.casacam.net'
+        - 'tj.tajikistandip.com'
+        - 'tyhbgtyuj.gleeze.com'
+        - 'uyhvfredc.accesscam.org'
+        - 'wedfcvbn.gleeze.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

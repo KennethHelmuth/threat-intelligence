@@ -7833,3 +7833,222 @@ c68ce967bc43a30fd83b0a70ba36eb93	ThreatFox	2026-07-30	family=win.salatstealer | 
 41a65a494ba9b729e6fbf744644004a6	ThreatFox	2026-07-30	family=win.wannacryptor | confidence=95% threat=payload
 0654bae7cd7c16a4ebebc4aeeef6dec0dfe5f6247416593ec33c507db14c2348	ThreatFox	2026-07-30	family=win.salatstealer | confidence=95% threat=payload
 273c96eb5d64f3a07e8e741ac70c64dfb375f73e478bdf751508f033a9a36f3b	ThreatFox	2026-07-30	family=win.wannacryptor | confidence=95% threat=payload
+92b146eff8d54fff90445bd258e0e5a42f1277e213b9fa0137c7ab5074c01a46	MalwareBazaar	2026-08-01	filetype=exe md5=05b59210318a43454ae46648ad6deadb sha1=774a6157c2f566d6507b1fce08fa1fd486725d91
+a58ad957ea509d4bb8f3a0a274601df61d49e26a605ca2df559d7e7cf1d024c5	MalwareBazaar	2026-08-01	filetype=sh md5=b44a28b1ecdfbc123c404737740d1420 sha1=8377dd64472b3a8557f470a52d91f4623c395e92 | vt=18/75
+efcf7d27639d35b75eca73dde46b87ef103031d4c60de2f8d511bc11c49397de	MalwareBazaar	2026-08-01	filetype=sh md5=89681015d18fdd736bf3703a44aa73b1 sha1=17445b7ed339944538124114645930efb8709ac8 | vt=2/75
+db967abae63200065e22c95bbc1fe380	ThreatFox	2026-07-31	family=win.netwire | confidence=95% threat=payload
+439a03653b8f93d80b15335d49f0937d0f395b803bbf60d6ed31b968816dad39	ThreatFox	2026-07-31	family=win.netwire | confidence=95% threat=payload
+e3144c24d2eefa8b88c9723c91217f57fb29114a9dbc1ff5f2b0fb4a0183a520	ThreatFox	2026-07-31	family=win.netwire | confidence=95% threat=payload
+d87b97d9015ba00ef095398f7fbfe4a0	ThreatFox	2026-07-31	family=win.netwire | confidence=95% threat=payload
+511f859cacc58d37186eb3262362ce4b	ThreatFox	2026-07-31	family=py.stealler | confidence=95% threat=payload
+a6f0cbcb7f2c1d46f27fa4d84c18718e77a7151d25933e62073231a08383a012	ThreatFox	2026-07-31	family=py.stealler | confidence=95% threat=payload
+de225ab0dac2c90346c919c55e5e5bf5	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+10aa22f1c88b690399fa6cfe6f6f7bc1ed49d153313585fc5520621f160b64ce	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+fa4b30b7cc5b13ed11c7658dd3ce4f2f2e7d3488c95f0a728d11a3186d6a4671	ThreatFox	2026-07-31	family=win.remotex | confidence=95% threat=payload
+910f7ad5d25665e50980e7c2b8fe7c7c	ThreatFox	2026-07-31	family=win.remotex | confidence=95% threat=payload
+245f0ee939fa4068c7ac66b51a51f845e1cc8070ee76e21aedf57be7b087ef9c	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+b60a0a174d96173628384a06b96654de	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+f2e641d14aaff8fa4872a157d9d1be82	ThreatFox	2026-07-31	family=win.ghost_rat | confidence=95% threat=payload
+29e642bacb450b90b4d54e26ec5fb5d7	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+69e8a73e215114989a0d9c5c9c666587057e2bcf1c29b1fb7d45e1cb38a715de	ThreatFox	2026-07-31	family=win.ghost_rat | confidence=95% threat=payload
+962f8ccbacdfda078a35a1eb6dbcc11b	ThreatFox	2026-07-31	family=win.asyncrat | confidence=95% threat=payload
+4c3084e6f337e867f335f4b04937350f150e82888f391ca63427f8eafa76c978	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+d5a1c25a0d94a939935412058154c8ef	ThreatFox	2026-07-31	family=win.asyncrat | confidence=95% threat=payload
+dea0649857c76ceabba2ac3ecb1aa5960e92f1a5ef80b385a75903aa7edd2c3d	ThreatFox	2026-07-31	family=win.asyncrat | confidence=95% threat=payload
+dd79f535f6108df5bea9c3b2be064a09	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+46038f8f6f10cbee2ea6654ab97a7664365087b7b86bb3ee783ae0428a411eb4	ThreatFox	2026-07-31	family=win.asyncrat | confidence=95% threat=payload
+5f1146ec4c1130cd64af934de2687d6dc78330b3bc6c8486deb39b9305b10d72	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+aa1b178ea8f756e209b05880cfac8bbe	ThreatFox	2026-07-31	family=win.valley_rat | confidence=95% threat=payload
+74eb42416b47c082fc867764b577ceac6f1bd68e192695d79a9e48a7bd3fdd69	ThreatFox	2026-07-31	family=win.formbook | confidence=95% threat=payload
+2d5137f186bd8f99e610367e7bab3631	ThreatFox	2026-07-31	family=win.formbook | confidence=95% threat=payload
+b8e46b0ece6c02f2b6069a9cbe9686ce595d7ca59494214cc6d6ebaa9b5d072a	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+4be121d6585848c9bd316f1aad94e383	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+2da611af6f3cad9f6829a476cfd47b8c4fd54e814024517da3aab2e4a81643b0	ThreatFox	2026-07-31	family=win.valley_rat | confidence=95% threat=payload
+ec0078d806fcb7b0ef538a51ae03217888ce1bd3e96a73beceecc2c12675d77d	ThreatFox	2026-07-31	family=win.vidar | confidence=95% threat=payload
+bf8ec2994ca75d5e09c66a0fc740459e	ThreatFox	2026-07-31	family=win.vidar | confidence=95% threat=payload
+baff942fdabd6c068b3e941dd29fddad	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+9885939da17f13c0dbb0973bb0f8393f6170a8273da18bc7c31d9f88645985ce	ThreatFox	2026-07-31	family=win.coinminer | confidence=95% threat=payload
+77eb919ac3707bc58f178057a2c27a05	ThreatFox	2026-07-31	family=win.coinminer | confidence=95% threat=payload
+d19f7abd0cc5a63ac3683b495413d03b	ThreatFox	2026-07-31	family=win.coinminer | confidence=95% threat=payload
+3c8c1d7684efd4edf61207179a7893ecea46dc49a26eed378f5197a5340182c3	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+09375c774e2c0785466db442c4cbe5ff	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+20dcf6d45f17d62279183276675ea33876e6846d3fdc09285e78e9819882b97e	ThreatFox	2026-07-31	family=win.coinminer | confidence=95% threat=payload
+673cc6c6cdde3fdfaaf3c7065806e8d4	ThreatFox	2026-07-31	family=win.salatstealer | confidence=95% threat=payload
+fd9dec7ac8b45ddebec3fa88dfa1758afedcbe530d1a824c3857fc77fe3ffd69	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+25ec53399232a6fd978e3d85ce0d5a9e987c933fadace4ab638f290acd00fd04	ThreatFox	2026-07-31	family=win.salatstealer | confidence=95% threat=payload
+a7592e13d17ebc6d2a8ceeeb3d0ce542	ThreatFox	2026-07-31	family=win.salatstealer | confidence=95% threat=payload
+537dea2679e48b347b6bc905d2eb17b4dde6855cf82bcea4ec5486f2c221346f	ThreatFox	2026-07-31	family=win.salatstealer | confidence=95% threat=payload
+5e58a0e0b4ab711349370567728293cf6e732870aa9ea9def6ae5b59ca7322c3	ThreatFox	2026-07-31	family=win.salatstealer | confidence=95% threat=payload
+1f6b88a1a6859c4bc2969541334d12cb	ThreatFox	2026-07-31	family=win.salatstealer | confidence=95% threat=payload
+4702c86ebed92f094e46ea41587d8690	ThreatFox	2026-07-31	family=py.venus_stealer | confidence=95% threat=payload
+0db05388d762bff931351ac2d599ca1d2bb216198754cda6d275b07709c50766	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+0f887952dc5252c713f141b8ff1f8070	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+b279d0bc4e1d35c563090460c238b62e	ThreatFox	2026-07-31	family=win.stealc | confidence=95% threat=payload
+49b46e61efe06551f1d58edf4b33d275f32aab64978a826d4620f5340ac6fc2a	ThreatFox	2026-07-31	family=py.venus_stealer | confidence=95% threat=payload
+60c79d4f5eb60869d75d32c576428b01	ThreatFox	2026-07-31	family=win.stealc | confidence=95% threat=payload
+8a46d5ea2d20041fc3f1f2f9ab60e46247f96acac0677e66255cd563eda1c4b3	ThreatFox	2026-07-31	family=win.stealc | confidence=95% threat=payload
+7cadab0830e2c88048173e15bfc93495	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+9d0690fac5168a38b4dfc77289e53ffbb1b87219b27390a5d4a11e303c307823	ThreatFox	2026-07-31	family=win.stealc | confidence=95% threat=payload
+aaea22c0545af555ecf5357c0bfcc18c	ThreatFox	2026-07-31	family=win.stealc | confidence=95% threat=payload
+dda624c840fa96b71a6624d281fc84bc6bc70a7a550d96072bada7419a9a86ee	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+9333bb34844a2579ea99b40edd82e3fd	ThreatFox	2026-07-31	family=win.formbook | confidence=95% threat=payload
+84e0669351cdf4ce4006082749c8810219134c1d332f2b226697c5ed00f3c04c	ThreatFox	2026-07-31	family=win.stealc | confidence=95% threat=payload
+3e1b1fe0edaa2aa1cd743646f41354eaaf7eaf54d47a416f141ba9f9320024fd	ThreatFox	2026-07-31	family=win.formbook | confidence=95% threat=payload
+c25329116a57d51912ec241ca8b581a5c7cc01b729e40492abe5fc48720586a1	ThreatFox	2026-07-31	family=win.tofsee | confidence=95% threat=payload
+59d51adf0215f34c0c2ff9b99024b15a	ThreatFox	2026-07-31	family=win.tofsee | confidence=95% threat=payload
+c05581c54fb2e63ab1b6d0c8957d24fbcbc0e094339bc02838b50b3f72dddeff	ThreatFox	2026-07-31	family=py.rn_stealer | confidence=95% threat=payload
+9188e2a2bc5f9e23dfb62cff8589ae64	ThreatFox	2026-07-31	family=py.rn_stealer | confidence=95% threat=payload
+b76b2e67f36e85e2c7a2e6904ed92550991fd14743c3a004d8cf2a797d9c72f5	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+13f89f5fb5faf8264685bf74930608c6	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+ad21776ed177bd75e1771cf39efbf97f0d1c4d809f7bf5c93e2d14f6317b0999	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+74e56d0afa0ab0b7cc138edfaee2c792	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+eaebbaf4e6affb72d0979fb50e61538cfb2f24f61b9c8157862f124f761465d9	ThreatFox	2026-07-31	family=py.venus_stealer | confidence=95% threat=payload
+6d5e0258501cbce5abc822c762a4906a	ThreatFox	2026-07-31	family=py.venus_stealer | confidence=95% threat=payload
+a477f89d63408f5ada9698388e4348c65611c81efe19681772e7354d64c2d3ed	ThreatFox	2026-07-31	family=jar.crossrat | confidence=95% threat=payload
+1c1f469d72d082fb956ca88133d8d8db	ThreatFox	2026-07-31	family=jar.crossrat | confidence=95% threat=payload
+38027ca6afc21bd734d86e96b8d3c6016e5afff6d8139b777cb55825a92f8f15	ThreatFox	2026-07-31	family=jar.crossrat | confidence=95% threat=payload
+1314f9049217e0871f8979cf33b1ac63	ThreatFox	2026-07-31	family=jar.crossrat | confidence=95% threat=payload
+76b2713b63e443c83a23794087f2cad4b7588e78b0afa9a0fc276dd5de65a226	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+c3752c08eb40761569cc7c4a90485320	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+2aab00defb69f62ea24fcf2d2afc85750e1e24bc67a6e2fed6166438dfc1172d	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+e3e025e96594d5b774b54e8859f9dc04	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+edc0d904974de3d03e654e98d24bfe9e	ThreatFox	2026-07-31	family=win.wannacryptor | confidence=95% threat=payload
+d24420d2f8ffbb8cec06376b9548ca1b	ThreatFox	2026-07-31	family=win.coinminer | confidence=95% threat=payload
+79cab94e4ca816acbb4068254adaac761f16f8a6e4796408c77840235e5890ee	ThreatFox	2026-07-31	family=win.wannacryptor | confidence=95% threat=payload
+8f93aa8aa04ca6c13477542655cdb74b	ThreatFox	2026-07-31	family=win.valley_rat | confidence=95% threat=payload
+ca116b3d7caea85d448cc674087381d06902d80f2d2842e8dc22cd4b266379b5	ThreatFox	2026-07-31	family=win.coinminer | confidence=95% threat=payload
+8f8fc068a9464e9b3d7f052ef53ea5ec	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+58b16700b8a3b8f0db2fb2e14b8c3e835270111518e67239b373a81ffd265b9a	ThreatFox	2026-07-31	family=win.valley_rat | confidence=95% threat=payload
+2743ee280188d4250ab5aa6528a20448	ThreatFox	2026-07-31	family=win.wannacryptor | confidence=95% threat=payload
+c2ae41bff71b9d5dd6d5845f1cda894729f406db9501c3afca402420b91515c0	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+326177e27aef5d34b2ae4d5c9935be62	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+8489605870dd2735a8298cbb05db98cc6dc1d49e30caf3aa7d3260cc8fecdead	ThreatFox	2026-07-31	family=win.wannacryptor | confidence=95% threat=payload
+25ce92092fefdcff7acde8689c4cfd8c	ThreatFox	2026-07-31	family=win.vidar | confidence=95% threat=payload
+8cd988e1f749a5e008128df6f2b7da55c2760fbcdf414f26260331db723e6a15	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+c50a08b67bbe92e4afae7bb28b33af820001aa384ee82ad1a88e16d623c14e6d	ThreatFox	2026-07-31	family=win.vidar | confidence=95% threat=payload
+33949eaabd8ab52d2bc39a1b21ea3dc2	ThreatFox	2026-07-31	family=win.vidar | confidence=95% threat=payload
+fdd4f264cbeaf1e092a6f6b4932d56da	ThreatFox	2026-07-31	family=win.vidar | confidence=95% threat=payload
+c076437d6a30f394ea3f97331987884228703b350026da16337e7c1b4d740b66	ThreatFox	2026-07-31	family=win.vidar | confidence=95% threat=payload
+da3635d346d58158cb0e09addd12f5b2	ThreatFox	2026-07-31	family=win.nanocore | confidence=95% threat=payload
+b2388fb3fedb1d62f7a6cd1719613b5f298c56e677de981f339550a6b7a3daf3	ThreatFox	2026-07-31	family=win.vidar | confidence=95% threat=payload
+e3ebd1db429e9ec95e75b8daaf43e2b3	ThreatFox	2026-07-31	family=win.wannacryptor | confidence=95% threat=payload
+589e46d07f1239dd6b8b07a00d5739279648863d9cc78ced1a05fb034fc16122	ThreatFox	2026-07-31	family=win.nanocore | confidence=95% threat=payload
+2cfaefe80e05fe0f093cf5c382d7c77f	ThreatFox	2026-07-31	family=win.eddiestealer | confidence=95% threat=payload
+93f1112efb938edee0b52aa69c28303d99b489ec0d785af553250478546ec647	ThreatFox	2026-07-31	family=win.wannacryptor | confidence=95% threat=payload
+d310c9820dcc8e5badcba6b05c5b16f1	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+ed1d3f69fbbd5576c2ed8dba45ba22c4f6884eb311d4f6e389203846d512ec11	ThreatFox	2026-07-31	family=win.eddiestealer | confidence=95% threat=payload
+7955f6409c9e6669fcd5e3a0a293bc21	ThreatFox	2026-07-31	family=win.wannacryptor | confidence=95% threat=payload
+4bb4b92b54c8ecd1db145f986e9725e9d327713cd9262dbe010318afd6af8137	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+e35810ed86789ee1d511550578dc81ec	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+05be5a8131993a5034bc4a57963f0c8860aeb3188dd906ed78d95439d15d813e	ThreatFox	2026-07-31	family=win.wannacryptor | confidence=95% threat=payload
+41ac69b68fdbd435885f881abfe1587c	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+2670c97b169e77527f6db4726e58db1c95926c35b56e292c0a3a975dd6656cb8	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+15e99852c1be5de518692e7fed8b5966	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+a4b32f5f53a64195ee0cea0ea67a51799d90b25e761f0fec8d38b81e75b8a3c1	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+267929de47e2793196c699ad50a7f789795100bc063c0d1f1ae22e83f4c65a93	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+25dfdfba8052af91b84a0cd8fcb4794f	ThreatFox	2026-07-31	family=elf.kuiper | confidence=95% threat=payload
+46728635055a3584456bc1179cabbcac	ThreatFox	2026-07-31	family=win.vidar | confidence=95% threat=payload
+4200ea00cb9c8382dbce6943f64e7127	ThreatFox	2026-07-31	family=win.formbook | confidence=95% threat=payload
+c7b43ba65c93416885aac3f8dd532d867781119f56552316ba1a24ece5f1c66e	ThreatFox	2026-07-31	family=win.vidar | confidence=95% threat=payload
+7537d649c3ec62d6de4f4397639abe9d	ThreatFox	2026-07-31	family=win.guidloader | confidence=95% threat=payload
+868f688f5c9300df03eeda85f23885c504d35717ce5a3fde77d69f34e72b6b50	ThreatFox	2026-07-31	family=win.formbook | confidence=95% threat=payload
+0cc87edf5dd17fe02cb5fa8925087374dde0f3a2de206f726f2c98d2f193f6c3	ThreatFox	2026-07-31	family=win.guidloader | confidence=95% threat=payload
+faf518894303e8eed32039d755927a3ccb42504f0ed2527a7cb7f05300900f98	MalwareBazaar	2026-08-01	family=Mirai | filetype=elf md5=db57135458954fe78233fb877bbfe483 sha1=5df69936d29ee81e80786398cf4b638a9dfd13db
+436f164de1640f910005be2aa5e9c0343abeca108d789273e7aa9703cd653b49	MalwareBazaar	2026-08-01	family=Mirai | filetype=elf md5=549facb387e166f1bfecfd17adf33d54 sha1=b7f363ea1742be604a269658c49fc17909c9bc46
+9f11e24531de2a3e5de458d335485805c725ca08ee27d60b66887676c36f0537	MalwareBazaar	2026-08-01	family=Mirai | filetype=elf md5=d40471aa330a6759937e5865b2dae1c0 sha1=8c0ff7c24a247290a2e5b07990987814a57aae03
+b5fa45952fa3bb422b1d85d52a6a29690837ec079b72c678f883221e83f96aea	MalwareBazaar	2026-08-01	family=Mirai | filetype=elf md5=e163b085590e23a495c5f34770d76232 sha1=77e38065a014df1a6f699e8fb4f05810ff09672b
+2d85a7a16d1eb86dfd92b00f6267733d	OTX	2026-07-30	family=phishing | pulse='Tax Season, Open Season: Phishing and Malware Campaigns Targeting Indian Taxpayers' pulse_id=6a6b24fd9aca51b0320e47a6
+538ad8e0ad1fec0ecc54f9e120ac6ff9	OTX	2026-07-30	family=phishing | pulse='Tax Season, Open Season: Phishing and Malware Campaigns Targeting Indian Taxpayers' pulse_id=6a6b24fd9aca51b0320e47a6
+dff2b7a23882445b4e354199bf38554f	OTX	2026-07-30	family=phishing | pulse='Tax Season, Open Season: Phishing and Malware Campaigns Targeting Indian Taxpayers' pulse_id=6a6b24fd9aca51b0320e47a6
+7479fbc27320ae246db9030cca80809ec63de0e9	OTX	2026-07-30	family=phishing | pulse='Tax Season, Open Season: Phishing and Malware Campaigns Targeting Indian Taxpayers' pulse_id=6a6b24fd9aca51b0320e47a6
+667b37eafb9ec5131ed4f017ed429a47dca3adf626b2fc85fc6424b1e17ff6e1	OTX	2026-07-30	family=phishing | pulse='Tax Season, Open Season: Phishing and Malware Campaigns Targeting Indian Taxpayers' pulse_id=6a6b24fd9aca51b0320e47a6
+031ae066a8188e5fea8d3d7981a2166c	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+9d79790ceacab47146df25e3704abe580441b2ab	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+2d5003d9318ae85eb22de99d19705a3cd7bf8e5c3349df979dfb3bdfa080908e	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+b588caa5365451a6c60fd73fec5b73f13ac41bcc2a3a3bed7244df5917a62f32	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+be119a21bedc3a79bf4dea8bcf5adf18304997a01ea23e276b9c31be37b789ab	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+382233c398cbc35dcee845ee17046815f37588a382a8106bfb9b0252ea803961	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+790945e17a51691483455a11af2efcbe15f2b473b65b151f50287623d1468516	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+528a46842744366b57edfc6fe2810ca7df43900db75126cd1c78f32957143364	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+01f1e5369aa0332abb681df7c37818e197ec0a5b5d7b81836b3369a2b1780950	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+10cfcad907275497dab92af0d687674cec3a0333f80dd16d8d22254794bb2d60	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+f82a4d30132b5a57cbfd81c7ab0a53d0cf0dda402c2731732a0097aceb4b0b76	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+e3ceeb24bdca8842d426e87fa61cf185d68fd7783e1a2b97d4106832ca266724	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+390325e2d23bce8d8f63b047f64c3cd5	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+b6ab80e1262197ebc4be80641aa03afa	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+c4fda5f3a27a961149eeeb8bb3666c93	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+c8821ed5d6b2cb2469abfc3cf83210ba	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+d18e6f0dd8a71742fd07125ae6fafcf2	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+e1faeb1fac915fb6c11273d220e7b11f	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+ee4e04111fbe39c13a084ffbece4d284	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+faa9be79966054ec706de4ed983d9644	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+362a370f117bc54e40a69c1808cfd020ac2fb00d	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+3fe37d385eae5054cd919c570ebda8086d54686a	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+5843beb38fe07ba4caee971961dc761218244757	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+59a5b8188a289d80d29e4943ef471ab19185aa82	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+5ad3f0d0d8e0276dad0b1cc64aee36774db5543f	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+64c4707c9df2585ae93425b343df3df60ed585c2	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+752d07cadfe3f9f13a89f0be50d6bb18a0e16c61	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+cb6d9d1c6aba200d0a2a45be3d474604b2b11861	OTX	2026-07-29	family=Phantom Stealer | pulse='Phantom Stealer Unmasked: Shellcode, Steganography, and Credential Theft' pulse_id=6a6a0753fc3cdb9a380c795d
+9dd465d26c7d86b4a6f514a4b46b2295	OTX	2026-07-29	family=MacSync | pulse='Reverse Engineering the Six Stages of MacSync Stealer and RAT' pulse_id=6a6a47bf77b7d1fa679717d8
+071bd109208eb1080ef525b5be394244cec467c59ffef5b8782cfb5e4850401d	OTX	2026-07-29	family=MacSync | pulse='Reverse Engineering the Six Stages of MacSync Stealer and RAT' pulse_id=6a6a47bf77b7d1fa679717d8
+230dff4bf9442a951dcd6898b2110924969a20668c20a43e3ceed6fcef65963e	OTX	2026-07-29	family=MacSync | pulse='Reverse Engineering the Six Stages of MacSync Stealer and RAT' pulse_id=6a6a47bf77b7d1fa679717d8
+31566a1df7070f30cb990aa5eab310c1d4e0266c8776e9438138e5438ec1cff8	OTX	2026-07-29	family=MacSync | pulse='Reverse Engineering the Six Stages of MacSync Stealer and RAT' pulse_id=6a6a47bf77b7d1fa679717d8
+3ae26ed89d3a1a140edc89ca78513aba2895789ed0d0f64cad6605b6f2347c7e	OTX	2026-07-29	family=MacSync | pulse='Reverse Engineering the Six Stages of MacSync Stealer and RAT' pulse_id=6a6a47bf77b7d1fa679717d8
+3db8befc08dc02ab7a76b5193abd81653775e8f3ceac5864c7c2188b2dbd3c54	OTX	2026-07-29	family=MacSync | pulse='Reverse Engineering the Six Stages of MacSync Stealer and RAT' pulse_id=6a6a47bf77b7d1fa679717d8
+78dea0693ac2d70bdf8be7588667a75910e43fd84397ad484e710e37369a30f7	OTX	2026-07-29	family=MacSync | pulse='Reverse Engineering the Six Stages of MacSync Stealer and RAT' pulse_id=6a6a47bf77b7d1fa679717d8
+9c09c303fa058c2d3e179969bd58ca5523775ff2d310fb2f8266ac74cb21ee81	OTX	2026-07-29	family=MacSync | pulse='Reverse Engineering the Six Stages of MacSync Stealer and RAT' pulse_id=6a6a47bf77b7d1fa679717d8
+62944e26b36b1dcace429ae26ba66164	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+cf903e4a1629aa0582fd0363b5786676	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+9a1dd1d96481d61934dcc2d568971d06	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+18dc8bff47cc282508354771d0c8cf8c	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+cc5cc2546d3ea8e27250cc4bec24f6ca13caf341	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+23b122deea347dbe2407c1542c1cc6caaafca537eb5d1950a4ed7c8a69395dbb	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+082d49ef9f14e6811d68c7e0e82e5069	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+1415a78b75de7db4ba3d1e61d7db4501	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+2a571f6cee42a17d873f4c942649813f	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+2f18472866f38c1e1c2c5c14b9a6ab56	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+32a5985543433a4f60da2fafd873b927	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+37dc84e4bcad92fa28f1e7778d088283	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+3c9a1ba8e0c7475706adc6376e9d7b7c	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+45cf5916fab4272a1313c26e67aa9220	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+4e6d5c4770d5a822d7fcce6a74f7ad73	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+5e26df131ff0a679a0a2699b723b46e3	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+6ecf84fb18f6747ed08d7598364d853a	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+7c2f64461bb519c6cbf1fc687675514c	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+8269d6ba1b6842f9152c90cf7add9b93	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+a0cc7accc79abb0287aaba825d0351f0	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+a4d550a3ba0cd073fe3839b99d98a7a8	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+a56cce62930a6bee80d679b4c495a340	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+b874123a80fc4f40e06872b9cb54ebc6	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+be4731c09734da2e8eb6814a9c82f266	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+ef59aad625eebda8650aec5820d6ce69	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+f4578e869a735cfad691f927bae3e638	OTX	2026-07-30	family=OctLurk | pulse='OctLurk and SilkLurk: new Backdoors in Central Asia' pulse_id=6a6b4b97df5f9df74333adfa
+17b60d650fc5d1718d7f2ac3a6075d11	OTX	2026-07-30	family=XMRig | pulse='XMRig Covert Ops: The Cryptomining Campaign That Abuses Trusted Access and Deploys Forensic Smokescreens' pulse_id=6a6b24fc4e9307c078956d75
+88520bcfc741610591a23592f9d4ecb31e34deb5	OTX	2026-07-30	family=XMRig | pulse='XMRig Covert Ops: The Cryptomining Campaign That Abuses Trusted Access and Deploys Forensic Smokescreens' pulse_id=6a6b24fc4e9307c078956d75
+55c67c844258807c4335f40262777a5307bcf5b537c0492cf869b3328796f838	OTX	2026-07-30	family=XMRig | pulse='XMRig Covert Ops: The Cryptomining Campaign That Abuses Trusted Access and Deploys Forensic Smokescreens' pulse_id=6a6b24fc4e9307c078956d75
+18f61c6d686cffd131c9fd3f3437064b	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+25480dad40152ef3d0c6d38eecc9bd9b	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+34a7f28e0bb69b0d49bacc88bdf20ac1	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+34b8828635f88078735799a3c1ac8e28	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+3a4479b51890373bfc4a011ef41fe376	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+58c0dda52b8f069660166d61fd74f911	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+5d62c1349b8981c396c9a23f4f8f053c	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+780c8f4c6f077da4da96582987920362	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+7dad78584795aa5c160520cc6accf260	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+824ca1e906cc073ee5b0f3519df69a8f	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+9201e35e2993612612919a3c71302cab	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+9969a8221312dba70dd5cbddf83a146c	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+9cd514ff2809ce0b993e3b8649e82a94	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+a50eaaf514f4f84e61ca2455a8789753	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+a8842616c9057d5cf6e1fe1fa8c3c160	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+b893eafed0659f70d4ac250f09073723	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+c68b6862725777651085650db34947fc	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+d3e06eb34d8eee7ef92cac3ad0a20ff5	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+d661cf666b9acbab7cfeae1127a261a9	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+d87d0b01d95acc936b7dc47b8f41937a	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+de3cfbb50f66079bfee20a6f64e59433	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+f08f476f26b01d142ca73923de65fc0c	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+f7b9e36e94163a9a303160945f99267a	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+fd46a80c2f45577263328984edf7f4dc	OTX	2026-07-30	family=GenieLocker | pulse='Toy Ghouls’ new toy: the GenieLocker ransomware' pulse_id=6a6b1c3ea08dbc663eb8f4c0
+6897b649f29e54d8910459963bbf94ed5c7a4fe66a56bc5962540b226b8e48c4	OTX	2026-07-29	family=OWAReaper | pulse='Cleaning Out Inboxes: TA488 Comes for Outlook with Another Half-Click Exploit' pulse_id=6a6a0890823d4ce2caed584a

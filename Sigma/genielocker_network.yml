@@ -1,0 +1,38 @@
+title: Network Connection to Genielocker Infrastructure
+id: 47211f26-57ed-4d7d-9c32-0f9459bbcfa6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Genielocker.
+date: 2026-08-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - babuk
+    - bearlyfy
+    - encryption
+    - esxi
+    - genielocker
+    - labubu
+    - libsodium
+    - lockbit
+    - malware.genielocker
+    - manufacturing
+    - mimikatz
+    - ransomware
+    - redalert
+    - russian federation
+    - xchacha20-poly1305
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '89.125.66.101'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

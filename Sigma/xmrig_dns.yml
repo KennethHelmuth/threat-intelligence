@@ -1,0 +1,32 @@
+title: DNS Query to Xmrig Domains
+id: 2a7cf3a8-aecf-441c-9a43-564736edbdbc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Xmrig.
+date: 2026-08-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cryptomining
+    - forensic evasion
+    - linux
+    - malware.xmrig
+    - memory-resident
+    - monero
+    - pam abuse
+    - self-unlinking binary
+    - trusted third-party compromise
+    - xmrig
+    - xmrig botnet
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'unable.download'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

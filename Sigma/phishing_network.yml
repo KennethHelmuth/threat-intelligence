@@ -1,0 +1,61 @@
+title: Network Connection to Phishing Infrastructure
+id: 4bf456f5-23de-4b8a-a1ef-b31335e2c1cd
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Phishing.
+date: 2026-08-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - banking credentials
+    - fake government notices
+    - india
+    - infostealer
+    - malware.phishing
+    - otp theft
+    - phishing
+    - tax season
+    - whatsapp delivery
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'laoshunfa.xyz'
+        - 'gov-xnui.com'
+        - 'gova.lat'
+        - 'indiaaba.com'
+        - 'apeal.lol'
+        - 'audet.club'
+        - 'bcgovtop.lol'
+        - 'ckoming.study'
+        - 'clerk.lat'
+        - 'fsyahsxd.xin'
+        - 'gisudyawz.ink'
+        - 'gova.bar'
+        - 'govj.one'
+        - 'govtocki.shop'
+        - 'ingovtop.click'
+        - 'kcsueaw.xin'
+        - 'konimqh.study'
+        - 'laiuatexqw.cc'
+        - 'lzaiwugsa.ink'
+        - 'oder.autos'
+        - 'qaksdiuw.xin'
+        - 'sfinmgov.club'
+        - 'tarif.lol'
+        - 'tzawccsw.xin'
+        - 'xcvgyuraw.live'
+        - 'zasudtytw.xin'
+        - 'zixhasda.xin'
+        - 'zuytyarws.xin'
+        - 'zxizusuy.xin'
+        - 'zytsyxbwa.live'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

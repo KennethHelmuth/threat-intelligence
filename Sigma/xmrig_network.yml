@@ -1,0 +1,34 @@
+title: Network Connection to Xmrig Infrastructure
+id: 68f2ed8e-81fe-4f93-81fa-e55d412bc53a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Xmrig.
+date: 2026-08-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cryptomining
+    - forensic evasion
+    - linux
+    - malware.xmrig
+    - memory-resident
+    - monero
+    - pam abuse
+    - self-unlinking binary
+    - trusted third-party compromise
+    - xmrig
+    - xmrig botnet
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'unable.download'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

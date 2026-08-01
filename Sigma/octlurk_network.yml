@@ -1,0 +1,48 @@
+title: Network Connection to Octlurk Infrastructure
+id: 7f598473-3dc8-4b7c-960c-4fb08c4dfd28
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Octlurk.
+date: 2026-08-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - central asia
+    - credential harvesting
+    - cyber-espionage
+    - fscan
+    - government targeting
+    - impacket
+    - lurkproxy
+    - malware.octlurk
+    - octlurk
+    - plugx
+    - silklurk
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'confbase.mdpsupport.net'
+        - 'fm01.clouddevicemetrics.com'
+        - 'ssl.blsouqs.com'
+        - 'about.blsouqs.com'
+        - 'api2.annoyingremote.com'
+        - 'ctyuhjerf.kozow.com'
+        - 'digital.leroymerling.com'
+        - 'dns.multitoconference.com'
+        - 'dns.ssentialserv.xyz'
+        - 'gycudore.kozow.com'
+        - 'rgnojb.casacam.net'
+        - 'tj.tajikistandip.com'
+        - 'tyhbgtyuj.gleeze.com'
+        - 'uyhvfredc.accesscam.org'
+        - 'wedfcvbn.gleeze.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
