@@ -1,0 +1,74 @@
+title: Network Connection to Xcsset - S0658 Infrastructure
+id: 090285d8-e788-48ad-a1aa-55b47d9b0d07
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Xcsset - S0658.
+date: 2026-08-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chrome hijacking
+    - developer targeting
+    - fruitfly
+    - in-memory execution
+    - macos
+    - malware.xcsset___s0658
+    - netwire
+    - osx.dubrobber
+    - polymorphic malware
+    - south asia
+    - supply chain attack
+    - telegram trojanizer
+    - xcode
+    - xcsset
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'bulksec.ru'
+        - 'figmacat.ru'
+        - 'windsecure.ru'
+        - 'applecdn.ru'
+        - 'cdnroute.ru'
+        - 'checkcdn.ru'
+        - 'accapple.ru'
+        - 'adschecks.ru'
+        - 'adsmobi.ru'
+        - 'adsmorein.in'
+        - 'adsmoreme.in'
+        - 'amdcdn.ru'
+        - 'amzndev.in'
+        - 'amzndev.ru'
+        - 'amznprod.in'
+        - 'appledisk.ru'
+        - 'appledns.ru'
+        - 'applehosts.ru'
+        - 'appletime.in'
+        - 'cdnamz.in'
+        - 'cdnamz.ru'
+        - 'cdnapple.in'
+        - 'cdnatapple.ru'
+        - 'chromeads.ru'
+        - 'cnmag.ru'
+        - 'devnetaps.ru'
+        - 'dnsapple.ru'
+        - 'dnsrelays.ru'
+        - 'explorecdn.ru'
+        - 'fiddlejoy.ru'
+        DestinationIp|contains:
+        - '95.142.35.206'
+        - '151.243.109.188'
+        - '178.208.92.129'
+        - '178.208.92.168'
+        - '95.142.35.34'
+        - '95.142.37.159'
+        - '91.108.106.229'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,64 @@
+title: DNS Query to Xcsset - S0658 Domains
+id: d34c5619-bfaa-43d4-895b-9c28e096302e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Xcsset - S0658.
+date: 2026-08-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chrome hijacking
+    - developer targeting
+    - fruitfly
+    - in-memory execution
+    - macos
+    - malware.xcsset___s0658
+    - netwire
+    - osx.dubrobber
+    - polymorphic malware
+    - south asia
+    - supply chain attack
+    - telegram trojanizer
+    - xcode
+    - xcsset
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'bulksec.ru'
+        - 'figmacat.ru'
+        - 'windsecure.ru'
+        - 'applecdn.ru'
+        - 'cdnroute.ru'
+        - 'checkcdn.ru'
+        - 'accapple.ru'
+        - 'adschecks.ru'
+        - 'adsmobi.ru'
+        - 'adsmorein.in'
+        - 'adsmoreme.in'
+        - 'amdcdn.ru'
+        - 'amzndev.in'
+        - 'amzndev.ru'
+        - 'amznprod.in'
+        - 'appledisk.ru'
+        - 'appledns.ru'
+        - 'applehosts.ru'
+        - 'appletime.in'
+        - 'cdnamz.in'
+        - 'cdnamz.ru'
+        - 'cdnapple.in'
+        - 'cdnatapple.ru'
+        - 'chromeads.ru'
+        - 'cnmag.ru'
+        - 'devnetaps.ru'
+        - 'dnsapple.ru'
+        - 'dnsrelays.ru'
+        - 'explorecdn.ru'
+        - 'fiddlejoy.ru'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

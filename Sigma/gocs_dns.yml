@@ -1,0 +1,33 @@
+title: DNS Query to Gocs Domains
+id: 34d6f6cc-eb97-4459-93b9-6db7639a435f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Gocs.
+date: 2026-08-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cobalt-strike
+    - cve-2025-24813
+    - gocs
+    - infrastructure
+    - loader
+    - malware.gocs
+    - meterpreter
+    - multi-platform
+    - neo-regeorg
+    - snowlight
+    - spray-and-check
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'google.chromeupgrades.com'
+        - 'speedtest.qqmail.website'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

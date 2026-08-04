@@ -1,0 +1,41 @@
+title: Network Connection to Gocs Infrastructure
+id: 99582b06-4151-4b8d-bdab-54997032d111
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Gocs.
+date: 2026-08-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cobalt-strike
+    - cve-2025-24813
+    - gocs
+    - infrastructure
+    - loader
+    - malware.gocs
+    - meterpreter
+    - multi-platform
+    - neo-regeorg
+    - snowlight
+    - spray-and-check
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'google.chromeupgrades.com'
+        - 'speedtest.qqmail.website'
+        DestinationIp|contains:
+        - '221.198.83.248'
+        - '149.129.37.105'
+        - '92.38.135.196'
+        - '130.94.30.168'
+        - '130.94.17.180'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

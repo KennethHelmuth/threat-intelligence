@@ -1,0 +1,34 @@
+title: Network Connection to Sakdriver Infrastructure
+id: 602be4b0-780b-4d16-a9a4-f7f5d3ac0ebd
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Sakdriver.
+date: 2026-08-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - crackerdrv
+    - dkom
+    - etw patching
+    - kernel rootkit
+    - malware.sakdriver
+    - minifilter driver
+    - nsi hooking
+    - registry callback c2
+    - sakdriver
+    - wfp manipulation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '43.160.247.24'
+        - '91.99.165.207'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
