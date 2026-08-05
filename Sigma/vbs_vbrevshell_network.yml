@@ -1,0 +1,26 @@
+title: Network Connection to Vbs.Vbrevshell Infrastructure
+id: 48c8efda-c609-45f4-9fe1-036a56976743
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Vbs.Vbrevshell.
+date: 2026-08-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ViriBack
+    - Vshell
+    - malware.vbs.vbrevshell
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '61.54.27.211'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

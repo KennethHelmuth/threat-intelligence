@@ -1,0 +1,22 @@
+title: DNS Query to Jar.Jspy Domains
+id: 71347c3c-a931-4006-87f7-7c16c089cb54
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Jar.Jspy.
+date: 2026-08-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.jar.jspy
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'asecdns.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

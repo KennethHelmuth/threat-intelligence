@@ -1,0 +1,41 @@
+title: Network Connection to Quasarrat Infrastructure
+id: f329c8ca-2b5b-4eb8-a80d-afec2f8865a3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Quasarrat.
+date: 2026-08-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - heptax
+    - keylogger
+    - larva-24009
+    - lnk
+    - malware.quasarrat
+    - nirsoft tools
+    - notifier
+    - phishing email
+    - powershell backdoor
+    - quasarrat
+    - ultravnc
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'pozeny.shop'
+        - 'aonexa.shop'
+        - 'mainsec.site'
+        - 'serverdock.online'
+        - 'final.mainsec2.site'
+        DestinationIp|contains:
+        - '217.77.6.50'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,35 @@
+title: DNS Query to Bindcloak Domains
+id: 8f21a83b-0f6e-47c1-952e-369b0fc036d1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Bindcloak.
+date: 2026-08-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - backdoor
+    - bindcloak
+    - c2 communication
+    - east asia
+    - edr evasion
+    - energy sector
+    - government
+    - malware.bindcloak
+    - middle east
+    - mixedkey
+    - modular
+    - octlurk
+    - teleshim
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'ftabnews.com'
+        - 'contacts.ftabnews.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

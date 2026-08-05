@@ -1,0 +1,46 @@
+title: Network Connection to Phorpiex Infrastructure
+id: 502ce972-5a30-4bec-ba63-537c4e642fdc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Phorpiex.
+date: 2026-08-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - boatnet
+    - command-and-control
+    - d2ip
+    - data exfiltration
+    - direct-to-ip
+    - dns bypass
+    - iot botnets
+    - malware.phorpiex
+    - mirai
+    - mozi
+    - p2p networks
+    - phorpiex
+    - ransomware droppers
+    - sectoprat
+    - zero trust ip
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '103.245.236.146'
+        - '154.92.19.71'
+        - '178.16.54.109'
+        - '91.92.243.29'
+        - '194.76.227.94'
+        - '178.16.54.31'
+        - '87.120.107.33'
+        - '2.26.98.67'
+        - '62.60.179.230'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

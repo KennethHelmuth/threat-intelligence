@@ -8401,3 +8401,115 @@ ebc94e24e4df94f988dd0a2275e8a3f1957051814a3c39ec30bfaca2f5ca2607	OTX	2026-08-03	
 b5f122f3f07f618c0a7678fa40801faa	OTX	2026-08-03	family=SakDriver | pulse='Reversing a Windows Kernel Driver Rootkit' pulse_id=6a7059a9cb9e82a2a574651c
 7440358c5041eba34e8673100989df756a6426da	OTX	2026-08-03	family=SakDriver | pulse='Reversing a Windows Kernel Driver Rootkit' pulse_id=6a7059a9cb9e82a2a574651c
 6e480d648fa1b70612f5d198a66875e28847547d	OTX	2026-08-03	family=XCSSET - S0658 | pulse='A Deep Dive Into the Latest XCSSET Version' pulse_id=6a7059ccae49a160e5763d1d
+4c48cbbd55ff2b63a1fca862b8bb8ff00eec90050b2a2608140bbb3b2ad03f54	ThreatFox	2026-08-04	family=unknown | confidence=100% threat=payload | vt=9/75
+04b8d6f7158689a311b22200c4c0fb5186a6751a422b5510b5a5fbf1c2a9cd5f	ThreatFox	2026-08-04	family=unknown | confidence=100% threat=payload
+3b3bc398e71b2dad7e7af96b0607b264e405f3af2ed453b251f3575a6e513fba	MalwareBazaar	2026-08-05	filetype=sh md5=38e1fd82d7e08a915a910ce78186f073 sha1=1a8b0b7e6324279fbf409aecbf9a8d6950f12624 | vt=27/75
+8c0495b2595aff4244c1c157a3f2594f12275d776509a6b49224f357b88f4270	MalwareBazaar	2026-08-05	filetype=elf md5=f0c4e39a002352b4a6344126a3f44ce0 sha1=0d0311c204f5471f5ed5293116d6d4e4f3842044 | vt=4/75
+28b4e8084fd3eb35aa0fcf362c87c43b7b380379643c209b40015e744f5df425	MalwareBazaar	2026-08-05	filetype=elf md5=a0489fc28cfb85f9d9c91dadd6fc2ca2 sha1=d4db10357add1bd38a8ac0a7491946c8a3b4fa57 | vt=18/75
+6db4914bfa06a112892250974b42abde5c7a096050c970a1dcbb23172ff863f6	MalwareBazaar	2026-08-05	filetype=sh md5=5ab45d0e17f3bece44ab60a1659104c5 sha1=b78ae090d9f24269327d5f4dc50b46fe33d964f3 | vt=16/75
+a374f3ebc886eda122ca1229138b8a31ce0758addb60c0dd38052e5a95b3d37d	MalwareBazaar	2026-08-05	filetype=sh md5=bffbfc243a228af9ea95ccceb3e578c6 sha1=6f7e5aa9716ac19035cb2a42edae24b6de44307d | vt=19/75
+ba1a663e230ce317ae337b5d83046ee7	ThreatFox	2026-08-04	family=win.coinminer | confidence=95% threat=payload
+ebbdc2815774b02394c688f9415325bb	ThreatFox	2026-08-04	family=win.valley_rat | confidence=95% threat=payload
+b7b1cf77eccf7fab42d83f57facdb1105d51050295a044ecdf75cc8280679788	ThreatFox	2026-08-04	family=win.coinminer | confidence=95% threat=payload
+8f4d337438eaf684b61e294ea52588f1	ThreatFox	2026-08-04	family=win.valley_rat | confidence=95% threat=payload
+875630fd7cae532e3700bec48bdd1c51ba7f133a595d4a62b94733f54073c62e	ThreatFox	2026-08-04	family=win.valley_rat | confidence=95% threat=payload
+cb245fa68d9f08372281be72241876a0	ThreatFox	2026-08-04	family=win.wannacryptor | confidence=95% threat=payload
+1ab82089b52096ef768066cc619f1774801834221e22480411afa09e253461b4	ThreatFox	2026-08-04	family=win.valley_rat | confidence=95% threat=payload
+da6a114917bdb41286172fcaec6a05a3	ThreatFox	2026-08-04	family=win.valley_rat | confidence=95% threat=payload
+675cf32ce5553a1f2a9fa1b65014abc30df6a93f6ace616878dc534fc238c77a	ThreatFox	2026-08-04	family=win.wannacryptor | confidence=95% threat=payload
+0df2f895abbbea29565fc048931a0169	ThreatFox	2026-08-04	family=win.tofsee | confidence=95% threat=payload
+7b1da0a6dc4eb9fc73d0e810677c2740cad5a1320fc5c9af00babf553ca2cebc	ThreatFox	2026-08-04	family=win.valley_rat | confidence=95% threat=payload
+88e1e1c77f64a17500d8569ee43b7a28	ThreatFox	2026-08-04	family=win.pslogger | confidence=95% threat=payload
+26ee4c6ab5c6e6950273cbfc795b207c156ef4ce07acc3f364f9b98364588082	ThreatFox	2026-08-04	family=win.tofsee | confidence=95% threat=payload
+6435611106d0d7b3301229b9021a9908	ThreatFox	2026-08-04	family=win.terra_stealer | confidence=95% threat=payload
+fdd20fd8b01a168bc84fca30eb3c29176a770f173318368abd6ca09d37901480	ThreatFox	2026-08-04	family=win.pslogger | confidence=95% threat=payload
+83928513bb5518e71704d089dedfe44d	ThreatFox	2026-08-04	family=win.terra_stealer | confidence=95% threat=payload
+0d29741bb7161b12319909ecbbfb6029b08fe80c98fc8a93658ea14fededdfd9	ThreatFox	2026-08-04	family=win.terra_stealer | confidence=95% threat=payload
+97b43a41d7f2b2cdfb960693da5e97f5	ThreatFox	2026-08-04	family=win.blustealer | confidence=95% threat=payload
+bc7d5b9ae130f1b9c5a41517d56d9213950ef7f9b1ed78d9f33a4b2797d009e1	ThreatFox	2026-08-04	family=win.terra_stealer | confidence=95% threat=payload
+12767208e2775d74cec36dfe0a6dadf4	ThreatFox	2026-08-04	family=elf.kuiper | confidence=95% threat=payload
+694483cdead4d874dd33b0a7c11d6c5cbdd1989352c3f7376a71855ad0147dee	ThreatFox	2026-08-04	family=win.blustealer | confidence=95% threat=payload
+f1f304a6be3928d7c8ee7e65e23b4306da4d83c5ff0bb3791ef44afe2506e2f2	ThreatFox	2026-08-04	family=elf.kuiper | confidence=95% threat=payload
+002f8166ec9f671ba830b7cd2263b5e1	ThreatFox	2026-08-04	family=win.xworm | confidence=95% threat=payload
+f0d2934199c9f86d25014d628cd7385a	ThreatFox	2026-08-04	family=elf.kuiper | confidence=95% threat=payload
+ea86029605e9288a9320c3ca83f30e1e63d06936939a3039880f45770ea83831	ThreatFox	2026-08-04	family=win.xworm | confidence=95% threat=payload
+a58f1ebc2fd3a5787708e3da7eba5058	ThreatFox	2026-08-04	family=py.venus_stealer | confidence=95% threat=payload
+b2b6c906f355c11945f84134f27559acce2247ae2214d544734bddf97e9ee22c	ThreatFox	2026-08-04	family=elf.kuiper | confidence=95% threat=payload
+df84f03c4fa8d429a13e4ce8b010a66a	ThreatFox	2026-08-04	family=elf.kuiper | confidence=95% threat=payload
+10b6a8f017ecb14dfde4e8738415ce5feb3e617715f345c30549cf4f4c3d3fa1	ThreatFox	2026-08-04	family=py.venus_stealer | confidence=95% threat=payload
+65290a0084c07a7c3916db8bc86a16ac	ThreatFox	2026-08-04	family=win.vidar | confidence=95% threat=payload
+98c3283cac92544cf7d2237d4a457181ae5a2e3983bb17728df8b81d067c8e4a	ThreatFox	2026-08-04	family=elf.kuiper | confidence=95% threat=payload
+94498bcc84599ebe710f3efd951845da	ThreatFox	2026-08-04	family=win.coinminer | confidence=95% threat=payload
+b7fd8d6dddf0e4321dd5303ecd50d4a9d833ab4a80e0a01face12116363a8103	ThreatFox	2026-08-04	family=win.vidar | confidence=95% threat=payload
+13260e2e1ec04400403f6dfd4cb93994	ThreatFox	2026-08-04	family=jar.crossrat | confidence=95% threat=payload
+4b3d9ff0f3eef2684879bea47fb066a259bb2cc18bb0ab0c2f0c069e732dd5e1	ThreatFox	2026-08-04	family=win.coinminer | confidence=95% threat=payload
+67e230755c1cf7cfc8d92a98c4caac13	ThreatFox	2026-08-04	family=jar.crossrat | confidence=95% threat=payload
+53356890a6e72a151d869823f410ecf681731868d241c07ff02d51d6436c3dfd	ThreatFox	2026-08-04	family=jar.crossrat | confidence=95% threat=payload
+c67f0473eae2e790676584b108e7ed73	ThreatFox	2026-08-04	family=win.phantom_stealer | confidence=95% threat=payload
+033eb7a351b65d9aa4e6a19a0be58ea87f579671fe54c3725129589f834c2d06	ThreatFox	2026-08-04	family=jar.crossrat | confidence=95% threat=payload
+e0bf699a9016ef9a7740953c6ec4feb0	ThreatFox	2026-08-04	family=win.formbook | confidence=95% threat=payload
+c0654ca707fd45d9563f46dbd51fc03b75f5a05ec0ffc26816bcedcd13520b31	ThreatFox	2026-08-04	family=win.phantom_stealer | confidence=95% threat=payload
+1cebb153fcb26dcd06614a95276b22a3	ThreatFox	2026-08-04	family=win.netwire | confidence=95% threat=payload
+438a199c60026b897fdda4da23d69e103cad34864a070d1b7659cf462628505f	ThreatFox	2026-08-04	family=win.formbook | confidence=95% threat=payload
+6292b4f53c529bdafbb1476e7de48e73	ThreatFox	2026-08-04	family=win.netwire | confidence=95% threat=payload
+57e5da8f7c404c1754a866c1f8d51e31f9f21525c17e586ef48eb2a62fa4ef20	ThreatFox	2026-08-04	family=win.netwire | confidence=95% threat=payload
+a5508bc966bb8d4e0a4275dd96347d84ceecbdb1679fb27ddb4f568fb083faa2	ThreatFox	2026-08-04	family=win.netwire | confidence=95% threat=payload
+78ea9434eb06f6069346be4dc920e706	ThreatFox	2026-08-04	family=win.netwire | confidence=95% threat=payload
+2bb1b024135ef7b0af3141d389530d82	ThreatFox	2026-08-04	family=win.xworm | confidence=95% threat=payload
+0b74552f66e1fb88f401e0c27c9dd224219bc3698a556b8827c392cce5a1bbd3	ThreatFox	2026-08-04	family=win.netwire | confidence=95% threat=payload
+833b709b93b80919dc06d8b0619de8919df283060dd9fdb9da6bd4d9b778ca7a	ThreatFox	2026-08-04	family=win.xworm | confidence=95% threat=payload
+9b1c0cb8ac7704452f06292398a65ffe9b3c901329f93ac716d7486ed8798d94	MalwareBazaar	2026-08-05	family=Mirai | filetype=elf md5=44d564b267fa8a53297a937a89309315 sha1=1ab9d5072f8c6a1fae5163519a359614fd2447d9
+ab1b6934bc586d442ec14067cb8075b94f66e0981c41fb308758ba7949eaa437	MalwareBazaar	2026-08-05	family=Mirai | filetype=elf md5=db7eede4f6d1c21472c98bf96cc58502 sha1=6e7fddff494ca0be5191d02548b7aa771fd9bd97
+919e2a1a6d1755902e4def4456e6220e9c069efc34d8bfc850f4490a5f88c769	MalwareBazaar	2026-08-05	family=Prometei | filetype=elf md5=144bb5b02b3b6c4462c7468ac7740fa6 sha1=c73a9de3ae9f0be76f04d6c3f88f62c4429866e6
+b6fcb33c4d6193b07bcb7c595ab6209e6a935f853ba73c07212b4a4c9eff5518	MalwareBazaar	2026-08-05	family=Mirai | filetype=elf md5=0afc11d0fc849f09583286d35a9c5166 sha1=6e8718f35839de1bdd1385495d3a4c217a614efd
+0ddc62ec74a816a8a0607b16f2be9073	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+3111f846b1cb76de775eabb62625cdda	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+38167e35c0ceb08f2d11dc271243db3c	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+57c6617c205f8dc296c41606ccc5cc16	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+6337c9dcd6b6c7c122e26b008032e8ba	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+7ed31a99036b9aecb028707ae082b108	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+844c462e920593242594050f82643f7b	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+9000b4d28f2736cf84147ddc0ff3b59e	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+90dc1e26741120859d97cd287da38a78	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+a86b42c731d12b5a4fb156ee3175fe86	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+b099fe4c46c53403b7657cbfe18b8ac4	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+b2b25a59e1e0cc74804344d631629fd2	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+c79bd62a52f245fc3d48ee97f0c426c6	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+d7390ef13c119daedf2350978786696f	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+04ce0e52ebeb37167300ea1442eecbc4a0c5e179	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+178fe2fe351a8de923da71c784aba607bc2d1cd1	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+37f237f1905a9a07efd9c0af5031d02ae2fb92df	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+53f7efb132c92cbb3f41627fe3fb30b80773379b	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+54193e8751aa3c0bcf786fa49eabe34a9cd10edc	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+552c42807466b5eca7ba8d881853ec2d8a024158	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+7a22441a6d6a5a77df8cdbfd39ca694c627298f8	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+8e964ee6ffbd389da853798c10ab2a8748324193	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+8ffb47c2eb9f76ed7a0f8a68d2019c11a4bba291	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+98d3bdabe6abe260e77ff2834e48c634514fa325	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+9c100ac6c66ddb61df36dd6a37268a985856b59a	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+cde28e9377846d975c2ee66458107ab1175db584	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+d4e3dfaa735bf5c59f6bbd92eabb91d5b3847248	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+f9f979735931bfc3db41cb206088d6f0b29eeaac	OTX	2026-08-04	family=Starland RAT | pulse='ClickFix-Themed Campaign Deploys Starland RAT and WLDR Framework' pulse_id=6a71a6ac7bd8297ea6d2093f
+79f3ef6c6127edb0a5f43ef7a16bfb3418860e19	OTX	2026-08-04	family=NightLedger | pulse='NightLedger Backdoor Deployed in Espionage Campaign Targeting the Middle East and Africa' pulse_id=6a71aa488c89bfcbd2814692
+24771d0a69e442b9493ab1406e0253be1acd31d83f593177fd736f7f6d629ed9	OTX	2026-08-04	family=NightLedger | pulse='NightLedger Backdoor Deployed in Espionage Campaign Targeting the Middle East and Africa' pulse_id=6a71aa488c89bfcbd2814692
+083d5895283755a910b5c59d60a5348b	OTX	2026-08-04	family=Phorpiex | pulse='Almost Half of Malware Samples Communicate Direct to IP' pulse_id=6a71e43a0127c62218b7c365
+0d94bf4d0418061907ff7977e3f25a463cb25188	OTX	2026-08-04	family=Phorpiex | pulse='Almost Half of Malware Samples Communicate Direct to IP' pulse_id=6a71e43a0127c62218b7c365
+9639f7ebc6a6d69d7bf5b8bc869e7783a1406088f192868624ad8919e9bfd1d4	OTX	2026-08-04	family=Phorpiex | pulse='Almost Half of Malware Samples Communicate Direct to IP' pulse_id=6a71e43a0127c62218b7c365
+e3513922666c202c1ae5c06eea277ba10477868d6d89ce2819f4f8ff9070bc85	OTX	2026-08-04	family=Phorpiex | pulse='Almost Half of Malware Samples Communicate Direct to IP' pulse_id=6a71e43a0127c62218b7c365
+01a96eeafb72042b3f69afd21b4c9155dbfe7f97ab3dca392972ad531a075ac2	OTX	2026-08-04	family=Phorpiex | pulse='Almost Half of Malware Samples Communicate Direct to IP' pulse_id=6a71e43a0127c62218b7c365
+bf24277400cc453d530e4277d3bd24e96c5e409adef6970518bdc59205aa0241	OTX	2026-08-04	family=Phorpiex | pulse='Almost Half of Malware Samples Communicate Direct to IP' pulse_id=6a71e43a0127c62218b7c365
+946a9cc6b501d993a108c90ef7d0930d	OTX	2026-08-04	family=Phorpiex | pulse='Almost Half of Malware Samples Communicate Direct to IP' pulse_id=6a71e43a0127c62218b7c365
+c98aa812a271c9c78017c2c90b60a97ae13df9cf	OTX	2026-08-04	family=Phorpiex | pulse='Almost Half of Malware Samples Communicate Direct to IP' pulse_id=6a71e43a0127c62218b7c365
+04d20417bb04779c8762032b8c6942be	OTX	2026-08-04	family=Phorpiex | pulse='Almost Half of Malware Samples Communicate Direct to IP' pulse_id=6a71e43a0127c62218b7c365
+0783237785d65621d1e887f24cc2103b	OTX	2026-08-04	family=Phorpiex | pulse='Almost Half of Malware Samples Communicate Direct to IP' pulse_id=6a71e43a0127c62218b7c365
+1fec4103f40b6432e45d67fc87b504e024962376	OTX	2026-08-04	family=Phorpiex | pulse='Almost Half of Malware Samples Communicate Direct to IP' pulse_id=6a71e43a0127c62218b7c365
+7f6f4b3b341818b6db89fac39efb6c257addde95	OTX	2026-08-04	family=Phorpiex | pulse='Almost Half of Malware Samples Communicate Direct to IP' pulse_id=6a71e43a0127c62218b7c365
+cc43cdbe8eb9874f55fffbe23b560b673eb9f31fb9a953926bba29464fd2dd07	OTX	2026-08-04	family=Phorpiex | pulse='Almost Half of Malware Samples Communicate Direct to IP' pulse_id=6a71e43a0127c62218b7c365
+e310476c41ae4f6e3c4ed9bb88303ee6e5e1455bd7afe51cf48965ea7599e6e5	OTX	2026-08-04	family=Phorpiex | pulse='Almost Half of Malware Samples Communicate Direct to IP' pulse_id=6a71e43a0127c62218b7c365
+e5715e6611ef6bcb233f5d2098510dab3db408abbb728b00e1821bb255829373	OTX	2026-08-04	family=Phorpiex | pulse='Almost Half of Malware Samples Communicate Direct to IP' pulse_id=6a71e43a0127c62218b7c365
+10b40185106eb3760cb71c46117aa0bf	OTX	2026-08-03	family=QuasarRAT | pulse='Analysis of a Phishing Email Attack Case' pulse_id=6a70c6f0d15cdde2874f628e
+1500fefcdda275b70e2051a3e7d9f794	OTX	2026-08-03	family=QuasarRAT | pulse='Analysis of a Phishing Email Attack Case' pulse_id=6a70c6f0d15cdde2874f628e
+2973fda8d0d0fa0200a05889fce85df6	OTX	2026-08-03	family=QuasarRAT | pulse='Analysis of a Phishing Email Attack Case' pulse_id=6a70c6f0d15cdde2874f628e
+444fb3592cd1848660259a913684795b	OTX	2026-08-03	family=QuasarRAT | pulse='Analysis of a Phishing Email Attack Case' pulse_id=6a70c6f0d15cdde2874f628e
+4ad28d0313549e98383144d82982be6e	OTX	2026-08-03	family=QuasarRAT | pulse='Analysis of a Phishing Email Attack Case' pulse_id=6a70c6f0d15cdde2874f628e
+59fe1ef7707fe497d89f34505222862f	OTX	2026-08-03	family=BINDCLOAK | pulse='Targeted Attack on Government Entities in the Middle East | Part 2' pulse_id=6a710a5c190ae98a3d9c1be1
