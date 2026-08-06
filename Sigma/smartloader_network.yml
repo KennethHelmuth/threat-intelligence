@@ -1,0 +1,38 @@
+title: Network Connection to Smartloader Infrastructure
+id: 49801e6c-b97f-4976-8cb8-0b00a118a060
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Smartloader.
+date: 2026-08-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai developers
+    - blockchain c2
+    - etherhiding
+    - github impersonation
+    - infostealer
+    - lua obfuscator
+    - malware.smartloader
+    - nodejs infostealer
+    - prometheus
+    - smartloader
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'reviewassignment.in'
+        - 'yuhvgbzsa66biqeatbmdvfo5b5jjefcmz5t2vjuvco5qtdkshfpabyid.onion'
+        DestinationIp|contains:
+        - '83.97.20.150'
+        - '94.156.154.48'
+        - '213.176.72.223'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

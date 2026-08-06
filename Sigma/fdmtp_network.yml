@@ -1,0 +1,74 @@
+title: Network Connection to Fdmtp Infrastructure
+id: 46547e3d-5496-41c4-b045-ebdc5507593c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Fdmtp.
+date: 2026-08-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - dll sideloading
+    - electron application
+    - fdmtp
+    - fdmtp implant
+    - javascript loader
+    - malware.fdmtp
+    - process guardrails
+    - quickfox
+    - supply chain
+    - twill typhoon
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'jiejie.net'
+        - 'www.icloud-cdn.net'
+        - 'cdns3.51quickfox.cn'
+        - '51quickfox.cn'
+        - 'cdns3.51quickfox.com'
+        - 'plugin.room.run'
+        - 'www.google-apis.net'
+        - 'www.techcheck1.com'
+        - 'www.wangmeng.xyz'
+        - 'www.wangmeng66.top'
+        - 'www.wangmengsb.com'
+        DestinationIp|contains:
+        - '154.223.58.142'
+        - '47.76.92.73'
+        - '202.181.25.71'
+        - '123.254.106.148'
+        - '103.231.15.135'
+        - '103.231.15.219'
+        - '103.231.15.248'
+        - '103.246.244.20'
+        - '123.254.105.38'
+        - '154.223.24.158'
+        - '154.223.54.159'
+        - '154.223.58.64'
+        - '154.223.75.206'
+        - '170.33.128.5'
+        - '202.181.25.73'
+        - '38.60.142.56'
+        - '43.240.12.34'
+        - '43.240.12.35'
+        - '45.125.15.100'
+        - '45.125.15.104'
+        - '45.125.15.111'
+        - '45.125.15.114'
+        - '45.125.15.115'
+        - '45.125.35.225'
+        - '45.125.35.226'
+        - '45.125.35.227'
+        - '45.125.35.229'
+        - '45.125.35.230'
+        - '45.125.35.231'
+        - '45.125.35.233'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

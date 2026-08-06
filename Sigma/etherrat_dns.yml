@@ -1,0 +1,33 @@
+title: DNS Query to Etherrat Domains
+id: 48a7061f-d625-4d65-8b6c-8b0240ee7229
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Etherrat.
+date: 2026-08-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - blockchain c2
+    - chisel
+    - credential dumping
+    - domain persistence
+    - etherrat
+    - lateral movement
+    - ligolo-ng
+    - malware.etherrat
+    - mimikatz
+    - reverse tunnels
+    - scheduled tasks
+    - sliver
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'publisherresolution.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

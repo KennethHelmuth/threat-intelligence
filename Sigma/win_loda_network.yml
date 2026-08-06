@@ -1,0 +1,29 @@
+title: Network Connection to Win.Loda Infrastructure
+id: c64514ec-2f5f-41b1-984b-b3cd0021b296
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Loda.
+date: 2026-08-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Loda
+    - LodaRAT
+    - RAT
+    - malware.win.loda
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'my.thispc.net'
+        DestinationIp|contains:
+        - '207.148.77.235'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

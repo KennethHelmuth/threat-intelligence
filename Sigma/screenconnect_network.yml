@@ -1,0 +1,38 @@
+title: Network Connection to Screenconnect Infrastructure
+id: 456c0d08-8d3e-4cfb-916b-8454d2ea53be
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Screenconnect.
+date: 2026-08-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bank of america impersonation
+    - base64 obfuscation
+    - credential theft
+    - malware.screenconnect
+    - phishing
+    - privilege escalation
+    - rmm abuse
+    - screenconnect
+    - uac bypass
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'bkofamerica.com'
+        - 'kleinschnitg.com'
+        - 'sectioncompil.com'
+        - 'ealerts.bkofamerica.com'
+        - 'cdn.uploadtourl.com'
+        DestinationIp|contains:
+        - '217.60.195.167'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

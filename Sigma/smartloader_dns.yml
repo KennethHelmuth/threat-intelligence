@@ -1,0 +1,32 @@
+title: DNS Query to Smartloader Domains
+id: de0d71c9-9aa9-41d1-8ddd-6858945ba507
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Smartloader.
+date: 2026-08-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai developers
+    - blockchain c2
+    - etherhiding
+    - github impersonation
+    - infostealer
+    - lua obfuscator
+    - malware.smartloader
+    - nodejs infostealer
+    - prometheus
+    - smartloader
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'reviewassignment.in'
+        - 'yuhvgbzsa66biqeatbmdvfo5b5jjefcmz5t2vjuvco5qtdkshfpabyid.onion'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,31 @@
+title: DNS Query to Powercat Domains
+id: f40ab26d-e563-446b-9630-c1b497533d37
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Powercat.
+date: 2026-08-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cryptocurrency theft
+    - discord distribution
+    - gaming forums
+    - java stealer
+    - malware.powercat
+    - powercat
+    - remote access trojan
+    - roblox
+    - webcam surveillance
+    - xeno
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'ce953a0eb08246617b7f849486c4b26a7af37e9d2e8f0e13b3ae1bf0da8a70a.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

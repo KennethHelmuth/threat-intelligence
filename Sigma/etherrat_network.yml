@@ -1,0 +1,47 @@
+title: Network Connection to Etherrat Infrastructure
+id: 1a9e7dc8-3a19-48b1-9dc0-af77e262c392
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Etherrat.
+date: 2026-08-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - blockchain c2
+    - chisel
+    - credential dumping
+    - domain persistence
+    - etherrat
+    - lateral movement
+    - ligolo-ng
+    - malware.etherrat
+    - mimikatz
+    - reverse tunnels
+    - scheduled tasks
+    - sliver
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'publisherresolution.com'
+        DestinationIp|contains:
+        - '193.233.202.17'
+        - '185.45.193.151'
+        - '38.110.228.43'
+        - '77.110.122.137'
+        - '77.110.126.46'
+        - '77.110.122.58'
+        - '146.103.127.44'
+        - '185.117.72.215'
+        - '38.110.228.125'
+        - '38.110.228.33'
+        - '50.114.167.112'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

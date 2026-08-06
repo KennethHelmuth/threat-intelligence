@@ -1,0 +1,33 @@
+title: Network Connection to Powercat Infrastructure
+id: 4e5645a1-bb8a-46af-86d7-65a180667f0e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Powercat.
+date: 2026-08-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cryptocurrency theft
+    - discord distribution
+    - gaming forums
+    - java stealer
+    - malware.powercat
+    - powercat
+    - remote access trojan
+    - roblox
+    - webcam surveillance
+    - xeno
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'ce953a0eb08246617b7f849486c4b26a7af37e9d2e8f0e13b3ae1bf0da8a70a.xyz'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

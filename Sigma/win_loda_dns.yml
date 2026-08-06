@@ -1,0 +1,25 @@
+title: DNS Query to Win.Loda Domains
+id: 28c5f87c-5b0f-4614-b3a9-f7540ce3f8c9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Loda.
+date: 2026-08-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Loda
+    - LodaRAT
+    - RAT
+    - malware.win.loda
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'my.thispc.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

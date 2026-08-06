@@ -1,0 +1,26 @@
+title: Network Connection to Win.Overlay Rat Infrastructure
+id: 71b89979-23b2-4650-939a-dd391bcb8934
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Overlay Rat.
+date: 2026-08-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - OverlordRAT
+    - RAT
+    - malware.win.overlay_rat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '196.251.107.112'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

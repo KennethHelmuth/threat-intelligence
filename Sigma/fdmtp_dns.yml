@@ -1,0 +1,41 @@
+title: DNS Query to Fdmtp Domains
+id: 3b7dcaca-78ea-4c7c-bc8e-0f9f7d9bc1a8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Fdmtp.
+date: 2026-08-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - dll sideloading
+    - electron application
+    - fdmtp
+    - fdmtp implant
+    - javascript loader
+    - malware.fdmtp
+    - process guardrails
+    - quickfox
+    - supply chain
+    - twill typhoon
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'jiejie.net'
+        - 'www.icloud-cdn.net'
+        - 'cdns3.51quickfox.cn'
+        - '51quickfox.cn'
+        - 'cdns3.51quickfox.com'
+        - 'plugin.room.run'
+        - 'www.google-apis.net'
+        - 'www.techcheck1.com'
+        - 'www.wangmeng.xyz'
+        - 'www.wangmeng66.top'
+        - 'www.wangmengsb.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
