@@ -1,0 +1,44 @@
+title: DNS Query to Legion Loader Domains
+id: 8018ee3a-80e8-4ae6-befd-5a33b646b596
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Legion Loader.
+date: 2026-08-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai assistant exposure
+    - fakecaptcha
+    - legion loader
+    - malware.legion_loader
+    - premium sms scam
+    - search engine poisoning
+    - tds
+    - traffic distribution system
+    - trojan.win32.injuke
+    - webflow cdn abuse
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'berapt-medii.com'
+        - 'zuwufag.com'
+        - 'binonelola.com'
+        - 'bovetewa.com'
+        - 'dutabuz.com'
+        - 'gowixese.com'
+        - 'jufewine.com'
+        - 'pofezaf.com'
+        - 'riwitamo.com'
+        - 'scorenetsystems.pro'
+        - 'solidlinkpro.info'
+        - 'vimemug.com'
+        - 'ww19.nurepikis.com'
+        - 'ww80.tugoduzak.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,39 @@
+title: Network Connection to Endlessdoors Infrastructure
+id: 95aa3646-641b-4dd3-9dcd-3d1e1f737e3e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Endlessdoors.
+date: 2026-08-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cve-2026-66747
+    - endlessdoors
+    - iot compromise
+    - malware.endlessdoors
+    - pre-installed implant
+    - rctl
+    - router backdoor
+    - supply chain
+    - zbtlink
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'zbtlink.com'
+        - 'zbtwifi.com'
+        - 'rbdg4nzqadui.wikaba.com'
+        - 'zbtctl.epplink.net'
+        DestinationIp|contains:
+        - '43.248.136.125'
+        - '47.100.190.96'
+        - '47.107.224.89'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

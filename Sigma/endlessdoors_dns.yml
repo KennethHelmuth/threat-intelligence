@@ -1,0 +1,33 @@
+title: DNS Query to Endlessdoors Domains
+id: 3d90df08-c32b-4a4e-91d8-174382e951e8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Endlessdoors.
+date: 2026-08-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cve-2026-66747
+    - endlessdoors
+    - iot compromise
+    - malware.endlessdoors
+    - pre-installed implant
+    - rctl
+    - router backdoor
+    - supply chain
+    - zbtlink
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'zbtlink.com'
+        - 'zbtwifi.com'
+        - 'rbdg4nzqadui.wikaba.com'
+        - 'zbtctl.epplink.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

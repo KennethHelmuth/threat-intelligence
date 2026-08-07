@@ -1,0 +1,46 @@
+title: Network Connection to Legion Loader Infrastructure
+id: baca9dd7-8efc-4b33-a19b-ec5218d9550e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Legion Loader.
+date: 2026-08-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai assistant exposure
+    - fakecaptcha
+    - legion loader
+    - malware.legion_loader
+    - premium sms scam
+    - search engine poisoning
+    - tds
+    - traffic distribution system
+    - trojan.win32.injuke
+    - webflow cdn abuse
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'berapt-medii.com'
+        - 'zuwufag.com'
+        - 'binonelola.com'
+        - 'bovetewa.com'
+        - 'dutabuz.com'
+        - 'gowixese.com'
+        - 'jufewine.com'
+        - 'pofezaf.com'
+        - 'riwitamo.com'
+        - 'scorenetsystems.pro'
+        - 'solidlinkpro.info'
+        - 'vimemug.com'
+        - 'ww19.nurepikis.com'
+        - 'ww80.tugoduzak.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

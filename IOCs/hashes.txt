@@ -8718,3 +8718,82 @@ a53d756f28457b1c4a239c91cdec8ed7b7da67a93e332e6df9621cbef8417474	OTX	2026-08-05	
 a5d36edc34fe54b2092349f877daf560a98f5fea635d1ac4a110b3518102ef96	OTX	2026-08-05	family=FDMTP | pulse='QuickFox Supply Chain Attack Used to Deploy FDMTP Implant' pulse_id=6a72f492ee9dc3fc24d86c17
 d9db5cbc193ddaf4c0a265804fdef70c32451daaf2974fa9adf52ce1defac5f7	OTX	2026-08-05	family=FDMTP | pulse='QuickFox Supply Chain Attack Used to Deploy FDMTP Implant' pulse_id=6a72f492ee9dc3fc24d86c17
 dc666e9c148bbca5e21d8c9a97143575c075f53360f135e0191aed9e8278d396	OTX	2026-08-05	family=FDMTP | pulse='QuickFox Supply Chain Attack Used to Deploy FDMTP Implant' pulse_id=6a72f492ee9dc3fc24d86c17
+2169ff5e7be77fc3ff72758f9fa50658	ThreatFox	2026-08-06	family=unknown | confidence=100% threat=payload
+29be0f56275f051181ea3ec37ddc3d3807cde34cb65de855709fae0e13786a40	ThreatFox	2026-08-06	family=unknown | confidence=100% threat=payload
+b21a6903bc670f9ecbcf74aae1fe4bf479b8ee7430a24d96921e806b13ac1602	MalwareBazaar	2026-08-07	filetype=sh md5=c21c375b5dd2f9d2a95a4be6f2a1be94 sha1=dc265c6155a7e410844e387d129465b49d45d803 | vt=18/75
+84b8ec2f3b29a10f88d21fc7617cdfecac1c2c76303086b41471beb5f563f65c	MalwareBazaar	2026-08-07	filetype=exe md5=066dab36fbf44cfa930929d002a07cb3 sha1=9ba5a8bf9564e71f333406b3e4962cac35e33a38 | vt=20/75
+2759b171a3a9b245bb0559d8a9aaa2ad753a140a072d6ca0c26235139fdc2a7c	MalwareBazaar	2026-08-07	filetype=sh md5=6887af6cb9a62c67ff55ce9fc74c4bba sha1=0d22bdff94de2a302d098487493d578407474e6b | vt=15/75
+ff709591615a26f037a465ce97cc59d6	ThreatFox	2026-08-06	family=win.gentlemen | confidence=75% threat=payload
+1ecaf7098bedaa4ffae0fff3e077f937	ThreatFox	2026-08-06	family=win.gentlemen | confidence=75% threat=payload
+ba77ebc4ee8500a0baaa5e2cddf8076a	ThreatFox	2026-08-06	family=win.inc | confidence=100% threat=payload
+7997927159d0477fcb755d0befa26ca2	ThreatFox	2026-08-06	family=win.inc | confidence=100% threat=payload
+3279610d12c4309a5b2fdc7ebc9cfb66	ThreatFox	2026-08-06	family=win.inc | confidence=100% threat=payload
+974e9a9579927b2935140b6813f89692	ThreatFox	2026-08-06	family=win.inc | confidence=100% threat=payload
+1a2bcaa7ccee237163bb2a03f1c08e55	ThreatFox	2026-08-06	family=win.inc | confidence=100% threat=payload
+a7fd97ff3685cb971650922c12725e8b	ThreatFox	2026-08-06	family=win.warlock | confidence=100% threat=payload
+843df3ad51fb7c3d35e6f65545bb710b	ThreatFox	2026-08-06	family=win.warlock | confidence=100% threat=payload
+dd7f096c647581f6c639e5c3dc7d1e7e	ThreatFox	2026-08-06	family=win.warlock | confidence=100% threat=payload
+016802863edd6de4503ffa5d815d90b4	ThreatFox	2026-08-06	family=win.warlock | confidence=100% threat=payload
+2bc0e73148e07ade9ea1f2df31ca1c1b	ThreatFox	2026-08-06	family=win.warlock | confidence=100% threat=payload
+3c624e9f786189d001dab2649ade0eb9	ThreatFox	2026-08-06	family=win.warlock | confidence=100% threat=payload
+758c6a86871370406e477e8ea53d2d8d	ThreatFox	2026-08-06	family=win.warlock | confidence=100% threat=payload
+66b521a1eccf3b28906299768ee77222	ThreatFox	2026-08-06	family=win.warlock | confidence=100% threat=payload
+c6bf6be91257d4625dc4e8778b313d6b	ThreatFox	2026-08-06	family=win.warlock | confidence=100% threat=payload
+22a7183a59a6dc4203686d5482928fc587c5fd4db20949d599c09e75d01d790b	MalwareBazaar	2026-08-07	family=Mirai | filetype=elf md5=52b08acc9b2be0c6ecf821c65a271a26 sha1=fe675193c9ece1cf520ff4322773ebd2ce34674a
+555d862a10163c0da85fa24a58ec2caf5cf76d9ec0a4cb21983cec216fddedbf	MalwareBazaar	2026-08-07	family=Mirai | filetype=elf md5=c6dd1518b5abf4ba5f46d2bb31f87ef3 sha1=aadc374b7c088aff4a53de3347f32fb1a3cb9186
+3427810ea86c988af3702d5b43dcfde93205232f5d5a567580f739b26b0fd4d2	MalwareBazaar	2026-08-07	family=Mirai | filetype=elf md5=2919a523bb69bed68e3575ea4980a661 sha1=7b2d001b80b3f20f522a7d48ce648864101547d8
+b7f2e9185472e01b3b636cd48417239456b9a9318b7a9b1a920cdb6b2d9420ed	MalwareBazaar	2026-08-07	family=Mirai | filetype=elf md5=9266ebb5e4e8120481e83ae16c6d1d95 sha1=cdb615d027451931df35603b624398e40f7c8556
+17a7ad87346b0119caa7f638b3bea08aa14459b25e5150a8c9a0ef70bef719bd	MalwareBazaar	2026-08-07	family=Mirai | filetype=elf md5=70a541fe0683dee9e80979a2879fe366 sha1=b883ee19ddc1d3303951224562b1c381716050b8
+89c3ba702d5c424a14c58c3809897b9fc0a66a84c9e4becd4363972e4077756b	MalwareBazaar	2026-08-07	family=NanoCore | filetype=exe md5=09683b2cb19f16818d0a60264663cac2 sha1=0b77288fca4555e501c9cb4474cd689bee669c98
+9b96004da936de55cbd9a2dd86f0f1670a6807a6009a8ae1087684d8527b8af1	MalwareBazaar	2026-08-07	family=Mirai | filetype=elf md5=3407d84a0294de2555d3fd77d2014dcf sha1=258443c498cb3fb39619e46e3664d4daf9ab9e1c
+ea607ebe34ee5a06f5ed85805e0cf9175eaeb390fc39cb19bd31a7add8a4edf5	MalwareBazaar	2026-08-07	family=Mirai | filetype=elf md5=3bfa05e5d583e362b5ea1893b54f4166 sha1=a14409f5a799150184ce27400fcf6ed6699e7647
+a9a08daf07f1b3b65aefe346cece1f53a82d2dd69cd7f73a3827ae6f20c0d1bc	MalwareBazaar	2026-08-07	family=Mirai | filetype=elf md5=f1583f3613d50ece6d6c113de77b7ae5 sha1=1d2815bd5c54f60b97edd4626e5ced2bc5698256
+996cab13bc21cff4f38ba7cbbcadd4cd31b6fe8b1fb45251d3923ca3498b3df7	MalwareBazaar	2026-08-07	family=Mirai | filetype=elf md5=dca56af4e9d5780b89bbc8fa2c06f7e0 sha1=2d935c39061ddb2efbf106517e8447516303f93a
+924194012db5ee8721227fa456bff10954996a7c519bac33babd4236e987c941	MalwareBazaar	2026-08-07	family=Mirai | filetype=elf md5=b61b9a10e78a527e1760f8f487675baa sha1=6f2434b6d4d3b9f088977eefed68975272b4a707
+cb2ffb986351e2eea68c323dffd000bf0b8af4b41e4ce5afd024bbd0f4dfd599	MalwareBazaar	2026-08-07	family=Mirai | filetype=elf md5=1e394f9ac8a393f4deea581598441ea6 sha1=6566bcf6104aeda0407fb1f27c66aa2c76263da5
+88b5109d8eb8b053819ea7b488ff317c7ec584b4e1223398b8a500bd8a04bd5d	MalwareBazaar	2026-08-07	family=Mirai | filetype=elf md5=a4019ba627e220caabbe0e84f19fc8d4 sha1=3e964a61b9d721edbf40dc8d9c9fe9459439f1f8
+d031735c3f1885f132d422c246cf99fa8c7dd6ec10f78d4397fe50621ac84576	MalwareBazaar	2026-08-07	family=Mirai | filetype=elf md5=1a4e5fb9867616d104e17853809d0f64 sha1=ee74a5517084f3d5a39551606696df581c15e2a2
+c2258509124d2f096ddfe68e16e2e6f75772048bf0fd3eb2bbdd7898004b5585	MalwareBazaar	2026-08-07	family=Mirai | filetype=elf md5=d4a9d25339f177f151f8f2ac943b1b5b sha1=5ee88f7b80ffaf3611a5eb039667c058057bb2be
+3e54bd672c62b54255400308df61b30f508d92ccd80c097b73281bf92c04c58f	MalwareBazaar	2026-08-07	family=Mirai | filetype=elf md5=f390863fc6d3fe71a4311afcfd0b8926 sha1=007023ed69e4997b368e21a1f299509b5e6d46b8
+0d2e61c8a5e6280e065b61e75b848c68	OTX	2026-08-06	family=Xctdoor | pulse='Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases' pulse_id=6a748055fc990bd246b92b6c
+12391f66ee33d379108fd649a999e1a0	OTX	2026-08-06	family=Xctdoor | pulse='Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases' pulse_id=6a748055fc990bd246b92b6c
+01b58f2ff2c14feed46a0768ea46686d	OTX	2026-08-06	family=Xctdoor | pulse='Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases' pulse_id=6a748055fc990bd246b92b6c
+07766e6e9d9f86775ad564a65af292c1	OTX	2026-08-06	family=Xctdoor | pulse='Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases' pulse_id=6a748055fc990bd246b92b6c
+08e19a0d516d14e564359ee111ed2586	OTX	2026-08-06	family=Xctdoor | pulse='Analysis of the Connection Between Xctdoor and Past CRAT Attack Cases' pulse_id=6a748055fc990bd246b92b6c
+00ca0c04d247ef09f2b2acc452029345	OTX	2026-08-06	family=ChainDrop | pulse='ChainDrop npm Attack Compromises Hundreds of Packages' pulse_id=6a7484b807f5882281629fae
+ff7ed7a0fa1c43eed01809d076feedbaed464fc7	OTX	2026-08-06	family=ChainDrop | pulse='ChainDrop npm Attack Compromises Hundreds of Packages' pulse_id=6a7484b807f5882281629fae
+14eb4ce01dd4307759887ff819359b70d7d9ff709ecde039a5abc1aac325b128	OTX	2026-08-06	family=ChainDrop | pulse='ChainDrop npm Attack Compromises Hundreds of Packages' pulse_id=6a7484b807f5882281629fae
+3f3f42d072bd36860ab7bd7fb5e10ac0d22c741c13c89505ccd6ec0ea572eea7	OTX	2026-08-06	family=ChainDrop | pulse='ChainDrop npm Attack Compromises Hundreds of Packages' pulse_id=6a7484b807f5882281629fae
+bbbca2ddaa5d8feaa63e36b76fdaad77386f024f	OTX	2026-08-06	family=Shai-Hulud | pulse='Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages' pulse_id=6a74570cf5cc7a08cd8e9903
+de0fac2e4500dabe0009e67214ff5f5447ce83dd	OTX	2026-08-06	family=Shai-Hulud | pulse='Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages' pulse_id=6a74570cf5cc7a08cd8e9903
+29ac906c8bd801dfe1cb39596197df49f80fff2270b3e7fbab52278c24e4f1a7	OTX	2026-08-06	family=Shai-Hulud | pulse='Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages' pulse_id=6a74570cf5cc7a08cd8e9903
+00a1228648fffa7338076970037b89f679a166a08c4d9573f1f27973ec6ed497	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+09ed9ad3ac886f5aaf8357127b6dd5926bd4af1e2cc687a6a4856bcaedee2667	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+1545169fa8a3ae182d8e39aca8ec6cb6849b864e38646f29017232813e397e77	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+2d558bc9a6c7e7480e946f1c0524a651554887a1c563d7633f1903d06ff493fb	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+31ee58a134b766f6ed4424a22cc2cb08cfabbc9a5f35e0ae11a250c81ccc7f5e	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+33f8c0532100eeb10213d167e5eb483394a7e43bf6d276441a1573360622011a	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+37efadf0f4a110be0145139a43ebd032abb5b27b79b1eb2ab3578dcd31655a9e	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+47d8ffb3a9a3fe0337e3c1e355fab4847dd61952fbe9aad98aadede489ca31fd	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+4f5d8319b4bad5d9243496c1358fda4783ea9a0865c32881b3f57ecedb879570	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+6926f919da7f4447229f49842266d884369e1587df655149673e46f1d8787e47	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+71b20ebff0630b33c96bef320adc75901b34f1fd2cc9af974cf93ff37d102ec8	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+73a0d95b8e23c7780cd91e978238c6db519665b05481fb228b4db9a9ec99c8ae	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+76a17581bbde4c0550e8f4abfd903923aceeb50dc69dae4dd904628c273b90ee	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+7791de11cd27cb596deff089904a6eab3a7e0aa391f867c2389582d5c78fef4c	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+ab8467e1495479693f4de8e838a5aeb61a65f3682d68f5b2d7c856cbfc91a247	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+b3956cfbebf9c8d0b2c7a2ecbe59e71c31a5802f2084d25d93a984c0f811e2c7	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+b3e667235e9b41b8fc3594edaa64879750e7f75d7518fff7514d55837430411a	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+b4fda77e082fbf961db02273999e92e715e1824140ea92b2ab30163338b6622b	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+dc1f4056af20677bdc7294ae4707f0c7bdfc85d8b57db212b622b9dc09c92731	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+dcdaa1fe80707b8d8fde8ad36c3e62a53623aff09bf5ccc544d4c1a1a54208b8	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+dee3908280b91cb7ad60c69c1d34c599ceed7c8c66c025851e5831482815b271	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+e85104fce4061d52d47f4528df9aaf656edc49f05c0f026c5bc6b65d57eb7f22	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+efc8a8ead69c63ecfffd883cfbe6bd131082aa13c0d3b324c00d79f4c149bd92	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+f019d03c2489b2bc486d71e355e07f8f2862dff078574a8662a5a45932e7e453	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+f5a94e536a1cac8552fb9c327c4bac6017e034786be98cc402a149cb51250d8f	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+f961e4243e759453294340bc7d1b145016d70b97ab328caf47c64ea3cd818148	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+df1ae1a109b329689a1eb3d1bd9bd1e9ed247cfd	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+f40c47b9d68ea251957b705c851a6ee9	OTX	2026-08-05	family=Legion Loader | pulse='Fake CAPTCHA, Real Business: Traffic Distribution for Hire' pulse_id=6a734a570822e0edf4d1fdb5
+67ef6e09000a5ae837faecd579deb331035d6717	OTX	2026-08-05	family=Legion Loader | pulse='Fake CAPTCHA, Real Business: Traffic Distribution for Hire' pulse_id=6a734a570822e0edf4d1fdb5
+87b8b76762eac941c562c6c8eefb8402f48fc70fcfe360a274b12e75dd5726e2	OTX	2026-08-05	family=Legion Loader | pulse='Fake CAPTCHA, Real Business: Traffic Distribution for Hire' pulse_id=6a734a570822e0edf4d1fdb5

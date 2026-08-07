@@ -1,0 +1,34 @@
+title: Network Connection to Take Control Infrastructure
+id: f57fd576-12b7-4c0f-8c96-812e95304e2b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Take Control.
+date: 2026-08-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - authentication bypass
+    - cloudflared
+    - cve-2026-18556
+    - cve-2026-18577
+    - malware.take_control
+    - msp compromise
+    - n-central
+    - remote access
+    - rmm
+    - take control
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '37.19.210.32'
+        - '68.235.46.214'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

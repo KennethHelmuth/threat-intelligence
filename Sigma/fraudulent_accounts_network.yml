@@ -1,0 +1,47 @@
+title: Network Connection to Fraudulent Accounts Infrastructure
+id: 16756da7-5268-4cc7-8b88-ad6175deb4f2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Fraudulent Accounts.
+date: 2026-08-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - account farming
+    - account trafficking
+    - cloud infrastructure abuse
+    - fraudulent accounts
+    - kyc bypass
+    - malware.fraudulent_accounts
+    - mfa evasion
+    - payment fraud
+    - social media abuse
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'buyaccounts.net'
+        - 'socialaccountshop.com'
+        - 'gmailpva.com'
+        - 'accountstore.net'
+        - 'redditaccounts.com'
+        - 'bulkaccounts.shop'
+        - 'buyaccounts.co'
+        - 'buyaccounts.store'
+        - 'buyawsaccounts.com'
+        - 'buytwitteraccounts.com'
+        - 'churnbot.co'
+        - 'dumps-cc-best.ru'
+        - 'ghostaudit.io'
+        - 'gmailshop.com'
+        - 'thepaygate.store'
+        - 'track2ccdumps.ru'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

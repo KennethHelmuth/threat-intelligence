@@ -1,0 +1,33 @@
+title: DNS Query to Startup Credits Domains
+id: 13f6349a-3d7e-4e38-a3bb-382ab0e87c00
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Startup Credits.
+date: 2026-08-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai fraud
+    - bot networks
+    - fake signups
+    - fraudulent registration
+    - gray market
+    - malware.startup_credits
+    - platform abuse
+    - startup credits
+    - token reselling
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'poison-claude.bitsender.top'
+        - 'api.claudeopus.shop'
+        - 'ratixq.com'
+        - 'claudeopus.shop'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

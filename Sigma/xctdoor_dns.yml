@@ -1,0 +1,44 @@
+title: DNS Query to Xctdoor Domains
+id: d9098876-c039-4ac2-822d-b00ef4e8d4b9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Xctdoor.
+date: 2026-08-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - backdoor
+    - crat
+    - cve-2017-8291
+    - dll side-loading
+    - hansom
+    - hansom ransomware
+    - malware.xctdoor
+    - ngrok
+    - north korea
+    - spear phishing
+    - threatneedle
+    - xcloader
+    - xctdoor
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'www.fabioluciani.com'
+        - 'casinolegit.info'
+        - 'ntsgo.name'
+        - 'ntsgo-corp.com'
+        - 'casinolegit.fun'
+        - 'casinosec.info'
+        - 'cristiantirira.com'
+        - 'desk-azureft.info'
+        - 'hesenorm.info'
+        - 'koramate.fun'
+        - 'grace2019.teamernst.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -6488,3 +6488,145 @@
 47.83.122.51	OTX	2026-08-05	family=FDMTP | pulse='QuickFox Supply Chain Attack Used to Deploy FDMTP Implant' pulse_id=6a72f492ee9dc3fc24d86c17
 47.86.14.22	OTX	2026-08-05	family=FDMTP | pulse='QuickFox Supply Chain Attack Used to Deploy FDMTP Implant' pulse_id=6a72f492ee9dc3fc24d86c17
 47.88.21.252	OTX	2026-08-05	family=FDMTP | pulse='QuickFox Supply Chain Attack Used to Deploy FDMTP Implant' pulse_id=6a72f492ee9dc3fc24d86c17
+38.147.170.102:8084	ThreatFox	2026-08-07	family=win.vshell | confidence=100% threat=botnet_cc
+60.247.206.23:8080	ThreatFox	2026-08-07	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+49.233.13.225:8084	ThreatFox	2026-08-07	family=win.vshell | confidence=100% threat=botnet_cc
+60.247.206.23:443	ThreatFox	2026-08-07	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+60.247.206.23:80	ThreatFox	2026-08-07	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+159.203.172.232:8080	ThreatFox	2026-08-07	family=elf.aisuru | confidence=100% threat=botnet_cc
+139.59.144.8:8443	ThreatFox	2026-08-06	family=elf.aisuru | confidence=100% threat=botnet_cc
+151.242.125.190:9527	ThreatFox	2026-08-06	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+42.193.228.200:9090	ThreatFox	2026-08-06	family=win.vshell | confidence=100% threat=botnet_cc
+91.92.40.56:8888	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+80.76.49.3:56001	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+80.76.49.3:56002	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+64.89.161.42:13834	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+31.59.137.166:56002	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+217.60.97.106:8808	ThreatFox	2026-08-06	family=win.asyncrat | confidence=75% threat=botnet_cc
+185.212.128.232:9000	ThreatFox	2026-08-06	family=elf.evilginx | confidence=75% threat=botnet_cc
+156.251.16.212:443	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+154.37.154.36:1443	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+153.75.88.67:443	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+188.166.222.192:9034	ThreatFox	2026-08-06	family=elf.aisuru | confidence=100% threat=botnet_cc
+152.136.59.90:22428	ThreatFox	2026-08-06	family=elf.mirai | confidence=80% threat=payload_delivery
+196.251.121.185:80	ThreatFox	2026-08-06	family=elf.mirai | confidence=80% threat=payload_delivery
+155.103.69.225:23	ThreatFox	2026-08-06	family=elf.mirai | confidence=100% threat=botnet_cc
+5.182.210.174:80	ThreatFox	2026-08-06	family=elf.mirai | confidence=75% threat=payload_delivery
+216.9.226.211:80	ThreatFox	2026-08-06	family=elf.mirai | confidence=100% threat=botnet_cc
+216.9.226.211:8080	ThreatFox	2026-08-06	family=elf.mirai | confidence=100% threat=botnet_cc
+216.9.226.211:25565	ThreatFox	2026-08-06	family=elf.mirai | confidence=100% threat=botnet_cc
+38.207.178.195:9034	ThreatFox	2026-08-06	family=elf.aisuru | confidence=100% threat=botnet_cc
+156.246.90.214:8080	ThreatFox	2026-08-06	family=elf.mirai | confidence=100% threat=botnet_cc
+103.217.187.96:8083	ThreatFox	2026-08-06	family=win.vshell | confidence=100% threat=botnet_cc
+165.22.56.217:61517	ThreatFox	2026-08-06	family=win.vshell | confidence=100% threat=botnet_cc
+188.166.226.177:80	ThreatFox	2026-08-06	family=win.vshell | confidence=100% threat=botnet_cc
+137.184.150.221:8090	ThreatFox	2026-08-06	family=win.dcrat | confidence=100% threat=botnet_cc
+45.61.114.66:6000	ThreatFox	2026-08-06	family=win.xworm | confidence=75% threat=botnet_cc
+107.174.142.91:8443	ThreatFox	2026-08-06	family=win.purelogs | confidence=75% threat=botnet_cc
+188.166.222.192:8080	ThreatFox	2026-08-06	family=elf.aisuru | confidence=100% threat=botnet_cc
+206.189.81.41:5555	ThreatFox	2026-08-06	family=elf.aisuru | confidence=100% threat=botnet_cc
+109.248.151.11:465	ThreatFox	2026-08-06	family=win.remcos | confidence=75% threat=botnet_cc
+172.111.163.163:65070	ThreatFox	2026-08-06	family=win.remcos | confidence=75% threat=botnet_cc
+173.231.188.244:21590	ThreatFox	2026-08-06	family=win.remcos | confidence=75% threat=botnet_cc
+172.94.53.34:19700	ThreatFox	2026-08-06	family=win.remcos | confidence=75% threat=botnet_cc
+195.186.4.217:2404	ThreatFox	2026-08-06	family=win.remcos | confidence=50% threat=botnet_cc
+173.224.219.231:443	ThreatFox	2026-08-06	family=win.remcos | confidence=75% threat=botnet_cc
+108.181.253.47:443	ThreatFox	2026-08-06	family=win.remcos | confidence=75% threat=botnet_cc
+1.117.77.166:22	ThreatFox	2026-08-06	family=unknown | confidence=100% threat=botnet_cc
+103.213.248.61:7443	ThreatFox	2026-08-06	family=unknown | confidence=100% threat=botnet_cc
+192.210.193.156:28090	ThreatFox	2026-08-06	family=win.vshell | confidence=100% threat=botnet_cc
+77.246.110.198:3050	ThreatFox	2026-08-06	family=unknown | confidence=100% threat=botnet_cc
+112.213.111.79:668	ThreatFox	2026-08-06	family=unknown | confidence=75% threat=botnet_cc
+143.198.206.191:9035	ThreatFox	2026-08-06	family=elf.aisuru | confidence=100% threat=botnet_cc
+82.21.185.243:8041	ThreatFox	2026-08-06	family=unknown_rat | confidence=75% threat=botnet_cc
+82.21.185.81:8041	ThreatFox	2026-08-06	family=unknown_rat | confidence=75% threat=botnet_cc
+202.61.140.68:8888	ThreatFox	2026-08-06	family=unknown | confidence=100% threat=botnet_cc
+149.28.242.174:8808	ThreatFox	2026-08-06	family=win.asyncrat | confidence=100% threat=botnet_cc
+36.140.162.173:10443	ThreatFox	2026-08-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+154.221.25.38:80	ThreatFox	2026-08-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+154.221.25.38:8080	ThreatFox	2026-08-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+83.229.123.185:80	ThreatFox	2026-08-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+83.229.123.185:22	ThreatFox	2026-08-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+47.92.208.27:3389	ThreatFox	2026-08-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+8.135.68.39:2087	ThreatFox	2026-08-06	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+185.92.190.176:8896	ThreatFox	2026-08-06	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+185.92.190.173:8896	ThreatFox	2026-08-06	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+139.199.3.92:2087	ThreatFox	2026-08-06	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+46.151.182.135:8080	ThreatFox	2026-08-06	family=win.remcos | confidence=75% threat=botnet_cc
+83.229.123.185:8080	ThreatFox	2026-08-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+45.88.91.117:7004	ThreatFox	2026-08-06	family=win.xworm | confidence=75% threat=botnet_cc
+195.242.119.228:8080	ThreatFox	2026-08-06	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+207.57.134.202:3306	ThreatFox	2026-08-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+180.76.105.117:8084	ThreatFox	2026-08-06	family=win.vshell | confidence=100% threat=botnet_cc
+195.242.119.228:443	ThreatFox	2026-08-06	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+94.154.32.48:443	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+88.214.26.49:443	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+80.225.83.93:4444	ThreatFox	2026-08-06	family=elf.mirai | confidence=75% threat=botnet_cc
+57.154.16.251:443	ThreatFox	2026-08-06	family=unknown | confidence=75% threat=botnet_cc
+31.77.145.53:4444	ThreatFox	2026-08-06	family=unknown | confidence=75% threat=botnet_cc
+209.99.190.23:56013	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+207.174.0.234:443	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+206.123.129.171:7720	ThreatFox	2026-08-06	family=win.dcrat | confidence=75% threat=botnet_cc
+20.168.52.142:443	ThreatFox	2026-08-06	family=unknown | confidence=75% threat=botnet_cc
+20.150.148.238:443	ThreatFox	2026-08-06	family=unknown | confidence=75% threat=botnet_cc
+196.64.146.72:443	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+186.112.66.56:8443	ThreatFox	2026-08-06	family=win.deimos_c2 | confidence=75% threat=botnet_cc
+186.169.88.130:9031	ThreatFox	2026-08-06	family=win.dcrat | confidence=75% threat=botnet_cc
+172.239.45.42:81	ThreatFox	2026-08-06	family=win.havoc | confidence=75% threat=botnet_cc
+159.203.69.210:22555	ThreatFox	2026-08-06	family=win.asyncrat | confidence=75% threat=botnet_cc
+159.203.69.210:5800	ThreatFox	2026-08-06	family=win.asyncrat | confidence=75% threat=botnet_cc
+134.122.132.28:4321	ThreatFox	2026-08-06	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+46.151.182.234:7007	ThreatFox	2026-08-06	family=win.xworm | confidence=75% threat=botnet_cc
+195.242.119.228:80	ThreatFox	2026-08-06	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+158.247.247.229:8081	ThreatFox	2026-08-06	family=win.vshell | confidence=100% threat=botnet_cc
+93.152.221.158:2404	ThreatFox	2026-08-06	family=win.remcos | confidence=75% threat=botnet_cc
+217.60.195.118:2404	ThreatFox	2026-08-06	family=win.remcos | confidence=75% threat=botnet_cc
+161.248.179.98:2404	ThreatFox	2026-08-06	family=win.remcos | confidence=75% threat=botnet_cc
+49.13.169.214:443	ThreatFox	2026-08-06	family=win.sectop_rat | confidence=100% threat=botnet_cc
+54.80.154.193:5751	ThreatFox	2026-08-06	family=unknown | confidence=75% threat=botnet_cc
+46.151.182.172:8443	ThreatFox	2026-08-06	family=win.purelogs | confidence=75% threat=botnet_cc
+150.158.109.234:80	ThreatFox	2026-08-06	family=win.vshell | confidence=100% threat=botnet_cc
+117.72.202.93:3232	ThreatFox	2026-08-06	family=unknown | confidence=100% threat=botnet_cc
+103.142.147.18:28554	ThreatFox	2026-08-06	family=unknown | confidence=100% threat=botnet_cc
+64.89.161.65:4444	ThreatFox	2026-08-06	family=win.dcrat | confidence=100% threat=botnet_cc
+144.202.88.116:8443	ThreatFox	2026-08-06	family=unknown | confidence=75% threat=botnet_cc
+2.26.96.192:443	ThreatFox	2026-08-06	family=unknown | confidence=75% threat=botnet_cc
+154.221.25.38:443	ThreatFox	2026-08-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+83.229.123.185:443	ThreatFox	2026-08-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+110.42.64.35:80	ThreatFox	2026-08-06	family=elf.mirai | confidence=100% threat=botnet_cc
+186.241.125.215:22	ThreatFox	2026-08-06	family=unknown | confidence=100% threat=botnet_cc
+104.243.47.67:8080	ThreatFox	2026-08-06	family=win.dcrat | confidence=100% threat=botnet_cc
+95.169.1.103:8443	ThreatFox	2026-08-06	family=unknown | confidence=100% threat=botnet_cc
+186.241.125.215:8888	ThreatFox	2026-08-06	family=unknown | confidence=100% threat=botnet_cc
+216.9.226.211:23	ThreatFox	2026-08-06	family=elf.mirai | confidence=100% threat=botnet_cc
+216.9.226.211:123	ThreatFox	2026-08-06	family=elf.mirai | confidence=100% threat=botnet_cc
+188.166.222.192:8443	ThreatFox	2026-08-06	family=elf.aisuru | confidence=100% threat=botnet_cc
+156.246.90.214:23	ThreatFox	2026-08-06	family=elf.mirai | confidence=100% threat=botnet_cc
+103.83.86.143:14642	ThreatFox	2026-08-06	family=win.remcos | confidence=75% threat=botnet_cc
+155.103.69.20:14649	ThreatFox	2026-08-06	family=win.remcos | confidence=75% threat=botnet_cc
+194.59.31.174:5050	ThreatFox	2026-08-06	family=win.remcos | confidence=75% threat=botnet_cc
+195.186.4.217:2466	ThreatFox	2026-08-06	family=win.remcos | confidence=75% threat=botnet_cc
+36.140.162.173:11443	ThreatFox	2026-08-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+141.98.10.179:8443	ThreatFox	2026-08-06	family=win.purelogs | confidence=75% threat=botnet_cc
+46.151.182.159:11200	ThreatFox	2026-08-06	family=win.purelogs | confidence=75% threat=botnet_cc
+194.33.35.80:443	ThreatFox	2026-08-06	family=unknown | confidence=100% threat=payload_delivery
+196.251.107.131:56001	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+196.251.107.131:56002	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+196.251.107.131:56003	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+87.58.197.40:56001	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+87.58.197.40:56002	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+87.58.197.40:56003	ThreatFox	2026-08-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+38.207.178.195:8443	ThreatFox	2026-08-06	family=elf.aisuru | confidence=100% threat=botnet_cc
+160.20.109.29:8080	ThreatFox	2026-08-06	family=win.dcrat | confidence=100% threat=botnet_cc
+38.46.219.162	OTX	2026-08-06	family=Shai-Hulud | pulse='Token Jacking: Cybercriminals Could Be Stealing Your AI Resources' pulse_id=6a748055b6dd0f782e3470ff
+116.105.166.148	OTX	2026-08-06	family=Shai-Hulud | pulse='Token Jacking: Cybercriminals Could Be Stealing Your AI Resources' pulse_id=6a748055b6dd0f782e3470ff
+38.46.219.166	OTX	2026-08-06	family=Shai-Hulud | pulse='Token Jacking: Cybercriminals Could Be Stealing Your AI Resources' pulse_id=6a748055b6dd0f782e3470ff
+38.46.219.163	OTX	2026-08-06	family=Shai-Hulud | pulse='Token Jacking: Cybercriminals Could Be Stealing Your AI Resources' pulse_id=6a748055b6dd0f782e3470ff
+23.237.196.170	OTX	2026-08-06	family=Shai-Hulud | pulse='Token Jacking: Cybercriminals Could Be Stealing Your AI Resources' pulse_id=6a748055b6dd0f782e3470ff
+198.255.70.210	OTX	2026-08-06	family=Shai-Hulud | pulse='Token Jacking: Cybercriminals Could Be Stealing Your AI Resources' pulse_id=6a748055b6dd0f782e3470ff
+117.72.74.48	OTX	2026-08-06	family=Shai-Hulud | pulse='Token Jacking: Cybercriminals Could Be Stealing Your AI Resources' pulse_id=6a748055b6dd0f782e3470ff
+37.19.210.32	OTX	2026-08-06	family=take control | pulse='Authentication Bypass Vulnerability in N-central Exploited In-The-Wild' pulse_id=6a74564f0edb6c8f24fda004
+68.235.46.214	OTX	2026-08-06	family=take control | pulse='Authentication Bypass Vulnerability in N-central Exploited In-The-Wild' pulse_id=6a74564f0edb6c8f24fda004
+43.248.136.125	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+47.100.190.96	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e
+47.107.224.89	OTX	2026-08-05	family=ENDLESSDOORS | pulse='ENDLESSDOORS Is Phoning Home. Pick Up.' pulse_id=6a734a554923448bd690f87e

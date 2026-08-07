@@ -1,0 +1,35 @@
+title: Network Connection to Startup Credits Infrastructure
+id: 2e479610-2180-470d-a53c-f4b285f9c056
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Startup Credits.
+date: 2026-08-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai fraud
+    - bot networks
+    - fake signups
+    - fraudulent registration
+    - gray market
+    - malware.startup_credits
+    - platform abuse
+    - startup credits
+    - token reselling
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'poison-claude.bitsender.top'
+        - 'api.claudeopus.shop'
+        - 'ratixq.com'
+        - 'claudeopus.shop'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
