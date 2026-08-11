@@ -1,0 +1,28 @@
+rule nul1dropper
+{
+    meta:
+        description = "Auto-generated stub for nul1dropper based on 9 hashes"
+        author      = "ti-pipeline (auto-generated)"
+        date        = "2026-08-11"
+        version     = "1.0"
+        source      = "OTX"
+        family      = "nul1dropper"
+        hash_count  = "9"
+
+    strings:
+        // Hashes (SHA-256) – reference only; add byte-strings/imphash conditions below
+        // d382fdae4e2675b94419fdb115dbd397
+        // bc3ae1e11c283e9e3d57c02abf24870f4e8cfaa1
+        // 0fc30f82e1fa5e51a6c0c43f3ed7f13592ea731cb331e43a4d085df60a4db8b6
+        // 7e486657f30594afda379b97030252a09a19fe8055e25c9e371544f59bd8e9e3
+        // 94ef6b1c4a9d31f78f446d053048bcef34fd88f4376a1a46f7f777a9e9c83a29
+        // a3e2ffb440b779d30da3ff282affd649731088e8570df7b1aa72742d995b782c
+        // b74c5675725911c62091bdf40714df760cc2af7a88360d21065f4e1c878aa8f0
+        // c214746c74cae8ece8bdaf69aa05da4db6ce013f9e77452d1eed1a002fd9ba00
+        // e2650e9aa2f924433ba422857b22ee7c5996b5ad306f3f903283f6a13e248935
+
+    condition:
+        // TODO: replace with byte-level strings, pe.imphash(), or hash.sha256() checks
+        // Example: pe.imphash() == "aabbccdd..."
+        false  // stub – analyst must complete this rule
+}

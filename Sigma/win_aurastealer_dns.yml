@@ -1,0 +1,24 @@
+title: DNS Query to Win.Aurastealer Domains
+id: cd764687-6bf1-4d43-b6e2-6b619997d11a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Aurastealer.
+date: 2026-08-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - AuraStealer
+    - c2
+    - malware.win.aurastealer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'auracorp.shop'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,68 @@
+title: Network Connection to Blackfile Infrastructure
+id: 6447de7e-fd6f-4382-a9fc-414a6b7dea35
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Blackfile.
+date: 2026-08-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adversary-in-the-middle
+    - blackfile
+    - credential-harvesting
+    - data-theft-extortion
+    - helix
+    - malware.blackfile
+    - phishing-resistant-mfa
+    - pink
+    - redact
+    - saas-exfiltration
+    - vishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'oktaenroll.com'
+        - 'idokta.com'
+        - 'myoktasso.com'
+        - 'mypasskeysso.com'
+        - 'setupssopasskey.com'
+        - 'passkeyms.com'
+        - 'keyokta.com'
+        - 'portalpasskey.com'
+        - 'oktaportalsso.com'
+        - 'passkeyportal.com'
+        - 'passkeyportalsetup.com'
+        - 'addoktapasskey.com'
+        - 'mysecurepasskey.com'
+        - 'activatemypasskey.com'
+        - 'createpasskey.com'
+        - 'registerpasskey.com'
+        - 'setupsso.com'
+        - 'passkeycenter.com'
+        - 'passkeyregister.com'
+        - 'secureauthpasskey.com'
+        - 'createmypasskey.com'
+        - 'passkeyset.com'
+        - 'passkeyokta.com'
+        - 'addmypasskey.com'
+        - 'passkey-portal.com'
+        - 'passkeyregistration.com'
+        - 'portalsetuphub.com'
+        - 'mynewpasskey.com'
+        - 'myconnectkey.com'
+        - 'enablepasskey2fa.com'
+        DestinationIp|contains:
+        - '107.128.45.122'
+        - '38.42.59.171'
+        - '47.218.103.146'
+        - '76.103.148.180'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

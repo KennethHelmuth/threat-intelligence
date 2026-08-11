@@ -1,0 +1,24 @@
+title: DNS Query to Win.Coinminer Domains
+id: 180349bc-e2b4-4e17-8489-a0a4b3dadc6f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Coinminer.
+date: 2026-08-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - CoinMiner
+    - dropped-by-gcleaner
+    - malware.win.coinminer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'yuming.zx-infinity.space'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

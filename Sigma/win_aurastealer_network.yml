@@ -1,0 +1,26 @@
+title: Network Connection to Win.Aurastealer Infrastructure
+id: 1a931450-1ba4-4d7d-bf18-6a6c7ca52aae
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Aurastealer.
+date: 2026-08-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - AuraStealer
+    - c2
+    - malware.win.aurastealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'auracorp.shop'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

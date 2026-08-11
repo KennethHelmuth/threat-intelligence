@@ -9113,3 +9113,190 @@ dd6350bd0ecef9c4803c039c581253cc95adf5efd5347097457e4f99318abc6f	MalwareBazaar	2
 10fd2c56ff14202d44aeb6ecab9ff5cf36c148bba9abaaa641496de2319979dd	MalwareBazaar	2026-08-10	filetype=sh md5=7619b80e26d31581355aefc1ff867bbf sha1=6450a575c9c838659cd2af50aa928f7e5f1ba22d | vt=15/75
 d7367a850acb0ee789a09dd4ac407163905856935d955bae53e9554055899ceb	MalwareBazaar	2026-08-10	filetype=sh md5=d37e62a4cfd3c0c807a559b92d26b85d sha1=c6cc31058e9939642c777c8b98465b629213f529 | vt=17/75
 a0006e9a7a2dbf8e1245a3d6e0847130b337a463ec60b0f0c7ccac3a244303f1	MalwareBazaar	2026-08-10	filetype=sh md5=7eb1253e53ed997951f541680b445ee4 sha1=c7b819f3aa965fb890dadb1b1a80280ba66a666b | vt=18/75
+333fd9dd9d84b58c4eef84a8d07670dd	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=54/76
+acd02a4f8b25e9106400e0a3af63a760	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=50/75
+7d589f794115171949fa2a7e3b66dcd4	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=51/76
+a482d7e61ba199cbe005a549249894ba	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=45/75
+31fe32bddd2bd4b825e355516d852476	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=37/75
+3b97927cde6c906f6b6f03797c21efa7	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=53/75
+44da29144b151062bce633e9ce62de85	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=58/76
+0c411bf6df62ee8383027f24000510220b4fff2a806a36296bf7cda699540b95	MalwareBazaar	2026-08-11	filetype=elf md5=9f35cd424ab95e0041cbdf1aed51d0c7 sha1=35e841951a94bf1353725f4f17b432eff555445c | vt=3/75
+cc589f2eea34d1a4d17b141d63d3bdeb215232823d6a4f3a379e34c27fce4140	MalwareBazaar	2026-08-11	filetype=elf md5=439c6182681e82c353775354a732c65b sha1=745c1c4a4cb218e4ffc9806fb22c0075c766a7b9 | vt=4/75
+47da0746c7cd0150c953739c3232dba9a0ab71871ee12dfd60dc7f29a9cdff27	MalwareBazaar	2026-08-11	filetype=elf md5=8cc157d97fd7e0f2135a2bf3c2576557 sha1=0f7edf9d0e57f52a5a6fd1d52d4eb0843009070e
+fd3f7faddcdd31222f760c4afb3b8a5600185580b9e3da5057f901d3284f3e54	MalwareBazaar	2026-08-11	filetype=elf md5=a44d295436d01831e1026d4948c974c8 sha1=9e7437ed39ab61d63004cfde3dee7c03334ba8d9
+163d2225f3f683055419afa274721e28e62b9894be4944dc425d9d2b27b6cbb1	MalwareBazaar	2026-08-11	filetype=elf md5=69a2b4d34c7efb1394ee4319bfedb862 sha1=96e6606d9cec10f436cab9d8d9658445190a6060
+672de551af096192ece9e57ee4727d2dd48b81957a4f61373aae955ae3442def	MalwareBazaar	2026-08-11	filetype=elf md5=1848a10d73fe21860eec88c6369a17d1 sha1=45892520001f287c23d3df857a40862b8f08b4b4
+e800b9b98694c7dbda551c120e69d50eff0f5d9b42986ef5c95f79f0f3a710a3	MalwareBazaar	2026-08-11	filetype=elf md5=877c2272ba1f3f6834fc06ae7d89d0f4 sha1=8a4ec64faafbf7c74b36e210e3b806e6c6d2adf1
+9d9f0d3402bbd8a90760c9615305249a3f6f55dcdaea21a41014da22b9227bc7	MalwareBazaar	2026-08-11	filetype=elf md5=af045fce3ce3ddb83562ce2ffcba3928 sha1=b8f81d3df9d190792fc1d4a87e809b9d7182ba11
+bf856f82da6d59b49cf76df8be0ce10fd3abda52dda587b5108b68133cea9486	MalwareBazaar	2026-08-11	filetype=elf md5=1bea522b2aa207306b0383e5cf6a29b7 sha1=0dda0c42c40e8d93dc55d11444b572ba59cd15e3 | vt=1/75
+60c2382b1db5293458a0a40089926a0c8d1fb715703a294085ce3a7cb555ab7f	MalwareBazaar	2026-08-11	filetype=elf md5=a204b987161ee112750cb098a1914d57 sha1=1e0ad7d21a115648315c773f6a2f134a7b8776db | vt=3/75
+388f63f0eb52acdcf3bba77ec0c470139b5a24b17ba22be2510d3166d739be56	MalwareBazaar	2026-08-11	filetype=elf md5=a049f59eb561eac6b8605dde2b7e912e sha1=33f4fc97d0b8f82b02bb5e777cca0db6926176fe | vt=3/75
+4911b1593b03a4f312d8314762cd9e3b529fde33f34a61a4f2081f137529ef7c	MalwareBazaar	2026-08-11	filetype=exe md5=dcc86d02518b2f23fdfd77ecff71b9e2 sha1=cf72ab43be244d2e89e7ca325e34b9b9dcad367c | vt=21/75
+189a03e754ec12e37efe0ba49a7982d0ad10d524fdc509f414575ab5264d7978	MalwareBazaar	2026-08-11	filetype=elf md5=6b3bbc1b30268b24b5bc156f5f4f3033 sha1=804926d0f672d0d6d8d22a80e9a830119f1ad3f2 | vt=1/75
+5d7b90ad2083eb246eaa32593f29ca0485bf1f743760692df72ccec1103c30aa	MalwareBazaar	2026-08-11	filetype=elf md5=8b7f6e169080d278d59bb30651ca3c2f sha1=238f406357b285385b536921e5291ec082e70845
+0e3a78094c70edeaa6c07fcc4c874f4d1a42ff8e9f1a3870e9fad4ead8ecc46a	MalwareBazaar	2026-08-11	filetype=elf md5=d6f678b0d5656c4292a78a5deee33bbd sha1=14a0feafb4b64043cbaa0f2d7b7408a4e0eed9f4 | vt=3/75
+c489ac18a01a725418502656287ef6fdf7fd5550c7ab6cf6d63912cf6dcb7d40	MalwareBazaar	2026-08-11	filetype=elf md5=9555ea32a313ee95211f6739669ac115 sha1=a9127573af911a7a64b980f00ce3c4ae7192e01b
+92f5d59c480c7158cb58d461c5ea8050994fdc8d3093095df6912ea696a9e511	MalwareBazaar	2026-08-11	filetype=sh md5=2f452852d4d1be518f24b916e0efcd95 sha1=621e474ac82800e819323b5728dd7c55b0b0c3a9 | vt=27/75
+3dd7b8084d0fd21045bd18309630c2eaffce420f7d4c4db56d79935e0935c333	MalwareBazaar	2026-08-11	filetype=elf md5=03019c4f4944b660aa8355c5f61321d3 sha1=9df0ad3e642fe8d61af0042b3d41b37bde9171fa
+c3e58e0f33d6668f6b37646095b8484dd97b8182ab97b25a19c4ed4bfdeb6080	MalwareBazaar	2026-08-11	filetype=elf md5=17590ba763d3cfd87cc870fcaaedfbc0 sha1=bc7aa099736caa249c9b97902ea7af13d1647b75 | vt=4/75
+40ee84ea58804b34c5f9b741d988ce497f029ba143b202887581bbffe1df3851	MalwareBazaar	2026-08-11	filetype=elf md5=6484249e4bbaa67cec268d7a18eb7df7 sha1=b151330f2793dbae74cec9fd12695eb7b8714992
+fc92d53673d72cf005ae433b9493ff8f6e0c7a2b1588ce89d2d85e94c35770a5	MalwareBazaar	2026-08-11	filetype=elf md5=6cb4d334c2f11ba1ed1c0933a3f6ba38 sha1=5f5a4806a6816873c7b804cfda8b5afbe93efc1d
+c23fff87e5ab3227d638073b8624c258e91849f11dbb8d8edb35c01a2c4711f1	MalwareBazaar	2026-08-11	filetype=elf md5=40295a30f4a7462510856af3aa5a75c3 sha1=5c71a0b7760d6f49b0ab011abe3340e1d3920fbd | vt=3/75
+24cee19d2763a412eb4bf710986acd1373a4754729986f4101913da9e0da4bbc	MalwareBazaar	2026-08-11	filetype=elf md5=d2acba492dd58751cd01a851dae6cdff sha1=43352be354db309f97858e87988007b909f1dfe5 | vt=6/75
+088840155e73df853dc78841aebe420334f295a159ea5151c143ce17e4f3f4ec	MalwareBazaar	2026-08-11	filetype=elf md5=daa73f79f7c86f182e44d8761cc7dbdd sha1=55ecbf6e570cef04f8f7ca204c5bfc3a3022c273
+916162f62f9942458ed422ccb19d0d1edd302daa7522b1715812f35d2da6beb8	MalwareBazaar	2026-08-11	filetype=elf md5=74c2f0baf07761c05e98e04a7b8f77ec sha1=d5090ba9a52cccc14d0ae155a1d86f33d90a660d | vt=1/75
+db21148cb2f460bf23be50839733754643ee69916b186af6792619251c807a46	MalwareBazaar	2026-08-11	filetype=elf md5=94252bd84e9734294b0ffc4ab04f8aaf sha1=997958d06a0acbab02c3b13e8593412829803469
+8760d69e7776681bcb3712d3e13bdee42f43e6566a395424cb014876bc3d1863	MalwareBazaar	2026-08-11	filetype=elf md5=b37711f09108899c1245036205db7988 sha1=272ee3f1ed64124e76aeba289c6779c5d57064aa
+236c34fca99a0818058bb2074dfe2d0d6e10c6bb517e6a08c4fedc27c6be805b	MalwareBazaar	2026-08-11	filetype=elf md5=e7f4c286d7c48af7b9a7500e5fc27f63 sha1=186a2bbf1aae8e498062d7f1e64d6864e39bf39e
+1a52e179c51c3ce5b3ea3529f9c95a3fbd1fdced9d2d7476d4ffdfd40ac1d134	MalwareBazaar	2026-08-11	filetype=elf md5=eb11e3060da489cbc23aa313dcc137c2 sha1=fef06645cb43dd98ac14bf202dcf35df8f7569e0 | vt=0/75
+9198759b9ca91109f5a59dac8db5b8c2574fd32c29bd796e16a23ef595968e41	MalwareBazaar	2026-08-11	filetype=elf md5=34cc51395d05dd6cd86e0feb5ed4a143 sha1=9787924e18c396bdf7d9b22320e944284c92743f
+b38e430116c0c1a0763055bcdc6e2aa84b96523c9854ca62b46394e8666c7927	MalwareBazaar	2026-08-11	filetype=elf md5=91bb39fdae41a4d3405e469ddd62cdc4 sha1=aa727fbac2e4374e4fae8086540efca073bbb65c | vt=8/75
+7dc97e65d07416aac2ec2fa717a672928f5d1abd21d8adcfb108e0373bb5ceb4	MalwareBazaar	2026-08-11	filetype=elf md5=47ec6dc80d63fd0e8ca395bcef37d38b sha1=9806a757fd4161f8d2d566552c2e868d166d37ca | vt=1/75
+769f8ef1aa8c84e8735445711584e227afc0abf677ff93333421af061a9559e2	MalwareBazaar	2026-08-11	filetype=exe md5=8732229973f978d5de065eb0dc35e146 sha1=797440c1984b2998b30e69167ecfb5859248e8cb | vt=1/75
+ff52c676b94b6fad17731931a2c25cf5cd7c71ff6641abab3bd00f5c6a487056	MalwareBazaar	2026-08-11	filetype=exe md5=26289d04612fab8063db9c54973b60a1 sha1=100534be5bdf8dd628d91d98572c7245ee844b99 | vt=10/75
+de71cf8817c3e91c8a00c22198bb36d6655f00e32741098ae5d81ec09ea69918	ThreatFox	2026-08-10	family=elf.kuiper | confidence=95% threat=payload
+662d653f550544643f67c3891ff2cf2c	ThreatFox	2026-08-10	family=elf.kuiper | confidence=95% threat=payload
+33d103a950e97fb4c0f28d8cff985ba6	ThreatFox	2026-08-10	family=win.havoc | confidence=95% threat=payload
+0e260f328a81040da84f79bb21d54953	ThreatFox	2026-08-10	family=win.pure_rat | confidence=95% threat=payload
+904bb06ad9ad3c8e4aa980b96cbecad85c14bd994af013d77121723c85a5e1a9	ThreatFox	2026-08-10	family=win.havoc | confidence=95% threat=payload
+2a167fbe58a9d874dda8798e9b0d773d9316a217256a7e3f1d0c5e3e26f9f03a	ThreatFox	2026-08-10	family=win.pure_rat | confidence=95% threat=payload
+325dd213f9a6f78e41cad30c49e0a178	ThreatFox	2026-08-10	family=win.pure_rat | confidence=95% threat=payload
+da9442ac1174544216a00fb1792f7ee019cb708e47cd5948a9632e24285b36cb	ThreatFox	2026-08-10	family=win.pure_rat | confidence=95% threat=payload
+c829ecdfad04daba449fb93106f176c5fd065f3642b70cc46ab4285246a3057d	ThreatFox	2026-08-10	family=py.creal_stealer | confidence=95% threat=payload
+0bc755a061e932971b5e642b99adda04	ThreatFox	2026-08-10	family=py.creal_stealer | confidence=95% threat=payload
+a02aa86b025c34615a99437e118128fe	ThreatFox	2026-08-10	family=win.formbook | confidence=95% threat=payload
+1b00808e8d58b136cd389361d01eb377	ThreatFox	2026-08-10	family=win.agent_tesla | confidence=95% threat=payload
+bbb3837bc8706b87668877a86fcda6a69ace99739e19caa744bef624570a7c0a	ThreatFox	2026-08-10	family=win.formbook | confidence=95% threat=payload
+90b2ceb05b34ed6012d20b547cec83a2dacbe56659eb4479150f30015172c3c2	ThreatFox	2026-08-10	family=win.agent_tesla | confidence=95% threat=payload
+5d8353255bc5b09aaed218f2d6f016ceda78354cfb1a3f0d36d939d142f3a8f2	ThreatFox	2026-08-10	family=win.formbook | confidence=95% threat=payload
+59e90d4e4072484541636b873c35a4a6	ThreatFox	2026-08-10	family=win.formbook | confidence=95% threat=payload
+092821e77feade246a230168b2c0b775	ThreatFox	2026-08-10	family=win.dcrat | confidence=95% threat=payload
+b752cd26bfd88495e011ca4ace567f6715d1323bab0803d47b2736cfbc5db955	ThreatFox	2026-08-10	family=win.dcrat | confidence=95% threat=payload
+2e4aa86a1df193c715970aee3096bf3a	ThreatFox	2026-08-10	family=py.venus_stealer | confidence=95% threat=payload
+b24376060623dd8dabec2c3dd423361c	ThreatFox	2026-08-10	family=win.vidar | confidence=95% threat=payload
+843b927de18b16ef40abb48067b6be80e4c63a9e9600342ca672bc75e84e7a48	ThreatFox	2026-08-10	family=py.venus_stealer | confidence=95% threat=payload
+48d66a8f0f2a7d144cfa1f6b7a006c69	ThreatFox	2026-08-10	family=win.vidar | confidence=95% threat=payload
+8e5e251d971957c982721ef54328000815d80c744f184fac3bb1afd64dd3624a	ThreatFox	2026-08-10	family=win.vidar | confidence=95% threat=payload
+f466e3112ffdfa965f4457c98dee5b92	ThreatFox	2026-08-10	family=win.netwire | confidence=95% threat=payload
+1d60903c4cf77503ae2ccbc0e1f33e455033bca93d1a289531df7e1a166a5449	ThreatFox	2026-08-10	family=win.vidar | confidence=95% threat=payload
+fd7cee5a13218f6d00b40e85579c6f4b4f06d5432b9fb785b0b81f8547c197f4	ThreatFox	2026-08-10	family=win.netwire | confidence=95% threat=payload
+ae9893c7a60b298f3f45b85726e09a98	ThreatFox	2026-08-10	family=win.netwire | confidence=95% threat=payload
+2be02d3def1b116c668cc84e628e2065	ThreatFox	2026-08-10	family=win.netwire | confidence=95% threat=payload
+24d5d3e5095d9bd866d657c646d5c4035e64315c7ba3c17b230415f0bef8c0d3	ThreatFox	2026-08-10	family=win.netwire | confidence=95% threat=payload
+a65f533d10703afcd9cc1210ca559b75	ThreatFox	2026-08-10	family=win.netwire | confidence=95% threat=payload
+45c985d787b9f8730c4b05555f8ecf28f9c58f0948c5180108ca185441ab145a	ThreatFox	2026-08-10	family=win.netwire | confidence=95% threat=payload
+ee8bd9222c943d35f0702143c7606aef6a62b229ffc109a468537322e917a9e1	ThreatFox	2026-08-10	family=win.netwire | confidence=95% threat=payload
+fdb6448a3ac57e511a53cda07945be8f	ThreatFox	2026-08-10	family=py.venus_stealer | confidence=95% threat=payload
+893cf55eb5c958896580854b7f5c44e1	ThreatFox	2026-08-10	family=win.formbook | confidence=95% threat=payload
+f02eb5040f50f5bdade4c2a2114ec43c33bdf4a7fd9051f9f7d411eb50b1474e	ThreatFox	2026-08-10	family=py.venus_stealer | confidence=95% threat=payload
+a6a6674d13230442f10b0b6663a5e659f9d3a072b8e575fd332baa5ff685a1d6	ThreatFox	2026-08-10	family=win.formbook | confidence=95% threat=payload
+d345ea8ec62bb05db1652ff3b4db194fa6d730263e4186c6dc851a45569c845b	MalwareBazaar	2026-08-11	family=Mirai | filetype=elf md5=f79d8da599a50db808b9769153788aa9 sha1=db9ed4f39126dfdb50af5f8ab2b1c5b4a0735630
+94ae81675ebf3620fa2c5acb37cb9d8d5afe0521cf97eea5242c12fd52f58ad2	MalwareBazaar	2026-08-11	family=Mirai | filetype=elf md5=b55d48b67985324115c29f2378633091 sha1=9dd0f0d57429a8f86b29bdf1546b7ae805ef6dda
+3b6902d4973b9a5d54a1812b74f531e53913ac924b590be96cbb57b3fa55f79c	MalwareBazaar	2026-08-11	family=Mirai | filetype=elf md5=2c9b0d1f4acbd47c46532064aefb73d1 sha1=37750cc6004ce8bbcdc9629e0988eab8affe15f7
+fbb37366d512207792c0cc90de869deddecb4d412f390787e01dd93d602e92cb	MalwareBazaar	2026-08-11	family=Mirai | filetype=elf md5=060269bc5ebf3fc85058c1b10455c4d9 sha1=ff08564cfff643747133c1afcca1b3794f2340c4
+1df747a30c57bc640d7403663cd37d11da3b4bf3917b83a7e5a89fdae81b9fe2	MalwareBazaar	2026-08-11	family=Mirai | filetype=elf md5=e8a14edacc5941bf449d124b7ff68e36 sha1=17da55aad5210262ad748b7272ca163514eb7a4b
+83a7f3594007039ce3df172e73bca5fbba86b7486f27349841d5df9fee6f4b07	MalwareBazaar	2026-08-11	family=Mirai | filetype=elf md5=511f7933f550b9cca45e7698a838a605 sha1=4e822fbe444d5b590b3c86ad49ad2968bc941255
+a33a96cbd92eef15116c0c1dcaa8feb6eee28a818046ac9576054183e920eeb5	OTX	2026-08-10	family=Powercat | pulse='Powercat malware campaign: Fake game cheats deliver infostealer' pulse_id=6a79d611fbc9cb6fa6102a8b
+1d8e87144890cfe06a208c99a50748f7	OTX	2026-08-10	family=Powercat | pulse='Powercat malware campaign: Fake game cheats deliver infostealer' pulse_id=6a79d611fbc9cb6fa6102a8b
+ccb902ac93fce95a87d19262ef90688c	OTX	2026-08-10	family=Powercat | pulse='Powercat malware campaign: Fake game cheats deliver infostealer' pulse_id=6a79d611fbc9cb6fa6102a8b
+725567384190916da37957e90bd5892a6b4fbe09	OTX	2026-08-10	family=Powercat | pulse='Powercat malware campaign: Fake game cheats deliver infostealer' pulse_id=6a79d611fbc9cb6fa6102a8b
+ac5bb68591b4350858878d2184bdac63cedfcb60	OTX	2026-08-10	family=Powercat | pulse='Powercat malware campaign: Fake game cheats deliver infostealer' pulse_id=6a79d611fbc9cb6fa6102a8b
+a9b4823a1b2c0702a1eb8a1bf18db2d9c9604d2d2dd98a99f1d388bf7cfa71e3	OTX	2026-08-10	family=Powercat | pulse='Powercat malware campaign: Fake game cheats deliver infostealer' pulse_id=6a79d611fbc9cb6fa6102a8b
+c0c3a0331b57d10d23a172a79bdf13ab066255de41774e5a19dd8a8e8446e1fa	OTX	2026-08-10	family=Powercat | pulse='Powercat malware campaign: Fake game cheats deliver infostealer' pulse_id=6a79d611fbc9cb6fa6102a8b
+30d5f17d5e3f85be18220a7cab0b9fff	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+a4f72ce8b5736fe3ca2083cfe21bd51697f12e900e307c357cb8523b8f86e3ec	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+22180919f562fb9f6e50d7f20b2eb3f94eb009c212b74b45cf77659fe8274d5b	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+4453b9e985f452365995c399f5292c92764570f03e6a066d7845320dd4ad09a1	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+aa9d5dd632bb90addca480eaa5ff4382	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+5746f3e78351439caebfa3721e8feea36b67263f	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+4b0358c7e4afa54bc489a6199cca132b5f4a330892eb15bf06c0c4da9e020df2	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+9be8f2be7ad882e8423c269a0540b7c73d6470311ddfcfcd318ff9d1983e2935	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+e34d73a1da492c9a79a9729f2f7d9d4b5a2448f44934bd5552bd0bbbe1586767	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+7bc61d1bbc90d66d9988fd3baacd7834b1d2dfefe6d4ac999a194bccb9ba7dfc	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+02ebc2356f9f700bbdac444cdefa0da2	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+0d8ceb7dea7d471afa2f8e753b13d2d6	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+1f378c0efc13669dada1fe340c6837bd	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+2669731cb5ff664dfb5fbfc37637876d	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+2ab3df4762fbde5d86e99a1ad147850e	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+2e76d5316663a3dc472398b1c01cb9a8	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+2eb77109cce1e8afca6245c2963e52a6	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+302725413076d1aeaee2d7f2b3692646	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+30792a0c0dfad55fb2b19d3e30e9a7d4	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+37cec428257cd41153cf43d7f1a12652	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+3b9d40f3d620ec87960b4350d42ccc03	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+3e2110d233d4543830e14c78d53900f4	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+422a221851ea6ad15f53cd3aea51c8af	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+49bdbe7e6cbb88842afcce3a9fe60e9b	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+4d87fef16790cbe1df72007d99149665	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+5577fffb5b5acd3771ef9dc696498f1e	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+5af95590a33b9bc64d95808f1fc71b78	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+5c5672bb14e1d2f07a8318ffec19b213	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+6add815cd61d6514f81a23ab8c23405a	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+73ff669fc282653bd6c42cf87ade9337	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+7f12fa589f56f6203c692715b3958d30	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+8406075af0a1e9ec09bafdc0de01f138	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+8c859a03814443c6f0da341ee594c352	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+a1c07ac866fb6b388e38c6bb1d4bbe94	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+a343d8bcf02a0554fa271452a512f3ce	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+a435292106026e257789036a70ee1a14	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+a5701848f82c65a55765dc534111899f	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+af3fa7f22f6e97901f20326cc12bdb49	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+b406ea5b8628cb7801f47c0189b96182	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+b50dad56d891ef230656b37ce62cdada	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+b516ec6c6b37618ad65080a063270ea4	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+ba0238423b5c29667cd760ccd7b000aa	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+ba8e682a72c6a3e634c070f0fb057bf5	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+bbf1b0ab9fc27439de4386ed7b8fc151	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+c410055bfa198937825dfd7e41000e7a	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+c63d021de798034cbf933e1c99bcb83f	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+c7723bf166ef08ff3112257a1244f584	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+ca0b57807f79f26e7f59cab2a2542da0	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+e0e4aec6d494fe68cdaa52d6878a8366	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+e22367800e9d39bc865bd50cddd0537d	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+ead95793528572e7b89679860e2f2116	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+ed2f8dd9b96d706d833b7aa545b8e621	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+f4e7ca8c1de252840c1f0e957cd4b717	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+f73e07efb8707e3561e9cbff74557acb	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+215343916d101c6bbe287871816e063c78103dd1	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+263efd45e5cedce553c25cf2c49dbcf28c352cd8	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+2b381a3f3e303da8832c8b60120aa6f7486264bf	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+6bd211981540cd167615e916847e383c5ddb4fbd	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+7117859ffe0380d6e5e6f9691d6d5f5fc1da20d1	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+75ea9f4a55575f39e38c1beb9ec44c0fc7b1c937	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+79fcc73e1bcb0b339336c81c8d733bf00bac4001	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+984a98b7daeee159ea018a055b86a596c5dccc46	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+a1b44d94af77705b075e67b40eb1937cedc55fa8	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+b9f25b21eccbcca77adb11a0e613d4eca4e38442	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+beb0ab87b52a417912e0ec84cfa203fd05cae660	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+feaad17999c1a7c768c6d841e790b2f2c006b00f	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+ff6eac85bb9b11d7c1422938235896c8b3a6da3c	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+018c31af135a0bc5e068df26d866440b28164aa4a659ea7df47bcbaab4a898cd	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+0432ae814945633b605c77d137bef96c7f84934c682aada69baa326dce781286	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+456ed6926b706c203ac65b5174ac2ce78a5dad2ef0f083ae1f0aedd75d811ca2	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+4d37b4ccd6e4c0c9de82e66e40dfb6412b92ea33bcf10442a290b0732eeadae0	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+5b1f75205cb79a8c8a3d8083f34b552852dfd567dd65763183b7536a29f55f5b	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+a40a61e54be9cc1671ea6832fef8139ce811a7d759058bb8b4ca86863f4cc1bd	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+b50422ec3a98d098bb3f7d728012da7e1795221c8b0624562568dff87ab5de2a	OTX	2026-08-10	family=AsyncRAT | pulse='Integrating AI into Attack Operations, From AI-Generated Decoy Documents to a Local LLM' pulse_id=6a79d612a1f9e2ac4e744aa8
+d8620f4df9e0159a8db675868b4ed9a205638c847439f52cf1c88541d0655a64	OTX	2026-08-10	family=vercel infrastructure | pulse='Investigating a Multi-Stage PowerShell Loader' pulse_id=6a79de355f436f32f159929b
+3eaf786bfb4ae5688b347511f98d74c948b7dc0749558acbdc6bbe33dcfa3a61	OTX	2026-08-10	family=vercel infrastructure | pulse='Investigating a Multi-Stage PowerShell Loader' pulse_id=6a79de355f436f32f159929b
+b385111d6599a30210b7be8f7674a163	OTX	2026-08-10	family=vercel infrastructure | pulse='Investigating a Multi-Stage PowerShell Loader' pulse_id=6a79de355f436f32f159929b
+b02d6b80c14bc5556bd7eaa6f1bc502b59818f90	OTX	2026-08-10	family=vercel infrastructure | pulse='Investigating a Multi-Stage PowerShell Loader' pulse_id=6a79de355f436f32f159929b
+0cd022f31b436d6c83ddc1b5c14d47dc	OTX	2026-08-10	family=vercel infrastructure | pulse='Investigating a Multi-Stage PowerShell Loader' pulse_id=6a79de355f436f32f159929b
+5efe9666ca501077aefc818dae7be59f	OTX	2026-08-10	family=vercel infrastructure | pulse='Investigating a Multi-Stage PowerShell Loader' pulse_id=6a79de355f436f32f159929b
+2fdc615e948222bec395f988bebcea4da854756d	OTX	2026-08-10	family=vercel infrastructure | pulse='Investigating a Multi-Stage PowerShell Loader' pulse_id=6a79de355f436f32f159929b
+65e1bb0b0594e9264747640aead433a7bd4fe4fd	OTX	2026-08-10	family=vercel infrastructure | pulse='Investigating a Multi-Stage PowerShell Loader' pulse_id=6a79de355f436f32f159929b
+4366679a4fea2c1bf7e29290f8e162e0db9d0707030b5b99ce870195afeb3782	OTX	2026-08-10	family=vercel infrastructure | pulse='Investigating a Multi-Stage PowerShell Loader' pulse_id=6a79de355f436f32f159929b
+a25bbc466416f65726c5e3f587f69515dd003f114c1eab29fdfca7b52fbd74b1	OTX	2026-08-10	family=vercel infrastructure | pulse='Investigating a Multi-Stage PowerShell Loader' pulse_id=6a79de355f436f32f159929b
+dbaf04df50088031ea64a9879c1adeee8b7e551c79dc247fa1bb4de5b263f7b4	OTX	2026-08-10	family=vercel infrastructure | pulse='Investigating a Multi-Stage PowerShell Loader' pulse_id=6a79de355f436f32f159929b
+e04487377e4f976ac18e7c1c5b22bc85e03b4423e73fd490e9d1641758faac81	OTX	2026-08-10	family=vercel infrastructure | pulse='Investigating a Multi-Stage PowerShell Loader' pulse_id=6a79de355f436f32f159929b
+f139bd347cba0b197c97ca084c224d8c779bdb9116a5327e9cf30b0f72a59530	OTX	2026-08-10	family=vercel infrastructure | pulse='Investigating a Multi-Stage PowerShell Loader' pulse_id=6a79de355f436f32f159929b
+fe693cc07c5d8a4d479e987e64ffb7473bd79066f3505e7f2c8f0b86815d0f08	OTX	2026-08-10	family=vercel infrastructure | pulse='Investigating a Multi-Stage PowerShell Loader' pulse_id=6a79de355f436f32f159929b
+d382fdae4e2675b94419fdb115dbd397	OTX	2026-08-07	family=NUL1DROPPER | pulse='Russian AI Slopsquatting Publishes 700+ Malicious NPM Packages' pulse_id=6a76515e8fbfccabf4dbb65b
+bc3ae1e11c283e9e3d57c02abf24870f4e8cfaa1	OTX	2026-08-07	family=NUL1DROPPER | pulse='Russian AI Slopsquatting Publishes 700+ Malicious NPM Packages' pulse_id=6a76515e8fbfccabf4dbb65b
+0fc30f82e1fa5e51a6c0c43f3ed7f13592ea731cb331e43a4d085df60a4db8b6	OTX	2026-08-07	family=NUL1DROPPER | pulse='Russian AI Slopsquatting Publishes 700+ Malicious NPM Packages' pulse_id=6a76515e8fbfccabf4dbb65b
+7e486657f30594afda379b97030252a09a19fe8055e25c9e371544f59bd8e9e3	OTX	2026-08-07	family=NUL1DROPPER | pulse='Russian AI Slopsquatting Publishes 700+ Malicious NPM Packages' pulse_id=6a76515e8fbfccabf4dbb65b
+94ef6b1c4a9d31f78f446d053048bcef34fd88f4376a1a46f7f777a9e9c83a29	OTX	2026-08-07	family=NUL1DROPPER | pulse='Russian AI Slopsquatting Publishes 700+ Malicious NPM Packages' pulse_id=6a76515e8fbfccabf4dbb65b
+a3e2ffb440b779d30da3ff282affd649731088e8570df7b1aa72742d995b782c	OTX	2026-08-07	family=NUL1DROPPER | pulse='Russian AI Slopsquatting Publishes 700+ Malicious NPM Packages' pulse_id=6a76515e8fbfccabf4dbb65b
+b74c5675725911c62091bdf40714df760cc2af7a88360d21065f4e1c878aa8f0	OTX	2026-08-07	family=NUL1DROPPER | pulse='Russian AI Slopsquatting Publishes 700+ Malicious NPM Packages' pulse_id=6a76515e8fbfccabf4dbb65b
+c214746c74cae8ece8bdaf69aa05da4db6ce013f9e77452d1eed1a002fd9ba00	OTX	2026-08-07	family=NUL1DROPPER | pulse='Russian AI Slopsquatting Publishes 700+ Malicious NPM Packages' pulse_id=6a76515e8fbfccabf4dbb65b
+e2650e9aa2f924433ba422857b22ee7c5996b5ad306f3f903283f6a13e248935	OTX	2026-08-07	family=NUL1DROPPER | pulse='Russian AI Slopsquatting Publishes 700+ Malicious NPM Packages' pulse_id=6a76515e8fbfccabf4dbb65b

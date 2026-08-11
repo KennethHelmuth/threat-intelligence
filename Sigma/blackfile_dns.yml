@@ -1,0 +1,61 @@
+title: DNS Query to Blackfile Domains
+id: 3814132e-8065-4b3e-b118-6af01702afb7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Blackfile.
+date: 2026-08-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adversary-in-the-middle
+    - blackfile
+    - credential-harvesting
+    - data-theft-extortion
+    - helix
+    - malware.blackfile
+    - phishing-resistant-mfa
+    - pink
+    - redact
+    - saas-exfiltration
+    - vishing
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'oktaenroll.com'
+        - 'idokta.com'
+        - 'myoktasso.com'
+        - 'mypasskeysso.com'
+        - 'setupssopasskey.com'
+        - 'passkeyms.com'
+        - 'keyokta.com'
+        - 'portalpasskey.com'
+        - 'oktaportalsso.com'
+        - 'passkeyportal.com'
+        - 'passkeyportalsetup.com'
+        - 'addoktapasskey.com'
+        - 'mysecurepasskey.com'
+        - 'activatemypasskey.com'
+        - 'createpasskey.com'
+        - 'registerpasskey.com'
+        - 'setupsso.com'
+        - 'passkeycenter.com'
+        - 'passkeyregister.com'
+        - 'secureauthpasskey.com'
+        - 'createmypasskey.com'
+        - 'passkeyset.com'
+        - 'passkeyokta.com'
+        - 'addmypasskey.com'
+        - 'passkey-portal.com'
+        - 'passkeyregistration.com'
+        - 'portalsetuphub.com'
+        - 'mynewpasskey.com'
+        - 'myconnectkey.com'
+        - 'enablepasskey2fa.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
