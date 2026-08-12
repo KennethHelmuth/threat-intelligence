@@ -1,0 +1,33 @@
+title: DNS Query to Deadlock Domains
+id: 5574e3a8-881f-4eeb-9121-b07c734cfa93
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Deadlock.
+date: 2026-08-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - blockchain infrastructure
+    - deadlock
+    - decentralized communications
+    - lynx
+    - malware.deadlock
+    - polygon
+    - ransomware
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'deadlock.liveblog365.com'
+        - 'polygon.meowrpc.com'
+        - 'deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion'
+        - 'deadlockblog.medianewsonline.com'
+        - 'deadlockblog.great-site.net'
+        - 'dlock.liveblog365.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

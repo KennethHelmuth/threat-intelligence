@@ -1,0 +1,33 @@
+title: Network Connection to Win.Grandoreiro Infrastructure
+id: 83d530dd-7978-4016-a7e2-a4191ef01f36
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Grandoreiro.
+date: 2026-08-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Grandoreiro
+    - MEX
+    - geo
+    - malware.win.grandoreiro
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '54.91.129.132'
+        - '54.91.129.132'
+        - '54.91.223.28'
+        - '54.91.223.28'
+        - '54.80.154.193'
+        - '54.80.154.193'
+        - '54.91.129.132'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

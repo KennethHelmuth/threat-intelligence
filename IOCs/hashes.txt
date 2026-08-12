@@ -9300,3 +9300,148 @@ a3e2ffb440b779d30da3ff282affd649731088e8570df7b1aa72742d995b782c	OTX	2026-08-07	
 b74c5675725911c62091bdf40714df760cc2af7a88360d21065f4e1c878aa8f0	OTX	2026-08-07	family=NUL1DROPPER | pulse='Russian AI Slopsquatting Publishes 700+ Malicious NPM Packages' pulse_id=6a76515e8fbfccabf4dbb65b
 c214746c74cae8ece8bdaf69aa05da4db6ce013f9e77452d1eed1a002fd9ba00	OTX	2026-08-07	family=NUL1DROPPER | pulse='Russian AI Slopsquatting Publishes 700+ Malicious NPM Packages' pulse_id=6a76515e8fbfccabf4dbb65b
 e2650e9aa2f924433ba422857b22ee7c5996b5ad306f3f903283f6a13e248935	OTX	2026-08-07	family=NUL1DROPPER | pulse='Russian AI Slopsquatting Publishes 700+ Malicious NPM Packages' pulse_id=6a76515e8fbfccabf4dbb65b
+62f8864271c69a990cd3bbb9369b452923b1a85d2b956b4058c33fd94c906c60	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=9/74
+600f0a11037422c503b642696ba599a1eaa4727e8380c74b8673faa49a029ae7	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=9/74
+a00ca1b1edb9bad31ebaa66fd04f4423e8376af186d96dcae6864e364d1d9e1b	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=9/74
+1e7ca9074cc2eca8d366022629f665d9ffaa79e0621bb579bf5aabe681cb07e8	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=3/75
+8ebaf3ba0be7b62269aaf333cfaf66c1dea6e8ee495a917691beb550b4bbf0ab	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=32/75
+e3fb920aa70c7ad5c67b4d9b8e60954f5e0c1a07c0eba09505816b966f4d1a3c	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=18/75
+165e94c87ef17389c8de25ba2a6c31b348e3c916dab89d0dd3708156414f3de5	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=19/75
+b55cf5af8b57e9d56c69d00e023e2384c7eb184614c2a2a283062ebeaf4a26c6	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=17/75
+a46230a1638b9b341d15a640ead1b885548c1d1e5a149657e8e315540a068be8	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=15/75
+7918f29993383e579ef33bd0d8e766fd2ce047dce83bac51efb5fe17578b6cdf	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=20/75
+ae9ee9db7c41e04c531298782b908766c769a899aa92df3f64f4a83baa77ad09	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=12/75
+1093b4045b45a8498d146e31788c25769f992056c8ffc582b5d8c06598598966	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=21/75
+05e3884a478d3bc8fd7285dabb74107422f1615d2d7f80df9b8438d4beb663da	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=19/75
+bb9136494a546368e7c9b6252c2e1c5af9327c07947908a9ba6fdd78fb4bf4cf	ThreatFox	2026-08-11	family=unknown | confidence=100% threat=payload | vt=19/75
+8c7dfe6e0c62d3ff25f1f0b24c78a9d7932bdd8c20a9ce69881bb86e28f02ba6	MalwareBazaar	2026-08-12	filetype=elf md5=c6e6def07b228ba159ffb033fe084837 sha1=62696859184f65fa0531d38517404135ee949539
+52cddeab331e78ae9afb57aa525fdba03ded8d8ef58a58f0265e4dc3a3d1c042	MalwareBazaar	2026-08-12	filetype=elf md5=3ecc5ff6a6ca06b62f4baabb1a98a74a sha1=721d0a91f82af54f90dc5bd2d083e5224e68f829 | vt=10/75
+e02b22dbb4074aa2aef9f606d7b86808f882ab9752dadd18bc486176d4c99da9	MalwareBazaar	2026-08-12	filetype=elf md5=80dc058741cb825234c2070cf06c0f79 sha1=3b4857535990f26c243804dc858c15c7ebf2ea57 | vt=0/0
+0cdb6ae2118a96d618839532a4cd1166f0f1c9d83c6e020a19cbc5e7e5e0b30a	MalwareBazaar	2026-08-12	filetype=elf md5=154c4d2eb9fc3df8b9342f363bcd6d52 sha1=d4d9cd1e551720f6f1a46445489e8711c7323391
+97c6e06d93c29474c6aec258a9dfa0b2f6c1071b46b8b7dfec3d8e0a1e4a9f09	MalwareBazaar	2026-08-12	filetype=exe md5=52b62b3845fa3d72b7a81db636fe1633 sha1=5c6ccb150a830fb70b8c3215456275a08f729f24 | vt=15/75
+2c33eca7982abb1e2bfad8e559af61c0326e19fb48c21059eebc5dbf14f866c2	MalwareBazaar	2026-08-12	filetype=elf md5=1935aba3419b21dc494e0336fc0dd194 sha1=fff987df63aba110c5c2a4c47e2c385f6167d83c | vt=20/75
+2f823f9602e103771ff0dcf0828107a3e10ad672d14541b8dc55e6c545b8ce16	MalwareBazaar	2026-08-12	filetype=elf md5=5216fee62bd47503ae5047ad3f9c998d sha1=e95d89fd0d673f5a1c0c4d49b29645fe64382e98 | vt=25/75
+0c798c8d0b07bc618204c6f2fc9365d2efb023816e13af33a7a4d4ed86c8cb82	MalwareBazaar	2026-08-12	filetype=elf md5=3bda04843d18b8cb644a0ff1e955cc22 sha1=422929c0a3171ad32cb15e200882c39640013b7b | vt=17/75
+4039878821a2d5636b60b8d1d4290a765b22f66fb338cfc9091055b4fa929262	MalwareBazaar	2026-08-12	filetype=sh md5=c52bc5b8f11d2f1d7045559a4f629093 sha1=5adea62c25b52816953dd60d52ed744612712850 | vt=27/75
+9e9094cb5d81ce2c4c6bc13a5e6bb76bdf8883c225c99b6c9f9928b212f1954d	MalwareBazaar	2026-08-12	filetype=sh md5=a8a83d73a5db2db8ef71a467f8f34657 sha1=1a9c00a321724b7e92bb551c5e63df1d0a908a32 | vt=18/75
+675129bca5e2d893f1852243d6cd4c8ffa8cb8dbc9e60deb794e35fdb5b50e80	MalwareBazaar	2026-08-12	filetype=sh md5=d1faf64eb621769755ad01550bc39007 sha1=e1418373ada2c562343add5a8223e99848fea083 | vt=17/75
+84bedc6e24f76a488a88f28078cca8d8d0a720201e753119b7d51f20c070a023	MalwareBazaar	2026-08-12	filetype=elf md5=efe65b8c5d863c8eae40c392e93b52b4 sha1=c2cc55d57b954b6ac58af858493a247836d68dea | vt=17/75
+6d10e468b2d515ac2a5a9113c4feb3ad06b3cd7f1df92fd94acf056c35836996	MalwareBazaar	2026-08-12	filetype=elf md5=0529da452641ee0146d85b69b31ce7c9 sha1=c25fdac85ff3c46e22348a1f4842a7143f7612c4 | vt=16/75
+9a37eea45a4d792638abcca359020013eef8be927baf1b5a7440a8a1b91e9224	MalwareBazaar	2026-08-12	filetype=exe md5=382d1c2f05853b26131790747afdeb9a sha1=706b2dc55ad09955248558009629644f5dbe0c5d | vt=51/75
+16d66eebf8d2ec738234449ec480e0a9eb98a140347671f4650fead082c01f4f	MalwareBazaar	2026-08-12	filetype=exe md5=1b257ab18e4161d4d5ed5efd535f798d sha1=bb5ad008bb1d5b796a00c734e8a2cb728b15f5ca | vt=22/75
+8a461217574508eec77f12bd6cd3ad1d43ba28050e853ff664fdd0873382377e	MalwareBazaar	2026-08-12	filetype=exe md5=1b2ed2db17c8d5d18ff73010d2b3a896 sha1=024e4dcd12e55586d9bb07d823e71a8f4b66bbce | vt=22/75
+5a35dea1e941c4ae1f19d3ec781aa816cdfcde2982b4be30db1f9ef933329de3	MalwareBazaar	2026-08-12	filetype=exe md5=e739c58250d1b6caf92f358e9ff0bd6e sha1=3d686b5cbab9e57ef65af0e5dfdd9ee5853d0d14 | vt=9/75
+8936b492f1e4a8c7685cb07d40df6e818cb8eb2997d2d2542a26c2204a9224fc	MalwareBazaar	2026-08-12	filetype=exe md5=b32a7e44dc8171d56cf610bfbcfa6d4c sha1=d95e5b9cebf1dde21a036dc429cffb0ddba522ca | vt=21/75
+06c9957d333dcc91e5a13fd7feb79d18aeaa5cd929df0cdf82085f98481afa66	MalwareBazaar	2026-08-12	filetype=exe md5=4a6b61d32f19e1e2e8c85b38e65167bd sha1=f3e8b6e96bdf7ce360c97f89983588b9d0866bc9 | vt=22/75
+d9a5009fa613140dbcb9d185278cc6c9d4a34984979a1414c5a9c3dc786c6874	MalwareBazaar	2026-08-12	filetype=exe md5=f5dee0e5910844e961eb4b2eadf83df6 sha1=e696bdcbaabb21ead59eed34e4f558dbbae9ecbf | vt=24/75
+d2133a2a00bc7f25331d795316cf3b7b9ed3f36003897e99ed5cd5c56d669dad	MalwareBazaar	2026-08-12	filetype=exe md5=aa2a3671a579f85a4f133e59992ad5eb sha1=0ea61be0d24c025f349c66f0e20d285bce107911 | vt=26/75
+0f0111f70ed0f619d5a47744dd319ba00312bee71f545e51e1c5e754df837d5b	MalwareBazaar	2026-08-12	filetype=elf md5=82c0494217d805cf83b8cfef02b3b1d2 sha1=f4d8e72b54315be6c2e4ab85bcedb5df41d297d9 | vt=4/75
+3a3192754cbd88649ada4b0d33d9d2c6f4348960271084f74d4686ebdc34c670	MalwareBazaar	2026-08-12	filetype=elf md5=5428d8894542c509ed2d9e6701c8a3cb sha1=e08fd49c83f464c4fd99f0f60b3445faf520ba74
+c5dd9e8c0208ef12b84edbb57362e2a07c5c0bf94b581036411dfa55962b6129	MalwareBazaar	2026-08-12	filetype=elf md5=b93773f9b9095ee65825af3993f9fbfd sha1=5285863411f46cb73e4239428f30485e46dcfc34 | vt=5/75
+cea846a93d72c55d3a36191e995d89a8b6774f4b5de22680685b87f8c07d0d5e	MalwareBazaar	2026-08-12	filetype=exe md5=7c4561ad60b9f8c69fcab6fbc05959e0 sha1=c07bf0a128ae2444f896747ffe0fc0a56c0dcae1 | vt=11/75
+1b2db3fb7efde4444b041844049425c2106f53393305ee8ee528990cb9d64d91	MalwareBazaar	2026-08-12	filetype=exe md5=84d768495ad6bd0e2ca596ee551e32d0 sha1=ad9a5047004a34f50dd796e4987a19a7c070b15a | vt=54/76
+98c3a5f5142672e5206dbe7c7858541f215686cf836a11ce729763de21db96f2	MalwareBazaar	2026-08-12	filetype=elf md5=4c2283bff507402ae7c141f9f25a84b7 sha1=4c635ab833f1286bb7909dd60fe00c8a5f1b708e | vt=13/75
+e32122ad84f511843008e2d7f8c1f3f80df5f38ded4e7e3ae56bddefad0d6d11	MalwareBazaar	2026-08-12	filetype=elf md5=5994447f104ea7dd9c121d4d7d242cdd sha1=c81b214bd3815dd1b85bf645989487b8d9ca3cae | vt=14/75
+cbc9a1a22f5cef93269bf47f2cb52c566dc95bc536a62ece27cbea006d6c63f4	MalwareBazaar	2026-08-12	filetype=exe md5=ab086467dfac61d025686ffe13917b74 sha1=3fc4ab319007dc0b36c832073b6f20d23464de7d | vt=29/75
+43ec2662d839781bbd41eb59f40ce37b0e505bf836d31410bc944a19fe72d1fc	MalwareBazaar	2026-08-12	filetype=js md5=75e3edf01d356d77c3800670284a0f55 sha1=a93cc5775f7b632defc6a25f94d6b615a67bc3db | vt=12/75
+876634b69315538b382e7e046e61c3323c704737cb4b2b2d637aa25382d513a1	MalwareBazaar	2026-08-12	filetype=exe md5=a8551bdd3bedb5dad0271923e0f071ff sha1=b20e30db31150507e52cf235858e3671a256f1c3 | vt=25/75
+3fb4958a2615b4652d6b55b22d623ca8409e1d452ca6134ce00a4caa118b74e9	MalwareBazaar	2026-08-12	filetype=exe md5=9ea19964d71482f9455ef5d346f37d3f sha1=ee659798992758bcb8e17e01be072311fa3a9d35 | vt=15/75
+3d8ea1a7e14847c1b25582a02cd208bd700de5420932b2905d4cf4272114d630	MalwareBazaar	2026-08-12	filetype=exe md5=71d0ec374dc30f91201ab99f17dac0b6 sha1=4567a020b1e5ab7d0c81c932ea64f81d949fbfeb | vt=27/75
+1f40d6ff2f88c58bf2a2685da8a847fd9cf7a54e28a3ea994390bd0af4e96a80	MalwareBazaar	2026-08-12	filetype=exe md5=47a03ce6ad0046e4e79a5cc29dcf6874 sha1=73c778fd1ae7ff90ed9375d50028a42d89337e16 | vt=19/75
+0b3ce056d3aa8ec05069acc49ae887e2b2b4d210d4219221778abdbda9f4c458	MalwareBazaar	2026-08-12	filetype=exe md5=07ebd45100f063d7fa9beb67b6a762b9 sha1=1b762addb20e43d13c7f426688a81341f3fcdeb2 | vt=9/75
+fda5fdd2f8923bc9f7a397628ec274981e6983d3de812fe5d14a4c7fcd4282b6	MalwareBazaar	2026-08-12	filetype=exe md5=36cbc71e7c0a2cca0d53f56bab8e954e sha1=57c99ffb9c6f9b55d27e676de1a4a857e902cd95 | vt=9/75
+53dbad87c3016f7ae7f7561f58fdbf5fe5fa32c248c7678928dd2f34be69ee01	MalwareBazaar	2026-08-12	filetype=exe md5=f35e32f0fa612235e8109ad9975599b7 sha1=0e541869b2ad3dda43b85c3cefc3dc026e67b5a6 | vt=10/75
+d84030d162793a2e0a87c3b11b5b997332b80ec53d2f12c309339cb290131f2d	MalwareBazaar	2026-08-12	filetype=exe md5=484fa3c9b8ffaae0dda78b8635485477 sha1=a6a7faa13eb59c9259b3f1d08b89b6211a4aa7b4 | vt=9/75
+29e0fc6e480dc73a81e1162b614c4aac0b1a2cf93159f8ff43dc2798bbd89171	ThreatFox	2026-08-11	family=js.clearfake | confidence=90% threat=payload
+17734864904d450104ab46e262797f47	ThreatFox	2026-08-11	family=py.creal_stealer | confidence=95% threat=payload
+181be5dc450b80840b8d5eeafb09f35645b430f5ac2910f3abaf477748dadf1a	ThreatFox	2026-08-11	family=py.creal_stealer | confidence=95% threat=payload
+8bf58a0e93c7bf558d7edf84f24a6e690fc8cfb0e48b2bab4060240606c61c8d	MalwareBazaar	2026-08-12	family=Mirai | filetype=elf md5=330d97a2295896b5db6f24071d6e3e5e sha1=16856bf17dfde3e6cef0b3aaef637b36814c0b8b
+ab849c8883fdfa4fab650d3f1ae76db47d4facbaca1a5a97d1e6d6d0512961d2	MalwareBazaar	2026-08-12	family=Mirai | filetype=elf md5=fc748742a3b44e254afc12aba5093157 sha1=91186d4b883c67d987da953c7fb08667e25429eb
+1d5c206d5d27fc95aa51c40e5428ab1bc0468c994e5b6b20f6b861521deac226	MalwareBazaar	2026-08-12	family=Mirai | filetype=elf md5=4f697d972257de63e691e47363e2ba96 sha1=bcdb4f6b11cd1310cb7e0dfea6ff70105b64617c
+e62736b6d3e6b82a82650b82d924f9018b040416294ec6cc858135f724264444	MalwareBazaar	2026-08-12	family=Mirai | filetype=elf md5=8b13ec7fb75fc9a53e2ac5ca1c0e1e4a sha1=c94f3ac4913daa28fc48576665c688aec40a7d7e
+5439695869e49b0deb3c8de9c07aac99cd32515f5bcdfa5aff546e151911b06b	MalwareBazaar	2026-08-12	family=Mirai | filetype=elf md5=1c21f286b7f34c2716a7c26fbcbc4d1c sha1=0cdf964428386754764fd30193d69a926fb4555f
+20385fae2224fb4fa4a5f4aaa01a8a58ae1a53a889fdd65edce8414e4ec2be3f	MalwareBazaar	2026-08-12	family=Mirai | filetype=elf md5=6082de2c61fea2c28839413267b70489 sha1=ea7d0b3011781b1d1b1492a112fa87d19b539f6f
+421111a57b0a4224c052fa4108d90429d579974b5b5111ed2e58516ba09422ca	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+2078af54891b32ea0b1d1bf08b552fe8	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+726557aaebee929541f9c60ec86d356e	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+18dcf61dad028b9e6f9e4aa664e7ff92	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+c46b363e9d4fee5118174e16f0d02ab05d4bf009	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+951c94809aa6c7ab587125f9d4df30fa6a49ee0cbba76a4b7ceedaaa0e5dcd36	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+345222bca004595977f971d76900b0c65fd9bf9d91c50cd0c5bf5a93f1ad9e49	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+2ec2e85b0358e0c681cb5067489a9086ec97dbbf7e3c952dd9cd496b319d5af5	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+f07821e313c16cbbd82def45094a22c8d474164051bdbc7648d6869e012014b4	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+406647de09a0ffa279756b4ccb344b1b76a333320c5b50fd367901fa006cf0ff	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+d759364844d78a728505fb0485c3adbc	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+036bcb62be72c4663b9564955f93b05f	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+33faca1e0090f6b12eff703daf4606e4	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+9470c68f9b6fe5f90d61891b95623afd7b4298815b0f95e25610e1c09008dc24	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+8242443dfcec66e3fe04cbfa2fbd211ad34065ee07aa93813d792a437caab212	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+76554ad09897ac723a850eaf8c525efa	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+7e8131f426a8a17f62bb72a31dfdba44	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+c76144616c360a39873344ef0b5efb6e	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+2675949d9d204dc3bb8848037df319df119aa140	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+2a1d96f1b066877812587ac94f45f82dfff5f5f9	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+4cf441a24a2aa4aacfef8a91285212876f95c11a	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+fc5f1c24a93475cdc37ee46b10ced608e63463e6	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+f3e8a55a2a3ea7c7b6676e90f4f49a2c55b13065b68ee50c51cc35fe2b5c3237	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+2b66fb6d23be66863185cc1b67cac7410222b0b2	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+5d5c63920934e8eb0c22fa598e6e9efb971325df	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+f295e9ab7cdf902e615c8047c26ef85c49844eea	OTX	2026-08-11	family=Kimwolf | pulse='An Evolution of the Botnet' pulse_id=6a7b3ea11dca2e714d4bff8d
+0e4541c3153ec5ed01497f19cf4f63d0	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+0e79996d9483d1e44fea32b0a48c2c19	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+129462164a7d52e9ea8560b60f0412c5	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+12d4e8f5295f2ef7e0f9bfc0f4830939	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+2bb75c20e778eb5c416965bd4d4259b1	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+43f435c3c437bc879a2d7d4634f43494	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+489f43be558b2679284ceabed7adc4f3	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+4d27b4eb1c5dbb3d8160f29b8119523e	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+748c9f8cb1065000616204935f96207f	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+7f267006cac10f341c356b62fe493527	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+8fcc3e4ccbf1725d9989fb464abf3561	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+aee9642b45b099cb7f3053b9b680b425	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+b348642146ea34771e5785c5857950f5	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+b3a6fee3307f1c26841fd5c603e2b013	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+c3a2abe8756910f42582b04a44ea3514	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+c5a460e4e68a088f6e51b2c6474642ec	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+c915cb6c2aeb863ee8479238e1644217	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+dd1fd2b459b97b7d59375cb8383cd19a	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+ec0bf4a2186a88874e9f26f07cfeb532	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+ee2861d5965e8730708cd1da8a93fa4c	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+7b9c37d82be5102e47a267e9f3c7c16b23bb1114	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+ac9f013ad20aab607264d7cfe69ad153a4224d4b	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+b7cea387205e16c9f43d750035e77735415dad34	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+ce1ae52bd60bf4a15a8d9aa597989b0d9df8ff3b	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+f9a692dadf9cc72352b979b1ecb80eb09ddf941a	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+0ed9306deabddaa587ad75d0775f7e63b27857a13adcc870dc9f8c92a9ddc6da	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+0fce4b732ce10c72093587e82ca9747a885430e366934ddc27e437443ff0cc0e	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+72029a4d4790784dd3029d13e73f57494dcb8f8187ca234b131e2b825bd84336	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+b9e4052b310f9451eca9784a4a33bf5282d1bd07e3359eba9648be625e2e40dd	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+ceea2f175eaa02919e8b5161c2ecf585de3e8b6d586bca8046eee2e3f4efa386	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+4bbe23daa43583037420ff17b6c6d0844523037c	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+67bdd48ca58910cc5da499edc8a2b891dc9dc18a	OTX	2026-08-11	family=PhantomCore | pulse='PhantomCore and PhantomGraph backdoors delivered via an unpatched TrueConf server' pulse_id=6a7b3ea2ac324259cbd21dc6
+904784c9943d019da332bea2cd03996f	OTX	2026-08-11	family=GoogleService.dll | pulse='Project CAV3RN uses Google Apps Script for stealthy C2 in Israel' pulse_id=6a7b022f15eb07ffe06f79e1
+f9156d42410c8a5429dec43329bd72e0	OTX	2026-08-11	family=GoogleService.dll | pulse='Project CAV3RN uses Google Apps Script for stealthy C2 in Israel' pulse_id=6a7b022f15eb07ffe06f79e1
+2dcd4a8ac166404977cd3c48418a8cd9	OTX	2026-08-11	family=GoogleService.dll | pulse='Project CAV3RN uses Google Apps Script for stealthy C2 in Israel' pulse_id=6a7b022f15eb07ffe06f79e1
+981c7404d31b8ce35ec88a6b290f354d	OTX	2026-08-11	family=GoogleService.dll | pulse='Project CAV3RN uses Google Apps Script for stealthy C2 in Israel' pulse_id=6a7b022f15eb07ffe06f79e1
+34d50eec364d920b8b5d885c9bc98607	OTX	2026-08-11	family=GoogleService.dll | pulse='Project CAV3RN uses Google Apps Script for stealthy C2 in Israel' pulse_id=6a7b022f15eb07ffe06f79e1
+52b400c5be1557a8df146f62fde76d906e7e0a92ed76788717ef61c758f315aa	OTX	2026-08-10	family=Abyssos | pulse='Abyssos: Technical Analysis of a New Modular RAT' pulse_id=6a7a12d3522ba6e36cd8b6c3
+ca94d95413210a2a325155740eb8a5c58627ad5c4e704478621e7fc8165fe173	OTX	2026-08-10	family=Abyssos | pulse='Abyssos: Technical Analysis of a New Modular RAT' pulse_id=6a7a12d3522ba6e36cd8b6c3
+a1fdf65020ce4a0f0940c793c6425baf8a0b994ec48b9baaf72788661a9d29f4	OTX	2026-08-10	family=DeadLock | pulse='DeadLock ransomware: Breaking down a Rust-based encryptor with decentralized recovery infrastructure' pulse_id=6a7a12d2aa28d8347ab323f6
+5bfb25b8255b61e5ffdf6804451534bcfa9f1dfd225e6c8cdcefb5f50d846898	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+1505eda3da68e2ff9919b55a31018bd30a991236f041aee835f3bc4e430ce505	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+f2a326cff405299e4ebdfaac955c52fc7e496544eaa0921ecad4816cb3ae3a27	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+4e24bbd0fabac6c3efcec943046afbfd332b2c0108a13becfda23a0e26f9ff5f	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+81bb80d9c5a97dc41b65f6248c131963c91346eb4fb672836b3d53ae67564d9f	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+ea1b6ff3a0c1a749b9f09d66789973321d63d8896b48f7345193bdad512950a2	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+673a51a179a78fbdf2b8770f868f883a	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+848b1440f5f52bfddf2e1b3e9e248f12	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+a45e8679d2695d10a45a3f78268fab64	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+96f6794fa4b7414e38be4ef497cd8611d50a59ec	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+d224dde23da2faff57235192333fc7998762c645	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+d3e0f9448c94b1017f26e4da63b710a886a2b426	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+1ef50e9d715245e29220936a66c0bece	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+66575cc1df33e40a47fe00abdc067fe5	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+cd8b231a2101c7de3f0b118f99279cbd	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+326a4305420a5c57950a7ee8c1e41b31132dd027	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+b51a50ffc57565c8488cb8101252db0e60619750	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+cfd101963a4e791fc59bda97bfc87f33ce7ce379	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0

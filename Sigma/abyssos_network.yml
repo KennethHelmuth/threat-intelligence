@@ -1,0 +1,29 @@
+title: Network Connection to Abyssos Infrastructure
+id: af7f6328-f7a5-47d4-8255-b068e9cba916
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Abyssos.
+date: 2026-08-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - abyssos
+    - custom tcp protocol
+    - llvm obfuscation
+    - malware.abyssos
+    - vnc remote access
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '213.145.86.42'
+        - '209.99.184.223'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

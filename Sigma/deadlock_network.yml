@@ -1,0 +1,35 @@
+title: Network Connection to Deadlock Infrastructure
+id: bc1a66a4-49b3-42b0-9ef4-063671c25a20
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Deadlock.
+date: 2026-08-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - blockchain infrastructure
+    - deadlock
+    - decentralized communications
+    - lynx
+    - malware.deadlock
+    - polygon
+    - ransomware
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'deadlock.liveblog365.com'
+        - 'polygon.meowrpc.com'
+        - 'deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion'
+        - 'deadlockblog.medianewsonline.com'
+        - 'deadlockblog.great-site.net'
+        - 'dlock.liveblog365.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

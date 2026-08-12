@@ -1,0 +1,43 @@
+title: Network Connection to Phantomcore Infrastructure
+id: 89a650a1-f4bb-4a8a-bd4c-36c494186d8f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Phantomcore.
+date: 2026-08-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - arcbridge
+    - backdoor deployment
+    - bridgehead
+    - head mare
+    - malware.phantomcore
+    - nightledger
+    - phantomcore
+    - phantomgraph
+    - supply chain attack
+    - trueconf
+    - video conferencing
+    - zero-day exploitation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'penzadogshelter.site'
+        - 'urbanpixel.store'
+        - 'vks.gossopka.forum'
+        DestinationIp|contains:
+        - '194.87.239.71'
+        - '194.87.93.153'
+        - '31.59.102.61'
+        - '38.244.205.244'
+        - '81.177.32.12'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

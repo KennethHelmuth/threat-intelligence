@@ -1,0 +1,48 @@
+title: Network Connection to Googleservice.Dll Infrastructure
+id: dec692f7-978a-47a1-8be0-8bafe44bdf03
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Googleservice.Dll.
+date: 2026-08-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - c2 relay
+    - communicationuxtheme.dll
+    - dll components
+    - dns-based c2
+    - espionage
+    - google apps script
+    - googleservice.dll
+    - israel
+    - malware.googleservice.dll
+    - modular framework
+    - net.dll
+    - project cav3rn
+    - rnp.dll
+    - texture.dll
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'studiotikva.com'
+        - 'api.studiotikva.com'
+        - 'ns1.studiotikva.com'
+        - 'ns2.studiotikva.com'
+        - 'm.studiotikva.com'
+        - 'p.studiotikva.com'
+        - 'q.studiotikva.com'
+        - 'ycz2.41414141303030.m.studiotikva.com'
+        DestinationIp|contains:
+        - '12.19.29.30'
+        - '12.121.234.120'
+        - '74.65.75.102'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

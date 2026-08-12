@@ -1,0 +1,51 @@
+title: Network Connection to Elf.P2Pinfect Infrastructure
+id: 4b92ad58-dd51-4c0c-8c13-eb781599dc26
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.P2Pinfect.
+date: 2026-08-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - P2PInfect
+    - censys
+    - malware.elf.p2pinfect
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '8.222.247.229'
+        - '64.226.68.236'
+        - '8.219.155.47'
+        - '8.219.169.170'
+        - '8.219.210.218'
+        - '8.219.241.116'
+        - '8.219.62.229'
+        - '8.219.69.227'
+        - '8.219.85.120'
+        - '8.222.179.91'
+        - '47.236.180.235'
+        - '47.236.28.220'
+        - '47.236.70.102'
+        - '47.237.124.1'
+        - '47.237.127.21'
+        - '47.237.167.249'
+        - '47.245.111.51'
+        - '47.245.84.42'
+        - '49.235.101.101'
+        - '106.13.23.149'
+        - '114.67.87.14'
+        - '18.175.166.211'
+        - '222.213.23.56'
+        - '47.236.122.72'
+        - '47.236.146.147'
+        - '47.236.172.100'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,49 @@
+title: DNS Query to Aeternum Domains
+id: 34c846a5-b20c-487b-bfe1-df5fffa94942
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Aeternum.
+date: 2026-08-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aeternum
+    - blockchain c2
+    - cryptocurrency mining
+    - decentralized botnet
+    - malware.aeternum
+    - polygon
+    - smart contracts
+    - xmrig
+    - xworm
+    - zingostealer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'endpoints.omniatech.io'
+        - 'polygon-zkevm.drpc.org'
+        - 'cdnjsdelivr.beer'
+        - 'polygon-mumbai.gateway.tenderly.co'
+        - 'api.zan.top'
+        - 'download.sftp-api-group-wechat.com'
+        - 'update.constant-path.xyz'
+        - 'update-launcher.xyz'
+        - 'test-steve.cyou'
+        - 'api.noderpc.xyz'
+        - 'polygon-amoy.gateway.tenderly.co'
+        - 'polygon-amoy.therpc.io'
+        - 'polygon-mumbai-bor-rpc.publicnode.com'
+        - 'polygon-zkevm-mainnet.public.blastapi.io'
+        - 'polygon.rpc.hypersync.xyz'
+        - 'polygontestapi.terminet.io'
+        - 'rpc.polygon-zkevm.gateway.fm'
+        - 'rpc.polygonsupernet.public.arianee.net'
+        - 'rpc.poolz.finance'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,25 @@
+title: DNS Query to Win.Animate Clipper Domains
+id: 70793c2f-d572-4e6c-942d-6d54d85f844f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Animate Clipper.
+date: 2026-08-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - AnimateClipper
+    - ClearFake
+    - ClickFix
+    - malware.win.animate_clipper
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'monitor.telemetry-controlsystem.in.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,34 @@
+title: DNS Query to Kimwolf Domains
+id: 9b318a9d-fa95-4b65-b4ae-9a86f14edf33
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Kimwolf.
+date: 2026-08-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aisuru
+    - android tv boxes
+    - blockchain c2
+    - ddos attacks
+    - ethereum name service
+    - http/2 flood
+    - iot botnet
+    - kimwolf
+    - kimwolf v7
+    - malware.kimwolf
+    - tor infrastructure
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'edctgwib2n5l34t525zkxqzk5bqb6e5il2yiq5r6zu7gtlxa4uosn3qd.onion'
+        - 'eth.rpcuniverse.com'
+        - 'avax.rpcuniverse.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

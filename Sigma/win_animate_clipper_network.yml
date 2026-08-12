@@ -1,0 +1,27 @@
+title: Network Connection to Win.Animate Clipper Infrastructure
+id: 1f90bbad-7a6c-42fc-9bd4-efe262b93e43
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Animate Clipper.
+date: 2026-08-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - AnimateClipper
+    - ClearFake
+    - ClickFix
+    - malware.win.animate_clipper
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'monitor.telemetry-controlsystem.in.net'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

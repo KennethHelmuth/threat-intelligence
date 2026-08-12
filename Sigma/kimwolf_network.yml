@@ -1,0 +1,42 @@
+title: Network Connection to Kimwolf Infrastructure
+id: 0fba74bf-9c66-4748-9ccb-c2bc2078c31c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Kimwolf.
+date: 2026-08-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aisuru
+    - android tv boxes
+    - blockchain c2
+    - ddos attacks
+    - ethereum name service
+    - http/2 flood
+    - iot botnet
+    - kimwolf
+    - kimwolf v7
+    - malware.kimwolf
+    - tor infrastructure
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'edctgwib2n5l34t525zkxqzk5bqb6e5il2yiq5r6zu7gtlxa4uosn3qd.onion'
+        - 'eth.rpcuniverse.com'
+        - 'avax.rpcuniverse.com'
+        DestinationIp|contains:
+        - '212.193.31.102'
+        - '212.193.31.158'
+        - '212.193.31.119'
+        - '212.193.31.122'
+        - '212.193.31.92'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

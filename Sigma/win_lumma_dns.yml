@@ -1,0 +1,24 @@
+title: DNS Query to Win.Lumma Domains
+id: 8e70b53e-971a-4576-976d-eb94e50cb089
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Lumma.
+date: 2026-08-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ClickFix
+    - etherhiding
+    - malware.win.lumma
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'ntds.shop'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

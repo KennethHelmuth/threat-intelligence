@@ -1,0 +1,42 @@
+title: DNS Query to Googleservice.Dll Domains
+id: d5e442b1-72d9-47b1-86df-bc6a6f84f892
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Googleservice.Dll.
+date: 2026-08-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - c2 relay
+    - communicationuxtheme.dll
+    - dll components
+    - dns-based c2
+    - espionage
+    - google apps script
+    - googleservice.dll
+    - israel
+    - malware.googleservice.dll
+    - modular framework
+    - net.dll
+    - project cav3rn
+    - rnp.dll
+    - texture.dll
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'studiotikva.com'
+        - 'api.studiotikva.com'
+        - 'ns1.studiotikva.com'
+        - 'ns2.studiotikva.com'
+        - 'm.studiotikva.com'
+        - 'p.studiotikva.com'
+        - 'q.studiotikva.com'
+        - 'ycz2.41414141303030.m.studiotikva.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
