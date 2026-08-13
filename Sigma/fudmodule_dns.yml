@@ -1,0 +1,30 @@
+title: DNS Query to Fudmodule Domains
+id: 5861d60c-1361-4c16-a438-e06ac46ec003
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Fudmodule.
+date: 2026-08-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - CVE-2026-68820
+    - DPRK-linked
+    - Lazarus group
+    - MISTPEN
+    - Operation Dream Job
+    - Troy
+    - malware.fudmodule
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'enveil.online'
+        - 'envell.xyz'
+        - 'uxtramine.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

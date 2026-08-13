@@ -1,0 +1,25 @@
+title: Network Connection to Win.Remotecontrolclient Infrastructure
+id: c0a59bd0-74f3-4c18-bfbc-7a47d61e7d7d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Remotecontrolclient.
+date: 2026-08-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ScreenConnectRAT
+    - malware.win.remotecontrolclient
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '207.189.4.110'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

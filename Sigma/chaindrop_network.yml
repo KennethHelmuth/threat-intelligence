@@ -1,0 +1,32 @@
+title: Network Connection to Chaindrop Infrastructure
+id: 37257e40-7136-4e2d-aaef-3f950d94991c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Chaindrop.
+date: 2026-08-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chaindrop
+    - ethereum c2
+    - etherhiding
+    - malware.chaindrop
+    - miasma
+    - self-propagating worm
+    - shai-hulud
+    - slsa provenance
+    - supply chain attack
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'copilot-instructions.md'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

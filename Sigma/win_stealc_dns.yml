@@ -1,0 +1,36 @@
+title: DNS Query to Win.Stealc Domains
+id: fec6ac79-c3fb-443b-94bb-e286204c1606
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Stealc.
+date: 2026-08-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 2307
+    - Default
+    - Loader
+    - MIX
+    - Mewwski
+    - PG
+    - Private
+    - Stealc
+    - bot2
+    - build0
+    - c2
+    - malware.win.stealc
+    - stealer
+    - tratata3
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'cloud-flare-authenticator.link'
+        - 'cloud-flare-authenticator.click'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

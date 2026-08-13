@@ -1,0 +1,28 @@
+title: DNS Query to Snowlight Domains
+id: 57d80378-1189-4b14-8a44-eeeb8275fa0f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Snowlight.
+date: 2026-08-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - access-brokerage
+    - botnet
+    - godzilla
+    - malware.snowlight
+    - vshell
+    - webshell
+    - wordpress
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'xs.xxooonline.eu.cc'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

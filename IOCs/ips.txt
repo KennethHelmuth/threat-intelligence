@@ -7244,3 +7244,141 @@
 213.145.86.42	OTX	2026-08-10	family=Abyssos | pulse='Abyssos: Technical Analysis of a New Modular RAT' pulse_id=6a7a12d3522ba6e36cd8b6c3
 209.99.184.223	OTX	2026-08-10	family=Abyssos | pulse='Abyssos: Technical Analysis of a New Modular RAT' pulse_id=6a7a12d3522ba6e36cd8b6c3
 193.221.200.219	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+8.134.51.218:8098	ThreatFox	2026-08-13	family=win.vshell | confidence=100% threat=botnet_cc
+89.110.91.35:80	ThreatFox	2026-08-13	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+89.110.91.35:8080	ThreatFox	2026-08-13	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+68.64.182.169:80	ThreatFox	2026-08-13	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+143.92.60.219:6666	ThreatFox	2026-08-13	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+198.211.96.18:8443	ThreatFox	2026-08-13	family=elf.aisuru | confidence=100% threat=botnet_cc
+89.110.91.35:443	ThreatFox	2026-08-13	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+138.226.236.52:8080	ThreatFox	2026-08-13	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+138.226.236.52:443	ThreatFox	2026-08-13	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+120.55.93.58:10092	ThreatFox	2026-08-12	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+119.45.231.164:4433	ThreatFox	2026-08-12	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+130.94.30.59:7443	ThreatFox	2026-08-12	family=unknown | confidence=100% threat=botnet_cc
+138.226.236.52:15112	ThreatFox	2026-08-12	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+185.34.147.33:8080	ThreatFox	2026-08-12	family=win.asyncrat | confidence=100% threat=botnet_cc
+38.207.178.195:12345	ThreatFox	2026-08-12	family=elf.aisuru | confidence=100% threat=botnet_cc
+93.152.223.39:8089	ThreatFox	2026-08-12	family=win.havoc | confidence=100% threat=botnet_cc
+140.143.239.224:443	ThreatFox	2026-08-12	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+101.42.255.92:53	ThreatFox	2026-08-12	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+169.58.82.229:25	ThreatFox	2026-08-12	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+140.143.239.224:22	ThreatFox	2026-08-12	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+140.143.239.224:1099	ThreatFox	2026-08-12	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+140.143.239.224:8080	ThreatFox	2026-08-12	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+140.143.239.224:123	ThreatFox	2026-08-12	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+89.110.91.35:4321	ThreatFox	2026-08-12	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+87.58.201.47:56001	ThreatFox	2026-08-12	family=win.pure_rat | confidence=75% threat=botnet_cc
+87.58.201.47:56002	ThreatFox	2026-08-12	family=win.pure_rat | confidence=75% threat=botnet_cc
+87.199.206.169:4321	ThreatFox	2026-08-12	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+80.76.49.54:2244	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+65.21.102.4:4321	ThreatFox	2026-08-12	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+54.54.33.23:80	ThreatFox	2026-08-12	family=unknown | confidence=75% threat=botnet_cc
+46.246.14.7:7049	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+46.246.14.7:2703	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+45.221.97.68:56003	ThreatFox	2026-08-12	family=win.pure_rat | confidence=75% threat=botnet_cc
+44.251.4.9:7443	ThreatFox	2026-08-12	family=unknown | confidence=75% threat=botnet_cc
+38.240.57.198:56001	ThreatFox	2026-08-12	family=win.pure_rat | confidence=75% threat=botnet_cc
+38.240.57.198:56002	ThreatFox	2026-08-12	family=win.pure_rat | confidence=75% threat=botnet_cc
+3.39.249.68:8443	ThreatFox	2026-08-12	family=win.havoc | confidence=75% threat=botnet_cc
+3.122.223.106:7443	ThreatFox	2026-08-12	family=unknown | confidence=75% threat=botnet_cc
+23.95.103.215:6606	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+27.124.17.46:442	ThreatFox	2026-08-12	family=win.pure_rat | confidence=75% threat=botnet_cc
+23.148.228.253:7443	ThreatFox	2026-08-12	family=unknown | confidence=75% threat=botnet_cc
+217.60.241.247:8808	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+194.59.30.170:1009	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+194.59.30.170:60	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+194.59.30.170:7777	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+185.34.147.32:3306	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+185.34.147.33:21	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+185.34.147.33:3306	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+185.34.147.34:3306	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+185.34.147.35:21	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+185.34.147.35:3306	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+185.34.147.31:21	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+185.34.147.31:3306	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+185.34.147.32:21	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+183.90.187.196:56001	ThreatFox	2026-08-12	family=win.pure_rat | confidence=75% threat=botnet_cc
+183.90.187.196:56002	ThreatFox	2026-08-12	family=win.pure_rat | confidence=75% threat=botnet_cc
+183.90.187.196:56003	ThreatFox	2026-08-12	family=win.pure_rat | confidence=75% threat=botnet_cc
+182.16.29.36:443	ThreatFox	2026-08-12	family=win.pure_rat | confidence=75% threat=botnet_cc
+168.222.251.83:56013	ThreatFox	2026-08-12	family=win.pure_rat | confidence=75% threat=botnet_cc
+158.94.208.101:666	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+149.28.121.179:1337	ThreatFox	2026-08-12	family=elf.evilginx | confidence=75% threat=botnet_cc
+143.92.61.47:4321	ThreatFox	2026-08-12	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+128.90.59.81:7070	ThreatFox	2026-08-12	family=win.asyncrat | confidence=75% threat=botnet_cc
+117.50.214.216:8000	ThreatFox	2026-08-12	family=unknown | confidence=75% threat=botnet_cc
+103.149.91.182:7443	ThreatFox	2026-08-12	family=unknown | confidence=75% threat=botnet_cc
+103.117.149.104:7443	ThreatFox	2026-08-12	family=unknown | confidence=75% threat=botnet_cc
+103.118.199.85:50555	ThreatFox	2026-08-12	family=apk.hook | confidence=75% threat=botnet_cc
+159.75.123.199:9090	ThreatFox	2026-08-12	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+159.75.123.199:13306	ThreatFox	2026-08-12	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+159.75.123.199:3306	ThreatFox	2026-08-12	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+159.75.123.199:22	ThreatFox	2026-08-12	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+159.75.123.199:888	ThreatFox	2026-08-12	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+207.148.69.96:8001	ThreatFox	2026-08-12	family=elf.aisuru | confidence=75% threat=botnet_cc
+45.77.171.8:8001	ThreatFox	2026-08-12	family=elf.aisuru | confidence=75% threat=botnet_cc
+149.28.134.163:8001	ThreatFox	2026-08-12	family=elf.aisuru | confidence=75% threat=botnet_cc
+162.243.240.81:8443	ThreatFox	2026-08-12	family=elf.aisuru | confidence=100% threat=botnet_cc
+45.76.190.27:8001	ThreatFox	2026-08-12	family=elf.aisuru | confidence=75% threat=botnet_cc
+207.148.122.188:8001	ThreatFox	2026-08-12	family=elf.aisuru | confidence=75% threat=botnet_cc
+207.148.71.46:8001	ThreatFox	2026-08-12	family=elf.aisuru | confidence=75% threat=botnet_cc
+149.28.152.182:8001	ThreatFox	2026-08-12	family=elf.aisuru | confidence=75% threat=botnet_cc
+149.28.148.248:8001	ThreatFox	2026-08-12	family=elf.aisuru | confidence=75% threat=botnet_cc
+45.76.146.20:8001	ThreatFox	2026-08-12	family=elf.aisuru | confidence=75% threat=botnet_cc
+139.180.130.81:8001	ThreatFox	2026-08-12	family=elf.aisuru | confidence=75% threat=botnet_cc
+192.162.199.249:80	ThreatFox	2026-08-12	family=osx.amos | confidence=100% threat=payload_delivery
+62.60.156.132:443	ThreatFox	2026-08-12	family=unknown | confidence=100% threat=payload_delivery
+31.77.227.121:18129	ThreatFox	2026-08-12	family=unknown | confidence=50% threat=botnet_cc
+94.154.43.76:1312	ThreatFox	2026-08-12	family=elf.mirai | confidence=100% threat=botnet_cc
+185.173.147.10:443	ThreatFox	2026-08-12	family=unknown | confidence=100% threat=payload_delivery
+68.183.221.133:8443	ThreatFox	2026-08-12	family=elf.aisuru | confidence=100% threat=botnet_cc
+207.189.4.110:8041	ThreatFox	2026-08-12	family=win.remotecontrolclient | confidence=100% threat=botnet_cc
+185.173.147.153:80	ThreatFox	2026-08-12	family=unknown | confidence=100% threat=payload_delivery
+185.173.147.241:443	ThreatFox	2026-08-12	family=unknown | confidence=100% threat=payload_delivery
+89.19.223.68:8080	ThreatFox	2026-08-12	family=elf.aisuru | confidence=100% threat=botnet_cc
+89.19.223.68:9035	ThreatFox	2026-08-12	family=elf.aisuru | confidence=100% threat=botnet_cc
+165.245.178.39:8080	ThreatFox	2026-08-12	family=elf.aisuru | confidence=100% threat=botnet_cc
+103.140.154.7:443	ThreatFox	2026-08-12	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+47.254.73.23:8000	ThreatFox	2026-08-12	family=unknown | confidence=100% threat=botnet_cc
+103.140.154.7:8080	ThreatFox	2026-08-12	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+103.140.154.7:80	ThreatFox	2026-08-12	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+194.59.30.105:9619	ThreatFox	2026-08-12	family=win.quasar_rat | confidence=100% threat=botnet_cc
+134.122.140.110:8083	ThreatFox	2026-08-12	family=win.vshell | confidence=100% threat=botnet_cc
+65.21.102.4:80	ThreatFox	2026-08-12	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+112.213.110.210:441	ThreatFox	2026-08-12	family=win.valley_rat | confidence=75% threat=botnet_cc
+85.208.84.35:80	ThreatFox	2026-08-12	family=win.netsupportmanager_rat | confidence=80% threat=payload_delivery
+185.100.87.42:443	ThreatFox	2026-08-12	family=win.asyncrat | confidence=100% threat=botnet_cc
+158.94.208.101:888	ThreatFox	2026-08-12	family=win.asyncrat | confidence=100% threat=botnet_cc
+65.21.102.4:8080	ThreatFox	2026-08-12	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+65.21.102.4:443	ThreatFox	2026-08-12	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+185.100.87.43:443	ThreatFox	2026-08-12	family=win.asyncrat | confidence=100% threat=botnet_cc
+185.100.87.116	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+185.100.87.223	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+213.218.160.48	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+185.252.215.98	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+80.92.204.33	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+94.131.118.237	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+80.92.204.47	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+86.104.74.110	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+94.131.118.39	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+178.130.47.44	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+178.130.47.129	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+103.35.191.173	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+194.150.220.163	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+147.45.60.241	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+103.35.189.225	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+5.180.30.122	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+45.89.110.227	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+80.92.206.84	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+185.252.215.97	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+5.180.30.15	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+212.192.14.75	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+130.17.1.19	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+138.124.244.206	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+78.153.155.112	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+81.90.31.73	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+193.169.240.81	OTX	2026-08-11	family=GhostDesk | pulse='Fake CCleaner installs GhostDesk Chrome spyware' pulse_id=6a7b8dab529ad28b12d29796
+38.146.28.75	OTX	2026-08-12	family=CornFlake | pulse='CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials' pulse_id=6a7bdb051d6a41c7ea440061
+213.145.86.112	OTX	2026-08-12	family=CornFlake | pulse='CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials' pulse_id=6a7bdb051d6a41c7ea440061
+38.146.28.132	OTX	2026-08-12	family=CornFlake | pulse='CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials' pulse_id=6a7bdb051d6a41c7ea440061

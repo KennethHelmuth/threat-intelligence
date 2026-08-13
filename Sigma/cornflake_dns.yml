@@ -1,0 +1,34 @@
+title: DNS Query to Cornflake Domains
+id: f80561df-f3b9-4543-94b8-89574e5d807a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Cornflake.
+date: 2026-08-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - apt29
+    - captive portal compromise
+    - chocoshell
+    - cornflake
+    - cozy bear
+    - device code phishing
+    - hotel wi-fi
+    - malware.cornflake
+    - microsoft 365
+    - storm-2945
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'm365-owa.com'
+        - 'ms365-device.com'
+        - 'ms365-live.com'
+        - 'owa-ms365.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,30 @@
+title: Network Connection to Snowlight Infrastructure
+id: 249f9391-bd41-4dc8-bdbd-d7820832be14
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Snowlight.
+date: 2026-08-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - access-brokerage
+    - botnet
+    - godzilla
+    - malware.snowlight
+    - vshell
+    - webshell
+    - wordpress
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'xs.xxooonline.eu.cc'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

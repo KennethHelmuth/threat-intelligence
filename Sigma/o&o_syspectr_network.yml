@@ -1,0 +1,36 @@
+title: Network Connection to O&O Syspectr Infrastructure
+id: 2b3e46ba-1a42-43aa-9311-b0687791711e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with O&O Syspectr.
+date: 2026-08-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cryptocurrency lure
+    - fake websites
+    - impersonation campaign
+    - lookalike domains
+    - malware.o&o_syspectr
+    - o&o syspectr
+    - remote access tool
+    - social engineering
+    - windows targeting
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'app.cnn-news.net'
+        - 'avast-premium.shop'
+        - 'stremiotv.online'
+        - 'syncminer.xyz'
+        - 'idleminer.pro'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

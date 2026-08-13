@@ -1,0 +1,34 @@
+title: DNS Query to O&O Syspectr Domains
+id: 42a88163-2248-43be-be43-7309f37ad3d9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with O&O Syspectr.
+date: 2026-08-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cryptocurrency lure
+    - fake websites
+    - impersonation campaign
+    - lookalike domains
+    - malware.o&o_syspectr
+    - o&o syspectr
+    - remote access tool
+    - social engineering
+    - windows targeting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'app.cnn-news.net'
+        - 'avast-premium.shop'
+        - 'stremiotv.online'
+        - 'syncminer.xyz'
+        - 'idleminer.pro'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

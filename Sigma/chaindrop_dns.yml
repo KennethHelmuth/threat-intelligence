@@ -1,0 +1,30 @@
+title: DNS Query to Chaindrop Domains
+id: 6697c9d2-c800-42dd-a4c1-5f0b046d53d4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Chaindrop.
+date: 2026-08-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chaindrop
+    - ethereum c2
+    - etherhiding
+    - malware.chaindrop
+    - miasma
+    - self-propagating worm
+    - shai-hulud
+    - slsa provenance
+    - supply chain attack
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'copilot-instructions.md'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

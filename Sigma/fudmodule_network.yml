@@ -1,0 +1,32 @@
+title: Network Connection to Fudmodule Infrastructure
+id: 6679fec2-1938-4c0c-868a-1664d1165c98
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Fudmodule.
+date: 2026-08-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - CVE-2026-68820
+    - DPRK-linked
+    - Lazarus group
+    - MISTPEN
+    - Operation Dream Job
+    - Troy
+    - malware.fudmodule
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'enveil.online'
+        - 'envell.xyz'
+        - 'uxtramine.org'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -9445,3 +9445,385 @@ cd8b231a2101c7de3f0b118f99279cbd	OTX	2026-08-11	family=Aeternum | pulse='The Per
 326a4305420a5c57950a7ee8c1e41b31132dd027	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
 b51a50ffc57565c8488cb8101252db0e60619750	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
 cfd101963a4e791fc59bda97bfc87f33ce7ce379	OTX	2026-08-11	family=Aeternum | pulse='The Permanent Threat: Analyzing Blockchain-Based C2 Operations and Communications' pulse_id=6a7a8be76fe0dfa36d01afa0
+60ac3f2f287731e26eefd1b8d78b26549cd0abaa7521a80ebeb1435b2b84313c	ThreatFox	2026-08-12	family=unknown | confidence=90% threat=payload | vt=16/75
+131ef9dcfd4fd0eb043c96aec544bbafe05916bf29105e679bc884c8d9a6baa3	ThreatFox	2026-08-12	family=unknown | confidence=90% threat=payload | vt=13/75
+30762af09dad8d49540eae37af67ef21ac95842db9c766ce9650208813c1d014	ThreatFox	2026-08-12	family=unknown | confidence=90% threat=payload | vt=17/75
+e36f3cf3ed7ab2fe4bafe6629603615d6e091ba31b7a0ebe6cddd5649fbc6ca2	ThreatFox	2026-08-12	family=unknown | confidence=75% threat=payload | vt=23/75
+ef6b626051621f4788aa2be643c614a1e89ceaa82d2a6781fc046291c34cfc9d	ThreatFox	2026-08-12	family=unknown | confidence=100% threat=payload | vt=0/75
+c835ba84a93d89e0e29fc5a9992a553f3710ed4e40ccaf2c8baba63a24bb23d1	ThreatFox	2026-08-12	family=unknown | confidence=100% threat=payload
+dcf2ad62f04a113ad4fb9e92bea45597badc76b6fdfe9a666829dc9186551651	ThreatFox	2026-08-12	family=unknown | confidence=100% threat=payload
+47a24d074131c35a8abccb79a958316165a5827b96d446c5d31f1f7b0efa4c4d	MalwareBazaar	2026-08-13	filetype=elf md5=f131f0cc29b8f2481a6681093d53f164 sha1=161b969d92ed9bd7aa81ffc95e598cae03766b6e | vt=17/75
+677613b506d73c2be470e60eda9ec4aece981468d382b23f2ed0f671656a84a6	MalwareBazaar	2026-08-13	filetype=exe md5=28593603046302147d9e05011665ebd0 sha1=cc08b84a18590d954a88aaf0844bdf44bde060f2 | vt=21/75
+4ffb7afc5a85fe8d342ed584cce1579240124c74f11808ebb178d33da8c79779	MalwareBazaar	2026-08-13	filetype=exe md5=a64c683e7d79e9f81ae388cd0ba05173 sha1=0304613134a48199b7e21153a05309c2e9fa896e | vt=11/75
+275aeaa88d853ddb93c6e3c102beb1aa2ba41ca1b68af25b47781d9f4460bc5d	ThreatFox	2026-08-12	family=osx.amos | confidence=100% threat=payload
+35ac7fd4f6a4a0c5205bc8ded0e95e8b	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+53189d7078ad0dafd0839c7abae6e7341fa231534d7679d55b4eb926a815f9e3	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+9d8769b7f24569f7354e9e02edb7da70	ThreatFox	2026-08-12	family=py.stealler | confidence=95% threat=payload
+30775e2858200f6e4c8fe45afd8a9668	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+9ad28b6bfe14bc39c7d39dcd8a14bc8de2bc82440bf987195282cd8da6b01e21	ThreatFox	2026-08-12	family=py.stealler | confidence=95% threat=payload
+517911f9c99ca4a108b8ef55a7ebb146df64115645c11a414acfa12e7ef13d21	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+e0c8055d7614d54fbd58c39fec94bfb9	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+954a464ea9f549bb6b8d981bf74975a4	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+ca69ffee2100206195db76e46b62110ac0c24f00b4a6a747f3cdf23f7349e3f6	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+caf81d3443e34f121fc641ac93d9d6e68e12ed08e365a222000ed1d81aa52bbd	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+a26ba6f15c730b9d942e53402fd6b5f0	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+b1067b88b5df6604a5d44ba996eed92c	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+fd977ee7a791e0145dbbda2063bed367ab71645e8778d7411a5df87f72342a32	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+f7ee44b6744bec701d3079bb9b9a0a39	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+3d07d921b00676d9fbb42130d30aa697917edfab1108e91c935abf11e7194302	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+22ef34056565ee2b894e77884d2d8abc160035e8be205beb0c9bcd627a6e5ee4	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+9623eed7395d431ba8f0caf6ff0aa6b5	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+a80b168e8c58817e8a6bc21d0beab517	ThreatFox	2026-08-12	family=elf.kuiper | confidence=95% threat=payload
+6fc1a755028e6cf2d7e30daff9fde36bed33bf0aa58ecf2c2172e1f4726888b8	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+dcc197be262948075fc309eefde4269a	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+b47388d22151e585b1df5daaa085c7bce422fb4741090c54138eb74e847e80a6	ThreatFox	2026-08-12	family=elf.kuiper | confidence=95% threat=payload
+7d836ba56c3d4e885d9afb613d48b508f116ca088b08d16778fc96f0ecfcbfaa	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+f8c9a1475fd00ddd2313a375d949bd5c	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+026cb64a22896b8dedda15d09743ef85	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+a65817e195fcd10747c660a095477db65d317dcf1123c4a66b5b911765522f73	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+18758ab8f3baf84b20fe9cfff999afae	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+db82d2e981b520a41d5b37fba7923eb3f10f4f9cec14cfb15578735cafed7fa6	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+c47bc35c5156c22e8fd944390145f3f6	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+0418670d867ae2d6481d618a1cd049c43649b834a1c501a817e5c06b3df9601c	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+6e8acc3e0918331488137a328c8c8256	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+c480d70249e7bf29bf86a39d58045a134cdc9dafd21a01fddace4fc69c64f840	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+cfee3ef154667d22299db2cf0e6e8f6d	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+e82442c4bd6886a8ae8923c05cfdef45ef6c7e19d4ea0710a567f8dc3e776f3c	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+a30317a63bcabcdcd88ad41aea168023	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+dad6eef7282e870027c65af61f7389e12288667efc28625deda908fc08da382c	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+a997de65fee3d2660eda9946471f3b8c	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+32c46219516fbeed17522e969fba3fd16639199160f039bdcfdcc839ed97d9d7	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+ee9330cbe7289c6c848cc7736069c9358d24dbef1e294689e6fdb0e9b3d0aba1	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+89e8137110409d4b4e369118a4c7a759	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+bc652b3daee51fb12d20243fb85d9e94	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+99732f63e949eeffceb1c2a5022e77626a2bee6684dbddd31c759129feb3a5c0	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+f240fcd6045c4ed504dc40ca77e4ed1e	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+26f5a04d5b0650e00ee0dd74ba85c4915b3465d0b280e9d66418aead8c375a70	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+c35237f4e5e0b03127dc0024ea6c8dd3	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+c9fd6c006c7833acb5417db9a98823bd6e7836339a8485b8e0a9f6e156793530	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+e38d1678928c12ca030390d295abf193	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+0261a9267c0c14bc8b0d0a65cd98431d7129887340458ec434764d59db8e4aff	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+e2fbe4259663915ce9a8130953e62c5f	ThreatFox	2026-08-12	family=elf.kuiper | confidence=95% threat=payload
+8afa292780fe21d583fb6029d8cdf4f6e7463551004d7bb9a48424d0e8913f02	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+5c2acad94a032dfa1f13b7cc6fa873a8	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+3dc3a6d4431ce10cb1d50c7f0693297ab5bc146b48a78dce20e72cdbfec531d6	ThreatFox	2026-08-12	family=elf.kuiper | confidence=95% threat=payload
+79c8aab13928e098a14e926a31d5f0e45b757ec1a16f5719620e143d6247448d	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+56d5c918136e6c55dd13fababf8d7cd1	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+52250e007686601a8058a81495045d70	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+bfb2f8066b380d622b3b9ce884cf8be789a3ff3dc48409ce13afc522e032ae86	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+9131b67993a758f66691d3caafdd9d92	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+b56178afabae918546daa871cef4e5d735c5a3f6d55ab99057d4399da3524007	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+e218458a55fb3c24b6a57dc0069c5459052346c0b21a7f39f47966ed5b355dab	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+8d657dfd97113c1e4dd3a5d5a9c8c6b5	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+0e34168d76e3242205e85f7d4cef6b23	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+daf0fc05e9868757403adcaac9c9ad7420c0b03f7a8682cc2de218691c80ae94	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+81c77db27424d8f51e4157c7af628253	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+a8664ed5c458be8b3a42d74273f16e6311bbf9b2a307896a5074c505cb085090	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+9bb6fa935cc1606308fae4980d5d880cc76db8e96e5b4f73f7278b93d5433f98	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+7103319d61b7335a60755933e264c40f	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+9ddf65f2e2ed1525c0f78ed62579efbb	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+01770ee7687312bb30ca56990769c8dd527acc9e61956ab40ab5c75216f831dc	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+4d505705e19a7ddfc184cf6911536d2449d564ef6afc26b5e91c3ecfd19b080d	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+e246d554ab5d7cbce5f0dd8956d22e40	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+60266c619ae01caa5de17ac6cc8580093a830e1663cd710571542ecb9ca5a872	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+4d90b1e99d379183f7d5c6d7f4652a60	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+83c5950a60b559579b88052b0072868f	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+498666399cb1eafb5e8e2998d430ab67bccfa7b511e8bcb6be5011b09548eac4	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+0c727b71e15797ea16dc3ff98641b67d5dea0b101965711276a72bc03d2ebec3	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+b0030329a6f1600f4824f6af7624a6da	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+74bfc2510a175a6b8da22aa473d57713	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+f6e3e77e61728d3700220f335da269a2731255f989fa6e37d132b81f37641c2a	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+9a67c9b6e5615f6a2fd61a4fe735ecaf	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+d09dc67d4f9aa40df7d6a5d71b73a2f519e4c4188d2016a51943799eafd28599	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+d9a1b16e3fc0d328c3d1b79e8fb8ff1dd15846577856506dcb025fb88171e439	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+cc8a16c52d504291c9b0786cfcfe9078	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+4b4a326eb368c79cc941d9c159c8bae64e9f1678eae59a20e57e9a2debd36129	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+1e84b9aeebe223c59876380b8f27663a	ThreatFox	2026-08-12	family=elf.kuiper | confidence=95% threat=payload
+1f15b8c3999c5be1ca18960150b6830d	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+a664c20de906022ed15084333d29baef039bb1b3a9eef796c64b9f304a2c8035	ThreatFox	2026-08-12	family=elf.kuiper | confidence=95% threat=payload
+796a9204c0800bc08b0b618072a270bb73ce6aa2f2c3c4db693f22c3d4ad4841	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+4bb01689507867d905f316a8df277f16	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+26a023345c27a0a1d6ebc732a11e1368	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+e11d220af1f2fde5655d2523207a96be7fc286ef5080f1dd88b3e2db47172cd8	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+04b118addc210113bd78f19b701a4efe	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+85580c4a570daf046f0ac5dd88b5123af2acce5e30ed3afcf29001e8b963fd75	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+f2536902e1aa6038a1ba0da46036fe2f	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+21f4413a443509325e360665c57c8ec70dbca2bdebc7a877cf677bd002bc492c	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+d506288b76b34497fe3e54d3bf479c25acfaf5e6d44e74a0d56e0079090654c7	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+98dae1e323b9fd9d21bca7dcc735444d	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+22f293d0d9e9f32fbf1269525a2bd427	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+a7048132a36eb057926831ba711c0884617688a95ce8fb28445e9fcc8a0cc201	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+a5e57e5a30cad012f4267e792cb3448ecaebc34ab2f1b5f4d086816c01c8c578	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+df3cc875c6a7d205c2994161c968a3f8	ThreatFox	2026-08-12	family=win.vidar | confidence=95% threat=payload
+a4e82a110c505c1fa42956ad1f7c105d745677148a93f64d5c0a23c6b63e219f	MalwareBazaar	2026-08-13	family=Mirai | filetype=elf md5=b3302fa48501d642d935696129bf53b6 sha1=46deca297c14ded0bc38583d4d8f85a3e7177e24
+391bdcb9558ee696f7ed9f8b45ee25c831ecd103340ca998b68716711e6c429c	MalwareBazaar	2026-08-13	family=Mirai | filetype=elf md5=a485f013761995b33cc9db9a47409941 sha1=c5fe15d0b39c6e0a9d19d1d4f4340fb690d58c6f
+9f7ef60eca04d7f3153e9226a20ce34c0cb798c0f31dbceb91a58c724445469a	MalwareBazaar	2026-08-13	family=Mirai | filetype=elf md5=33d50e8565e727233dfb52c6f501349b sha1=53f4ce70942af3ffdd28c94ab950e39010edabef
+ae0049d554db803483b5677a2bf7995c6d2aecb8e036978e6e6169afa88d44ab	MalwareBazaar	2026-08-13	family=Mirai | filetype=elf md5=b08c1b8aa6067e4f08afd6b16db5bd3f sha1=81f74208ac2f2455efa6c3061b8daf9af4718c9d
+0ade487718f7253ecd1e325ad9adeb09701289999a05412e94a3a01c02e701b8	MalwareBazaar	2026-08-13	family=Mirai | filetype=elf md5=9df68a27153fb6f1d937bc5a23cdc83a sha1=e259daeab5501a8e995ca501a345b9d8d161069a
+8cfb9a33dd9e40f1912c9332b91c3308e4a59883824dcfd900bc90c86ee7df9c	MalwareBazaar	2026-08-13	family=Mirai | filetype=elf md5=799364fc7130bdff64cff395ee5862dd sha1=0e565f3978e1a641db9ce3899017badff0d43542
+fffc7c1ca08e6cd9b373e2ecb1b278caa6c4c1489bfa92577c53bcfa173b847a	MalwareBazaar	2026-08-13	family=Mirai | filetype=elf md5=28ca801fb01550dadfd7bb0f5a08cc89 sha1=86e00c0d68d21384187a7d3c8e38b4ff467ed1bf
+b571ac0a13a864f246d66f55ba310b9df8d0a71caf3c773d8e45e237305d0e6a	MalwareBazaar	2026-08-13	family=Mirai | filetype=elf md5=fae4999a45200182fd615b31ed8956da sha1=5912f200cba4a2a2136b80e52e379ee2011b3ecf
+1b3099234082a8287e83b74e649826d495bf1d9e8ceea1c6766198e8f9376330	MalwareBazaar	2026-08-13	family=Mirai | filetype=elf md5=fe45f4a8d872ebf8316d161faeab5c48 sha1=2e78d663364ebaf05e7d4b7a4a933c3a65306fe9
+12ce0d5bcd316a2aaa3f789f4e7de022	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+1414b2b93358ccc04878f920f59242d4	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+16573b21ac4e52882fe7a2c9713d19d9	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+1ca333874544155d462c90d4b3882ffd	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+25b1a83140cc18a9d537d1c2c3a1221f	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+2c0e1a5efaa707656380fca445a166d5	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+2e93f4fd7b2fdc177dd2bba248ec1ad3	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+33b64d40ac1a5ffefb1f22dd75d12184	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+54a8fc9f54db580c4c0599ea5ec3a675	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+550eeef212d9bdd103b24b517311f603	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+555936f73595c30677b062a5abfe1aad	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+629bdda67ae3f42101f77cdafb4a44cb	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+6ae642656e38a7f62a60ca32afd86254	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+7e6f38fc19fbcc7d86058c84e2468551	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+82325d35c55cdb836cbb04ccadd4238d	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+84cee9591649a267adf4b178a8f45774	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+91eb55f8b5210247cdc55ed6ae1dac6a	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+9f4b9b4832d6ff1c5fb1e84ecddf68a4	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+a0571f2ae3dd6dba972ac8cd26786336	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+c63a6e9930f831c004eed9780376117b	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+cfe835e8a9132ef190c7eedf2cfaa9e9	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+11f9fb29f2cc142e81c804f53599ae36282c95b3	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+1371b2b2da10ed178d26a7aad191634553f865ae	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+193078cda795dc2f12983e9b66821f7e67c6495d	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+1eac0c636edf181eec0315ffe3b5b1e310b1a352	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+217ab41d543278d0ecce797a71ef38a6bc1493fe	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+22fa5c967b0775c3f3398dcf5dbb46ff80e1708b	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+294ecf0550308dff9df0eea86ca127c064b3bfb8	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+38ca1bc31ccdc1c650720abd76bcc619532c0166	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+39060c673aefa0902cb5fc787fa53364cad9ed6f	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+48d011117eacf57128c7e473bb5d4d69e3d41ef6	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+50cf07b97ef999e9fc5c7efae19d0e5f39db39fa	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+56b819cb285dbdbc307268b4fadbddaa61319bb8	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+65ca7e9363539282c2670dfab100b75c9bfb6253	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+67e2a1e8ab963086bb768b28307cf58dadb0acc7	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+6feeba25748996d3928f11ef774122e02b4b8850	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+82a35dd0ec20791bc3161a87fdb6caa68fd3d4a6	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+850680506df7892d43b3382f0f89a06ef18837c7	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+852322e063872a025b711d5adf08531eac36a265	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+8e665c12b7d8e80c72d86ed4425663ecd74e453c	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+91e66d640b2a570bd83b408b51ebbf21e95e7469	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+a1574476a616599a202cc731a6d5dbf9b3a635f0	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+a72089566a711ed0781d5a36e3c289de0de13e2d	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+bc2bce53d71533c2eb1ccc30ef252ea2774d0100	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+bce3d9b06a3fc2312fe5be213f3d98b9350c9b22	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+dfd19ee8b550f21b99d63ce87d039d1e8e1e111b	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+e05575afe5a01d150daa8b4bb935213cc0e538f6	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+e2e836d16a1b50d4d091f7ae507b82c0a8e05376	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+ea2be784b2c08cd6f116e14079d6583ba606c556	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+ec730da64f9feae4259ebc88113c5cebdf2b1ad7	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+17f8231dcfdeee8ff3aa14b97375ba6a55e1fee500833e2d6191713a2ddc0a90	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+1c2da449573b8355c68d7fb16b6fda3c010ba224952374bd02b6d8e0a3b5a03b	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+22f01c554cdbb22afe10a12c55a446efc5fed2a4309196a4a298147b6655b121	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+25d096b74ab643ed1669c5d942f93677d7fdfdd30def6e0dfac4f8062b4a0af0	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+3b98169f7d9f8a25f466c64a63074f5c09901ad568be89b8dba28018898a0f8b	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+3f0eea6c320e0d5c1ad83a00c02d3ac20dc4ef9e6204d7866211cb315436e0b2	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+43410e4d540d83fb46a9e745950217073464fa79b74601b8542fa98127c5f36f	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+4b51b11b4f3548f5c69ceacbe6e8ea89dfea0ee74ae373e5f02616b53caaf9cf	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+53831b969f257da4fd13966fbebbd793e052e71b901a748405f7560ba1c117ff	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+5a0c716f0264ece8fa7a90b498886cb34eb8785da34724d4001c2b67abacb4e1	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+60294bf6be02361fa989de9d504f1e11563a34d45db5be5b74868e80fdb2a41f	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+653201819cb651d397c8c01f36036cd317e53dd1eb61a337051f246a3008a11f	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+66e4174630c8ff3d2f7236b6b3bb3201a82655cc6a9d39702b8ab243cabea2dc	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+6aefddd5825d27b2f5c3c3ef339d0731fda0757f50fd843d9909728622f174ec	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+85c1e56dcd1f6228915262b55ac29c9d5ec83542b0e7ac66fedee6be5f689be1	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+ab91a5d6365a21b89a0cee76148abb4fe98b05b4a0c8cea99f3934a12b9bd432	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+b7620d95bed4cff8ab8dc779f2295badb8009a2b5aa59cee7f971c1abc33d16b	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+bd50868665605df7332702b7d70942cf63f273a88c99c4a7384deb72d31611aa	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+e5701b3ec6b8d1132295098f1544a5ac98617eb9d188db7f625627cb57c1895d	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+e9f0a03dff09df07f830877ad49109ed47bbaaea184c4c9f046202d73f0932e1	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+ee91767b80e5b1545777672f3596d6960281bdc3f27abe66c563370ab6dc9125	OTX	2026-08-12	family=WindRelay | pulse='Gone with the WindRelay: A New Malware Combo Behind a Growing Fraud Scheme' pulse_id=6a7c6340682f0dc9b225d8d6
+3be20fa1dd01b13b0663ced02682332c	OTX	2026-08-12	family=GoldDigger | pulse='Striking gold: Inside the GoldDigger Android malware' pulse_id=6a7c732c803c76b919db7963
+716bcba8eadd8c57f635a1a6350a5161	OTX	2026-08-12	family=GoldDigger | pulse='Striking gold: Inside the GoldDigger Android malware' pulse_id=6a7c732c803c76b919db7963
+7d54b0d2aa4b08244398e93a65eb3c950c5db4fc	OTX	2026-08-12	family=GoldDigger | pulse='Striking gold: Inside the GoldDigger Android malware' pulse_id=6a7c732c803c76b919db7963
+8d23643838a92177ead29f2516033f79592ad0e6	OTX	2026-08-12	family=GoldDigger | pulse='Striking gold: Inside the GoldDigger Android malware' pulse_id=6a7c732c803c76b919db7963
+392b8ecce716ff0645d53f8831be46946cf4931f9124469c1f38b7d3e413aaf9	OTX	2026-08-12	family=GoldDigger | pulse='Striking gold: Inside the GoldDigger Android malware' pulse_id=6a7c732c803c76b919db7963
+9688608017f35b48a719f529046172261af1d28a4ab2e80bc119cd1998f9bc6d	OTX	2026-08-12	family=GoldDigger | pulse='Striking gold: Inside the GoldDigger Android malware' pulse_id=6a7c732c803c76b919db7963
+d873c2f85b4bc95f639aec333cfc977a89c2ec36d06a545f59a35f16e4c41685	OTX	2026-08-12	family=GoldDigger | pulse='Striking gold: Inside the GoldDigger Android malware' pulse_id=6a7c732c803c76b919db7963
+c668ad9966fde17f8ea32339c958b506	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+5c5059e80d808ef02b3da0435deb143adcadf059	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+002e1207b96361fc4d53b10621225d61700003241fa38caacb411384b3d51135	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+0120a6396952aec3f05ec0b0efe25e2a1b73545d55d74a3ac0bcd359d29f52bb	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+0420fd9e5f9961458604909391fb0f1a353c17c986b55fc5722c1b68e41865df	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+0bda4beded9c2923fe16f20b7cbd7baf1a5b7078be5cde715592529a974f9bd9	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+0bf85d9065feb20ee946acf77c985cc7ec78de048ee41d8c5931e0e88873efaa	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+119ad3dce05b5ef3db5a76655ac050eac51e318f1f31351ac103693a0a849158	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+131c27c3dce040979044ac1d363050c5d226af76aef1454bbf87c7193f8fc747	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+131d8f72fde45c5ca1f662c510c3da16fbcd8ff6ef9b9fd893c25a9c8e8ec205	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+14d799f7897d25f7cfb4d1c86f43c791b6d778d2efd92b5fac4f65fc472bf501	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+151b2dc70d141c12a33d8e45a80659fc53a71734e27233326bff150ac87744ea	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+16bdde15cbf9190883c146bab495c8be73daff4fff5ffbf86b4ee46847103fba	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+18683bba19695d325372d195634afd2f76b14896ba68225ba51ea5a039f2f76d	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+1aaf59f05bb724d501cc9bcd6642ab8fd7347cf274d46c24719c9dced9b22bea	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+1ae423e91f6cd679f9ea5be879b07379633b05cd850c37a8a65cdeaf508d097e	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+1b25c3d56fdb195b427a9c3bfc1f0e98e77a15322e8d3fc53a18edcc4891847f	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+21ddfbf726caa6d0f32a6bbce8e619f75c81f884bca48564c7a0e5a84bf4bd39	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+22de84e8f29cba932cf65cf4dc1d333cb8b2e468204f97030712bee32691ac3b	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+23b37d2ebe683cec3b145b6f2234ee728b99228cf3774399fcfad9502daab9a9	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+248ded4723e9f5da793e5e42d1ba7c2293dd704718f149b84b3b9b818a1f51db	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+2952d72ad1d44f3d424600b8fa4076794e2e072ab46936012a5fb872c67ce189	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+2b650e2e2c46a52378aee70fbaff1ce5e832c759c5f937532047f52500428c4d	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+2c98781e39a091b370ebd748b495c45752b2c54cdf2c36814358c8c6bd3ae912	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+2d8def39b76ca17b419e5084832105c0167a171fdcc14eebd0c872ccb7bf9b0c	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+3b7a80fc62eb8b248fd0be0d94c78f1efe2f510499c68865a6d0c4ead6bc4055	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+3c509ec732979d8c91009d2c9f898bea81f3fc4064c3c56576257f61f9bfaaee	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+3e2bc0bd2eb84282086cc5946673b22414a16e982402f1f05ea57059d2962588	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+3f2f69a8403e6b4e02ebe65448caf6abb8e2fbd1f7636ec71599f2d2d5fac8fb	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+3f67b777660241a1afc39f2ec388cac933a9eb31b3a34bddd12e39e663f1b566	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+43d597783af656a35184021f5e20686896463a1712f9216e0217a2ca740e3935	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+44a4ac119349f525d877728b53fe38453a516881d577679caf08ab69312a695f	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+45b2ba7c7a39817e1421f2abe2f869fa16af9651a6c863ac59683268fb391fe6	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+48bb091e0cab562fe094e0ef6a77b434dba97380c09a707220cbd9ca37999484	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+50ebf107d522326c9a9db8821fe3263aa5136964faaf5dd183657bbb52725f84	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+5115277eabf2d22d49dcef1e155874387d8e783853bd86debf7ff58588aae35d	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+5272917261d7091a59e00f9d09cd7eb1d3e111115a5b367f79a66d0d7c7b01f4	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+555360fb918b959176d669ef0ed40ec0b5ee57005fc625109891a16d02952462	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+55640ad319208915593db8ad43724dddf6e6e17fc6b0014affa69c90f5cd1eb4	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+5ab41cf20315d2ea1385967d588159873a65ef5581a0b78de06c0d8617894194	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+5c3d820e032592f47ffb4850ae0183749199b3e0dca3413cd0c3cb631e322f1b	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+5e97848bebf521766910d9c8378e98bf7aa1ce4b06aeb6c3f86c31ababbe9663	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+60972abf5425c191c81bae117f1dedaea13d39bc52f367d5dff9ad1aa4b9c5ca	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+62a879b0d1c1649cc72b2b6f61a8f6bd888625ce6e8a7aefe0a0461e4f27c525	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+669002654c264191d4660fbf757860d930175649735f81370b9f1af3658a304c	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+6b84eab2aac7754b99d04365a83ec374e3cea99cc3223118a5f8fd545a8483e5	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+6cdc895eda4847f700d6f82fa2e3a8c72c10da1e16455985df855372142ebbd8	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+71819a1b856b49e7f194ce60468ed8e5ea925c75d01484f4d28ffcf69d480b36	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+771a47120b935e218322046e838347d722d265b91f1afdef91194a5bec86a97a	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+78c108be692f1c45ed1da1988e3c5ac792c832a78d0b6e8e6550763156fe8f97	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+7900c2772680523cadc9fe4e07300d45500191ba64ff5b91573531b133840b14	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+7aa76237a7686583cc526b9d1a8486a52bd44a448d75ced51e1df4ba29ddb163	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+7b297f18ece81e87608e158288cc9c06cb9f4a8f1b2d2256aecf7bba8d7be2ab	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+7c3d0bebd263d3529132f2299de55a7801bf3ff40c833b13838be7a98ea3475e	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+7d09891e26d56a8bec44c3fe9a5791f3a93e8fa31539951ae6e2c40af83ba42d	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+8114e3f213713dbbbacafcd0f62884a7826139b434bb3c77eae8dce656477621	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+83a22d4f61b054bda53a2ea4f506e97d818c7c961d8cd3975c1f2a51443cf95c	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+843c4dc402e96ed72d7716d980c99e5dfa222a2a322250b7c3755a00d142bc1f	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+866564bb455bb3c9f3e15cbbc1dcaf75c533a224eb96c4b6d6739e114ee1d065	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+86ab5161f761822d16637d4d34b84ca6e1f66cea905aa27510620c9cf5f170d8	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+86c49174a032ebbba6aeb1541e2aa84da0933b2eac3976f8705451c13bc7f325	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+899ce01e7313f4c1cfcf07cb2456282ded1d6b6c57286762f2914a9d60de0146	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+8a8cabe5f94e7f4c0ccca97f0c361618ec944df03d8b3bfcfdd76a25dd8f7a5a	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+8ba3997afa07ac60312edf5f2d16357d1532a140081d638a9e4653768026ac56	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+8f08ead23767e1e4389927c40af167122b477ad17a98d388c863342dc9259c5e	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+9394627e9c44cf2226ddf50012e5cf47ccf7d3bd8afa2395c635a93637e23502	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+94072d60170fc72a528f68b2b3826638dbb7283c8906e8051f53fe16eaf054f8	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+9706ee93f9b4b8214293e2ca4a68525eccaacfea58b135dcb2ea661a099ee9e6	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+9789d80077998010c47a6a02ef1241eab11b69d667de8751b1e93fed6df913eb	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+9a19598ea286d5f6fa0b7ff981ba21aff503fb217757f4dfbd496ead01805543	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+a18b5a78143f004f33aafad998b518ad9ee4dbdec44817a6e9b570e727d3e22c	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+a1f0e6a30dc9753c5cbc80fd9df50eb44aee5a2349223b915b758af746275320	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+a4c8a56070fe6f613e79a14554d0a1dba2f70ce2b93319e72972943cc66edf4a	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+a7981dfccd8e4bdc00133dc15b22472c1677d6270826863caa36e7d58ef50de0	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+a8bee6c4a5860b0ae08a984d2a6d62c13d3e91d9514262998924d2e0cef88f7c	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+a9287e3452ab09144120ecdd20ed7365de589d5dcad28dcd8e191742d1ce5744	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+a9fd615fce38756ba6de8994f200e4b846397648138a9a0e6ef3b5952ef5e68c	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+ab5aba292c983db324987e9fde2e01fe24a979d1587888fcc7460c9489c54ee0	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+ad1c890f458b94683464c4d6d6d41fe63551c2c06ba2a1b8f71d8acb6ab16de3	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+add013bf7ffc8a89789a7fd0ae0ff799c620af9b2755b214880b6a56768fd48c	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+afca3bb9fb8d7a4ab4ceb9707f6d9a17352ccfb8ece83c68b01fbb419818e2fc	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+b3f0d48506ff868ba145c9dcad7622bc37b723155648053ce2e2e73d8ea30e93	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+b5458541732f91793ef89cc58ec5e46d04bf43985ab4e6dc5ad10b6da21581ec	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+c1faaff24d58af798c77d34405379df0a9e883e5bd1100a86d4c3e001414acd8	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+c4768d99445128c670a6f848bc69371872e4d6a2160dbe0073e62ffd786c94ee	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+c86f319f64d25f23ac29d9b53c9764f06a150634ee8e2d836424d460e5a99b52	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+c9295c923da64738b93ff1827a39a5cb8f6c71eab060de416c8175a4a67da524	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+cc2a6a3b4b771aba341293d2321e5f7b70cf517403fe44a58635b043e8868bdb	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+d14214e95c9d1ea850e508dfe27928494f2155a7597e4ea0bad9f70690abb397	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+d567af55c97b7a595fcde5082e37a752718044230c16704e24efb43025bed0c2	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+deba513e2dc52a2931e61f5ac6d550a7938c1f7f63f661867c09d6141ee98560	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+e5f2c7068ade7b87d24c3b94bc749c351d53609f5fcaa48dce06234beaa2444f	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+e6a414a53206e25d061a11e63c7d381ab0eb80cd3d174bd13551e2c36f8b5c04	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+e8514a2372172b4975f77bf69d5e8b7708cfa60157b064fcab13d7a62a99cc55	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+f0af281623b422c1d45e7006d78678762341288c05abcb62648ce55c6b63acb6	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+f50a01ae446adfcaaddffe215abd94b5643211e83d52acf5de540abf9fb26045	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+fa53663bfb80e197483e1a1bf123b94fa869e2d7f42b5fdfbff2869589b65a05	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+fa98deb16bd72f2f77349c8c24de674a007a3d1ec8e88dd590791a57c08ab8f6	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+fd0c7713520bd19c3e2566e93696532aa7da39a0c5ce1a797b67ce777b56d395	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+ffe5853d19be1acfe12bd681c7390d8fa88534a471020e6866a9e7c37d01fea2	OTX	2026-07-13	family=SpyGlace | pulse='Update on Attacks by Threat Group APT-C-60 in 2026' pulse_id=6a54e01e0597d81e8ad9f7d0
+84f7e396a48913851a10cc78c5cc22a25634564abd0694465236d2f365e2bdee	OTX	2026-07-13	family=SNOWLIGHT | pulse='How WP-SHELLSTORM Exposed 1.4M WordPress Sites' pulse_id=6a54b716f22fd928cabf4eb8
+e5c9bb3938f2a24e755ee39073fc3aca	OTX	2026-07-12	family=ROKRAT - S0240 | pulse='Operation Capsule Vault: RokRAT Attack Chain Analysis Using EMBED_PAYLOAD_v2' pulse_id=6a5414fab18f9d7456d7eda8
+b804b9dd2726e69fb4f496a6872f90edf9146ad8044c6d3a592040ce1074a5d0	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+5b71b49bad415643ff3e291ee3ba550e5edfd584eb913859dadb81634450e7e7	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+3d4e7187f74de912f9d52f5ba6a95bd41868348b16583d72957d732c0ed8f0e7	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+3466c3524f13cb3b7c87819e619bdb482ec9034a57bcdbe0240af6a9a530b02a	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+3b9b86feb3b789dda9cdfe5425ccb7e1feae9fde2cc158ff962991218a98f53f	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+2922837a8d049bf0b51f0f9b27340a377b27dd1912675e2cd82056db83ec7a19	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+744b8165b6161cbd1d5ecc423ecfdb8306485afdc80262000ab3c6908881ef9e	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+bb81786286be437b3ec6d562055767097c9277054e1d09172caa96376451481c	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+1db08732a7f63ba3487b10f7c13ebaaf	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+31c4eeb36c12d0784be6e21ee40a2b60	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+8dcb875c657f72e446d1ea88a1e8d82c	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+3aa2b2eacd07b23285baee2aad757c7094955bbf	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+3e9720f33a958795f9744517cde035c27f8d3764	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+c1b0f0243c5898161ac71ebaead265460d2e4077	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+1289b528f53c4b94f51a151ab1422797	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+14477fd8ce26e5251dddf34a003364bc	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+3d393f2bdb67d15602a96a1496a82942	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+bfb25270df49bb391193a59281d5ffcf	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+12529884496d55a7a9aa96765af4ea4257499fec	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+7530ac13140d3794ad5a6680ee88ff756c44717b	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+b42cfc33c90e2f2666e6a347969fea05ed09cae7	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+f2a5f6ad71f4c1dd1acd5dd003fc362516e36287	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+0562c588997fa9961d55c6ab1db2656344324bca8db9ea7b64fe309132b2399f	OTX	2026-08-11	family=CNCMachineRMS | pulse='CNCMachineRMS: The Undocumented RAT At the End of a BabaDeda Chain' pulse_id=6a7b4a5db787f887767b8a2a
+1dea4975f7aaba71bf7821fcf62deca470ef5e21f45c947b103ddeb836ef9b81	OTX	2026-08-12	family=brand impersonation | pulse='737 Chrome VPN Extensions Linked to Brand Impersonation and Browser Traffic Redirection' pulse_id=6a7c183cfe509b035144c5a6
+13d10bc99f7f7abe7ee0902be87920b73b2ea41bd9683dbfcad340dacbcdef79	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+1de949c71efcfb0ffc41f33d38833dbc4b082075b1a540fc68c18c535d7ad86c	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+21c3ad4838c4324bc5f081021da5fb2e9073d0c9304087811c21eb47c9e22762	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+231b1ef8b95bf77887d5377e2a60f649035e78f543af1b82877db36a5759d858	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+29e24c007549e51319ff3aee011da6f9f93568e8c85a5ad69c9e53bd3f4533a2	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+2b4987c07a3d9a9a5d1a9bf4efa3d1903e775090b611710edafdc92874265ca8	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+2db25ac41a66aa523c79e23e00443573530dd7bd82b8371bcc87bd7232e141eb	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+3601060c62edeeaa49def6a13be6e126e1024ce011faad4e2d9f585ccf6bd5a6	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+396192d92d17ace1a521f1351eeeba2825e60badd0d799cc5c338e4934b3c82c	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+3a02d0d798e8d35555776886d92b20ff38a101c9ef7e0eebc8ce5d259516525a	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+3b6378df8442e63a6ed7317075913e4720847a510d95022d4a8347b2637c245d	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+4c9b804d6155b29f1e27a9ffe531e10bc42a7bdab42f905b50146bf2026768d9	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+4dd792c9f672bbdcc8d363d745994efe90f4ffc5fdc2c059c8e379a48ad6a68a	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+4ebdce2f47c23ff8c9e8e80c8b5239c7a5764da31cd3ab8f0505926890adc105	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+4fd32432341dfcf54d0517a6bbc38e5d265be70933493e4183c2a340cdde9a2d	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+5278ee922838352f1480a73e971161017d643a80b7ec22bf725897dfd088696d	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+590fb6ae19480d694e08ee85859cad8066f2f87e7e5abba2960c6d115e1615d6	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+68d4fba7b1300a59cd6212c08910a260cd71b40cd9f51cac933030a68faac0bb	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+6da9b1e6f3315ceb77dd14a937a26cc3602bf6a7e2c2ecafb3c65ce5319837be	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+72dccae85e062f541fecad9ec7a18a3123e7ae5ac5d53c91709b53a46dbbd289	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+743172aab606974b054a64561534ae66baa3a840657f79d7c6fa18350e8d45d1	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+75b93a7103b0562f6497d30052c0c5cf7aa58c1bf0e9297022b74469a7f096f1	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+82268052f94df6f4870d02e57b18d4c54136cc7a8c8d80ad162631f99462c943	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+8ce6c29f92dc45b1474417cbdff4ed0c18e58fa63e3a071ee9f85aa9d2aac07c	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+92106b0c62a0a42678232f8273f030b2d3c8e92efce81b98b9eec70cfe98afa1	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+a0578a2b7821d7e2c573530648f26d7a0d98b373ab24fb7f0c792736761e542d	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+a45144d22cac70a45d71cf4dffa4efbc373658779a56cf1300d6ac863d6cc7e2	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+a673ae661593c0de9bbb815593b816a6853dad6d55ad5042d2ef1875cd13d6e7	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+a738059ce07c951c31ab2da3d93d8f69bff32f9b7d933dbf5943441b9cc99075	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+acb97cec84e08b89f41967a24e965d1fd2c51751cef158f7aa35bb4306b87b97	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+b4082d21070d9ddf53fde4ea22524d09e41ec9826ce63cef3c6235e458d21afb	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+ba96c603e44046de703c67b2c3b7e4ca974afef7b437a0244418bc4edc781bb7	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+c2aa28bb5e2a749c693712008276f311edd912f689371ef9e8a1ee5fb4167461	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+cc4e06aa378a190f71384c03023bb3d18a6d66e297d46701220e132963d2e222	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+d578c28c9afe7457a0d81f6701332ef8197e8f7468de654935fb29a50ea66459	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+db3d69b7eeda2e35e23006bf4b7e206281fce809584207214fc213f9bc30376d	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+ea7056f2bf36c66a61ff787ff5be975a85f534c3c5ca178791dac2504db2c619	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+f7e620134ca935067797ab957317b346ce0df84a4e9b9ca54a6acc9b75afda4d	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+fb3fc5626f68677fb1269a2fefbe70e719211b4065e836ab92e06a8210139a2d	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+fecf12088843801215898442bd1ff3e266f29d14e29a94780e857f69c4915d6b	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+eb0c40cefac66574d6b6e7ead832ee8b40e2d8db	OTX	2026-08-11	family=FudModule | pulse='Shattering the Dream - When a Job Offer Becomes a Zero-Day Attack' pulse_id=6a7b8b7a783979ea34063bad
+c0b4a4af8a3a8c4b113d7f203fcf480cfac79160102490daf287748634b9ce23	OTX	2026-08-11	family=GhostDesk | pulse='Fake CCleaner installs GhostDesk Chrome spyware' pulse_id=6a7b8dab529ad28b12d29796
+8d921bdd1f5bc8c03209a5dfacfd9ed313497ac2e3f1b4a2000f4c474a464904	OTX	2026-08-11	family=GhostDesk | pulse='Fake CCleaner installs GhostDesk Chrome spyware' pulse_id=6a7b8dab529ad28b12d29796
+3d7411e2e445a2210dbbf061f3e8e3dd3476a4fc5d4a2135dcceb0bc705776bf	OTX	2026-08-11	family=GhostDesk | pulse='Fake CCleaner installs GhostDesk Chrome spyware' pulse_id=6a7b8dab529ad28b12d29796
+cfd9c0bcc89ebc68aae889b9b49bc8290c3764bce5f2c9ac8b5ba0ba58e9bf61	OTX	2026-08-11	family=GhostDesk | pulse='Fake CCleaner installs GhostDesk Chrome spyware' pulse_id=6a7b8dab529ad28b12d29796
+590b04e35fc0b3dcd9dabe82f2e96d4d1e0fccc598911cf80f8255232ee75fcb	OTX	2026-08-11	family=GhostDesk | pulse='Fake CCleaner installs GhostDesk Chrome spyware' pulse_id=6a7b8dab529ad28b12d29796
+ecde892dbc28af620ba8e311fa9dd4c66521c7fe95e6aadacc7cd9a5bb57d32d	OTX	2026-08-11	family=GhostDesk | pulse='Fake CCleaner installs GhostDesk Chrome spyware' pulse_id=6a7b8dab529ad28b12d29796
+cfa3900cefb447d89a7498224f2ecafa65b190336934811e6c1d4196d9b92452	OTX	2026-08-11	family=GhostDesk | pulse='Fake CCleaner installs GhostDesk Chrome spyware' pulse_id=6a7b8dab529ad28b12d29796
+0bf8f52b28291edc505a64962e6ce04387a9784fc5b18aeff53629adb1f72f56	OTX	2026-08-11	family=GhostDesk | pulse='Fake CCleaner installs GhostDesk Chrome spyware' pulse_id=6a7b8dab529ad28b12d29796
+0d6b27a00e79e8138b3d93b2c56b24d7	OTX	2026-08-11	family=GhostDesk | pulse='Fake CCleaner installs GhostDesk Chrome spyware' pulse_id=6a7b8dab529ad28b12d29796
+a9c499afa0278279acd80597cbfc1e47	OTX	2026-08-11	family=GhostDesk | pulse='Fake CCleaner installs GhostDesk Chrome spyware' pulse_id=6a7b8dab529ad28b12d29796
+5f7f11caf5992f370ed9657ff898b96fa4fe17ba	OTX	2026-08-11	family=GhostDesk | pulse='Fake CCleaner installs GhostDesk Chrome spyware' pulse_id=6a7b8dab529ad28b12d29796
+e4571f7b27285ddc0e39d005a9f1109a9335820d	OTX	2026-08-11	family=GhostDesk | pulse='Fake CCleaner installs GhostDesk Chrome spyware' pulse_id=6a7b8dab529ad28b12d29796
+918fa52ae45ed60ba7cc8bdc99c3cbe9ab92e0375ec31fc05d0d4513be11c593	OTX	2026-08-12	family=CornFlake | pulse='CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials' pulse_id=6a7bdb051d6a41c7ea440061
+be99857449d2856dd5a84e21c8a3d5e0e01456adb44062ddec5a6b4970d8d42c	OTX	2026-08-12	family=CornFlake | pulse='CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials' pulse_id=6a7bdb051d6a41c7ea440061
+c6f4df18cb880500f3921a179c3a3766	OTX	2026-08-12	family=CornFlake | pulse='CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials' pulse_id=6a7bdb051d6a41c7ea440061
+fba867df17721879df9d8dcca68d6900	OTX	2026-08-12	family=CornFlake | pulse='CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials' pulse_id=6a7bdb051d6a41c7ea440061
+510af9bb00ff5d4a6856b1291af55db9f6e13551	OTX	2026-08-12	family=CornFlake | pulse='CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials' pulse_id=6a7bdb051d6a41c7ea440061
+937e75e0e1c82eecab69e9b8ad481bd7e0845308	OTX	2026-08-12	family=CornFlake | pulse='CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials' pulse_id=6a7bdb051d6a41c7ea440061

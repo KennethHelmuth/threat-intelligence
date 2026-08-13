@@ -1,0 +1,32 @@
+title: Network Connection to Ghostdesk Infrastructure
+id: d7164361-1bd7-4016-9d1e-8dd14cb25894
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Ghostdesk.
+date: 2026-08-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chrome extension
+    - ghostdesk
+    - keylogger
+    - malware.ghostdesk
+    - spyware
+    - trojan dropper
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'ccleanerwind.top'
+        - 'liderongrade.duckdns.org'
+        DestinationIp|contains:
+        - '193.169.240.81'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

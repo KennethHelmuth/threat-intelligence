@@ -1,0 +1,35 @@
+title: Network Connection to Windrelay Infrastructure
+id: f2b39984-3d5e-4d1c-893a-89fd1f1f166f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Windrelay.
+date: 2026-08-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - android banking trojan
+    - contactless payment fraud
+    - ghost tapping
+    - live-call fraud
+    - malware.windrelay
+    - nfc relay
+    - nfcgate
+    - social engineering
+    - spynote
+    - windrelay
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '185.100.87.116'
+        - '185.100.87.223'
+        - '213.218.160.48'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

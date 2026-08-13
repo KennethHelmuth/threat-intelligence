@@ -1,0 +1,40 @@
+title: Network Connection to Cornflake Infrastructure
+id: 7c29bed8-e0d9-4fe5-8c63-d0bb513eb85a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Cornflake.
+date: 2026-08-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - apt29
+    - captive portal compromise
+    - chocoshell
+    - cornflake
+    - cozy bear
+    - device code phishing
+    - hotel wi-fi
+    - malware.cornflake
+    - microsoft 365
+    - storm-2945
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'm365-owa.com'
+        - 'ms365-device.com'
+        - 'ms365-live.com'
+        - 'owa-ms365.com'
+        DestinationIp|contains:
+        - '38.146.28.75'
+        - '213.145.86.112'
+        - '38.146.28.132'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
