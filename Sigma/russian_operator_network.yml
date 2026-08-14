@@ -1,0 +1,39 @@
+title: Network Connection to Russian Operator Infrastructure
+id: f0d0076e-5d22-444d-8b49-4c63bda2a9e0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Russian Operator.
+date: 2026-08-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - camview
+    - cve-2017-7921
+    - cve-2020-25078
+    - cve-2020-25169
+    - cve-2021-33044
+    - cve-2021-33045
+    - cve-2021-36260
+    - cve-2024-53375
+    - cve-2024-57049
+    - dahua
+    - edge device exploitation
+    - government targeting
+    - hikvision
+    - ingram scanner
+    - ip cameras
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '89.208.97.165'
+        - '213.165.63.49'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

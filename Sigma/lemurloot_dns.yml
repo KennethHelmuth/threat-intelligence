@@ -1,0 +1,33 @@
+title: DNS Query to Lemurloot Domains
+id: aa98384e-3cfc-41e7-a6ad-e58f928a899e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Lemurloot.
+date: 2026-08-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - architectural vulnerability
+    - cve-2023-34362
+    - infrastructure diversification
+    - lemurloot
+    - malware.lemurloot
+    - managed file transfer
+    - mft targeting
+    - q4 seasonal pattern
+    - ransomware
+    - reconnaissance
+    - zero-day exploitation
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'pubstorm.com'
+        - 'pubstorm.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

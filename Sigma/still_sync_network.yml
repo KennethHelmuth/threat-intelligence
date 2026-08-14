@@ -1,0 +1,41 @@
+title: Network Connection to Still Sync Infrastructure
+id: a7848a8b-da2d-4cff-b398-3bcfb991b2e1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Still Sync.
+date: 2026-08-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aquilarat
+    - audio surveillance
+    - cyber-espionage
+    - eagle werewolf
+    - malware.still_sync
+    - russia targeting
+    - rust malware
+    - still audio
+    - still sync
+    - still toolkit
+    - telegram stealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'still.rpc.audio'
+        DestinationIp|contains:
+        - '213.252.244.123'
+        - '159.198.37.74'
+        - '23.26.237.250'
+        - '23.27.24.30'
+        - '145.223.69.143'
+        - '145.223.68.66'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

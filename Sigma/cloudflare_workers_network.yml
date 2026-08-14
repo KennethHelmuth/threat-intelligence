@@ -1,0 +1,34 @@
+title: Network Connection to Cloudflare Workers Infrastructure
+id: 570913cd-61e4-4fca-b421-567b5cc48ce2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Cloudflare Workers.
+date: 2026-08-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - brand impersonation
+    - cloudflare workers
+    - device code phishing
+    - framer abuse
+    - html smuggling
+    - malware.cloudflare_workers
+    - multi-stage redirection
+    - newly registered domains
+    - phishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - '2934523t5234535323973294afhdsfga.com'
+        - 'alasilla.com'
+        - 'bl.dase7.shop'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,55 @@
+title: Network Connection to Php.Shin Webshell Infrastructure
+id: ff8d922f-e79b-4c42-8ac1-45f2d1e3f0da
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Php.Shin Webshell.
+date: 2026-08-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Cloudflare
+    - PHP
+    - WordPress
+    - malware.php.shin_webshell
+    - webshell
+    - workes.dev
+    - wp-admin
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 's6ruklj35j.workers.dev'
+        - 'tubas96664.workers.dev'
+        - 'vwiue35687.workers.dev'
+        - 'wqczklqnha.workers.dev'
+        - 'jequfu.workers.dev'
+        - 'jteqjafoxw.workers.dev'
+        - 'kdkcj10608.workers.dev'
+        - 'kovolovo.workers.dev'
+        - 'ksyuu99210.workers.dev'
+        - 'mijnf2c8ej.workers.dev'
+        - 'mldkv26213.workers.dev'
+        - 'nalywu.workers.dev'
+        - 'pf13zvg8zm.workers.dev'
+        - 'potohi.workers.dev'
+        - 'q2ftyf36p9.workers.dev'
+        - '557carlye.workers.dev'
+        - '655particular.workers.dev'
+        - 'cwuia22936.workers.dev'
+        - 'dehamazo.workers.dev'
+        - 'dwahn22566.workers.dev'
+        - 'e6ednstx1d.workers.dev'
+        - 'exquw91581.workers.dev'
+        - 'fy1j23u7c3.workers.dev'
+        - 'goldariela.workers.dev'
+        - 'hibusifa.workers.dev'
+        - 'odd-bar-f4c1.workers.dev'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

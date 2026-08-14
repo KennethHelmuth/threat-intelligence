@@ -1,0 +1,71 @@
+title: Network Connection to Antino Infrastructure
+id: e881ccca-98ab-4fcc-bbd5-b91637626b5a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Antino.
+date: 2026-08-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - antino
+    - antino backdoor
+    - apt
+    - browser hijacking
+    - china
+    - china-based
+    - clientking
+    - cryptocurrency fraud
+    - espionage
+    - government espionage
+    - government targeting
+    - hackers-for-hire
+    - jewelbug
+    - malware.antino
+    - pdf viewer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'juliangip.com'
+        - 'sttlink.com'
+        - 'bieqiang.xyz'
+        - 'dm1.longmingdns.com'
+        - 'dm2.longmingdns.com'
+        - 'www.jkskhei.com'
+        - 'ns1.jkskhei.com'
+        - 'fonts.tarotfree101.top'
+        - 'fonts.chrorne.com'
+        - 'robot.avbliud.com'
+        - 'microsoft-flash.com'
+        - 'www.wps-cn.com'
+        - 'www.f1ash.org.cn'
+        - 'eastus2.wac-azure.com'
+        - 'mailbycloud.com'
+        - 'dns.wizkidblogger.com'
+        - 'eoycqqcyix.com'
+        - 'haoxizhiye.com'
+        - 'jkskhei.com'
+        - 'tkstream123.com'
+        - 'usnbweb.mobi'
+        - 'aws.baidupi.top'
+        - 'xg.browser.fake.top'
+        - 'xg.browser.imitate.fishing'
+        - 'xg.exchange.automatic.fishing'
+        - 'xg.zalo.chat'
+        DestinationIp|contains:
+        - '38.12.1.47'
+        - '103.87.9.62'
+        - '43.246.208.236'
+        - '43.246.208.179'
+        - '219.76.254.184'
+        - '103.27.77.10'
+        - '195.172.120.227'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

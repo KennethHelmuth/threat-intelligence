@@ -1,0 +1,30 @@
+title: DNS Query to Msi Installer Domains
+id: 6fec83f4-0be2-4cee-99ec-42800918af3e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Msi Installer.
+date: 2026-08-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chacha20 encryption
+    - darkhotel
+    - malware.msi_installer
+    - msi installer
+    - north korea lure
+    - phishing campaign
+    - powershell attack
+    - scheduled tasks
+    - shellcode deployment
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'built.3jkg8d.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

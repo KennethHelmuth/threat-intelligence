@@ -1,0 +1,29 @@
+title: Network Connection to Win.Moonpeak Infrastructure
+id: 05a7cd22-2f2e-43f7-8e42-86a107832c05
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Moonpeak.
+date: 2026-08-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - DPRK
+    - MoonPeak
+    - Stella
+    - kimsuky
+    - malware.win.moonpeak
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '217.60.36.94'
+        - '107.172.249.140'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

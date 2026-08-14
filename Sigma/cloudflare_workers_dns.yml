@@ -1,0 +1,32 @@
+title: DNS Query to Cloudflare Workers Domains
+id: 3043fa0a-18e6-437d-b240-b388b7d2c726
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Cloudflare Workers.
+date: 2026-08-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - brand impersonation
+    - cloudflare workers
+    - device code phishing
+    - framer abuse
+    - html smuggling
+    - malware.cloudflare_workers
+    - multi-stage redirection
+    - newly registered domains
+    - phishing
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - '2934523t5234535323973294afhdsfga.com'
+        - 'alasilla.com'
+        - 'bl.dase7.shop'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

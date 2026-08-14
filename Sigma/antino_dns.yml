@@ -1,0 +1,61 @@
+title: DNS Query to Antino Domains
+id: 5111aee6-21fb-4447-be7f-385c439b6425
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Antino.
+date: 2026-08-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - antino
+    - antino backdoor
+    - apt
+    - browser hijacking
+    - china
+    - china-based
+    - clientking
+    - cryptocurrency fraud
+    - espionage
+    - government espionage
+    - government targeting
+    - hackers-for-hire
+    - jewelbug
+    - malware.antino
+    - pdf viewer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'juliangip.com'
+        - 'sttlink.com'
+        - 'bieqiang.xyz'
+        - 'dm1.longmingdns.com'
+        - 'dm2.longmingdns.com'
+        - 'www.jkskhei.com'
+        - 'ns1.jkskhei.com'
+        - 'fonts.tarotfree101.top'
+        - 'fonts.chrorne.com'
+        - 'robot.avbliud.com'
+        - 'microsoft-flash.com'
+        - 'www.wps-cn.com'
+        - 'www.f1ash.org.cn'
+        - 'eastus2.wac-azure.com'
+        - 'mailbycloud.com'
+        - 'dns.wizkidblogger.com'
+        - 'eoycqqcyix.com'
+        - 'haoxizhiye.com'
+        - 'jkskhei.com'
+        - 'tkstream123.com'
+        - 'usnbweb.mobi'
+        - 'aws.baidupi.top'
+        - 'xg.browser.fake.top'
+        - 'xg.browser.imitate.fishing'
+        - 'xg.exchange.automatic.fishing'
+        - 'xg.zalo.chat'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,32 @@
+title: DNS Query to Still Sync Domains
+id: 282ffbd9-bd52-49a5-9bca-850ffca826c0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Still Sync.
+date: 2026-08-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aquilarat
+    - audio surveillance
+    - cyber-espionage
+    - eagle werewolf
+    - malware.still_sync
+    - russia targeting
+    - rust malware
+    - still audio
+    - still sync
+    - still toolkit
+    - telegram stealer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'still.rpc.audio'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

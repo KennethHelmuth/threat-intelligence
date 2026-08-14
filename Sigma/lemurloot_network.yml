@@ -1,0 +1,39 @@
+title: Network Connection to Lemurloot Infrastructure
+id: e15ddcf2-17ed-42c0-bc67-8757ad66ecdb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Lemurloot.
+date: 2026-08-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - architectural vulnerability
+    - cve-2023-34362
+    - infrastructure diversification
+    - lemurloot
+    - malware.lemurloot
+    - managed file transfer
+    - mft targeting
+    - q4 seasonal pattern
+    - ransomware
+    - reconnaissance
+    - zero-day exploitation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'pubstorm.com'
+        - 'pubstorm.net'
+        DestinationIp|contains:
+        - '45.129.137.232'
+        - '92.118.36.233'
+        - '200.107.207.26'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -9827,3 +9827,147 @@ c6f4df18cb880500f3921a179c3a3766	OTX	2026-08-12	family=CornFlake | pulse='Captiv
 fba867df17721879df9d8dcca68d6900	OTX	2026-08-12	family=CornFlake | pulse='CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials' pulse_id=6a7bdb051d6a41c7ea440061
 510af9bb00ff5d4a6856b1291af55db9f6e13551	OTX	2026-08-12	family=CornFlake | pulse='CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials' pulse_id=6a7bdb051d6a41c7ea440061
 937e75e0e1c82eecab69e9b8ad481bd7e0845308	OTX	2026-08-12	family=CornFlake | pulse='CaptiveCrunch: Midnight Blizzard Weaponizes Hotel Wi-Fi Captive Portals to Steal Microsoft 365 Credentials' pulse_id=6a7bdb051d6a41c7ea440061
+9a1c9e8f89df354e7704a1bdba5404b9	ThreatFox	2026-08-13	family=unknown | confidence=100% threat=payload | vt=4/75
+67b59851c48c89880b692e238e54ad8b	ThreatFox	2026-08-13	family=unknown | confidence=100% threat=payload | vt=0/75
+95d91cdeaf8991fec3618ca52a5d8a7e	ThreatFox	2026-08-13	family=unknown | confidence=100% threat=payload | vt=0/75
+1768e374535e5aeaec71002ab68838e7	ThreatFox	2026-08-13	family=unknown | confidence=100% threat=payload | vt=0/75
+6436a5ae81c78a3b38a2a2830bce2d36	ThreatFox	2026-08-13	family=unknown | confidence=100% threat=payload | vt=0/75
+57d0c8f4132cfe3d208f52a8fe89c16c	ThreatFox	2026-08-13	family=unknown | confidence=100% threat=payload | vt=0/75
+3b5381e4e1a32953a8af4b98befc643f	ThreatFox	2026-08-13	family=unknown | confidence=100% threat=payload | vt=0/75
+b24f5bf5582f6f0b5bc7ed2bf8c05c66	ThreatFox	2026-08-13	family=unknown | confidence=100% threat=payload | vt=0/75
+b072d316e930b12b03d3d58617ec0c14	ThreatFox	2026-08-13	family=unknown | confidence=100% threat=payload | vt=0/75
+ab49a2874151de565447e16c4e4b7c5f666fb74e7d54fe6e5ef94683b79bd208	ThreatFox	2026-08-13	family=unknown | confidence=100% threat=payload | vt=9/75
+d56031341a68a3f228450fb16ea51c28d2d699c1683529830c145b18e6596000	MalwareBazaar	2026-08-14	filetype=sh md5=e1de4dd0ad9120ed7453b8133178d660 sha1=6e3edfe1fd53ed3c15a7ad2472021c60ba5ea7fc | vt=0/0
+984f75b642647fc107514bf9aa33d5ee386193277ff58b01f9beb34d8ceb75fe	MalwareBazaar	2026-08-14	filetype=sh md5=39b4eb4bcce0f4f4983bfb9658b38103 sha1=e6a53acc2cfc09fa6880357a44fa9c2cf4055d20 | vt=0/0
+0e3cd256f1f3c143fa097c9792f6990629f9b5706b707e6c5653d056e9f87f98	MalwareBazaar	2026-08-14	filetype=exe md5=1f0cc0ca281f90f853a6ffad03935dc9 sha1=ac417a7152499a0d06e5b5e36516d19d0af13662 | vt=8/75
+13d9a5010daa3c2c05da6e63d135732b17d861f7aea426b075898e967aa7d531	MalwareBazaar	2026-08-14	filetype=exe md5=c57e7a0c3175559c3ab4b8f0b20c7b03 sha1=9420c2f186855c7dbf06da8770b085d98686410e | vt=12/75
+f42b3277d3f04b17cb75ccdb8c9e0427db2a5c05fc40919fb3a9d4a2f5585e7f	MalwareBazaar	2026-08-14	filetype=sh md5=cb041ec54093c37afc316b7d26116a85 sha1=33d9f534a754ec5329e425ee151714b7e9480a25 | vt=18/75
+1332d0c6a8400500b92c6a278c663907a9d8cdc4353f7ac1edff6a4ab2d745c1	MalwareBazaar	2026-08-14	filetype=exe md5=27f61f45f1873b9a29c9e9a98cfe0253 sha1=decc0a9b49d3bb2638d3cc9031eb1fe69f58c9a1 | vt=25/75
+92f8f069c032422eb6048ce1a648bd140dab9d3cfca5c855e2b56e1ac6f1cc7b	MalwareBazaar	2026-08-14	filetype=exe md5=da4dc2203770bb12d6a2d5b38a5880a0 sha1=66daed03974ace9055154d3e818bd5ef957ef651 | vt=46/75
+fbe1a132a4dda975e349ba6c6d29e79bf247f0f18a1aeec6d80ce16e7e92ccbb	MalwareBazaar	2026-08-14	filetype=exe md5=0322baf8c0e2e6567934f5d94bde7e84 sha1=c25932c7836bc7f749879efe68153c7d8084b852 | vt=39/75
+71b04e2d36fef06e17baafe2fd1ace5534bfc466b15f10495bc310e50bec972a	MalwareBazaar	2026-08-14	filetype=exe md5=dbbe48bb05baf9092fa8742046fe6bee sha1=bf095f4445294f8450deb87b470801ea5718013b | vt=10/75
+59e14d45e25201284f047fa430e7f84301edf3a7f1ad95ad0f8dd6f945275b19	ThreatFox	2026-08-13	family=js.clearfake | confidence=90% threat=payload
+39cef3a0e01334bf358bf0450209365bd5fbeff3b2ceea67684b7745e0c8f75c	ThreatFox	2026-08-13	family=unknown_stealer | confidence=100% threat=payload
+877fb2b2d8800e7831f1912b37550627d97cd704a1592e16260a889473e90658	ThreatFox	2026-08-13	family=win.moonpeak | confidence=100% threat=payload
+12a761e8f69b99c232ee748498d8d5da5ef4da103409695afbd973eb1ea1557a	ThreatFox	2026-08-13	family=js.clearfake | confidence=90% threat=payload
+3627f4ca552af942ed152739121766ac3fb853ad0137d7ea3f56ac2e14595471	ThreatFox	2026-08-13	family=js.clearfake | confidence=90% threat=payload
+9933d85274f9d34a652f1995a0ea80797087e2a563b87e196852d0d89c1d7f46	ThreatFox	2026-08-13	family=js.clearfake | confidence=90% threat=payload
+7a0f3eebfb821131f22ff6ec2645b4fc	ThreatFox	2026-08-13	family=win.valley_rat | confidence=95% threat=payload
+a56d67f5e2f1b15b2c3864ff9501d7cc	ThreatFox	2026-08-13	family=elf.kuiper | confidence=95% threat=payload
+b9f992a46caa3b898a960ceb13b8be215054e74d80b288de82b662c028faecb6	ThreatFox	2026-08-13	family=win.valley_rat | confidence=95% threat=payload
+757b7e2991187e4644f8092801547730	ThreatFox	2026-08-13	family=py.stealler | confidence=95% threat=payload
+e2bebe7d6fcc4e9ce414fa6f2fb357a1ec517712e2d1597e25752b3616e2d650	ThreatFox	2026-08-13	family=elf.kuiper | confidence=95% threat=payload
+7d4dcace32850c5e3e9d5dff5a6ef08d	ThreatFox	2026-08-13	family=win.nanocore | confidence=95% threat=payload
+664f8e49f45b3fda22f2deb4a164e9dd0737cd8ec65aef928526b86424bb3726	ThreatFox	2026-08-13	family=py.stealler | confidence=95% threat=payload
+725368095f3e67cf813c8c442652ca97	ThreatFox	2026-08-13	family=elf.kuiper | confidence=95% threat=payload
+4208d5e8fe67a312095ee467a08bd0d6ec6007f10922d03383e760b40e0e1dc9	ThreatFox	2026-08-13	family=win.nanocore | confidence=95% threat=payload
+f0227e480e845b98b91e385b898e9b47	ThreatFox	2026-08-13	family=win.krakenkeylogger | confidence=95% threat=payload
+bbbdcc7dc8d6ef0cdb2c72ddb0ed3858343db8705dfbd9b904a509342d6f4c12	ThreatFox	2026-08-13	family=elf.kuiper | confidence=95% threat=payload
+8ad256c5b786abb5f1552d906df3482a	ThreatFox	2026-08-13	family=win.quasar_rat | confidence=95% threat=payload
+c9548996fd7c80f449b61ab4706dce3d35307aa7215c8ff82788a513d6789e2d	ThreatFox	2026-08-13	family=win.krakenkeylogger | confidence=95% threat=payload
+b3c2f9ac068664bb861d7f8a59db533810032bc26d75fad48dbd0e2ba26413b2	ThreatFox	2026-08-13	family=win.quasar_rat | confidence=95% threat=payload
+6ff68578110de0105fc3a1a1ab635dd3	ThreatFox	2026-08-13	family=win.netwire | confidence=95% threat=payload
+ef5b6211a47d0bec3ddb8d77b9c9586a	ThreatFox	2026-08-13	family=win.netwire | confidence=95% threat=payload
+c1770108b0d0e6dde3fd5d588a85af3409ad41581784b1734a3eec637fddb15d	ThreatFox	2026-08-13	family=win.netwire | confidence=95% threat=payload
+36612c13573375fb4c796f3569eb50c0	ThreatFox	2026-08-13	family=win.void | confidence=95% threat=payload
+d1ccedd9d262377aa1e28d0ba13b49cbd6511ccaa5e95db0e506064b2861f6f7	ThreatFox	2026-08-13	family=win.netwire | confidence=95% threat=payload
+1ab183b92f988063206d8f415f1e6439	ThreatFox	2026-08-13	family=win.vidar | confidence=95% threat=payload
+d0319eb0aad677d46a509fdcdf2c03e7c92cee9794cee70a79d3e84c564708c0	ThreatFox	2026-08-13	family=win.void | confidence=95% threat=payload
+1bb0a4abcc83dd82f0c7da52ce5d9e8a	ThreatFox	2026-08-13	family=win.asyncrat | confidence=95% threat=payload
+9985a958af279455f1ccaf2c35ea527d08ca0c3289f88c084c3a2bd6260b3d03	ThreatFox	2026-08-13	family=win.vidar | confidence=95% threat=payload
+e87d14fd46969a5a2341482f1e1082f00a84520b9d6fe7138807584c83a25269	ThreatFox	2026-08-13	family=win.asyncrat | confidence=95% threat=payload
+6270f38bdf27aebb108331a484220a8bc0b9a1e6a2c4bba6dad89a2f3665bca5	ThreatFox	2026-08-13	family=win.lumma | confidence=90% threat=payload
+649c6c95558f8ece4f927a68e3eed6fccf2118d45a371d5416e6bd19d66d9efd	ThreatFox	2026-08-13	family=win.lumma | confidence=90% threat=payload
+36bdf59bb5e719eda9d2da8619cbb6827e5f9a2b9dd19806c704faa98c411360	MalwareBazaar	2026-08-14	family=Mirai | filetype=sh md5=8ed7e8aca1f11661eeaf8a01f1082f3b sha1=f1ddc671a4b06030f1e4314ac86b019acfeb7000
+08f4d444d51993a92e374193007440da52d5e9b375f7ad02fdaae7706280c1b1	MalwareBazaar	2026-08-14	family=Mirai | filetype=elf md5=be84790945af67a336683635c7d55222 sha1=9a7dcb7ea8c870ebe69712569eee359647f04cf8
+411c4d388b54e659183b5d8e890bf78c7be73b866b7659617f422c978aa9f24f	MalwareBazaar	2026-08-14	family=CoinMiner | filetype=exe md5=23692ca87f42678c2f8a97331ae488d6 sha1=f3f3d20f093bd53800560571280a9b9a145ef4f5
+ae79cc20c0e9f55b3cb6993efc3fad68def359a303888c31c2f3625aa6449f29	MalwareBazaar	2026-08-14	family=Mirai | filetype=elf md5=6b0c5e760e99be41375f80f8208d71a7 sha1=52d371886bc7ea6d4a9fbd14ccb1e44b406209fc
+2b5e0d3ddef9514457ec6a9f4942874d442f780602beb7da12df40be999b8db0	MalwareBazaar	2026-08-14	family=Mirai | filetype=elf md5=3cae57ce8bcf0728188eb24058cddc04 sha1=4afa911bcceea2ff423b2f47fed331266de4536b
+c06c9ee4e6020894bc9fc3abebb953b889d15d6041518483568fc8587d8e96a6	MalwareBazaar	2026-08-14	family=Mirai | filetype=elf md5=50fa7bbb7e2ed6166339d7e4a5514892 sha1=0ffd2d25633845ea40f4f5743209b40787989127
+ed597d3121d614edf3aa79636783ce962732c579f2786c83c5585c43b6847a90	MalwareBazaar	2026-08-14	family=WannaCry | filetype=exe md5=2bb26757f04aab5e6553d333f695183c sha1=740efda71ac13dcf6a673c581c1be4289424e348
+b7bfc4ecaa4b636a2b25d9a367d5b26d3d0447217b690426aef5a60eba904cef	MalwareBazaar	2026-08-14	family=SalatStealer | filetype=exe md5=08827f6de57f1be66b6ac55499d08162 sha1=f7a8511ae9dfd5eb7f1772c254a870ea068cb4e9
+a60079b552cbeee8d961c10bd1a0406a2ee0f0a9b62cd34076c64cb73bed032a	MalwareBazaar	2026-08-14	family=SalatStealer | filetype=exe md5=c10235ef064dd5b4215f8c5898e65d6b sha1=90bd7a9aeae68fb481f480ecb1cb0c1dd9b3c748
+cddd5e55137fa3c041b5c3471a2b4eb8754663bbbe59eb0a4061461498b6a507	MalwareBazaar	2026-08-14	family=SheetRAT | filetype=exe md5=0a5ca858cd51dea094ab07ee1f52f89b sha1=77bb95457bf275e9e8d9494aae1a05df451ba928
+4a88efd00ba8b036ec4642fcecbe6df3	OTX	2026-08-13	family=msi installer | pulse='Recent Attack Activity Analysis Using North Korea-Related Lures' pulse_id=6a7dc1fd395815126acd4647
+60fd3dbfeb1a44ed2a8ad46113d58262	OTX	2026-08-13	family=msi installer | pulse='Recent Attack Activity Analysis Using North Korea-Related Lures' pulse_id=6a7dc1fd395815126acd4647
+be6d6d01740d210cb16973d81a1fd782	OTX	2026-08-13	family=msi installer | pulse='Recent Attack Activity Analysis Using North Korea-Related Lures' pulse_id=6a7dc1fd395815126acd4647
+d033868f7b4374936dc462b0b016abaf	OTX	2026-08-13	family=msi installer | pulse='Recent Attack Activity Analysis Using North Korea-Related Lures' pulse_id=6a7dc1fd395815126acd4647
+e6ff096a0562c0042b09d250bd60272ffcd8d72bd95c563842acf765a8dc8bcf	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+01b5c6acb20e41799a0e96d9d1d6e1c44791883706b6285e874fcb15cc93b31a	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+e809da86bd81463347fa7f922d3e088755a94a331889d32acb55aa8f57778a34	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+f1ef5fe4c0cdcff13cc750c867728b89719f81437bdc49041edd1ae1f3edb4e8	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+e2eb7703047b37b28dc34e6990205d758a2454b39bc655b460606745fadcb530	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+e7e3b0bcd6798634adf8b49d305f3a7b7682e4b76db549682a183c5a186df4bb	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+09ef7c736bccfafefc44d9910d499173b88063b73b221fc0dc9e9105107e5cff	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+c11714f9fe2df1ca906585c81498cd77f5ec05b132aab73fa3a71d71d71e42cc	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+b90a4e770869c28fd2140acb3ebdc50c113bb6f096b4bbdb9ac87c349c70e85e	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+0c39264337a1186b2e765e24073399cbdcba118306614eb411e315887af578bd	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+9b7df409c9a89f7536d3ba7b6d43fb6dbac618c8bb52615ba34cc971ad71bbf3	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+153d077bcb58e00f5746573cba25f6b0788b809bf7b2a52fca0dc22d3bb5c94e	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+297413a3e49e7353bf484a3eb15ec647de729211059df8fc68678d2378b6f561	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+30f5122cc199b9c2e524503b343a9ee13a6f9773dcbc1df82c8b25ad20bca61d	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+430f12970f8d58f12edccee9019a1aa90fa232c961449bdcc69c8d348a52cf55	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+5ccdf53881f6c758af8d94fe67066af209b4bc0a3cb80b6a4c724fad86eb97ef	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+5edb8d1023b8babf302871b68fa2b26d5ca57633f64951922998e8f1d6c8f7ac	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+6d5fe6b6a34eeb470798b970b70f41a07ccf59b22f49ad9b3dfff7aa3256f3c2	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+97c3a6be1711c5340d8806e4a54f7297f3f763d0aa4240b667f1e4e1f98f2aad	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+ac3d453d3c9b0310ebb8a67cef35e2ac954d4acdf70cf497fe43a02c7a510813	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+e782a6d4919f194d41e524ebd6df5894197043cf772fcf60455127b246f302c0	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+ea893abf20b00d9bfc042a88fbf7b4bd42e68ce07c116d3e3b002e5b4a853877	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+ed96e7f1085a50251eb8967ac53777272a617831084f0edad8a769c583a18869	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+abfa7742e315485a98a5fafd6dbfb68e	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+bf681f76dc3b6f497d8c58e705585ae0	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+cc648bee6b11ce487565ef67576eb1c6	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+13425b473576aa1e58eee248e7c6a2e216889c58	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+e3b2bba523c035177241f6f66168e60fa6abbaaf	OTX	2026-08-13	family=Antino | pulse='China-based hackers-for-hire group staging espionage attacks alongside a cryptocurrency fraud business' pulse_id=6a7da6cbe879002fadce7e53
+c1d1ee16b92e6a138ffa048855f75d7d	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+17674b250d8b422a50a86c9ff207186d	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+62801f6223e860a7cca271522e303b2d	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+68f0365d2fa8c828d012d8859e52a773	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+4bd7c352ae277b0e38d07beedd4dd507	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+d4bc09fb10ea2a5dc0bcbeeda5e5afdd	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+2ca8adbab98ebe305eacf272cf48f5a0	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+3ac41b097236a7723821848ae31ef141	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+439255736797bc88bd19f282449e0436	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+17b6f4984930165939680a09d91989ad82bc57e2	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+724f6ca2ea66dbf117c7eea42c99760716ec75b9	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+b9258c816724cb074258df485dfbc5b08141cdcb	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+dd1f41f6f8e995fb482070d6689f4238505aac78	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+31349d61da780d59a8a27e2762405632726d88135a08ac5dda05849c62dfd551	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+404eb4ada6e161210611f1c8275f126ec24aad37c380ead130cf15667023d249	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+4eb6126f7e23d9155df280b944a98da10a79f1067f39990cf019f25feef75712	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+5fc1251e474eae9253362a08095e989edc2b63de21d76052a2c849efc6792c3f	OTX	2026-08-13	family=Still Sync | pulse='New Armored Likho tools target Telegram and eavesdropping' pulse_id=6a7da6ccbbdd8552713c76a1
+07bfd8b5cf77a22d6029c3fcf9157ecd	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+07c9e9716abfdb91cb11ac1dfd0ea536	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+329dcba41a6a070dae647c9d72ec5fec	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+5413eeaa33cdf631c7317c9f6e280809	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+56d15f308984c1a388c112ac39dfb18a	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+718706333b6f2251f13f62885ba0156d	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+8a1ff3e23a209bfe920e01a61a6769aa	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+b9254ba90665acc86905268c6edbc70a	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+c36966242f141aa2bc280b5821928111	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+cc9e17a83ff4e200e9ad2afc9be559b3	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+09b4d20c19cc7b12d95a1d644c848aea34edf642	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+1857213d27b7ae42147f820218b92a4158837335	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+3df76260cd2612117d8638f8b56bb8b3b23f801c	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+60226f03e6ac978eb4ddbb55fa2f23f68aaabe53	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+684538f963443a15872c79771197135224aea34e	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+72a36fb44932462b031a6986ad6cbe6f200ceb9d	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+9eec3bd5ea0686f22d6d68b2d99151211b89d912	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+b68c0cf7d1e563dad02fb2fad3590e43399c140b	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+d49cbc10f8d484108c2aeec652c1f77fa933a657	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+e69d84517c8f95173a0a8a3d0f5dcf0fbe051a0e	OTX	2026-08-13	family=MISTPEN | pulse='State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit' pulse_id=6a7d8b5671a34dd89301bbbe
+e2356c742c74cce5c6b6100162d0071a3f71e2fed2ed895c2011061a95b3299a	OTX	2026-08-12	family=Akira | pulse='Hits Safe Mode: Ransomware Rebooting Around EDR' pulse_id=6a7ca262c4921e41ead16a57
+61a1ad1b6a028a1833c85e6544383999	OTX	2026-08-12	family=Akira | pulse='Hits Safe Mode: Ransomware Rebooting Around EDR' pulse_id=6a7ca262c4921e41ead16a57
+bb6f97878c8cbf762d69717b3480658fe9157ff0	OTX	2026-08-12	family=Akira | pulse='Hits Safe Mode: Ransomware Rebooting Around EDR' pulse_id=6a7ca262c4921e41ead16a57
+414b9985f46714f44dd1bd63860d2a48dcfababcfe5c712a4b4f575378127a56	OTX	2026-08-12	family=Akira | pulse='Hits Safe Mode: Ransomware Rebooting Around EDR' pulse_id=6a7ca262c4921e41ead16a57
+c55cf5029b8cccb179472fa1d22ce2687a66c7945f79a4ec8f757451f5af9138	OTX	2026-08-13	family=GoogleService.dll | pulse='Project CAV3RN uses Google Apps Script for stealthy C2 in Israel' pulse_id=6a7d8cc2109e73821519b31d
+b43b2b28c7a3cfa6decc27cff8f5c5d5de68435a1b3417ad998b5bc545394861	OTX	2026-08-13	family=GoogleService.dll | pulse='Project CAV3RN uses Google Apps Script for stealthy C2 in Israel' pulse_id=6a7d8cc2109e73821519b31d
+da2dea79c3b6c0894ea3d2c25fb1718374091db9fdc82a58589ed4edbbd154a7	OTX	2026-08-13	family=GoogleService.dll | pulse='Project CAV3RN uses Google Apps Script for stealthy C2 in Israel' pulse_id=6a7d8cc2109e73821519b31d
+0bb69350705ddb8104ad0ee2dadb58b4be14909220f2e7726ba448c656aca623	OTX	2026-08-13	family=GoogleService.dll | pulse='Project CAV3RN uses Google Apps Script for stealthy C2 in Israel' pulse_id=6a7d8cc2109e73821519b31d
+218544ed5f4c322da4fbf223606f05bd66ef3ea7f8e668a0f71485a9eda1bc78	OTX	2026-08-13	family=GoogleService.dll | pulse='Project CAV3RN uses Google Apps Script for stealthy C2 in Israel' pulse_id=6a7d8cc2109e73821519b31d
+1830b4e04981bab23b9a338edcec3002d0da1f3c	OTX	2026-08-13	family=GoogleService.dll | pulse='Project CAV3RN uses Google Apps Script for stealthy C2 in Israel' pulse_id=6a7d8cc2109e73821519b31d
+1b14e9be18bf9e3028d08ef9b5b153e0d04150a8	OTX	2026-08-13	family=GoogleService.dll | pulse='Project CAV3RN uses Google Apps Script for stealthy C2 in Israel' pulse_id=6a7d8cc2109e73821519b31d
+8dd86ad1ca9afbf3fb35990a9a9c691d939f1f7d	OTX	2026-08-13	family=GoogleService.dll | pulse='Project CAV3RN uses Google Apps Script for stealthy C2 in Israel' pulse_id=6a7d8cc2109e73821519b31d
+d8d44921174c48eb4b5a1469c6ce49e794f77906	OTX	2026-08-13	family=GoogleService.dll | pulse='Project CAV3RN uses Google Apps Script for stealthy C2 in Israel' pulse_id=6a7d8cc2109e73821519b31d
+e7a112dde6a9ab4c3f485889b27f7794748ea3a0	OTX	2026-08-13	family=GoogleService.dll | pulse='Project CAV3RN uses Google Apps Script for stealthy C2 in Israel' pulse_id=6a7d8cc2109e73821519b31d
