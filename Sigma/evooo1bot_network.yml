@@ -1,0 +1,31 @@
+title: Network Connection to Evooo1Bot Infrastructure
+id: 2410b8fe-8217-4806-9788-d132c8dd463b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Evooo1Bot.
+date: 2026-08-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ddos engine
+    - edge device exploitation
+    - evooo1bot
+    - iot targeting
+    - linux botnet
+    - malware.evooo1bot
+    - mirai variant
+    - socks proxy
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '91.92.40.118'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

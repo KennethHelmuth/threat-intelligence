@@ -1,0 +1,35 @@
+title: DNS Query to Coolclient Domains
+id: cd001c93-8b53-413b-80ad-483110124c89
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Coolclient.
+date: 2026-08-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - coolclient
+    - honeymyte
+    - malware.coolclient
+    - mustang panda
+    - plugx
+    - toneshell
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'video.dursamjbataar.org'
+        - 'sundanish.freeddns.org'
+        - 'employers.theworkpc.com'
+        - 'freeread.casacam.net'
+        - 'us.lenovoappstore.com'
+        - 'torinarlabs.webredirect.org'
+        - 'news.dursamjbataar.org'
+        - 'black-popular.com'
+        - 'whatismybestthing.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

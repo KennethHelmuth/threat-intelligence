@@ -1,0 +1,37 @@
+title: Network Connection to Coolclient Infrastructure
+id: 20c32c69-0ec1-4b8c-890d-570c076ba267
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Coolclient.
+date: 2026-08-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - coolclient
+    - honeymyte
+    - malware.coolclient
+    - mustang panda
+    - plugx
+    - toneshell
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'video.dursamjbataar.org'
+        - 'sundanish.freeddns.org'
+        - 'employers.theworkpc.com'
+        - 'freeread.casacam.net'
+        - 'us.lenovoappstore.com'
+        - 'torinarlabs.webredirect.org'
+        - 'news.dursamjbataar.org'
+        - 'black-popular.com'
+        - 'whatismybestthing.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

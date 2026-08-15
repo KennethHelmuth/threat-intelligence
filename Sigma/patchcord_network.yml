@@ -1,0 +1,53 @@
+title: Network Connection to Patchcord Infrastructure
+id: c94c7787-02d3-4ab8-ab6b-ed893b2e6ae4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Patchcord.
+date: 2026-08-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - gatesentinel
+    - google sheets c2
+    - hackerai
+    - malware.patchcord
+    - patchcord
+    - sheetcord
+    - sheetcreep
+    - supershell
+    - valleyrat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'appstoore.solutions'
+        - 'afghanistanupdates.site'
+        - 'afghantelecom.site'
+        - 'caprispine.health'
+        - 'nic-support.site'
+        - 'nicservice.org'
+        - 'servicesindia.services'
+        - 'zala-aer.info'
+        - 'appstoore.duckdns.org'
+        - 'defence.cdga.site'
+        - 'defence.cgda.site'
+        - 'tms.afghantelecom.af'
+        - 'vpn01.afghantelecom.site'
+        - 'www.afghanistanupdates.site'
+        - 'www.appstoore.solutions'
+        - 'www.caprispine.health'
+        - 'www.nicservice.org'
+        - 'www.servicesindia.services'
+        - 'www.zala-aer.info'
+        DestinationIp|contains:
+        - '46.30.188.13'
+        - '108.187.42.63'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

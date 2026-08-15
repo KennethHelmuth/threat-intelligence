@@ -7506,3 +7506,55 @@
 200.107.207.26	OTX	2026-08-12	family=LEMURLOOT | pulse='Cl0p Ransomware: Attack Pattern in Threat Intelligence' pulse_id=6a7ca263ee7777102409724c
 89.208.97.165	OTX	2026-08-13	family=russian operator | pulse='Inside a Ukrainian IP Camera Toolkit' pulse_id=6a7d8d2b3a8a65f2b1dc0cda
 213.165.63.49	OTX	2026-08-13	family=russian operator | pulse='Inside a Ukrainian IP Camera Toolkit' pulse_id=6a7d8d2b3a8a65f2b1dc0cda
+47.84.15.240:8080	ThreatFox	2026-08-15	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+94.154.32.220:80	ThreatFox	2026-08-15	family=win.asyncrat | confidence=50% threat=botnet_cc
+102.205.170.11:8147	ThreatFox	2026-08-15	family=win.quasar_rat | confidence=50% threat=botnet_cc
+47.84.15.240:80	ThreatFox	2026-08-15	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+4.253.8.171:443	ThreatFox	2026-08-15	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+43.134.49.218:8443	ThreatFox	2026-08-15	family=elf.aisuru | confidence=100% threat=botnet_cc
+38.242.157.137:7242	ThreatFox	2026-08-15	family=win.remus | confidence=75% threat=botnet_cc
+47.84.15.240:443	ThreatFox	2026-08-14	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+176.98.182.216:8443	ThreatFox	2026-08-14	family=elf.aisuru | confidence=100% threat=botnet_cc
+162.243.79.150:8080	ThreatFox	2026-08-14	family=elf.aisuru | confidence=100% threat=botnet_cc
+176.98.182.177:8443	ThreatFox	2026-08-14	family=elf.aisuru | confidence=100% threat=botnet_cc
+64.94.84.119:8080	ThreatFox	2026-08-14	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+64.94.84.119:443	ThreatFox	2026-08-14	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+64.94.84.119:80	ThreatFox	2026-08-14	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+165.245.242.183:9034	ThreatFox	2026-08-14	family=elf.aisuru | confidence=100% threat=botnet_cc
+47.250.190.129:5001	ThreatFox	2026-08-14	family=win.vshell | confidence=100% threat=botnet_cc
+94.143.231.61:443	ThreatFox	2026-08-14	family=win.pure_rat | confidence=75% threat=botnet_cc
+91.92.43.103:80	ThreatFox	2026-08-14	family=js.tsundere | confidence=75% threat=botnet_cc
+78.17.213.180:1907	ThreatFox	2026-08-14	family=win.dcrat | confidence=75% threat=botnet_cc
+64.89.161.196:4444	ThreatFox	2026-08-14	family=win.dcrat | confidence=75% threat=botnet_cc
+64.227.74.35:443	ThreatFox	2026-08-14	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+46.149.68.224:8443	ThreatFox	2026-08-14	family=win.bianlian | confidence=75% threat=botnet_cc
+45.157.233.139:7000	ThreatFox	2026-08-14	family=win.pure_rat | confidence=75% threat=botnet_cc
+23.175.48.7:8808	ThreatFox	2026-08-14	family=win.asyncrat | confidence=75% threat=botnet_cc
+212.103.26.10:55000	ThreatFox	2026-08-14	family=win.havoc | confidence=75% threat=botnet_cc
+2.59.133.115:56001	ThreatFox	2026-08-14	family=win.pure_rat | confidence=75% threat=botnet_cc
+2.59.133.115:56002	ThreatFox	2026-08-14	family=win.pure_rat | confidence=75% threat=botnet_cc
+2.59.133.115:56003	ThreatFox	2026-08-14	family=win.pure_rat | confidence=75% threat=botnet_cc
+2.27.248.16:80	ThreatFox	2026-08-14	family=js.tsundere | confidence=75% threat=botnet_cc
+198.199.74.231:443	ThreatFox	2026-08-14	family=unknown | confidence=75% threat=botnet_cc
+195.177.94.41:56003	ThreatFox	2026-08-14	family=win.pure_rat | confidence=75% threat=botnet_cc
+185.112.147.233:31337	ThreatFox	2026-08-14	family=win.sliver | confidence=75% threat=botnet_cc
+185.112.147.233:80	ThreatFox	2026-08-14	family=win.sliver | confidence=75% threat=botnet_cc
+178.16.52.136:3009	ThreatFox	2026-08-14	family=win.asyncrat | confidence=75% threat=botnet_cc
+176.65.139.232:80	ThreatFox	2026-08-14	family=elf.mirai | confidence=75% threat=botnet_cc
+172.236.157.30:443	ThreatFox	2026-08-14	family=win.pure_rat | confidence=75% threat=botnet_cc
+147.45.61.65:56001	ThreatFox	2026-08-14	family=win.pure_rat | confidence=75% threat=botnet_cc
+147.124.223.225:56003	ThreatFox	2026-08-14	family=win.pure_rat | confidence=75% threat=botnet_cc
+128.90.63.117:4444	ThreatFox	2026-08-14	family=win.asyncrat | confidence=75% threat=botnet_cc
+108.187.7.173:443	ThreatFox	2026-08-14	family=win.pure_rat | confidence=75% threat=botnet_cc
+108.187.7.180:443	ThreatFox	2026-08-14	family=win.pure_rat | confidence=75% threat=botnet_cc
+104.164.46.182:443	ThreatFox	2026-08-14	family=win.pure_rat | confidence=75% threat=botnet_cc
+102.117.165.168:7443	ThreatFox	2026-08-14	family=unknown | confidence=75% threat=botnet_cc
+169.58.168.81:8082	ThreatFox	2026-08-14	family=elf.mirai | confidence=100% threat=botnet_cc
+89.19.223.68:34567	ThreatFox	2026-08-14	family=elf.aisuru | confidence=100% threat=botnet_cc
+45.66.248.156:7443	ThreatFox	2026-08-14	family=unknown | confidence=100% threat=botnet_cc
+43.143.118.200:8084	ThreatFox	2026-08-14	family=unknown | confidence=100% threat=botnet_cc
+43.143.118.200:8443	ThreatFox	2026-08-14	family=unknown | confidence=100% threat=botnet_cc
+176.98.182.218:8080	ThreatFox	2026-08-14	family=elf.aisuru | confidence=100% threat=botnet_cc
+91.92.40.118	OTX	2026-08-13	family=Evooo1Bot | pulse='Multi-Functional Linux Botnet "Evooo1Bot"' pulse_id=6a7e2be6ba37cc87ae552659
+46.30.188.13	OTX	2026-08-13	family=PATCHCORD | pulse='PATCHCORD: New malware cluster targets Afghan telecom and South Asian critical infrastructure' pulse_id=6a7deb5e9423f6d0a5c5166d
+108.187.42.63	OTX	2026-08-13	family=PATCHCORD | pulse='PATCHCORD: New malware cluster targets Afghan telecom and South Asian critical infrastructure' pulse_id=6a7deb5e9423f6d0a5c5166d

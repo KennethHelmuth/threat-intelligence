@@ -1,0 +1,48 @@
+title: DNS Query to Patchcord Domains
+id: 390d5927-33a9-4233-83d6-2bd797337db1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Patchcord.
+date: 2026-08-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - gatesentinel
+    - google sheets c2
+    - hackerai
+    - malware.patchcord
+    - patchcord
+    - sheetcord
+    - sheetcreep
+    - supershell
+    - valleyrat
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'appstoore.solutions'
+        - 'afghanistanupdates.site'
+        - 'afghantelecom.site'
+        - 'caprispine.health'
+        - 'nic-support.site'
+        - 'nicservice.org'
+        - 'servicesindia.services'
+        - 'zala-aer.info'
+        - 'appstoore.duckdns.org'
+        - 'defence.cdga.site'
+        - 'defence.cgda.site'
+        - 'tms.afghantelecom.af'
+        - 'vpn01.afghantelecom.site'
+        - 'www.afghanistanupdates.site'
+        - 'www.appstoore.solutions'
+        - 'www.caprispine.health'
+        - 'www.nicservice.org'
+        - 'www.servicesindia.services'
+        - 'www.zala-aer.info'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

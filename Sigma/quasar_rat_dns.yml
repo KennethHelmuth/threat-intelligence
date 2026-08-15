@@ -1,0 +1,48 @@
+title: DNS Query to Quasar Rat Domains
+id: a0558ed9-d5db-4563-96a3-75e77a30f07d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Quasar Rat.
+date: 2026-08-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - asyncrat
+    - dcrat
+    - dropcatch
+    - illegal-streaming
+    - malware.quasar_rat
+    - nanocore
+    - njrat
+    - quasar rat
+    - remcos
+    - sports-piracy
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'xoilacz.com'
+        - 'bind.bestresulttostart.com'
+        - 'colascore.com'
+        - 'stope40.org'
+        - 'xemlaibongda.net'
+        - '6789x.site'
+        - 'cel-robox.com'
+        - 'sadd.io'
+        - 'healthymagination.com'
+        - '90phutyy.io'
+        - 'animalrampage3d.io'
+        - 'buffalomarket.com'
+        - 'krogeralbertsons.com'
+        - 'maxfactor-international.com'
+        - 'refvsb.com'
+        - 'samefacts.com'
+        - 'snsystems.com'
+        - 'xoilacxys.top'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

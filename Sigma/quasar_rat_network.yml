@@ -1,0 +1,50 @@
+title: Network Connection to Quasar Rat Infrastructure
+id: 0c03b571-d6c2-4f18-b975-5a787a6374f2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Quasar Rat.
+date: 2026-08-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - asyncrat
+    - dcrat
+    - dropcatch
+    - illegal-streaming
+    - malware.quasar_rat
+    - nanocore
+    - njrat
+    - quasar rat
+    - remcos
+    - sports-piracy
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'xoilacz.com'
+        - 'bind.bestresulttostart.com'
+        - 'colascore.com'
+        - 'stope40.org'
+        - 'xemlaibongda.net'
+        - '6789x.site'
+        - 'cel-robox.com'
+        - 'sadd.io'
+        - 'healthymagination.com'
+        - '90phutyy.io'
+        - 'animalrampage3d.io'
+        - 'buffalomarket.com'
+        - 'krogeralbertsons.com'
+        - 'maxfactor-international.com'
+        - 'refvsb.com'
+        - 'samefacts.com'
+        - 'snsystems.com'
+        - 'xoilacxys.top'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
