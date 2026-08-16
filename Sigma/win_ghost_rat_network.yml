@@ -1,0 +1,28 @@
+title: Network Connection to Win.Ghost Rat Infrastructure
+id: ff20491f-ebbe-4742-bea3-ae79b7d32c07
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Ghost Rat.
+date: 2026-08-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Farfli
+    - Gh0st RAT
+    - Ghost RAT
+    - PCRat
+    - malware.win.ghost_rat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '124.230.195.242'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,25 @@
+title: Network Connection to Win.Venom Infrastructure
+id: 95263bba-821a-4755-8ced-e26e97a03d58
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Venom.
+date: 2026-08-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Venom RAT
+    - malware.win.venom
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '134.122.204.9'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

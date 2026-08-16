@@ -1,0 +1,28 @@
+title: Network Connection to Win.Extreme Rat Infrastructure
+id: 27884802-cabd-4698-a925-fa03ee0d0ba3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Extreme Rat.
+date: 2026-08-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ExtRat
+    - XTRAT
+    - Xtreme RAT
+    - malware.win.extreme_rat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '94.96.166.135'
+        - '94.96.165.133'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
