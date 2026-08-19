@@ -1,0 +1,35 @@
+title: Network Connection to C2Looper Infrastructure
+id: fbc6dfcc-981e-46f5-b27d-c39ff7b488f4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with C2Looper.
+date: 2026-08-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - backdoor
+    - c2looper
+    - clickfix
+    - dll sideloading
+    - github c2
+    - initial access broker
+    - lactrodectus
+    - malware.c2looper
+    - oyster
+    - ransomware
+    - rust-based
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '45.158.196.184'
+        - '45.158.196.23'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

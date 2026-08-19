@@ -1,0 +1,35 @@
+title: DNS Query to Projextor Domains
+id: 75149797-275d-4334-87b3-42a97d70426a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Projextor.
+date: 2026-08-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - desktop capture
+    - electron framework
+    - impersonation websites
+    - javascript execution
+    - malware.projextor
+    - productivity applications
+    - projextor
+    - tamperedchef
+    - trojanized software
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'pdfgrip.com'
+        - 'doceditor.in'
+        - 'doceditorinc.com'
+        - 'flipformatpdf.com'
+        - 'meal-formula.com'
+        - 'conv.doceditorinc.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

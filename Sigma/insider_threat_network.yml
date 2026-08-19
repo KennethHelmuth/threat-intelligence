@@ -1,0 +1,49 @@
+title: Network Connection to Insider Threat Infrastructure
+id: 30fd0d0f-8166-4fb1-92da-f485f4839903
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Insider Threat.
+date: 2026-08-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-generated personas
+    - chatgpt abuse
+    - fraudulent employment
+    - identity fraud
+    - insider threat
+    - malware.insider_threat
+    - north korean it workers
+    - purpledelta
+    - remote work deception
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '104.253.147.147'
+        - '104.253.51.76'
+        - '104.253.72.75'
+        - '104.253.134.123'
+        - '218.24.120.118'
+        - '104.253.1.79'
+        - '104.253.103.238'
+        - '104.253.111.106'
+        - '104.253.112.86'
+        - '104.253.121.146'
+        - '104.253.17.141'
+        - '104.253.19.244'
+        - '104.253.199.214'
+        - '104.253.251.19'
+        - '104.253.34.67'
+        - '104.253.47.239'
+        - '104.253.56.226'
+        - '104.253.90.150'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,35 @@
+title: Network Connection to Quicagent Infrastructure
+id: d7db07dd-4266-4628-80ed-757d732d7058
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Quicagent.
+date: 2026-08-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - china-nexus
+    - cloudflare workers
+    - go backdoor
+    - malware.quicagent
+    - myanmar diplomats
+    - operation quicsilver
+    - quic protocol
+    - quicagent
+    - vhd file
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'maui-cocktailbar.com'
+        - 'register.mediumser.com'
+        DestinationIp|contains:
+        - '38.60.244.141'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
