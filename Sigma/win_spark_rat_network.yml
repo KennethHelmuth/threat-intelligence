@@ -1,0 +1,26 @@
+title: Network Connection to Win.Spark Rat Infrastructure
+id: 6b82572e-dc2f-4277-b2d4-e090d3c76e8a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Spark Rat.
+date: 2026-08-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RAT
+    - SparkRAT
+    - malware.win.spark_rat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'my-service.eu.cc'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

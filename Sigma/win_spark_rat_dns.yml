@@ -1,0 +1,24 @@
+title: DNS Query to Win.Spark Rat Domains
+id: 8c2666f5-8ce0-4d2c-a6c0-a2d5237f566c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Spark Rat.
+date: 2026-08-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RAT
+    - SparkRAT
+    - malware.win.spark_rat
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'my-service.eu.cc'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
