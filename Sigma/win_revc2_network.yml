@@ -1,0 +1,24 @@
+title: Network Connection to Win.Revc2 Infrastructure
+id: 3ce04ad7-7794-40f6-b7d2-f697412932dc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Revc2.
+date: 2026-08-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.win.revc2
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '87.199.197.84'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

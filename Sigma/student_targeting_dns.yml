@@ -1,0 +1,33 @@
+title: DNS Query to Student Targeting Domains
+id: 78df91c2-663e-4694-8a38-29a550ec35aa
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Student Targeting.
+date: 2026-08-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - apac attacks
+    - back-to-school
+    - credential theft
+    - domain registration
+    - education sector
+    - malware.student_targeting
+    - phishing campaigns
+    - student targeting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'checkmyschool.org'
+        - 'education-gov.com'
+        - 'studentdiscount.online'
+        - 'studentloansyyyy.com'
+        - 'students-portal.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

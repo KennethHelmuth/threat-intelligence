@@ -1,0 +1,34 @@
+title: DNS Query to Spyroid Domains
+id: 80d59078-29ed-4273-bf0e-9528c2694477
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Spyroid.
+date: 2026-08-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai vishing
+    - android rat
+    - callflow
+    - cryptocurrency payments
+    - malware.spyroid
+    - mexican banking fraud
+    - phaas
+    - spyroid
+    - websocket hijacking
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'soporte-aclaracion.xyz'
+        - 'balonx.online'
+        - 'callbalonx.info'
+        - 'panelbalonxfs.xyz'
+        - 'phishing-domain.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,35 @@
+title: DNS Query to Grandoreiro - S0531 Domains
+id: d5e94a11-1686-4ce0-aaff-9ca9e25592ce
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Grandoreiro - S0531.
+date: 2026-08-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - anti-analysis
+    - banking trojan
+    - delphi
+    - dll sideloading
+    - grandoreiro
+    - latin america
+    - malware.grandoreiro___s0531
+    - mexico
+    - sandbox evasion
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'voyage.mydissent.net'
+        - 'beeges.health-carereform.com'
+        - 'b744156103040828396040.nhlfan.net'
+        - 'streamlinepdf-8m2x.workisboring.com'
+        - '445675885304004.pointto.us'
+        - 'smartpdfhub-7q2m.read-books.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

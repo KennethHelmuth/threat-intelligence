@@ -1,0 +1,46 @@
+title: Network Connection to Win.Hype Agent Infrastructure
+id: 55acf4d1-b633-44b6-9ba8-46c01a2f1ebc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Hype Agent.
+date: 2026-08-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - HypeAgent
+    - drb-ra
+    - malware.win.hype_agent
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'hype.activeworkshops.com'
+        DestinationIp|contains:
+        - '95.164.123.132'
+        - '45.141.215.40'
+        - '217.217.97.125'
+        - '147.124.221.0'
+        - '95.164.123.132'
+        - '95.164.123.132'
+        - '95.164.123.132'
+        - '91.92.47.94'
+        - '91.92.47.94'
+        - '91.124.98.25'
+        - '91.124.98.25'
+        - '45.141.215.40'
+        - '217.217.97.125'
+        - '213.152.186.188'
+        - '213.152.186.188'
+        - '192.109.139.69'
+        - '192.109.139.69'
+        - '104.168.70.163'
+        - '207.56.137.45'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,63 @@
+title: Network Connection to Browser Extension Campaign Infrastructure
+id: d78d0221-67aa-49a0-874c-614b4b4694c4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Browser Extension Campaign.
+date: 2026-08-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser extension campaign
+    - cloudflare workers
+    - credential stealing
+    - cryptocurrency wallet theft
+    - firefox extensions
+    - malware.browser_extension_campaign
+    - phishing
+    - supabase abuse
+    - web3 impersonation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'browser-app.com'
+        - 'browsify.net'
+        - 'gemachriverdale.org'
+        - 'e-wl.com'
+        - 'webbrol.com'
+        - 'devplugs.co'
+        - 'tabtools.org'
+        - 'tools.com'
+        - 'webtools.com'
+        - 'protools.com'
+        - 'cleankits.co'
+        - 'webtools.net'
+        - 'extlab.org'
+        - 'addonslab.com'
+        - 'linktools.co'
+        - 'browsify.co'
+        - 'extlab.co'
+        - 'webtools.org'
+        - 'addonslab.net'
+        - 'addonslab.org'
+        - 'devplugs.com'
+        - 'proaddons.net'
+        - 'browsertools.com'
+        - 'smartext.co'
+        - 'extrakits.com'
+        - 'plugify.co'
+        - 'foxplugin.co'
+        - 'webtools.co'
+        - 'browsertool.com'
+        - 'live-scores.com'
+        DestinationIp|contains:
+        - '77.91.100.175'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

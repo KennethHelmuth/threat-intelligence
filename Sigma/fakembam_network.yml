@@ -1,0 +1,40 @@
+title: Network Connection to Fakembam Infrastructure
+id: 41558ea2-ef12-4791-b743-d281c76d688a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Fakembam.
+date: 2026-08-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adblocker
+    - backdoor
+    - cryptocurrency mining
+    - download studio
+    - fakembam
+    - malware.fakembam
+    - qt framework
+    - software update abuse
+    - supply chain attack
+    - torrent client
+    - xmrig
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'adblockfree.com'
+        - 'netshieldkit.com'
+        - 'bitminer.tech'
+        - 'adblockpro.net'
+        - 'download.studio'
+        - 'myadblock.com'
+        - 'netadblock.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

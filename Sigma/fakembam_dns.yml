@@ -1,0 +1,38 @@
+title: DNS Query to Fakembam Domains
+id: dbc2b5de-756d-477d-b21d-99443a21af8f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Fakembam.
+date: 2026-08-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adblocker
+    - backdoor
+    - cryptocurrency mining
+    - download studio
+    - fakembam
+    - malware.fakembam
+    - qt framework
+    - software update abuse
+    - supply chain attack
+    - torrent client
+    - xmrig
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'adblockfree.com'
+        - 'netshieldkit.com'
+        - 'bitminer.tech'
+        - 'adblockpro.net'
+        - 'download.studio'
+        - 'myadblock.com'
+        - 'netadblock.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

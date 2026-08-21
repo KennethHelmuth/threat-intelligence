@@ -1,0 +1,38 @@
+title: Network Connection to Spyroid Infrastructure
+id: 6bdd61f9-fd79-405b-a629-03cb5883630a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Spyroid.
+date: 2026-08-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai vishing
+    - android rat
+    - callflow
+    - cryptocurrency payments
+    - malware.spyroid
+    - mexican banking fraud
+    - phaas
+    - spyroid
+    - websocket hijacking
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'soporte-aclaracion.xyz'
+        - 'balonx.online'
+        - 'callbalonx.info'
+        - 'panelbalonxfs.xyz'
+        - 'phishing-domain.xyz'
+        DestinationIp|contains:
+        - '196.251.84.11'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

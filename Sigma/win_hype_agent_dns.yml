@@ -1,0 +1,24 @@
+title: DNS Query to Win.Hype Agent Domains
+id: b6bf1b4f-db8f-43b7-9780-076c96851c36
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Hype Agent.
+date: 2026-08-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - HypeAgent
+    - drb-ra
+    - malware.win.hype_agent
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'hype.activeworkshops.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
