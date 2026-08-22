@@ -1,0 +1,23 @@
+title: DNS Query to Win.Telepuz Domains
+id: 596e8bba-211a-4414-aadb-27d40dba087d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Telepuz.
+date: 2026-08-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - TELEPUZ
+    - malware.win.telepuz
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'krem.mesoptik.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

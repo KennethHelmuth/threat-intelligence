@@ -1,0 +1,44 @@
+title: DNS Query to Proc-Macro1 Domains
+id: 4e285b65-6f27-4751-99b0-2e6c4482bcc4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Proc-Macro1.
+date: 2026-08-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - backdoor
+    - build-time execution
+    - ci/cd compromise
+    - compile-time execution
+    - crates.io
+    - credential theft
+    - dprk
+    - malware.proc_macro1
+    - mastra campaign
+    - proc-macro-en
+    - proc-macro1
+    - rust
+    - supply chain attack
+    - typosquatting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'hwsrv-798836.hostwindsdns.com'
+        - 'rasgthaufd.com'
+        - 'fevvkiieiu.com'
+        - 'phrpjtnckf.com'
+        - 'ackeotawtl.com'
+        - 'gafwvcmaja.com'
+        - 'rnssddnegk.com'
+        - 'pfhlvoqeeg.com'
+        - 'abecorkups.com'
+        - 'epodiatmam.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

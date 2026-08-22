@@ -10792,3 +10792,106 @@ e0b008ea6eef411ed6f9faab8f1d3bee	OTX	2026-08-20	family=DriveSilkRAT | pulse='Sil
 e7e39e318ffe641dbea34ae59f80420d	OTX	2026-08-20	family=DriveSilkRAT | pulse='SilkParasite: Tracking a China-Nexus APT Across Central Asia' pulse_id=6a86a70eb8b57f155e62d4f7
 eef9fe0c9619b75b9553243fd19709e4	OTX	2026-08-20	family=DriveSilkRAT | pulse='SilkParasite: Tracking a China-Nexus APT Across Central Asia' pulse_id=6a86a70eb8b57f155e62d4f7
 f6b126c83ea4a63f277199d7c06617d6	OTX	2026-08-20	family=DriveSilkRAT | pulse='SilkParasite: Tracking a China-Nexus APT Across Central Asia' pulse_id=6a86a70eb8b57f155e62d4f7
+fa831c3c23824b99871163387bcda7ad	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+fe71af9ecf174de48d2b2ccc2c15fb04	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+bd4d81cd27125ad3d9a114922d468499	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+bd80bd3c3d0e4bf6b5b4a825650d01f5	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+c6bfb1643ac7474ed8a7b4f96a187fdb	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+d63bacd6d6709dd68a10ef9d374c7835	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload | vt=22/76
+de77c3303e93c9450424759f1741441c	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload | vt=1/75
+e119845877089d6f4b0a70dc7388f316	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload | vt=23/76
+e9f3a0dab6949ce2cddab9e0aa80ae1a	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+ea24487996eb70c1780922fb3063bcc5	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload | vt=0/75
+f0e3f7eba2cde91e2dedb921bab47422	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+f8cf8c23ff597700d471fb7767df8bac	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload | vt=1/75
+a4223ce4288a230d1e6c3ff2c7639045	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+b067d5b0dbecbd6498bcdfba45dba77e	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+ba27951b4ee1c341f4415d033369ecd3	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload | vt=12/75
+412e9243f2981bbea3894254d105b3b8	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+44b6b213a6a3f299eaf88e078de95ecb	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+67dc78e544ebce16b85dc7c195dfbc58	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+6c2e34b30da42085240ede53ab6107d4	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload | vt=20/73
+71ab5517f71866279d0d87d37f2ae320	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload | vt=0/75
+7a4d3ba2dacccfdda55859a5dfee2671	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+89ef78f716a75964539f2db6520be362	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+8b5e513144a6138a966ea59e68bf9da2	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload | vt=12/75
+9642ae619b3165d23c6349002d1abe24	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+2a64c3efc11bf224aa54f24e876446c9	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+3AD4BF5A86D26FFBF09CAE42AF330A98	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+0fbaa7092204f4b1494e0b840b014774	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload | vt=1/75
+1dcf031c40ce456b6a36a00b0acf3d11	ThreatFox	2026-08-21	family=apk.badbox | confidence=50% threat=payload
+a2eb9cf201f057f9860abfbd377b58d390165b6c86ff9a23f848ee0142b40f7b	MalwareBazaar	2026-08-22	filetype=elf md5=bea4cc32e3a405ab8f5d298195b48f62 sha1=45f4957618d474dd02ef935afe8b0ac9c472b546 | vt=33/75
+5239ca97f24a7b84ec35362adcca03935e29bc9082e3aa69c5ac73c7ac2efb19	MalwareBazaar	2026-08-22	filetype=exe md5=4d92f9f7bf243b194e4aca8ff85fb570 sha1=856035f2837753f203cc2a885d5f6b2e53d308e8 | vt=32/75
+9f4e2dc6f2aeeb950936285e8e47f805d4e3d843e0912df08f49dc6e53bdf152	MalwareBazaar	2026-08-22	filetype=exe md5=a629b59531a0780aeca540022274541f sha1=e2024640bbdabd720dcb2464de2e03e7dca2eb9d | vt=34/75
+c2dd3509770770764b86e5ac7dacd4805ceed98708b27a208a4973e3d4f7c3ea	MalwareBazaar	2026-08-22	filetype=exe md5=ffc7dd7ffc6c89b3c0d26180ea256902 sha1=a8765c87a9587452017b83c37ca6443049b5e917 | vt=33/75
+74a9d856028ed2daf9b4ac1db1f6da9ca8140599d0e3cf223687d15ee66f3c0f	MalwareBazaar	2026-08-22	filetype=exe md5=23a8d5e176ed683111fe79bdcd435521 sha1=8e6861c1b11e326b59051a0d0bac8d43544485da | vt=32/75
+47630a069e44a6981ac37e9d82ae44e7252ed184ccb30f41f2df56f26254bd40	MalwareBazaar	2026-08-22	filetype=exe md5=85409b2ac42cfcb53ea6835ea0c9f143 sha1=5b3628e224cb4c647f9ce604fa3695d66cf451e5 | vt=35/75
+586453165bf6649d38354376e4bfe78977f9f2a4cc0ab4eb87cc58fa552c2883	MalwareBazaar	2026-08-22	filetype=exe md5=821ddd4cc1cf22265a5448532a03e8d1 sha1=14f3703462190e1b607c210e90f820347acdbf52 | vt=7/75
+60786e24a45df08c6b53a35b485d6243371d43e6749390e7304e7c7a0d97d521	ThreatFox	2026-08-22	family=elf.mirai | confidence=80% threat=payload
+13D6D4FD239DB44ADCF4E9D8A578DB3B4B5A75D5D70830AD888ED79D522C1258	ThreatFox	2026-08-21	family=win.vidar | confidence=100% threat=payload
+e421ad53b169282b04e50e1b9d1faa9e	ThreatFox	2026-08-21	family=unknown_rat | confidence=100% threat=payload
+b0bc47a7308bd39a5b638781874a3d8e	ThreatFox	2026-08-21	family=unknown_rat | confidence=100% threat=payload
+ca88a6c055a96e1a6fa47e2586d41d2a	ThreatFox	2026-08-21	family=unknown_rat | confidence=100% threat=payload
+eba2bbd380b6949a249aba5c3ed13245	ThreatFox	2026-08-21	family=unknown_rat | confidence=100% threat=payload
+346cf14b787747160f789525e9843663b05a7e588f8fa92b8a2b858a8d54272b	ThreatFox	2026-08-21	family=win.vidar | confidence=95% threat=payload
+edc8338feddcdc93e69c966d26a8e94e	ThreatFox	2026-08-21	family=win.vidar | confidence=95% threat=payload
+88602976f7c64499ef40e4972ac17db6	ThreatFox	2026-08-21	family=win.formbook | confidence=95% threat=payload
+9853d168bdc4e85fb0c9d2446b5d13ff	ThreatFox	2026-08-21	family=win.coinminer | confidence=95% threat=payload
+e89e2ea4c743c87ef7faff9303b9133c54737dd683536cf5e6518374fb130a4a	ThreatFox	2026-08-21	family=win.formbook | confidence=95% threat=payload
+dc7fcc0d7d189555827260b3e4acc96a	ThreatFox	2026-08-21	family=win.vidar | confidence=95% threat=payload
+02522eaec42abfb57e780e43fda7ef0cc4f0e6d061c2e35aaa3575d5b62f7c13	ThreatFox	2026-08-21	family=win.coinminer | confidence=95% threat=payload
+acce16056f1fe8efd131034d6d27814ba5fb3e0878cf8147d1983bd73f59eec2	ThreatFox	2026-08-21	family=win.vidar | confidence=95% threat=payload
+8abd6a3d21097d75fc4970cb1c202c7b30bc709cf2446a94a298e3020578942a	ThreatFox	2026-08-21	family=py.venus_stealer | confidence=95% threat=payload
+cb470ad87c2982fd1d60b2fa6cbe637d	ThreatFox	2026-08-21	family=py.venus_stealer | confidence=95% threat=payload
+60507a4f30c4b1f8667be1b809caa854f65661b3741054fa73e133d3944a402e	MalwareBazaar	2026-08-22	family=ValleyRAT | filetype=dll md5=ddaa70755bf4e96f0a21663d55d978a0 sha1=2e995323a921ef5473031e6c96f825934ccbbea6
+a4da7669180c6c0cbd4c20bcf12906bccec11233e950a90942d20d3984fe2d94	MalwareBazaar	2026-08-22	family=RemusStealer | filetype=exe md5=1d5826c79f047865e675ffd31d92d829 sha1=1b2943164c8698e53d7cdac3cefede61bb4a5496
+42c2c18036a33df2229285065cdcbd7d6fbfd1cdbb9b121fc0160f98c075add7	MalwareBazaar	2026-08-22	family=RemusStealer | filetype=exe md5=4dda8f314cc90279dfbb432eb39a868a sha1=6ef3420028f394c62bf52e4b297fcfe004ad124c
+e1ceb7fc212e182239ef470559bc0ee09c8fb12fa69f6ae09dee072bfecfb2b9	MalwareBazaar	2026-08-22	family=RemusStealer | filetype=exe md5=3c0d3b44d58ce70320bce8aefb49499a sha1=6defb66e800e635a8d95851f847737ce15ddafcc
+e63dc60b24b94658992abec4e5819be35bc0ed5bfc3fe65a89f320539236a181	MalwareBazaar	2026-08-22	family=ValleyRAT | filetype=dll md5=cfdd3706b8a218872e16a5f496617398 sha1=af146c7b4cf4689f2307ee55a90915fa7e8b91a5
+4da675a2133e1b05fafb6a8186d165818855629373425ad93d6e5151fd95e47c	MalwareBazaar	2026-08-22	family=Mirai | filetype=elf md5=1a8e93dc20600f56be4c2329d51af7f3 sha1=2436459a8abddf4ffe2b853d604ab44579c829aa
+3db21013142719a5845a82e09d29e975f80caffa5649b5e4e7e6f3c229d0feb4	MalwareBazaar	2026-08-22	family=RemusStealer | filetype=exe md5=c71812b9333a66da41f16c26cebd28c0 sha1=8bd7037b448114e2b8145ab9127cb1d55fd0acaa
+3ef0276b36b843e6e1e39065d9c413d45515f09cd115f3c0e1dc25b227fc3e9d	MalwareBazaar	2026-08-22	family=RemusStealer | filetype=exe md5=54abb47f1f95155271296477f028c61e sha1=df1fcf3005cc483bbf249987ce8744ac4e189773
+31611a93846b3d2307c7640e5bf04416ce3b0d337db0db5f69cdb408ca3be5d6	MalwareBazaar	2026-08-22	family=NeedleStealer | filetype=exe md5=d475185ce3d373eee45f60824742db13 sha1=86ff4b770bd6afcdcc8f5c49a12e1cbb7b71a57a
+b95ac535ed7651f441589fb37db059d76bc2384c417e910fc264aa006d115c49	MalwareBazaar	2026-08-22	family=RemusStealer | filetype=exe md5=a6bbd1507bde25eb86d8e62782248d17 sha1=b528fa856d48cce19a8d6c7e17c83c498152a1a7
+ae9200450fb3030b59e0a5a27eb2ab413297f0a0bdb4cb8a6755e64f38a07ff5	MalwareBazaar	2026-08-22	family=RemusStealer | filetype=exe md5=49018ec231c35909dff5ebf51d31d478 sha1=bc6ff9fd63ddbc0027dfa61873908211ddacfff1
+8e2f9c7c115d3137f5c993b0178395bca50aad733abc1ad336678b274662d4b6	MalwareBazaar	2026-08-22	family=RemusStealer | filetype=exe md5=4522587b220a25e4c7d7156790c9f97d sha1=1a05f20178c75ca8b44aa7e3b305de2f05bd0873
+3295712cfe22112ee05a194478533ae0beb4ab46b0f5b38c75c09beb865b8bd7	MalwareBazaar	2026-08-22	family=RemusStealer | filetype=exe md5=e9e036d2f0d39d32b4211def66dcc35d sha1=0ccd3b9b17e7fb71448511587ce0b9c0bb37879b
+8a613f3578531c2cb944b4fb3668f39288d22fb1b2af59ce0f22327ef72cc000	MalwareBazaar	2026-08-22	family=Mirai | filetype=elf md5=f162e51659c53eda7eba78059a5b81b5 sha1=32a8ca1d08b5459cb1e37d55e7f196322dfa7ca8
+11974ece6c707759b83574eaf844a6fbeebb55c16ac2b5b81d89d7200905733e	MalwareBazaar	2026-08-22	family=ValleyRAT | filetype=dll md5=abfcab533d0bb4f3d44677fe84ce87bf sha1=d1a4a388ebb5edf6b54e8790828fed41c2bb1e2e
+4b9d68a24e5bf83ee32a8feb43a9b74b4955c35dce3564ae62a137b7101eb903	MalwareBazaar	2026-08-22	family=Socks5Systemz | filetype=exe md5=2e939c7a99dbebfbbf1a8c1e0686b53f sha1=e3cc1674278ef7801fd6b05626e83243668dcba2
+78a2d2988751b159ab860349e3dd1a9f034f4f1ef4d39888b66a4c924b7e9db0	MalwareBazaar	2026-08-22	family=RemusStealer | filetype=exe md5=38d66258740611f96675c49c6bb9f27d sha1=a3c01477303adc97a210ab141e698c9c102d37df
+73e065dc63b3c7a08f3f940ed7cbf761129767b191f78a9621f5b4d305cedc71	MalwareBazaar	2026-08-22	family=RemusStealer | filetype=exe md5=cdbf10a73965ecc2c73cf27aac159362 sha1=c3abf0132795e05eb5bb97c39709da4786de0cf5
+6a406376be3f0dc3c700a8c637b5c4a111c8e013b49f2100dace21520aeec4b8	MalwareBazaar	2026-08-22	family=RemusStealer | filetype=exe md5=3e32d60a5fb71b7a658d69b31402934f sha1=03340851d47839d344cfb8c1880aff5b164de902
+5af40e30ab869cd9f82eb06556061c255ca3154debf93f38f776d853b8f08d77	MalwareBazaar	2026-08-22	family=Mirai | filetype=elf md5=a003b7f690768c3d11151bad0937dcd3 sha1=d510b74681c12a6aadc9cc2ecf0eebe0ee5e1b00
+25ad700976873c76af785cb99b33c48db7df8b81f21d1e9e06b3676b9a9373ae	OTX	2026-08-20	family=proc-macro1 | pulse='Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns' pulse_id=6a8775e93b9ffe6d9c526c90
+61198155da51b838772eecf5bfaac6cbc4dcc388dccc56658fc28a8e831b34d4	OTX	2026-08-20	family=proc-macro1 | pulse='Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns' pulse_id=6a8775e93b9ffe6d9c526c90
+b5c1b5b0763a8809a644a8f92224653f0aca623a98eecc714d27f74b80fbe436	OTX	2026-08-20	family=proc-macro1 | pulse='Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns' pulse_id=6a8775e93b9ffe6d9c526c90
+f22e3e01e38bcdf001f0d15a2dbfdec5a1cf8eff	OTX	2026-08-20	family=proc-macro1 | pulse='Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns' pulse_id=6a8775e93b9ffe6d9c526c90
+f4767ad92cb61401fd69139cade563501c39b991	OTX	2026-08-20	family=proc-macro1 | pulse='Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns' pulse_id=6a8775e93b9ffe6d9c526c90
+fc0fdb978eac72f4484b48db058e4473f1bc516e	OTX	2026-08-20	family=proc-macro1 | pulse='Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns' pulse_id=6a8775e93b9ffe6d9c526c90
+ff7e20cf642346bf893f1eca808df82035bb53d0	OTX	2026-08-20	family=proc-macro1 | pulse='Supply Chain Attack on arrayref: Significant Overlap with DPRK Campaigns' pulse_id=6a8775e93b9ffe6d9c526c90
+408ef22050ffc5a67e005802809026b29f297a8019f8fda91a2afa8e877ba434	OTX	2026-08-20	family=proc-macro1 | pulse='Popular Rust Crates Compromised in Build-Time Supply Chain Attack' pulse_id=6a8775e8885af9073b89474a
+74d3447e7cf99c99ea01a16332ec27432dfb0f491e10e67cd118065a60483306	OTX	2026-08-20	family=proc-macro1 | pulse='Popular Rust Crates Compromised in Build-Time Supply Chain Attack' pulse_id=6a8775e8885af9073b89474a
+492f2ab86f8d8911adc79c10ec1541704f5311d207d9d799b0d2a57fcc6a4391	OTX	2026-08-20	family=proc-macro1 | pulse='Popular Rust Crates Compromised in Build-Time Supply Chain Attack' pulse_id=6a8775e8885af9073b89474a
+c9561a3b00a0fa38b7772675d987f84bd429c55cd024fc08a98245c2d1632848	OTX	2026-08-20	family=proc-macro1 | pulse='Popular Rust Crates Compromised in Build-Time Supply Chain Attack' pulse_id=6a8775e8885af9073b89474a
+cb7778eb6dda91028abf087eb7c3553f981a67e756769507d348e8c201805568	OTX	2026-08-20	family=proc-macro1 | pulse='Popular Rust Crates Compromised in Build-Time Supply Chain Attack' pulse_id=6a8775e8885af9073b89474a
+138546bfa996b223509900be8c77ea1b	OTX	2026-08-21	family=SynkLoader | pulse='SynkLoader: when you throw in everything but the kitchen sink' pulse_id=6a87b22b1fbf04df7046d537
+0cd0946925325ba98c8ab823951eb8ce6ee5482d	OTX	2026-08-21	family=SynkLoader | pulse='SynkLoader: when you throw in everything but the kitchen sink' pulse_id=6a87b22b1fbf04df7046d537
+0428fbdefa8dda10ce8fc12b1b516641e83cd5088388168e3f1a0be1432b4077	OTX	2026-08-21	family=SynkLoader | pulse='SynkLoader: when you throw in everything but the kitchen sink' pulse_id=6a87b22b1fbf04df7046d537
+151d2a7f52f047638ca8ad80c859c6bfe04d7510fb10933817fa0e3ba5d07a11	OTX	2026-08-21	family=SynkLoader | pulse='SynkLoader: when you throw in everything but the kitchen sink' pulse_id=6a87b22b1fbf04df7046d537
+209f69a6ca859f05c954096b30391a43fda33c9ed264dfdccf806697f04b06a8	OTX	2026-08-21	family=SynkLoader | pulse='SynkLoader: when you throw in everything but the kitchen sink' pulse_id=6a87b22b1fbf04df7046d537
+61f961cfebdf9967844526649b4b75bba5b1b83210b70aa1bffe3f64e6ac3112	OTX	2026-08-21	family=SynkLoader | pulse='SynkLoader: when you throw in everything but the kitchen sink' pulse_id=6a87b22b1fbf04df7046d537
+63622c1ddb3e2a9f11cac192e13ac7494f558516b19d5d8f140f6d0d4d38ea84	OTX	2026-08-21	family=SynkLoader | pulse='SynkLoader: when you throw in everything but the kitchen sink' pulse_id=6a87b22b1fbf04df7046d537
+80f08360ba768b152b71abb1cab557f552a13de18c83fe8e6396a197feec9185	OTX	2026-08-21	family=SynkLoader | pulse='SynkLoader: when you throw in everything but the kitchen sink' pulse_id=6a87b22b1fbf04df7046d537
+8207d8d949530ea063ffd5d47ee81b74bf718ec0a4755e2349e6af9b91e92dc1	OTX	2026-08-21	family=SynkLoader | pulse='SynkLoader: when you throw in everything but the kitchen sink' pulse_id=6a87b22b1fbf04df7046d537
+a335e75b78b601ebc5c258975d95fd79aa21f836fc6b79d82e9a22c596133f07	OTX	2026-08-21	family=SynkLoader | pulse='SynkLoader: when you throw in everything but the kitchen sink' pulse_id=6a87b22b1fbf04df7046d537
+c4acda412774c292f0db5d64467a2dd09282cdea43c41967e8bf90f6298accf3	OTX	2026-08-21	family=SynkLoader | pulse='SynkLoader: when you throw in everything but the kitchen sink' pulse_id=6a87b22b1fbf04df7046d537
+cb1c657f74b9e57f5e81126179128e8db949d1d4196be9dcb890341e222fd384	OTX	2026-08-21	family=SynkLoader | pulse='SynkLoader: when you throw in everything but the kitchen sink' pulse_id=6a87b22b1fbf04df7046d537
+d150c70d2732df17aa77991b9ebf4c896f044445e900978581d9598dfa5dc98c	OTX	2026-08-21	family=SynkLoader | pulse='SynkLoader: when you throw in everything but the kitchen sink' pulse_id=6a87b22b1fbf04df7046d537
+4333f52668996c0fa44c14fefba7fecc	OTX	2026-08-21	family=PhantomCore | pulse='Head Mare APT Group exploits vulnerabilities in unpatched TrueConf server to deliver PhantomCore malware to conference participants' pulse_id=6a87ffab05b89766cd6c1700
+1587b6b1949c83e5916cabe9b5882a2ce4d26902	OTX	2026-08-21	family=PhantomCore | pulse='Head Mare APT Group exploits vulnerabilities in unpatched TrueConf server to deliver PhantomCore malware to conference participants' pulse_id=6a87ffab05b89766cd6c1700
+1a8fb0337a767126de8ba924be8b480fd57c30c9	OTX	2026-08-21	family=PhantomCore | pulse='Head Mare APT Group exploits vulnerabilities in unpatched TrueConf server to deliver PhantomCore malware to conference participants' pulse_id=6a87ffab05b89766cd6c1700
+3e2908e1eebaa2aa52a154e8fb95059d91fe3a02	OTX	2026-08-21	family=PhantomCore | pulse='Head Mare APT Group exploits vulnerabilities in unpatched TrueConf server to deliver PhantomCore malware to conference participants' pulse_id=6a87ffab05b89766cd6c1700
+6f6c9115f9464134cc881d0ef941de40dc09fb87	OTX	2026-08-21	family=PhantomCore | pulse='Head Mare APT Group exploits vulnerabilities in unpatched TrueConf server to deliver PhantomCore malware to conference participants' pulse_id=6a87ffab05b89766cd6c1700
+76b90ba581a7792500b2ceea68d83bdb09d07093	OTX	2026-08-21	family=PhantomCore | pulse='Head Mare APT Group exploits vulnerabilities in unpatched TrueConf server to deliver PhantomCore malware to conference participants' pulse_id=6a87ffab05b89766cd6c1700
+cf07cc0c04f1a5558e1976e0b0b2e80b89b43fcb	OTX	2026-08-21	family=PhantomCore | pulse='Head Mare APT Group exploits vulnerabilities in unpatched TrueConf server to deliver PhantomCore malware to conference participants' pulse_id=6a87ffab05b89766cd6c1700
