@@ -10895,3 +10895,70 @@ d150c70d2732df17aa77991b9ebf4c896f044445e900978581d9598dfa5dc98c	OTX	2026-08-21	
 6f6c9115f9464134cc881d0ef941de40dc09fb87	OTX	2026-08-21	family=PhantomCore | pulse='Head Mare APT Group exploits vulnerabilities in unpatched TrueConf server to deliver PhantomCore malware to conference participants' pulse_id=6a87ffab05b89766cd6c1700
 76b90ba581a7792500b2ceea68d83bdb09d07093	OTX	2026-08-21	family=PhantomCore | pulse='Head Mare APT Group exploits vulnerabilities in unpatched TrueConf server to deliver PhantomCore malware to conference participants' pulse_id=6a87ffab05b89766cd6c1700
 cf07cc0c04f1a5558e1976e0b0b2e80b89b43fcb	OTX	2026-08-21	family=PhantomCore | pulse='Head Mare APT Group exploits vulnerabilities in unpatched TrueConf server to deliver PhantomCore malware to conference participants' pulse_id=6a87ffab05b89766cd6c1700
+32f85cbf0fcd2acf319137a643e58416ccb609570dccb7676a03d614f451d4c2	ThreatFox	2026-08-22	family=unknown | confidence=100% threat=payload | vt=0/75
+66299f122474100fab00ce072a34d758fc7f11a04869f60f48cbac560bc8b403	ThreatFox	2026-08-22	family=unknown | confidence=100% threat=payload | vt=0/75
+879c25948bc991a1b4f01f215163d99d1faa78345f056f168f65eaeb4b9e9f6a	ThreatFox	2026-08-22	family=unknown | confidence=100% threat=payload | vt=4/75
+75f29dca25c8bbc89db904b86f7e21e9bf588fc03a479cc15d0fb09eb05b47fe	ThreatFox	2026-08-22	family=unknown | confidence=100% threat=payload
+bd74366db38cbf1fe135934add5b1e92242916b888349fe4881f881781c91687	ThreatFox	2026-08-22	family=unknown | confidence=100% threat=payload
+a6fbbdec757b0fe91ea18dc3d9f7b379c18ca49eeef63afaea8da3c9385b1049	MalwareBazaar	2026-08-23	filetype=elf md5=9f954494173b99bff50efd3899e4425d sha1=0e46e722243dd52eeb701883f79f786a92fe47ba | vt=36/75
+aa5045411ba7da09339ea56b718435ed4db6970b77a2495750427c3e0983f4b5	MalwareBazaar	2026-08-23	filetype=exe md5=fe04a8e07af1dbc71f42f5426f8ea8f2 sha1=30a88e1ba76824e2ce56e8bbdc771e87f7b0a791 | vt=9/75
+506461eb9cdf0a488c4955188e47b317481932c7427c2994f83192b5f0c0bfd8	MalwareBazaar	2026-08-23	filetype=exe md5=c7014aa28e0aceb8c34e6d1e3c6ef986 sha1=f3b9ed878d15af93f42e801aa1533a8fa8f1a79b | vt=9/75
+7a3d2c381a1f24002794f1bf5e7c7a2c73507a04a3741c40f6b7790983892e53	MalwareBazaar	2026-08-23	filetype=exe md5=8c035d3a590ef1300c25a4069d634a45 sha1=ccc3a222db885e363cd9c719d796380642f3afbe | vt=18/75
+98dc1ee834d166396ed8c20ec28f8defd7e8b127b5da6787dba6cba1abfb6f06	MalwareBazaar	2026-08-23	filetype=iso md5=96f77ac6a1428e4166309756565fdc38 sha1=ea19cdf910111d22d00a2c63f08f86d21e8ba680
+85c671370fdca9874db8f56081d8069be21ac0195af2267fc1bbea2d5739c3e6	MalwareBazaar	2026-08-23	filetype=exe md5=565d28c1cda1031ba967eaaced566f24 sha1=eebe1b1d6f3d419b88c1778c208529d9aff8e38a | vt=14/75
+bfa315c6c37f5bac2c5959d4e606d11ca1ae1a46e09b107e16983709e08538b3	MalwareBazaar	2026-08-23	filetype=msi md5=cfca53ca1e4f8d8138093a35dff51cd1 sha1=7291c516ff7cb309ff4db7636f1a0b575a03354e | vt=6/75
+c23360a78264383810f154246cc656e556bc89b3e1765ccc8970f016a53a1e05	MalwareBazaar	2026-08-23	filetype=ps1 md5=0c4df7d860e754906eb8abe8ebcf2ebf sha1=51e58cde4d13f2fcf61172ec06d76e2ededd7e5c | vt=3/75
+6c255ef0b62a23e7828f04054e8f3896	ThreatFox	2026-08-22	family=win.netwire | confidence=95% threat=payload
+df94520df3d218bd7982a7fc40e92530	ThreatFox	2026-08-22	family=win.netwire | confidence=95% threat=payload
+edc73cf039196893ce93018f5fef4057f90a80447c9b7bf55b91a91b423abde1	ThreatFox	2026-08-22	family=win.netwire | confidence=95% threat=payload
+c6bfb0d885265012930ecd07a5bc2eb2e1c2db218ced4416839af5761f24f927	ThreatFox	2026-08-22	family=win.netwire | confidence=95% threat=payload
+99d5dbbcec96cc84ac22c077680420e70315e19703667e5c8d9f2ec76af1acad	ThreatFox	2026-08-22	family=win.netwire | confidence=95% threat=payload
+a67819c12c69894357adbec5d970085d	ThreatFox	2026-08-22	family=win.netwire | confidence=95% threat=payload
+ee1ed321e64aee5b57ad715a43c23835	ThreatFox	2026-08-22	family=win.netwire | confidence=95% threat=payload
+9f6cf57a2791b8c53733f410804dcd1a	ThreatFox	2026-08-22	family=win.netwire | confidence=95% threat=payload
+355c5ee15bdc6e13d52a6c2551ebffd4932bcb7b93b3f3c7584e6e3a2c420830	ThreatFox	2026-08-22	family=win.netwire | confidence=95% threat=payload
+bce4944eabdb55b2b42df2c5a7bd7683	ThreatFox	2026-08-22	family=win.netwire | confidence=95% threat=payload
+c2e63d8266f7c297f0303eecb4cb18dd9151ada99c13ca1683794eb8d6db8217	ThreatFox	2026-08-22	family=win.netwire | confidence=95% threat=payload
+137d06e4b5009f494fd546fc87eb9fa1dcadf35664cecaeb36416c359f803a86	ThreatFox	2026-08-22	family=win.netwire | confidence=95% threat=payload
+1a24321c2ee34cabd7b610da455ea11d	ThreatFox	2026-08-22	family=win.netwire | confidence=95% threat=payload
+0bdb81149b22afe5219c75aa9679a6a8cb577f9d5659857646b2db7bf3728af1	ThreatFox	2026-08-22	family=win.netwire | confidence=95% threat=payload
+b69cc5426070fb399791ce6bdc621049	ThreatFox	2026-08-22	family=win.netwire | confidence=95% threat=payload
+5380e9b758ebf56f00edd53c2a13aef5	ThreatFox	2026-08-22	family=py.venus_stealer | confidence=95% threat=payload
+b34d9f8bb178e1521ba4d62ee575563872e09153c5741a3f454bfa03083498ad	ThreatFox	2026-08-22	family=win.netwire | confidence=95% threat=payload
+b4ebdf938bd45a11dc5d139bee18e7692e5c98c7511af9026558ef7d281d8c33	ThreatFox	2026-08-22	family=py.venus_stealer | confidence=95% threat=payload
+1962408657914463a66f4d8d3d61b7c7	ThreatFox	2026-08-22	family=win.asyncrat | confidence=95% threat=payload
+e9d0b90379f9b64634720a9b1a6bf719a725f671b790bb65e340e0658cb516de	ThreatFox	2026-08-22	family=win.valley_rat | confidence=95% threat=payload
+6df2733557d5247509c63cbf3e9f9fb1	ThreatFox	2026-08-22	family=win.valley_rat | confidence=95% threat=payload
+b2a33b38f8fd574fb80e9df8c4094090365ee7250593e372b854da9757a9a3c0	ThreatFox	2026-08-22	family=win.asyncrat | confidence=95% threat=payload
+0dfb74014c60e953d505c76ab981c55f90ab42f2ced57f34e4fa18cd69f83b99	ThreatFox	2026-08-22	family=win.valley_rat | confidence=95% threat=payload
+58ab824b14b2f31813afeea4caa5bd0d	ThreatFox	2026-08-22	family=win.valley_rat | confidence=95% threat=payload
+0299c02d7a8f75eff82dc8de30997b3f81ce887efa8b75a96315a49c0b70975f	ThreatFox	2026-08-22	family=win.valley_rat | confidence=95% threat=payload
+880c2ae254a73ccc92d747de5993e976	ThreatFox	2026-08-22	family=win.valley_rat | confidence=95% threat=payload
+fae010372ab55addd31e97079a4e1b31	ThreatFox	2026-08-22	family=py.venus_stealer | confidence=95% threat=payload
+ae2ea23bf77f28d657af0f47d95148419de1ee37812504d61cac0c36dc38e701	ThreatFox	2026-08-22	family=py.venus_stealer | confidence=95% threat=payload
+fecfd59e63c518834a601e32e782390f88c9749dcf1460c94a687d766c757718	ThreatFox	2026-08-22	family=win.coinminer | confidence=95% threat=payload
+a8eedaa9a5d431baf445c8080ac35fda	ThreatFox	2026-08-22	family=win.coinminer | confidence=95% threat=payload
+32bcff75191b48284e927db09b0a5fdc	ThreatFox	2026-08-22	family=win.dcrat | confidence=95% threat=payload
+f62ce2042c61e211449cc1d1cc3fca94	ThreatFox	2026-08-22	family=py.venus_stealer | confidence=95% threat=payload
+85ad0b4124b657a35a01d820fff4325f5c4c3ceb60615ad54c4a0ddbcadd590c	ThreatFox	2026-08-22	family=win.dcrat | confidence=95% threat=payload
+a05e2a5c5b4b93447ad06a728f9e41ce9c65d876c87daa59ae2d8ead067d2192	ThreatFox	2026-08-22	family=py.venus_stealer | confidence=95% threat=payload
+fff9f02f3e58b940b9f1b628eda3d4463e17baf810b75f0cbd078952ad1ba969	ThreatFox	2026-08-22	family=win.valley_rat | confidence=95% threat=payload
+8799d7664ef577e5904a49d75c610615	ThreatFox	2026-08-22	family=win.valley_rat | confidence=95% threat=payload
+89f61b8bb4fa4229f6f18fab9e3a0a64	ThreatFox	2026-08-22	family=win.valley_rat | confidence=95% threat=payload
+04e3a5e74513b7cc7eb540940299806e	ThreatFox	2026-08-22	family=win.valley_rat | confidence=95% threat=payload
+65856b5986156143dbedada62799e8b3b18db753f9d519710654b72f2f051d54	ThreatFox	2026-08-22	family=win.valley_rat | confidence=95% threat=payload
+90d5a367d6456e854288cc32e33049b0	ThreatFox	2026-08-22	family=win.coinminer | confidence=95% threat=payload
+5acbb6ee89b38eb2abf81a2b2349a4c97e7c2dd23ad4daf8d5b5b113176fef53	ThreatFox	2026-08-22	family=win.valley_rat | confidence=95% threat=payload
+1e395ee2e054a17a8e0117a0fe104b20	ThreatFox	2026-08-22	family=py.venus_stealer | confidence=95% threat=payload
+febb60b38e035167c3c5260aa038302d538ffd6ce352679f4b66db231bd7ccaa	ThreatFox	2026-08-22	family=win.coinminer | confidence=95% threat=payload
+a8b6f506c3465cc8f015edfff552e7f8	ThreatFox	2026-08-22	family=win.vidar | confidence=95% threat=payload
+562c8468f2906fb537d378a6d53684795f91a6fc514f461cb938f53fb37fee14	ThreatFox	2026-08-22	family=py.venus_stealer | confidence=95% threat=payload
+1158797c8d9ef2696029b1d82e8a9515	ThreatFox	2026-08-22	family=win.arkei_stealer | confidence=95% threat=payload
+7c221128c38739c84f60a24c495aa2600ea152755be10de0637f2f38c948e087	ThreatFox	2026-08-22	family=win.vidar | confidence=95% threat=payload
+5dd22e75f4a2814af58c317fa2e2cd92	ThreatFox	2026-08-22	family=win.vidar | confidence=95% threat=payload
+e3ecc6938dd5234a75a8fda454717bba20897d6aa12b9a324b5f81305d1f7d66	ThreatFox	2026-08-22	family=win.arkei_stealer | confidence=95% threat=payload
+d63e71109ca0a304312ddc21def555dc9f73c71ddae8d7bcd6f94a189a2d8f0b	MalwareBazaar	2026-08-23	family=RemusStealer | filetype=exe md5=31ac5ef2dc666ab821818fc716d66bf5 sha1=931d023a2bb0eaf34847d43fe65cc870ca4fb06d
+0bb70961853f4ce36650d296b7e945e0dda5a9ac2964e7a217cc35bbfbb1f253	MalwareBazaar	2026-08-23	family=RemusStealer | filetype=exe md5=43a2fd70c618f59ef00e86529a3bbfcd sha1=806cd14faeca43740542fd66aa3c27ce787a8a3d
+fc0553851d495ff5b6aba8c8d472f210f5c5d7ac05dcb56c27c61941eaa3b7ea	MalwareBazaar	2026-08-23	family=RemusStealer | filetype=exe md5=15045b47099b04256ec19beef96fcb30 sha1=74575f67904870eb80f3abd2bd44d33aa271bc0e
+0325bda37ee3ae51de29b706986ee9345d9e110b14cdcbde615dd11f959c085a	MalwareBazaar	2026-08-23	family=RemusStealer | filetype=exe md5=7fa7935cb39e9dc9bbd93886c82bdae7 sha1=01f3f92aaec8ac1a6295075cf684e73924b204e5
+803af293617ebe93de009614e1b029fa7bd07616e9c1dda0019fd6c69fe409e6	MalwareBazaar	2026-08-23	family=RemusStealer | filetype=exe md5=2db3fa70d6f6dad930e9239281444f18 sha1=7d394bf5a6b5bdcefe7e1d7dbd6aca1050e19086
