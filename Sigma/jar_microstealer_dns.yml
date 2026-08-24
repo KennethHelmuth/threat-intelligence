@@ -1,0 +1,28 @@
+title: DNS Query to Jar.Microstealer Domains
+id: e65ebbb3-6ded-455d-99ac-7b4998f7c560
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Jar.Microstealer.
+date: 2026-08-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - CirrataGame
+    - CloudflareWorkers
+    - Discord
+    - Electron
+    - MicroStealer
+    - malware.jar.microstealer
+    - stealer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'zarox.karatasyasin058.workers.dev'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
