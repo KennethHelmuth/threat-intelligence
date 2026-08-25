@@ -1,0 +1,31 @@
+title: Network Connection to Apk.Unidentified 001 Infrastructure
+id: 6028fd45-651d-41cb-abca-5ac2aae84380
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Apk.Unidentified 001.
+date: 2026-08-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Android
+    - Mamont
+    - SMS-stealer
+    - banker
+    - c2
+    - infostealer
+    - malware.apk.unidentified_001
+    - spyagent
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '87.120.187.72'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

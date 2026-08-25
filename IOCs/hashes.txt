@@ -10967,3 +10967,16 @@ fc0553851d495ff5b6aba8c8d472f210f5c5d7ac05dcb56c27c61941eaa3b7ea	MalwareBazaar	2
 d62088168d53fa9bdbb5c442bf093da8b53e69f71ae72c04f864e3aaf201cc9c	MalwareBazaar	2026-08-24	filetype=exe md5=fbe2ca5895aaadc3a2a91a5438f45b6d sha1=2daf0937e6a2105f5d99a05f40635748aeea7801 | vt=24/75
 826ac95ac380c1566761674417bfe72cd4b771b09871b17a15ddeee265bf149e	MalwareBazaar	2026-08-24	filetype=exe md5=b119bdbe19c91521fbba3f9ef251f673 sha1=518cc8573a8ee5908b9aabdd5bc53e3b740552df | vt=23/75
 1eb027a9844495e9a3c64bc0c7ea645058933a9b18cc98ff3f42a7b1a9142753	MalwareBazaar	2026-08-24	family=SystemBC | filetype=exe md5=1f4d12ddad20dd3b74bbd9579f0c57b2 sha1=756283303a89e2fc22efd7168e505404fb1358dc
+f22a00d85ef32ea57af7e9a08f08dbc0c4b3a927e3d823945b619864c1b6e58c	ThreatFox	2026-08-24	family=unknown | confidence=100% threat=payload | vt=34/74
+ab282de6689911c7a81ecccb272f1f9f4e1e3705f8d81950f9e791edf79647a2	MalwareBazaar	2026-08-25	filetype=rar md5=5f9f9335f66a3c4e43662b0998f25e3b sha1=832e66d7bf4ffb69e4d26253198578c15114f641 | vt=25/75
+ee981b6035362e01d50684b36e9db1e4a5cc97abe6414adecc866ffb93313328	MalwareBazaar	2026-08-25	filetype=exe md5=aad294780651aa303040f3225e7aba3b sha1=a852e84e13481d98baf97449272e2b081a6d3984 | vt=24/75
+015f9cc2efae6b070bb3834b9550f89d617af9541de326dbd5f4f261eb46d451	MalwareBazaar	2026-08-25	filetype=elf md5=2384ad217fd89a5bdfd2e893cb4b2e74 sha1=1924154c07ab4c48307427850f17857067582614 | vt=37/74
+9a6b91a3cc2867d4d493823f425f1397afac0f52e17acae937560c3f4d73080d	OTX	2026-08-24	family=AMOS | pulse='Anatomy of a macOS ClickFix Crimekit that Weaponises EtherHiding' pulse_id=6a8c3403077781b7036ee79a
+e9d3dd808fa4218abdcb2a0a38a52d2337662b65a712663f35b8374476e3da65	OTX	2026-08-24	family=AMOS | pulse='Anatomy of a macOS ClickFix Crimekit that Weaponises EtherHiding' pulse_id=6a8c3403077781b7036ee79a
+a46d6adeb5c8e9ab5883ed8005b6ed684e7181148f5fdec7656ae6e51ca6e676	OTX	2026-08-24	family=AMOS | pulse='Anatomy of a macOS ClickFix Crimekit that Weaponises EtherHiding' pulse_id=6a8c3403077781b7036ee79a
+4542d94e24b6829e262b1c4af8467e11e40f078ce135d0b110054db4b9577cf0	OTX	2026-08-24	family=AMOS | pulse='Anatomy of a macOS ClickFix Crimekit that Weaponises EtherHiding' pulse_id=6a8c3403077781b7036ee79a
+d0ee324b6390e9d61f9851cd1fa5f3bde4ce05821cd5b4f67ad665dbffe54ad7	OTX	2026-08-24	family=AMOS | pulse='Anatomy of a macOS ClickFix Crimekit that Weaponises EtherHiding' pulse_id=6a8c3403077781b7036ee79a
+f3fb674441b05fab014212ece2528c92a36df6d45b88951e65ed72606fff0c80	OTX	2026-08-24	family=AMOS | pulse='Anatomy of a macOS ClickFix Crimekit that Weaponises EtherHiding' pulse_id=6a8c3403077781b7036ee79a
+872172a61e194ba96af2219b446bdb1cf318509c08ee66489aab20c1c59acf3d	OTX	2026-08-24	family=AMOS | pulse='Anatomy of a macOS ClickFix Crimekit that Weaponises EtherHiding' pulse_id=6a8c3403077781b7036ee79a
+427e8b573407f6029923cdb4686b5f77	OTX	2026-08-24	family=AMOS | pulse='Anatomy of a macOS ClickFix Crimekit that Weaponises EtherHiding' pulse_id=6a8c3403077781b7036ee79a
+903c7483ffa15cc14181a2dec5d8a9ddf703cddde3aa87e596d948342c8a75dc	OTX	2026-08-24	family=AMOS | pulse='Anatomy of a macOS ClickFix Crimekit that Weaponises EtherHiding' pulse_id=6a8c3403077781b7036ee79a
