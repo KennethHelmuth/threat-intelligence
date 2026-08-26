@@ -1,0 +1,39 @@
+title: DNS Query to Enterprise-Targeting Domains
+id: 7b765fb0-2d6f-412b-933c-36bf2b517ea4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Enterprise-Targeting.
+date: 2026-08-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser-in-browser
+    - credential-harvesting
+    - enterprise-targeting
+    - malware.enterprise_targeting
+    - mobile-threats
+    - oauth-tokens
+    - phishing
+    - recruittrap
+    - social-engineering
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'hbc-careers.com'
+        - 'mckinsey-careers.com'
+        - 'aa-careers.com'
+        - 'levis-careers.com'
+        - 'andmore-global.com'
+        - 'careers.com'
+        - 'expedia-careers.com'
+        - 'insulet-careers.com'
+        - 'mondial-relay-global.com'
+        - 'xmtrading-global.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

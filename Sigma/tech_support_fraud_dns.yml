@@ -1,0 +1,39 @@
+title: DNS Query to Tech Support Fraud Domains
+id: 9b2d05ca-9e36-4217-a66e-3662b70acfef
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Tech Support Fraud.
+date: 2026-08-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - antivirus removal
+    - fake security scan
+    - malware.tech_support_fraud
+    - refund scam
+    - remote access
+    - social engineering
+    - sysscan
+    - tech support fraud
+    - telegram exfiltration
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'detectsysscanner.at'
+        - 'detectsysscanner.com'
+        - 'detectsysscanner.de'
+        - 'detsysscanner.com'
+        - 'detsysscanner.de'
+        - 'techsysscanner.com'
+        - 'techsysscanner.lol'
+        - 'tlcscanner.com'
+        - 'detectsysscanner.xn--q9jyb4c'
+        - 'detsysscanner.xn--q9jyb4c'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

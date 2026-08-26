@@ -1,0 +1,41 @@
+title: Network Connection to Enterprise-Targeting Infrastructure
+id: db6f3ba2-723a-45ce-9387-2baf9159ecb0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Enterprise-Targeting.
+date: 2026-08-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser-in-browser
+    - credential-harvesting
+    - enterprise-targeting
+    - malware.enterprise_targeting
+    - mobile-threats
+    - oauth-tokens
+    - phishing
+    - recruittrap
+    - social-engineering
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'hbc-careers.com'
+        - 'mckinsey-careers.com'
+        - 'aa-careers.com'
+        - 'levis-careers.com'
+        - 'andmore-global.com'
+        - 'careers.com'
+        - 'expedia-careers.com'
+        - 'insulet-careers.com'
+        - 'mondial-relay-global.com'
+        - 'xmtrading-global.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,54 @@
+title: Network Connection to Ermac Infrastructure
+id: 793eda93-c86a-4062-b660-d3e8f41608f8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Ermac.
+date: 2026-08-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - android banking trojan
+    - blackrock
+    - cerberus
+    - cryptocurrency wallets
+    - docker deployment
+    - ermac
+    - hook
+    - hookbot
+    - lokibot
+    - malware.ermac
+    - overlay attacks
+    - source code leak
+    - vnc remote control
+    - xerxes
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'havijmail.com'
+        - 'ces.yeyr.lol'
+        - 'errr.onllee.com'
+        - 'www.racon.online'
+        DestinationIp|contains:
+        - '185.99.255.17'
+        - '93.127.141.93'
+        - '45.207.206.169'
+        - '212.193.23.223'
+        - '118.107.45.73'
+        - '118.107.45.29'
+        - '118.107.45.70'
+        - '82.158.90.131'
+        - '82.158.90.133'
+        - '82.158.90.134'
+        - '118.107.5.135'
+        - '137.220.219.244'
+        - '77.73.135.34'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

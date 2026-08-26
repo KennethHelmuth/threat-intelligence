@@ -1,0 +1,41 @@
+title: Network Connection to Tech Support Fraud Infrastructure
+id: 7271e096-5752-48ae-a854-729b59d6fb0e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Tech Support Fraud.
+date: 2026-08-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - antivirus removal
+    - fake security scan
+    - malware.tech_support_fraud
+    - refund scam
+    - remote access
+    - social engineering
+    - sysscan
+    - tech support fraud
+    - telegram exfiltration
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'detectsysscanner.at'
+        - 'detectsysscanner.com'
+        - 'detectsysscanner.de'
+        - 'detsysscanner.com'
+        - 'detsysscanner.de'
+        - 'techsysscanner.com'
+        - 'techsysscanner.lol'
+        - 'tlcscanner.com'
+        - 'detectsysscanner.xn--q9jyb4c'
+        - 'detsysscanner.xn--q9jyb4c'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

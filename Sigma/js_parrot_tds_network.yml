@@ -1,0 +1,27 @@
+title: Network Connection to Js.Parrot Tds Infrastructure
+id: 711e0ac6-5fa1-45b1-94b7-5ffafe6058be
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Js.Parrot Tds.
+date: 2026-08-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - TDS
+    - client-hints-cloaking
+    - malvertising
+    - malware.js.parrot_tds
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '159.89.230.90'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

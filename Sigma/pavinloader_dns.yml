@@ -1,0 +1,41 @@
+title: DNS Query to Pavinloader Domains
+id: 444c81da-01d5-4bdb-924b-266ab2dabd8d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Pavinloader.
+date: 2026-08-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - .net loader
+    - amatera stealer
+    - blockchain c2
+    - clickfix
+    - etherhiding
+    - fake captcha
+    - hijackloader
+    - malware.pavinloader
+    - pavinloader
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'more-arpc.icu'
+        - 'rpcsecnoweb.pro'
+        - 'kelemet.shop'
+        - 'nexahub.lat'
+        - 'perfectverified.com'
+        - 'catalyst-pro.lat'
+        - 'twigoamwu.cfd'
+        - 'pinnacle-labs.lat'
+        - 'fimwoglea.shop'
+        - 'velodium.lat'
+        - 'echo-systems.cfd'
+        - 'cyberowi.pl'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

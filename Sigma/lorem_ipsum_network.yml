@@ -1,0 +1,41 @@
+title: Network Connection to Lorem Ipsum Infrastructure
+id: 07a9cb17-cac7-4df0-a4a1-6241482bb69f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Lorem Ipsum.
+date: 2026-08-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - dead drop resolver
+    - digital point
+    - dll sideloading
+    - lorem ipsum
+    - malware.lorem_ipsum
+    - msi packages
+    - nodejs
+    - python
+    - social engineering
+    - supper
+    - wordpress compromise
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'beastcloudsecurity.com'
+        - 'bestpopularimages.com'
+        - 'peekyourphoto.com'
+        - 'photocategories.com'
+        - 'seephotoalbum.com'
+        - 'topimagechecker.com'
+        - 'topphotoalbum.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
