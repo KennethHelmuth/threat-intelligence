@@ -1,0 +1,24 @@
+title: DNS Query to Elf.Tsunami Domains
+id: 89477c6e-c099-44c4-a0cf-5b8b7ec95262
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Elf.Tsunami.
+date: 2026-08-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ct-pivot
+    - honeypot
+    - malware.elf.tsunami
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'team.tesisquare.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

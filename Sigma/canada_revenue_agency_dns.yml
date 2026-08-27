@@ -1,0 +1,61 @@
+title: DNS Query to Canada Revenue Agency Domains
+id: 4614aabc-590c-4355-bc55-31d7525764ae
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Canada Revenue Agency.
+date: 2026-08-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - canada revenue agency
+    - fake tax documents
+    - hands-on-keyboard access
+    - living-off-the-land
+    - malware.canada_revenue_agency
+    - password-protected archives
+    - phishing
+    - remote management monitoring
+    - rmm abuse
+    - social security administration
+    - vercel infrastructure
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'dashboarduat.paynnow.com'
+        - 'dcsi23.swoop2.me'
+        - 'ssi11.letsgo2.me'
+        - 'swoop2.me'
+        - 'hiltonheadislanddeals.com'
+        - 'quavix.vu'
+        - 'cevora.vu'
+        - 'xorlira.vu'
+        - 'voretix.icu'
+        - 'wurel.sbs'
+        - 'mornixa.cfd'
+        - 'getdl.jorix.cyou'
+        - 'pdfmarchlitestatementsscannedforyou.gixar.sbs'
+        - 'reportstastementformarchreviewyourssaast.harnivo.cfd'
+        - '54511.ddnsking.com'
+        - 'dxy43.ddnsking.com'
+        - 'dyb32.ddnsking.com'
+        - '67pon.swoop2.me'
+        - 'ddn3.net2me.me'
+        - 'gonzalezjaramilloabogados.com'
+        - 'mybcdc.ca'
+        - 'taurusburgerco.com.au'
+        - 'ypatellawoffice.ca'
+        - 'electrical-sei.com'
+        - 'herculescalgarymovers.ca'
+        - 'quantechitsolutions.com'
+        - 'docshared.org'
+        - 'letsgo2.me'
+        - 'net2me.me'
+        - 'togotoresolve.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

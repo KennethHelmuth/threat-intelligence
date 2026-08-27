@@ -1,0 +1,36 @@
+title: DNS Query to Sliver Domains
+id: 2e0cc248-4e25-490c-bed4-fd0f6b21b8eb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Sliver.
+date: 2026-08-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chinese-speaking operator
+    - cve-2023-49105
+    - cve-2024-28000
+    - data exfiltration
+    - malware.sliver
+    - metasploit
+    - mettle
+    - naval contractor
+    - nuclear research
+    - owncloud exploitation
+    - philippines
+    - sliver
+    - south china sea
+    - wordpress compromise
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'fine-work-team.com'
+        - 'timelevel12.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

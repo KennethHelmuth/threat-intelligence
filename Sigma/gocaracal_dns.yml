@@ -1,0 +1,37 @@
+title: DNS Query to Gocaracal Domains
+id: 6d1c44a0-ee09-48c7-a29b-502678462a60
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Gocaracal.
+date: 2026-08-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - asiogate
+    - bandook
+    - blockchain infrastructure
+    - cyberespionage
+    - ethereum c2 fallback
+    - gocaracal
+    - latin america targeting
+    - malware.gocaracal
+    - modular framework
+    - venezuela
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'contabilidad.icu'
+        - 'documentodigital.cloud'
+        - 'getpdfdigital.cloud'
+        - 'soportedigital.cloud'
+        - 'gestionadocs.me'
+        - 'getpdf.digital'
+        - 'visualizarpdf.online'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -8859,3 +8859,113 @@
 137.220.219.244	OTX	2026-08-25	family=ERMAC | pulse='What the Source Leak Says About HookBot' pulse_id=6a8dc2ed12d6752a7f9e258d
 77.73.135.34	OTX	2026-08-25	family=ERMAC | pulse='What the Source Leak Says About HookBot' pulse_id=6a8dc2ed12d6752a7f9e258d
 93.152.224.75	OTX	2026-08-25	family=PavinLoader | pulse='Tracking PavinLoader across ClickFix and fake download campaigns' pulse_id=6a8d406a23f75e32b69c2029
+185.198.58.107:56001	ThreatFox	2026-08-27	family=win.pure_rat | confidence=75% threat=botnet_cc
+185.198.58.107:56002	ThreatFox	2026-08-27	family=win.pure_rat | confidence=75% threat=botnet_cc
+185.198.58.107:56003	ThreatFox	2026-08-27	family=win.pure_rat | confidence=75% threat=botnet_cc
+109.107.168.197:3333	ThreatFox	2026-08-27	family=win.snappy_client | confidence=75% threat=botnet_cc
+109.107.168.197:3334	ThreatFox	2026-08-27	family=win.snappy_client | confidence=75% threat=botnet_cc
+135.136.135.54:443	ThreatFox	2026-08-27	family=unknown | confidence=75% threat=botnet_cc
+102.220.160.58:419	ThreatFox	2026-08-27	family=win.tofsee | confidence=75% threat=botnet_cc
+102.220.160.58:428	ThreatFox	2026-08-27	family=win.tofsee | confidence=75% threat=botnet_cc
+102.220.160.58:431	ThreatFox	2026-08-27	family=win.tofsee | confidence=75% threat=botnet_cc
+159.223.110.159:54321	ThreatFox	2026-08-27	family=unknown_rat | confidence=75% threat=botnet_cc
+94.103.88.121:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+95.135.181.73:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+2.27.5.214:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+31.77.228.40:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+31.77.228.62:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+43.228.157.66:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+45.88.91.77:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+78.17.93.167:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+80.76.49.106:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+80.76.49.77:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+91.92.241.119:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+91.92.241.69:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+91.92.242.73:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+196.251.107.163:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+158.94.209.112:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+158.94.211.113:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+160.20.109.16:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+160.20.109.33:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+160.20.109.90:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+178.16.52.90:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+193.148.56.226:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+135.181.127.244:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+158.94.208.32:80	ThreatFox	2026-08-27	family=win.stealc | confidence=75% threat=botnet_cc
+137.220.151.95:8888	ThreatFox	2026-08-27	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+154.12.90.231:443	ThreatFox	2026-08-27	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+94.154.43.249:8001	ThreatFox	2026-08-27	family=elf.aisuru | confidence=100% threat=botnet_cc
+159.65.50.202:8443	ThreatFox	2026-08-27	family=elf.aisuru | confidence=100% threat=botnet_cc
+46.101.146.87:9035	ThreatFox	2026-08-27	family=elf.aisuru | confidence=100% threat=botnet_cc
+139.99.9.133:5555	ThreatFox	2026-08-27	family=unknown | confidence=90% threat=botnet_cc
+78.46.89.102:7777	ThreatFox	2026-08-27	family=unknown | confidence=90% threat=botnet_cc
+64.227.187.82:37215	ThreatFox	2026-08-27	family=elf.aisuru | confidence=100% threat=botnet_cc
+154.94.224.35:2096	ThreatFox	2026-08-27	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+156.40.156.39:80	ThreatFox	2026-08-27	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+154.94.224.35:2087	ThreatFox	2026-08-27	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+143.198.84.165:9034	ThreatFox	2026-08-27	family=elf.aisuru | confidence=100% threat=botnet_cc
+104.248.247.126:8080	ThreatFox	2026-08-27	family=elf.aisuru | confidence=100% threat=botnet_cc
+139.59.154.153:8080	ThreatFox	2026-08-27	family=elf.aisuru | confidence=100% threat=botnet_cc
+139.59.154.153:8443	ThreatFox	2026-08-27	family=elf.aisuru | confidence=100% threat=botnet_cc
+143.198.84.165:37215	ThreatFox	2026-08-27	family=elf.aisuru | confidence=100% threat=botnet_cc
+45.63.43.183:7000	ThreatFox	2026-08-27	family=win.quasar_rat | confidence=100% threat=botnet_cc
+144.48.124.90:18111	ThreatFox	2026-08-27	family=win.vshell | confidence=100% threat=botnet_cc
+45.11.231.147:2420	ThreatFox	2026-08-27	family=win.remcos | confidence=100% threat=botnet_cc
+118.107.44.39:7800	ThreatFox	2026-08-27	family=win.valley_rat | confidence=100% threat=botnet_cc
+118.107.44.39:7811	ThreatFox	2026-08-27	family=win.valley_rat | confidence=100% threat=botnet_cc
+144.48.124.90:1100	ThreatFox	2026-08-27	family=win.vshell | confidence=100% threat=botnet_cc
+144.48.124.90:8877	ThreatFox	2026-08-27	family=win.vshell | confidence=100% threat=botnet_cc
+38.60.203.203:80	ThreatFox	2026-08-27	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+38.60.203.203:8080	ThreatFox	2026-08-27	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+49.235.130.208:33060	ThreatFox	2026-08-27	family=unknown | confidence=100% threat=botnet_cc
+109.122.18.169:5560	ThreatFox	2026-08-27	family=win.njrat | confidence=100% threat=botnet_cc
+119.91.49.9:9876	ThreatFox	2026-08-27	family=win.vshell | confidence=100% threat=botnet_cc
+38.60.203.203:443	ThreatFox	2026-08-27	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+106.15.44.150:8080	ThreatFox	2026-08-27	family=win.vshell | confidence=100% threat=botnet_cc
+45.203.213.231:6088	ThreatFox	2026-08-27	family=win.valley_rat | confidence=100% threat=botnet_cc
+45.203.213.231:6099	ThreatFox	2026-08-27	family=win.valley_rat | confidence=100% threat=botnet_cc
+45.148.18.44:60507	ThreatFox	2026-08-27	family=win.remcos | confidence=100% threat=botnet_cc
+49.235.130.208:111	ThreatFox	2026-08-27	family=unknown | confidence=100% threat=botnet_cc
+49.235.130.208:3306	ThreatFox	2026-08-27	family=unknown | confidence=100% threat=botnet_cc
+49.235.130.208:443	ThreatFox	2026-08-27	family=unknown | confidence=100% threat=botnet_cc
+49.235.130.208:8080	ThreatFox	2026-08-27	family=unknown | confidence=100% threat=botnet_cc
+8.160.179.135:80	ThreatFox	2026-08-27	family=win.vshell | confidence=100% threat=botnet_cc
+47.102.118.214:8084	ThreatFox	2026-08-27	family=win.vshell | confidence=100% threat=botnet_cc
+31.77.129.95:25565	ThreatFox	2026-08-26	family=unknown | confidence=50% threat=botnet_cc
+31.76.111.12:27364	ThreatFox	2026-08-26	family=unknown | confidence=50% threat=botnet_cc
+185.69.122.53:4444	ThreatFox	2026-08-26	family=unknown | confidence=50% threat=botnet_cc
+118.89.124.88:8080	ThreatFox	2026-08-26	family=win.vshell | confidence=100% threat=botnet_cc
+128.90.135.164:4444	ThreatFox	2026-08-26	family=win.asyncrat | confidence=100% threat=botnet_cc
+198.23.209.155:6466	ThreatFox	2026-08-26	family=win.asyncrat | confidence=75% threat=botnet_cc
+23.254.240.220:31337	ThreatFox	2026-08-26	family=win.sliver | confidence=75% threat=botnet_cc
+45.221.118.139:31337	ThreatFox	2026-08-26	family=win.sliver | confidence=75% threat=botnet_cc
+103.121.92.249:31337	ThreatFox	2026-08-26	family=win.sliver | confidence=75% threat=botnet_cc
+213.176.114.69:31337	ThreatFox	2026-08-26	family=win.sliver | confidence=75% threat=botnet_cc
+172.94.9.81:31337	ThreatFox	2026-08-26	family=win.sliver | confidence=75% threat=botnet_cc
+31.76.111.106:31337	ThreatFox	2026-08-26	family=win.sliver | confidence=75% threat=botnet_cc
+209.99.186.142:55009	ThreatFox	2026-08-26	family=win.pure_rat | confidence=75% threat=botnet_cc
+31.58.209.241	OTX	2026-08-26	family=Sliver | pulse='Philippine Nuclear Agency and Naval Contractor Targeted by Suspected Chinese-Speaking Operator Using Known Vulnerabilities' pulse_id=6a8f1fe1d950c245b840741b
+45.152.198.108	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+176.124.220.153	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+82.117.87.192	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+82.117.87.138	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+185.96.80.54	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+109.120.187.217	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+109.172.95.121	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+138.124.112.213	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+138.124.14.130	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+185.125.101.181	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+185.96.80.110	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+193.233.245.45	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+193.233.245.52	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+46.226.162.68	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+62.60.237.22	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+77.110.104.98	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+77.110.105.244	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+77.110.105.56	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+77.110.105.59	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+77.110.98.66	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+79.137.192.38	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+80.71.224.30	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+85.192.30.211	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+153.75.84.173	OTX	2026-08-25	family=SectopRAT | pulse='Ten Minutes to Containment: How Agentic MXDR Scoped a Fake Claude Desktop Intrusion' pulse_id=6a8cb55752ef1f23f4813908

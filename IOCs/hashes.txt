@@ -11172,3 +11172,67 @@ c40224524a925451dadcad4452f8d4e8	OTX	2026-08-25	family=PavinLoader | pulse='Trac
 ba1cf6e507981d355cdb395547259fde25590b81	OTX	2026-08-25	family=PavinLoader | pulse='Tracking PavinLoader across ClickFix and fake download campaigns' pulse_id=6a8d406a23f75e32b69c2029
 cfd1eeaaa81c4133378190cc1d34379bd7f8afa9	OTX	2026-08-25	family=PavinLoader | pulse='Tracking PavinLoader across ClickFix and fake download campaigns' pulse_id=6a8d406a23f75e32b69c2029
 e25982db20dc1272ea5a1d41c8c86c734c2e15df	OTX	2026-08-25	family=PavinLoader | pulse='Tracking PavinLoader across ClickFix and fake download campaigns' pulse_id=6a8d406a23f75e32b69c2029
+ac9d11435d475086b80ebe7d6943fc83	ThreatFox	2026-08-27	family=unknown | confidence=100% threat=payload | vt=52/75
+ede70699452c4bf8ec5adef4aff6ba44	ThreatFox	2026-08-27	family=unknown | confidence=100% threat=payload | vt=50/75
+6debc99188a94275117a538e519f26cd7628b243835834ca6e945e1cdc3a0d6c	MalwareBazaar	2026-08-27	filetype=exe md5=579002bc96afe039e69abc9014df2978 sha1=3ab96ab9f14848719b4d779df1386daec0e5dfcd | vt=41/75
+4bd08eb22f2a2a8c89197fa364846939f06903f2f1a0b4bdcd6fb4242c2af976	MalwareBazaar	2026-08-27	filetype=exe md5=c049b0a41135ff8c5b0464d669f34b21 sha1=35cfa8efbd37beb6ab2a4c24f7860f02d154161f | vt=35/75
+ae4144ff75a9b6371fd4d0ce0cce0e1d7be82f3c28eeea62ed5b9b0bea3450a6	MalwareBazaar	2026-08-27	filetype=bat md5=fbe64c12674d2c04df8bc78d5b830940 sha1=31e1650ec393da4b6b010a86b54204a9c69422fa | vt=2/75
+d0a6bfc9f3ab087fd18b5256c56ede8a95a3ce90dbf059ffdf9ad0c52c86c34b	MalwareBazaar	2026-08-27	filetype=hta md5=a161bbba0c2deb2981fd9be736f26181 sha1=decc11b45b5437d257a0d0e724892c990d3aee65 | vt=22/75
+c65eb5b1fa5e4422e585065c360999934e9e77c48af91bdc386e157538b51e91	MalwareBazaar	2026-08-27	filetype=js md5=e4f6e0191d21e3b87592fbd7168473d6 sha1=4ef05098ebfb608ad385e3a4a203d55eebd3561a | vt=5/75
+e3a66437a0da269213728ca97e4bd4179dac45110940ecd55ee488a6f2a13de2	MalwareBazaar	2026-08-27	filetype=exe md5=0e83e4d8a79179c73c67ded3d36a44ec sha1=669c5a746581d44c21a9f0d2e87d0a67342a8220 | vt=22/75
+6c1b6726e2bd204301aac828d241ad8fa8097312cfe43d03114cf24e8c367d38	MalwareBazaar	2026-08-27	filetype=exe md5=bb5cd01cdf306543e48634a94964416e sha1=dc06cad5d840bf4238dd3d7f30a150a3578cad87 | vt=59/74
+2cae63ea97507418aec97137f6080e73	ThreatFox	2026-08-27	family=win.termite | confidence=100% threat=payload
+4c58195328f5b5e4a37aa6f42b386172	ThreatFox	2026-08-27	family=win.termite | confidence=100% threat=payload
+6b06aae5ec596cdbc1b9d4c457fd5f81	ThreatFox	2026-08-27	family=win.termite | confidence=100% threat=payload
+f0aa83bbbd2c75e2f71ec16029ee5fcfad59f3a8efa30a500b815f0f6c18d987	ThreatFox	2026-08-27	family=elf.redtail | confidence=90% threat=payload
+ed23a8c75dc4f04acd8b68c51a0ebdb4d5cce6c06eed2451ebd0428a32d9df99	ThreatFox	2026-08-27	family=elf.redtail | confidence=90% threat=payload
+3f3a11bafabb1a35db913cfe51995f2e357d049e268860175876ae5a93d23892	ThreatFox	2026-08-27	family=elf.redtail | confidence=85% threat=payload
+eadf1a5f058ec8811ea87536badb474a	ThreatFox	2026-08-27	family=win.glassrat | confidence=95% threat=payload
+c1d38c3132ef3f55b417e898da98a54ac5940537f4c2281bcacc430c4a25f646	ThreatFox	2026-08-27	family=win.glassrat | confidence=95% threat=payload
+2fd2d9bc5106a3b5379269926b0feb43	ThreatFox	2026-08-27	family=win.valley_rat | confidence=95% threat=payload
+842b09509ab819c1e7edecd41d4c301b	ThreatFox	2026-08-27	family=win.svcstealer | confidence=95% threat=payload
+78a29a09726ad370e782cbd3e88490cecea695112f9171d9d8168a18b25ef67b	ThreatFox	2026-08-27	family=win.valley_rat | confidence=95% threat=payload
+32b173a4a2bbc767d93bd6c645170479f1d3eb27f9ae5b47c9260ec31f739bf7	ThreatFox	2026-08-27	family=win.svcstealer | confidence=95% threat=payload
+d6c51408605a788a10266b4416d6a8ec	ThreatFox	2026-08-27	family=win.vidar | confidence=95% threat=payload
+91f4d29bbd95d3f69bde9a5a92c85143	ThreatFox	2026-08-27	family=win.acr_stealer | confidence=95% threat=payload
+7274541ff85fa7563b8731fa5c403f756f8358dd127bb5d1810c06adf4b813a4	ThreatFox	2026-08-27	family=win.vidar | confidence=95% threat=payload
+81de4d530901a1df65b325368728f4eea2c39e7e53a2df97aec3744771d86a1e	ThreatFox	2026-08-27	family=win.acr_stealer | confidence=95% threat=payload
+35850fc8c8d89cb0fd8a4d861bf9c19447c7ebb21a378f1d9f16ed4fbbdc9792	ThreatFox	2026-08-27	family=win.yibackdoor | confidence=95% threat=payload
+1e8dfade6e3f0ae965fc86012ca1a9bd	ThreatFox	2026-08-27	family=win.yibackdoor | confidence=95% threat=payload
+dc91dc4df6fa3c34f8f427a34460d737	ThreatFox	2026-08-27	family=win.stealc | confidence=95% threat=payload
+0b4dc32d947ae8371aaa88210787244bc31b7b9a5e6c35b41bc093f405533a71	ThreatFox	2026-08-27	family=win.stealc | confidence=95% threat=payload
+117365d3571671b10ce89722fb3cf76a18801d4df1eec9c5b9119d1282b7b82b	ThreatFox	2026-08-27	family=win.wannacryptor | confidence=95% threat=payload
+3af0529e39dce90659e23cbfd48ae6dd	ThreatFox	2026-08-27	family=win.wannacryptor | confidence=95% threat=payload
+0cad181b2a0c10c287173b15efa7bf92d387987a41a49ad9be3c486e43e3ddc2	ThreatFox	2026-08-27	family=win.vidar | confidence=95% threat=payload
+ea673e77c29375d2c4a99f614ab7cb42	ThreatFox	2026-08-27	family=win.vidar | confidence=95% threat=payload
+0c307efa752ca4d412aee733c3d4c3453942b44a22ec2b0d405156003beddc36	ThreatFox	2026-08-27	family=win.vidar | confidence=95% threat=payload
+c35ce68527dc8dc5f04b7c9a56472b25	ThreatFox	2026-08-27	family=win.vidar | confidence=95% threat=payload
+cae433526c1a27f11450b7db43f8bd03	ThreatFox	2026-08-27	family=win.coinminer | confidence=95% threat=payload
+4499187a334b28f13b85b35e0ad2d1423250199d4d284a2e7d0e3125d007c4d2	ThreatFox	2026-08-27	family=win.wannacryptor | confidence=95% threat=payload
+e26e5728715f3aaf3f2267f86dce89e7	ThreatFox	2026-08-27	family=win.wannacryptor | confidence=95% threat=payload
+fccf06172119b4ae6f146e45d8f35fcdb248fab1fe4471fac301d33d5ffd5b37	ThreatFox	2026-08-27	family=win.coinminer | confidence=95% threat=payload
+c391c8763b10b0a558f274e9553624edf70212b4658527fc7af97e0bed249254	MalwareBazaar	2026-08-27	family=RemusStealer | filetype=exe md5=7d7b0300e4ffa28611ab2f945765b30c sha1=93df50d86357443d8517e9ff4fcd5a01af028472
+ca9cf0a1f42a5b3bb1266c30c5a2e1510c955af95ca07ed4bec03145dda9e908	MalwareBazaar	2026-08-27	family=Vidar | filetype=exe md5=a85185758e34f35cd9012e9ba0fe30fd sha1=0d42a7d3217050284b851d0c7470e7d728949a40
+01afd92a73ffe2308a60f215b4999f4929b8b4f7f0aa2a053969fb994ac6743f	MalwareBazaar	2026-08-27	family=Mirai | filetype=elf md5=6556b7cafd8ee358163d20533b7e3539 sha1=e065a05eff62b8ed4a1625361ce73e8f111c0513
+74767c9861b094c67c72251577a61a4dac640532b2f9c3d97e77b00c15825687	MalwareBazaar	2026-08-27	family=Mirai | filetype=elf md5=6526118b4c97367217f3f2eec51973b7 sha1=028202eab3e0a07f93f6cb2c4e041438df80c6ae
+bd272ade659825489680409b8203fa0849a67e415b3b27b3a84af278c11ae94b	MalwareBazaar	2026-08-27	family=Stealc | filetype=exe md5=d71d6dc27d6a6ebb77b89f4c4d9916d5 sha1=8c87820d733b32f62a8beaeda7f0fac3d6aff6b1
+b8333cb31310f8c54917e3b10c54ff1089bab17f1db6328bf34a00890396a67e	MalwareBazaar	2026-08-27	family=Stealc | filetype=exe md5=20198d6aec9208e85f2411b054f3f306 sha1=35281c8b8a842df242a9aa3f3b3eb66d78f81609
+24874cc2145f8cb88952424d857387e09ad2ee360fc99d7e90da4d966d6155c2	MalwareBazaar	2026-08-27	family=Mirai | filetype=elf md5=2fdb6352abfc38d03a0f5eb70f0b5c2d sha1=5ae355637f5b4128e4eef9250839b8bc117a2783
+bcde5249b6e351e8beacc988662c77435803709d4de448daf21d8c1d9506dd79	MalwareBazaar	2026-08-27	family=Gafgyt | filetype=sh md5=49960a49dd630edb1e0118fb926212a8 sha1=a2de17330c8b88d5faae0db58b3652deaf2fdc7f
+10df3451915ea35bcb17efe121415f24182680e2d07fc09df07ee695072104c1	OTX	2026-08-26	family=Sliver | pulse='Philippine Nuclear Agency and Naval Contractor Targeted by Suspected Chinese-Speaking Operator Using Known Vulnerabilities' pulse_id=6a8f1fe1d950c245b840741b
+7447d0d0c34779d4c519823b39bf6ddc16d2b34a226b82ee69da6f5b4a77ad82	OTX	2026-08-26	family=Sliver | pulse='Philippine Nuclear Agency and Naval Contractor Targeted by Suspected Chinese-Speaking Operator Using Known Vulnerabilities' pulse_id=6a8f1fe1d950c245b840741b
+27cc65cb6261ef0d584287cf09bdafcc	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+40d99e70de5918c6cad144dfc1ad4acd806aca3b	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+0a6da70548f14834acb8960689a589b48ff422f8385ae445a281aab77045fe22	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+1e499c815146124c4a6d2b48c99068b980ad74e1a2cfd16013f8d75a9425a0ca	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+77f7ad29f4a8037ee5f38d3d87fb91cfd97cb8f7fa7883edf3fce506df5200c0	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+8c03d072df2e1bf14b0c00a8ab99834138c8b69f301849bf09cb44394e916015	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+a2cdf2fe741de4b13ad2298b387a6c32da4a94da180ae75bf8547386aee7376b	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+c9da1b08a39491dfdbede6ff4c1a2d383f57cb29e2d3532aee08d6e0a5c1dda6	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+9f2be216c5df190806e621e970c9f3e106048441	OTX	2026-08-26	family=GoCaracal | pulse='Dark Caracal Reloaded: New Malware, Same Hunting Grounds' pulse_id=6a8f1fe07f5ffb26e71db532
+41b731279b1778a9f578e4ed2589f46c4bef32793b292862cf96279a3ead1c41	OTX	2026-08-26	family=canada revenue agency | pulse='RMM Phishing Campaign: Malware Analysis' pulse_id=6a8edcdfbe73c1e4ce16cdf2
+132d864bb199105d639edb115249302243eafdb0fc21efb86cc6b6c0d49866f0	OTX	2026-08-26	family=canada revenue agency | pulse='RMM Phishing Campaign: Malware Analysis' pulse_id=6a8edcdfbe73c1e4ce16cdf2
+51f0cc172ced2e90acbc01c2872c697644380e597076350a6b286c96ab7ccb42	OTX	2026-08-26	family=canada revenue agency | pulse='RMM Phishing Campaign: Malware Analysis' pulse_id=6a8edcdfbe73c1e4ce16cdf2
+0da123adf9251957a4b850a3f6bd6a753dd4892be176a84a18450e899534cc5e	OTX	2026-08-26	family=EKZ Stealer | pulse='Fortinet Vulnerability CVE-2026-35616 and EKZ Stealer, Attacking Obfuscating Compilers with Binary Ninja Workflows' pulse_id=6a8e93fa515a9f75d15acbf5
+338662fd0c4d750a0ba203a32b59f081	OTX	2026-08-26	family=EKZ Stealer | pulse='Fortinet Vulnerability CVE-2026-35616 and EKZ Stealer, Attacking Obfuscating Compilers with Binary Ninja Workflows' pulse_id=6a8e93fa515a9f75d15acbf5
+17e771c78430cc67e71d4547f8996a1a488e9d3f	OTX	2026-08-26	family=EKZ Stealer | pulse='Fortinet Vulnerability CVE-2026-35616 and EKZ Stealer, Attacking Obfuscating Compilers with Binary Ninja Workflows' pulse_id=6a8e93fa515a9f75d15acbf5

@@ -1,0 +1,63 @@
+title: Network Connection to Gocaracal Infrastructure
+id: 765cdb47-b22d-4330-be17-908718b20535
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Gocaracal.
+date: 2026-08-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - asiogate
+    - bandook
+    - blockchain infrastructure
+    - cyberespionage
+    - ethereum c2 fallback
+    - gocaracal
+    - latin america targeting
+    - malware.gocaracal
+    - modular framework
+    - venezuela
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'contabilidad.icu'
+        - 'documentodigital.cloud'
+        - 'getpdfdigital.cloud'
+        - 'soportedigital.cloud'
+        - 'gestionadocs.me'
+        - 'getpdf.digital'
+        - 'visualizarpdf.online'
+        DestinationIp|contains:
+        - '45.152.198.108'
+        - '176.124.220.153'
+        - '82.117.87.192'
+        - '82.117.87.138'
+        - '185.96.80.54'
+        - '109.120.187.217'
+        - '109.172.95.121'
+        - '138.124.112.213'
+        - '138.124.14.130'
+        - '185.125.101.181'
+        - '185.96.80.110'
+        - '193.233.245.45'
+        - '193.233.245.52'
+        - '46.226.162.68'
+        - '62.60.237.22'
+        - '77.110.104.98'
+        - '77.110.105.244'
+        - '77.110.105.56'
+        - '77.110.105.59'
+        - '77.110.98.66'
+        - '79.137.192.38'
+        - '80.71.224.30'
+        - '85.192.30.211'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
