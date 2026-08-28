@@ -1,0 +1,33 @@
+title: Network Connection to Hydraq - S0203 Infrastructure
+id: ad000fc4-225c-4600-aad3-d7031feda25c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Hydraq - S0203.
+date: 2026-08-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - active directory compromise
+    - adcs exploitation
+    - aurora
+    - cryptocurrency laundering
+    - cve-2017-0144
+    - esxi encryption
+    - malware.hydraq___s0203
+    - ransomware
+    - russian-speaking affiliate
+    - zig programming language
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'ijexszhscln27nl263lmcd7tx3jttkhm4wjhd4e3y6r4csdbfyeprvid.onion'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

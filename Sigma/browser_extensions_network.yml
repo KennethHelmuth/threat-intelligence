@@ -1,0 +1,59 @@
+title: Network Connection to Browser Extensions Infrastructure
+id: 3f1cfab4-242f-4e2f-a9ab-f9c3a24541dc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Browser Extensions.
+date: 2026-08-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser extensions
+    - credential harvesting
+    - cryptocurrency theft
+    - csp stripping
+    - malware.browser_extensions
+    - supply chain compromise
+    - wallet drainer
+    - websocket c2
+    - xss injection
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'cookie-whitelist.com'
+        - 'whale-alert.life'
+        - 'api.extensionanalyticspro.top'
+        - 'blockfolioaddressmonitor.pro'
+        - 'cookie-whitelist.top'
+        - 'cryptopricebadgequickglance.pro'
+        - 'cryptoratesfiatconverter.pro'
+        - 'defipulsetracker.pro'
+        - 'enable-right-click.click'
+        - 'ggle-analytics.co'
+        - 'ggle-analytics.com'
+        - 'lucky-random.sbs'
+        - 'password-protect-pdf.com'
+        - 'pricealarmsvolatilitywarnings.pro'
+        - 'privatecryptonewsreader.pro'
+        - 'whale-alert.art'
+        - 'api.active-enable-right-click.top'
+        - 'api.codefilearc.net'
+        - 'api.creativelibrary.top'
+        - 'api.enable-right-click.click'
+        - 'content.resonanceweb.top'
+        - 'e.runtime.id'
+        - 'extension.io-safe.icu'
+        - 'feedback.feedx-ray.top'
+        - 'payload.siteinsight.bond'
+        - 'relay.seopulsepro.sbs'
+        - 'ws.seopulsepro.sbs'
+        - 'ws.site-signal.top'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

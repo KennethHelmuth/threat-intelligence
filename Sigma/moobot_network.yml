@@ -1,0 +1,37 @@
+title: Network Connection to Moobot Infrastructure
+id: 8ecd624e-ee61-424e-b707-bbcf63b4544d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Moobot.
+date: 2026-08-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - botnet
+    - c2 infrastructure
+    - chinese cybercrime
+    - ddos-as-a-service
+    - iot security
+    - malware.moobot
+    - mirai
+    - moobot
+    - stresd pro+
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'api.cemg.xyz'
+        DestinationIp|contains:
+        - '162.141.92.192'
+        - '112.21.241.27'
+        - '39.175.139.108'
+        - '86.53.111.212'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

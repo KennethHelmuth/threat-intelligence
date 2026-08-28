@@ -1,0 +1,32 @@
+title: DNS Query to Speakingstone Domains
+id: 0672465d-f76f-4ca3-9839-9b8a2ac5efe2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Speakingstone.
+date: 2026-08-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - backdoor
+    - darklantern
+    - endlessdoors
+    - firmware implants
+    - malware.speakingstone
+    - phone-home implant
+    - speakingstone
+    - supply chain compromise
+    - surveillance infrastructure
+    - zbt routers
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'www.ac-link.com'
+        - 'www.findmyipaddr.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

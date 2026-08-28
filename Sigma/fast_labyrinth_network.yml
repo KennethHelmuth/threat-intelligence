@@ -1,0 +1,52 @@
+title: Network Connection to Fast Labyrinth Infrastructure
+id: 83b71c55-57c5-40e3-aeb8-645d015b88f0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Fast Labyrinth.
+date: 2026-08-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - china-nexus
+    - critical infrastructure targeting
+    - cyber espionage
+    - fast labyrinth
+    - malware.fast_labyrinth
+    - proxy infrastructure
+    - qscan
+    - qtrouter
+    - quartermaster model
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'qt-team.com'
+        - 'qtproxy.xyz'
+        - 'qt-proxy.org'
+        - 'mq-task.qt-proxy.org'
+        - 'mq-result.qt-proxy.org'
+        - 'www.qtproxy.xyz'
+        - 'instantmessagehub.tech'
+        - 'mq-result-qt-team.com'
+        - 'mq-task-qt-team.com'
+        - 'flanycast-hk-bak.yotocloud.com'
+        - 'flanycast-hk.yotocloud.com'
+        - 'flanycast-jp.yotocloud.com'
+        - 'flanycast-sg.yotocloud.com'
+        - 'flanycast-tw.yotocloud.com'
+        - 'flanycast-us-bak.yotocloud.com'
+        - 'flanycast-us.yotocloud.com'
+        - 'flanycast-xxxx.yotocloud.com'
+        - 'flnode-dl.yotocloud.com'
+        - 'flnode-ulus.yotocloud.com'
+        - 'flnode-xxxx.yotocloud.com'
+        - 'jump.qt-proxy.org'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

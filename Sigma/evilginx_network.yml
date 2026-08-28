@@ -1,0 +1,63 @@
+title: Network Connection to Evilginx Infrastructure
+id: efe27b8e-ed5c-4723-8d59-aa0bb2f3c7c9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Evilginx.
+date: 2026-08-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential harvesting
+    - device code phishing
+    - dns pivoting
+    - evilginx
+    - infrastructure tracking
+    - malware.evilginx
+    - oauth phishing
+    - russian cyber espionage
+    - think tank targeting
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'fileshareapp.org'
+        - 'sharefolders.org'
+        - 'formshare.cloud'
+        - 'drive.google.sharefolders.org'
+        - 'drive.google.formshare.cloud'
+        - 'usercontent.online'
+        - 'drive.google.usercontent.online'
+        - 'fllefolder.com'
+        - 'drive.google.linkfileshare.net'
+        - 'linkfileshare.net'
+        - 'drive.worksplace.cloud'
+        - '8291.ru'
+        - 'ad-g.org'
+        - 'antonov.live'
+        - 'eurcpa.org'
+        - 'schoolclasssciencemath.me'
+        - 'sharedfolders.org'
+        - 'the-washington-ballet.com'
+        - 'account.securemail3d.ru'
+        - 'accounts.gsecure.space'
+        - 'cloud.3dsecurity.ru'
+        - 'cloud.mailsecure.ru'
+        - 'cloud.rsecure.ru'
+        - 'drive.google.anticens.xyz'
+        - 'drive.google.anticorruption.eurcpa.org'
+        - 'drive.google.sharedfolders.org'
+        - 'gdrive.gregc.online'
+        - 'login.antonov.live'
+        - 'login.intergroup.media'
+        - 'mail2.spravedlivo.site'
+        DestinationIp|contains:
+        - '185.158.250.155'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

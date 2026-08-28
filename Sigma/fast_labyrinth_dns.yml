@@ -1,0 +1,50 @@
+title: DNS Query to Fast Labyrinth Domains
+id: 3bb2cb4f-9e47-4635-bc6e-a125539087e3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Fast Labyrinth.
+date: 2026-08-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - china-nexus
+    - critical infrastructure targeting
+    - cyber espionage
+    - fast labyrinth
+    - malware.fast_labyrinth
+    - proxy infrastructure
+    - qscan
+    - qtrouter
+    - quartermaster model
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'qt-team.com'
+        - 'qtproxy.xyz'
+        - 'qt-proxy.org'
+        - 'mq-task.qt-proxy.org'
+        - 'mq-result.qt-proxy.org'
+        - 'www.qtproxy.xyz'
+        - 'instantmessagehub.tech'
+        - 'mq-result-qt-team.com'
+        - 'mq-task-qt-team.com'
+        - 'flanycast-hk-bak.yotocloud.com'
+        - 'flanycast-hk.yotocloud.com'
+        - 'flanycast-jp.yotocloud.com'
+        - 'flanycast-sg.yotocloud.com'
+        - 'flanycast-tw.yotocloud.com'
+        - 'flanycast-us-bak.yotocloud.com'
+        - 'flanycast-us.yotocloud.com'
+        - 'flanycast-xxxx.yotocloud.com'
+        - 'flnode-dl.yotocloud.com'
+        - 'flnode-ulus.yotocloud.com'
+        - 'flnode-xxxx.yotocloud.com'
+        - 'jump.qt-proxy.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

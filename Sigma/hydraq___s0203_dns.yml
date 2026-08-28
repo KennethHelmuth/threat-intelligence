@@ -1,0 +1,31 @@
+title: DNS Query to Hydraq - S0203 Domains
+id: 91d89b2e-7475-48d6-84fe-88f6574e8ddd
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Hydraq - S0203.
+date: 2026-08-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - active directory compromise
+    - adcs exploitation
+    - aurora
+    - cryptocurrency laundering
+    - cve-2017-0144
+    - esxi encryption
+    - malware.hydraq___s0203
+    - ransomware
+    - russian-speaking affiliate
+    - zig programming language
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'ijexszhscln27nl263lmcd7tx3jttkhm4wjhd4e3y6r4csdbfyeprvid.onion'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

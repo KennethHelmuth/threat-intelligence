@@ -1,0 +1,30 @@
+title: DNS Query to Moobot Domains
+id: 70420575-9016-42ef-911a-551c89687a37
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Moobot.
+date: 2026-08-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - botnet
+    - c2 infrastructure
+    - chinese cybercrime
+    - ddos-as-a-service
+    - iot security
+    - malware.moobot
+    - mirai
+    - moobot
+    - stresd pro+
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'api.cemg.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
