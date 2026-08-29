@@ -11397,3 +11397,71 @@ d9e2881d3aa1ea40928dac65405fbe7e36989cad51ab46daf493afff757a2493	OTX	2026-08-27	
 8c87134c1b45e990e9568f0a3899b0076f94be16d3c40fa824ac1e6c6ee892db	OTX	2026-08-27	family=The Gentlemen | pulse='‘The Gentlemen’ Profile: Why This Ransomware Group Wants In Before It Locks You Out' pulse_id=6a9035ff9a03d932d9008b31
 a4af136d159a8eb96b54924fa80355ca52874913301300f55af7d67ae97edcfe	OTX	2026-08-27	family=Hydraq - S0203 | pulse='Caught in 4K: The Aurora Files' pulse_id=6a8feed78b0eee1b289d2bbf
 eb0aab1e892d7e09e2c7bcf1d21fd83c1743ed9196b3efac6c78482fb0d99207	OTX	2026-08-27	family=Hydraq - S0203 | pulse='Caught in 4K: The Aurora Files' pulse_id=6a8feed78b0eee1b289d2bbf
+46db2652a3d7c10f6d481c1d43af6b40	ThreatFox	2026-08-29	family=unknown | confidence=100% threat=payload | vt=16/75
+5d2ad1b986cf9f3c471c3df58d14f3134eb117498228b5cef8075984c5eb1d57	ThreatFox	2026-08-29	family=win.404keylogger | confidence=75% threat=payload
+a12e2897ab92927be491431c83e879cc83400e20cdd17f18c44e745354b0c175	ThreatFox	2026-08-28	family=win.vidar | confidence=95% threat=payload
+8e522ecc5c43c7b3ddfe0fd389efbbc7	ThreatFox	2026-08-28	family=win.vidar | confidence=95% threat=payload
+a8336d122352512323454e9fd24d9a7bcc096f793da23284a7301cbecda14a3b	ThreatFox	2026-08-28	family=win.vidar | confidence=95% threat=payload
+817dccc481fd59fc79c76bb85fc77ae4	ThreatFox	2026-08-28	family=win.vidar | confidence=95% threat=payload
+8d06b638ca1acca4815076ae9fa3a4d0	ThreatFox	2026-08-28	family=win.vidar | confidence=95% threat=payload
+0d0bb2656a73610b2695fc8f3db21723	ThreatFox	2026-08-28	family=win.vidar | confidence=95% threat=payload
+98fe10c077d59ab4a89dd551f76bba8ee220838f0c229498adb8471f50c65535	ThreatFox	2026-08-28	family=win.vidar | confidence=95% threat=payload
+712e7912a669a71a7006fd1a0333b5da45dbbc78672c46ae62e794fbc1372959	ThreatFox	2026-08-28	family=win.vidar | confidence=95% threat=payload
+3ee9badaa810b2fb6db57e4644ec40c58e8fe15c6980059a3232a374df5ba4a3	ThreatFox	2026-08-28	family=win.valley_rat | confidence=95% threat=payload
+4818c691ec402f0f2251f1a8d1d8a3b9	ThreatFox	2026-08-28	family=win.valley_rat | confidence=95% threat=payload
+105195dfdfbfdce7cf13f50d92bba761eba5bc22c31000109a67708f61474e12	ThreatFox	2026-08-28	family=win.acr_stealer | confidence=95% threat=payload
+8be48ea27f6cd6b2ec2ef3be4977322d	ThreatFox	2026-08-28	family=win.acr_stealer | confidence=95% threat=payload
+6a4d5ab74aab4d6b8c24edb29d4b6d64	ThreatFox	2026-08-28	family=win.wannacryptor | confidence=95% threat=payload
+57629b1f3807d324e3c51a340228fe5a	ThreatFox	2026-08-28	family=py.stealler | confidence=95% threat=payload
+1738f890d5686b1c17b43166659643dde6ff57fc9ed4143dc9801ae331036273	ThreatFox	2026-08-28	family=win.wannacryptor | confidence=95% threat=payload
+133027a245bc3253038e082b5115a9dc	ThreatFox	2026-08-28	family=win.vidar | confidence=95% threat=payload
+f19ce246b09aec504d8cb547f9d3344e14a6ca898f8d88f2207ece0d74f0d3f1	ThreatFox	2026-08-28	family=py.stealler | confidence=95% threat=payload
+846f4ed47a679e24505470f61d9110db	ThreatFox	2026-08-28	family=win.valley_rat | confidence=95% threat=payload
+0c8c4a99337505f79c05af524ef2c8ce810269a1896b9bd83bbd39454a618b8d	ThreatFox	2026-08-28	family=win.vidar | confidence=95% threat=payload
+9fce0558dd8b2061c7a8baf0877d5384	ThreatFox	2026-08-28	family=win.dcrat | confidence=95% threat=payload
+0bab062af7894bc44d68ebc5b9633a84ffaae1f17671ff3949002c43321ec86a	ThreatFox	2026-08-28	family=win.valley_rat | confidence=95% threat=payload
+2ca17777470b32e4e74b547e5f3f9306	ThreatFox	2026-08-28	family=win.pure_rat | confidence=95% threat=payload
+9b0e3f974dac0023599bb604b5b30e3e763c2d1d28ecff80d307ca73dc06243f	ThreatFox	2026-08-28	family=win.dcrat | confidence=95% threat=payload
+4878d995e4e23c6961c91179e6e2c704	ThreatFox	2026-08-28	family=py.venus_stealer | confidence=95% threat=payload
+f63eb2664ac9076250491b1cb0787042f75a056e235867d9f9967322c5cf20a4	ThreatFox	2026-08-28	family=win.pure_rat | confidence=95% threat=payload
+18054d12b0ba2dc0c9918f455ec86699	ThreatFox	2026-08-28	family=win.coinminer | confidence=95% threat=payload
+5cb54c53e2169a23a815d87229b00c63d1d3c8c0d19e0f92b5e83bd231481419	ThreatFox	2026-08-28	family=py.venus_stealer | confidence=95% threat=payload
+c5616af2cef3dcdb095d8cc55db75c96	ThreatFox	2026-08-28	family=win.amadey | confidence=95% threat=payload
+245f6e3f6750701d58c06bd96f4623c62942305fb32bcdc5a99bf367becaafd0	ThreatFox	2026-08-28	family=win.coinminer | confidence=95% threat=payload
+801e7911d8ef33ab7843bb638c0b5abc	ThreatFox	2026-08-28	family=win.gcleaner | confidence=95% threat=payload
+76e6367d8123171afa540fe92a3758424ec7d1e029c4e5a3b9771e24fe0085c1	ThreatFox	2026-08-28	family=win.amadey | confidence=95% threat=payload
+356484cecd7e391a8376ad70afa8f97a	ThreatFox	2026-08-28	family=win.vidar | confidence=95% threat=payload
+c496e8e8f7cc2e40c515c9dbd98ffce43861acaf504466f478ceaebf712214b8	ThreatFox	2026-08-28	family=win.gcleaner | confidence=95% threat=payload
+bb65c6e1104854b87418a16fffd59230	ThreatFox	2026-08-28	family=win.luca_stealer | confidence=95% threat=payload
+16168cc3b16d768beffaf0fd10f74f86f79da7a2c7ca26edd91c09c1c101811d	ThreatFox	2026-08-28	family=win.vidar | confidence=95% threat=payload
+98f00e36daaf4c4bae91031d4b53ea9b	ThreatFox	2026-08-28	family=win.acr_stealer | confidence=95% threat=payload
+b926a44910e4f4d55c53fdc6d9cdbfb043059355d55fb3595a3434bd69b1e7e3	ThreatFox	2026-08-28	family=win.luca_stealer | confidence=95% threat=payload
+bedeeefa188f9fea4f050848adcb3f0a	ThreatFox	2026-08-28	family=win.formbook | confidence=95% threat=payload
+46ced738ab9a9a37df3e36c6a8603742f26783f0be2fa845bdec10b5ddb50bfb	ThreatFox	2026-08-28	family=win.acr_stealer | confidence=95% threat=payload
+c44e30aa705a5d352079d63eaa1f3dce	ThreatFox	2026-08-28	family=win.formbook | confidence=95% threat=payload
+a2fc3ab543e72decbea89ff3479cc9d813324bccccb291cba2536d95b0bdc64c	ThreatFox	2026-08-28	family=win.formbook | confidence=95% threat=payload
+9c61f3f9e04f32f1d66edbf131ba9a6b	ThreatFox	2026-08-28	family=win.vidar | confidence=95% threat=payload
+94a33fc48ecb504091be4ab6c64cb3b828ac0efe1c9449c8ee952774de38b44f	ThreatFox	2026-08-28	family=win.formbook | confidence=95% threat=payload
+13f0f22fab59d7475a4ff3d926b1de63	ThreatFox	2026-08-28	family=win.vidar | confidence=95% threat=payload
+ba2ff4a8b689fab54670cf87b4008528	ThreatFox	2026-08-28	family=win.ghost_rat | confidence=95% threat=payload
+4f8f926c45e51aa51bea9f95d3e8f34a29bcdc9dec1d3ea40354e50bb69c986b	ThreatFox	2026-08-28	family=win.vidar | confidence=95% threat=payload
+c7d899d6f7ccecb85c409767d8645906	ThreatFox	2026-08-28	family=win.coinminer | confidence=95% threat=payload
+c40eac770e2bc5081175b782c4455d977ccff123571a73c3ab8c8c882db38b85	ThreatFox	2026-08-28	family=win.ghost_rat | confidence=95% threat=payload
+656b90c4553ec077f0ff60bf35edee765dffa4d63d4e2148221f9ef1171bb437	ThreatFox	2026-08-28	family=win.coinminer | confidence=95% threat=payload
+b6296bad0fdf16df0811053e5c5cee71946d05e06222324e76dc26ec676ff976	ThreatFox	2026-08-28	family=py.creal_stealer | confidence=95% threat=payload
+579933376ffc365ca48eb14046655171	ThreatFox	2026-08-28	family=py.creal_stealer | confidence=95% threat=payload
+38588342e64c159b60e1530aef1081bc	ThreatFox	2026-08-28	family=win.luca_stealer | confidence=95% threat=payload
+d47a793404c4bb0419c9ae1fda9847aa6a75a029e60ed65f05645dad9ee9573b	ThreatFox	2026-08-28	family=win.luca_stealer | confidence=95% threat=payload
+c25d4412f7f93e7de5b2aaf41747175d94cffd983ca20efbd0efcdd718b58c4d	OTX	2026-08-28	family=SNOWLIGHT | pulse='A fake resume invoked China's defence-tech elite, then installed VShell' pulse_id=6a91a5a487efed140546d754
+81c51138d5527ca7dcc258171eb36659c479f66c86a8947b6340d040b3860a30	OTX	2026-08-28	family=SNOWLIGHT | pulse='A fake resume invoked China's defence-tech elite, then installed VShell' pulse_id=6a91a5a487efed140546d754
+a7cc7e3cdd2f0f9210044911a483fa5d	OTX	2026-08-28	family=SNOWLIGHT | pulse='A fake resume invoked China's defence-tech elite, then installed VShell' pulse_id=6a91a5a487efed140546d754
+f6d4da5afc89bf9e536a9002c4d256c696df2389d77279f4c5daf6979557e74e	OTX	2026-08-28	family=SNOWLIGHT | pulse='A fake resume invoked China's defence-tech elite, then installed VShell' pulse_id=6a91a5a487efed140546d754
+0524619d2471d77aba4b7993f5ffbaa4b8be6d2c0d91e63a02943851dc4b6404	OTX	2026-08-28	family=SNOWLIGHT | pulse='A fake resume invoked China's defence-tech elite, then installed VShell' pulse_id=6a91a5a487efed140546d754
+ed2eaa6ef3eda95383b6efc35b88acbca742ad7bd118931f74727a3139ff7e97	OTX	2026-08-28	family=SNOWLIGHT | pulse='A fake resume invoked China's defence-tech elite, then installed VShell' pulse_id=6a91a5a487efed140546d754
+c666ac4f1a1b8df7ccfe8b19705279acd8b7eb7a4d0b3802bb3465064883ab25	OTX	2026-08-28	family=SNOWLIGHT | pulse='A fake resume invoked China's defence-tech elite, then installed VShell' pulse_id=6a91a5a487efed140546d754
+de3f56d0d5b71f2a1a1905f0b01b84fbab237e9d4c5179a05b127d806823f83c	OTX	2026-08-28	family=SNOWLIGHT | pulse='A fake resume invoked China's defence-tech elite, then installed VShell' pulse_id=6a91a5a487efed140546d754
+0080cd81db3244b8ba157ffabc1d30fe	OTX	2026-08-28	family=XenoRAT | pulse='July 2026 Threat Trend Report on APT Attacks (South Korea)' pulse_id=6a91687da8e6cd5cc16f64a6
+00f7955410783941d527afc12908556a	OTX	2026-08-28	family=XenoRAT | pulse='July 2026 Threat Trend Report on APT Attacks (South Korea)' pulse_id=6a91687da8e6cd5cc16f64a6
+029628bd99899c750d5537ee637fe3ca	OTX	2026-08-28	family=XenoRAT | pulse='July 2026 Threat Trend Report on APT Attacks (South Korea)' pulse_id=6a91687da8e6cd5cc16f64a6
+03a830875abc607aa30a621eb84697c8	OTX	2026-08-28	family=XenoRAT | pulse='July 2026 Threat Trend Report on APT Attacks (South Korea)' pulse_id=6a91687da8e6cd5cc16f64a6
+09bd2f48fcd29a0ed46b099c4d939024	OTX	2026-08-28	family=XenoRAT | pulse='July 2026 Threat Trend Report on APT Attacks (South Korea)' pulse_id=6a91687da8e6cd5cc16f64a6
