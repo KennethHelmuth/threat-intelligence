@@ -36485,3 +36485,43 @@ http://115.56.43.164:34354/i	URLhaus	2026-08-28	status=offline threat=malware_do
 http://103.31.103.204:49856/i	URLhaus	2026-08-28	status=online threat=malware_download
 http://38.207.178.192:50813/EasyConnectUpdata_Log.txt	OTX	2026-08-28	family=SNOWLIGHT | pulse='A fake resume invoked China's defence-tech elite, then installed VShell' pulse_id=6a91a5a487efed140546d754
 http://38.207.178.192:50813/MySQL_LOG.txt	OTX	2026-08-28	family=SNOWLIGHT | pulse='A fake resume invoked China's defence-tech elite, then installed VShell' pulse_id=6a91a5a487efed140546d754
+http://cdire.shop:9048/files	ThreatFox	2026-08-30	family=win.remus | confidence=75% threat=botnet_cc
+http://flreaow.click:6527/images	ThreatFox	2026-08-30	family=win.remus | confidence=75% threat=botnet_cc
+http://mountat.click:7528/tokens	ThreatFox	2026-08-30	family=win.remus | confidence=75% threat=botnet_cc
+http://shhsift.click:7647/customers	ThreatFox	2026-08-30	family=win.remus | confidence=75% threat=botnet_cc
+http://cdire.shop:9048/contacts	ThreatFox	2026-08-30	family=win.remus | confidence=75% threat=botnet_cc
+https://chi.12naga.org	ThreatFox	2026-08-30	family=win.vidar | confidence=100% threat=botnet_cc
+https://ley.123ful.net	ThreatFox	2026-08-30	family=win.vidar | confidence=100% threat=botnet_cc
+http://112.25.235.194:60134/Mozi.7	ThreatFox	2026-08-30	family=elf.mozi | confidence=75% threat=payload_delivery
+http://175.107.0.8:44034/Mozi.7	ThreatFox	2026-08-30	family=elf.mozi | confidence=75% threat=payload_delivery
+http://116.109.33.252:33235/Mozi.a	ThreatFox	2026-08-30	family=elf.mozi | confidence=75% threat=payload_delivery
+https://daskljtitaskastvv.pro/dsasfd555.js	ThreatFox	2026-08-30	family=win.netsupportmanager_rat | confidence=90% threat=payload_delivery
+http://flreaow.click:6527/imports	ThreatFox	2026-08-30	family=win.remus | confidence=75% threat=botnet_cc
+http://xightne.click:7242/tokens	ThreatFox	2026-08-29	family=win.remus | confidence=75% threat=botnet_cc
+http://fezm.website:9048/webhooks	ThreatFox	2026-08-29	family=win.remus | confidence=75% threat=botnet_cc
+http://spareon.click:8811/folders	ThreatFox	2026-08-29	family=win.remus | confidence=75% threat=botnet_cc
+https://clickzona.net/embed/	ThreatFox	2026-08-29	family=js.iclickfix | confidence=100% threat=payload_delivery
+http://103.26.82.216:35366/Mozi.m	ThreatFox	2026-08-29	family=elf.mozi | confidence=75% threat=payload_delivery
+http://139.135.42.31:43969/Mozi.m	ThreatFox	2026-08-29	family=elf.mozi | confidence=75% threat=payload_delivery
+https://raw.githubusercontent.com/Christa6547/unopened/refs/heads/main/matchbox	ThreatFox	2026-08-29	family=js.clearfake | confidence=100% threat=payload_delivery
+https://bestcloudservicesupport.com	ThreatFox	2026-08-29	family=js.clearfake | confidence=90% threat=payload_delivery
+https://bestguardservicesupport.com	ThreatFox	2026-08-29	family=js.clearfake | confidence=90% threat=payload_delivery
+https://bigdealjournal.com	ThreatFox	2026-08-29	family=js.clearfake | confidence=90% threat=payload_delivery
+http://shhsift.click:7647/orders	ThreatFox	2026-08-29	family=win.remus | confidence=75% threat=botnet_cc
+http://piarl.site:9048/imports	ThreatFox	2026-08-29	family=win.remus | confidence=75% threat=botnet_cc
+https://raw.githubusercontent.com/Kath19634/landowner/refs/heads/main/target	ThreatFox	2026-08-29	family=js.clearfake | confidence=100% threat=payload_delivery
+https://playmounthdom.top/	ThreatFox	2026-08-29	family=win.stealc | confidence=100% threat=botnet_cc
+https://46.225.92.123	ThreatFox	2026-08-29	family=win.vidar | confidence=100% threat=botnet_cc
+http://203.101.186.166:41052/Mozi.m	ThreatFox	2026-08-29	family=elf.mozi | confidence=75% threat=payload_delivery
+https://fish-planet.online	ThreatFox	2026-08-29	family=js.clearfake | confidence=90% threat=payload_delivery
+https://online-park.online	ThreatFox	2026-08-29	family=js.clearfake | confidence=90% threat=payload_delivery
+http://flreaow.click:6527/comments	ThreatFox	2026-08-29	family=win.remus | confidence=75% threat=botnet_cc
+http://piarl.site:9048/documents	ThreatFox	2026-08-29	family=win.remus | confidence=75% threat=botnet_cc
+http://flreaow.click:6527/articles	ThreatFox	2026-08-29	family=win.remus | confidence=75% threat=botnet_cc
+http://piarl.site:9048/collections	ThreatFox	2026-08-29	family=win.remus | confidence=75% threat=botnet_cc
+http://piarl.site:9048/notifications	ThreatFox	2026-08-29	family=win.remus | confidence=75% threat=botnet_cc
+http://cryptovectorhub3.lol:5478/messages	ThreatFox	2026-08-29	family=win.remus | confidence=75% threat=botnet_cc
+http://fresok.top:9048/accounts	ThreatFox	2026-08-29	family=win.remus | confidence=75% threat=botnet_cc
+http://39.34.189.248:42346/Mozi.m	ThreatFox	2026-08-29	family=elf.mozi | confidence=75% threat=payload_delivery
+http://39.89.242.234:38903/Mozi.m	ThreatFox	2026-08-29	family=elf.mozi | confidence=75% threat=payload_delivery
+http://flreaow.click:6527/categories	ThreatFox	2026-08-29	family=win.remus | confidence=75% threat=botnet_cc
