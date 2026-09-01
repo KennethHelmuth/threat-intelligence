@@ -1,0 +1,33 @@
+title: DNS Query to Terminalfix Domains
+id: 13081ae1-b7fb-4bc1-842a-a46470bdb6a3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Terminalfix.
+date: 2026-09-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - active directory reconnaissance
+    - clickfix
+    - dll sideloading
+    - fake captcha
+    - malware.terminalfix
+    - powershell execution
+    - reverse tunnel
+    - steganography
+    - terminalfix
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'bestsocialmedianewspapper.com'
+        - 'offlineupdater.com'
+        - 'gitnow.dev'
+        - 'linked-log.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

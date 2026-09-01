@@ -1,0 +1,42 @@
+title: DNS Query to Gryxa Domains
+id: e5713c5f-9877-4b6b-9b42-9ebd3a0ad12b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Gryxa.
+date: 2026-09-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-assisted-development
+    - behavior-based-detection
+    - gryxa
+    - malware.gryxa
+    - persistence-mechanisms
+    - rmm-client
+    - scheduled-tasks
+    - toolkit
+    - windows-event-subscription
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'gryxa.com'
+        - 'seczio.com'
+        - 'sevrz.com'
+        - 'wirbe.com'
+        - 'cdn.wirbe.com'
+        - 'debian.seczio.com'
+        - 'mesh.wirbe.com'
+        - 'ui.gryxa.com'
+        - 'ui.sevrz.com'
+        - 'update.gryxa.com'
+        - 'update.sevrz.com'
+        - 'ver.wirbe.com'
+        - 'world.wirbe.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

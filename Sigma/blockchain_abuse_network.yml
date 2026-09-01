@@ -1,0 +1,61 @@
+title: Network Connection to Blockchain Abuse Infrastructure
+id: b6e5c939-e2da-4f88-be7f-5036a2a3fbcc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Blockchain Abuse.
+date: 2026-09-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - blockchain abuse
+    - card-skimming
+    - disposable domains
+    - e-commerce attacks
+    - ethereum smart contracts
+    - etherhiding
+    - malware.blockchain_abuse
+    - payment skimming
+    - woocommerce compromise
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'styleranked.com'
+        - 'styleshort.com'
+        - 'styleussles.com'
+        - 'stylehailens.com'
+        - 'styleouresen.com'
+        - 'stylehersi.com'
+        - 'styleember.com'
+        - 'stylestyk.com'
+        - 'styleoutspin.com'
+        - 'stylegamingg.com'
+        - 'stylehelloman.com'
+        - 'stylegamagee.com'
+        - 'styletropik.com'
+        - 'styletimeset.com'
+        - 'stylerunningg.com'
+        - 'stylerightnoww.com'
+        - 'styleteleport.com'
+        - 'stylekanions.com'
+        - 'styleleftt.com'
+        - 'styleconnectorr.com'
+        - 'stylehipp.com'
+        - 'stylecaving.com'
+        - 'stylejunglee.com'
+        - 'stylehotrod.com'
+        - 'stylewify.com'
+        - 'styledupstep.com'
+        - 'styleanimal.com'
+        - 'streetfleshroyalgaming.top'
+        - 'styleferry.com'
+        - 'stylebonus.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,32 @@
+title: DNS Query to Jsceal Domains
+id: 4745a4a4-1087-401b-8b0b-3b9a5f6cf982
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Jsceal.
+date: 2026-09-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser theft
+    - cryptocurrency stealer
+    - deobfuscation
+    - javascript-obfuscator
+    - jsceal
+    - malware.jsceal
+    - mitm proxy
+    - node.js
+    - v8 bytecode
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'console.info'
+        - 'profile.info'
+        - 'cursor.click'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

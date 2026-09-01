@@ -1,0 +1,59 @@
+title: DNS Query to Blockchain Abuse Domains
+id: cf1a790b-1144-4fa6-8771-109aad6bcf81
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Blockchain Abuse.
+date: 2026-09-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - blockchain abuse
+    - card-skimming
+    - disposable domains
+    - e-commerce attacks
+    - ethereum smart contracts
+    - etherhiding
+    - malware.blockchain_abuse
+    - payment skimming
+    - woocommerce compromise
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'styleranked.com'
+        - 'styleshort.com'
+        - 'styleussles.com'
+        - 'stylehailens.com'
+        - 'styleouresen.com'
+        - 'stylehersi.com'
+        - 'styleember.com'
+        - 'stylestyk.com'
+        - 'styleoutspin.com'
+        - 'stylegamingg.com'
+        - 'stylehelloman.com'
+        - 'stylegamagee.com'
+        - 'styletropik.com'
+        - 'styletimeset.com'
+        - 'stylerunningg.com'
+        - 'stylerightnoww.com'
+        - 'styleteleport.com'
+        - 'stylekanions.com'
+        - 'styleleftt.com'
+        - 'styleconnectorr.com'
+        - 'stylehipp.com'
+        - 'stylecaving.com'
+        - 'stylejunglee.com'
+        - 'stylehotrod.com'
+        - 'stylewify.com'
+        - 'styledupstep.com'
+        - 'styleanimal.com'
+        - 'streetfleshroyalgaming.top'
+        - 'styleferry.com'
+        - 'stylebonus.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

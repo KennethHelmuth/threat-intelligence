@@ -1,0 +1,47 @@
+title: Network Connection to Gryxa Infrastructure
+id: e3cf21f0-cbf8-48c8-9ecf-13238776a7ac
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Gryxa.
+date: 2026-09-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-assisted-development
+    - behavior-based-detection
+    - gryxa
+    - malware.gryxa
+    - persistence-mechanisms
+    - rmm-client
+    - scheduled-tasks
+    - toolkit
+    - windows-event-subscription
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'gryxa.com'
+        - 'seczio.com'
+        - 'sevrz.com'
+        - 'wirbe.com'
+        - 'cdn.wirbe.com'
+        - 'debian.seczio.com'
+        - 'mesh.wirbe.com'
+        - 'ui.gryxa.com'
+        - 'ui.sevrz.com'
+        - 'update.gryxa.com'
+        - 'update.sevrz.com'
+        - 'ver.wirbe.com'
+        - 'world.wirbe.com'
+        DestinationIp|contains:
+        - '144.172.107.56'
+        - '209.145.55.189'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
