@@ -1,0 +1,45 @@
+title: DNS Query to Cve-2025-43529 Domains
+id: f04221a1-29f4-4f79-be4e-09ce7814f191
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Cve-2025-43529.
+date: 2026-09-02
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential exfiltration
+    - cryptocurrency theft
+    - cve-2025-31277
+    - cve-2025-43529
+    - cve-2026-43655
+    - funnull infrastructure
+    - ios exploitation
+    - kernel escape
+    - malware.cve_2025_43529
+    - packagist
+    - spyware
+    - supply chain attack
+    - webkit vulnerability
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'xemphimlau.com'
+        - 'funnull01.vip'
+        - 'cre-ads.com'
+        - 'im.ue8im.com'
+        - 'cdn.data-2920.com'
+        - 'www.cloudfareintcdn.com'
+        - 'galedns.com'
+        - 'xl0ph4qz.vip'
+        - 'cloudfareintcdn.com'
+        - 'dq87771.com'
+        - 'lsmzt.cc'
+        - 'cdn.data-2919.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

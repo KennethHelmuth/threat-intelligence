@@ -1,0 +1,48 @@
+title: DNS Query to Noderabbit Domains
+id: bf5f9952-81e2-4c96-8f98-160f6a382a8a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Noderabbit.
+date: 2026-09-02
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aviation sector
+    - azure infrastructure
+    - cross-platform rat
+    - fintech targeting
+    - linkedin recruitment lure
+    - malware.noderabbit
+    - minifast
+    - noderabbit
+    - pollcat
+    - retrograde
+    - trojanized coding challenge
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'msmanagementgrp.com'
+        - 'sahi-finance.com'
+        - 'healthcomfsdpower.com'
+        - 'visitfinancedentists.com'
+        - 'optimumhealthcredit.com'
+        - 'lifespotify.com'
+        - 'msmanagementgrpmedia.com'
+        - 'healthful-hub.com'
+        - 'neumedicahealthcare.com'
+        - 'healthfullyrecipes.com'
+        - 'refreshhealthandwellness.com'
+        - 'healthvitalitycare.com'
+        - 'aceofspadesmanagement.com'
+        - 'glmediaagency.com'
+        - 'digimediaskill.com'
+        - 'healthyweightplan.com'
+        - 'mens-health-online.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

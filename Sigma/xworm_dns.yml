@@ -1,0 +1,48 @@
+title: DNS Query to Xworm Domains
+id: bc5bc824-cc82-42cc-81ed-a8e65e03facb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Xworm.
+date: 2026-09-02
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-assisted malware
+    - banking software
+    - boatbeam
+    - brazil financial fraud
+    - breeze comet
+    - cobaltspin
+    - compromised government sites
+    - kickplate
+    - latin america
+    - lightpaint
+    - malware.xworm
+    - mildfrost
+    - payment system manipulation
+    - pix targeting
+    - realbreeze
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'minacu.go.gov.br'
+        - 'servicos.salto.sp.gov.br'
+        - 'jmcov.gov.py'
+        - 'sit.baer.gob.ve'
+        - 'suporte.camaratunapolis.sc.gov.br'
+        - 'tisup.camaratunapolis.sc.gov.br'
+        - 'www.mrtb.gov.ng'
+        - 'attvpn.vip'
+        - 'cmgovernadorluizrocha.ma.gov.br'
+        - 'procon.go.gov.br'
+        - 'conseg.ssp.go.gov.br'
+        - 'gcm.setelagoas.mg.gov.br'
+        - 'suporte.ourinhos.sp.gov.br'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

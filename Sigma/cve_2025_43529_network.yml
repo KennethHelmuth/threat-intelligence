@@ -1,0 +1,50 @@
+title: Network Connection to Cve-2025-43529 Infrastructure
+id: 51c3a37f-7457-4c26-aa9b-b5f005da3eff
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Cve-2025-43529.
+date: 2026-09-02
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential exfiltration
+    - cryptocurrency theft
+    - cve-2025-31277
+    - cve-2025-43529
+    - cve-2026-43655
+    - funnull infrastructure
+    - ios exploitation
+    - kernel escape
+    - malware.cve_2025_43529
+    - packagist
+    - spyware
+    - supply chain attack
+    - webkit vulnerability
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'xemphimlau.com'
+        - 'funnull01.vip'
+        - 'cre-ads.com'
+        - 'im.ue8im.com'
+        - 'cdn.data-2920.com'
+        - 'www.cloudfareintcdn.com'
+        - 'galedns.com'
+        - 'xl0ph4qz.vip'
+        - 'cloudfareintcdn.com'
+        - 'dq87771.com'
+        - 'lsmzt.cc'
+        - 'cdn.data-2919.com'
+        DestinationIp|contains:
+        - '23.225.48.20'
+        - '23.225.52.67'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

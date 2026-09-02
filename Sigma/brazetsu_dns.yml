@@ -1,0 +1,38 @@
+title: DNS Query to Brazetsu Domains
+id: 3c38c9ad-0807-4546-aa33-323642b8808a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Brazetsu.
+date: 2026-09-02
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - agentev2
+    - ai-powered cybercrime
+    - brazetsu
+    - cnab
+    - cnabhunter
+    - financial remittance
+    - initial access broker
+    - latam
+    - malware.brazetsu
+    - ousaban
+    - python malware
+    - underground marketplace
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'infect.online'
+        - 'caixaentradas1boxshop.site'
+        - 'caixaentradas1inboxshop.site'
+        - 'infectonline.store'
+        - 'installscenter.com'
+        - 'c2.installscenter.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
