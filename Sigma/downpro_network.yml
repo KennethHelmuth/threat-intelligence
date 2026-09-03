@@ -1,0 +1,71 @@
+title: Network Connection to Downpro Infrastructure
+id: 9e2d9e95-57e5-4786-b12f-f4e53fd9be9c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Downpro.
+date: 2026-09-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 3snake
+    - alphaagent
+    - apache modules
+    - brazilian government
+    - bruteforcer
+    - chuser
+    - credential theft
+    - downpro
+    - earth berberoka
+    - gambling goblin
+    - linux toolkit
+    - malware.downpro
+    - orat
+    - passwordharvester
+    - phishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'gitlab.bet'
+        - 'github.wiki'
+        - 'data.windows-update-cdn.com'
+        - 'github.la'
+        - 'kerneltty.com'
+        - 'microsoft-azure-loadbalance.com'
+        - 'playfootball.info'
+        - '404.443.team'
+        - '80.443.team'
+        - '8yiu.kernel-lib.com'
+        - 'api.gitlab.bet'
+        - 'api.onlinevrgame.com'
+        - 'bageyi.kernel-lib.com'
+        - 'br.team-c2.com'
+        - 'br.team-hw.com'
+        - 'data.mirrors-inc.com'
+        - 'devops.aliyuntsl.com'
+        - 'dnslog.kernel-lib.com'
+        - 'file.ijjjst23m.com'
+        - 'hwlocal.team-hw.com'
+        - 'js.ai-jquery.com'
+        - 'rb.aliyuntsl.com'
+        - 'up.443.team'
+        - 'update.aliyun.la'
+        - 'update.opentls2.com'
+        - 'update.team-c2.com'
+        DestinationIp|contains:
+        - '202.146.222.18'
+        - '154.84.62.128'
+        - '154.84.62.145'
+        - '154.84.62.149'
+        - '154.84.62.160'
+        - '192.253.229.23'
+        - '204.16.172.106'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

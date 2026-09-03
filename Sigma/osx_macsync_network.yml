@@ -1,0 +1,61 @@
+title: Network Connection to Osx.Macsync Infrastructure
+id: 04a1da8a-7ff8-40cb-ace7-9c26022aa2e6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Osx.Macsync.
+date: 2026-09-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ClickFix
+    - Fake-Claude
+    - MacSync
+    - macOS
+    - malware.osx.macsync
+    - stealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'cli-desktop.com'
+        - 'fern-plume.com'
+        - 'node-slate.com'
+        - 'jadeleap15.com'
+        - 'loop-lumen.com'
+        - 'charlottedefenseattorney.com'
+        - 'denverpediatricchiropractor.com'
+        - 'wolfmoving.com'
+        - 'zanderrealestate.com'
+        - 'hawaiifencecompany.com'
+        - 'atlantaairporttaxiservice.com'
+        - 'jobureau.com'
+        - 'dallasmobileautomechanic.com'
+        - 'mintnt.com'
+        - 'restoremental.com'
+        - 'polyvideos.com'
+        - 'truheating.com'
+        - 'charlottesvilleinteriordesign.com'
+        - '401trading.com'
+        - 'plasmaticsystems.com'
+        - 'darkmauve.com'
+        - 'dixonshvac.com'
+        - 'investigatemiami.com'
+        - 'investigatoraustin.com'
+        - 'fencecompanycharleston.com'
+        - 'paintboothinstalling.com'
+        - 'headshotdfw.com'
+        - 'homeinspectoralaska.com'
+        - 'roteagent.com'
+        - 'ruenagent.com'
+        DestinationIp|contains:
+        - '164.90.161.147'
+        - '164.90.161.147'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,65 @@
+title: DNS Query to Dll4 Cmd Domains
+id: ee0c1e63-0628-493d-902b-650b8e903108
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Dll4 Cmd.
+date: 2026-09-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - azure table storage
+    - credential theft
+    - dll4_browser
+    - dll4_cmd
+    - dll4_fileman
+    - dll4_script
+    - dll4_socks
+    - dll4_vnc
+    - exodus wallet
+    - hidden vnc
+    - javascript dropper
+    - malware.dll4_cmd
+    - modular rat
+    - reflective loading
+    - socks proxy
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'us05.org'
+        - 'api.27inbarbadostours.com'
+        - 'api.504guaratv.com'
+        - 'api.b2compages.com'
+        - 'api.elcaminodesermadre.com'
+        - 'api.ideasnation.net'
+        - 'api.jyfgarriga.com'
+        - 'api.onemkscleaningsolutions.com'
+        - 'api.rezperfect.com'
+        - 'api.shopfoora.com'
+        - 'api.shuyinla.com'
+        - 'auth.auravp3.com'
+        - 'auth.clubvp3.com'
+        - 'auth.esalesrep.net'
+        - 'auth.h-dsf1034.com'
+        - 'auth.nailedbynakole.com'
+        - 'auth.secureswallow.com'
+        - 'auth.shuchimed.com'
+        - 'auth.speaktowinclients.com'
+        - 'browserwindow.prototype.center'
+        - 'browserwindow.prototype.show'
+        - 'cdn.baraldes.com'
+        - 'cdn.cobraporganardinero.com'
+        - 'cdn.estudiod2.com'
+        - 'cdn.jiyaoglass.com'
+        - 'cdn.planningportfolioweek.org'
+        - 'cdn.shinozen.com'
+        - 'cdn.snsafirieik.com'
+        - 'cdn.speaktogrowbiz.com'
+        - 'cdn.yenoox.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,61 @@
+title: DNS Query to Downpro Domains
+id: 49e6ee5e-4c1d-41f5-a7d4-e402d64a1e96
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Downpro.
+date: 2026-09-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 3snake
+    - alphaagent
+    - apache modules
+    - brazilian government
+    - bruteforcer
+    - chuser
+    - credential theft
+    - downpro
+    - earth berberoka
+    - gambling goblin
+    - linux toolkit
+    - malware.downpro
+    - orat
+    - passwordharvester
+    - phishing
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'gitlab.bet'
+        - 'github.wiki'
+        - 'data.windows-update-cdn.com'
+        - 'github.la'
+        - 'kerneltty.com'
+        - 'microsoft-azure-loadbalance.com'
+        - 'playfootball.info'
+        - '404.443.team'
+        - '80.443.team'
+        - '8yiu.kernel-lib.com'
+        - 'api.gitlab.bet'
+        - 'api.onlinevrgame.com'
+        - 'bageyi.kernel-lib.com'
+        - 'br.team-c2.com'
+        - 'br.team-hw.com'
+        - 'data.mirrors-inc.com'
+        - 'devops.aliyuntsl.com'
+        - 'dnslog.kernel-lib.com'
+        - 'file.ijjjst23m.com'
+        - 'hwlocal.team-hw.com'
+        - 'js.ai-jquery.com'
+        - 'rb.aliyuntsl.com'
+        - 'up.443.team'
+        - 'update.aliyun.la'
+        - 'update.opentls2.com'
+        - 'update.team-c2.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

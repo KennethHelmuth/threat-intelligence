@@ -1,0 +1,33 @@
+title: DNS Query to Sality Domains
+id: 63fd3902-9c34-405f-b92c-7b8c5eb44775
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Sality.
+date: 2026-09-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - botnet takedown
+    - clipper
+    - cryptocurrency theft
+    - ddos campaigns
+    - eggjagger
+    - law enforcement operation
+    - malware.sality
+    - p2p network
+    - peer list manipulation
+    - sality
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'www.yonelco.com'
+        - 'pozdravizbeograda.com'
+        - 'forex2030.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

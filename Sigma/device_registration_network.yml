@@ -1,0 +1,57 @@
+title: Network Connection to Device Registration Infrastructure
+id: 5fa56532-7d4b-4af9-ad2a-fe3d4a061f51
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Device Registration.
+date: 2026-09-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aitm
+    - credential harvesting
+    - device registration
+    - knight office
+    - malware.device_registration
+    - oauth
+    - phishing kit
+    - session token theft
+    - windows hello for business
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'kleepxrnlinecorporation.vu'
+        - 'advancedplacyncement.vu'
+        - 'amstardmzsmc.vu'
+        - 'arandasoftzfdware.vu'
+        - 'avisoretentiunionllc.vu'
+        - 'capitalflwxinancialpartners.vu'
+        - 'certififiycationedge.vu'
+        - 'connectivnqzityltd.vu'
+        - 'crrbcearegroup.vu'
+        - 'digitaltrafwwrficsystems.vu'
+        - 'exceltecbusinessbwpsolutions.vu'
+        - 'genamewwgdiamarketing.vu'
+        - 'globaieflsoftinc.vu'
+        - 'globalmixeucbdmodetechnologyinc.vu'
+        - 'globalprojectspvtltd.vu'
+        - 'idoej.com'
+        - 'joinbusinessmanagementconsdjeulting.vu'
+        - 'kentmanqhfufacturingcompany.vu'
+        - 'knsinternacshtional.vu'
+        - 'monttmmlrustcompany.vu'
+        - 'mtprormtductions.vu'
+        - 'realestatecotblrp.vu'
+        - 'siottxgroup.vu'
+        - 'summitcapitaltrapojininggroup.vu'
+        - 'techcompositnkoes.vu'
+        - 'techromixsolutionlonsinc.vu'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

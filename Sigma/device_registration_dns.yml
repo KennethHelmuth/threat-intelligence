@@ -1,0 +1,55 @@
+title: DNS Query to Device Registration Domains
+id: f9f8deee-15e8-404a-aded-4b97c88ab327
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Device Registration.
+date: 2026-09-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aitm
+    - credential harvesting
+    - device registration
+    - knight office
+    - malware.device_registration
+    - oauth
+    - phishing kit
+    - session token theft
+    - windows hello for business
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'kleepxrnlinecorporation.vu'
+        - 'advancedplacyncement.vu'
+        - 'amstardmzsmc.vu'
+        - 'arandasoftzfdware.vu'
+        - 'avisoretentiunionllc.vu'
+        - 'capitalflwxinancialpartners.vu'
+        - 'certififiycationedge.vu'
+        - 'connectivnqzityltd.vu'
+        - 'crrbcearegroup.vu'
+        - 'digitaltrafwwrficsystems.vu'
+        - 'exceltecbusinessbwpsolutions.vu'
+        - 'genamewwgdiamarketing.vu'
+        - 'globaieflsoftinc.vu'
+        - 'globalmixeucbdmodetechnologyinc.vu'
+        - 'globalprojectspvtltd.vu'
+        - 'idoej.com'
+        - 'joinbusinessmanagementconsdjeulting.vu'
+        - 'kentmanqhfufacturingcompany.vu'
+        - 'knsinternacshtional.vu'
+        - 'monttmmlrustcompany.vu'
+        - 'mtprormtductions.vu'
+        - 'realestatecotblrp.vu'
+        - 'siottxgroup.vu'
+        - 'summitcapitaltrapojininggroup.vu'
+        - 'techcompositnkoes.vu'
+        - 'techromixsolutionlonsinc.vu'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

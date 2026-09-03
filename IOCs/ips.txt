@@ -9723,3 +9723,82 @@
 45.192.105.141:19000	ThreatFox	2026-09-01	family=unknown | confidence=100% threat=botnet_cc
 23.225.48.20	OTX	2026-08-31	family=cve-2025-43529 | pulse='13 Malicious Packagist Themes Deliver iOS Spyware That Steals Crypto Wallet Seeds' pulse_id=6a95df86eed3f6fb54baef2d
 23.225.52.67	OTX	2026-08-31	family=cve-2025-43529 | pulse='13 Malicious Packagist Themes Deliver iOS Spyware That Steals Crypto Wallet Seeds' pulse_id=6a95df86eed3f6fb54baef2d
+157.245.242.229:8443	ThreatFox	2026-09-03	family=elf.aisuru | confidence=100% threat=botnet_cc
+178.128.173.150:9034	ThreatFox	2026-09-03	family=elf.aisuru | confidence=100% threat=botnet_cc
+217.60.195.33:17545	ThreatFox	2026-09-03	family=win.remcos | confidence=100% threat=botnet_cc
+164.90.161.147:80	ThreatFox	2026-09-03	family=osx.macsync | confidence=100% threat=payload_delivery
+164.90.161.147:443	ThreatFox	2026-09-03	family=osx.macsync | confidence=100% threat=payload_delivery
+217.60.195.210:2404	ThreatFox	2026-09-03	family=win.remcos | confidence=100% threat=botnet_cc
+165.99.43.101:4445	ThreatFox	2026-09-02	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+103.119.47.222:35203	ThreatFox	2026-09-02	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+165.227.92.224:34567	ThreatFox	2026-09-02	family=elf.aisuru | confidence=100% threat=botnet_cc
+157.245.118.145:8592	ThreatFox	2026-09-02	family=win.remus | confidence=100% threat=botnet_cc
+155.103.69.38:14647	ThreatFox	2026-09-02	family=win.remcos | confidence=100% threat=botnet_cc
+54.87.15.178:8082	ThreatFox	2026-09-02	family=win.danabot | confidence=75% threat=botnet_cc
+38.247.165.127:4655	ThreatFox	2026-09-02	family=win.asyncrat | confidence=75% threat=botnet_cc
+31.57.147.200:56001	ThreatFox	2026-09-02	family=win.pure_rat | confidence=75% threat=botnet_cc
+31.57.147.200:56002	ThreatFox	2026-09-02	family=win.pure_rat | confidence=75% threat=botnet_cc
+217.60.102.3:56003	ThreatFox	2026-09-02	family=win.pure_rat | confidence=75% threat=botnet_cc
+176.98.182.217:5555	ThreatFox	2026-09-02	family=elf.aisuru | confidence=100% threat=botnet_cc
+20.2.140.201:8443	ThreatFox	2026-09-02	family=win.havoc | confidence=75% threat=botnet_cc
+185.212.128.169:9000	ThreatFox	2026-09-02	family=elf.evilginx | confidence=75% threat=botnet_cc
+172.94.14.210:55011	ThreatFox	2026-09-02	family=win.pure_rat | confidence=75% threat=botnet_cc
+167.17.47.69:443	ThreatFox	2026-09-02	family=win.pupy | confidence=75% threat=botnet_cc
+164.132.104.177:80	ThreatFox	2026-09-02	family=win.havoc | confidence=75% threat=botnet_cc
+157.20.182.22:1996	ThreatFox	2026-09-02	family=win.asyncrat | confidence=75% threat=botnet_cc
+153.52.177.141:56003	ThreatFox	2026-09-02	family=win.pure_rat | confidence=75% threat=botnet_cc
+15.235.97.50:7443	ThreatFox	2026-09-02	family=unknown | confidence=75% threat=botnet_cc
+135.84.210.197:443	ThreatFox	2026-09-02	family=win.pure_rat | confidence=75% threat=botnet_cc
+104.143.46.142:56003	ThreatFox	2026-09-02	family=win.pure_rat | confidence=75% threat=botnet_cc
+103.237.92.116:8338	ThreatFox	2026-09-02	family=win.asyncrat | confidence=75% threat=botnet_cc
+102.220.160.198:2025	ThreatFox	2026-09-02	family=win.asyncrat | confidence=75% threat=botnet_cc
+102.117.166.237:7443	ThreatFox	2026-09-02	family=unknown | confidence=75% threat=botnet_cc
+94.154.43.69:7768	ThreatFox	2026-09-02	family=elf.mirai | confidence=100% threat=botnet_cc
+204.44.69.221:2626	ThreatFox	2026-09-02	family=win.remcos | confidence=100% threat=botnet_cc
+165.22.242.128:8443	ThreatFox	2026-09-02	family=elf.aisuru | confidence=100% threat=botnet_cc
+216.9.226.120:9009	ThreatFox	2026-09-02	family=elf.xmrig | confidence=100% threat=payload_delivery
+46.8.228.191:9009	ThreatFox	2026-09-02	family=elf.xmrig | confidence=100% threat=payload_delivery
+152.42.247.65:8080	ThreatFox	2026-09-02	family=elf.aisuru | confidence=100% threat=botnet_cc
+165.22.242.128:9034	ThreatFox	2026-09-02	family=elf.aisuru | confidence=100% threat=botnet_cc
+195.20.115.238:56003	ThreatFox	2026-09-02	family=win.pure_rat | confidence=50% threat=botnet_cc
+45.11.230.111:56003	ThreatFox	2026-09-02	family=win.pure_rat | confidence=75% threat=botnet_cc
+178.16.55.134:56003	ThreatFox	2026-09-02	family=win.pure_rat | confidence=75% threat=botnet_cc
+87.120.104.209:17125	ThreatFox	2026-09-02	family=win.sliver | confidence=50% threat=botnet_cc
+200.165.233.234:31337	ThreatFox	2026-09-02	family=win.sliver | confidence=50% threat=botnet_cc
+47.105.109.104:31337	ThreatFox	2026-09-02	family=win.sliver | confidence=50% threat=botnet_cc
+157.245.242.229:8001	ThreatFox	2026-09-02	family=elf.aisuru | confidence=100% threat=botnet_cc
+142.93.100.111:8001	ThreatFox	2026-09-02	family=elf.aisuru | confidence=100% threat=botnet_cc
+165.227.92.224:8001	ThreatFox	2026-09-02	family=elf.aisuru | confidence=100% threat=botnet_cc
+165.22.242.128:8001	ThreatFox	2026-09-02	family=elf.aisuru | confidence=100% threat=botnet_cc
+152.42.247.65:8001	ThreatFox	2026-09-02	family=elf.aisuru | confidence=100% threat=botnet_cc
+207.154.227.110:8001	ThreatFox	2026-09-02	family=elf.aisuru | confidence=100% threat=botnet_cc
+176.98.182.218:37215	ThreatFox	2026-09-02	family=elf.aisuru | confidence=100% threat=botnet_cc
+188.166.146.72:8443	ThreatFox	2026-09-02	family=elf.aisuru | confidence=100% threat=botnet_cc
+69.167.29.138:2404	ThreatFox	2026-09-02	family=win.remcos | confidence=100% threat=botnet_cc
+111.170.163.157:36210	ThreatFox	2026-09-02	family=win.xenorat | confidence=100% threat=botnet_cc
+154.91.58.114:8084	ThreatFox	2026-09-02	family=win.vshell | confidence=100% threat=botnet_cc
+43.155.168.253:59527	ThreatFox	2026-09-02	family=unknown | confidence=100% threat=botnet_cc
+46.246.6.66:32722	ThreatFox	2026-09-02	family=win.vjw0rm | confidence=100% threat=botnet_cc
+46.246.6.66:7044	ThreatFox	2026-09-02	family=win.vjw0rm | confidence=100% threat=botnet_cc
+104.168.4.206:666	ThreatFox	2026-09-02	family=elf.mirai | confidence=80% threat=botnet_cc
+145.79.143.166:8000	ThreatFox	2026-09-02	family=win.vshell | confidence=100% threat=botnet_cc
+2.59.218.73:7443	ThreatFox	2026-09-02	family=unknown | confidence=100% threat=botnet_cc
+194.32.149.129:7443	ThreatFox	2026-09-02	family=unknown | confidence=100% threat=botnet_cc
+23.148.212.176:53	ThreatFox	2026-09-02	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+176.98.182.177:34567	ThreatFox	2026-09-02	family=elf.aisuru | confidence=100% threat=botnet_cc
+180.76.250.42:1996	ThreatFox	2026-09-02	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+43.198.116.85:443	ThreatFox	2026-09-02	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+93.152.223.30	OTX	2026-09-01	family=Zer0day Stealer | pulse='One leftover build path links an infostealer, a remote-access tool, and a ransomware family' pulse_id=6a9756cad8fd625876d6a1a5
+93.152.220.87	OTX	2026-09-01	family=Zer0day Stealer | pulse='One leftover build path links an infostealer, a remote-access tool, and a ransomware family' pulse_id=6a9756cad8fd625876d6a1a5
+45.147.28.59	OTX	2026-09-02	family=StreamRat | pulse='Uncovering StreamRat: From Meta Ads to Full Device Takeover' pulse_id=6a9826f869eb70a6b15298ec
+202.146.222.18	OTX	2026-09-02	family=DownPro | pulse='Gaming the system: how a Chinese-speaking actor turned Brazilian government sites into an SEO weapon' pulse_id=6a982735d832e36397a5fad9
+154.84.62.128	OTX	2026-09-02	family=DownPro | pulse='Gaming the system: how a Chinese-speaking actor turned Brazilian government sites into an SEO weapon' pulse_id=6a982735d832e36397a5fad9
+154.84.62.145	OTX	2026-09-02	family=DownPro | pulse='Gaming the system: how a Chinese-speaking actor turned Brazilian government sites into an SEO weapon' pulse_id=6a982735d832e36397a5fad9
+154.84.62.149	OTX	2026-09-02	family=DownPro | pulse='Gaming the system: how a Chinese-speaking actor turned Brazilian government sites into an SEO weapon' pulse_id=6a982735d832e36397a5fad9
+154.84.62.160	OTX	2026-09-02	family=DownPro | pulse='Gaming the system: how a Chinese-speaking actor turned Brazilian government sites into an SEO weapon' pulse_id=6a982735d832e36397a5fad9
+192.253.229.23	OTX	2026-09-02	family=DownPro | pulse='Gaming the system: how a Chinese-speaking actor turned Brazilian government sites into an SEO weapon' pulse_id=6a982735d832e36397a5fad9
+204.16.172.106	OTX	2026-09-02	family=DownPro | pulse='Gaming the system: how a Chinese-speaking actor turned Brazilian government sites into an SEO weapon' pulse_id=6a982735d832e36397a5fad9
+161.248.87.157	OTX	2026-09-02	family=scheduled tasks | pulse='Counterfeit installers to system compromise: Tracking a deceptive software download campaign' pulse_id=6a97908e94bd394c915c1cb9
+202.95.14.237	OTX	2026-09-02	family=scheduled tasks | pulse='Counterfeit installers to system compromise: Tracking a deceptive software download campaign' pulse_id=6a97908e94bd394c915c1cb9
+103.156.25.35	OTX	2026-09-02	family=scheduled tasks | pulse='Counterfeit installers to system compromise: Tracking a deceptive software download campaign' pulse_id=6a97908e94bd394c915c1cb9
+103.183.3.162	OTX	2026-09-02	family=scheduled tasks | pulse='Counterfeit installers to system compromise: Tracking a deceptive software download campaign' pulse_id=6a97908e94bd394c915c1cb9

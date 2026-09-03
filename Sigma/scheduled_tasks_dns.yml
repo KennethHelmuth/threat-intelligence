@@ -1,0 +1,57 @@
+title: DNS Query to Scheduled Tasks Domains
+id: b2070ee7-0aa4-4fbc-849a-0780f2c4a786
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Scheduled Tasks.
+date: 2026-09-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chinese-speaking targets
+    - command-and-control
+    - counterfeit installers
+    - defense evasion
+    - fake software
+    - malware.scheduled_tasks
+    - scheduled tasks
+    - silver fox
+    - yinhu
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'iualef.net'
+        - 'czijbh.net'
+        - 'tbdqxq.net'
+        - 'wfmwsj.net'
+        - 'gehie246.com'
+        - 'baidu-pan.com.cn'
+        - 'steelseries-cn.com.cn'
+        - 'pc-razerzone.com.cn'
+        - 'yimxg25tiy.com'
+        - 'cc8ttkv35b.com'
+        - 'n7b8t85zsg.com'
+        - 'kaspersky-lab.hl.cn'
+        - 'calibre-ebook.com.cn'
+        - 'app-microsoft-edge.com.cn'
+        - 'sejda.hl.cn'
+        - 'translate-youdao.hl.cn'
+        - 'zh-diskgenius.com.cn'
+        - 'ocam-pc.com.cn'
+        - 'cn-drawio.com.cn'
+        - 'gw-sogou.com.cn'
+        - 'mindmoster.com.cn'
+        - 'euioxu.net'
+        - 'oijfwe.net'
+        - 'bxfh.tzcdq.cn'
+        - 'tmsq.tzcdq.cn'
+        - 'mebx78e02.com'
+        - 'qwjre1487.com'
+        - 'www.gehie246.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

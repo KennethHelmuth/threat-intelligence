@@ -1,0 +1,33 @@
+title: Network Connection to Zer0Day Stealer Infrastructure
+id: 59f2438f-bfd0-41ee-be58-3a3c42df59cb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Zer0Day Stealer.
+date: 2026-09-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - amsi evasion
+    - build path attribution
+    - credential theft
+    - cross-platform
+    - enigma locker
+    - hvnc
+    - malware.zer0day_stealer
+    - rust
+    - zer0day stealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '93.152.223.30'
+        - '93.152.220.87'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
