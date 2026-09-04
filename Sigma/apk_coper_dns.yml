@@ -1,0 +1,30 @@
+title: DNS Query to Apk.Coper Domains
+id: d46ca075-58ac-4f5c-96e6-cd18f76a8985
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Apk.Coper.
+date: 2026-09-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Android
+    - Coper
+    - Octo
+    - banker
+    - malware.apk.coper
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'emporiumwave245768.shop'
+        - 'emporiumdelight987656.shop'
+        - 'shoprise57899321.shop'
+        - 'universevibe123459.shop'
+        - 'worldfusion891056.shop'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

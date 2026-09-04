@@ -1,0 +1,32 @@
+title: Network Connection to Remote Monitoring Tools Infrastructure
+id: 02fb1c23-d6a9-4de3-9d1c-8822ad27432d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Remote Monitoring Tools.
+date: 2026-09-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - domain reconnaissance
+    - helpdesk impersonation
+    - malware.remote_monitoring_tools
+    - msi loader
+    - node.js implant
+    - remote monitoring tools
+    - social engineering
+    - teams phishing
+    - winrm lateral movement
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'dssdfvsdfvsdfvsdgbfbdvdzv.org'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

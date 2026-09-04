@@ -1,0 +1,36 @@
+title: Network Connection to Socktz Infrastructure
+id: af457a96-2c46-403f-8611-03b35f40145b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Socktz.
+date: 2026-09-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-enabled attacks
+    - malware.socktz
+    - nextchat
+    - phishing campaign
+    - socks5 proxy
+    - socktz
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'm-doxa-apodo.duckdns.org'
+        - 'm-doxa-geo.duckdns.org'
+        - 'm-doxa-intel.duckdns.org'
+        - 'm-doxa-vacunas.duckdns.org'
+        - 'm-doxa-repuve.duckdns.org'
+        - 'm-doxa-sre.duckdns.org'
+        DestinationIp|contains:
+        - '167.148.195.53'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

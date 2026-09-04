@@ -1,0 +1,32 @@
+title: DNS Query to Socktz Domains
+id: 3490c3f0-a207-4240-912c-23f15622fedf
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Socktz.
+date: 2026-09-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-enabled attacks
+    - malware.socktz
+    - nextchat
+    - phishing campaign
+    - socks5 proxy
+    - socktz
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'm-doxa-apodo.duckdns.org'
+        - 'm-doxa-geo.duckdns.org'
+        - 'm-doxa-intel.duckdns.org'
+        - 'm-doxa-vacunas.duckdns.org'
+        - 'm-doxa-repuve.duckdns.org'
+        - 'm-doxa-sre.duckdns.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

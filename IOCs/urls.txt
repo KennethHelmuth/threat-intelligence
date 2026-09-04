@@ -38512,3 +38512,424 @@ http://www.yonelco.com/icon.png	OTX	2026-09-02	family=Sality | pulse='Sality's P
 http://pozdravizbeograda.com/readme.pdf	OTX	2026-09-02	family=Sality | pulse='Sality's P2P Network Turned Against Itself, Cutting Off New Malware Payloads' pulse_id=6a97f2b0566cf1ccb1ec8fb4
 http://gatheredovertime.com/nb4	OTX	2026-09-02	family=Sality | pulse='Sality's P2P Network Turned Against Itself, Cutting Off New Malware Payloads' pulse_id=6a97f2b0566cf1ccb1ec8fb4
 http://imagebucket.biz/nv4	OTX	2026-09-02	family=Sality | pulse='Sality's P2P Network Turned Against Itself, Cutting Off New Malware Payloads' pulse_id=6a97f2b0566cf1ccb1ec8fb4
+https://66.179.31.11/linux/linux_pwn.zip	ThreatFox	2026-09-04	family=unknown_rat | confidence=75% threat=payload_delivery
+https://66.179.31.11/linux/mac_pwn.zip	ThreatFox	2026-09-04	family=unknown_rat | confidence=75% threat=payload_delivery
+http://18.136.197.129/init	ThreatFox	2026-09-04	family=unknown_rat | confidence=75% threat=payload_delivery
+https://d1u70y867zmoi6.cloudfront.net/helper	ThreatFox	2026-09-04	family=unknown_rat | confidence=75% threat=payload_delivery
+https://xi3.sm188dvlv.mom/	ThreatFox	2026-09-04	family=win.vidar | confidence=100% threat=botnet_cc
+https://xi3.13balien.org/	ThreatFox	2026-09-04	family=win.vidar | confidence=100% threat=botnet_cc
+https://2.29.21.253	ThreatFox	2026-09-04	family=win.vidar | confidence=75% threat=botnet_cc
+http://52.249.219.108:3001/api/upload	ThreatFox	2026-09-04	family=unknown_rat | confidence=50% threat=botnet_cc
+http://52.249.219.108:3001/ws	ThreatFox	2026-09-04	family=unknown_rat | confidence=50% threat=botnet_cc
+https://lesjardinsduchateauperdu.fr/	ThreatFox	2026-09-04	family=unknown | confidence=90% threat=payload_delivery
+http://139.135.59.203:59228/Mozi.7	ThreatFox	2026-09-04	family=elf.mozi | confidence=75% threat=payload_delivery
+http://105.198.0.3:37775/Mozi.m	ThreatFox	2026-09-04	family=elf.mozi | confidence=75% threat=payload_delivery
+http://223.123.35.122:44628/Mozi.m	ThreatFox	2026-09-04	family=elf.mozi | confidence=75% threat=payload_delivery
+http://115.57.204.186:60274/Mozi.m	ThreatFox	2026-09-04	family=elf.mozi | confidence=75% threat=payload_delivery
+https://gdo.sm188dvlv.mom/	ThreatFox	2026-09-03	family=win.vidar | confidence=100% threat=botnet_cc
+https://gdo.13balien.org/	ThreatFox	2026-09-03	family=win.vidar | confidence=100% threat=botnet_cc
+https://cdn.jsdelivr.net/gh/cowenrty/60-13-96-DA-AA-3C/2b	ThreatFox	2026-09-03	family=js.clearfake | confidence=100% threat=payload_delivery
+https://raw.githubusercontent.com/cowenrty/60-13-96-DA-AA-3C/refs/heads/main/2b	ThreatFox	2026-09-03	family=js.clearfake | confidence=100% threat=payload_delivery
+http://http://85.209.87.73/login	ThreatFox	2026-09-03	family=unknown_loader | confidence=100% threat=botnet_cc
+https://guiglen.sbs/api/v1/session	ThreatFox	2026-09-03	family=js.kongtuke | confidence=100% threat=payload_delivery
+https://guiglen.sbs/api/v1/status	ThreatFox	2026-09-03	family=js.kongtuke | confidence=100% threat=payload_delivery
+https://guiglen.sbs/api/v1/verify	ThreatFox	2026-09-03	family=js.kongtuke | confidence=100% threat=payload_delivery
+https://workerwing.net/js/all.min.js	ThreatFox	2026-09-03	family=unknown | confidence=80% threat=payload_delivery
+https://identityoneexpress.net/js/all.min.js	ThreatFox	2026-09-03	family=unknown | confidence=80% threat=payload_delivery
+https://sessionstoresys.com/js/all.min.js	ThreatFox	2026-09-03	family=unknown | confidence=80% threat=payload_delivery
+http://223.123.35.123:38629/Mozi.m	ThreatFox	2026-09-03	family=elf.mozi | confidence=75% threat=payload_delivery
+https://ukrbaz.com	ThreatFox	2026-09-03	family=win.gogoogle | confidence=75% threat=payload_delivery
+http://ukrbaz.com	ThreatFox	2026-09-03	family=js.fakeupdates | confidence=75% threat=payload_delivery
+https://raw.githubusercontent.com/cowenrty/thinness/refs/heads/main/explicit	ThreatFox	2026-09-03	family=js.clearfake | confidence=100% threat=payload_delivery
+https://raw.githubusercontent.com/frantario/step/refs/heads/main/stimulate	ThreatFox	2026-09-03	family=js.clearfake | confidence=100% threat=payload_delivery
+https://rccgcrownofglory.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://46.62.133.5	ThreatFox	2026-09-03	family=win.vidar | confidence=75% threat=botnet_cc
+https://ram.13balien.org/	ThreatFox	2026-09-03	family=win.vidar | confidence=100% threat=botnet_cc
+https://ram.sm188dvlv.mom/	ThreatFox	2026-09-03	family=win.vidar | confidence=100% threat=botnet_cc
+https://keralafolkloreakademy.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://cloudflare-protect.net/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://raw.githubusercontent.com/frantario/shrapnel/refs/heads/main/rosy	ThreatFox	2026-09-03	family=js.clearfake | confidence=100% threat=payload_delivery
+https://copperlodestar.info/dashboard/beta-cache.js	ThreatFox	2026-09-03	family=js.smartapesg | confidence=100% threat=botnet_cc
+https://walmagua.cc/complete	ThreatFox	2026-09-03	family=unknown | confidence=100% threat=botnet_cc
+https://walmagua.cc/chunk	ThreatFox	2026-09-03	family=unknown | confidence=100% threat=botnet_cc
+https://walmagua.cc/api/client-tasks	ThreatFox	2026-09-03	family=unknown | confidence=100% threat=botnet_cc
+https://walmagua.cc/connect	ThreatFox	2026-09-03	family=unknown | confidence=100% threat=botnet_cc
+https://saaverra.sbs/api/v1/status	ThreatFox	2026-09-03	family=js.kongtuke | confidence=100% threat=payload_delivery
+http://zonxh.shop:7728/videos	ThreatFox	2026-09-03	family=win.remus | confidence=75% threat=botnet_cc
+http://fresok.top:9048/reviews	ThreatFox	2026-09-03	family=win.remus | confidence=75% threat=botnet_cc
+http://neortal.click:8321/workspaces	ThreatFox	2026-09-03	family=win.remus | confidence=75% threat=botnet_cc
+http://cdire.shop:9048/permissions	ThreatFox	2026-09-03	family=win.remus | confidence=75% threat=botnet_cc
+http://105.184.226.175:60791/Mozi.a	ThreatFox	2026-09-03	family=elf.mozi | confidence=75% threat=payload_delivery
+https://aksi-tajuk.absolute-water.app/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://raw.githubusercontent.com/frantario/gfyruer/refs/heads/main/djhgjh75034	ThreatFox	2026-09-03	family=js.clearfake | confidence=100% threat=payload_delivery
+https://s77.sm188dvlv.mom/	ThreatFox	2026-09-03	family=win.vidar | confidence=100% threat=botnet_cc
+https://s77.13balien.org/	ThreatFox	2026-09-03	family=win.vidar | confidence=100% threat=botnet_cc
+https://bariel.id/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://mabuyi.co.za/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://david.advancecreative.co.uk/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://178.104.22.105/	ThreatFox	2026-09-03	family=win.vidar | confidence=100% threat=botnet_cc
+https://2.29.29.217/	ThreatFox	2026-09-03	family=win.vidar | confidence=100% threat=botnet_cc
+https://gen.sm188dvlv.lat/	ThreatFox	2026-09-03	family=win.vidar | confidence=100% threat=botnet_cc
+https://for.sm188dvlv.lat/	ThreatFox	2026-09-03	family=win.vidar | confidence=100% threat=botnet_cc
+https://cle.sm188dvlv.lol/	ThreatFox	2026-09-03	family=win.vidar | confidence=100% threat=botnet_cc
+https://m5p.sm188dvlv.lol/	ThreatFox	2026-09-03	family=win.vidar | confidence=100% threat=botnet_cc
+https://hot.sm188dvlv.mom/	ThreatFox	2026-09-03	family=win.vidar | confidence=100% threat=botnet_cc
+https://fpw.sm188dvlv.mom/	ThreatFox	2026-09-03	family=win.vidar | confidence=100% threat=botnet_cc
+https://granoco.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://portaleducoas.org/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://bhagwatibiscuits.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://elkon.gr/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://atlantasbestconcrete.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://vertixtech.net/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://alholol-almobtakara.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://web-stakecasino.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://amazonia4.org/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://www.ricevimentialkamar.it/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://laptopgo.co.id/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://simospartyprint.co.uk/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://kala-systems.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://staging.elevateconsultinghub.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://mail.sporium.net/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://kacstonerecords.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://www.forlagetkompass.se/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://www.parcelpacky.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://harryfernandezf.forgetfulwizard.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://myvisualstory.de/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://suitsgreen.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://nutricaocomjo.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://www.bookerteeenterprises.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://gabariteiros.com.br/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://factspakistan.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://strandraeuber-ditzum.de/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://rhuyn.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://optimized.net.au/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://agingenieria.com.pe/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+https://hoh-homecare.com/	ThreatFox	2026-09-03	family=unknown | confidence=90% threat=payload_delivery
+http://223.123.43.33:45481/Mozi.m	ThreatFox	2026-09-03	family=elf.mozi | confidence=75% threat=payload_delivery
+http://27.77.246.66:44109/Mozi.m	ThreatFox	2026-09-03	family=elf.mozi | confidence=75% threat=payload_delivery
+http://221.15.20.208:44679/Mozi.m	ThreatFox	2026-09-03	family=elf.mozi | confidence=75% threat=payload_delivery
+http://186.149.204.12:55751/i	URLhaus	2026-09-04	status=online threat=malware_download
+http://77.53.43.110:47947/i	URLhaus	2026-09-04	status=online threat=malware_download
+http://61.52.63.2:39218/i	URLhaus	2026-09-04	status=online threat=malware_download
+http://182.116.50.129:44212/bin.sh	URLhaus	2026-09-04	status=online threat=malware_download
+http://219.155.200.201:43937/i	URLhaus	2026-09-04	status=online threat=malware_download
+http://186.149.204.12:55751/bin.sh	URLhaus	2026-09-04	status=online threat=malware_download
+http://115.58.91.176:40931/bin.sh	URLhaus	2026-09-04	status=online threat=malware_download
+http://125.40.113.33:33011/i	URLhaus	2026-09-04	status=online threat=malware_download
+http://219.155.200.201:43937/bin.sh	URLhaus	2026-09-04	status=online threat=malware_download
+http://42.58.172.216:34835/i	URLhaus	2026-09-04	status=online threat=malware_download
+http://105.186.70.178:51723/i	URLhaus	2026-09-04	status=online threat=malware_download
+http://222.113.196.55:59598/i	URLhaus	2026-09-04	status=online threat=malware_download
+http://125.43.39.192:56239/i	URLhaus	2026-09-04	status=online threat=malware_download
+http://105.186.70.178:51723/bin.sh	URLhaus	2026-09-04	status=online threat=malware_download
+http://42.7.139.85:48486/bin.sh	URLhaus	2026-09-04	status=online threat=malware_download
+http://222.113.196.55:59598/bin.sh	URLhaus	2026-09-04	status=online threat=malware_download
+http://90.153.177.144:40805/i	URLhaus	2026-09-04	status=offline threat=malware_download
+http://120.84.212.216:51284/i	URLhaus	2026-09-04	status=online threat=malware_download
+http://36.70.196.73:60650/bin.sh	URLhaus	2026-09-04	status=offline threat=malware_download
+http://115.49.216.36:38767/bin.sh	URLhaus	2026-09-04	status=online threat=malware_download
+http://42.226.206.74:44992/i	URLhaus	2026-09-04	status=online threat=malware_download
+http://196.189.96.59:53899/i	URLhaus	2026-09-04	status=offline threat=malware_download
+http://103.164.128.184:47430/bin.sh	URLhaus	2026-09-04	status=online threat=malware_download
+http://114.226.24.72:49152/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://113.228.158.111:40769/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://115.48.54.18:60813/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://115.48.54.18:60813/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://112.230.155.183:39618/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://61.176.69.173:36353/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://173.92.213.119:52110/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://182.126.93.33:37461/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://119.179.254.3:36720/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://119.179.254.3:36720/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://122.241.130.212:45870/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://66.212.173.225:46177/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://115.57.80.149:55734/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://66.212.173.225:46177/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://91.92.242.236/files-129312398/files/file_f560a93d91a75b5c.exe	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/arm7	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/android-arm64	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/or1k	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/working.Services.apk	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/hiddenbin/reflect.x86_64	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/persist.arm7	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/hiddenbin/reflect.sh4	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/hiddenbin/reflect.arm	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/android-arm	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/android-arm64	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/x86_64	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/android-arm	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/mips	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/x86	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/hiddenbin/reflect.arm5	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/riscv64	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/hiddenbin/reflect.arm7	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/hiddenbin/reflect.x86	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/juan.apk	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/riscv32	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/hiddenbin/reflect.mpsl	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/ppc64	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/hiddenbin/reflect.m68k	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/arm	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/arm6	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/mips64	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/arm5	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/riscv64	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/arm7	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/hiddenbin/reflect.spc	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/s390x	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/hiddenbin/reflect.arc	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/x86	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/ppc64	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/ppc	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/arm8	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/mipsel	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/s390x	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/hiddenbin/reflect.mips	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/mips	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/ppc	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/mips64	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/arm5	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/arm6	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/hiddenbin/reflect.i686	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/mipsel	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/m68k	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/or1k	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/arm	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/m68k	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/hiddenbin/reflect.ppc	URLhaus	2026-09-03	status=online threat=malware_download
+http://b2b.jewmailer.net/reflect/x86_64	URLhaus	2026-09-03	status=online threat=malware_download
+https://captainx-download.captainleontian.workers.dev/	URLhaus	2026-09-03	status=offline threat=malware_download
+https://claude-exporter-license.nikogdanekupluslona.workers.dev/	URLhaus	2026-09-03	status=offline threat=malware_download
+http://b2b.jewmailer.net/Services.apk	URLhaus	2026-09-03	status=online threat=malware_download
+http://91.92.242.236/files-129312398/files/file_4c3e2c2458e5e43b.exe	URLhaus	2026-09-03	status=online threat=malware_download
+https://round-breeze-3e9d.jay-e45.workers.dev/	URLhaus	2026-09-03	status=offline threat=malware_download
+https://counterscale.jean-r-mi-larcelet-prost.workers.dev/	URLhaus	2026-09-03	status=offline threat=malware_download
+https://fancy-rain-e484.0xwilliamortiz.workers.dev/	URLhaus	2026-09-03	status=offline threat=malware_download
+https://www.dropbox.com/scl/fi/ba93r9ez5c00fap694aa6/bundle.zip?rlkey=mpxhfmkb4g2adcermiywlc115&st=9twn3jrx&dl=1	URLhaus	2026-09-03	status=offline threat=malware_download
+http://182.112.7.122:58694/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://122.241.130.212:45870/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://196.189.69.192:57870/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://196.189.69.192:57870/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://61.176.69.173:36353/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://42.59.71.140:35247/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://179.108.90.55:44298/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://42.59.71.140:35247/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://179.108.90.55:44298/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://105.225.48.83:57349/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://119.117.177.176:57366/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://105.225.46.244:56367/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://125.41.75.42:36742/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://39.52.44.227:52719/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://39.52.44.227:52719/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://125.110.49.63:54807/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://125.160.139.10:40058/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://209.81.111.104:55587/i	URLhaus	2026-09-03	status=online threat=malware_download
+https://communication-hub.vg/	URLhaus	2026-09-03	status=offline threat=malware_download
+http://103.18.14.116:37000/Mozi.m	URLhaus	2026-09-03	status=offline threat=malware_download
+https://infocardphoto.info/n?id=hsezigwn	URLhaus	2026-09-03	status=offline threat=malware_download
+https://infocardphoto.info/	URLhaus	2026-09-03	status=offline threat=malware_download
+https://lively-fog-af49.pablosoftwareplus.workers.dev/vMmrQ	URLhaus	2026-09-03	status=offline threat=malware_download
+https://cyclograph.xyz/process/logs/img_132736.png	URLhaus	2026-09-03	status=offline threat=malware_download
+https://cdn.discordapp.com/attachments/1544901906462281769/1545042621699985479/tio8EV7mMMeI3uW.exe?ex=6a9ab492&is=6a996312&hm=a8f90c2bc0c13763a16e0840ec6d5b1202da152374a1b49bd0ee0a85d41f4d16&	URLhaus	2026-09-03	status=online threat=malware_download
+https://one-graup.com/LXX.js	URLhaus	2026-09-03	status=online threat=malware_download
+https://tuiskr.com/cjr1.jpg	URLhaus	2026-09-03	status=offline threat=malware_download
+https://tuiskr.com/	URLhaus	2026-09-03	status=online threat=malware_download
+https://togethers.tv/Togethers.exe	URLhaus	2026-09-03	status=offline threat=malware_download
+http://175.175.192.169:54382/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://115.50.89.87:44040/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://175.175.192.169:54382/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+https://nonspamplsgood.vercel.app/?download=1	URLhaus	2026-09-03	status=online threat=malware_download
+http://124.6.167.121:45202/Mozi.m	URLhaus	2026-09-03	status=online threat=malware_download
+http://112.198.186.249:39708/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://113.228.253.15:50802/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://27.215.84.25:44698/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://220.177.11.172:54471/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://182.126.201.152:43849/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://175.150.74.42:43235/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://42.224.78.23:39508/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://112.248.108.140:41002/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://61.144.102.183:42035/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://37.34.242.99:41845/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://182.120.43.111:47591/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://112.198.130.112:42547/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://130.12.209.147:43312/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://124.234.200.151:54858/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://182.126.201.152:43849/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://123.189.150.115:50311/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://114.226.120.28:35996/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://182.119.68.47:43814/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://113.237.54.47:52447/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://116.138.189.67:59950/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://179.108.89.220:35169/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://36.70.196.73:60650/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://60.18.8.218:39736/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://222.137.175.220:33354/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://27.193.158.205:55721/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://66.212.186.193:57081/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://60.23.159.201:59783/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://202.1.26.13:41939/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://202.110.2.191:50033/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://60.18.10.146:45922/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://182.124.20.96:57190/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://103.203.210.102:46614/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://119.179.236.55:53616/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://123.10.225.139:46476/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://42.7.139.85:48486/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://175.174.46.121:40584/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://120.28.201.138:57662/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://60.18.8.218:39736/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://116.2.43.97:35984/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://217.25.229.189:54559/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://175.147.156.105:33491/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://60.23.72.121:51494/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://114.226.120.28:35996/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://220.177.11.172:54471/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://222.127.50.102:51464/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://115.63.84.231:59738/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://115.63.84.231:59738/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://42.235.84.132:35722/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://115.51.63.21:33583/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://42.54.13.17:37031/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://115.62.181.25:57183/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://43.252.159.101:46184/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://119.179.236.55:53616/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://123.188.64.71:51051/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://182.119.183.62:55474/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://175.165.84.83:51621/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://115.55.173.148:44037/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://182.119.183.62:55474/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://175.174.46.121:40584/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://120.84.214.205:39378/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://112.230.155.183:39618/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://123.189.134.98:40664/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://113.221.76.194:54955/Mozi.m	URLhaus	2026-09-03	status=online threat=malware_download
+http://61.53.88.100:45611/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://179.108.89.220:35169/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://115.55.244.240:35253/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://221.1.226.106:47537/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://182.121.224.68:40372/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://120.28.161.11:57965/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://47.215.224.64:41098/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://42.235.84.132:35722/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://42.52.200.244:35103/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://180.191.32.197:49164/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://42.54.13.17:37031/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://96.125.128.2:35375/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://116.138.189.67:59950/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://60.215.197.174:38401/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://194.59.31.57:62123/s/kswpad	URLhaus	2026-09-03	status=offline threat=malware_download
+http://175.9.166.233:50484/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://180.191.32.197:49164/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://105.184.46.169:45057/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://105.184.46.169:45057/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://2.187.98.47:58030/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://114.228.186.181:50519/Mozi.a	URLhaus	2026-09-03	status=online threat=malware_download
+http://194.59.31.57:62123/s/amd64	URLhaus	2026-09-03	status=offline threat=malware_download
+http://125.46.234.68:43013/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://42.87.168.173:55988/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://999.34c9f78b4ef541baac4a6e84d4f832a7.lol:37641/lin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://115.62.181.25:57183/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://125.43.45.149:33353/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://112.113.68.159:41597/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://113.236.67.209:54189/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://45.231.145.15:38791/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://42.224.78.23:39508/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://194.59.31.57:62123/s/kal64	URLhaus	2026-09-03	status=offline threat=malware_download
+http://113.231.108.98:55031/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://182.121.224.68:40372/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://219.156.112.101:58252/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://123.5.152.25:42329/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://60.23.159.201:59783/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://112.113.68.159:41597/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://115.51.63.21:33583/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://124.6.169.46:58258/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://182.117.76.31:58204/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://218.58.146.50:57477/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://42.227.179.13:32824/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://182.127.152.170:43722/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://42.232.90.35:46437/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://202.163.107.242:56480/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://42.224.127.169:33756/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://60.19.172.59:40959/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://120.28.161.11:57965/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://191.37.19.74:52135/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://42.87.168.173:55988/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://221.1.226.106:47537/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://115.58.135.65:49632/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://115.55.221.28:43660/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://125.43.8.244:34827/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://221.203.86.144:41208/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://27.193.158.205:55721/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://115.55.244.240:35253/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://112.198.130.112:42547/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://113.228.253.15:50802/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://182.120.43.111:47591/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://37.34.242.99:41845/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://112.248.108.140:41002/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://123.14.81.41:47055/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://113.237.54.47:52447/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://222.139.34.67:44511/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://124.129.61.14:55301/i	URLhaus	2026-09-03	status=offline threat=malware_download
+https://rusa-inion24-novst.vercel.app/?download=1	URLhaus	2026-09-03	status=online threat=malware_download
+http://222.139.34.67:44511/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://216.126.86.154:38351/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://216.126.86.154:38351/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://125.46.234.68:43013/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://115.54.133.39:59395/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://37.48.158.158:56014/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://37.48.158.158:56014/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://112.93.137.152:51284/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://182.127.31.85:47759/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+https://aetherone.su/downloads/meta-loader.exe	URLhaus	2026-09-03	status=online threat=malware_download
+https://kjjt.pages.dev/download/001365-Screenshot-Uploader-portable.exe	URLhaus	2026-09-03	status=offline threat=malware_download
+http://61.53.151.142:41245/i	URLhaus	2026-09-03	status=online threat=malware_download
+https://www.dropbox.com/scl/fi/ba93r9ez5c00fap694aa6/bundle.zip?rlkey=mpxhfmkb4g2adcermiywlc115&st=8p4van4p&dl=1	URLhaus	2026-09-03	status=offline threat=malware_download
+http://87.15.14.109:59208/i	URLhaus	2026-09-03	status=online threat=malware_download
+https://vintageeventos.com.mx/CHAPO/CHAPO2.exe	URLhaus	2026-09-03	status=online threat=malware_download
+https://pub-f36b05599c3043ddb16520acf6cc3cce.r2.dev/core_131541.iso	URLhaus	2026-09-03	status=offline threat=malware_download
+http://176.65.139.218/bins/sora.arc	URLhaus	2026-09-03	status=offline threat=malware_download
+http://176.65.139.218/bins/sora.mips64	URLhaus	2026-09-03	status=offline threat=malware_download
+http://176.65.139.218/bins/sora.sparc	URLhaus	2026-09-03	status=offline threat=malware_download
+http://176.65.139.218/bins/sora.i586	URLhaus	2026-09-03	status=offline threat=malware_download
+http://45.135.193.113/m-6.8-k.ISIS	URLhaus	2026-09-03	status=offline threat=malware_download
+http://176.65.139.218/bins/sora.x86_64	URLhaus	2026-09-03	status=offline threat=malware_download
+http://haiiiihello.top/a/recon.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://198.23.144.123/doog/crypted.ps1	URLhaus	2026-09-03	status=offline threat=malware_download
+http://196.188.141.17:53709/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://110.139.35.220:38827/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://175.173.116.250:57573/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+https://storage.bunnycdn.com/sdfzf/Miercoles.iso?accessKey=3858e0c5-2e43-4342-93f929eb5220-a783-4064&download	URLhaus	2026-09-03	status=offline threat=malware_download
+http://196.188.141.17:53709/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+https://fern-plume.com/curl/z203ezo8/zbxc4p9j8emx1yoy9x.txt	URLhaus	2026-09-03	status=offline threat=malware_download
+https://abonent-app.ru/abonent.apk	URLhaus	2026-09-03	status=online threat=malware_download
+http://118.145.196.225:800/yy7atflk/obn2b6lh	URLhaus	2026-09-03	status=online threat=malware_download
+http://91.92.242.236/files-129312398/files/file_54a0ab1b1cd5298b.exe	URLhaus	2026-09-03	status=offline threat=malware_download
+http://91.92.242.236/files-129312398/files/file_37b3ca809d232f85.exe	URLhaus	2026-09-03	status=offline threat=malware_download
+https://node-slate.com/api/metrics/run?event=pasted	URLhaus	2026-09-03	status=offline threat=malware_download
+https://fern-plume.com/zyeMb6slon_3VWVlkSkdiJurcyhY5cFNtchnavRnMgU/hiddenfix/update	URLhaus	2026-09-03	status=offline threat=malware_download
+http://176.65.139.206/loader.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://110.139.35.220:38827/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://175.168.197.209:56392/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://196.190.105.170:60678/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://105.184.31.171:41073/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://196.190.105.170:60678/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://115.49.216.36:38767/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://42.7.152.135:42403/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://196.190.10.252:46868/bin.sh	URLhaus	2026-09-03	status=offline threat=malware_download
+http://222.138.78.232:52468/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://175.150.74.42:43235/bin.sh	URLhaus	2026-09-03	status=online threat=malware_download
+http://182.126.122.180:45536/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://119.179.251.19:34111/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://119.109.212.54:35441/i	URLhaus	2026-09-03	status=online threat=malware_download
+http://196.189.9.27:53134/i	URLhaus	2026-09-03	status=offline threat=malware_download
+http://199.231.70.175:443/update.aspx	OTX	2026-09-03	family=ModeloRAT | pulse='Node.js: Old Technique Makes a Comeback' pulse_id=6a996ed3562f794a642feaaf
+http://193.58.122.42/files/hvnc2.exe	OTX	2026-09-03	family=ModeloRAT | pulse='Node.js: Old Technique Makes a Comeback' pulse_id=6a996ed3562f794a642feaaf
+http://193.58.122.42/files/rat.exe	OTX	2026-09-03	family=ModeloRAT | pulse='Node.js: Old Technique Makes a Comeback' pulse_id=6a996ed3562f794a642feaaf
+http://193.58.122.42/files/rat1.exe	OTX	2026-09-03	family=ModeloRAT | pulse='Node.js: Old Technique Makes a Comeback' pulse_id=6a996ed3562f794a642feaaf
+http://193.58.122.42/files/stil.exe	OTX	2026-09-03	family=ModeloRAT | pulse='Node.js: Old Technique Makes a Comeback' pulse_id=6a996ed3562f794a642feaaf
+http://193.58.122.42/files/stil1.exe	OTX	2026-09-03	family=ModeloRAT | pulse='Node.js: Old Technique Makes a Comeback' pulse_id=6a996ed3562f794a642feaaf
+http://94.156.114.250/files/lasttry.exe	OTX	2026-09-03	family=ModeloRAT | pulse='Node.js: Old Technique Makes a Comeback' pulse_id=6a996ed3562f794a642feaaf
+https://www.xt24.com/install/update.ps1	OTX	2026-09-03	family=ModeloRAT | pulse='Node.js: Old Technique Makes a Comeback' pulse_id=6a996ed3562f794a642feaaf
+https://rebronzeal.com	OTX	2026-09-03	family=ModeloRAT | pulse='Node.js: Old Technique Makes a Comeback' pulse_id=6a996ed3562f794a642feaaf
+https://summonhood.com	OTX	2026-09-03	family=ModeloRAT | pulse='Node.js: Old Technique Makes a Comeback' pulse_id=6a996ed3562f794a642feaaf
+http://homehub.opik.net:443	OTX	2026-09-03	family=XMRig | pulse='Rogue ScreenConnect Installations Across Unrelated Hosts Suggest Worm-Like Activity' pulse_id=6a992d01f9c5b93e1a1c58b6

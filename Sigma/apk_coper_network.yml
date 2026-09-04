@@ -1,0 +1,32 @@
+title: Network Connection to Apk.Coper Infrastructure
+id: b5159d22-adab-48fd-8ba5-42eea2248018
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Apk.Coper.
+date: 2026-09-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Android
+    - Coper
+    - Octo
+    - banker
+    - malware.apk.coper
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'emporiumwave245768.shop'
+        - 'emporiumdelight987656.shop'
+        - 'shoprise57899321.shop'
+        - 'universevibe123459.shop'
+        - 'worldfusion891056.shop'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

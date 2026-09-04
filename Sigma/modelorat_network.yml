@@ -1,0 +1,69 @@
+title: Network Connection to Modelorat Infrastructure
+id: 225df14b-520a-4a14-bae8-383b3990575d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Modelorat.
+date: 2026-09-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adaptixc2
+    - asukastealer
+    - clickfix technique
+    - cobalt strike
+    - etherhiding
+    - malware.modelorat
+    - modelorat
+    - node.js abuse
+    - ransomware access broker
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'mainnet.gateway.tenderly.co'
+        - 'www.xt24.com'
+        - 'challenge-refernow.com'
+        - 'csa-humanchecknow.com'
+        - 'period-checkavaldx.com'
+        - 'notstorageapis.com'
+        - 'chat.doctecsolutions.com'
+        - 'srv.doctecsolutions.com'
+        - 'video.technodatabase.net'
+        - 'api.technodatabase.net'
+        - 'strapness.com'
+        - 'resources.datalayerservice.com'
+        - 'docs.datalayerservice.com'
+        - 'api.datalayerservice.com'
+        - 'chat.devminelimited.com'
+        - 'design.devminelimited.com'
+        - 'planner.devminelimited.com'
+        - 'jokesprite.info'
+        - 'summonhood.com'
+        - 'rebronzeal.com'
+        - 'bestopebel.pl'
+        - 'drivefeedback.com'
+        - 'formulario.puentelargo.org'
+        - 'helthfulcore.info'
+        - 'justhandsoff.info'
+        - 'kedvs4wiykc.com'
+        - 'klassniylink124.com'
+        - 'legaar.com'
+        - 'ninetyorigins.com'
+        - 'partner-conflrmpanel.com'
+        DestinationIp|contains:
+        - '94.156.114.250'
+        - '178.16.55.232'
+        - '144.31.53.78'
+        - '198.13.159.44'
+        - '199.91.221.42'
+        - '199.231.70.175'
+        - '193.58.122.42'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

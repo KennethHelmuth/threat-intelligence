@@ -1,0 +1,59 @@
+title: DNS Query to Modelorat Domains
+id: debc67f7-be30-4fa0-a82e-03770d8834ff
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Modelorat.
+date: 2026-09-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adaptixc2
+    - asukastealer
+    - clickfix technique
+    - cobalt strike
+    - etherhiding
+    - malware.modelorat
+    - modelorat
+    - node.js abuse
+    - ransomware access broker
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'mainnet.gateway.tenderly.co'
+        - 'www.xt24.com'
+        - 'challenge-refernow.com'
+        - 'csa-humanchecknow.com'
+        - 'period-checkavaldx.com'
+        - 'notstorageapis.com'
+        - 'chat.doctecsolutions.com'
+        - 'srv.doctecsolutions.com'
+        - 'video.technodatabase.net'
+        - 'api.technodatabase.net'
+        - 'strapness.com'
+        - 'resources.datalayerservice.com'
+        - 'docs.datalayerservice.com'
+        - 'api.datalayerservice.com'
+        - 'chat.devminelimited.com'
+        - 'design.devminelimited.com'
+        - 'planner.devminelimited.com'
+        - 'jokesprite.info'
+        - 'summonhood.com'
+        - 'rebronzeal.com'
+        - 'bestopebel.pl'
+        - 'drivefeedback.com'
+        - 'formulario.puentelargo.org'
+        - 'helthfulcore.info'
+        - 'justhandsoff.info'
+        - 'kedvs4wiykc.com'
+        - 'klassniylink124.com'
+        - 'legaar.com'
+        - 'ninetyorigins.com'
+        - 'partner-conflrmpanel.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

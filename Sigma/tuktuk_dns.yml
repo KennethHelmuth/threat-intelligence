@@ -1,0 +1,36 @@
+title: DNS Query to Tuktuk Domains
+id: c26fbf36-c6ed-4405-853b-521f7c22c6fb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Tuktuk.
+date: 2026-09-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - byovd
+    - defense sector
+    - dll sideloading
+    - edr neutralization
+    - edrkiller
+    - gentlekiller
+    - greenshot
+    - iac compromise
+    - jira exfiltration
+    - malware.tuktuk
+    - tuktuk
+    - tuktuk c2
+    - unknownkiller
+    - vulnerable drivers
+    - warsawkiller
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'borjumaniya.store'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

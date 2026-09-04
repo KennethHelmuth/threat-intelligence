@@ -1,0 +1,30 @@
+title: DNS Query to Remote Monitoring Tools Domains
+id: 9da88755-514e-437e-b679-81dcfc55728f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Remote Monitoring Tools.
+date: 2026-09-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - domain reconnaissance
+    - helpdesk impersonation
+    - malware.remote_monitoring_tools
+    - msi loader
+    - node.js implant
+    - remote monitoring tools
+    - social engineering
+    - teams phishing
+    - winrm lateral movement
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'dssdfvsdfvsdfvsdgbfbdvdzv.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
