@@ -1,0 +1,30 @@
+title: DNS Query to Ultravnc Domains
+id: 0cb095c9-c01b-471f-8673-bb38ed82b32e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Ultravnc.
+date: 2026-09-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.ultravnc
+    - netch-gateway
+    - proxy abuse
+    - radmin
+    - softether vpn
+    - ultravnc
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'koreakr.top'
+        - 'tt.yeyoujs.com'
+        - 'tvip.yeyoujs.com'
+        - 'www.sheng886.top'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,50 @@
+title: Network Connection to Phishing Evasion Infrastructure
+id: 3f047c60-efe8-44cf-9ef1-d972d3cc4979
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Phishing Evasion.
+date: 2026-09-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ascii smuggling
+    - email obfuscation
+    - invisible characters
+    - malware.phishing_evasion
+    - phishing evasion
+    - prompt injection
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'ourbusinessloans.com'
+        - 'advancefundingboost.com'
+        - 'catalystboostfunding.com'
+        - 'catalystcapitalharbor.com'
+        - 'digitalcapitalboost.com'
+        - 'digitalrushcapital.com'
+        - 'directcapitalboost.com'
+        - 'directcapitalpulse.com'
+        - 'elevatecapitalrush.com'
+        - 'emsd4.com'
+        - 'fundingexpresscapital.com'
+        - 'guardiancapitalway.com'
+        - 'guardiangrowthfunding.com'
+        - 'guardianloccapital.com'
+        - 'guardianlocchoice.com'
+        - 'harboradvancefunding.com'
+        - 'onlinedirectfinance.com'
+        - 'rocketboostfunding.com'
+        - 'thebusinessloanexpress.com'
+        - 'unitedfundingwave.com'
+        - 'yourlocfunding.com'
+        - 's9.acems10.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

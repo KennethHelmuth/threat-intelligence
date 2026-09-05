@@ -1,0 +1,34 @@
+title: Network Connection to Ultravnc Infrastructure
+id: 57fcd625-ed23-49dc-9e43-41b83ec301a9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Ultravnc.
+date: 2026-09-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.ultravnc
+    - netch-gateway
+    - proxy abuse
+    - radmin
+    - softether vpn
+    - ultravnc
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'koreakr.top'
+        - 'tt.yeyoujs.com'
+        - 'tvip.yeyoujs.com'
+        - 'www.sheng886.top'
+        DestinationIp|contains:
+        - '103.86.86.244'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

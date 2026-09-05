@@ -1,0 +1,37 @@
+title: DNS Query to Secbox Domains
+id: b218b3a0-a03b-42d0-aaa5-650762dcc5d2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Secbox.
+date: 2026-09-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-assisted intrusions
+    - fengtai government
+    - glutton
+    - glutton webshells
+    - malware.secbox
+    - secbox
+    - secflow framework
+    - steganographic payloads
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'wscript.shell.run'
+        - 'chatgpt.niestools.com'
+        - 'claude.niestools.com'
+        - 'deepseek.niestools.com'
+        - 'glutton.niestools.com'
+        - 'imported-concerns-listening-typing.trycloudflare.com'
+        - 'marriage-step-wave-heavy.trycloudflare.com'
+        - 'proxy.niestools.com'
+        - 'wins-say-charm-social.trycloudflare.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
