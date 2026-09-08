@@ -1,0 +1,39 @@
+title: Network Connection to Backdoor Infrastructure
+id: bada8100-1ce5-4228-8960-25f122976cf0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Backdoor.
+date: 2026-09-08
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adobe commerce
+    - backdoor
+    - graphql
+    - magento
+    - malware.backdoor
+    - payment email
+    - remote code execution
+    - stylesmuggler
+    - zero-day
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'ecomscan.com'
+        - 'windwsecurity.run'
+        - 'ntp.timesysnc.net'
+        - '247.cdnflare.xyz'
+        - 'pool.microsft.studio'
+        - 'time.microsft.run'
+        DestinationIp|contains:
+        - '88.216.72.181'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

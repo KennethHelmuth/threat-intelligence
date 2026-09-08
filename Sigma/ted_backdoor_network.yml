@@ -1,0 +1,37 @@
+title: Network Connection to Ted Backdoor Infrastructure
+id: d07934fd-30a8-4bdb-a354-4b7572cb1bed
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Ted Backdoor.
+date: 2026-09-08
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - curlrat
+    - dprk apt
+    - haproxy
+    - linux toolkit
+    - malware.ted_backdoor
+    - south korea
+    - ted backdoor
+    - trojanized binaries
+    - watering-hole
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'img.monderhouse.space'
+        - 'img.smartnords.site'
+        - 'img.darklights.store'
+        - 'img.responsive.pstatic.autos'
+        - 'img.socialteams.store'
+        - 'img.worksongo.store'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

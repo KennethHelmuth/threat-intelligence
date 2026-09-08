@@ -1,0 +1,35 @@
+title: DNS Query to Mqtt-Bird-Agent Domains
+id: 804e887f-2c86-4197-994e-e5c801438073
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Mqtt-Bird-Agent.
+date: 2026-09-08
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - babuk
+    - backdoor
+    - element messenger
+    - financially motivated
+    - genielocker
+    - hivemq
+    - lockbit
+    - malware.mqtt_bird_agent
+    - matrix protocol
+    - matrix-bird-agent
+    - mqtt
+    - mqtt-bird-agent
+    - toy ghouls
+    - winrm
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'meet.element.tw'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
