@@ -1,0 +1,33 @@
+title: Network Connection to Stylesmuggler Infrastructure
+id: b4d6fbab-e980-403b-a78e-a98ba7fcf04b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Stylesmuggler.
+date: 2026-09-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adobe commerce
+    - malware.stylesmuggler
+    - remote code execution
+    - rust backdoor
+    - stylesmuggler
+    - zero-day
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - '457cfa2fb7p5.daf892t5qau4og8pi4cghbc6fhm1dim3u.oast.site'
+        - 'www.incofar.it'
+        DestinationIp|contains:
+        - '182.182.152.48'
+        - '76.31.99.207'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

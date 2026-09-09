@@ -1,0 +1,24 @@
+title: DNS Query to Apk.Trickmo Domains
+id: 131accb2-52d7-4896-9981-d0ebea5a89d3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Apk.Trickmo.
+date: 2026-09-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Android
+    - TrickMo
+    - malware.apk.trickmo
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'btceducationcenter.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

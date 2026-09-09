@@ -1,0 +1,27 @@
+title: Network Connection to Apk.Soumnibot Infrastructure
+id: 683ad367-f019-4927-b14c-77d75af40a71
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Apk.Soumnibot.
+date: 2026-09-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Android
+    - SoumniBot
+    - malware.apk.soumnibot
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '54.162.26.208'
+        - '38.55.136.70'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

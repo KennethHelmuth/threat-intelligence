@@ -1,0 +1,61 @@
+title: Network Connection to Bigbear 2.0 Infrastructure
+id: 03fd113d-90cc-4980-a6d5-91cc899dc8e6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Bigbear 2.0.
+date: 2026-09-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bigbear
+    - bigbear 2.0
+    - evilginx2
+    - malware.bigbear_2.0
+    - microsoft 365
+    - phishing-as-a-service
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'dronalms.com'
+        - 'ccpipharma.com'
+        - 'knowncontractor.com'
+        - 'hnospascualfadon.com'
+        - 'annastudios-paros.com'
+        - 'arrmmy.com'
+        - 'captelind.com'
+        - 'cifutura.com'
+        - 'daengrentacar.com'
+        - 'dataclust.com'
+        - 'dnsforward.com'
+        - 'haliotisbar.com'
+        - 'hoaivt.com'
+        - 'hotelmidtownsurat.com'
+        - 'kgsscans.com'
+        - 'konceptenterprises.com'
+        - 'offtic.com'
+        - 'planisteradmin.com'
+        - 'rootreseller.com'
+        - 'soil-management.com'
+        - 'valtteri.net'
+        - 'virextec.com'
+        - 'login.evil-domain.com'
+        - 'login.konceptenterprises.com'
+        - 'management.daengrentacar.com'
+        - 'management.michaelmarcotte.com'
+        DestinationIp|contains:
+        - '130.94.113.184'
+        - '130.94.82.180'
+        - '130.94.82.230'
+        - '38.54.124.58'
+        - '38.54.124.88'
+        - '38.60.250.157'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

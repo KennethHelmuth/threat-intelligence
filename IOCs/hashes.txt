@@ -12509,3 +12509,64 @@ a07bc08eded18cc7317216cbbd7032d2	OTX	2026-09-05	family=backdoor | pulse='StyleSm
 11d6a0c1000576915584c49c7039206bbb4c24d1	OTX	2026-09-05	family=backdoor | pulse='StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack' pulse_id=6a9c7c833376c19e92778b46
 b79dfdc1eed860e0b76c629d6adfce251db379b0b45a6d728d4ef483f7551420	OTX	2026-09-05	family=backdoor | pulse='StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack' pulse_id=6a9c7c833376c19e92778b46
 e315687a1dfe61ef4a5a5642214db6d3b2b05d81391285eebc2af664641a26a7	OTX	2026-09-05	family=backdoor | pulse='StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack' pulse_id=6a9c7c833376c19e92778b46
+481ab3406ddfd6b9cf4c9346b4cb815776fd0d89719344247d0d22c8a20e9e57	MalwareBazaar	2026-09-09	filetype=elf md5=ce3f178fc13438b4c45d84bf34b0a3b6 sha1=bc2153bd86aee7d6c93fbb56bf25f43a9d0a3339 | vt=41/75
+76361341b7f86862fae2235d1f67de4c0d3f9ec2ba108328d40b18f7800bc591	MalwareBazaar	2026-09-09	filetype=sh md5=22816350d9e0b7ea15e3c204b49d100c sha1=d1bad1c53cf6af583eb460bbdc7274cdde9561ff | vt=27/75
+a5af2c9eead719aae42ef1fd7a8e78b3a1caebd7f053e3bb34cd74a1e5c470ef	MalwareBazaar	2026-09-09	filetype=sh md5=dc6f7df42ad2dc7f8664836e62f38003 sha1=144b53a1387029cb2a583cc49240218f093dab13 | vt=18/75
+a64f579aaddbfe0f05cf6fdbd528ed98e35ef54d2c9869b35fdd800ef559420b	MalwareBazaar	2026-09-09	filetype=exe md5=503f6644d405ea64eeb00eb9a29767a1 sha1=2a279952b72ed00104981cd34ff04a900eafce3b | vt=41/75
+66c9668d460f0d3f71fb0ed42b895d53f90f4415ea9493e1dd2695cb505be9a6	MalwareBazaar	2026-09-09	filetype=exe md5=afb33bc91f6cdf5cd4dea233defdbf6e sha1=104c7ee356b841084b3d6085babd2bb5879fd969 | vt=15/75
+db9ce8f0eed015147b99abe421137da2be91f6496edf937b934c2b4123f0fd4f	MalwareBazaar	2026-09-09	filetype=exe md5=774616bf1d36bcc134257e31cd5f9ffc sha1=40ec018d94e13480dc84499452932bee76b16c74 | vt=15/75
+036fff70e9d3305ecb0234e79d3ae373aa348ba0cf30d5526bcb13d2f51da0f7	MalwareBazaar	2026-09-09	filetype=sh md5=0de073777b10edd83ce98b2934cde708 sha1=55458a70a866c20cbed364a1402bdfa0e6bed1cd | vt=17/75
+c3394372c2000643ce385269b0d8c648ccb8c833076a84bde397a3c01e7b4a5b	ThreatFox	2026-09-08	family=unknown_rat | confidence=75% threat=payload
+e72b03d7ce71ec92460622726d6bc55228eb8a62d39e82d8749f45fe497ba35c	ThreatFox	2026-09-08	family=win.tinynuke | confidence=95% threat=payload
+d3a52221539ad3c09e494d95034eb992	ThreatFox	2026-09-08	family=win.tinynuke | confidence=95% threat=payload
+0f2e05992e1eb1032016d044b0f93b37	ThreatFox	2026-09-08	family=win.netwire | confidence=95% threat=payload
+6f6cb5fd8c5696bb42cec451906324ce	ThreatFox	2026-09-08	family=win.xworm | confidence=95% threat=payload
+7ef03054d3a602d418a382b00f10970148ce87d107f7d06e9fa5da71c8e4d3da	ThreatFox	2026-09-08	family=win.netwire | confidence=95% threat=payload
+81f40cf86a0398fa67c831f204ba186b	ThreatFox	2026-09-08	family=win.vshell | confidence=95% threat=payload
+3f980de6bd0581609105f594ba932e5e54a9eb1afac81d7543a3a4da8aac9a6e	ThreatFox	2026-09-08	family=win.xworm | confidence=95% threat=payload
+5bae18cb6cd8ad345b24cbec6b62a4b9	ThreatFox	2026-09-08	family=win.stealc | confidence=95% threat=payload
+8cf3cf35c95976b94178dba716adf5308d54f9226e90413f43dbff681afd5842	ThreatFox	2026-09-08	family=win.vshell | confidence=95% threat=payload
+b1ceadb93463f22943f9677aa330f15a	ThreatFox	2026-09-08	family=win.quasar_rat | confidence=95% threat=payload
+b7a06c7dd0943016ee68b5c14ec8a20578df56f9d9fa5f6ea73df6daa5211c07	ThreatFox	2026-09-08	family=win.stealc | confidence=95% threat=payload
+b0a8d7ab2c65b6357c23069a2bf5f777	ThreatFox	2026-09-08	family=win.netwire | confidence=95% threat=payload
+1b68d68b9fd200183c69084e91fe53bd5dca5c501bce1bbf1894034bc69fafe6	ThreatFox	2026-09-08	family=win.quasar_rat | confidence=95% threat=payload
+457371960d83375e5c805ebc7b99932b	ThreatFox	2026-09-08	family=win.asyncrat | confidence=95% threat=payload
+d2305c675ac7cb8f607c06fff1268ae695213ce2de21f8bf78b65a17792a0c3b	ThreatFox	2026-09-08	family=win.netwire | confidence=95% threat=payload
+bedbf012561c71bb4a9a65c2984b400a	ThreatFox	2026-09-08	family=win.vidar | confidence=95% threat=payload
+2eea097e689004e05f44f04ff22909c96d43d04fa7e5936f3709cf0d3a36c041	ThreatFox	2026-09-08	family=win.asyncrat | confidence=95% threat=payload
+19f88273e1076a090e4ec439c2ee560c	ThreatFox	2026-09-08	family=win.xred | confidence=95% threat=payload
+0b5baefd7cc0b2f4ed9a537ec813ca59130fe2d88783971687d8bcfa50015ff0	ThreatFox	2026-09-08	family=win.vidar | confidence=95% threat=payload
+fe892c48559945e7e707a5fed5324ad5c2588de0965152c0ecd8b6e6b07e56d6	ThreatFox	2026-09-08	family=win.xred | confidence=95% threat=payload
+8954631e8ffbb6b865e2353f3d847f0c	ThreatFox	2026-09-08	family=win.njrat | confidence=95% threat=payload
+6934255b1ba10cde7a761574d72d4dee	ThreatFox	2026-09-08	family=win.netwire | confidence=95% threat=payload
+976eb41511fdcb1b13af671b963aca873d1830854c94fa20ea117bdad34d4ce0	ThreatFox	2026-09-08	family=win.njrat | confidence=95% threat=payload
+fec27228340485485f6902f8759bbd62	ThreatFox	2026-09-08	family=win.mimikatz | confidence=95% threat=payload
+b8181d43e0231d5a12038e16ece15329	ThreatFox	2026-09-08	family=win.coinminer | confidence=95% threat=payload
+d297a3f1b263a489d1742181658cfdcb	ThreatFox	2026-09-08	family=win.netwire | confidence=95% threat=payload
+5fb24ac011130aad542d3e2f2fcbda91	ThreatFox	2026-09-08	family=win.overlord | confidence=95% threat=payload
+8a63c713e2a99ea3765da3b394d58d82	ThreatFox	2026-09-08	family=win.svcstealer | confidence=95% threat=payload
+83235e61c6bdf0d75a1777e0478f2362	ThreatFox	2026-09-08	family=win.netwire | confidence=95% threat=payload
+3e49faab0a462731cda05061dffa697e	ThreatFox	2026-09-08	family=win.coinminer | confidence=95% threat=payload
+935335798cef23f623dbe580998e950f	ThreatFox	2026-09-08	family=win.agent_tesla | confidence=95% threat=payload
+32ce6be2690e06880778dd50dd8747c0	ThreatFox	2026-09-08	family=win.formbook | confidence=95% threat=payload
+75da0bf66f46e65566f18b468fe3b747b371fb854bf2fedc0b6c77ad3984dafa	ThreatFox	2026-09-08	family=win.agent_tesla | confidence=95% threat=payload
+2ea9924d172719ebf9dbf3e5edb2c87c31e4e3f740b877e8af2454c6dc93d8d6	ThreatFox	2026-09-08	family=win.formbook | confidence=95% threat=payload
+410fe1699749582a576c43d760128856be27a6cf04a80c0e3ad880ab41aa7c62	MalwareBazaar	2026-09-09	family=Mirai | filetype=elf md5=2e0d8a526213432bf0952bdb08a569a1 sha1=757d51f7ffcacaaee4bddc7998e30290d623c1e7
+dbf8a577d037022a5c8834874be21590b399b0dc5e5103241b3d34d723d05186	MalwareBazaar	2026-09-09	family=Mirai | filetype=elf md5=0566d137b0d610df1e5e8db6741d4358 sha1=1479faf30c193950f4666f25e0f64c75b8dccc5a
+d13752d409ddb0e6f87bd72259a343f7a70bd13c30b03943019123a96e4a2070	MalwareBazaar	2026-09-09	family=ValleyRAT | filetype=exe md5=8ab97203e3e3d4d5d24e8c6ab6bc095b sha1=383430f170ef403df9a23269f56f040a2ec8cfe5
+2471a6c8da3933f1d8ba41a136fa0ca185801dfd26f73d2f8791449007153444	MalwareBazaar	2026-09-09	family=NanoCore | filetype=exe md5=5cdd5fa5921ea6d54ebde06166d1ad9a sha1=8f06edf96f194a0818a2da85e631af2fced7d383
+35664b1b0720aaf383086d2de50e91dbd7fa83f89b8b0dda7d5c1c03ffccc842	MalwareBazaar	2026-09-09	family=Mirai | filetype=elf md5=0e27fa4fb576da50bbfe15a91e36198b sha1=6775cbcbfc020bf073e0d747d2e70b6519fb8d61
+b18df0c8e3b445e4f6581b354f0de6fc47b060834ea4867d32524f2e4032eefc	MalwareBazaar	2026-09-09	family=Mirai | filetype=elf md5=c5307f145e440c2e3129f3f4cee13099 sha1=c711a253f8d95b2065c51cf9069d6c27fce0cd7b
+ecee64f2446c402df5024227ab3217e82ce4f40fd3f509a306ce731de3fa71a4	MalwareBazaar	2026-09-09	family=Mirai | filetype=elf md5=d7f19e1854be867357dd8c63f0a3e6c5 sha1=8b99ea57428eecdae169a9f1213e6265ea5fb789
+bdaf3c99c0dc9f4a9b75b30f228dd64f168de46da83546f8c3b7d93bc7298bae	MalwareBazaar	2026-09-09	family=Mirai | filetype=elf md5=cd029fd1b0312ec933cf0eb0e44b946b sha1=33d4a702b2a120b461498de8eb0c46e78968b5b7
+a0983541675c369ca18843d757644db9f33de26ca9c5373c1bf61a67ca4c908a	MalwareBazaar	2026-09-09	family=Mirai | filetype=sh md5=8fa418203e79c5412eccb674d9ff05c3 sha1=0399137e13fb8bfb403b005e3363ba75752b7f46
+b7ed37d1f689a8302fecfb64ef4bc8828603d093926996965faca45e1ae869a8	MalwareBazaar	2026-09-09	family=Mirai | filetype=elf md5=7b61dfd04e206e7dced233b9a931ccc6 sha1=7e9343dd09123ee39d3bf0c0bc6670141f7ae780
+a8655c0314ffb2321cf53e6965271ae02a3a67af8cf9c89b163090e7e5b68634	MalwareBazaar	2026-09-09	family=Mirai | filetype=elf md5=669e7f6a34f03f9be2e67e17245878b3 sha1=bf377a5d9f88ef24f95d2ef0b850a4b0bd1e1e3d
+1002269048f762683b0f553c5634460fa709390598b3cf2b7021bd6c453c08d6	MalwareBazaar	2026-09-09	family=Mirai | filetype=elf md5=2ea727b781d6fae2e3970102ea07537a sha1=6d78fb1af0952923320af6c4e96dced2a04841e2
+d4a15b847786c75a383ce0cb0e5e139d	OTX	2026-09-07	family=StyleSmuggler | pulse='StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack' pulse_id=6a9ef14fbc62257cff38357b
+d342d8223a362791ce2cc1ab45725eb0a37fd559	OTX	2026-09-07	family=StyleSmuggler | pulse='StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack' pulse_id=6a9ef14fbc62257cff38357b
+fced27f6d57702565353ecc11722533b	OTX	2026-09-07	family=StyleSmuggler | pulse='StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack' pulse_id=6a9ef14fbc62257cff38357b
+1a3374ffac5b0a62467612f264c49792d206304d4514409c982325c91231375d	OTX	2026-09-07	family=StyleSmuggler | pulse='StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack' pulse_id=6a9ef14fbc62257cff38357b
+4352cabaa451e5a894535fbcc4d46628701303322a13745cb5479d7d0534ae8e	OTX	2026-09-07	family=StyleSmuggler | pulse='StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack' pulse_id=6a9ef14fbc62257cff38357b
+d2fbf9eb75c495bfea48790d3b228fab0c15a282419c3d3f5e49294c4e1a3e82	OTX	2026-09-07	family=StyleSmuggler | pulse='StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack' pulse_id=6a9ef14fbc62257cff38357b
+d61217ca0bca83204302fa7b41935ce36f73764559c156d5c980f2fedddffb6e	OTX	2026-09-07	family=StyleSmuggler | pulse='StyleSmuggler: Magento and Adobe Commerce 0-day RCE under active attack' pulse_id=6a9ef14fbc62257cff38357b

@@ -1,0 +1,26 @@
+title: Network Connection to Apk.Trickmo Infrastructure
+id: 525c439b-681a-45ce-ad4b-167da80baeb9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Apk.Trickmo.
+date: 2026-09-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Android
+    - TrickMo
+    - malware.apk.trickmo
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'btceducationcenter.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,26 @@
+title: Network Connection to Apk.Flubot Infrastructure
+id: 7b2374a0-b85c-4e22-93a7-a3b2be92305d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Apk.Flubot.
+date: 2026-09-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Android
+    - Fluehorse
+    - malware.apk.flubot
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'jp.yelove.xyz'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
