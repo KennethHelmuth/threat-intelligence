@@ -1,0 +1,60 @@
+title: Network Connection to Offerloader Infrastructure
+id: 444b1a7d-b7a7-49b8-b031-d0a08ec94e7b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Offerloader.
+date: 2026-09-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - arktunnel
+    - docro hijacker
+    - gcleaner
+    - insomnia rat
+    - malware.offerloader
+    - pay-per-install
+    - seo poisoning
+    - socks5systemz
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'basesfile.com'
+        - 'uy.basesfiles.com'
+        - 'dolldebt.xyz'
+        - 'fangbear.xyz'
+        - 'memorycompany.xyz'
+        - 'suitsoap.xyz'
+        - 'truckshat.xyz'
+        - 'boatthought.xyz'
+        - 'territorycaption.xyz'
+        - 'reasonachiever.xyz'
+        - 'deathshop.xyz'
+        - 'screwbirth.xyz'
+        - 'flavorwood.xyz'
+        - 'wormspark.xyz'
+        - 'wrenobservation.xyz'
+        - 'clothcrib.xyz'
+        - 'ricestar.xyz'
+        - 'coatberry.xyz'
+        - 'northbox.xyz'
+        - 'centscarf.xyz'
+        - 'roadyear.xyz'
+        - 'rifledog.xyz'
+        - 'beliefpicture.xyz'
+        - 'whistlesong.xyz'
+        - 'micesisters.xyz'
+        - 'trampdonkey.icu'
+        - 'gripsleep.xyz'
+        - 'pizzasthread.xyz'
+        - 'bedroomdesire.xyz'
+        - 'landerror.xyz'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

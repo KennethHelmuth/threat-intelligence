@@ -1,0 +1,57 @@
+title: Network Connection to Bluemoon Infrastructure
+id: 1aad8a34-3461-4eb3-b99a-5ace1fae5c6c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Bluemoon.
+date: 2026-09-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bluemoon
+    - browser-extension
+    - gemstone
+    - malware.bluemoon
+    - shadowpad
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'msbenefit.com'
+        - 'attcdn.com'
+        - 'secboxes.com'
+        - 'recommendation-letter.secboxes.com'
+        - 'asianstudies.secboxes.com'
+        - 'materials-project.secboxes.com'
+        - 'project.secboxes.com'
+        - 'evidence.msbenefit.com'
+        - 'data.attcdn.com'
+        - 'airproducts.ink'
+        - 'precipart.ink'
+        - 'epsilonsystems.net'
+        - 'rocketlabusa.ink'
+        - 'spectrolab.fit'
+        - 'ms.checrity.com'
+        - 'checrity.com'
+        - 'aurexdefense.online'
+        - 'cyclokinetics.online'
+        - 'sncorp.fit'
+        - 'tcomlp.online'
+        - 'bosch-sensortec.site'
+        - 'smxtech.xyz'
+        - 'lindes.ink'
+        - 'silvustechnologies.online'
+        - 'worldview.fit'
+        - 'emcore.ink'
+        - 'airindia.fit'
+        - 'airliquide.lol'
+        - 'apollohospitals.fit'
+        - 'haloengines.net'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
