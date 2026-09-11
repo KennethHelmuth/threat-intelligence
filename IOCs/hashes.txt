@@ -12610,3 +12610,365 @@ d8d783f8e050a6e394f3c0aa5e2bc73a38d822e55fbc39c0648cbff566de3cdf	OTX	2026-09-09	
 2c6e11027b011042c9a118fc20728f8f4ebb6be8795cc84cc9a45622c297d354	OTX	2026-09-09	family=OfferLoader | pulse='Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure' pulse_id=6aa13e05864a561a7db38073
 553ce594c9c6afdd4794fddc28c194e3bc3c1b052310e5099c58ac15bab72104	OTX	2026-09-09	family=OfferLoader | pulse='Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure' pulse_id=6aa13e05864a561a7db38073
 fdcc95b7791c0d6590dcf1a412dc9fcc92ad2095818d1b78368b31efad012007	OTX	2026-09-09	family=OfferLoader | pulse='Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure' pulse_id=6aa13e05864a561a7db38073
+ae2cd00c16b6911133d21eada3d44e30eee5de57a9d4167f408fc5bbe7a30f88	MalwareBazaar	2026-09-11	filetype=sh md5=8c1055403dfb8586e5730fa5de39a54b sha1=2a2ae5974dbb3c68d69c441168bfab853d263363
+2af14633ff24e28939e9bb880f62ca80a27c70753383181acc227fc97171a8d3	MalwareBazaar	2026-09-11	filetype=zip md5=4201a4fab8b8f7536caafb316f44d181 sha1=e3724098bf7d09f38d48339c8d8c23ac4d1f1082 | vt=35/75
+76248563dc3fbd1a539d6bcc4275c843695ed08872b8794fe738e3b1657eafbf	MalwareBazaar	2026-09-11	filetype=exe md5=9e68f8d5e235ba07f491dff13b7288ba sha1=29e30b954127321a45f327427652e8f40c4681eb | vt=38/75
+78e6be4b42f91994927633295f95f835596ba9224be5715202b1f88dd4e2b99a	ThreatFox	2026-09-11	family=elf.mirai | confidence=100% threat=payload
+9e49107ff23ff55bb0b32bc0bec57094e51b7033118c135d1d26b9e0ad9519f4	ThreatFox	2026-09-11	family=elf.bashlite | confidence=100% threat=payload
+d3326ec9bb37c8bcb65ffcf639d51ffdc0628804eb974b86bc9f14c1dd2a2c4d	ThreatFox	2026-09-11	family=elf.mirai | confidence=100% threat=payload
+7661b8408aa9677341bf46a27561c9f6d3967ad2e72ea5eab4b665f283f9b3fd	ThreatFox	2026-09-11	family=elf.mirai | confidence=100% threat=payload
+63a406d6fb2be2206a48d451ecd67e3ef9199dec0e0cff60583e713fd4401df5	ThreatFox	2026-09-11	family=win.vshell | confidence=95% threat=payload
+7085ab2e2e21bf54635088d37a25f05bf6a8e338c8917b3ed00923ee447a915c	ThreatFox	2026-09-11	family=win.vshell | confidence=95% threat=payload
+b0f048d712bec3be0aea8d6e2e5d54ec8d0d5350e3f389a2b4ac477b79c819e5	ThreatFox	2026-09-11	family=win.vshell | confidence=90% threat=payload
+13bf1cfedc09e959f6fe09da8c9a687de9ed0d7ba10ca5839a6f0928429a1272	ThreatFox	2026-09-11	family=unknown_loader | confidence=100% threat=payload
+1a937fa01d4ff5ce37ce61bd6b6abdca0c9bd6f66752e640b77bef673f20bd27	ThreatFox	2026-09-11	family=win.coinminer | confidence=100% threat=payload
+a04ac6d98ad989312783d4fe3456c53730b212c79a426fb215708b6c6daa3de3	ThreatFox	2026-09-11	family=elf.hajime | confidence=100% threat=payload
+ffb3eacf4164d66a8d5e591c043f3f86d599e8d39384417d6fdf78796ae18a84	ThreatFox	2026-09-11	family=unknown_stealer | confidence=100% threat=payload
+72a17b3a8db4d659750ad33a235c5b7225f40ee14e64cba425232c7b3f12ce57	ThreatFox	2026-09-11	family=unknown_loader | confidence=80% threat=payload
+09da45e7bcee737ec3814e3b90dcad2fe4151e6871a92526cb182ced38ef638e	ThreatFox	2026-09-11	family=unknown_loader | confidence=85% threat=payload
+4c8056feafdea02cf45cec2af9fc9dac10df6f7fc7af0170440a18fce0a98b88	ThreatFox	2026-09-11	family=elf.bashlite | confidence=100% threat=payload
+f270a80b90acb4302bb29b2f4c7436f6d7eedc4738ca63351f59f22bd59ce28d	ThreatFox	2026-09-11	family=win.vidar | confidence=100% threat=payload
+89de93e69e898d5da92c572f472fc8d0b3b1162eb8d98d4790d2fd6ff849de5b	ThreatFox	2026-09-11	family=win.njrat | confidence=95% threat=payload
+f961f49033fc65a8223674614d50d1cfd9cc430159a7b5d85e9bcfb23668f1b9	ThreatFox	2026-09-11	family=win.vidar | confidence=100% threat=payload
+5ac837e54412e89c6389b4d63f5b674dd81dc9169c749570679a4fa3aafd8213	ThreatFox	2026-09-11	family=win.sliver | confidence=100% threat=payload
+8d3ec44d1d9e8b5e0ce534c639d071b41356d0b153dcc399d03d34284fd4e555	ThreatFox	2026-09-11	family=unknown_loader | confidence=95% threat=payload
+f1fb1fa634403484979f21b36ee4c3e1449a95a4800088454472608f24add367	ThreatFox	2026-09-11	family=win.remcos | confidence=100% threat=payload
+d94a6d8e3d54432fcdb888a4f1e566f35c9ea8fc04381956f5e836da50390ee8	ThreatFox	2026-09-11	family=win.purelogs | confidence=100% threat=payload
+c53d7da58ab93cf0e8aef8e76d81220cf8e0fd387e85914e09da5c6fba8de60e	ThreatFox	2026-09-11	family=win.sliver | confidence=100% threat=payload
+0ca617bad5b12677bce2c7bdd1206f808d74a77f555e2e60e40f90952e417c12	ThreatFox	2026-09-11	family=win.vidar | confidence=100% threat=payload
+729ccb76ed89946ce022d1b886632c2823df936ad3b10e81a711ed9f202d5ffd	ThreatFox	2026-09-11	family=win.phorpiex | confidence=100% threat=payload
+edc48d610c3410f12653b2e7ada4f66ed8cfc7bed556f215620b5ec747b6c1fc	ThreatFox	2026-09-11	family=win.loda | confidence=100% threat=payload
+c9b9d726a3b824a128db9b78efa8f07909d0c60b1297992aa8a0f39eecc56e88	ThreatFox	2026-09-11	family=unknown_loader | confidence=85% threat=payload
+d194790a3eea64f68ffd9fb0cc34fabd070fe4377d256a16befd915f9b4501f5	ThreatFox	2026-09-11	family=unknown_loader | confidence=85% threat=payload
+37db8df2e4dc4767276ab5a7afc645a21c75d3e1b94d9ef25c69d99eacfe1729	ThreatFox	2026-09-11	family=unknown_loader | confidence=95% threat=payload
+62d98f765dc8bd74c921f483d9e5464c9277dd062f5d6114abdc7f030c2ce805	ThreatFox	2026-09-11	family=win.svcstealer | confidence=100% threat=payload
+ab81e32fd9260645a5a4e6534a69d4a8c8db5e5c873a2a8f5aae600902bd4a8c	ThreatFox	2026-09-11	family=unknown_stealer | confidence=100% threat=payload
+edb7f446f91211fcb38d3d38b69dc3e503a554a7b1399700af6aa4635266af15	ThreatFox	2026-09-11	family=unknown_stealer | confidence=100% threat=payload
+4bd74a7f302ec30139db72f7276b3d4357b60ef8d86483cc56c766e910186873	ThreatFox	2026-09-11	family=win.remcos | confidence=100% threat=payload
+db6e16279fe4c6c21bfd6141f6f4f0d285242fd66238358aa92ec7bc9debc5e6	ThreatFox	2026-09-11	family=win.adaptix_c2 | confidence=95% threat=payload
+a05d3628ed18936f474403441aa84c1017aef82a6be794e038e9c31655fc89af	ThreatFox	2026-09-11	family=win.masslogger | confidence=95% threat=payload
+e857298fd2f8d1c7d48780769433f33e7b3ceaae5ea5a74c13ce8c10bcc7b690	ThreatFox	2026-09-11	family=unknown_loader | confidence=95% threat=payload
+ca33eeabb9860584f49ff9a881de1fc6a218813d7bfbcbeae842fcb579ea482c	ThreatFox	2026-09-11	family=win.purelogs | confidence=100% threat=payload
+9fb63f6266dfbc7b3cb527d19134c13f51c2c3080c5242756296f2a7a090a200	ThreatFox	2026-09-11	family=win.purelogs | confidence=100% threat=payload
+23a8568003768b2f4e2fc3bd47a6d6d054c11ce622737d27df4c4f1bb0c28146	ThreatFox	2026-09-11	family=win.formbook | confidence=100% threat=payload
+2a9c16b7fe5a7a1eda5ac040264e8a6975c4e01d43b7b4dc8a57b1077d29d4f7	ThreatFox	2026-09-11	family=unknown_loader | confidence=85% threat=payload
+c964a9c1f74420abb9006a3b2e3738729517eab0c112f8e7f34864878b18fcbe	ThreatFox	2026-09-11	family=win.salatstealer | confidence=100% threat=payload
+61321510045ef68e4e20672cb1b130a2632d7b3cb1c3c8348c4c5e300d0d8a19	ThreatFox	2026-09-11	family=win.remcos | confidence=100% threat=payload
+8e11c717fa2e8c37b5f1ed695d8c8e1898d4e1f40a976e79ece0a8f4260fa9b4	ThreatFox	2026-09-11	family=unknown_stealer | confidence=100% threat=payload
+d53bfb43671e23ef1f925166938a2f4fb28ad163f88e92a26505aa2d56cf8977	ThreatFox	2026-09-11	family=win.asyncrat | confidence=90% threat=payload
+e2b6dbb5b5c44863df8e9e79a6c0d0c4d8fe7bfca346335fbfcd4dc6ca5f9010	ThreatFox	2026-09-11	family=win.vidar | confidence=100% threat=payload
+e60b08b9f64d2d74593a081c5cdc9f82efd76af53fd9b42cab5bef3888e1b5ab	ThreatFox	2026-09-11	family=win.njrat | confidence=95% threat=payload
+cd9655a77201f73e69953ec5b53f898de41983c1b4dcedd0c431955b9c20b241	MalwareBazaar	2026-09-11	family=Mirai | filetype=elf md5=e0c4109aa0afe9ed135a0a0d1ecdd4a5 sha1=c80e0c1f476da9015c9a6a426b6098320ae768e9
+08387ff35cc7854ddea1e2106b1150e9fe80646541c95c5a7121b77c9bc0228e	OTX	2026-09-10	family=socks-proxy | pulse='Death by a Thousand PaperCuts: AI-Driven Exploitation at Scale' pulse_id=6aa21686f83243c07ec7426f
+092788c6598784d91b411dde40f274c73448f6c803f57c8d0ca85a22d0516e19	OTX	2026-09-10	family=socks-proxy | pulse='Death by a Thousand PaperCuts: AI-Driven Exploitation at Scale' pulse_id=6aa21686f83243c07ec7426f
+243de5404091bcd920041cf2f4dd22e80f2c2922022854991d2b5e0ac78f2fee	OTX	2026-09-10	family=socks-proxy | pulse='Death by a Thousand PaperCuts: AI-Driven Exploitation at Scale' pulse_id=6aa21686f83243c07ec7426f
+4cd2a9d574febb1545966561d598c57194da47b09f9175dd888e6aa5d267f91c	OTX	2026-09-10	family=socks-proxy | pulse='Death by a Thousand PaperCuts: AI-Driven Exploitation at Scale' pulse_id=6aa21686f83243c07ec7426f
+5cc0eee4a1d8dbb737838e25f1e9ae37170a54ae757c431b5d6422904538bde3	OTX	2026-09-10	family=socks-proxy | pulse='Death by a Thousand PaperCuts: AI-Driven Exploitation at Scale' pulse_id=6aa21686f83243c07ec7426f
+6106fa15dc10764114d039f26a96d793c559f04b080a27af9f2f27c2eeb391e0	OTX	2026-09-10	family=socks-proxy | pulse='Death by a Thousand PaperCuts: AI-Driven Exploitation at Scale' pulse_id=6aa21686f83243c07ec7426f
+6b5c50c2f88861943426b054fe3ff42f59ffd29d3dcf3cb1bb6c785b12077ee3	OTX	2026-09-10	family=socks-proxy | pulse='Death by a Thousand PaperCuts: AI-Driven Exploitation at Scale' pulse_id=6aa21686f83243c07ec7426f
+844d80da0d8690586f156e1793cde12b5e93a24540e511d4ddb71489cf5a8796	OTX	2026-09-10	family=socks-proxy | pulse='Death by a Thousand PaperCuts: AI-Driven Exploitation at Scale' pulse_id=6aa21686f83243c07ec7426f
+b1adeecb0f2df0d66298a4f3f9a866ddf4c83731892a13ec9b97d405fd50d7b9	OTX	2026-09-10	family=socks-proxy | pulse='Death by a Thousand PaperCuts: AI-Driven Exploitation at Scale' pulse_id=6aa21686f83243c07ec7426f
+b3d73d0a9d26bde03be3511e7293bf67c907fb00d5b6bb8c189a8f37b15987fe	OTX	2026-09-10	family=socks-proxy | pulse='Death by a Thousand PaperCuts: AI-Driven Exploitation at Scale' pulse_id=6aa21686f83243c07ec7426f
+ca996a2dea2529a1e94d7db141259f4fc700b9ab30da36d8b479b81a9b90973b	OTX	2026-09-10	family=socks-proxy | pulse='Death by a Thousand PaperCuts: AI-Driven Exploitation at Scale' pulse_id=6aa21686f83243c07ec7426f
+eb4a6a99019f5c5e35f5f3a86867ad65ff1e7338d4937544313b448172988f86	OTX	2026-09-10	family=socks-proxy | pulse='Death by a Thousand PaperCuts: AI-Driven Exploitation at Scale' pulse_id=6aa21686f83243c07ec7426f
+f03e9c6b1923556269004db628e23d373e11224304e136612a61b1e7ae1b7f1f	OTX	2026-09-10	family=socks-proxy | pulse='Death by a Thousand PaperCuts: AI-Driven Exploitation at Scale' pulse_id=6aa21686f83243c07ec7426f
+f5eebbce3769c8880646c6e8c26d86fbd00e21e193024295641d82c40822adcf	OTX	2026-09-10	family=socks-proxy | pulse='Death by a Thousand PaperCuts: AI-Driven Exploitation at Scale' pulse_id=6aa21686f83243c07ec7426f
+5b4fbe0658ff76f042c3cc2dfe3d1a3eda963e435a24dfc868cb583bde8c7b91	OTX	2026-09-10	family=J7Tracker | pulse='Malicious Chrome and Firefox Extensions Steal Crypto Traders' Session and Wallet Data' pulse_id=6aa21686ffabe101cf6b37c5
+337b48c1cd6dd6e7b8073327082a60e149517fa084ba17b180e041fffa3b130d	OTX	2026-09-10	family=GRIMWEDGE | pulse='Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows' pulse_id=6aa2707076e8a9dd36706bde
+3b71d721c39fad92a44ddd764bbb34afeae44a5db886d0a4827a399a5fbd367f	OTX	2026-09-10	family=GRIMWEDGE | pulse='Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows' pulse_id=6aa2707076e8a9dd36706bde
+51462a23ac25e1bd0e49b7cae7f3a71f8d2201e22d45175b587e4740b49863cc	OTX	2026-09-10	family=GRIMWEDGE | pulse='Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows' pulse_id=6aa2707076e8a9dd36706bde
+56eda0ac82e06ee609b034306025e67df161c5877399c305c8eaea136e80c951	OTX	2026-09-10	family=GRIMWEDGE | pulse='Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows' pulse_id=6aa2707076e8a9dd36706bde
+5995f42a828606705a7339d58a665c229936e81c4e539cdfa115eb46a2eb53d6	OTX	2026-09-10	family=GRIMWEDGE | pulse='Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows' pulse_id=6aa2707076e8a9dd36706bde
+59dc108e22cb856c228bbf8a1ab955fb66f0844a07fe10fa0d9fc3823d2cbbcb	OTX	2026-09-10	family=GRIMWEDGE | pulse='Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows' pulse_id=6aa2707076e8a9dd36706bde
+5eb5645511b00e4f4d73125654eeb3a3930fcf09c65685dc7f03f725331492e3	OTX	2026-09-10	family=GRIMWEDGE | pulse='Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows' pulse_id=6aa2707076e8a9dd36706bde
+69c1603f3f9015beb0097d0a3bb0f17400c314e2eae65a7eceacd3b93ea570dc	OTX	2026-09-10	family=GRIMWEDGE | pulse='Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows' pulse_id=6aa2707076e8a9dd36706bde
+7a52ff23949edee8faa61ce0def6dbca8b7e5943c54d23376cc190762ea3985c	OTX	2026-09-10	family=GRIMWEDGE | pulse='Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows' pulse_id=6aa2707076e8a9dd36706bde
+b7b0cd6539464ab39c6526e499f86d611faa21c5af945535ebaf187cec543af1	OTX	2026-09-10	family=GRIMWEDGE | pulse='Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows' pulse_id=6aa2707076e8a9dd36706bde
+cd0c21f9b32b7feeda1787fccab622dec60ecdf84c0538c08bde3946856b0fa0	OTX	2026-09-10	family=GRIMWEDGE | pulse='Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows' pulse_id=6aa2707076e8a9dd36706bde
+d17053557bb90298f7b115432b4820a248fdbe678bca31721529b1f51a82343b	OTX	2026-09-10	family=GRIMWEDGE | pulse='Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows' pulse_id=6aa2707076e8a9dd36706bde
+e2a59432ce2b0d83ded936374a11fca3d3defaf4aab90eb37fca58683eae32c0	OTX	2026-09-10	family=GRIMWEDGE | pulse='Mind the (Patch) Gap: Multiple Chinese Threat Actors Chain 0-day Exploits in Chrome & Windows' pulse_id=6aa2707076e8a9dd36706bde
+c0118e8a7f9e93dcc1ee59ece90772ad	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+7bd0948afa144f318f11ad104b6332d9c693257e	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+83df0b5583e5f5a282bc0987e220166f0367288b069146ae7d44f4a2d4b21d22	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+302a4c0530f499774b02875daa018bd3	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+8f6c6c0b6c1e9899a86f1192cd480dd1	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+d2f7b0eb7a93d7506db7652512905aa7	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+7b4014d871b975bb919d4ccfaa12f6ff74d27783	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+b351aebbac4969d3040fbf912d8a112e9140dd1b	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+d5dbde316d722df61da2584567760f12b34a1872	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+19273b241041939a79796b814a39034e50ea2ddd93232ab6925580b1699d9f29	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+4104fae6bac93d50aeb3a3e24d41aee10b96b7049ead0c0717f02b71d57657ca	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+8459c2d6ca0967673eb4e6037ba41e5395d47278543cf90604951d0656ec8e4c	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+f01678f275f88d33c445f16c3680bbbc51e0b2205bf6d0b66f9b137bb7153d73	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+0576842e9dd3ff2b4f3ba81dd8d18fcc	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+063bb1a7a3bac61ec28ee2438a3e1204	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+0cbd7b7d92ffe4cf9163f9184eb618c4	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+0d83db1ba927210e27b9253bef4b9ac5	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+0da08a56f46c0c7db328fbceed7ad6ea	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+1380f7a7718057ab1c1df51d72561a83	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+143c2d72d13bc8f439af2e5a5a1cd058	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+144d53f07802e1754a7b56804a5fc66d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+151968e3be0c1e12d9d7cd5a6322f5a9	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+168ee86159ebec0007860529b211c152	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+17c7b622511c3da8fca6c157bd1630f4	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+189e21a63142d6d84086303be967c60e	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+1dbcd59317eb52a983ee3fa9a373a11a	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+1e6bee6018a4664b00079c1970a669a1	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+27c04ce6f39092bd26489314b9edf929	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+27fa1a70c77c0572c9297617f9032edd	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2a58fa11d5c80c887389311cfb332cb3	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2b417ba31be95f20f27116b57871ec21	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2bd94d395c3e7049e6f16308fd45f7e6	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2c3bec66d7f56d2f3e989f8278a15ffb	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+3079b58322b832ca1d22e757384c6e66	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+312993da697c8540a8748f429bbef663	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+31c2456e63db1f02b70c6763bf75b521	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+33f7fe40aca077a3f2bdf7c29789ead2	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+352eda12f27c9917cb6ace59c05b7128	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+361e84d580061a2639df7ae3959b3fe4	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+373c076592278a8b919486c86540fbbb	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+3c2bca6b78caaea6d29701c56eb58680	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+411c59a7163ee1985316752236864b81	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+41bbe7cbcb278681223748ae33343fb9	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+4465b056a0dc9cc4afacaefc9118f73c	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+490452f4e558be51e10aea42c26938ed	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+4bd299a9fb4ca3bcf2e5f8acd7ba0db6	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+4cff8afc7d05eb96c483b79ee9d84c6d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+4e6c2fb6271bcf500344cca16c6153bf	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+4fa813285d7a85f95213a83ec8d9fd58	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+53a7805f16e301c17ba23ccf3370a3cb	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+5f0ba69ae86e96a09ca122ff913d549c	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+629f2485e7150bcb067a10bf31061ecd	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+68fb6e61f5ad535190696ae900fd16f4	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+6daf692ce9a8389fbdc832045ce810bc	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+6de8e0f4aa94290277caf613d0397017	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+7479923453cdb1bbcd9bdc2b2462bb1b	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+74bbcca3a7089d4b3b5f977c9a5ff3bf	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+754cd8a2edcde330532005e1930bacd2	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+7b25915240ea8c004239bb4f8073d8c5	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+7ee1163608485e7ce42080ff99c4b003	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+846df99b60a60acdef755f63c1907d7d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+84b688f65baf80ef750bd95ba7ecdac4	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+8a39723a42c0b72d859ed8b61480b95b	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+8f4c805bd6f55cdc0a2cb345d15fd33d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+901cd46dfb7ea4a0e079d9d8efe1f2a0	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+922bd0835135a76524d932bfabe9a872	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+993fbc498854cb7731a980b21cb8bee4	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+9bbf19158b1ec5df2b40e0978d3356b5	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+9c18531bdbe8e7f8aaa734a379e80fe0	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+9c3571d30ede99215e743054419d13f0	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+9f45431db853590b437ef69d559f3740	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+9fbfa04605aae7f1f1ea1b250e94ab1f	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+9fd044876930c8658d3c66739f203596	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+a1d00a9d4ae203c981ef52709fa73e83	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+a1ebc9f7c8de1191a7bba5ba154e7a33	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+a4aea918ebb67c9a9305bf580bf39c00	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+a577deb99c0a26c449c5ce0d742fb961	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+aa1f017ec68bd2304ad4cd351793c887	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+ac104db278c3fb0a3ed3f7d2cf94e7c9	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+ad888242c4542ef84d3754e2109e2698	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+b1ddea5929c365c76a843f363eec5666	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+b3da41a85e313b8a63fa7756c9649e0b	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+b3f46a643b92410ce31a304a3652d9a2	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+b47ceb5321fa43598e1a3401bed36c9f	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+b523317a9ffc2f1e667a8f96ee1f11d3	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+bd716527e74b405a0c84cf2df59d3246	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+c0508ea61ebf83246388c575f033a7d2	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+c2b2fc1cb93967e2d9033fb653cab82a	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+c6832aa04d5c56d3953aa0671cc07902	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+c889ac73947dd69e6be9ffc1bc3726ba	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+c9c1ae4b004d4dabeb1073e6a057d156	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+cc0d08f2de421a8280769974541c27c9	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+cd254ac31784074a43db3ecd594fb16a	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+d44bacd177e3673ad12b75c7b51a4317	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+d7b4b83b6c0be81417379899e929f03f	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+d7e591bf5352461615be94b8ff369691	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+e755eb08fd623571a4c47c716164d604	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+ebd58dcfaf5b686da33a257c3a705772	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+ec5372629102e957534cdbab4a581ae5	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+edbf642b3b064196e15928f97d6cf42b	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+ee0a8433280571244f6e08b2af7e6ed9	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+ee4a03f0a37e13daa0bf432a89bb9f14	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+ef54224ba7b32677e0d658abd4afb002	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+f0f1a9dc365adc0a8c42f28e26411bad	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+f1aed365f69ef1b7dd575e32562944f2	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+f20f78adce0c064639d9a83da6186a96	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+f39b682562de128bd0cfaef1866332b6	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+f74495331e58196bdbf81d3eaa5bea0f	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+f8681c5d73c229fe45e650849d90d2f5	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+00b6a67f7c9b3a8d486afede622fe15e3ef6ef1d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+036e5ccec8fe3da01069e70553f410cf3b79bc52	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+0454bd69fb56ab2c104b886b469dfbf3aa29c0da	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+051c52332ec2086d57f79f470a56098914103516	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+065104a05d497af754fe43c6595208302d89dfe4	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+0768f1cb6908849a61531e5e24f5b1cd23347b88	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+0a8901e07d3595c11978ad7858958d8e48c90259	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+0dc7da7288fa5b1ad9c5c58bc033983f9ef767e7	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+101fa1b3908e071c289b150db4532eb42295331a	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+131c56b733a5fb999688d3d18337e97e8e8ebf7c	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+20082dc7b64de4df8d2aae8600f84212430f20da	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+29b7ec39fc9a634194e76a692ec3d769f2573eab	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2d5b5084e1d5449deb6a7fd4e1d5b8c8da2ed5ce	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2dc6b594be1af9bda74da4ac6772801b65c38ce4	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2ed3c3341926e49d1cc99710900816651717c11d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2f7554dcea0723ec43c98d78d63d7546aa5c8b12	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+3625de5e0e651a90a5f6f9c775b8477d24b88b8e	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+383ff0101c4c048f4d68f87e162797d14e10201c	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+3a040ae233578c9c9254a35136b95646f2b05fef	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+3a5837391a015b5c8ceb9c980fc5dfea746889cc	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+45289981b4926401948eec20b2a5ba9166752747	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+47604c99fa13b7a0ba970b76675389ae887bcfbb	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+49b70b2d4420a4962135ed04133294bbb45dbb5d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+4d14d1c44e091b9f35676aca2e4f3533babbe623	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+4f3580da53cd4a19d2ac774b75f983d1f0a312be	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+508ff0622da9f9208cbce330f676500c569d0717	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+51050975f20d65070a17a48d86faf1934fed5332	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+545903c27a1f914fe39b2a35f250bfe42d445b84	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+556b0df15bd5791b806b3c4351cc4a61bb07911f	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+57a82a76c273987a1b2126f55bb8b90bd7a97892	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+582537f74a743f0352724a2c5657c4a8f0ec4ebf	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+5a1a56cbeca4924b14f6b41823a27c74749881bf	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+5b7d4fc192c88bf9d8c0e6c94f1e162be1c0c0af	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+5f0a31eb7b9b9b9aff983920e68d4dedcee58664	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+616dc33211e599fcd80fea6785c174f91145fb0f	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+63ffb26a0c4a653e0a64790f8ff967bdf7dd7c0a	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+68b0e36f53023f5d9e902f4573550fb4608607b3	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+69c39ea3da91276614f4a9450e4d04221709c600	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+69e54ae67102906358826667ecd7ad8bc576993f	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+6a9ccddb03387dd4ddf3a18f741b5977b300b432	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+6ba4bb3011314ca43b47c4c02c63392c2d93ad5d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+6ba62bc5c22deaaaf8f17d76a8a61958c328ad02	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+6e8b6a14ed14e8fb9963a91f1c7cd240c068b3fa	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+70397d3d8dd9a835cc0727d7ce62b3cb1782a0a9	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+79adfa03682b48fa173249cbea59679553c822d0	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+80df0aa41b8ea75f933ccf24d547321a48651d52	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+81464d2d61b2aadb8ed3c4ff052657bcb4a03cdc	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+8661f9cd829e04bf94000a36ac2204cdc86cea11	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+87066cfee02b974f72ea698a139d33ef4f2606fe	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+8b368e0628f2711cd13b3aed44fa2b62b98f38d9	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+8b6364392cae50c183e453373540c906bcb6a535	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+8c483e652a404a81dcee858fd89ba82769876eef	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+8c7c6e1fa01edaebe58037caa5219c56dc6c5f94	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+9049c2e89fd3f542e6e40d5422057d13fe181443	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+908681fb6f96816ae8175810a4b8890f3a25015f	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+91c638c2d99c50dd34d80f19b22c8fbb70087b7c	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+92d06d388edc06a5b848c7872fb2657ebad90497	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+9385c7219e68de552741489f3857af7023348668	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+99f0dd0fc81429eba2e75935d3e862b52e05e1c2	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+9a961897f3ed430f34fdcf1ca2df80eeb9ca7866	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+9d8d0b63b5051c2450d37ca36d6660bfc6f4c9c5	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+a5d4d8ec10a79c0f438b9100aafa90f6bff2d832	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+a60352cdebc2947e05925d2f310f146186f1b314	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+a654fc4397251e397583ea46f88bf638e0b43d67	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+a6d50070d8ec66e72e5b11cc98298bdd550e44a0	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+a78767a5820f32645c24bcee3b95b9d615d62a42	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+ac0dea029de6be61a2dfb981e8505d4f59fb7615	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+af0bdd0e76686db01764bed753f5a55caac9a97d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+afd27de7fa0e840b9f68a39c11515703a4912a97	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+b164568295c1fb0ed2955d4bd9796318a3752cb4	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+b2d89834cf53efd1960e1848ffeb49a3b91e46fc	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+b8dddfdd930835f7232ad5df30188e1844c8822c	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+c08597c74a11ad124c5493f6c091e8361f12a57d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+c4a412a48c0f7ee7fb035ba5846d592cb0b6d98c	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+cb30cfb29cb70995d664897d97cccaa989ad8430	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+d2ccafdf3642e4449199f425892832496fdec907	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+d2de72180e02ceceedfc1b97fb788eabd3da196c	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+d3ba5d2202ce38c65e6a8d524427bb17cff6acbc	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+d4ff919ba02a7cab3dd82400c5977f6bd2f19399	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+d65251db183b8cd4338cb9890cb1521b35f46df3	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+d677c8a5c4742b2758cf625411df83776ce13b22	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+dacbe5c24bdcdce5286a4a4a4be8715ba8ff0b61	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+dc286377cfc7f806c60c5beaae3fb39438b55c98	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+dcfaf4f14b07330e15e06251a6b00e8b5a59dcd3	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+e13c8b420d33c8f3158006f6c18431504d1a0a47	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+e224eda1edd2e4bb203a316bf87d8f3cabc7b0cb	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+e49fff9b941dded96fdfc27510132d3ddca1d48e	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+e516099e3d7ff8200a26615b2962e638c711a644	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+e5670127fd3d3d749783114e2aa6338dc60d4e4e	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+ecac4341197d710ce607bafc334b420f0daa4b00	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+eede83f2660a5bd46ddce7fa6267ec7cd6ee972f	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+f2a39c837ad54d8c4c26340c3d68a0080e706c58	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+f9b3b8411df335991f419ca19c58ad334c1f2a63	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+fbab8db65b43707aacfa0f33f3d35d36c68ddc35	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+fd986776ec4092efd5d95802a9f7626ba54f889f	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+feb28d4052dff5753e9ab17b6dcf1f7ea61d2ee8	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+04027a690f22d36f9df561ac0ac8c45119d5c74ad72b4ef9601bee01b33f9941	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+0403ac4e5767f9040e3374e11add15b4a02b919d3095903db45989f179d2a4b5	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+05efb0a52ffde11b212e609e6a935677065f087d79fbec5876f6a27f570387c0	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+07dd1fd1f2a8b6f0bed0ebdb600798f5abe1c1e553f0665564af40dbda0353ef	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+086f5cfe9899b5c9062060272ee24ee4a6a6d8d0142e04e405d9986fcb6cb118	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+08d68ec8b866c75fe7c244269c745c97cf65785ebb2126e97443f1a7b94249b7	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+0b5ead2a71920df15bce83c74d0e2a5083599b686d176f39bc73977b355c49ad	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+0c13f1c17ea4f4b5fd00db32d74d94c815f379724ad1892815ceefc32728c580	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+0cc130c0e9d0e66b8d29c9f852d4555dbc253b25dff511442d7ff0b8c25ed0d3	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+0fecaa3eb4a509043b4b1557457dc1c71f18479013e3687ca90d67019aa58001	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+10bb79310da8592fee743cd95b78f36dfac6753a43e223457f0060850dccd89e	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+11bcf0f0e6c92693f73940f5f0d69a7e260c282779efbaf62c1e06018308333d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+129f491a84e2a52efe06eb70641e1cf998c75bbd07c204fe08da400f2611da59	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+12bd03da72db72b6f3e59d0337b1d78e6efadd8e74d0ff93e68c9e51c4d599d5	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+1811fe7963a78861f36708c4dff6cceb3b30b8389c21d583157c66007f9dc4d6	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+1a40dff6d3514547871505013b58fff43d0a1887dfc5d26291c2d6f953379e18	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+1af47c1fe15dbfd472efa1e3cfa4f77d8f6f011941602521aab3d17f12a01138	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+1b37f03cb2c7ac94570c1671241dfca233bb2a6d3db1bab65c527ecf6fb42544	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+1b9ac232b7a9fd0724eb2cc04946bd9a5a5c69207305b63add54c5f5da50840e	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+1c73f85c3c908188d5209dc50a1469bf729f3dba38461229940d6f901633dddc	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+1df9ba845dd414b7c2d8ae6b13090ec8251a85ade3af4eb3bbc29b716bfb3ffc	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+211df9281484ac6b6360509b05b8072b354a27fa4a7e1c248761c4f6b42977ee	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+21535a9d7bff249927f28f335e5b044ac455519252d2d9972518b51493f59a24	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2424f670bc1e12b48786ab563b28eb00969495f395c327fc99f3c712b146e1b6	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+24c58e72aaba304cb1e25fa23dab1dc06dee6af9eea0ada63623af4f8de7f2ec	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+26796660b7db2fbc5a7fd143147fba09fd9ca947039e3ec1bab303776878b4ea	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+27f70eeaf5655755c34da3722272c50a62966ade045267a24ae221a2eac36777	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+281e673672f80992c09d7035c83a5fb49eb37e63e172da40d68bd24d455024b0	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+29e1089ba3316497da4c28a681a5dfcd79d2adf50eded16c6119e5efc18b6220	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2b29fd7a8e3add75888c3f1e89b0edd0ab9fb24451d3043eec7d481c5e3dce96	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2bee67bea83cef7c9e7a36c88526033cddd0d9e07d711a08010a96e233c7a559	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2d1d667e1f5524531573696a024687e5d0648eff366818c21be9622b30ba0e94	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2d47bbba6c46267a43bcf2b7bfc06c1c2b7e6609d3161f0c10bf77d5311d782b	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2d70ba41f1af88d3e79d77d8451d67927999a0781fefef266ed78df76207f1e8	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2e51a70701aa169f479d560edb9afa2de86bdaffe88fce76a8fa74cacfabb305	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2ea0467ece47f39d89038cda1c56e13a30f8a79a3d4940877f11434cab3fd5a5	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2f27ecece8da567d81d93c652a8a66f278f6f92981ccd27e09d3b752a897065a	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2fa0f810c447038f5fbdfb0b4b121cf262d2695786ad4464aa424d6a6b90e6f4	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+2fafe83bb886d54f0f7986e0e1397a9e49990da0796fe67ac8e5d06268717c4d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+308697590090b4a5525e84eb4a1d86d1de883039f358331a607b03c24a11fe89	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+30a0a919b2e34fb772b9475c006ae1de813e151718200d27a34b07d04ab7b16c	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+31b3f73546ab84521b0c573d4f28c8357a3abb05797af9a3ecf5caf315ae7a64	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+324d46219a05d920d384043dd700be198df60e03b311aea9726f76bc86931e0c	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+3411050463eeab428425d656f9f28b73df27c9e401807ac88df77c1a24e404e2	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+35dd0455fb70f2bd5cfd913419713d9071ad47fd90b7bbddab062407e90d0b3c	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+36c95fc870e77ee9ae739526d27f188666221afe14c3c80fd4c30f0a6c2fcdde	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+39ae593d55faf0165098fed99f81a4e91af3487b17f30ef6c527f476ae37b090	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+3c10437f3e01234f2f0f32e0bacd472a1e107581b830be3819302087597cc6f9	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+3cd9fe6385bcb4bddc84bf8c60f679f9e5b08645b7e72e6a6bdfba8c01395b61	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+3d1629178e8b4eb405590c8e106b49800a7e49d6b2c078dd6478127831876c0a	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+3e879c0fb2eea075efd1b0c3b218aa75769fa04691af7dc8fe61e9530d5e22a9	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+46203645d8610bd1db0451277c80fb8a458001937680db484b88b65a68fd5610	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+4623e1f2435659f9d670c90b9971436c72bf47ce0e20a0f975527322801439c0	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+46a56d2736b44649aa41f8c34338ca4a5beb6f89c05c0ab9c689a8651cdaf139	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+475600e43ad3cde04277fcb8737b2afc52b5749568fb04782a738a8c7f0cdb68	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+4871f7e95e59ee176d817b2d2fc08b1e9727488c4e0e4f145e88999f704ad392	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+4a1176ef49c2173c830684204b77b311faa2a8ec6874f51039b05d55f6afaca4	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+4aaa5763d03fa176b03d4b814680ff70400332a26d42a2d566d5281f68fe12ab	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+4ae1800b15bcff6f21acb5a1df1a8984d8f3c70ebda2736bdcae174c1036e7a9	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+4f5a9748146bd79193b45508c1346340968ba09f4b06e74c96c0d8cb7a08019b	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+53343d68b07d483dae964eaba95e6abcd0078ff9d8667f43309233adf09e2749	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+5387782442a0a40ae5e9e33918572bb2d18b29fc17555bee95530de948504414	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+53b38abaa4a892f00d9940b7b0fc6eb60a5595d02e2db46a800cc64262bc29fd	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+53cdd727b4349fb3b342c3db97e4b9b630d37b69ffa05bcdec833466c60d1489	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+54e158ca8dee7e078dc33ecdf54a6a7b4691b0fd10fbb628b2f2e202969fca3b	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+558f959c1bfa3d271faa0923f8ccadaf4574d787dfe9242d534e207a7b0403f6	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+581a44e6bf100927169c2ee626321a8791378aabe8b4a6c60e648def4e3473ef	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+58c25fe54e379e0d9395402dc23009cafa4fe812672847344307793797e0e560	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+59f849a210de409938609e47d7c55cea9347c8b5a6453b50e0768710756680ef	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+5b5dcbc2c3cece19ca672371f9efeafa5b8c3169a09fca96c13a5a848ad2d10e	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+5d8cb1f6e52b00d0f3a517163eb3b3509e06398c3af9f4051231fca84b698b2d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+5dc011c0cee8e1c54b053cefaf03cc3c9a23c74dd15e7dcad14820fb62879d3a	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+5e10acc1a078623029cc7173b681e92191267cfd39bc504aa83a671654c69cfc	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+5f22ee24914022d2d4451607a2426a00973607112dbbed89775475cf43a583d5	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+600babe3d81869f8f27f04eefd5db5c23b7aba5c96bb634934256a604dae2501	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+61c8a1b1cd80f7cba68a26f6fca59098695bc6de459b228e71bdcedfed9b1f89	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+6341a2e1fb2460b897905878639f9109ac044a2f56ecbc91eb47107305715290	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+65b85a79edf25fff29dccfae46a88bbf47f3681e4f7de21098e6f6480d910fea	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+66089083113f5f7261cb82a880404fcf60f78987a3e37a604d6f9dee81fdbd96	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+67e89f91eb564bc1145840b28b8b9f29ca8875725c5f35f2e8dac91000fcba73	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f

@@ -1,0 +1,34 @@
+title: DNS Query to Grimwedge Domains
+id: 1687c037-e1c7-429a-942c-9be06e1c2254
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Grimwedge.
+date: 2026-09-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser extension
+    - chrome exploitation
+    - cve-2026-85880
+    - grimwedge
+    - malware.grimwedge
+    - spear-phishing
+    - zero-day
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'gitprogram.com'
+        - 'cloud.shinewrist.net'
+        - 'document.gitprogram.com'
+        - 'ocr.opusaccel.top'
+        - 'photos.msbenefit.com'
+        - 'proof.gitprogram.com'
+        - 'xyz0102.gitprogram.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

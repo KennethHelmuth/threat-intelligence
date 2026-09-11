@@ -1,0 +1,31 @@
+title: DNS Query to J7Tracker Domains
+id: 87824a77-59e4-468a-b526-1070e9bae614
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with J7Tracker.
+date: 2026-09-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser extension malware
+    - chrome extensions
+    - cryptocurrency theft
+    - firefox extensions
+    - j7tracker
+    - malware.j7tracker
+    - vreo
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'j7tracker.io'
+        - 'cloudflare.bonto.run'
+        - 'snapshot.xyz'
+        - 'susi.bonto.run'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

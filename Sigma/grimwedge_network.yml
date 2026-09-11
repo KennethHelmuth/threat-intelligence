@@ -1,0 +1,38 @@
+title: Network Connection to Grimwedge Infrastructure
+id: e4512370-7b09-4d18-9a95-49ab37975083
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Grimwedge.
+date: 2026-09-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser extension
+    - chrome exploitation
+    - cve-2026-85880
+    - grimwedge
+    - malware.grimwedge
+    - spear-phishing
+    - zero-day
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'gitprogram.com'
+        - 'cloud.shinewrist.net'
+        - 'document.gitprogram.com'
+        - 'ocr.opusaccel.top'
+        - 'photos.msbenefit.com'
+        - 'proof.gitprogram.com'
+        - 'xyz0102.gitprogram.com'
+        DestinationIp|contains:
+        - '206.166.251.164'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

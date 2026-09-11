@@ -1,0 +1,38 @@
+title: Network Connection to Extortionware Infrastructure
+id: 328cb739-07eb-4462-9f71-0b682bf54d70
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Extortionware.
+date: 2026-09-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - data exfiltration
+    - extortionware
+    - malware.extortionware
+    - mfa bypass
+    - microsoft 365
+    - nodemaven
+    - residential proxies
+    - saas platforms
+    - social engineering
+    - tox messaging
+    - vishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'oskeysetup.com'
+        - 'mfaregister.com'
+        - 'passkey-mfa.com'
+        - 'registermymfa.com'
+        - 'oskey.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

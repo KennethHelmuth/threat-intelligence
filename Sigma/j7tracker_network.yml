@@ -1,0 +1,33 @@
+title: Network Connection to J7Tracker Infrastructure
+id: 084eb27c-da45-4d48-be65-3778a87170e2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with J7Tracker.
+date: 2026-09-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser extension malware
+    - chrome extensions
+    - cryptocurrency theft
+    - firefox extensions
+    - j7tracker
+    - malware.j7tracker
+    - vreo
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'j7tracker.io'
+        - 'cloudflare.bonto.run'
+        - 'snapshot.xyz'
+        - 'susi.bonto.run'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
