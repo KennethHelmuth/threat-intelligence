@@ -1,0 +1,30 @@
+title: Network Connection to Grayrabbit Infrastructure
+id: acd227e5-479d-44ee-8018-9b089984f0b9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Grayrabbit.
+date: 2026-09-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chromium vulnerability
+    - cve-2021-38003
+    - cve-2026-51990
+    - grayrabbit
+    - malware.grayrabbit
+    - rabbitfur
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'noht1ng.top'
+        - 'mail.uaiubifas.top'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

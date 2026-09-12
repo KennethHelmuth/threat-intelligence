@@ -1,0 +1,28 @@
+title: DNS Query to Business Email Compromise Domains
+id: 66e82ba2-0dd1-42d5-a7b5-f40fd5b96465
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Business Email Compromise.
+date: 2026-09-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-assisted attacks
+    - business email compromise
+    - financial fraud
+    - malware.business_email_compromise
+    - phishing campaign
+    - servicenow impersonation
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'domainlify.net'
+        - 'service-nowinc.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

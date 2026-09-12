@@ -1,0 +1,48 @@
+title: DNS Query to Melofee Domains
+id: 28bedfad-ac7c-4f19-9ae1-c3b026efe50f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Melofee.
+date: 2026-09-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cobalt strike
+    - crowdoor
+    - hellobot
+    - hemigate
+    - linux implant
+    - malware.melofee
+    - melofee
+    - plugx
+    - ratels
+    - reptile
+    - shadowpad
+    - spark
+    - stowaway
+    - terndoor
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'blog.exatrack.com'
+        - 'blog-en.itochuci.co.jp'
+        - 'www.windefender.net'
+        - 'windefender.net'
+        - 'microsoftupdates.top'
+        - 'amzaonaws.org'
+        - 'microupdate.me'
+        - 'microupdate.top'
+        - 'windowsupdates.us'
+        - 'awsclouds.awspull.com'
+        - 'documentation.stormshield.eu'
+        - 'update.miss-soft.com'
+        - 'update.wwwubuntu.com'
+        - 'www.partow.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

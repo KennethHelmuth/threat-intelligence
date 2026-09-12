@@ -1,0 +1,36 @@
+title: DNS Query to Sloppyrat Domains
+id: 22b63915-c8b0-45d4-8e3f-ba89a54de1c8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Sloppyrat.
+date: 2026-09-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - castleloader
+    - castlerat
+    - certificate pinning
+    - clickfix
+    - etherhiding
+    - indirect syscalls
+    - malware.sloppyrat
+    - polygon
+    - powershell
+    - ransomware
+    - sloppyrat
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'api.truesmart.org'
+        - '9342371634011778.com'
+        - 'linked4x.com'
+        - 'api.telephoneip.net'
+        - 'finger.linked4x.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

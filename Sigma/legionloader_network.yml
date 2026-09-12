@@ -1,0 +1,29 @@
+title: Network Connection to Legionloader Infrastructure
+id: 068081c7-ae69-4a36-ad72-0a3bd9b62aa5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Legionloader.
+date: 2026-09-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - fake captcha
+    - legionloader
+    - malware.legionloader
+    - spear phishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'dallasbackstage.com'
+        - 'gemscocl.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

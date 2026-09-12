@@ -1,0 +1,79 @@
+title: Network Connection to Melofee Infrastructure
+id: f11f6878-4dcc-45b4-96fd-ae111a08f53e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Melofee.
+date: 2026-09-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cobalt strike
+    - crowdoor
+    - hellobot
+    - hemigate
+    - linux implant
+    - malware.melofee
+    - melofee
+    - plugx
+    - ratels
+    - reptile
+    - shadowpad
+    - spark
+    - stowaway
+    - terndoor
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'blog.exatrack.com'
+        - 'blog-en.itochuci.co.jp'
+        - 'www.windefender.net'
+        - 'windefender.net'
+        - 'microsoftupdates.top'
+        - 'amzaonaws.org'
+        - 'microupdate.me'
+        - 'microupdate.top'
+        - 'windowsupdates.us'
+        - 'awsclouds.awspull.com'
+        - 'documentation.stormshield.eu'
+        - 'update.miss-soft.com'
+        - 'update.wwwubuntu.com'
+        - 'www.partow.net'
+        DestinationIp|contains:
+        - '92.38.169.152'
+        - '185.163.2.79'
+        - '45.67.230.185'
+        - '180.149.44.115'
+        - '185.163.2.34'
+        - '38.54.110.44'
+        - '130.94.91.165'
+        - '103.215.216.117'
+        - '89.44.198.107'
+        - '103.215.216.181'
+        - '185.163.2.100'
+        - '103.215.216.61'
+        - '185.163.2.81'
+        - '146.71.85.33'
+        - '103.215.216.116'
+        - '103.215.216.162'
+        - '103.215.216.27'
+        - '103.215.216.75'
+        - '103.87.9.148'
+        - '130.94.91.53'
+        - '154.205.137.88'
+        - '180.149.44.110'
+        - '180.149.44.43'
+        - '2.56.166.139'
+        - '2.56.166.84'
+        - '38.54.71.107'
+        - '38.54.71.56'
+        - '45.80.208.232'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

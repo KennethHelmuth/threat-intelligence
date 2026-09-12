@@ -1,0 +1,45 @@
+title: Network Connection to Metamorfo - S0455 Infrastructure
+id: 45cce2ba-9b0b-473b-8817-32f7e3261622
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Metamorfo - S0455.
+date: 2026-09-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - autoit loader
+    - banking trojan
+    - casbaneiro
+    - credential theft
+    - distributed servers
+    - geofencing
+    - latin america
+    - malware.metamorfo___s0455
+    - ousaban
+    - phishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'gexwalltool.com'
+        - 'x-wolverine.servebbs.com'
+        DestinationIp|contains:
+        - '162.201.178.68'
+        - '115.201.178.68'
+        - '116.181.62.50'
+        - '128.200.178.68'
+        - '129.202.178.68'
+        - '135.201.178.68'
+        - '181.202.178.68'
+        - '209.99.188.28'
+        - '76.180.62.50'
+        - '85.182.62.50'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

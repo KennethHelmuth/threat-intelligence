@@ -1,0 +1,30 @@
+title: Network Connection to Business Email Compromise Infrastructure
+id: b7b1a1ad-bf08-4951-9e9a-df55e99b849d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Business Email Compromise.
+date: 2026-09-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-assisted attacks
+    - business email compromise
+    - financial fraud
+    - malware.business_email_compromise
+    - phishing campaign
+    - servicenow impersonation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'domainlify.net'
+        - 'service-nowinc.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

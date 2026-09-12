@@ -1,0 +1,33 @@
+title: DNS Query to Privilege Escalation Domains
+id: b620755d-c9d3-4234-9add-bb0cf6e1a67d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Privilege Escalation.
+date: 2026-09-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - administrative compromise
+    - authentication bypass
+    - cve-2026-42016
+    - cve-2026-42018
+    - cve-2026-82329
+    - groovy plugin
+    - in-the-wild exploitation
+    - jfrog artifactory
+    - malware.privilege_escalation
+    - privilege escalation
+    - rust backdoor
+    - vulnerability chaining
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'log.gitclone.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

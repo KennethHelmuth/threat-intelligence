@@ -1,0 +1,27 @@
+title: DNS Query to Legionloader Domains
+id: 372f0604-934b-4542-9201-504b0b7ebc73
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Legionloader.
+date: 2026-09-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - fake captcha
+    - legionloader
+    - malware.legionloader
+    - spear phishing
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'dallasbackstage.com'
+        - 'gemscocl.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

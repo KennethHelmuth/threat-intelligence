@@ -1,0 +1,25 @@
+title: DNS Query to Docusign Impersonation Domains
+id: e75e8805-1909-404a-86b4-f969e0f5c95a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Docusign Impersonation.
+date: 2026-09-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - docusign impersonation
+    - malware.docusign_impersonation
+    - screenconnect deployment
+    - social engineering
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'admin.rshiahub.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

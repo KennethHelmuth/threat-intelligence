@@ -1,0 +1,28 @@
+title: DNS Query to Grayrabbit Domains
+id: ba4ebf75-bd4e-4338-81eb-5fc59810e55d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Grayrabbit.
+date: 2026-09-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chromium vulnerability
+    - cve-2021-38003
+    - cve-2026-51990
+    - grayrabbit
+    - malware.grayrabbit
+    - rabbitfur
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'noht1ng.top'
+        - 'mail.uaiubifas.top'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
