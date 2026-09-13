@@ -1,0 +1,33 @@
+title: Network Connection to Elf.Payload Infrastructure
+id: 6f7961aa-4752-460f-a08d-f16f00de1641
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Payload.
+date: 2026-09-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Downloader
+    - elf
+    - malware.elf.payload
+    - mikrotik
+    - sms-abuse
+    - ssh-botnet
+    - ssh-worm
+    - telegram-tdata
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '223.19.66.178'
+        - '47.239.197.191'
+        - '120.26.164.252'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
