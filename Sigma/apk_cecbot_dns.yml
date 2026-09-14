@@ -1,0 +1,25 @@
+title: DNS Query to Apk.Cecbot Domains
+id: c1f00e13-987d-47a6-8236-2c00ccb43446
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Apk.Cecbot.
+date: 2026-09-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.apk.cecbot
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'dnsrecordsarepowerful.com'
+        - 'dontworry.su'
+        - 'spamhaushackers.at'
+        - 'youareafagifyoufoundthis.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

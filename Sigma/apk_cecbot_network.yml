@@ -1,0 +1,27 @@
+title: Network Connection to Apk.Cecbot Infrastructure
+id: 991265d9-f662-4897-a5a8-fb532585ff19
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Apk.Cecbot.
+date: 2026-09-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.apk.cecbot
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'dnsrecordsarepowerful.com'
+        - 'dontworry.su'
+        - 'spamhaushackers.at'
+        - 'youareafagifyoufoundthis.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
