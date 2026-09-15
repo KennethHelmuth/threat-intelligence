@@ -13928,3 +13928,20 @@ f0e0c233b6385030953a8cdd31dfd928	ThreatFox	2026-09-13	family=win.wannacryptor | 
 f9ac08dc0d9d265ba44e7b256cc554cd9a741ca2a7e4dc01807376a90f8b1024	ThreatFox	2026-09-13	family=win.njrat | confidence=95% threat=payload
 3f4545a5f15fe892f21df9ee911af2ed27a8e0fff9084c6b32b5056d9d18c187	MalwareBazaar	2026-09-14	family=RemusStealer | filetype=exe md5=c2c63147e280abe9fde6efa535c13ce5 sha1=48afa75dc0e75d72c086714b7cbde68076a09325
 e51ee5140bead9c974f22988b80899cc2d10ab9efe6301853f2babe552c330f3	MalwareBazaar	2026-09-14	family=RemcosRAT | filetype=vbs md5=a3d781b345281e22a0b20a614e324f6e sha1=95d8bab53721ed6f46f6bb1615e6262e6783889a
+44ca813f78d95e2ff729a0e0efb4705a2c13a1338d12a4cb7d1a91612c6462dc	ThreatFox	2026-09-15	family=unknown | confidence=100% threat=payload
+df6d5478ddb0af048dd9090b304cadb5077170785d542b95236749f1e6f72651	MalwareBazaar	2026-09-15	filetype=exe md5=6234f1a17ce1937b4f1efbd9afc90c97 sha1=4dddecf55f764778a843c5c7054d41149031af55 | vt=1/74
+b9956521c3fb26cfb49791e6c3b29faae02ab8ac12314c2207f4f1301534df90	ThreatFox	2026-09-15	family=unknown_loader | confidence=85% threat=payload
+74a28581cdc96b69d58c1b2f640c2f3c6932d11eb4b53fb5bf9cf2e89ac30dd4	ThreatFox	2026-09-14	family=unknown_loader | confidence=95% threat=payload
+052f0caff530a67f9a17df5795806d9b01a551f309e434cd4eb92fba8e024051	ThreatFox	2026-09-14	family=win.gcleaner | confidence=100% threat=payload
+37cbee9242444dffe560c8f2dfefa6ec0ff4bda186824bb5ace22ed8cd486436	ThreatFox	2026-09-14	family=win.salatstealer | confidence=95% threat=payload
+50774a5f75176f9698fc536e82a6106c04ccd1db4f1d788574fdb288952c6d7b	ThreatFox	2026-09-14	family=unknown_stealer | confidence=100% threat=payload
+d2f5c40128718130f164c3e2423bd2fb346c8c6ba7b7e0d08caf2b0f77840308	ThreatFox	2026-09-14	family=win.vshell | confidence=95% threat=payload
+3bb6cd6fda610f65fd05741e20306f59	OTX	2026-09-11	family=KATARU | pulse='KATARU: IoT Malware Adopts Public LPE Exploits' pulse_id=6aa4409a4290cc035d81500c
+92bd261aab30589e89ac0e77beeadddd	OTX	2026-09-11	family=KATARU | pulse='KATARU: IoT Malware Adopts Public LPE Exploits' pulse_id=6aa4409a4290cc035d81500c
+9d754cdf176c21649645444b56cb0e0e	OTX	2026-09-11	family=KATARU | pulse='KATARU: IoT Malware Adopts Public LPE Exploits' pulse_id=6aa4409a4290cc035d81500c
+2fa81859fc4ff50f43ff16f5cee544f6e84cf5af	OTX	2026-09-11	family=KATARU | pulse='KATARU: IoT Malware Adopts Public LPE Exploits' pulse_id=6aa4409a4290cc035d81500c
+7105b13258702a2d55c8a7a0f100bbe25891e54f	OTX	2026-09-11	family=KATARU | pulse='KATARU: IoT Malware Adopts Public LPE Exploits' pulse_id=6aa4409a4290cc035d81500c
+ddd07abb4c1077a6b6e54d61a8f6026360ac6379	OTX	2026-09-11	family=KATARU | pulse='KATARU: IoT Malware Adopts Public LPE Exploits' pulse_id=6aa4409a4290cc035d81500c
+77c6547ba3f5769222b0c91d035abd540f42bf01	OTX	2026-09-11	family=KATARU | pulse='KATARU: IoT Malware Adopts Public LPE Exploits' pulse_id=6aa4409a4290cc035d81500c
+141c35607dc0e8e400deb380126b3052bd0495b4d37c8dd979c6aa0204b142fc	OTX	2026-09-11	family=oauth token theft | pulse='Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service' pulse_id=6aa4432cfc2e960cdf6ac1e0
+e17e1e671b597da19b89c5b2d0fa821e90e627860e756ae4947ed27c035330a8	OTX	2026-09-11	family=oauth token theft | pulse='Malicious Twitch Browser Extension Exposes 30,000 Users' OAuth Tokens to Russian Bot Service' pulse_id=6aa4432cfc2e960cdf6ac1e0

@@ -1,0 +1,31 @@
+title: Network Connection to Kataru Infrastructure
+id: e862b921-4ba3-4bee-b894-66f71896ce13
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Kataru.
+date: 2026-09-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cve-2026-31431
+    - cve-2026-43284
+    - cve-2026-46300
+    - ddos
+    - iot botnet
+    - kataru
+    - malware.kataru
+    - telnet brute-force
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '160.191.242.92'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

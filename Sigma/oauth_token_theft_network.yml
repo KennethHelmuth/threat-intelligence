@@ -1,0 +1,35 @@
+title: Network Connection to Oauth Token Theft Infrastructure
+id: 576e08ce-4c80-4636-87b0-8c1c88ebd56c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Oauth Token Theft.
+date: 2026-09-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser extension
+    - malware.oauth_token_theft
+    - oauth token theft
+    - proxy infrastructure
+    - twitch
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'alexue4.dev'
+        - 'morphilina.me'
+        - 'jeetbot.cc'
+        - 'proxy.thebeholder.deno.net'
+        - 'thebeholder-proxy.deno.dev'
+        DestinationIp|contains:
+        - '132.243.113.25'
+        - '80.74.26.162'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,30 @@
+title: DNS Query to Oauth Token Theft Domains
+id: c95e3b83-1328-43e6-8004-2165272b4b12
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Oauth Token Theft.
+date: 2026-09-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser extension
+    - malware.oauth_token_theft
+    - oauth token theft
+    - proxy infrastructure
+    - twitch
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'alexue4.dev'
+        - 'morphilina.me'
+        - 'jeetbot.cc'
+        - 'proxy.thebeholder.deno.net'
+        - 'thebeholder-proxy.deno.dev'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
