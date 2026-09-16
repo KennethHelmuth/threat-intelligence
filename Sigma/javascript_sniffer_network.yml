@@ -1,0 +1,34 @@
+title: Network Connection to Javascript Sniffer Infrastructure
+id: 2ecb8a90-fca6-49e0-9f4a-820e84d8675a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Javascript Sniffer.
+date: 2026-09-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - e-commerce attacks
+    - google tag manager abuse
+    - javascript sniffer
+    - magento cms
+    - malware.javascript_sniffer
+    - web skimming
+    - websocket injector
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'jqwereid.online'
+        - 'fountm.online'
+        - 'gstatcs.com'
+        - 'webfaset.com'
+        - 'bulder.online'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

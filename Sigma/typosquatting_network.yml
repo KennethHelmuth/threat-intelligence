@@ -1,0 +1,55 @@
+title: Network Connection to Typosquatting Infrastructure
+id: 09180304-c85c-4122-b81e-40c1e658b40b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Typosquatting.
+date: 2026-09-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.typosquatting
+    - payment fraud
+    - phishing
+    - search engine manipulation
+    - typosquatting
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'bitretill.com'
+        - 'bitrefill-payments.com'
+        - 'bitrefill-pays.com'
+        - 'bitruflli.com'
+        - 'bitrefall.com'
+        - 'bitrnfill.com'
+        - 'biterflll.com'
+        - 'bitregift.com'
+        - 'bitigift.com'
+        - 'pay-bitregill.com'
+        - 'pay-butrefill.com'
+        - 'bitregill.com'
+        - 'bitrgift.com'
+        - 'bitrgifts.com'
+        - 'butrefill.com'
+        - 'pay-bitrgift.com'
+        - 'pay-bitrgifts.com'
+        - 'pay-bitigift.com'
+        - 'xn--bitrefll-71a.com'
+        - 'xn--bitrefll-h2a.com'
+        - 'xn--bitrefll-pay-kfb.com'
+        - 'xn--bitrefll-pay-xfb.com'
+        - 'xn--bitrefll-q2a.com'
+        - 'xn--bitreill-cz9c.com'
+        - 'xn--bitreill-pay-yq4f.com'
+        - 'xn--btrefill-l2a.com'
+        - 'xn--pay-bitrefll-fgb.com'
+        - 'example-pay.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,32 @@
+title: Network Connection to Jitterly Infrastructure
+id: 17f7ce65-3ffe-4ed2-aa39-6c79367d9822
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Jitterly.
+date: 2026-09-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cve-2026-60004
+    - elections targeting
+    - gitea
+    - jitterly
+    - malware.jitterly
+    - rootkit
+    - sixzut
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'xcyoibfhuufz.com'
+        - 'gitea.redacted.com.ar'
+        - 's2.981666.xyz'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

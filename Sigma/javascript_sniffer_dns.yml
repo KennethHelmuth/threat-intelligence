@@ -1,0 +1,32 @@
+title: DNS Query to Javascript Sniffer Domains
+id: 13fbd6a3-9fbd-4657-96d3-656d0f237021
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Javascript Sniffer.
+date: 2026-09-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - e-commerce attacks
+    - google tag manager abuse
+    - javascript sniffer
+    - magento cms
+    - malware.javascript_sniffer
+    - web skimming
+    - websocket injector
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'jqwereid.online'
+        - 'fountm.online'
+        - 'gstatcs.com'
+        - 'webfaset.com'
+        - 'bulder.online'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
