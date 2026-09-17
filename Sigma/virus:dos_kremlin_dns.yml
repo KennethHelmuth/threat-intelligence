@@ -1,0 +1,44 @@
+title: DNS Query to Virus:Dos/Kremlin Domains
+id: ba2c5b79-6873-49ed-b432-8fe76ac8e9f1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Virus:Dos/Kremlin.
+date: 2026-09-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Ethereum dead-drop
+    - KREMLIN
+    - PULSAR
+    - REMCOS
+    - browser extension
+    - malware.virus:dos/kremlin
+    - session hijacking
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'codecaudiog.site'
+        - 'codecvideowin.online'
+        - 'zaviro.online'
+        - 'granderevolucao.store'
+        - 'volmira.site'
+        - 'affordableonline.online'
+        - 'cheapzone.space'
+        - 'lojinhadoluiz.online'
+        - 'mysterylink.xyz'
+        - 'quirkyclub.club'
+        - 'connection.upgradeonline.site'
+        - 'seguranca.versionnova.site'
+        - 'acrobat-updater.com'
+        - 'cremeb.com'
+        - 'donalurdesconfeitos.site'
+        - 'harialurdes.site'
+        - 'marialurdes.site'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

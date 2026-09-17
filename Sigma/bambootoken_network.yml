@@ -1,0 +1,49 @@
+title: Network Connection to Bambootoken Infrastructure
+id: 62572ea8-a10a-4ecb-9e61-43a3abc11e1f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Bambootoken.
+date: 2026-09-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bambootoken
+    - iocontrol
+    - korplug
+    - malware.bambootoken
+    - mqtt
+    - plugx
+    - sideloading
+    - supply chain
+    - tendyron onkey
+    - wailingcrab
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'chat5188.tk'
+        - 'api80.c2iznja.com'
+        - 'base64.c2iznja.com'
+        - 'live-hk.c2iznja.com'
+        - 'newdma.c2iznja.com'
+        - 'turbo.c2iznja.com'
+        - 'api06.chat5188.tk'
+        - 'api08.chat5188.tk'
+        - 'apis.chat5188.tk'
+        - 'beacon.chat5188.tk'
+        - 'c2iznja.com'
+        - 'cache.c2iznja.com'
+        - 'ccc80.c2iznja.com'
+        - 'chat.chat5188.tk'
+        - 'icanihazip.com'
+        DestinationIp|contains:
+        - '210.1.231.13'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

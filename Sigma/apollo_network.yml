@@ -1,0 +1,41 @@
+title: Network Connection to Apollo Infrastructure
+id: 1b13b67c-580a-4256-b6be-c0bb7e1e84cc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Apollo.
+date: 2026-09-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adversary infrastructure
+    - apollo
+    - c2 framework
+    - command-and-control
+    - fys2
+    - malware.apollo
+    - mythic
+    - network detection
+    - nyx
+    - open-source tools
+    - red team
+    - threat infrastructure
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '142.93.52.11'
+        - '65.87.7.11'
+        - '194.26.192.117'
+        - '68.178.205.17'
+        - '192.169.176.54'
+        - '68.178.202.150'
+        - '170.64.183.242'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

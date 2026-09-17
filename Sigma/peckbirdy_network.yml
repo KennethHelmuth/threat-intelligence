@@ -1,0 +1,54 @@
+title: Network Connection to Peckbirdy Infrastructure
+id: cf0c022e-ec93-4015-b471-35d16d159240
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Peckbirdy.
+date: 2026-09-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bulletproof hosting
+    - casino domains
+    - illegal gambling
+    - malware.peckbirdy
+    - money laundering
+    - peckbirdy
+    - scambling
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'zzyud.com'
+        - '11168833.com'
+        - '11170011.com'
+        - '1862.cc'
+        - '312zym001.cc'
+        - '80074.cc'
+        - '843470.cc'
+        - 'am125.cc'
+        - 'appcasino.online'
+        - 'asg78.com'
+        - 'cache-cdn.org'
+        - 'cache-mcp.com'
+        - 'dollycasino.com'
+        - 'dragobet.net'
+        - 'puqxr.com'
+        - 'realz.com'
+        - 'storebet77.support'
+        - 'summer138.fit'
+        - 'vip311.cc'
+        - 'zenplay77-x.space'
+        - 'interisle.net'
+        - 'js.cache-mcp.com'
+        DestinationIp|contains:
+        - '146.103.91.133'
+        - '157.185.143.150'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

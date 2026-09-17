@@ -1,0 +1,53 @@
+title: Network Connection to Virus:Dos/Kremlin Infrastructure
+id: 850d5396-dcbb-4abf-9165-83d4271ef520
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Virus:Dos/Kremlin.
+date: 2026-09-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Ethereum dead-drop
+    - KREMLIN
+    - PULSAR
+    - REMCOS
+    - browser extension
+    - malware.virus:dos/kremlin
+    - session hijacking
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'codecaudiog.site'
+        - 'codecvideowin.online'
+        - 'zaviro.online'
+        - 'granderevolucao.store'
+        - 'volmira.site'
+        - 'affordableonline.online'
+        - 'cheapzone.space'
+        - 'lojinhadoluiz.online'
+        - 'mysterylink.xyz'
+        - 'quirkyclub.club'
+        - 'connection.upgradeonline.site'
+        - 'seguranca.versionnova.site'
+        - 'acrobat-updater.com'
+        - 'cremeb.com'
+        - 'donalurdesconfeitos.site'
+        - 'harialurdes.site'
+        - 'marialurdes.site'
+        DestinationIp|contains:
+        - '144.172.112.239'
+        - '178.92.162.38'
+        - '185.221.23.133'
+        - '37.16.74.100'
+        - '37.16.74.34'
+        - '45.90.13.210'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

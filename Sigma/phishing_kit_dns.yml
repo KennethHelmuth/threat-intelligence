@@ -1,0 +1,55 @@
+title: DNS Query to Phishing Kit Domains
+id: 182097a2-ecbe-480e-8529-264d4fc4cc5d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Phishing Kit.
+date: 2026-09-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - business email compromise
+    - ghostcode
+    - malware.phishing_kit
+    - phishing kit
+    - residential proxy
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'performanceservlces.com'
+        - 'voewo.com'
+        - 'carkeysexpres.com'
+        - 'ingredlon.com'
+        - '360apartmentrenovation.com'
+        - 'abswaranty.net'
+        - 'aceshopequlpment.com'
+        - 'alllitematerial.com'
+        - 'ankerrpak.com'
+        - 'asllancorporation.com'
+        - 'bjssourcing.com'
+        - 'bochacornpany.com'
+        - 'chayahconsulting-group.net'
+        - 'craecominc.com'
+        - 'crvsurveilance.com'
+        - 'curtiinco.com'
+        - 'dernaeng.com'
+        - 'douglasdynarnics.com'
+        - 'evollvtechnology.com'
+        - 'flipbookonlinevault.com'
+        - 'flipbookviewer.us'
+        - 'frugeseafoods.com'
+        - 'greenlightdlstribution.com'
+        - 'houchems.com'
+        - 'inflnity-tx.com'
+        - 'janlssary.com'
+        - 'kinaaxis.com'
+        - 'kwservlces.com'
+        - 'laseroilfleld.com'
+        - 'njjutb.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
