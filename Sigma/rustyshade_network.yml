@@ -1,0 +1,32 @@
+title: Network Connection to Rustyshade Infrastructure
+id: 712153cc-cad5-4024-9ef9-80c8d5ed37b6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Rustyshade.
+date: 2026-09-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - apt36
+    - bashnatch
+    - gitshellpad
+    - malware.rustyshade
+    - operation rapidrust
+    - psnatch
+    - rustyshade
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'indiatodays.org'
+        - 'officialinfo.org'
+        - 'theprints.org'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

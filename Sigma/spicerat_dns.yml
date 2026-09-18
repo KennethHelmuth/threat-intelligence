@@ -1,0 +1,57 @@
+title: DNS Query to Spicerat Domains
+id: 33b6323f-76c7-4a75-8aae-838e7d221e85
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Spicerat.
+date: 2026-09-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bloodalchemy
+    - government impersonation
+    - malware.spicerat
+    - nodeedgerat
+    - nomadrat
+    - silkparasite
+    - spicerat
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'post.mfa-uz.com'
+        - 'kginfocom.com'
+        - 'natcommunzu.com'
+        - 'www.wordcheck.info'
+        - 'api.hpsupporter.com'
+        - 'help.hpsupporter.com'
+        - 'checkup.hpsupporter.com'
+        - 'tm-mfa.com'
+        - 'evo.hoster-kg.com'
+        - 'hoster-kg.com'
+        - 'help.hoster-kg.com'
+        - 'infrastructure.minings.blog'
+        - 'kg.cwisuz.com'
+        - 'manager.skycom.support'
+        - 'mineconom.tdtu.org'
+        - 'infocomkg.org'
+        - 'tmgaz-server.com'
+        - 'tojiktelecomtj.com'
+        - 'azure.adm-devon.com'
+        - 'azure.uzrailwaystax.com'
+        - 'center.infocomkg.org'
+        - 'center.yntymak-ordo.com'
+        - 'cert.presldent.info'
+        - 'check.presldent.info'
+        - 'chief.presldent.info'
+        - 'data.yntymak-ord.com'
+        - 'data.yntymak-ordo.com'
+        - 'gov.mpekz.online'
+        - 'help.galkynysh.net'
+        - 'info.tdtu.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

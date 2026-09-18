@@ -1,0 +1,26 @@
+title: Network Connection to Win.Lxbaserat Infrastructure
+id: 20453ff5-6a48-4255-bab5-b1956e266c6c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Lxbaserat.
+date: 2026-09-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - LxBaseRAT
+    - RAT
+    - malware.win.lxbaserat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '31.56.36.214'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

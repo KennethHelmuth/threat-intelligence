@@ -1,0 +1,33 @@
+title: Network Connection to Vectrarat Infrastructure
+id: 1847266e-0558-4aa8-a06d-ea2ab3df5614
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Vectrarat.
+date: 2026-09-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - amadey
+    - clickfix
+    - maas platform
+    - malware.vectrarat
+    - netsupport rat
+    - nyxel
+    - uac bypass
+    - vectrarat
+    - vidar
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '91.92.242.236'
+        - '178.16.54.148'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

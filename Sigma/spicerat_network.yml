@@ -1,0 +1,90 @@
+title: Network Connection to Spicerat Infrastructure
+id: ef59f193-a435-46bf-9aa6-5142f10e430f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Spicerat.
+date: 2026-09-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bloodalchemy
+    - government impersonation
+    - malware.spicerat
+    - nodeedgerat
+    - nomadrat
+    - silkparasite
+    - spicerat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'post.mfa-uz.com'
+        - 'kginfocom.com'
+        - 'natcommunzu.com'
+        - 'www.wordcheck.info'
+        - 'api.hpsupporter.com'
+        - 'help.hpsupporter.com'
+        - 'checkup.hpsupporter.com'
+        - 'tm-mfa.com'
+        - 'evo.hoster-kg.com'
+        - 'hoster-kg.com'
+        - 'help.hoster-kg.com'
+        - 'infrastructure.minings.blog'
+        - 'kg.cwisuz.com'
+        - 'manager.skycom.support'
+        - 'mineconom.tdtu.org'
+        - 'infocomkg.org'
+        - 'tmgaz-server.com'
+        - 'tojiktelecomtj.com'
+        - 'azure.adm-devon.com'
+        - 'azure.uzrailwaystax.com'
+        - 'center.infocomkg.org'
+        - 'center.yntymak-ordo.com'
+        - 'cert.presldent.info'
+        - 'check.presldent.info'
+        - 'chief.presldent.info'
+        - 'data.yntymak-ord.com'
+        - 'data.yntymak-ordo.com'
+        - 'gov.mpekz.online'
+        - 'help.galkynysh.net'
+        - 'info.tdtu.org'
+        DestinationIp|contains:
+        - '46.30.188.54'
+        - '2.58.14.95'
+        - '193.29.59.248'
+        - '185.243.112.253'
+        - '185.122.185.36'
+        - '46.30.191.230'
+        - '193.29.59.159'
+        - '31.58.220.250'
+        - '171.22.16.187'
+        - '5.183.95.7'
+        - '193.29.58.192'
+        - '185.243.112.220'
+        - '185.243.114.124'
+        - '185.243.114.238'
+        - '185.243.115.156'
+        - '188.190.18.208'
+        - '188.243.115.156'
+        - '193.29.56.119'
+        - '193.29.57.159'
+        - '193.29.57.182'
+        - '193.29.58.217'
+        - '195.88.191.250'
+        - '195.88.191.70'
+        - '2.58.14.91'
+        - '2.58.15.101'
+        - '2.58.15.129'
+        - '2.58.15.172'
+        - '31.57.92.84'
+        - '31.58.209.28'
+        - '31.59.185.224'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

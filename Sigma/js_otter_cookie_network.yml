@@ -1,0 +1,28 @@
+title: Network Connection to Js.Otter Cookie Infrastructure
+id: d3684bc0-9176-446d-9dc8-bbf84d822f63
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Js.Otter Cookie.
+date: 2026-09-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - NodeJS
+    - OtterCookie
+    - c2
+    - contagious-interview
+    - malware.js.otter_cookie
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '138.226.247.152'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

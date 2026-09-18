@@ -14428,3 +14428,132 @@ fc85a9513e38a1c3fa894ccdefa58fdc	OTX	2026-09-16	family=Virus:DOS/Kremlin | pulse
 9fcf7fa86591a5d40ee6101606b468624cc0ab67	OTX	2026-09-16	family=Virus:DOS/Kremlin | pulse='The extension you never installed: KREMLIN forges Chrome's own integrity checks to steal banking sessions' pulse_id=6aaa6f52c8d835e24adb63f7
 a0087e9d4c2dd44950f8d89de411411bb1ff23f1	OTX	2026-09-16	family=Virus:DOS/Kremlin | pulse='The extension you never installed: KREMLIN forges Chrome's own integrity checks to steal banking sessions' pulse_id=6aaa6f52c8d835e24adb63f7
 b7b4fd303113ab72ca10ad5f2728513c9ba752b5	OTX	2026-09-16	family=Virus:DOS/Kremlin | pulse='The extension you never installed: KREMLIN forges Chrome's own integrity checks to steal banking sessions' pulse_id=6aaa6f52c8d835e24adb63f7
+79a40766ab58027817db28412d600be9f3e64f8e24133562cc3aacb500ec720a	ThreatFox	2026-09-17	family=unknown | confidence=100% threat=payload | vt=0/74
+9db1f0f3fbaabb644021c1d872619ad53ade664f8b9794bb9b64fda013f93798	ThreatFox	2026-09-17	family=unknown | confidence=100% threat=payload | vt=0/75
+10cf2e3f52b5daee5ee47fb639a17003f019a3d8f9d0c0fc8fdfbcc71ff88453	ThreatFox	2026-09-17	family=unknown | confidence=100% threat=payload | vt=0/75
+cefa3f258164e6680c6c8f9c728d9dac1a429777f31ed5b2a14e39d6c9329e0f	MalwareBazaar	2026-09-18	filetype=exe md5=74bc9cd9d4a288006fd8ffbfeae372cf sha1=11d48d9f15293121bbcaf77c82e5a2fcc7ae03a8 | vt=0/0
+70c2fa845ac0791b6281ef1107e9f0c6bc33c582e8c36087f8d3e921ad8ac772	MalwareBazaar	2026-09-18	filetype=exe md5=4fc0f88f0c13ab1007b95390ec9bf715 sha1=3a974f57c2b5fcc4447a1875d767296d608ad8dd | vt=30/74
+8ec88910ab11d3a2e7ed3a9aa1e111d503ddfc5e77065a41383936f015ea6f77	MalwareBazaar	2026-09-18	filetype=elf md5=1a018faf219dd912f728d0293d85486a sha1=65a4790ff158351993f8af0b35f3486f118dbadc | vt=37/75
+59653f10e35db9aa30f0a720a05c3c0da79511da422cec85be558b1d223e8a03	MalwareBazaar	2026-09-18	filetype=elf md5=687d667d5f4c1d351af8a9ee20a37c90 sha1=b100daba7781b42a643bf266f619a15f47306b13 | vt=28/74
+bcd1d32f1f89f3fd6a107874fe525c8536509f993921948c929ae24aeb870054	MalwareBazaar	2026-09-18	filetype=exe md5=e1ada36f2469421f44a26025c85acdcc sha1=184fe2326632ea959f45f0c0da2b6b7dec74bfc8 | vt=31/74
+14f2f0266e4f480e2a38bb3f5ac46fe9f3662a07c59a499378527b348cd40019	MalwareBazaar	2026-09-18	filetype=exe md5=42474c66889beb61c05b6eca9195e27f sha1=3ea3e55d232619e573d7219204db00a3b2b6a0a0 | vt=31/74
+ba9f20f074d5385224db8f0c114147a21cee9a8c327223230c97cf80b262f505	MalwareBazaar	2026-09-18	filetype=exe md5=081b282d3ae3f5e6659c5775fc19c167 sha1=2c4eed06d55951bb5fb1632361a01152f00f14c4 | vt=32/74
+ea7010ab863c15d2690780a5b2c8052b7cd654000d5a714f12c7d5b97440dae0	MalwareBazaar	2026-09-18	filetype=exe md5=cd27e639a169c0f4d421a0ec6f780407 sha1=26f148d554a4b61e3c46bcf8f1328e4b675aeea2 | vt=30/74
+365583e0613b4e68379d2a3e897b6e01d681184335fcdbc6c980e7357ecf04bf	MalwareBazaar	2026-09-18	filetype=iso md5=9b66c46d5bb3083aef03ed6d02962d94 sha1=3a72e3214e6953dbfa765d2084133551f5dadbd7 | vt=31/74
+525d26995e33a51239499d755f02a84a01e5ec662d564336952012693da4949b	MalwareBazaar	2026-09-18	filetype=exe md5=33a174ef3a03cecf208495d8d5ae1da0 sha1=69cdc2acaddf82dca64db046c449825936d4d630 | vt=31/74
+6b74f08a084510ecc7862fc3ff26b6f02209933be2239bbbe279dab2536d0421	MalwareBazaar	2026-09-18	filetype=exe md5=147300d8f993b5c034bb38ad7de65bf2 sha1=04d0b30453375b845082059029679ebeb10ad807 | vt=31/74
+e9e328bdef27c1cfea4939140024f87ca909541222bf0d2ed1f56019295b764b	MalwareBazaar	2026-09-18	filetype=exe md5=7449b12561772204b39d0a10ab16a111 sha1=dbd43638c3df81682ccf86816da6a12f2960d611 | vt=28/74
+ef934adf694468560d1c78ec13639dbe21bc5cb93cefee0d1949043479dff61a	ThreatFox	2026-09-17	family=unknown_loader | confidence=95% threat=payload
+562213c03718da01eae8b9d186ead28b62a3f6ebbca7cd8d148b49ea26bc236a	ThreatFox	2026-09-17	family=osx.macsync | confidence=100% threat=payload
+6da1bef272609f25a135f01241a0d2360f6507401ab0ddfa2687e0cd1e465e65	ThreatFox	2026-09-17	family=osx.macsync | confidence=100% threat=payload
+ad4b190c09f0f71961551b9eeeb96d53672f199dbaaf4244cbad40f48d1e447e	ThreatFox	2026-09-17	family=osx.macsync | confidence=100% threat=payload
+b2af257d26f292ff762621c34b81e51d16e97bab046fcfd1d2abf7a5eb99a17f	ThreatFox	2026-09-17	family=osx.macsync | confidence=100% threat=payload
+234ad2f768609e8f29b94d4fecce70236a59af8de7462877c08cede57075fb6f	ThreatFox	2026-09-17	family=osx.macsync | confidence=100% threat=payload
+ffc676cd3329b5c1ccc9b875f5248a618fd26e58daabf1c17553166c76ff47e5	ThreatFox	2026-09-17	family=osx.macsync | confidence=100% threat=payload
+e6a30157716ade1afb50b8c891089d0250a753e9117e7cc452546f41ff3c8439	ThreatFox	2026-09-17	family=osx.macsync | confidence=100% threat=payload
+566dc1c62f279ed4af40add0f5e23651475b4a039c0653f64c1ff96733035505	ThreatFox	2026-09-17	family=osx.macsync | confidence=100% threat=payload
+5d233ea4a1e9fac145a562d07b0c5f0c6afa8997d7790bff6deff9ba16d52422	ThreatFox	2026-09-17	family=osx.macsync | confidence=100% threat=payload
+8f1854b77c4d9fada6a3bfaa792e080bdb838f4b27b5709371089a6931e102b6	ThreatFox	2026-09-17	family=osx.macsync | confidence=100% threat=payload
+02ea8e93290607629f567f75458e4d03a2b3f9e047604e24b967dd7d38fe945a	ThreatFox	2026-09-17	family=osx.macsync | confidence=100% threat=payload
+b40a92b3295857f9433298530a8c9e7e3af13e6ef2ce3f5e6b46454071fe9672	ThreatFox	2026-09-17	family=unknown_loader | confidence=95% threat=payload
+1b868a83ec744b14e86ddefdb98f1ec177a7edcf96c28207df80180978092c43	ThreatFox	2026-09-17	family=unknown_loader | confidence=95% threat=payload
+28baaf2707ec92396fe38b2caf451c94	ThreatFox	2026-09-17	family=win.vidar | confidence=95% threat=payload
+c80124620c8b09a43486b15b30d7af8180d4aeb98147c7f427cf48587a57f737	ThreatFox	2026-09-17	family=win.vidar | confidence=95% threat=payload
+d13606b6d2f3a9625d4c2294b5cb517c6250b9a9b7b0f40ac4fcc73ca3005c78	ThreatFox	2026-09-17	family=win.valley_rat | confidence=95% threat=payload
+3a9a55b6669f56bc6ed97d08cf8785ed	ThreatFox	2026-09-17	family=win.valley_rat | confidence=95% threat=payload
+c2c7b32b2c38a2d7f80ee7e0b5616ec4	ThreatFox	2026-09-17	family=win.valley_rat | confidence=95% threat=payload
+a4d82d842f1b42e49b1809c574385789	ThreatFox	2026-09-17	family=win.valley_rat | confidence=95% threat=payload
+57a767685d062e064e47012f45b242ced8dbd7e8417ef42c19fd685f7c5791d7	ThreatFox	2026-09-17	family=win.valley_rat | confidence=95% threat=payload
+aaa55d5c516e18e8d785f7dde08dd3c8	ThreatFox	2026-09-17	family=win.valley_rat | confidence=95% threat=payload
+60e381525afa1ec5e234ab33e62ea94be7c53a602f0e96d2af9e0912dc62ac2d	ThreatFox	2026-09-17	family=win.valley_rat | confidence=95% threat=payload
+219abeb37923d6d4b299dd24bda92edc	ThreatFox	2026-09-17	family=win.valley_rat | confidence=95% threat=payload
+d0a4469ea7ecdb54bcd5aacb200a82e68b4596e4ff1f0dda016149ca04e3bb32	ThreatFox	2026-09-17	family=win.valley_rat | confidence=95% threat=payload
+609e10aa8909102d1db865d05cff93fafa5f590079541a9c73d7959a56ab6667	ThreatFox	2026-09-17	family=win.valley_rat | confidence=95% threat=payload
+0958ba3a7e13502ab3582b76c42b0af3	ThreatFox	2026-09-17	family=jar.crossrat | confidence=95% threat=payload
+b69f59c453a3fa6b3b32fffcb731b2d8	ThreatFox	2026-09-17	family=win.stealc | confidence=95% threat=payload
+c07fc51b54d37857ee131eb9a698fff42dbb9460abc9b0103e04a20d51851d15	ThreatFox	2026-09-17	family=jar.crossrat | confidence=95% threat=payload
+0f0813c1e7e1787d105f8904243200f6	ThreatFox	2026-09-17	family=win.arkei_stealer | confidence=95% threat=payload
+de9afebebe189478ff118e9391fe15582ea1cd5e2deee97b3eb85f4bffabac95	ThreatFox	2026-09-17	family=win.stealc | confidence=95% threat=payload
+ae26928df8ab313b5040563ac373b0e7	ThreatFox	2026-09-17	family=win.valley_rat | confidence=95% threat=payload
+d0577b1ed38ab7fe3ba4594c58232fd3f413232f6a40e23b86dfc3eeb39c5cd8	ThreatFox	2026-09-17	family=win.arkei_stealer | confidence=95% threat=payload
+309ee21b05da4e684de79540bb25b330	ThreatFox	2026-09-17	family=win.valley_rat | confidence=95% threat=payload
+9b172ea8b49013979cb3205f70cb9c974e49f7998ed468296021ca59b8407131	ThreatFox	2026-09-17	family=win.valley_rat | confidence=95% threat=payload
+66ce7417ec72d3536f62b609bb9a05e7d2515a2194a027e39fa79d20a429d077	ThreatFox	2026-09-17	family=win.valley_rat | confidence=95% threat=payload
+ae97ff9829f22e4fc5439e6d4c6221d23de1116556cad458824e168d71bc940f	ThreatFox	2026-09-17	family=win.valley_rat | confidence=95% threat=payload
+54c7c2a37cc2bd52274855235cf84d9cbc4a5e4b8d5cfdc1dbd07f9b38bb33f8	MalwareBazaar	2026-09-18	family=Mirai | filetype=elf md5=2a69a5f0d9ea27dab7dfbfd796a69f67 sha1=866cf046cc3c0971f42b6093214e7f02b31f3517
+cecc81f8830b3ca7b39a967be79e16bdccc113f2bde6e40f0a235e67e7e6af22	MalwareBazaar	2026-09-18	family=FleetDeck | filetype=exe md5=a9f3ecd70e3b3de60eab5292c6942945 sha1=a09793bc5df8e7239f14d8393b79d4729665778d
+9297d5fd21ef21b16f5880cd4faea2ad1fb9ee39	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+27e072b92b5ac9e3e2a6770bef3e84bdf864b0611d3bc9caca12be2b1a63dae4	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+e9d0e8b8a33858a7a5a46f78d7a78f9aa7f9b029348d9b618c6a6a1937a39382	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+2ed675d3342f069b6ebb090ee8085f43	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+7899b3e9e899acc932c7839d37ef0c74	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+89706fa83374ddd3d52ac569d876ac6a	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+a3dc3ee464737dd74c20ec771deaac4d	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+a8619784bfe927e551e831d4adaf8ba5	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+05a873fcac5373d5c3b24b2541b7b861cc4c5c05	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+1a5f6531962a08b29c8b5f1572383b52434f1428	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+5a68ece20d05c755d20975b4e1794d0f531d2c19	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+69c3e85b5f1fc3b7787147b18e0158db32b0662c	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+dbded25e78aa62d963f676665020917da09d32e5	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+3ab56c9fb6b7c404c1e5b36788959c877ea819fb124c3847fa0498e9915ef9a7	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+7b82f08120e0d9b16cd5b9ec59d24fb68e35735c82311a233d370e7f264af650	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+8745e872ff8aa41b0e03737f76bf35b6c934106c987dff98afe34120e47caf91	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+b738c03fef5e3d26419e4aab1818a0a7ad206c67fb3eeedcdfb3ef1ee07eb620	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+b926cfcd3f4b07fe6001c39f46e40225ff8000411198d13782538d770c54ae5e	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+bba58f99e14e3512c04a5a74a079d7851abf935dd258cff4c80874ce7cfc82e3	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+bff3583d04f0d5603ced9831eb7c45c1923bd90e2f7d5e5d2b32942d38cf6dc5	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+c708d413720848f8788f43a4f47ddce016fca9af10c9ba4113f47bf2c9244dc5	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+d8f15ba122cd6da01f83fe05294df80a6eadbce0f66dac7c2bcc0904f066e0de	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+ddbd636f6dfd475dc0c75bf9f6f873fa35b9062dee9d37b3377ae7b9acdcd0c9	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+dede8bfb55c2e6479d89b1e73e0712791cf16a7179325804fc4bc13f708d08ae	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+e2db5db12564d2a9da7ef3a57aa23d95782f5eaddc8bd35eb7c35ae6b844a0f0	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+1d73a2c6c715051cdc5afd51248e96af	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+55748a44b217853f7eda25080045612b	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+92fccba38f921c45917e56db6cf12810	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+adb441372f365dcb1e59bcfc37a4ade8	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+d1cda5a35a2751fc5d7595917c992d65	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+19cec1db30a349e1fa2884f864153fd21a6733c8	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+2269b2690349a57203d6ab9a84828a7ff53b496c	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+798e0fc22b1646783fa65f1cc692fde635c0e5a8	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+7c049c51338b6485abb8368e32b0b09041d3e1d2	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+bcdcde73a38da486a24ebd93a6bdace8579563be	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+2e1b94d5e5d6f71cbc26c25184048729	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+88f548ea59edd3b934a671bd4a09a783	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+9a822848a04915873deac85705d7375900755ae5	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+adcb507c3c3239fdbd62112168fcba3d72fcecfb	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+6bd5c6af884d46638ebc60434cfd35b37c1d3dd4	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+40cab74bfacd7ba8fa46c8dcbdf7cae3	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+33641bfbbdd5a9cd2320c61f65fe446a2226d8a48e3bd3c29e8f916f0592575f	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+51aed28d3468de5e75addc467ba14389356afe896098e4e478efcd7bf79a65b9	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+199af4936e44ed894ea45b84500a84268792dca3	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+e17f76e0b4c47a5f54ca51b105be0dd29df50c7c	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+875108112d2fdfbdb04d75bbbe993b1ce8aea140	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+974e94efa9515e53d57b16f538c37bb9a81a39ee	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+3a05ce5e3eea58d50deb3d12d9f004486cd41efb	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+d6b243db1dbca54dace22f067d2e52938460410b	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+fd4bf20350133d8f8c12ed6047853571d89209df	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+dd0012a6ba2ffda25354d1a998178b9dce62a482	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+ca114fe4812a708cd1d36320703beccc6fb927e2	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+7436b37fae21f04841e667cae15d8b6b7d67e7e5	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+ebda1aecbe1a9cf37f2b0f1cf2adf827e0d0189d	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+f25237d11c4d0aa0224d20b7a4f7815dc4971102d2584e991195d1dbc7b8d82d	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+63af61806ff5060c77a526375f843c29	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+d3cb5381f5743b539630b4094214b44f623c650a	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+bd113d6b2cfba5ab2780c313c01d87896c64f91376903efc62ba01a242f59327	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+99fbd400260206d8480d97d2a1f1b0de9c0bb44b	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+313ebf27b9e1a2f1a3b6457d2418b5a60f8525d7	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+5f283f5a5eb22bfeb153756a81728bf5d5c6ee71	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+bb80bf8f63f1673488b1e9cf14e2e979	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+8f8f8a6b6e460ed64d53052334659fe4c558c999	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+40a75f87f1e52c33df9ca733aaf8ebbb	OTX	2026-09-16	family=RUSTYSHADE | pulse='Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH' pulse_id=6aaaca963a639dd0475e8462
+aade06ec611d69f1553035f22356ccf4	OTX	2026-09-16	family=RUSTYSHADE | pulse='Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH' pulse_id=6aaaca963a639dd0475e8462
+ae77f1834ccde53258bc27a779102af2	OTX	2026-09-16	family=RUSTYSHADE | pulse='Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH' pulse_id=6aaaca963a639dd0475e8462
+f16f507a8ed515663a4f07050cd97a74	OTX	2026-09-16	family=RUSTYSHADE | pulse='Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH' pulse_id=6aaaca963a639dd0475e8462
+00aff1a72c5d5635ab36ce2eb370718a7f0557a0	OTX	2026-09-16	family=RUSTYSHADE | pulse='Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH' pulse_id=6aaaca963a639dd0475e8462
+00e1cc0fb1355c196c069791a02b4a5f3b57ae94	OTX	2026-09-16	family=RUSTYSHADE | pulse='Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH' pulse_id=6aaaca963a639dd0475e8462
+761ccb15af1c3fe6e4365ddf65578966e4c84fc9	OTX	2026-09-16	family=RUSTYSHADE | pulse='Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH' pulse_id=6aaaca963a639dd0475e8462
+ad4afe86a835bb2f7768862d358ebd8324c05902	OTX	2026-09-16	family=RUSTYSHADE | pulse='Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH' pulse_id=6aaaca963a639dd0475e8462
+05bbeea42f481a3dd1b3f670aba481f7c5c8e897ef321d65188317be5a65a4d7	OTX	2026-09-16	family=RUSTYSHADE | pulse='Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH' pulse_id=6aaaca963a639dd0475e8462
+52d07b3ef0c5f27d082551d51027de452682e1fbd5bb38a897ea4b31bd387523	OTX	2026-09-16	family=RUSTYSHADE | pulse='Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH' pulse_id=6aaaca963a639dd0475e8462
+70fc6cba3c2021889fb4093d0221dc6925818666df25718a630c562cac18da31	OTX	2026-09-16	family=RUSTYSHADE | pulse='Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH' pulse_id=6aaaca963a639dd0475e8462
+80fdde0dafa450ae33937ccef752b46666da567926b2f39b37e02e77f9d6a92e	OTX	2026-09-16	family=RUSTYSHADE | pulse='Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH' pulse_id=6aaaca963a639dd0475e8462

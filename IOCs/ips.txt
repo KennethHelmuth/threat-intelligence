@@ -11652,3 +11652,149 @@
 37.16.74.100	OTX	2026-09-16	family=Virus:DOS/Kremlin | pulse='The extension you never installed: KREMLIN forges Chrome's own integrity checks to steal banking sessions' pulse_id=6aaa6f52c8d835e24adb63f7
 37.16.74.34	OTX	2026-09-16	family=Virus:DOS/Kremlin | pulse='The extension you never installed: KREMLIN forges Chrome's own integrity checks to steal banking sessions' pulse_id=6aaa6f52c8d835e24adb63f7
 45.90.13.210	OTX	2026-09-16	family=Virus:DOS/Kremlin | pulse='The extension you never installed: KREMLIN forges Chrome's own integrity checks to steal banking sessions' pulse_id=6aaa6f52c8d835e24adb63f7
+154.219.101.56:443	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+154.219.101.56:80	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+130.94.30.47:8080	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+130.94.30.47:8088	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+185.173.39.2:443	ThreatFox	2026-09-18	family=elf.jackskid | confidence=100% threat=botnet_cc
+77.232.37.55:443	ThreatFox	2026-09-18	family=elf.jackskid | confidence=100% threat=botnet_cc
+130.94.30.47:80	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+115.159.101.177:33060	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+130.94.30.47:22	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+130.94.30.47:443	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+115.159.101.177:8086	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+115.159.101.177:3306	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+115.159.101.177:80	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+115.159.101.177:8080	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+115.159.101.177:22	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+115.159.101.177:443	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+43.136.93.107:8080	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+167.172.133.4:6527	ThreatFox	2026-09-18	family=win.remus | confidence=75% threat=botnet_cc
+185.215.151.15:8089	ThreatFox	2026-09-18	family=win.remcos | confidence=100% threat=botnet_cc
+49.232.21.222:8085	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+49.232.21.222:8080	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+47.98.177.11:1443	ThreatFox	2026-09-18	family=win.vshell | confidence=100% threat=botnet_cc
+49.232.21.222:443	ThreatFox	2026-09-18	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+49.232.21.222:8083	ThreatFox	2026-09-17	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+39.107.139.26:8089	ThreatFox	2026-09-17	family=win.vshell | confidence=100% threat=botnet_cc
+141.11.139.233:80	ThreatFox	2026-09-17	family=win.vshell | confidence=100% threat=botnet_cc
+192.210.197.13:12313	ThreatFox	2026-09-17	family=win.vshell | confidence=100% threat=botnet_cc
+47.129.3.232:4433	ThreatFox	2026-09-17	family=win.vshell | confidence=100% threat=botnet_cc
+185.193.126.143:8084	ThreatFox	2026-09-17	family=win.vshell | confidence=100% threat=botnet_cc
+107.148.78.97:9000	ThreatFox	2026-09-17	family=win.vshell | confidence=100% threat=botnet_cc
+43.157.63.92:34567	ThreatFox	2026-09-17	family=elf.aisuru | confidence=100% threat=botnet_cc
+124.222.77.67:8018	ThreatFox	2026-09-17	family=win.vshell | confidence=100% threat=botnet_cc
+38.22.88.155:443	ThreatFox	2026-09-17	family=win.dcrat | confidence=100% threat=botnet_cc
+42.192.54.109:8084	ThreatFox	2026-09-17	family=win.vshell | confidence=100% threat=botnet_cc
+45.76.165.219:443	ThreatFox	2026-09-17	family=win.systembc | confidence=100% threat=botnet_cc
+31.57.97.111:5555	ThreatFox	2026-09-17	family=win.xworm | confidence=100% threat=botnet_cc
+36.255.97.7:4445	ThreatFox	2026-09-17	family=win.xworm | confidence=100% threat=botnet_cc
+82.47.102.179:5001	ThreatFox	2026-09-17	family=win.xworm | confidence=100% threat=botnet_cc
+85.203.4.222:6000	ThreatFox	2026-09-17	family=win.xworm | confidence=100% threat=botnet_cc
+85.203.4.161:6000	ThreatFox	2026-09-17	family=win.xworm | confidence=100% threat=botnet_cc
+82.22.62.195:6767	ThreatFox	2026-09-17	family=win.xworm | confidence=100% threat=botnet_cc
+31.220.89.57:19997	ThreatFox	2026-09-17	family=win.quasar_rat | confidence=100% threat=botnet_cc
+45.137.81.207:7210	ThreatFox	2026-09-17	family=win.quasar_rat | confidence=100% threat=botnet_cc
+45.153.34.146:4782	ThreatFox	2026-09-17	family=win.quasar_rat | confidence=100% threat=botnet_cc
+156.239.224.131:443	ThreatFox	2026-09-17	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+156.239.224.131:8080	ThreatFox	2026-09-17	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+101.43.31.60:8082	ThreatFox	2026-09-17	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+101.43.31.60:80	ThreatFox	2026-09-17	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+138.226.247.152:80	ThreatFox	2026-09-17	family=js.otter_cookie | confidence=95% threat=botnet_cc
+172.86.126.227:8087	ThreatFox	2026-09-17	family=unknown | confidence=90% threat=botnet_cc
+172.86.126.227:8086	ThreatFox	2026-09-17	family=unknown | confidence=90% threat=botnet_cc
+172.86.126.227:8085	ThreatFox	2026-09-17	family=unknown | confidence=90% threat=botnet_cc
+51.210.52.212:1224	ThreatFox	2026-09-17	family=js.beavertail | confidence=95% threat=botnet_cc
+92.118.126.165:56001	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+92.118.126.165:56002	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+92.118.126.165:56003	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+89.126.221.170:4321	ThreatFox	2026-09-17	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+89.126.221.216:4321	ThreatFox	2026-09-17	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+45.156.87.134:56003	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+23.94.197.128:8848	ThreatFox	2026-09-17	family=win.dcrat | confidence=75% threat=botnet_cc
+217.60.195.50:56001	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+217.60.195.50:56002	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+217.60.195.160:56003	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+217.156.66.203:50604	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+217.216.34.133:7443	ThreatFox	2026-09-17	family=unknown | confidence=75% threat=botnet_cc
+20.175.26.173:9000	ThreatFox	2026-09-17	family=elf.evilginx | confidence=75% threat=botnet_cc
+192.162.199.188:443	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+185.247.211.21:56003	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+176.96.137.11:56001	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+176.96.137.11:56002	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+172.169.251.53:6160	ThreatFox	2026-09-17	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+149.88.76.74:8899	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+147.124.199.248:56003	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+147.224.179.31:443	ThreatFox	2026-09-17	family=win.danabot | confidence=75% threat=botnet_cc
+147.124.199.248:443	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+147.124.199.248:56001	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+147.124.199.248:56002	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+132.243.221.34:6767	ThreatFox	2026-09-17	family=win.pure_rat | confidence=75% threat=botnet_cc
+128.90.136.246:4444	ThreatFox	2026-09-17	family=win.asyncrat | confidence=75% threat=botnet_cc
+109.205.212.241:45600	ThreatFox	2026-09-17	family=win.havoc | confidence=75% threat=botnet_cc
+102.220.163.36:7707	ThreatFox	2026-09-17	family=win.asyncrat | confidence=75% threat=botnet_cc
+102.117.163.68:7443	ThreatFox	2026-09-17	family=unknown | confidence=75% threat=botnet_cc
+156.239.224.131:22	ThreatFox	2026-09-17	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+101.43.31.60:443	ThreatFox	2026-09-17	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+101.43.31.60:8080	ThreatFox	2026-09-17	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+128.90.122.140:2015	ThreatFox	2026-09-17	family=win.remcos | confidence=100% threat=botnet_cc
+101.43.31.60:22	ThreatFox	2026-09-17	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+209.38.100.69:22	ThreatFox	2026-09-17	family=win.havoc | confidence=100% threat=botnet_cc
+3.110.54.253:7443	ThreatFox	2026-09-17	family=unknown | confidence=100% threat=botnet_cc
+216.9.225.24:14649	ThreatFox	2026-09-17	family=win.remcos | confidence=75% threat=botnet_cc
+107.172.13.250:8448	ThreatFox	2026-09-17	family=win.remcos | confidence=75% threat=botnet_cc
+188.166.254.199:443	ThreatFox	2026-09-17	family=win.havoc | confidence=100% threat=botnet_cc
+189.141.53.203:7443	ThreatFox	2026-09-17	family=unknown | confidence=100% threat=botnet_cc
+188.166.254.199:22	ThreatFox	2026-09-17	family=win.havoc | confidence=100% threat=botnet_cc
+31.56.36.214:4521	ThreatFox	2026-09-17	family=win.lxbaserat | confidence=75% threat=botnet_cc
+191.101.130.75:7731	ThreatFox	2026-09-17	family=win.xworm | confidence=75% threat=botnet_cc
+45.192.248.45:8080	ThreatFox	2026-09-17	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+45.192.248.45:80	ThreatFox	2026-09-17	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+46.30.188.54	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+2.58.14.95	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+193.29.59.248	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+185.243.112.253	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+185.122.185.36	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+46.30.191.230	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+193.29.59.159	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+31.58.220.250	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+171.22.16.187	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+5.183.95.7	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+193.29.58.192	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+185.243.112.220	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+185.243.114.124	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+185.243.114.238	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+185.243.115.156	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+188.190.18.208	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+188.243.115.156	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+193.29.56.119	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+193.29.57.159	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+193.29.57.182	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+193.29.58.217	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+195.88.191.250	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+195.88.191.70	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+2.58.14.91	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+2.58.15.101	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+2.58.15.129	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+2.58.15.172	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+31.57.92.84	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+31.58.209.28	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+31.59.185.224	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+45.86.162.141	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+45.86.162.249	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+45.86.163.87	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+46.30.189.191	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+46.30.190.170	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+46.30.191.214	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+46.30.191.232	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+46.30.191.90	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+5.183.95.49	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+83.242.96.242	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+88.190.1.208	OTX	2026-09-16	family=SpiceRAT | pulse='SilkParasite Infrastructure: SpiceRAT Servers Tied to Energy and Government Targets Across Central Asia' pulse_id=6aaacff0ea056cea51165b6b
+91.92.242.236	OTX	2026-09-16	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+178.16.54.148	OTX	2026-09-17	family=VectraRAT | pulse='VectraRAT: An Undocumented Full-Stack MaaS Built From Scratch' pulse_id=6aaacbc43d4293c72220717b
+58.181.61.142	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+137.220.158.91	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+124.230.195.242	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+191.223.42.34	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
+64.118.132.233	OTX	2026-09-16	family=Noodle RAT | pulse='Noodle RAT: A Recipe for Cross Platform Espionage' pulse_id=6aaacbc380f9fb21de37cdd2
