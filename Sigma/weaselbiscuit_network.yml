@@ -1,0 +1,30 @@
+title: Network Connection to Weaselbiscuit Infrastructure
+id: d165f371-21a8-4777-ab2d-6466b32b48fa
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Weaselbiscuit.
+date: 2026-09-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - beavertail
+    - chrome extension theft
+    - invisibleferret
+    - malware.weaselbiscuit
+    - npm supply chain
+    - ottercookie
+    - weaselbiscuit
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '103.170.217.184'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

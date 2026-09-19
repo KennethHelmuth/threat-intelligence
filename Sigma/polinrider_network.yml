@@ -1,0 +1,29 @@
+title: Network Connection to Polinrider Infrastructure
+id: 7a7ff61b-33b4-497f-aa67-0c0c4c9a3fd4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Polinrider.
+date: 2026-09-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - infostealer
+    - malware.polinrider
+    - polinrider
+    - supply chain
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '23.27.13.135'
+        - '166.88.73.46'
+        - '193.247.144.38'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

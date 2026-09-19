@@ -1,0 +1,27 @@
+title: DNS Query to Moviereaper Domains
+id: f881f29d-a8aa-4523-8a4d-6c71840effef
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Moviereaper.
+date: 2026-09-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - blockchain c2
+    - itorrents compromise
+    - malware.moviereaper
+    - moviereaper
+    - solana
+    - uac bypass
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'deadhub.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,45 @@
+title: Network Connection to Sparrowocky Infrastructure
+id: aa3dad1f-abbe-4854-8ae9-66996b2be65e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Sparrowocky.
+date: 2026-09-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cyberespionage
+    - earth estries
+    - malware.sparrowocky
+    - sparrowdoor
+    - sparrowocky
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'credits.offices-analytics.com'
+        - 'amelicen.com'
+        DestinationIp|contains:
+        - '27.102.113.240'
+        - '103.85.25.166'
+        - '38.60.224.51'
+        - '45.131.179.24'
+        - '43.254.216.195'
+        - '38.54.57.17'
+        - '38.60.197.55'
+        - '38.60.209.106'
+        - '38.60.224.235'
+        - '38.60.241.65'
+        - '38.60.241.127'
+        - '38.60.241.193'
+        - '130.94.101.82'
+        - '149.104.87.228'
+        - '149.104.90.203'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

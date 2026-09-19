@@ -1,0 +1,31 @@
+title: Network Connection to Moviereaper Infrastructure
+id: 643b500a-6fa3-48c7-99db-b5f7c8b386c4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Moviereaper.
+date: 2026-09-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - blockchain c2
+    - itorrents compromise
+    - malware.moviereaper
+    - moviereaper
+    - solana
+    - uac bypass
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'deadhub.org'
+        DestinationIp|contains:
+        - '208.64.33.90'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

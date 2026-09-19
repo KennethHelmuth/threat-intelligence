@@ -1,0 +1,30 @@
+title: Network Connection to Settra Infrastructure
+id: c77d1089-b322-44f2-bb80-ac88ae36dd91
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Settra.
+date: 2026-09-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - byovd
+    - malware.settra
+    - meshagent
+    - ransomware
+    - recovery inhibition
+    - rmm
+    - settra
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '193.5.65.114'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

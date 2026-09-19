@@ -1,0 +1,48 @@
+title: DNS Query to Banking Trojan Domains
+id: e790bd24-cd7f-4eab-8a49-2832e5486602
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Banking Trojan.
+date: 2026-09-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - banking trojan
+    - blockchain c2
+    - clickfix
+    - compromised websites
+    - etherhiding
+    - fakecaptcha
+    - malware.banking_trojan
+    - polygon smart contracts
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'lanhd6549tdhse.top'
+        - 'polygon.api.onfinality.io'
+        - 'polygon.lava.build'
+        - 'polygon.rpc.subquery.network'
+        - '3262d48df5d75e34.shop'
+        - '45a3158594d6ba76.fun'
+        - '67b3ac3e45812153.fun'
+        - '82d35f9b891c987a.fun'
+        - '9082b2a18f2e00fe.fun'
+        - 'ddcd62e16a428c8e.shop'
+        - 'hivinest.online'
+        - 'pleasewaitcenter.top'
+        - 'skaybolt.online'
+        - 'truieparth.online'
+        - 'veruisuealx.xyz'
+        - '90happymoney.top'
+        - 'cleearpeyak.online'
+        - 'folfdighdd.xyz'
+        - 'insinght.site'
+        - 'onemm.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

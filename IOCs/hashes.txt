@@ -14557,3 +14557,293 @@ ad4afe86a835bb2f7768862d358ebd8324c05902	OTX	2026-09-16	family=RUSTYSHADE | puls
 52d07b3ef0c5f27d082551d51027de452682e1fbd5bb38a897ea4b31bd387523	OTX	2026-09-16	family=RUSTYSHADE | pulse='Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH' pulse_id=6aaaca963a639dd0475e8462
 70fc6cba3c2021889fb4093d0221dc6925818666df25718a630c562cac18da31	OTX	2026-09-16	family=RUSTYSHADE | pulse='Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH' pulse_id=6aaaca963a639dd0475e8462
 80fdde0dafa450ae33937ccef752b46666da567926b2f39b37e02e77f9d6a92e	OTX	2026-09-16	family=RUSTYSHADE | pulse='Operation RapidRust: APT36 Deploys RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH' pulse_id=6aaaca963a639dd0475e8462
+08041fe58fe8a6333f61b77e72d939b3c2c85775aa4b9d4f7639ed87e4073958	ThreatFox	2026-09-18	family=unknown | confidence=75% threat=payload | vt=19/74
+f3bf1da005ec5142943b1b973d04b842d93ae8afe27959e1e75ab806213e1ce7	MalwareBazaar	2026-09-19	filetype=exe md5=d1ffa5b2eea1b17be1dd982ce9c8d97b sha1=0e32d113ed0957d02120c9f61f92665eda1d415d | vt=35/74
+1b6901652fb859d727f800f32d7e81facca92ebf5ae5333ad147f8df16e3f0f1	MalwareBazaar	2026-09-19	filetype=exe md5=ff491978b18b7213eb984e48292ec552 sha1=53a740c3a8b7fa32ebc0cb165fe3973056f4cfc4 | vt=36/74
+42629c5dddb5fc27f22bfba93bcaf6f321cc788fe57a0f4627694ab9c22d642e	MalwareBazaar	2026-09-19	filetype=exe md5=10d05605d8a50b3e1679b13e7017d788 sha1=4c2a97d86abc15ceadc32dda1feded2222baeac3 | vt=36/74
+efc900e61b9c834233fa391418f38d45a2cfcb2ce987df01bf0b8c830ce34f1b	MalwareBazaar	2026-09-19	filetype=exe md5=c7cb693b2aaed4f57da066655bd2c28a sha1=82b9b9c2703b041241ff90175477e76052d9ac69 | vt=36/74
+829ed6118452d3df02d66e3ffb0e754233124b97851775c17971a3ea32eed5e5	MalwareBazaar	2026-09-19	filetype=exe md5=d9d922c704c8ad3709e80fd70f6c07e2 sha1=731c7c4fde24f75a45c37010c72874bdc093ab54 | vt=35/74
+865fa80643980f86897a6c2767f1165bcd99a24c712d83d33b2f6894a21f0c66	MalwareBazaar	2026-09-19	filetype=exe md5=741bdb1fbd3a67c40cea34da7d966a6a sha1=2221141d78adf0a172038a17ac07af4b287528e4 | vt=35/74
+387dd9de2fe34888bdd6cf2b698bee23af29483e6964bb5f0c2dab9da8eeaba1	MalwareBazaar	2026-09-19	filetype=exe md5=900f989fcdeaafc3f7e67e327d171b7b sha1=d3cab88325fc641537fa3f2f9d72e18ec972f367 | vt=35/74
+14502cbd7bb5f10150195bb3a674998f7d0b881dffa68c24dc41ae3821f5d2a7	MalwareBazaar	2026-09-19	filetype=exe md5=59a2dec6b20cd3d8b7d85bfab26851de sha1=03b6c0123b8e45f47f19798af529f493b0bba230 | vt=35/74
+02aea5882129f6b1cf79073496070f9856ee809f537b09187736424ae2868ac7	MalwareBazaar	2026-09-19	filetype=exe md5=621b6ae22d4d74b3089e7d34f17ed63c sha1=5dd44bf9d1bd06eb9bb4765dc1c7b837649b257d | vt=35/74
+5050f0a6c2933dbc79f6906f1ce683933bfa472f555d72c2d8359479178e2b10	MalwareBazaar	2026-09-19	filetype=exe md5=8ad10aff10f65e4abb490dd50ff89e9e sha1=15c2c97eaac0361f05ebe5a6e42b5f133d0a662d | vt=35/74
+53103b74eac117fbf5fc004466fe157221aebe7bbdbda088a607efbcb9914497	MalwareBazaar	2026-09-19	filetype=elf md5=dd21cec6e4be7deb27827ca3bed91ea3 sha1=63af6e2fb211372e153252480cc37eb185c670b9
+abbf368f01539f8c1cc2362970408a35e0c5b170fe626dcb711a557177b532d2	MalwareBazaar	2026-09-19	filetype=elf md5=1955d0b4d4f3f3b00b376b9da548178d sha1=0f6b5d94426f0472b7f1262ae4410d557b071de7 | vt=32/74
+ac16e2701b8fe6dace8d3910b4ca1bf875cd05ee0de0c0fc82b760b8de7f8cdd	MalwareBazaar	2026-09-19	filetype=elf md5=3a17682112e4151d9b244cf0b5941899 sha1=1fec82935e2e1d64cb32c778e3c15779b17e9e01
+22b34fe804f862da2c545dcc417af6362193c081165c2206f1237243bae212fd	MalwareBazaar	2026-09-19	filetype=exe md5=8de8e32706e01a9586f96fe4bac357ef sha1=54dc7e3f6b277c90de43ee8a70b0e79d5ce62df3 | vt=35/74
+2406b42d46d1aba07d8bbe21ecc07799ef478e327447fda14dedd6dede8a5f86	MalwareBazaar	2026-09-19	filetype=exe md5=bb5a220f13c9918c6eb147a72e6195df sha1=3e868571b0fb1de9d052081d6de7a27974ede769 | vt=35/74
+efa89746b5693167d3ec46b17c77bf3c97eccdaebc2ab907d2f1ac08729888b8	MalwareBazaar	2026-09-19	filetype=exe md5=21b4def8eee78325d1c5cb8e253cff4f sha1=d6f522aea2c02fd768f0cbd0fb68229244c41afc | vt=36/74
+654dd2bef34c1a84a70315c12d50979e06e553c1f50530e95ab66e047d98f48d	MalwareBazaar	2026-09-19	filetype=exe md5=0ac6a732059f7e1a8aeeda4e51f5ed38 sha1=1bdd739206efb55da72363254ace62663f3a33d9 | vt=35/74
+7eeaa1e1acb4b10e54e1e0367168b306260bc07bb738e0b5452716d5f0cb8abb	MalwareBazaar	2026-09-19	filetype=exe md5=71392c07b207b2449cb44bb755877d33 sha1=16096e141eaa76806d111ef1d0c2b08370daf668 | vt=35/74
+e7a7563ea9d2277a4ff27dbf687711a40ba0e937b7f0142b5cd8a821c0f8dbfa	MalwareBazaar	2026-09-19	filetype=exe md5=4f3d054ffd5ef2793f7fd5f75613d590 sha1=042b0d5da42b78fd6c9a02daa649bc8cbf459512 | vt=27/74
+bfd614cd3073880767f0af5ef481e24acebde06ce48a80dd607327303f700ce2	MalwareBazaar	2026-09-19	filetype=exe md5=74cfd71264b6f4cb919954f026cf959a sha1=ea7539b3c1b03bdc48bac6ab6c31a92ed1636cb4 | vt=35/74
+e399b068d5d679b430b7c95166057b6b38673b32e00ae16d7b971b540cd6539e	MalwareBazaar	2026-09-19	filetype=exe md5=f155e5ec898708a488d5331421185ed3 sha1=9e2de63affafc5f02327ac1cc4bb4af8aead9325 | vt=35/74
+31b0afa46c49cddbb19d82de057277a09d19daec6f10dc1af133a0c0cc24e107	MalwareBazaar	2026-09-19	filetype=exe md5=82db6152ea656dc4bea99f99a7ba3a56 sha1=aea21c3d8bbc92f0d3ab58c7451ead73cb9d5fcf | vt=35/74
+49df1599dc7d239bbb7d347bef9941547acec21fc7af972954110c5b24c04342	MalwareBazaar	2026-09-19	filetype=exe md5=fd27bd1c5a05a738e62ac6271a5bcb53 sha1=fd1de41713ad26eea262301a4def2d7bf7f5c406 | vt=37/74
+0d3d18aa399e7fb9a3303a32d1dd6fdad11761d10ea62106e62e8a83f4544286	MalwareBazaar	2026-09-19	filetype=exe md5=23a0c3315cf3b58517b0e9fe954d9895 sha1=9590039543e653e6472133272b4a1466d0673fd2 | vt=36/74
+1d04536714bb22a3e909525a7dd627f0	OTX	2026-08-19	pulse='https://malbearlabs.com/shadow-hvnc-and-shadow-loader-the-kit-that-protects-its-license-better-than-its-customers-dd99520b6af3' pulse_id=6a85ae7731d98c565dddf19f | vt=41/74
+affc166fa1874ff3ec0e42646e008cec972b76ab	OTX	2026-08-19	pulse='https://malbearlabs.com/shadow-hvnc-and-shadow-loader-the-kit-that-protects-its-license-better-than-its-customers-dd99520b6af3' pulse_id=6a85ae7731d98c565dddf19f | vt=41/74
+85c5a390f17891eee01d5fd10f20a98d	OTX	2026-08-19	pulse='https://malbearlabs.com/shadow-hvnc-and-shadow-loader-the-kit-that-protects-its-license-better-than-its-customers-dd99520b6af3' pulse_id=6a85ae7731d98c565dddf19f | vt=23/75
+9675c957a5fded266939e314abff2078	OTX	2026-08-19	pulse='https://malbearlabs.com/shadow-hvnc-and-shadow-loader-the-kit-that-protects-its-license-better-than-its-customers-dd99520b6af3' pulse_id=6a85ae7731d98c565dddf19f | vt=35/74
+0307aaef0558a8c571357129ee00566bd86dcc0a	OTX	2026-08-19	pulse='https://malbearlabs.com/shadow-hvnc-and-shadow-loader-the-kit-that-protects-its-license-better-than-its-customers-dd99520b6af3' pulse_id=6a85ae7731d98c565dddf19f | vt=35/74
+8e20eccbf7d7662a7309ac6985fbbb748c0af1f2	OTX	2026-08-19	pulse='https://malbearlabs.com/shadow-hvnc-and-shadow-loader-the-kit-that-protects-its-license-better-than-its-customers-dd99520b6af3' pulse_id=6a85ae7731d98c565dddf19f | vt=23/75
+7e7df0e30b6aba8637fb58db0a2e7a876890b872f0d0b313424d46c9299580e8	OTX	2026-08-19	pulse='https://malbearlabs.com/shadow-hvnc-and-shadow-loader-the-kit-that-protects-its-license-better-than-its-customers-dd99520b6af3' pulse_id=6a85ae7731d98c565dddf19f | vt=23/75
+d644b5358c2af9eade675b0f578342e72839effad6e12dcaad884ad8169087ca	OTX	2026-08-19	pulse='https://malbearlabs.com/shadow-hvnc-and-shadow-loader-the-kit-that-protects-its-license-better-than-its-customers-dd99520b6af3' pulse_id=6a85ae7731d98c565dddf19f | vt=35/74
+1f3a9c72d8046b5e9a71c2e8f5d60394	OTX	2026-08-19	pulse='https://malbearlabs.com/shadow-hvnc-and-shadow-loader-the-kit-that-protects-its-license-better-than-its-customers-dd99520b6af3' pulse_id=6a85ae7731d98c565dddf19f
+5ccd6c0dba9ad2ab6cc8752381a6e71d	OTX	2026-08-19	pulse='https://malbearlabs.com/shadow-hvnc-and-shadow-loader-the-kit-that-protects-its-license-better-than-its-customers-dd99520b6af3' pulse_id=6a85ae7731d98c565dddf19f
+f65bdff0bf9c807c96c9a768f63311b61f2bea981f9ce6f08306cac7d7b0f5e8	OTX	2026-08-19	pulse='https://malbearlabs.com/shadow-hvnc-and-shadow-loader-the-kit-that-protects-its-license-better-than-its-customers-dd99520b6af3' pulse_id=6a85ae7731d98c565dddf19f
+f656b47e2337fea418a36933f173da98901d9ba4c0e05e3457ee3c59f94ad458	ThreatFox	2026-09-19	family=unknown_loader | confidence=80% threat=payload
+06d41e963ea49632f199c7bd18d7d939dc9d8dc6c02cf7ce714b7c24fef4868e	ThreatFox	2026-09-19	family=unknown_loader | confidence=85% threat=payload
+b98fc9f0dbc61810287e77ea978665a0b762dceea927bbffceb63fb7005149b3	ThreatFox	2026-09-19	family=unknown_loader | confidence=85% threat=payload
+d04c03df654d5cb80cd95be199b2e43337ea2f9de68addf4708fe8b73a03640f	ThreatFox	2026-09-19	family=unknown_loader | confidence=85% threat=payload
+b9df548d6214aa93b685c981fd4c39185fd9ef55933f17da1a0d7fe9321107e1	ThreatFox	2026-09-19	family=win.xmrig | confidence=100% threat=payload
+0a813de910c312b2a0206a75ccf6f0f329690ff7e706d2e0f954b540c68fe8f3	ThreatFox	2026-09-19	family=win.xmrig | confidence=100% threat=payload
+6fa80698d7268f6e88aa88c06fb27ee99e1bcee747c2e76911e6206a5b1aeeb3	ThreatFox	2026-09-19	family=win.xmrig | confidence=100% threat=payload
+1f08e8d9dd5374a4df8ae963daf20928faaeee5985eed99cb741f89fafce62fa	ThreatFox	2026-09-19	family=win.vshell | confidence=95% threat=payload
+0377328b77a71491581e34aad9f57b6d581681c614846157c0cc0de7859ce6f7	ThreatFox	2026-09-19	family=unknown_loader | confidence=85% threat=payload
+4683e6a738b43dbb5d8799bb76e60920f3d684489df1863c5c9cecf7e8e8894d	ThreatFox	2026-09-19	family=unknown_loader | confidence=85% threat=payload
+332d5b8d228dd3bd8fbae99f6408cdfd424f5e48d7c71b054af84d1df414c94d	ThreatFox	2026-09-19	family=win.vshell | confidence=95% threat=payload
+4eb12aef549c5c5ef491ebdfe976181e1abbbb922d369f2457f099b8cfbe71e6	ThreatFox	2026-09-19	family=win.vshell | confidence=95% threat=payload
+214ab25a265b929cb3a4d4efda395773a87ad0ab0e81fda15c361116921b3f69	ThreatFox	2026-09-19	family=win.vshell | confidence=95% threat=payload
+a3dabccd14492f4c70658ece96a3ed7b4e275ff9d70c434298bd6f863d1e24b9	ThreatFox	2026-09-18	family=osx.amos | confidence=100% threat=payload
+6e753133e537264247a08587d87b30b8d9a96caea1d6cc92d41fc8058073b8f7	ThreatFox	2026-09-18	family=osx.amos | confidence=100% threat=payload
+55b8fff6b61ed493f477bac718c37714075d4ff52bc302d28a331def371834b6	ThreatFox	2026-09-18	family=osx.amos | confidence=100% threat=payload
+dfe96b68cb910deb4e29f41c7525e0cd3a2d1c7234e227cbeee4a9e6d535f95f	ThreatFox	2026-09-18	family=osx.amos | confidence=100% threat=payload
+872611186a14d610770b362e3bef2cad071cc211d30c39e2b1a186b35f0294ba	ThreatFox	2026-09-18	family=osx.amos | confidence=100% threat=payload
+1d1b6225c43e9bc88c00729632fbfd852ea06f598e8977123bdf121e9a214d31	ThreatFox	2026-09-18	family=win.coinminer | confidence=95% threat=payload
+8b508de8fdef1ad8afc04161b4da7ea4dc8df8034330c2efd3a839e3ff843894	ThreatFox	2026-09-18	family=unknown_loader | confidence=85% threat=payload
+0ce8828acc59233bfbfbd0f47f58319910f253a7a09e4a43c83458ca15c25b84	ThreatFox	2026-09-18	family=unknown_loader | confidence=85% threat=payload
+c18f7f43b71b39a46f888fab94408e07bba9ef75ab1de2146bef9231705318f0	ThreatFox	2026-09-18	family=unknown_loader | confidence=85% threat=payload
+9b45f364fea59f35833dbc1ed6e6bbcded8f2970a506d86e9e7303a56a09593c	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+60e7bbb5cbb5bdf626f21569c1e0c4fa1c1734eba62139a14c1e37434f2b4f0a	ThreatFox	2026-09-18	family=unknown_loader | confidence=85% threat=payload
+3f0c5c130178b7ec78be927395a7c58c8ecc5d003c80a54340b8c0616c3795d3	ThreatFox	2026-09-18	family=unknown_loader | confidence=85% threat=payload
+3fd80a69d768bfa7159500bc7fe226d85edc24ee4bf3158e665a1c22b7c26651	ThreatFox	2026-09-18	family=unknown_loader | confidence=85% threat=payload
+af23e31dddd570b2747feff467157e265c1a6627be0649d51ed9b71383053eea	ThreatFox	2026-09-18	family=unknown_loader | confidence=85% threat=payload
+9eb7a6a0199d37909f2d682d9dff839cc6e335d173680e8f056c0bf606d3351d	ThreatFox	2026-09-18	family=unknown_loader | confidence=85% threat=payload
+1f423c42e631e5b57350566821bc0561f9105ec4e9eb055f29f44d0cb5d9aff3	ThreatFox	2026-09-18	family=unknown_loader | confidence=85% threat=payload
+a33181af9e44bf83c799f1fcf422f2b9145c41d49b20cca569e33243476056c4	ThreatFox	2026-09-18	family=unknown_loader | confidence=85% threat=payload
+89d0f591a743900b2b3922b63d223de7347f909c3ebfa4deb47b9ac5b073070c	ThreatFox	2026-09-18	family=unknown_loader | confidence=85% threat=payload
+6ade2c266048157c395e9a054ead60b6b8ba1f45069bcd2ac49fc347a9ec7192	ThreatFox	2026-09-18	family=unknown_loader | confidence=85% threat=payload
+d15cea4f9adf09fac25e8073340f59adec3d9da2aaaac7fd2cc24979f683b915	ThreatFox	2026-09-18	family=unknown_loader | confidence=85% threat=payload
+816556069e5e24f3ae05c036aa28bef5392117afac7340a343e151c95970ea30	ThreatFox	2026-09-18	family=unknown_loader | confidence=85% threat=payload
+63b0475bd58c48b4fe32f23515816550b6bb20455725b703e12d3428b3e7bedf	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+6f102146c656ffdc9a31fbbbeb8e319b00898e485f93b76c5ad04a964bfd4fdc	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+77a90a2dd2aeef925b0198b39a788c9ff5183044bdfa398c75889c74750fe407	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+bf22312e3e995c77f4f8234f230bf5bb4ba5c609d9e8f68c303d5a5cd0503cce	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+a6b9e11dd7457c49ef440964ef625cb34762d94b894e05925f92fc14d1e2b714	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+e401bb0221be358e9639b552e367cf7cc2d6ce9b9c8cf2721a0ac877fbd2ecaa	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+7eb1acc29ed9cdd6dbc9ff1ffcea397ec5119e752b8ee7cf662925d5aa132cc3	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+0242e4675a8c55d179341a617c074e6d8c5752ac4158f73cdbec8a400a9e306a	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+beccb2cbc29a0c839af07e7f6e29473f6aa9b162960447a5c19733e19757e0b8	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+d5634b7f71b704851628e6a8e93e31a6044f0cffea2316f454cf0efd8f640de8	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+91c8498add9ef05e7b20983dff07eff8d23a70bad7093990b23761f89a4800eb	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+18f59334aaa3e6fee325946df9c1571d06f0e41ce38dd19221f8b6d1f121bb03	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+d8278308e124ab693e3c457ad3e78c3162c5ef99822a3dc2f89faaff97486a59	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+f89ed9250192ffe1e3971aab7d7852f5	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+353637292a6e6533a1fccfe2f4ddc6b7	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+7f914bc68837c62d4491bef8a9571686	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+1b715ec1eeee448293ed01ce8a347588	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+e4af26495ed4dcd0aeaffeab4ef41cd0	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+011cdd15e68b1c3b2c346bf52193081a518b92a68c588d7fbc238f08c2c9b3b9	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+fdd144d91afd66526f7ec1de3444241e	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+7e4a84e95d63b37384ed8206c941c1db	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+e2203289b4c2d77db4ef3adbf25195316b89f77ec8c43f0262361f065e8bf0ce	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+6269801c765a900ba0678162abff0927	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+c66096943a9082373e478a0e8743f44c090fbc5172e160cd9c9f35dc004314a1	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+6c668caae7b26fc11c9ad16fea31c44b	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+bfde4ce59c001e81285fa47894d33c9c	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+667f059cf22e7a4f6c26ba015dfe0229	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+b000bf75dea341762cae37ba3cad28cf	ThreatFox	2026-09-18	family=win.wannacryptor | confidence=95% threat=payload
+9ca3e03fd11b0fa819a8bbd2446eb190	ThreatFox	2026-09-18	family=win.vshell | confidence=95% threat=payload
+aeedfc2ccefd82ddb3854277e0dac4839e260bd380871f1c30ace052c4b80ee9	ThreatFox	2026-09-18	family=win.wannacryptor | confidence=95% threat=payload
+17e7f0170795c2e704077570333a1f0985b190c016d372d6b70a41e170302cdb	ThreatFox	2026-09-18	family=win.coinminer | confidence=100% threat=payload
+985ead812b8b99573d2567169d73968a3754b4fbea16447bea2ac878974e6110	ThreatFox	2026-09-18	family=unknown_loader | confidence=85% threat=payload
+b7cfb606dfbcf4678a15c0452795a5c4cbd3a25f36a63085cd87335920b4ac9a	MalwareBazaar	2026-09-19	family=Mirai | filetype=elf md5=5507e1006243d50487c33b62b54025cb sha1=3bc24fd9da0937e153460ba0c640d7acb8661819
+94e748ccd80e0532d0dc740d0fcff487d3e5a130da0039ab4369f45da1187dac	MalwareBazaar	2026-09-19	family=Mirai | filetype=elf md5=18d9dd9dd1be02ec788aa0b453cfba85 sha1=a3cae4325b66fea35d6bf28ca7adaf82d7f7918e
+5b32d178e1f875b9448db969398df0d40a77b90d7b41559ea022e46f827a4497	MalwareBazaar	2026-09-19	family=Mozi | filetype=elf md5=82c5d1afbfc2bf1589dbcb2001885d5a sha1=cb90aa86e767fbc7bd0610b5c1dcf183223a1698
+7b15605f23b131b3eeea57e031ae7cb32fc4b78c7bbb2025aa7a561ea5ae5159	OTX	2026-09-18	family=WeaselBiscuit | pulse='WeaselBiscuit Strips BeaverTail and OtterCookie Down to Essentials' pulse_id=6aad3e7f8cc155ff864b444b
+6d2cd65dbd0df30404b08ff007359e54	OTX	2026-09-18	family=KRSID | pulse='Private HTS programs that spread ransomware' pulse_id=6aad3a912f6a15e61e12e20f
+a9cce44c4d42b07f114dd2b340f0046a	OTX	2026-09-18	family=KRSID | pulse='Private HTS programs that spread ransomware' pulse_id=6aad3a912f6a15e61e12e20f
+f86b2ece324cfd36e832a3b48cc3719b	OTX	2026-09-18	family=KRSID | pulse='Private HTS programs that spread ransomware' pulse_id=6aad3a912f6a15e61e12e20f
+5b26921e4f7b4dac140297b0401cf0f56e1d4852	OTX	2026-09-18	family=KRSID | pulse='Private HTS programs that spread ransomware' pulse_id=6aad3a912f6a15e61e12e20f
+ed7f260d4163d31add855a19652fa7c0adcc2eba4e0281f872eb7f43e0769814	OTX	2026-09-18	family=KRSID | pulse='Private HTS programs that spread ransomware' pulse_id=6aad3a912f6a15e61e12e20f
+00810c2e0ad5031b9fe5d2cfb4a6fb45a1c424d6b92be7ba3b1aaa7c55b10f8e	OTX	2026-09-18	family=banking trojan | pulse='EtherHiding Exposed: Inside a Blockchain-powered Malware Campaign Hiding in Plain Sight' pulse_id=6aad397e9cc5cdabaa878d5b
+03a1d2eca771a276ac9c29a4bf219d31beb20848998cacda8b06375bd2795b10	OTX	2026-09-18	family=banking trojan | pulse='EtherHiding Exposed: Inside a Blockchain-powered Malware Campaign Hiding in Plain Sight' pulse_id=6aad397e9cc5cdabaa878d5b
+06990ee09a29d2cdde32cb639d50e6c1e078da96a7bdabd03a68a0bb209d07b1	OTX	2026-09-18	family=banking trojan | pulse='EtherHiding Exposed: Inside a Blockchain-powered Malware Campaign Hiding in Plain Sight' pulse_id=6aad397e9cc5cdabaa878d5b
+10ab0f8ee0829fb24bf2c915f5bb0f35a2d84ed1d69049d42ca32cfa36250c11	OTX	2026-09-18	family=banking trojan | pulse='EtherHiding Exposed: Inside a Blockchain-powered Malware Campaign Hiding in Plain Sight' pulse_id=6aad397e9cc5cdabaa878d5b
+5ac6a2b0d20c5508027e6fde6503a5e0105be59f2a57e6659caa14e4ac0d5939	OTX	2026-09-18	family=banking trojan | pulse='EtherHiding Exposed: Inside a Blockchain-powered Malware Campaign Hiding in Plain Sight' pulse_id=6aad397e9cc5cdabaa878d5b
+67427f232762fe32afab1d0d14b1d6e7f7920f5b151e133fb68c9dfc333ec69a	OTX	2026-09-18	family=banking trojan | pulse='EtherHiding Exposed: Inside a Blockchain-powered Malware Campaign Hiding in Plain Sight' pulse_id=6aad397e9cc5cdabaa878d5b
+cf176cf0ff50c74f08f127ef3b09be63a6f9e3ad69fa48233d4c805898368b2a	OTX	2026-09-18	family=banking trojan | pulse='EtherHiding Exposed: Inside a Blockchain-powered Malware Campaign Hiding in Plain Sight' pulse_id=6aad397e9cc5cdabaa878d5b
+7d47c430e6e404dc2fa8b4837678d1cbdb4d0aeacec9b405655cab79d54a2ad9	OTX	2026-09-18	family=PolinRider | pulse='PolinRider Spreads Through Compromised GitHub Accounts and Packagist' pulse_id=6aad33cda70ed83efd0e0a73
+b7ede935d4979146b55f12b9eec7c83b61962b478f5dc9b8db251e539ec2abd3	OTX	2026-09-18	family=PolinRider | pulse='PolinRider Spreads Through Compromised GitHub Accounts and Packagist' pulse_id=6aad33cda70ed83efd0e0a73
+ccb187dc9de0cc7477c9817ae53365d273e121407c0305f863e2ab67c35d6395	OTX	2026-09-18	family=PolinRider | pulse='PolinRider Spreads Through Compromised GitHub Accounts and Packagist' pulse_id=6aad33cda70ed83efd0e0a73
+139ea03dcddf4aa810d55740be3cf6c92ce7a9f3cbcbbb35440e25b769a87683	OTX	2026-09-18	family=PolinRider | pulse='PolinRider Spreads Through Compromised GitHub Accounts and Packagist' pulse_id=6aad33cda70ed83efd0e0a73
+515a53291d25d229e1f9fa72e66407e1cfd7e77c91478400b24d5185af68531a	OTX	2026-09-18	family=PolinRider | pulse='PolinRider Spreads Through Compromised GitHub Accounts and Packagist' pulse_id=6aad33cda70ed83efd0e0a73
+26166cd87ff07e7a50317a24126d14b262e842c5715585636dee3ab3f227ddca	OTX	2026-09-17	family=clickfix | pulse='Brevo supply chain attack hits 100k+ sites with Wordpress backdoors and Clickfix malware' pulse_id=6aac5377abf1f1d1674825a9
+4af488d79aef7daa12b1c18f0cce28b7edadccb8b6b0fb8d50d1d53a9a7c2df7	OTX	2026-09-17	family=clickfix | pulse='Brevo supply chain attack hits 100k+ sites with Wordpress backdoors and Clickfix malware' pulse_id=6aac5377abf1f1d1674825a9
+58a5c601c9df7ca2120435588fc39f97712d9b878795f6ee500590099a432308	OTX	2026-09-17	family=clickfix | pulse='Brevo supply chain attack hits 100k+ sites with Wordpress backdoors and Clickfix malware' pulse_id=6aac5377abf1f1d1674825a9
+9b62c12bc5c7feb9802f58e6cf75a368690df3c754e37cc64483a92acacf87a5	OTX	2026-09-17	family=clickfix | pulse='Brevo supply chain attack hits 100k+ sites with Wordpress backdoors and Clickfix malware' pulse_id=6aac5377abf1f1d1674825a9
+f67d572d2d30407b3f470904326411450763108980cdad89550fbb221fb06782	OTX	2026-09-17	family=clickfix | pulse='Brevo supply chain attack hits 100k+ sites with Wordpress backdoors and Clickfix malware' pulse_id=6aac5377abf1f1d1674825a9
+fe8447fd1ec4dca652b71db2c749fcc24a5bec3875f3654042169fb2418aed09	OTX	2026-09-17	family=clickfix | pulse='Brevo supply chain attack hits 100k+ sites with Wordpress backdoors and Clickfix malware' pulse_id=6aac5377abf1f1d1674825a9
+4843f9fafcae492f11e2d4d33dbb4cdd	OTX	2026-09-17	family=MovieReaper | pulse='The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents' pulse_id=6aac13f8b67f38a3496d4d1d
+5310cabae3fbe6db8742849b588093f9	OTX	2026-09-17	family=MovieReaper | pulse='The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents' pulse_id=6aac13f8b67f38a3496d4d1d
+a0b13781edd7cfdab13d79afff3c83c1	OTX	2026-09-17	family=MovieReaper | pulse='The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents' pulse_id=6aac13f8b67f38a3496d4d1d
+70060341caf3338697a7ddfe0fb62875	OTX	2026-09-17	family=MovieReaper | pulse='The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents' pulse_id=6aac13f8b67f38a3496d4d1d
+ad4643eea15ac286fa47d1131f9ef756	OTX	2026-09-17	family=MovieReaper | pulse='The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents' pulse_id=6aac13f8b67f38a3496d4d1d
+d0b967571ac8a3863c7f324bf5bde99c	OTX	2026-09-17	family=MovieReaper | pulse='The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents' pulse_id=6aac13f8b67f38a3496d4d1d
+d88d550d0fb8e60cffff3ea61ff7a067	OTX	2026-09-17	family=MovieReaper | pulse='The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents' pulse_id=6aac13f8b67f38a3496d4d1d
+4334bbaea8de33bf9d845e9b4e4e3bc2	OTX	2026-09-17	family=MovieReaper | pulse='The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents' pulse_id=6aac13f8b67f38a3496d4d1d
+9f478fd78a156b20bff90404b4aa4f41edc31409	OTX	2026-09-17	family=MovieReaper | pulse='The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents' pulse_id=6aac13f8b67f38a3496d4d1d
+ef7a83a24ad66cd2ce560b3aa2b467a47abfe2a8	OTX	2026-09-17	family=MovieReaper | pulse='The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents' pulse_id=6aac13f8b67f38a3496d4d1d
+c0ef2dade55b1b110e1af43ae1b54443e61c2daceb497057d6af9c960824cc19	OTX	2026-09-17	family=MovieReaper | pulse='The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents' pulse_id=6aac13f8b67f38a3496d4d1d
+c424abd51507f75221701a52ba57264d6c0839944fe26a7118597a455626a632	OTX	2026-09-17	family=MovieReaper | pulse='The Odyssey and trojans again: MovieReaper attacks users in multiple countries via compromised torrents' pulse_id=6aac13f8b67f38a3496d4d1d
+23e228d5603b4802398b2e7419187aef71ff9dd5	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+2560b7e28b322bb7a56d0b1da1b2652e1efe76ea	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+4df896624695ea2780552e9ea3c40661dc84efc8	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+76c430b55f180a85f4e1a1e40e4a2ea37db97599	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+873f98caf234c3a8a9db18343dad7b42117e85d4	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+b9601e60f87545441bf8579b2f62668c56507f4a	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+bb2f5b573ac7a761015daad0b7ff03b294dc60f6	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+c36ecd2e0f38294e1290f4b9b36f602167e33614	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+e2b0851e2e281cc7bca3d6d9b2fa0c4b7ac5a02b	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+fdc44057e87d7c350e6df84bb72541236a770ba2	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+0dc20b2f11118d5c0cc46b082d7f5dc060276157	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+f35ce62abeedfb8c6a38ceac50a250f48c41e65e	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+0925f24082971f50edd987d82f708845a6a9d7c9	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+1b06e877c2c12d74336e7532bc0ecf761e5fa5d4	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+3a395daaf518be113fcff2e5e48acd9b9c0de69d	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+5265e8edc9b5f7dd00fc772522511b8f3be217e3	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+5df3c882db6be14887182b7439b72a86bd28b83f	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+5f1553f3af9425ef5d68341e991b6c5ec96a82eb	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+7d66b550ea68a86fcc0958e7c159531d4431b788	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+a91b42e5062fef608f285002debaff9358162b25	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+aa823148eea6f43d8eb9bf20412402a7739d91c2	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+c26f04790c6fb7950d89ab1b08207ace01efb536	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+cc350ba25947b7f9ec5d11ea8269407c0fd74095	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+d03fd329627a58b40e805f4f55b5d821063ac27f	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+d6d32a1f17d48fe695c0778018c0d51626db4a3b	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+db1591c6e23160a94f6312ca46da2d0bb243322c	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+ebc93a546bcdf6cc1eb61d7174bcb85407bbd892	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+ef189737fb7d61b110b9293e8838526dce920127	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+44f0a22b143b79fa760bf31e14c8fff714c8a2a1	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+922c1edb47fba94b548edca863165fb1	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+e0b6f8535e19f0a4938e3317de0c4493ecea17aa906fd0454805ba2086cbf3a8	OTX	2026-09-17	family=SparroWocky | pulse='Beware the SparroWock: The backdoor that bites, the commands that catch' pulse_id=6aac12f6c8ffca0418768251
+0a656287defcbd8a9c47385b805993df	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+14698d3a03216daa2cf6f39e4f1c4031	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+16602375fc2dae1eb54580ab7eda6567	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+1d947084fdf25e07ec8bcdaf0cec508a	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+1e6b601f733bc40eaa58916986bfc5b9	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+4dcfa4317f2111109cd41f457541ed2b	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+5507a3e71aade582dd226b63b1930c56	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+5f3271ba8840be547b1f3a42ea28ebe0	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+602174f6e691d6845ac645b68f1f2538	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+6cae314ddcd821dd2a60dff1fa02460a	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+7d3cce1f9dbaed585b61e6e903d69b9b	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+7e23ffadb664b0e53d821478a249d84c	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+87f7d0b30f7905d282fb464f5ad6c6cf	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+94779909cc510194900c3cc17d1194c8	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+970fc0fcf3bc5a933d10e8413536f27f	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+a1ca53f09b0c6fe3b3b57b5202192d60	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+b3c1a3eebefafe1346c6a864b5423182	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+c8aeca21d10f6bbb78e1f2a67d78fcad	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+ca65cc67247d0702ca34eb7b06873bec	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+cbe1743e9aebd3e3002b2b005deb332c	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+d6756063230136f8c55ae27f1a4b0112	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+d9418fb432631021a15fb896b365d608	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+e51ff37fb431767dcdec0b5e6d2a786a	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+fefaefbf09841cef739d090305edc7a4	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+0190940243f6535f51d43edafac943d493159e14	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+0fe3cf4cabadedb382b0833dcb6ba74db3242022	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+168caccbe59473091aa4fbbebba6257aed17985e	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+33e9e5463c12c0a21a7ab37fb7496ab2c5c40bb4	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+3549f6df9c14b70d2308b7b12033218e77fe1dc7	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+44068866546ffea6ef8ab8a639c2151b13f9fd6e	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+4a2658c66f3aeabdb05f56ba88d587683319ce6d	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+53d41445e176bf53c5acd2dad533eda612b05855	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+5d3cde9f6971ec35431cbb113b6b4bc292ea5db0	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+5dd86e22b882d52c67d274e3297694009d13fb96	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+6d9817f5066be757f5f09b067a80fed3cfe280f6	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+6dd639542464a647e3816af896fb1320aff64ba5	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+6fcf829720f425f81a6b35ac5f05fa94775429eb	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+704119320f7ed10dc7707833218468d455d3c5fd	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+7ee579a1fa697f66d80103a867cf706f67bba32b	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+87dcba4957396a9e594ed1d133bc115315763002	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+8c6b6236420c876989af36e3a9e648a00f3000c9	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+9108466c98df01033371483a789a0c23372c52f2	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+9391928e5163ff791c1b4bc535f4ac92510810a6	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+af9d13e27c8eedc30dd78f237013b239cf23f35d	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+ba3874ca96f9bca1daff22ef49ea7505d52b40d4	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+ef3f7292cb2f91f9a34953b875eb018b3ef889d2	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+f269488e2128128f234ee2e996489317bfa4720b	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+fec45095576d13a20a6d42096fcadc2d8f6dddd8	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+0d74156089292eee308017c8e8a7550739ecb6149ff379810f7c54b1dbaabc91	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+138a4c9cd617912c2269fae64b6b12d57e926a36c2c62f25ee05a32cdf102212	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+2640fc95373dd299cc61966c2df5ba9e013280ee02944d11bb4d1f70ee57aa30	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+2deeeda412c40ad515dca940916a376d187219ed09ed697b4be4879b7091ec53	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+3befcca381deb6b492aa0c4eba222c29a25192aeacbf2315798c4754a4b74e81	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+3f1313c813e51edf5734d9fb99eb93d6c3aa6c309e3f0a6a4878291c5b2ec73b	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+4a3aa8f4f0eb37be9778fbdf0b7dd282fc407557da61735d2ae9cfc73ee2aa81	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+4a3b003994112b4dd24ac8b9cc4757f4a12576b57b3cc8f5028d85fbceb7c405	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+65359388b49ae2a982111ebe8ac837d0f3294ceab7a712df20d0f6c19bf3029e	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+65e2dbe5c6b670f663d93fd65608470091a231803b4f449bb00e99ebf76eddb7	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+6ddd145622cde2d2f91dace7e1f7edef22f4d49d3645fa9ad4bdb772829c30bf	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+7477f4f25d1cfc3dfb1267e35ab4bcf0b30b8c7ec9677a8d1849ee7d17bc15aa	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+8219453084f370cee43aafe27b9def6b9d3d75fb31bacd7e2fa1d82d617f26dd	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+844108a626c15395059efa355a66c8462af0c822d8219b35b6038d9d42dcf61d	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+8ad63d4d30cd28391318e26f4e9464f302b0a12675a721967d4f2173ed6cfe8a	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+bb56792212abe160fff643631fb69b2081601e6310fc6669fd9d52d690ec1903	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+c9e5cbc98e91aa35a260a1f85d7a5605dc7aa8d2d0b71eb6f063147d4dfa1b5f	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+cbe9e32393529cd79e19a639a1d2da93fba06082be2bdb0c04241f269f98c773	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+d2d19c7f2e4a5fdcfb34b26f048077d2c4fe26637ed2c90e9e9bdf32307c377e	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+d40d730bcfa4cc7f1ee070f6ce863b03acb81af0a4d66feaec285e1205258b35	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+e8b633dcad173eb41ef02686b46779a4a0e53df7f6c63039a798f2db5eb83afc	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+e9d2e4e8fac6420ca3b3a3a63a3d313dcfb236a24a11889d6923dd9b42a777d4	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+ec9d3e32a4e78f8cc9581f5cf030f0594debee1ce67d2d0759aff3ec1c720b35	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+ffceb438127725a6a664aba5021f7625bd8c22b3f76447de91b728839136c9c3	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+2965817d063f1e8f9889f9126443d631	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+8e9e81d1b252d7fa99579e9cf2e4b4ba	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+43d9af0c411110905ab4ddf4e4f713101c74d9de	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+c4e194747d9a268ff56ac1f0708745cbcc164751dcaa24f1a5a15acbe9c4d998	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+0aee700463efe5155d816b0f4d44edc9f4b4579156159b361d1f663b4143c4fd	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+b2f6f40570ac9085b5463fdb623560de	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+88a8d118ee190ac36cf684c2992f6ddd2dda517b	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+47fa634b13b8ba35bd5669da3059a0c7577911c16584a2ff173368f848825de4	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+7402f2f9263782a4c469570035843510	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+3e7a2fcef1d038d05b20148c573a6499	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+d70ebf20e3d697897bad5bebf72ea271	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+f8b5554808428291acc65d1fd2efe01c	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+a3394ef7ffa7e88b2e7efaee4617fe04	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+ebdd9595b79b39f53909d862499dbc94	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+481c5b5e69a08c3df206c59fd8ddc0dc	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+b9086413e7b6a0c6a11c25d14c22615f	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+2fa0eb74f8a527d938f8538d66bcdebcc9771527	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+067d93741bcab16810ef15c11941245229519470dc7b24793dd1d3a7addacaae	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+5380ffda12f97cf4d8e0fe02e0580aa1a48b4b6da95e7f8a30029ad125c51b3f	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+2b11bccdea89d428610c15bea1fba417ab8681a6	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+b66bd18de204d405500dc079876b7cbf	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+b0308c91a56209222b178e7099ee03a7b0d06a0e473f042fb2d3c144a07484fa	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+88816b1262eaf819edebb93dc883b3082cc64c34	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+be98163e7fea224af382a2251252ce4d	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+886d04b78017f721ed458158e3c31300cb7f9d512481a50f21461711438e1c5e	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+ac5939a17ec6455b6b7ae0f04c5b71b1db0d00c5	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+42215c1fb55d945b4d2a0bb188ca4dcf	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+58fb875fedf57055c3fedf59fdedb9ebffbf452a0f7f21608abb069cc13effb9	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+ea7071abca429f28bfe629a913513c6d604771f4	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+4dd0cbdad60e65fb8cd6999bd9359444	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+a85ce7dde7f83f116436adbdaa8e782e3af0f0ce87ec6534ec7b8ea83bb33eed	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+292887ea4406fce26773992af0bd7dc34951aa84	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+66fd60d03613decacc3c42d94dd9aab8	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+5f899031ec31431ff0f5fcaf4ccf5cd9484b2066	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+26892452f724581530c45287c8b7bc67	OTX	2026-09-17	family=HEAVYGRAM | pulse='HEAVYGRAM: A Telegram-based Surveillance Backdoor Linked to Handala Hack' pulse_id=6aac5567553cdb05e2f9e10c
+48330848eb742161f86129735333f10bd0d7b4db5f801194896f50896761ebdf	OTX	2026-09-17	family=DXSCAN | pulse='Discernment Deleted: Inside the Operation Server of BlackHatSect0r && DXQRTXX' pulse_id=6aabd1f78ff5217e83133504
+0e134b72aad30d938043df8f2d674e56b4c57399a27311759a9e88f4c41c19e5	OTX	2026-09-17	family=DXSCAN | pulse='Discernment Deleted: Inside the Operation Server of BlackHatSect0r && DXQRTXX' pulse_id=6aabd1f78ff5217e83133504
+92dc24c9abc5baf7f2924c1872b14e747f600f5869ad159ec5d119a3aa02ca1f	OTX	2026-09-17	family=DXSCAN | pulse='Discernment Deleted: Inside the Operation Server of BlackHatSect0r && DXQRTXX' pulse_id=6aabd1f78ff5217e83133504
+8082a62e976c513605fd1d6b0c0e15eb127e40ab6ea3a902080be526155380c3	OTX	2026-09-17	family=DXSCAN | pulse='Discernment Deleted: Inside the Operation Server of BlackHatSect0r && DXQRTXX' pulse_id=6aabd1f78ff5217e83133504
+8c12f1b013f6d68121b76f4ef65c294273ab69151502d07ebef85994d656e5c9	OTX	2026-09-17	family=DXSCAN | pulse='Discernment Deleted: Inside the Operation Server of BlackHatSect0r && DXQRTXX' pulse_id=6aabd1f78ff5217e83133504
+db94077fcbcf030acff05334c5c0d153b8af6af24f6c5747c3600652e9baf4c0	OTX	2026-09-17	family=DXSCAN | pulse='Discernment Deleted: Inside the Operation Server of BlackHatSect0r && DXQRTXX' pulse_id=6aabd1f78ff5217e83133504
+c0bb940a65ed234d0250edc8c4c4062a3d404a87d17dc01da38890a5ba74bce8	OTX	2026-09-17	family=DXSCAN | pulse='Discernment Deleted: Inside the Operation Server of BlackHatSect0r && DXQRTXX' pulse_id=6aabd1f78ff5217e83133504
+aff390861a585f4b08e9b2ac34864a4e6dbc4666	OTX	2026-09-17	family=DXSCAN | pulse='Discernment Deleted: Inside the Operation Server of BlackHatSect0r && DXQRTXX' pulse_id=6aabd1f78ff5217e83133504
+321e1fb01eb3462b48ff6ccdef132acc1182e3f7456548439f0d4ead12fd98bf	OTX	2026-08-19	family=DEWMODE | pulse='Clop Returns with Custom Implant in Mass-Extortion Campaign' pulse_id=6a85530dde3c55da4658c63b
+71a7b6b8fa5e21765aeb60d897009aa3	OTX	2026-08-19	family=DEWMODE | pulse='Clop Returns with Custom Implant in Mass-Extortion Campaign' pulse_id=6a85530dde3c55da4658c63b
+2989c71984b9a464c741e5d93171ca9c153baf5d	OTX	2026-08-19	family=DEWMODE | pulse='Clop Returns with Custom Implant in Mass-Extortion Campaign' pulse_id=6a85530dde3c55da4658c63b
