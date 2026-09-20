@@ -1,0 +1,69 @@
+rule drivesilkrat_20260920
+{
+    meta:
+        description = "Auto-generated stub for drivesilkrat based on 53 hashes"
+        author      = "ti-pipeline (auto-generated)"
+        date        = "2026-09-20"
+        version     = "1.0"
+        source      = "OTX"
+        family      = "drivesilkrat"
+        hash_count  = "53"
+
+    strings:
+        // Hashes (SHA-256) – reference only; add byte-strings/imphash conditions below
+        // f7192d9c0902c24937eadedc4c49ed10
+        // ff33a3be2d497d934b88c8d9e0135d6b
+        // 5d8d9ce63d63f5d89b3774215830751de6efced2
+        // d2d17b29617633d61875bfa00c76556fa39f9ce1
+        // e84c8a7a49bca65c193ea60a3ecb26eb97bd3cfe
+        // 19ceadf6459625d5132e0a1e61ec5c4eda890ba9841c415389c2957af40159a7
+        // 1b6bc5cd16fa1d76a7b97b671dc8d280ea4fd6fd377f18cb963ca2510189554b
+        // 1ee70564c07bf9b66b9759f34178e3b9cce37a4fb87d3917705e7294a0f0703a
+        // 22c055eea87fffb85ebb9eae219b7f9156907b1629a378d67b2a3265f48667b6
+        // 23dbe77c5371a193685048291a2a63d80dd47fa49e6918d50c44a1a4bc1ecc41
+        // 2509d7e517d6b2b740d2e04a4c1caffe0dc741be13611803b3f679e4636f84e2
+        // 262ec227d7650265cbe27874acf6482a16903cdb94a4824ab22e8b88400b23af
+        // 27aff4ddd2b873426bbf9c5e854761a29575d55ea1b90fa767592a409e504667
+        // 29276db7153071d7cfeea3e18cd93c7b1f4e16c7a8bdb0a908aab5670fe5f448
+        // 38a113e6254f89fb0cf339eda18a81410a1dab074eeaf3a2a7c1f086feee0260
+        // 4fc2b279444cc7d4b77e2dbfe5396525f184b5b422904a559849da86539bf505
+        // 585e152b25ce26a99912d73eb18de67c5cfbd3f13897197a104d09f9b5a71836
+        // 62754cd27e27044ffc2a4c5d3b2959bc7c373f339e3388b2ac1b9a929c04a9a4
+        // 67fffd05419913afb7611eefc684b152304d2bf875f13cd6acb0734c506481a5
+        // 6b670760e3fc5e4cc39a6702d2e3cce2fe112282a7314bb8827942b84ea7cc4b
+        // 6f1ee23e0458f0ed539563f0694ab0ad74977fa625a396ee3ad0fac4d0f1c21b
+        // 7392796a71fa92962277d4f8a10b9a61d2ed7e8428c82da6f9b0629640f583e7
+        // 7b172a111d0170aed9e8235782abf7b4a6a70a2c8eeec88bb6001592119da1dc
+        // 7c4ac90c1f79b15f701adef322043dd0f6f3223c08d018069c1015a5c1aa40e8
+        // 82b701084f419d97f52b459e0e314b61672685f60ecbab6c19c10c2160f08954
+        // 85ad3ce3a99fa606b5c260328c8a0bfac8b5483cb9a179c68e625b20bead7517
+        // 872becaf15bcbc75975f584940d34ee82cd77e1e0f600907bc53c7a47f2b5e87
+        // 93e12c8d554a9a92e13bdfae47bdd12bc2fca61493471812a4e4b6df08b95407
+        // 95700c5258268957997357c813272f7b6e2bd4bd7bcb5915e91d123ebef93d1c
+        // 9dcf6a2540467629d59cce9e29875ddbc6979796efc3f595129b2e28e5ade2f6
+        // a1784169dd84cf886ed75219a32ffde24e93bca7650dafd6a51a9062f52f7f35
+        // a371ede857979587f1dca717f26a0e9259a15a51f4e7bb810d32b099ae95a650
+        // a3a41698893bfce0e4a43e6c1ff9f59b579d3619f85d081c8165898cfca0001f
+        // a4fa32bb75a4bbcc82c398591a1de5a76ef93cedaffd719f43972ce3105f2892
+        // a589730b8c70136e2047ee25e6128f87bbe6d4118ee833196c2e7616decd5975
+        // aab828ceb2db599e5fd2f9a742645dcf17eeac3b3e322d71fe068ea74dfc7fba
+        // aff1cc88c2c28bd9f62812b2cae971cca0342901f653612ff7031da67afd5716
+        // b97b4ad9bfd11bacd1afe15b8e1b9286811e612b732e0fd1003ac2e8474f9f30
+        // ba7eea1fe3ededc39ecd7524e956630d61ef509e814ba409afbc0100b316cdea
+        // bac61aec1792898f898ce7ab528f9853337fa989768f25776f3865d53ac520d9
+        // c19a1bfb076c8888bc1ea332e0c5cc2261d0f5bd60cee84ec864ee16c6d24611
+        // cd6e8fb4a12ddd94b96f33ebcaaf9d7fbd77f62c98991a24287d14df8a2be7d1
+        // cee43b4f904e376999d6f4db5f4fd6d158e2aa0d412896bdb9d3e62ecaf71c0b
+        // d16507495078941d106e4de52606bf573548e2b2125ee35d21b4b639b1001219
+        // d1f49a4a97175315975eb74e61e0dc72c99528b2cb278f62bf3759df30543727
+        // e50f8cdab370b0b444400028e7160b16f8fe6a15b3c713b5ce8d16cae6b19eb6
+        // eaed7c21ddcfc861dbee8d95a56fc4000f254bdc79baae244ecf9d3aa2220e70
+        // f12166a7bbbb493605654dd2edee8d86a7ae064ea066285502f437c3a6810a2e
+        // f338f32fa7524b9d46ec3b38f14bd807ed02d20713170ecd46c581b3401e4a23
+        // f45130ffa7812972631aaa8ae5402bd6b137ea0340e9ab08ff28c61b75069089
+
+    condition:
+        // TODO: replace with byte-level strings, pe.imphash(), or hash.sha256() checks
+        // Example: pe.imphash() == "aabbccdd..."
+        false  // stub – analyst must complete this rule
+}
