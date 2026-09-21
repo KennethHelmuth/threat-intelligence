@@ -1,0 +1,62 @@
+rule win_asyncrat_20260921
+{
+    meta:
+        description = "Auto-generated stub for win.asyncrat based on 43 hashes"
+        author      = "ti-pipeline (auto-generated)"
+        date        = "2026-09-21"
+        version     = "1.0"
+        source      = "ThreatFox"
+        family      = "win.asyncrat"
+        hash_count  = "43"
+
+    strings:
+        // Hashes (SHA-256) – reference only; add byte-strings/imphash conditions below
+        // 1746a28841e6de3faad920079ff9b2b041e2fbcfa43c15a0bd9de5901a5f2c49
+        // 174ab0c6b0889b8d8dfa0f460d465afceaafc0cb1a1273e9ad4ed55c86019138
+        // 17547e81212d54897a4060e58d4575b270565da3220bb59b5ca90673253c411e
+        // 1754dd14b25884fb4c7fc1663cb56a8c169efdd59e173aa1573cd24eda21c393
+        // 17567dc815c70e465b4f8cafd1699b0a4eef881b1a6db8c40f01729f979f6d42
+        // 16e0ecc59b861299d6e953f439d8c3ce35b3b7d08ecbe27dd6bae543f082110e
+        // 16e6e4828044e9154e8d2d1bdbe996680514cc71d0c4874f31c762a78d94e244
+        // 16e7ad0f3c49622609f9e31253a81fca1521fc0ec0501be9773950d500abf571
+        // 16eb09eff9142c10c36cc4af113f26e0bcb86ba030039e78edc84d96693fa7ed
+        // 16ec553f0b7f1f986c3935d730828c8353c6077cdf284ec8011d029d21f5903d
+        // 16f0d0bd8b729554f2b6648c615b9102e9e7a1c515214e40c442dd502b9e9bff
+        // 16f2bf166031153965caca6e9eaf0352a93ff918e7d624e22b289c3ad4b18026
+        // 16f2e6869e53d195ee75b0fe507fb36a5a94510e9d4bc7028638119e3d20a648
+        // 16f3b75e58b1da50b29d0a7552259bc726b7c7ad90639a1de446a9f119e8cc1a
+        // 16fc0cec13d88da3d0a36e4c42e733db8f1e21cafc18fd813a25cd0bc835f35a
+        // 16fd59aaa10f8e5fc256ad3b70e6824f16e209604a0857e7f287383a5bb301c5
+        // 17033f49578eb20c10cd492ff72b05bdd7eab17b8caa04d00e0777ade93ffcc3
+        // 17126bc9d8ea2be7a405c7ddb1a6ce5983a65f4ff506976ec446c9c7fd5920b9
+        // 1714faef50d0127645ce3540480623cf619f9b10c0364c67ca22db0f604e2381
+        // 1720e833db94e2388213e8dbfd8589819ddc8525295c9e2e6df61c2c6446f136
+        // 1722e0da41aa79870c6b3d6af9da07c57b2de6a39aeea41c46d3fa97f8567fca
+        // 172705adb5ebbb023174bafa12a8c572604258aaf4a3959ec6759c7e3333b7ec
+        // 172db6c9af8fa00c1eb1c775d494ca29c9e2498940609ecb622c95b7ce14f18c
+        // 1731919d2dc81ad27833aaaf162c923c8c0e9ec12f0517c7db0409b74e9550c6
+        // 173435da59690d931912701f4c50d3e95ccf2f8a885171c9c231bf14ff99622d
+        // 173537730f074757f9d8cdb55a3be3a5162c3553018a81951602392bb681eaff
+        // 1736967da961b9d7d4111bb47d5db3f4a4ce80a6c26a5b59fa586a3eab86bb26
+        // 173ca8f3e9e2a5c5599e46c3e6066d06f61aaeaccb5c3434656aa9048541bc66
+        // 17400fdab37949132333c3824f4deac5dcc1425b20babdb688743a3d64276061
+        // 1742b48fad9814441ee7726009a0e375757134dcc872f88ed584b6a2099c7473
+        // 167da591db3c71aa745c3d836a73c314da9173c224535b9464e63e04b55eef1d
+        // 16873ee4c75c5d134a8019aa643043eab61185fb0b1e0c7c54d92ed10beeb71e
+        // 16892cde196e2bbc1516e3276949300f7a12667f08acf23dbdf0d1bf295e1670
+        // 168d1b0925ead8371fb8e587f5352d132bc453a727152ee67aa695dbd9d6b2a8
+        // 168f62c6ea11a386469563c360ee5517da31015e774ccc9c8ba3d1bd4b4f45ef
+        // 16919b908a23bb72912683bb0a9b5aecacad1ab108de71e1393ecfbe6ab7e6a3
+        // 1692b16fb4412febc34e86a02605d0f05af0c10a55b4e8c65505f71a68364b69
+        // 1694c9b0d4fdccb235ecd79fda702c4bc8e5a17536a5c5dc19d602769b92a742
+        // 1695cc89d3c2f7f0682631b79b6289787719d625e13da6cd981a83b2d1e29380
+        // 169f5dbcd664c0b4fd65233e553ff605b30e974b6b16c90a1fb03404f1b01980
+        // 16a2abe3f4f2c005e206318caf37a366e0084fa8ca8561f3642fa0b4f2f04a7e
+        // 16aa9ca2e18683f3b5003d1203af0778bf1a6ebec6838fecbe529c0d399ba4d0
+        // 16ac66ee91cb6d624bf82f91bcd94dc6d9277351302cb66f96a797c59b7876e6
+
+    condition:
+        // TODO: replace with byte-level strings, pe.imphash(), or hash.sha256() checks
+        // Example: pe.imphash() == "aabbccdd..."
+        false  // stub – analyst must complete this rule
+}
