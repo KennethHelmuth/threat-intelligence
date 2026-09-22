@@ -1,0 +1,43 @@
+title: DNS Query to Lightlesscan Domains
+id: 1dfa517e-9092-4c7d-8403-7f9e2bb9696e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Lightlesscan.
+date: 2026-09-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aerospace
+    - blindingcan
+    - cyberespionage
+    - dll side-loading
+    - dreamjob
+    - lazarus
+    - lightlesscan
+    - linkedin
+    - malware.lightlesscan
+    - miniblindingcan
+    - nickelloader
+    - spain
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'turnscor.com'
+        - 'barsaji.com.mx'
+        - 'hurricanepub.com'
+        - 'mantis.quick.net.pl'
+        - 'www.keewoom.co.kr'
+        - 'kittimasszazs.hu'
+        - 'nrfm.lk'
+        - 'bug.restoroad.com'
+        - 'kerstpakketten.horesca-meppel.nl'
+        - 'www.radiographers.org'
+        - 'kapata-arkeologi.kemdikbud.go.id'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

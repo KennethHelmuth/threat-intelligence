@@ -1,0 +1,58 @@
+title: Network Connection to Win.Vskimmer Infrastructure
+id: e1df04da-33cd-4584-8c37-7e64897606dc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Vskimmer.
+date: 2026-09-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - inject
+    - malware.win.vskimmer
+    - payload delivery
+    - skimmer
+    - skimming
+    - victim
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'vagabondbooks.com'
+        - 'www.doullbooks.com'
+        - 'www.lettersbookshop.com'
+        - 'stroudbooks.com'
+        - 'thewrightcollection.com'
+        - 'astralika.com'
+        - 'www.guns.com'
+        - 'toyslogic.com'
+        - 'bjtrophy.securedwebpages.net'
+        - 'mail.generalaire.com'
+        - 'www.budabanca6789.com'
+        - 'www.fontspace.com'
+        - 'www.decals.com'
+        - 'www.banners.com'
+        - 'mbs-standoffs.com'
+        - 'trainli.com'
+        - 'www.appetizersusa.com'
+        - 'cheapcomputerchecks.com'
+        - 'www.generalfilters.com'
+        - 'js-static.com'
+        - 'www.stroudbooks.com'
+        - 'www.thewrightcollection.com'
+        - 'www.barnerbooks.com'
+        - 'www.chathambookseller.com'
+        - 'www.crossroadbookstore.com'
+        - 'www.gastonrenard.com.au'
+        - 'www.greensleevesbooks.co.uk'
+        - 'www.jlawton.com'
+        - 'www.manyhillsbooks.com'
+        - 'www.midtownscholar.us'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

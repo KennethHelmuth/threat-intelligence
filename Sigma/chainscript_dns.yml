@@ -1,0 +1,33 @@
+title: DNS Query to Chainscript Domains
+id: 2ce7d1ac-d481-4d32-84ae-de444691d786
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Chainscript.
+date: 2026-09-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chainscript
+    - clickfix
+    - cryptocurrency wallet theft
+    - etherhiding
+    - etherrat
+    - malware.chainscript
+    - msi installer
+    - node.js rat
+    - polygon blockchain
+    - tsundere
+    - websocket c2
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'giperon.net'
+        - 'kerosand.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,37 @@
+title: Network Connection to Payload Infrastructure
+id: dcc3a304-4ec9-4476-8315-97ee509b9461
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Payload.
+date: 2026-09-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - active directory
+    - data exfiltration
+    - domain controller
+    - encryptionless extortion
+    - esxi targeting
+    - gpo abuse
+    - group policy object
+    - malware.payload
+    - payload
+    - sysvol abuse
+    - vpn compromise
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '37.19.210.12'
+        - '149.102.229.154'
+        - '104.164.55.46'
+        - '146.70.117.239'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

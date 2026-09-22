@@ -1,0 +1,37 @@
+title: DNS Query to Flatroof Domains
+id: e333ea13-a466-4bbc-9d91-ed747d791f95
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Flatroof.
+date: 2026-09-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cryptocurrency theft
+    - devops targeting
+    - dprk
+    - fake job interviews
+    - flatroof
+    - lazarus
+    - macos backdoors
+    - macos.gaslight
+    - malware.flatroof
+    - north korea
+    - roofdeck
+    - social engineering
+    - supply chain
+    - terraform weaponization
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'technicais.sytes.net'
+        - 'storage.hubpage.cloud'
+        - 'grenight.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

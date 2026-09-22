@@ -1,0 +1,38 @@
+title: Network Connection to Chainscript Infrastructure
+id: 026e4ab2-0e85-4725-adf4-28355bdcf9d6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Chainscript.
+date: 2026-09-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chainscript
+    - clickfix
+    - cryptocurrency wallet theft
+    - etherhiding
+    - etherrat
+    - malware.chainscript
+    - msi installer
+    - node.js rat
+    - polygon blockchain
+    - tsundere
+    - websocket c2
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'giperon.net'
+        - 'kerosand.net'
+        DestinationIp|contains:
+        - '176.65.144.40'
+        - '176.65.144.127'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

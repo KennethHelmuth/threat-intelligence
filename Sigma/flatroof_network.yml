@@ -1,0 +1,44 @@
+title: Network Connection to Flatroof Infrastructure
+id: cd0ca86b-35b0-4770-b377-72bd4892a7b1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Flatroof.
+date: 2026-09-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cryptocurrency theft
+    - devops targeting
+    - dprk
+    - fake job interviews
+    - flatroof
+    - lazarus
+    - macos backdoors
+    - macos.gaslight
+    - malware.flatroof
+    - north korea
+    - roofdeck
+    - social engineering
+    - supply chain
+    - terraform weaponization
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'technicais.sytes.net'
+        - 'storage.hubpage.cloud'
+        - 'grenight.com'
+        DestinationIp|contains:
+        - '45.11.59.140'
+        - '176.97.114.232'
+        - '85.137.56.245'
+        - '85.137.56.10'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
