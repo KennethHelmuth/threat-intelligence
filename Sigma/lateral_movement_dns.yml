@@ -1,0 +1,30 @@
+title: DNS Query to Lateral-Movement Domains
+id: 8ece530a-c596-47a2-83fc-0529534f1f58
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Lateral-Movement.
+date: 2026-09-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - attack-campaigns
+    - credential-harvesting
+    - cybersecurity
+    - data-exfiltration
+    - lateral-movement
+    - malware.lateral_movement
+    - supply-chain
+    - threat-intelligence
+    - vulnerability-exploitation
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'polse.us'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

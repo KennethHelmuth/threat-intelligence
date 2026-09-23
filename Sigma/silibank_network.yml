@@ -1,0 +1,76 @@
+title: Network Connection to Silibank Infrastructure
+id: 39ce6938-5808-4891-af0b-5d37fa2a73e8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Silibank.
+date: 2026-09-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - certificate hierarchy
+    - cross-border infrastructure
+    - hangro
+    - mail relay systems
+    - malware.silibank
+    - north korea networks
+    - silibank
+    - softether
+    - vpn infrastructure
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'mail.silibank.net.kp'
+        - 'smtp.star-co.net.kp'
+        - 'mail.silibank.com'
+        - 'hangro.net.kp'
+        - 'silibank.com'
+        - 'ps.ppokkugi.com'
+        - 'futurere.com.kp'
+        - 'lnnk.com'
+        - 'dns.chinact.net'
+        - 'mail.chinact.net'
+        - 'mx2.sompo-japanchina.com'
+        - 'aeoncredit.com.cn'
+        - 'mall.dssodr.com'
+        - 'hero-huishan.com'
+        - 'hero-huishan.cn'
+        - 'smtp1.star-co.net.kp'
+        - 'kevin.com'
+        - 'nkinternet.com'
+        DestinationIp|contains:
+        - '175.45.176.21'
+        - '175.45.178.57'
+        - '175.45.178.56'
+        - '175.45.177.33'
+        - '175.45.176.22'
+        - '175.45.176.32'
+        - '188.43.136.115'
+        - '188.43.136.116'
+        - '218.25.43.212'
+        - '218.24.140.88'
+        - '218.24.140.94'
+        - '218.24.140.95'
+        - '218.24.161.240'
+        - '218.24.161.247'
+        - '218.25.125.144'
+        - '218.25.125.150'
+        - '218.25.125.158'
+        - '218.25.125.159'
+        - '218.25.171.88'
+        - '218.25.171.89'
+        - '218.25.43.208'
+        - '218.25.43.211'
+        - '218.25.43.223'
+        - '61.189.49.233'
+        - '61.189.49.234'
+        - '61.189.49.240'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

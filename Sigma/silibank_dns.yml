@@ -1,0 +1,47 @@
+title: DNS Query to Silibank Domains
+id: 710397ff-6948-46b9-855b-af0d7fd67766
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Silibank.
+date: 2026-09-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - certificate hierarchy
+    - cross-border infrastructure
+    - hangro
+    - mail relay systems
+    - malware.silibank
+    - north korea networks
+    - silibank
+    - softether
+    - vpn infrastructure
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'mail.silibank.net.kp'
+        - 'smtp.star-co.net.kp'
+        - 'mail.silibank.com'
+        - 'hangro.net.kp'
+        - 'silibank.com'
+        - 'ps.ppokkugi.com'
+        - 'futurere.com.kp'
+        - 'lnnk.com'
+        - 'dns.chinact.net'
+        - 'mail.chinact.net'
+        - 'mx2.sompo-japanchina.com'
+        - 'aeoncredit.com.cn'
+        - 'mall.dssodr.com'
+        - 'hero-huishan.com'
+        - 'hero-huishan.cn'
+        - 'smtp1.star-co.net.kp'
+        - 'kevin.com'
+        - 'nkinternet.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
