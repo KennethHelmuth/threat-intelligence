@@ -1,0 +1,42 @@
+title: Network Connection to Cve-2026-60004 Infrastructure
+id: 024c8843-f70e-4978-91ed-ee96a9b4b4aa
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Cve-2026-60004.
+date: 2026-09-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chinese-speaking actor
+    - cve-2022-0847
+    - cve-2023-54391
+    - cve-2026-34908
+    - cve-2026-34909
+    - cve-2026-34910
+    - cve-2026-54569
+    - cve-2026-56271
+    - cve-2026-60004
+    - cve-2026-60137
+    - cve-2026-63030
+    - cve-2026-7273
+    - cve-2026-79756
+    - data exfiltration
+    - government breach
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'p3.981666.xyz'
+        DestinationIp|contains:
+        - '104.225.153.141'
+        - '74.48.66.73'
+        - '172.245.247.21'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -12507,3 +12507,59 @@
 61.189.49.234	OTX	2026-09-21	family=silibank | pulse='North Korea's Hangro Revisited' pulse_id=6ab15e0fe200afb0f82b8895
 61.189.49.240	OTX	2026-09-21	family=silibank | pulse='North Korea's Hangro Revisited' pulse_id=6ab15e0fe200afb0f82b8895
 213.111.185.108	OTX	2026-09-22	family=Brave Prince - S0252 | pulse='The Tale of Two INC Ransom Notes: A Ransomware Timeline' pulse_id=6ab15cd97e805a1f35130341
+206.189.104.97:80	ThreatFox	2026-09-24	family=osx.amos | confidence=90% threat=botnet_cc
+117.72.32.75:5000	ThreatFox	2026-09-24	family=unknown | confidence=100% threat=botnet_cc
+152.42.173.73:8080	ThreatFox	2026-09-24	family=elf.aisuru | confidence=100% threat=botnet_cc
+107.148.78.97:8084	ThreatFox	2026-09-24	family=win.vshell | confidence=100% threat=botnet_cc
+152.136.119.249:8084	ThreatFox	2026-09-24	family=win.vshell | confidence=100% threat=botnet_cc
+111.229.248.198:8085	ThreatFox	2026-09-24	family=win.vshell | confidence=100% threat=botnet_cc
+103.36.223.45:8084	ThreatFox	2026-09-24	family=win.vshell | confidence=100% threat=botnet_cc
+47.116.175.227:8084	ThreatFox	2026-09-24	family=win.vshell | confidence=100% threat=botnet_cc
+47.118.26.230:9999	ThreatFox	2026-09-24	family=win.vshell | confidence=100% threat=botnet_cc
+159.65.83.2:9035	ThreatFox	2026-09-24	family=elf.aisuru | confidence=100% threat=botnet_cc
+91.92.33.76:80	ThreatFox	2026-09-23	family=js.clearfake | confidence=100% threat=payload_delivery
+143.92.38.221:8151	ThreatFox	2026-09-23	family=unknown | confidence=100% threat=botnet_cc
+134.122.204.114:8151	ThreatFox	2026-09-23	family=unknown | confidence=100% threat=botnet_cc
+134.122.200.153:8151	ThreatFox	2026-09-23	family=unknown | confidence=100% threat=botnet_cc
+185.215.151.9:2404	ThreatFox	2026-09-23	family=win.remcos | confidence=100% threat=botnet_cc
+139.129.18.13:9999	ThreatFox	2026-09-23	family=win.vshell | confidence=100% threat=botnet_cc
+65.108.207.22:80	ThreatFox	2026-09-23	family=win.asyncrat | confidence=100% threat=botnet_cc
+81.70.21.163:18080	ThreatFox	2026-09-23	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+3.70.2.18:8080	ThreatFox	2026-09-23	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+91.92.241.149:6606	ThreatFox	2026-09-23	family=win.asyncrat | confidence=75% threat=botnet_cc
+84.247.187.47:443	ThreatFox	2026-09-23	family=win.asyncrat | confidence=75% threat=botnet_cc
+82.47.101.16:7000	ThreatFox	2026-09-23	family=win.asyncrat | confidence=75% threat=botnet_cc
+74.208.146.77:2244	ThreatFox	2026-09-23	family=win.asyncrat | confidence=75% threat=botnet_cc
+37.244.231.39:4433	ThreatFox	2026-09-23	family=win.danabot | confidence=75% threat=botnet_cc
+31.77.220.78:443	ThreatFox	2026-09-23	family=win.pure_rat | confidence=75% threat=botnet_cc
+23.160.168.167:56003	ThreatFox	2026-09-23	family=win.pure_rat | confidence=75% threat=botnet_cc
+202.146.222.156:443	ThreatFox	2026-09-23	family=win.pure_rat | confidence=75% threat=botnet_cc
+2.59.134.119:56005	ThreatFox	2026-09-23	family=win.pure_rat | confidence=75% threat=botnet_cc
+2.26.29.7:443	ThreatFox	2026-09-23	family=js.tsundere | confidence=75% threat=botnet_cc
+195.177.94.29:56002	ThreatFox	2026-09-23	family=win.pure_rat | confidence=75% threat=botnet_cc
+195.177.94.29:56001	ThreatFox	2026-09-23	family=win.pure_rat | confidence=75% threat=botnet_cc
+195.177.94.16:6606	ThreatFox	2026-09-23	family=win.asyncrat | confidence=75% threat=botnet_cc
+192.253.229.23:443	ThreatFox	2026-09-23	family=win.pure_rat | confidence=75% threat=botnet_cc
+192.177.26.195:56001	ThreatFox	2026-09-23	family=win.pure_rat | confidence=75% threat=botnet_cc
+192.159.99.211:1996	ThreatFox	2026-09-23	family=win.pure_rat | confidence=75% threat=botnet_cc
+185.241.211.244:443	ThreatFox	2026-09-23	family=win.pure_rat | confidence=75% threat=botnet_cc
+184.75.208.66:46048	ThreatFox	2026-09-23	family=win.pure_rat | confidence=75% threat=botnet_cc
+177.22.117.74:9001	ThreatFox	2026-09-23	family=win.danabot | confidence=75% threat=botnet_cc
+130.61.85.204:443	ThreatFox	2026-09-23	family=win.danabot | confidence=75% threat=botnet_cc
+128.90.59.124:7070	ThreatFox	2026-09-23	family=win.asyncrat | confidence=75% threat=botnet_cc
+128.90.112.84:8081	ThreatFox	2026-09-23	family=win.asyncrat | confidence=75% threat=botnet_cc
+94.154.43.83:8443	ThreatFox	2026-09-23	family=jar.microstealer | confidence=100% threat=botnet_cc
+187.77.30.227:5005	ThreatFox	2026-09-23	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+23.94.66.124:80	ThreatFox	2026-09-23	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+3.70.2.18:80	ThreatFox	2026-09-23	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+3.70.2.18:443	ThreatFox	2026-09-23	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+23.94.66.124:22	ThreatFox	2026-09-23	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+23.94.66.124:443	ThreatFox	2026-09-23	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+128.90.103.57:2015	ThreatFox	2026-09-23	family=win.remcos | confidence=100% threat=botnet_cc
+31.56.209.155:2407	ThreatFox	2026-09-23	family=win.remcos | confidence=100% threat=botnet_cc
+193.202.84.17	OTX	2026-09-23	family=DarkGate | pulse='Disposable Domains, Durable Hosting' pulse_id=6ab3c34aada48d498bcb50af
+216.126.229.216	OTX	2026-09-23	family=RemControl | pulse='RemControl: AI Built the Overlays. Victims Lose their PINs' pulse_id=6ab3c7511ba65533d7e207ce
+96.9.125.52	OTX	2026-09-23	family=CLEANGULP | pulse='Mind the (Patch) Gap, Part 2: Fake Websites Used to Deploy Chrome & Windows 0-Day Exploits' pulse_id=6ab3c34b893b396be1b1aedb
+104.225.153.141	OTX	2026-09-23	family=cve-2026-60004 | pulse='Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation' pulse_id=6ab2691621023818faaf620e
+74.48.66.73	OTX	2026-09-22	family=cve-2026-60004 | pulse='Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation' pulse_id=6ab2691621023818faaf620e
+172.245.247.21	OTX	2026-09-23	family=cve-2026-60004 | pulse='Open Season on Kapibala: Attacker Steals Over 18,000 Government Records Through WordPress Exploitation' pulse_id=6ab2691621023818faaf620e

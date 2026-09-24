@@ -1,0 +1,41 @@
+title: Network Connection to Remcontrol Infrastructure
+id: 002b9008-5cca-49e1-9e21-1ec62afe1460
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Remcontrol.
+date: 2026-09-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - accessibility service abuse
+    - android banking trojan
+    - malware-as-a-service
+    - malware.remcontrol
+    - medusa
+    - overlay injection
+    - remcontrol
+    - screen streaming
+    - telegram dead-drop
+    - unkk threat actor
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'bnbnhura.top'
+        - 'definatelynoone.com'
+        - 'tvtap-liveapp.com'
+        - 'cdn.dlmafi.top'
+        - 'ff-de.shutgpt.ir'
+        - 'vpn.askarzadeh.com'
+        - 'vpn.doneplay.site'
+        DestinationIp|contains:
+        - '216.126.229.216'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

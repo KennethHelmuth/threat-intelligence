@@ -1,0 +1,39 @@
+title: Network Connection to Darkme Infrastructure
+id: 1fa9409c-881d-4f57-be76-441605f0ba9e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Darkme.
+date: 2026-09-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cryptocurrency theft
+    - darkme
+    - financial targeting
+    - malware.darkme
+    - phishing campaign
+    - process hollowing
+    - rat
+    - social engineering
+    - visual basic 6
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'advancedfuturetechnology.com'
+        - 'thatawful.boutique'
+        - 'megchartedbk7.com'
+        - 'onlineview365.com'
+        - 'readonline365.com'
+        - 'sharedfuturetech.com'
+        - 'storageonline.me'
+        - 'viewdocument.live'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

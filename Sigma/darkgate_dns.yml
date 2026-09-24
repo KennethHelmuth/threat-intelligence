@@ -1,0 +1,62 @@
+title: DNS Query to Darkgate Domains
+id: 67c8768f-4939-4a48-8b37-fc87f2bb520b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Darkgate.
+date: 2026-09-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - amadey
+    - amatera
+    - as202412
+    - blockchain c2
+    - bulletproof hosting
+    - clickfix
+    - compromised websites
+    - darkgate
+    - etherhiding
+    - fake captcha
+    - malware.darkgate
+    - matanbuchus
+    - trojanized installer
+    - wacatac
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'alianzeg.shop'
+        - 'ai-nexora.sbs'
+        - 'cdn-2faclov.sbs'
+        - 'lcates-vs.beer'
+        - 'capcha-cdn-js.beer'
+        - 'cdn-plugin-js.beer'
+        - 'carrotbunnies.com'
+        - 'sdntds.shop'
+        - 'nttdss.shop'
+        - 'dnsnewtds.shop'
+        - 'ntdnewtds.shop'
+        - 'bnsclod.beer'
+        - 'clnsdns.beer'
+        - 'bootstrap-maxcdn.beer'
+        - 'marketing080company.one'
+        - 'clacndjsvulnarbi.beer'
+        - 'chekbrow.beer'
+        - 'biyaconserver.beer'
+        - 'id-verif-code.info'
+        - 'enter-press-code.info'
+        - 'cdn.claritydelivr.com'
+        - 'verico-de-id.beer'
+        - 'fraudtechnology.com'
+        - 'rsvpopenh.one'
+        - 'lockpopclickgetfile.monster'
+        - 'pcapps.my'
+        - 'gettrack.my'
+        - 'securecab.fit'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,44 @@
+title: Network Connection to Cleangulp Infrastructure
+id: 778bc954-3b27-48ab-93b4-09a81eb2151c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Cleangulp.
+date: 2026-09-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chinese apt
+    - chrome vulnerabilities
+    - cleangulp
+    - cve-2026-85046
+    - cve-2026-85880
+    - cve-2026-87491
+    - domain spoofing
+    - malware.cleangulp
+    - phishing campaigns
+    - uta0565
+    - windows privilege escalation
+    - zero-day exploitation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'halal-navi.net'
+        - 'outsourcingwise.net'
+        - 'halaltak.net'
+        - 'personclouds.com'
+        - 'americanprgoress.top'
+        - 'chinadigitaltimes.top'
+        - 'thecovnresation.net'
+        - 'thecovnresation.com'
+        DestinationIp|contains:
+        - '96.9.125.52'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
