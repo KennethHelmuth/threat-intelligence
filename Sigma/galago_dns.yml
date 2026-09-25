@@ -1,0 +1,32 @@
+title: DNS Query to Galago Domains
+id: 1c8176f4-ef6a-4d38-ac42-522d5835695a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Galago.
+date: 2026-09-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - double extortion
+    - galago
+    - healthcare targeting
+    - iceland
+    - infrastructure sharing
+    - malware.galago
+    - panzer
+    - raas
+    - ransomware
+    - tor leak site
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'pnzruro7syvwvefx5mpo2fhzi4jftgquynsqf3vy5x3no57yp2iz4nyd.onion'
+        - 'pnzr4delgur5dlhtqcy7qqm6m7dkivxwh742enezpks5kswfpx7qrsid.onion'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

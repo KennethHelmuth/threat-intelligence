@@ -1,0 +1,31 @@
+title: DNS Query to Opensupdater Domains
+id: b023bcdc-0d4e-4956-b972-617fcf7b6ba1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Opensupdater.
+date: 2026-09-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 7zip sfx
+    - certificate bloating
+    - code signing abuse
+    - evasion techniques
+    - malware.opensupdater
+    - nsis
+    - opensupdater
+    - reflective loader
+    - snackarcin
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'codeonicinc.com'
+        - 'setupsoftwarecenter.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

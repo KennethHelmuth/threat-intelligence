@@ -15697,3 +15697,177 @@ e4b895404f2512e8e4d19d5352669181a11f5f63	OTX	2026-09-22	family=Remus | pulse='Au
 54e378e35d80ccebba22abd63d23909e8533df4a4713afbcef05c1592e465e5d	OTX	2026-09-22	family=Remus | pulse='August 2026 Infostealer Trend Report' pulse_id=6ab27eff37df954a32a9fa29
 5f3939ab860a1d2b1a08e168ee45925423bf722e46e292c2b710ca9f4cedf27a	OTX	2026-09-22	family=Remus | pulse='August 2026 Infostealer Trend Report' pulse_id=6ab27eff37df954a32a9fa29
 c375cb55dafefcb4ad4fdad99e58159943b9e1c51c7756c2e7880656881fc0f0	OTX	2026-09-22	family=Remus | pulse='August 2026 Infostealer Trend Report' pulse_id=6ab27eff37df954a32a9fa29
+0a0c931f6a7b4d4d66389dab1c83cb4f7355f627399a040e79ce34ae2ab02957	ThreatFox	2026-09-24	family=unknown | confidence=75% threat=payload | vt=26/75
+bd01d8dfcb86adbaaecf212506e71d5207715f3e92316cda3f7ac41910022217	MalwareBazaar	2026-09-25	filetype=php md5=90fc465085d2558cda77a87d8b810143 sha1=0408a5e816bb3d0849ca2f20b8993f05a7c66591
+12942bba4b7c24f3c9b37d972caea2d769c1882375faf5dc4b265a5dacdd63b3	MalwareBazaar	2026-09-25	filetype=php md5=3f8605229517688c51f13b950a07b5a7 sha1=850bcbc2fe6d1bdda2bdbf3385e339836fd23122
+9b74712f8e5a46e0f9718bf6da01590a033d95da66c6f6a7b3d34fd8a3a385b9	MalwareBazaar	2026-09-25	filetype=php md5=4b84c7b0d3f4482cdf7aad726292544c sha1=1a72f146879b9960d1df79e5bc3dac13b269a22a | vt=27/75
+d521dc2da106ed44368a65f51095782f9d8e595305e773572a36d4e0b8bf6b46	MalwareBazaar	2026-09-25	filetype=php md5=ddd5bb0e30007bf7e4166b9eee0a4edc sha1=d4a9c6a16432073c6b34a9261ed85635d56dbb8a
+f45333b26481e36be1dc306f8630b6126c42e4a1cbbe024e2b286a580952f9b1	MalwareBazaar	2026-09-25	filetype=php md5=768aa37f499605a9ad96c70fb8031b79 sha1=585eaef302a1da17998c8f1a75f5478c4faa36a2
+b7f0d6a31daac70c443ecdce04417b32002bcb7537ffc5f22f641dcea581c2b3	MalwareBazaar	2026-09-25	filetype=php md5=2309a28a1f4b276b38576a9e9e4b9026 sha1=c66a1ad434ba665ca31703cf7418587d9107a13a
+35697a14b56ddf664d987433a87a105a3f2e9912b3edcde17f536a5dd490cbd2	MalwareBazaar	2026-09-25	filetype=php md5=fedc7263b557af7065d1a8a4d8587216 sha1=5ce8da17d84365c6143cb329d1fafe60c79a592d
+ce01dac06be173ddfe6f1e1d65088a112272a2d158b7da505fc23f014e7ca63a	MalwareBazaar	2026-09-25	filetype=php md5=406e903f12cb490431db07ec65e153ac sha1=db13f506c06863b77ddcf7198f0fa07c71ab166e
+6f94b2f7d0a57f39e500a08a24cf90177acd3c2cce1fdbdb586170d2a7d42cbe	MalwareBazaar	2026-09-25	filetype=php md5=c6371ceda495b1549070482217540c4e sha1=86f61a6de45dee6f1b93382463ff06fe666d8585
+2f1f63b7d2fe56fdad569712ecb92e4ffd6099f2f2a6cf7fbdbe76349490a45f	MalwareBazaar	2026-09-25	filetype=php md5=e9907fa36ecc59ba6619d33bc6b197ef sha1=88fe417e67b89f0e6bee32f4bc040708b3d4ec23
+1ef89f262d5b25d2279aee12c81e1767e6e58c367ac13756d391f2cb56022b22	MalwareBazaar	2026-09-25	filetype=zip md5=d13701d99e8dc2a2d9e8b1f68297227e sha1=554f2f6ee30c35ef1b42fa68a6961506bc0e15fe | vt=8/76
+6c944e11383fe04397727893aeb668d8b7989bdf9510e5bc283dbfb9fccd6f05	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+640e6ad1c159f02c2e940290113a3d48cf78f33e930217802f13eaa3b62cc384	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+494aec19883cb5454d5d8e84953ceed65b83af99ff8a9cbf049544105e2b5e18	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+3b6786813f55f4f49a2ea1bac64413b94523bc4468ab02f403c6912cbb703377	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+6c420372a15415c1544790df5fe5ce9c6ff0bbef65546c83e02110307e3a32ff	ThreatFox	2026-09-25	family=elf.mirai | confidence=95% threat=payload
+41a7d7a61716cf707ca471609069bdf649ed687c1c29c52aa196aaef75f8d077	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+ac534a13006b72805cc12ea91ff2e06ab843c3806eca0e21e81f163dbd5212c6	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+c754338f9ebacd78d7582f28729705d4e61c0ef05f9b8e13a71a6a0f05438dab	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+8738d60030156b9cd03f939bad1257e7cd34de4adda9c84841564995353df593	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+f1617c27d3c3b58cb6f930e21b5ffb002915ab4f7424c77552be9f82180409a8	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+939a999e03e1f80f3eb8e4e04b93c42339261e463e16582c2cccda1a28b57a8a	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+d64ad56eca41d47cfb7f534623071dbdff25a49cdceae4dc9de6d7cdfa22e7ea	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+54d08acac87f7b50b4aca64be345b520d03f00818b8288fbfa4034d1bffe5800	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+b2e247ce007772e6b47aee8602399dfa3c305cd640d8350da80364ab42532fd4	ThreatFox	2026-09-25	family=elf.bashlite | confidence=100% threat=payload
+597e1f47936b2dc91df74e9769273a62730043b835e260c77950672db2c5b009	ThreatFox	2026-09-25	family=unknown_loader | confidence=85% threat=payload
+a23686eecb67c17371393bfd7dd5480ee1b07f5f07a061c1d71f8c5f49d84c67	ThreatFox	2026-09-25	family=elf.bashlite | confidence=100% threat=payload
+1dc37e8413a51944538b79eb66ccefe9d79265faa1d3c61a2d43f218a45633bd	ThreatFox	2026-09-25	family=elf.bashlite | confidence=100% threat=payload
+64a88cfc1298f0b1133d0406c886b785353354229351fa3f682d37bf7ea004e3	ThreatFox	2026-09-25	family=elf.bashlite | confidence=100% threat=payload
+d0596e5955fd72130e09d15b831c0520193e9b61995195e9374912293cd08ead	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+aec970cafa965b7bae1a86ba90401ada56d9089d480cac04736e0f09ab0737fd	ThreatFox	2026-09-25	family=unknown_loader | confidence=85% threat=payload
+02ca3134961301839e8509fbbf85ad26c51542b2afde10c2f51440f77b4e8d08	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+004050e1115593e1588e6cc1691369dcd47939626fdec7f4f0c12eebd0a36a84	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+e09af9f084075caf754e2cbefbb360c851bb279c2dd8b4d383209aef64af20ef	ThreatFox	2026-09-25	family=elf.snowlight | confidence=95% threat=payload
+d3ea92ab0f5e52edcbf797cb18a70d83d387c121ae84959f2bf50ab446615e65	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+b98acd3501298a53de20e4924f92cc1981a3e0bf70451f0eb2d06bcb66f939af	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+d07dca6ae1a68831a3a69398de8defc1d0fef99596c912fc5d1bb18c141da6f6	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+b0d715ed43425e92111fdc9e211d52106b90ed58e9a06d0fc0a3f2b9da8a62f0	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+6caa85a5e69e21f529dc2b246b38e13ba24902dc5721309c70d7c1fdf2d4367f	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+e677c9a6eeaad9cb02f4aa55eb1d264617cbac7e07091939b6f517446b5f17ae	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+610d3e3bfef18e116a7de3aae9d8d7a941cb5664a0af78304d6fbaef62a2dc03	ThreatFox	2026-09-25	family=win.vshell | confidence=95% threat=payload
+0ad68d5804804c25a6f6f3d87cc3a3886583f69b7115ba01ab7c6dd96a186404	ThreatFox	2026-09-25	family=elf.xmrig | confidence=100% threat=payload
+6be8c092507dc1e7105e56f5c5aaae527be511884105b1b3895ba6ce1d869d91	ThreatFox	2026-09-25	family=win.vshell | confidence=95% threat=payload
+deb1c78ca154989f89979b9b0126f3781a0c6ac8cad6ef121598a4cceb7bc6f0	ThreatFox	2026-09-25	family=elf.bashlite | confidence=100% threat=payload
+c1c1046c507058c0ca6d14bb5369a84a45791d58475ce12fc6995451f0c5eb14	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+ff4d54d5368f07b42ba40fc52051a9a14c81407406717eb9188fef7a343ebc66	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+5f3152e5bdafababf1312ba047cfb4bbf91438d85404fccb4f4349cf54024257	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+93991708c741b6f73ecc5b0245702e07f42fbc71ee5ac0d8c39085574eb4b6a8	ThreatFox	2026-09-25	family=elf.mirai | confidence=100% threat=payload
+42118bc3daa2d2c439bb54c329f2184be65b9c89ba87aa1a705beb2f79a22e69	ThreatFox	2026-09-25	family=unknown_loader | confidence=95% threat=payload
+8f64802237d484eb45bda626da5f5501209a36384acc88950e3f5f79c86cc938	ThreatFox	2026-09-25	family=unknown_loader | confidence=85% threat=payload
+7a1af320c9474415699030039ebc7fac0e34ff66e4e10e55fcf30b211b7c94d4	ThreatFox	2026-09-25	family=win.vshell | confidence=95% threat=payload
+3e6c9b6f61e5cb0c9e95f43ad28cf7ee3bdcd993a7f2a7dd8adf5c5919401d5c	ThreatFox	2026-09-25	family=win.vshell | confidence=95% threat=payload
+ccdfe35e50578e7b82671466154cdfae207455b4139b26bd93016c0144c857fd	ThreatFox	2026-09-25	family=unknown_loader | confidence=80% threat=payload
+cdc89db3e28be5e16e6ca5cc635fbb479a4e5564357f66240a9c5b191ed51b9a	ThreatFox	2026-09-25	family=unknown_loader | confidence=85% threat=payload
+c736403737ad8bf3577514003774d4d844297d900d6fbed6cd3d57bb51bc43a9	ThreatFox	2026-09-25	family=unknown_loader | confidence=85% threat=payload
+12983269c39b8ace9f21919ed20075b34dd0e67a63f22dc2481bca78e3fcfb95	ThreatFox	2026-09-25	family=unknown_loader | confidence=85% threat=payload
+4eb9878a75fcea821d6a964528e655dcb849f2cdef0d1f081ad5828039321fab	ThreatFox	2026-09-25	family=win.vshell | confidence=95% threat=payload
+520501b124e2b8d3935693f556e3446ee8be319ba420a7a6c78e5a0d80ea7dbc	ThreatFox	2026-09-25	family=unknown_loader | confidence=95% threat=payload
+17f99c347607bdc506be5f204afe1d03c0c09a9f1aceaf11019b2941413d59e4	ThreatFox	2026-09-25	family=win.stealc | confidence=95% threat=payload
+9cc8551a8e4be7fe2317ce2f9221043e4bea356a42ad3cc815599d964baefb40	ThreatFox	2026-09-25	family=win.vshell | confidence=95% threat=payload
+f8c955715ff9a57f515446b80c43c49ce181fd3f52cfe4c4bccc7d111019a83b	ThreatFox	2026-09-25	family=win.vshell | confidence=95% threat=payload
+169c9bf9b39b667f0d7e1d019de513781a067acde5b1ed8601b356c543d8cf48	ThreatFox	2026-09-25	family=win.vshell | confidence=95% threat=payload
+1e3edeedec4ad242ed9faf8cb370df96aabe95c1d706d0b1b67cf4042da25fb3	ThreatFox	2026-09-25	family=win.vshell | confidence=95% threat=payload
+89db6de9efcfab137245305c68326b6106a08850afba4cc20fa4d435d6ca96d8	ThreatFox	2026-09-25	family=win.vshell | confidence=95% threat=payload
+951ad97fb9095b03cf85689bab67a32c8d22e21f09095fce71d922fdd35578ee	ThreatFox	2026-09-25	family=win.vshell | confidence=95% threat=payload
+4ac8d92803e43ef96a610e1c65b341d0a53e54b0e13294b957719a7671adb572	ThreatFox	2026-09-25	family=win.vshell | confidence=95% threat=payload
+6b89ae019bdaf5abaa6c10d904f5d4ea8bf1e14de8e97adb9b54f9cd72b68fb4	ThreatFox	2026-09-25	family=unknown_loader | confidence=85% threat=payload
+3a1de15078dbd1da3c895f6d31576d469f28ae66663efd6aab8d013809da4461	ThreatFox	2026-09-25	family=win.vshell | confidence=95% threat=payload
+5b7f1d4fae6d7981bbd8912c6ad10c8b8caf80db0c11a5728923e234318be5cc	ThreatFox	2026-09-25	family=unknown_loader | confidence=85% threat=payload
+84f4626d2e929200c7bef5f68dc1d1a6dd0d7b9758488c1ff8713b5b4822da47	ThreatFox	2026-09-25	family=win.vshell | confidence=95% threat=payload
+ffb056a8ca38e18b9389d4689fd1b57af6dae25e44b399e0305a61c6633ea53c	ThreatFox	2026-09-24	family=js.clearfake | confidence=90% threat=payload
+ef3bec3fc56611025ea5c9e67197f70f8f9d625b3b08eaea7c444f7285264bad	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+f91311823973108b313e941881d0ba501569b59221585b05cb69d2baeba68a74	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+7243f66e3c28ef7d20a2ab34b30c577fe6f1f4273145a3379be7d3b9fea625a1	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+33cb2391cc0a21681eb67b1b85ce43117641059494c249030be388fa178bbda2	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+bd1b6bed346570b063a14e9f4f7ddf21b19f61dbe1f820e03401fe82c509fd7b	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+6e2c9918a3eee4233cb3058385011fb7c79bf2f801655ff7711174196f1dcb59	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+d3552befdb5519741191cd15d8b6e5109c9f8bba584a4506b3c551253f993474	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+15f5980c718cda6c5b16ea81cd153ebef15f07a03378594a669395c0d51c64ed	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+89aad11bff0ba0d654016e4e95b02f6f94b18f01f09475b83b0d983ed0764af2	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+9f4404e77102d3778c31c9a88ef98e0e4ba792721edfbbb88cb164cbd1a4db61	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+665c09db96aa8704a4bfc44d4c4c3e6705c22f074c4c36ac32839e9006dddd30	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+434baa345fb6291b150f5c8d577993c53b2eb18b8987af84142f7fe7e426f973	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+159812997d29881c7ea02642914fe1efb997130477889e4fe3426f81434b5bad	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+aa89eb6107f9ec242faa91a24a099db0850b81b3a845d9e8d30a747e4770e7b2	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+beefe66a3125211b8f62829521f59e50ed2a6f214129721cf3dbad6006f98c70	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+8c8c72b6149130a65f7d69fb97fad7eedd7580fa07f863a62b4d72aa460951bc	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+d3587cf38619ab23440a51c85bc338ca1e7ae1ca7023e4a15079b8f121506430	ThreatFox	2026-09-24	family=js.clearfake | confidence=90% threat=payload
+6c7d23534ec5de7dc95d25e423085b47d190ae21c7eeb2af1af64190e05cc406	ThreatFox	2026-09-24	family=js.clearfake | confidence=90% threat=payload
+6161c1e746b8e29297917c72f93652a137691a3b9d4c6d6fbce38f80f7732d34	ThreatFox	2026-09-24	family=win.dboxagent | confidence=95% threat=payload
+1ca26b57598f79603d7e4da730c98965	ThreatFox	2026-09-24	family=win.dboxagent | confidence=95% threat=payload
+c9dd06b54122a3c7b27299720b403a92	ThreatFox	2026-09-24	family=win.valley_rat | confidence=95% threat=payload
+b709d2521e36fb30edbddffff27e7a09a0aa2766cd98c6aea38c92bd1f953176	ThreatFox	2026-09-24	family=win.valley_rat | confidence=95% threat=payload
+cd4247e33148b91be70282885447f757	ThreatFox	2026-09-24	family=win.valley_rat | confidence=95% threat=payload
+dd6920d9209ea1cdcbb9be9e2e605d57	ThreatFox	2026-09-24	family=win.valley_rat | confidence=95% threat=payload
+a58f5fe338e416dbc8cf88b0b3cabebc5ba2f6ae632e50e703127519331660fc	ThreatFox	2026-09-24	family=win.valley_rat | confidence=95% threat=payload
+089cd5a891a8f212df5f54a6b08205e06e85eacbe6ff9bfcfcb5fd6e51d1813b	ThreatFox	2026-09-24	family=win.valley_rat | confidence=95% threat=payload
+6200240443329003bc9e2b3ddfbe34da	ThreatFox	2026-09-24	family=win.valley_rat | confidence=95% threat=payload
+39e5875573d0bcd3fd29c680ff0081b52b6c38e01edea4a2bd718b22884a4307	ThreatFox	2026-09-24	family=win.valley_rat | confidence=95% threat=payload
+b14b737c48708235edb9035cc09b35a9e0e888b25c8ee6959919fb6123810c81	ThreatFox	2026-09-24	family=win.valley_rat | confidence=95% threat=payload
+c87cdff96cf2f30bd7665a151e6ee3a5	ThreatFox	2026-09-24	family=win.valley_rat | confidence=95% threat=payload
+94ffe61fb9619a00d8c1066dc8728df2af733f0b9ca8783a93ecbe1e52e59562	ThreatFox	2026-09-24	family=win.shimrat | confidence=95% threat=payload
+e629a420112f2bcb593f5467a362a91a	ThreatFox	2026-09-24	family=win.shimrat | confidence=95% threat=payload
+31edc1eef538fdb429601d26422834b3	ThreatFox	2026-09-24	family=win.nanocore | confidence=95% threat=payload
+55d635733571cf404f3af64646dc97e9	ThreatFox	2026-09-24	family=win.gcleaner | confidence=95% threat=payload
+919f9a20b675968f038bf43c009611a697f11119e037ad577bca4bb2fe746f1c	ThreatFox	2026-09-24	family=win.nanocore | confidence=95% threat=payload
+78ad2cce134fd6e9819489fabdfeffa1	ThreatFox	2026-09-24	family=win.coinminer | confidence=95% threat=payload
+ce3d16f1bcb319135a99b10d4daa2a680c2cadadb8d8082b39d3696b7016e096	ThreatFox	2026-09-24	family=win.gcleaner | confidence=95% threat=payload
+c705fea2fd2e6c119c1138f1b74cd798	ThreatFox	2026-09-24	family=win.svcstealer | confidence=95% threat=payload
+a3948d4628c764bd1408883bfc2990bb4432ce014455ff31ed5d47eecb8ef57e	ThreatFox	2026-09-24	family=win.coinminer | confidence=95% threat=payload
+0c7dd3b979c3fdeba56c6ae312345548	ThreatFox	2026-09-24	family=jar.crossrat | confidence=95% threat=payload
+221e2c855e78d5cc7fb84738effb88bb11a47be6ce10530c909534e15f47e0b4	ThreatFox	2026-09-24	family=win.svcstealer | confidence=95% threat=payload
+f5ec29d01c9adb0ecabb2da6bc8fb81a	ThreatFox	2026-09-24	family=win.wannacryptor | confidence=95% threat=payload
+fb48f55e9e2b1ef2d904b0f06547ce698bcb151b43dd032fc7257a7c0f940bd4	ThreatFox	2026-09-24	family=jar.crossrat | confidence=95% threat=payload
+541677c2ce44edbb6241907c36463e6ded77a9d7cdb48ceb4113f1111ad2f9e8	ThreatFox	2026-09-24	family=win.wannacryptor | confidence=95% threat=payload
+b30450f0db56652e2652318b24f9a36fb04786af99c22995584766923bebec1e	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+1907be92bfb56439610fce9fa7be748c0e424b4c07ab1a163704a30d56b94f53	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+52d2fcbdd59d0beae12c03c5ae13adeffc39f50cec436d6071890a3c1b971d5e	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+0c0de3e0ddad3300bb1e3b17fe4ea48e3cfa7e5d0d313f355a6d25e230b796ff	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+bedc5ef2bc2ad17fd0d627b2539a47e6ad55f9b83cfe3febaf8de2ee32e9c9af	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+57fc974927b70736976b88fd369e7547892d8f227e7aa1a322e5b61aa562a93a	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+5b7487d9528a49f6b83d41c772529b4d02d08a363c4501a60a3c8f9a3eeb53fa	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+8a4ef80cf6dbce39425c82d90953189e14ff8fc4c69627a6f06d24565c3421ec	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+5d73b00bd37e96853bcb1f2cba845ce806b3c0dd8b83be3aaa58d0f42a235152	ThreatFox	2026-09-24	family=osx.amos | confidence=100% threat=payload
+d3e5d5e5289c2e39e12dc91a4e286faf64812bf68c83c1f37e88b2fac79d105c	MalwareBazaar	2026-09-25	family=RustyStealer | filetype=exe md5=ad677925d4ffdde33c4392cc76c615ba sha1=a5d5deeba33eadfb479ea60995cf2336048b31c1
+db74e8707f2dd7fe3819ce7ac210299191f7936dde7ae59a647dfdb9c8e44ea3	MalwareBazaar	2026-09-25	family=Mirai | filetype=elf md5=22adf6b0c44266dec7d54c5017e8034f sha1=2c04ee15522ab2cc4caa48094985d3c31b6019f4
+5103d28c77c07c46450180d80c78de6346c580ea63f2dde2cdb9163ec53495d3	MalwareBazaar	2026-09-25	family=Mirai | filetype=elf md5=4c6f722c4311956d03c1001bb1618511 sha1=bdefd406872165837e7dc196b390f5e333c4d961
+2b6c2e6c2ef7396f6dca3183fb894ff41b3180bac8d9746c124de7b4ef3575a0	MalwareBazaar	2026-09-25	family=Mirai | filetype=elf md5=5b9f98ea6e444a5ba8a98a234e44fd03 sha1=866f4ef65b25ea699cd2e18b05d4245045b3b91b
+5b7e6286c02ededd19289332860e76ed053797d7f31d4be7806a2ac6f3e58694	MalwareBazaar	2026-09-25	family=Mirai | filetype=elf md5=3431e26c4e170239d2343a0f0ece11c5 sha1=4b3ad11c3bd01f14ae598a8c6a6fba9ea7dde6b6
+27c593a40a437810124f2f43a9d67365f1b91a3f52ab64e44d0f5b120ca78136	MalwareBazaar	2026-09-25	family=Mirai | filetype=elf md5=fce665ffd54fe009fce8626468fd2e38 sha1=55bf21cc08ca4a06c8672f1143d3ada84a0cbe33
+1d55613d5c924ace53b733096a9ffe3c22c3f703f8abc4b18e55e1f75dd9f3d5	MalwareBazaar	2026-09-25	family=Mirai | filetype=elf md5=f951e5ccf7cc7540cf88ca92fcb7236d sha1=ab6a068ac1ea9d403543d25db2d72f93124e9aa2
+a965431e4a881f482e7e71d6f6e52c5c7ab05ce75e656869558c194d167bb5bf	MalwareBazaar	2026-09-25	family=Mirai | filetype=elf md5=7075231163c232e021d470b5cfa61339 sha1=321b211d901790c55288c4463d8dd47b65da6edd
+3ef8580795f9e384a5c457cdd136c7b163fd03ce37f0e7d2961e1065aec52ed3	MalwareBazaar	2026-09-25	family=Mirai | filetype=elf md5=11c0cbff17b428cd1b6cdb5d81d3d16a sha1=fe685a8e418551e8428283c645629d6f5dd6090f
+b15f0c3550a40034e11547bedd66d220d75ee73a99194e5285046b4e3cc031aa	MalwareBazaar	2026-09-25	family=ValleyRAT | filetype=dll md5=b137780b84cb1e07d3be853460b28c3e sha1=54ce51830add45602d35779573f40d72e1e7cb65
+0b5ce68beab1bef3e214c00995c5590825bb096cd2cc2a07af1dad9c4c8579b2	MalwareBazaar	2026-09-25	family=ValleyRAT | filetype=dll md5=d9102a1929d66b6a5cc6b1cee95f3e8c sha1=191c852ec68d789f574dfcd533ea4b249c110ad7
+2db23dbabf20814d496c61778c178ecf7a0da76f199f5476f45b4bbd650a4dd4	MalwareBazaar	2026-09-25	family=CobaltStrike | filetype=exe md5=0b9bde384dac136914f21b8e5483c409 sha1=25e750a10bc1d263e969d962f567fc55fbceff44
+6f0fd39f4698b31d53bddccd15b0627683f09a5f43f90f56e557eb24c95d2c3f	MalwareBazaar	2026-09-25	family=ColibriLoader | filetype=exe md5=b63d2c05dc5f1683b99e2a4b4f9d3c24 sha1=d917a7d87d893882416261b2533b265052c3ec19
+9b2a3b0dd168473cd7cac5f37246b640e1df6a44647f1214e36b434826b63e5c	MalwareBazaar	2026-09-25	family=RedLineStealer | filetype=exe md5=1c06be88eb3adb8c17511f6fe4f8e631 sha1=8b304ba4bb4501094961c26af28d4f9b33a9df09
+eab6449614bea5149944852161e721dbeac40df491136e40c1edd31908521974	MalwareBazaar	2026-09-25	family=AsyncRAT | filetype=js md5=c7fb3716e0aa3efe68d5d59b2a9e42e8 sha1=6e3ea918b4f84a080af84144a839ea7e2fb2c55d
+0f2211459a6fd39506460bb309d30f673b27c7ab72fc9e41ea3c27e360f8e65f	MalwareBazaar	2026-09-25	family=AsyncRAT | filetype=js md5=6b9c054bfce81fa1d530776142942246 sha1=e37b5cfabf92bef203528b205fd279f8b6b0c68f
+d165b25b803cbf5f2f2d3723cf1c778028832bbf26bf91a895f449439a1abbc9	MalwareBazaar	2026-09-25	family=NanoCore | filetype=exe md5=0ebea18d678fe2aabf937cc67d5c208d sha1=8eed60eb37444cee59852002267b4fcc5b59fecc
+a7666e5aa3c6ecae0295caa7c3f49714eb561d6e1be6807cf1020b79f1902cd0	OTX	2026-09-24	family=OpenSUpdater | pulse='OpenSUpdater Hides in Recompiled 7zip SFX, Evading Analysts' pulse_id=6ab524f82bf3c05dfa346cb8
+ba38916e82c47cff6de71791f179ce762e640e2975e40d6a1803d16ff591b752	OTX	2026-09-24	family=OpenSUpdater | pulse='OpenSUpdater Hides in Recompiled 7zip SFX, Evading Analysts' pulse_id=6ab524f82bf3c05dfa346cb8
+e99a053b9d6a414256177e1529417f85867d6ed355f6009300d626f63429753c	OTX	2026-09-24	family=OpenSUpdater | pulse='OpenSUpdater Hides in Recompiled 7zip SFX, Evading Analysts' pulse_id=6ab524f82bf3c05dfa346cb8
+26a0f7cdb9f7dc5ace9a40af825b1538	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+2d69812584269699fade26622e6490c5	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+7df1049cbd56c0bfa4a3364a379b4c2c	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+9f15fe9c4415cd668334339f705b94d8	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+fb90887592655a8c989e443c640167aa	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+6791dad263cac6d63ebba6a4b57e7d71	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+3ded1d71a822b53b12c3b67bcaf633f5	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+781ce50001d4b449600afa347c9b0208	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+8e84b01d5ac9624f0b181ade0e737193	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+980e2134679bc0c609f7659882883d77	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+4203ec932bfcc0907f91732440d6d997	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+eb760d5c88f13f7ee0f8f86ba3407123	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+f9f70096aabb4d22a6657014f4853a53	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+3deeed48fd38f22e369f5c3092bd68a1	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+f97d24212fa6a21be0c4d211e10f044c	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+00d12d842596bf5ee1805effb4571d30	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+9a0043d900a9ac78c886c59c9a328fd0	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+7212229c85852c3bffaf9740002b2f39	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+c53d0ea45dbc622afb7f16ea3eec78bc	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+fc3ba5ed282d77127efd0b0f2403531b	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+8dc8561349d144d4661bc66f2ec49f9f	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+09425f72de8bba18893dcd6f04115891	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+3a1af2b397c6958e6c3ba3c75912d60e	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+8d371f8a7a6dcc2655544ae13cbca03d	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+3744f975113dfc552df982dcae699f9154a448e05a743bdfb641a463352bc13a	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+b8b4b88205a8f594b95a841bc37342898f34cad8a5a9e4a22ce69a31a1208650	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+cb09ff86cabde4f8cee2d3cdec370c623bfa6c2b72ae9750fc9a7b299c65d7ca	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+ff3ab9ef841630364818396f62e696b72aed162cf0b895b6643ef25dad79b51d	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a
+ff664112d3215c5d184689fc836e0dc6c1a47e42c34e70b2c3d356864bc4cb4c	OTX	2026-09-24	family=MacSync | pulse='A new version of the MacSync macOS stealer targets crypto enthusiasts and developers' pulse_id=6ab5176a22ab1049d0969c4a

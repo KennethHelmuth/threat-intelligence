@@ -1,0 +1,36 @@
+title: Network Connection to Task#Stomp Infrastructure
+id: 3dee89c7-c896-4fe3-ba9d-b49f6bb2d692
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Task#Stomp.
+date: 2026-09-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - avisloader
+    - data exfiltration
+    - document theft
+    - filesystem monitoring
+    - malware.task#stomp
+    - persistent access
+    - powershell backdoor
+    - scheduled tasks
+    - task#stomp
+    - tls bypass
+    - vbscript
+    - velvetcake
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'corecloudfileshare.xyz'
+        - 'attachmentsharingdrive.xyz'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

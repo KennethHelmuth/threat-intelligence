@@ -1,0 +1,34 @@
+title: DNS Query to Task#Stomp Domains
+id: 4a0b8169-00c0-4a3d-a03b-4ebae5f433fb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Task#Stomp.
+date: 2026-09-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - avisloader
+    - data exfiltration
+    - document theft
+    - filesystem monitoring
+    - malware.task#stomp
+    - persistent access
+    - powershell backdoor
+    - scheduled tasks
+    - task#stomp
+    - tls bypass
+    - vbscript
+    - velvetcake
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'corecloudfileshare.xyz'
+        - 'attachmentsharingdrive.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

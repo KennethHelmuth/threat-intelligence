@@ -1,0 +1,36 @@
+title: Network Connection to Carbonato Infrastructure
+id: 22dcc7b8-34aa-4029-90c6-86a5001418aa
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Carbonato.
+date: 2026-09-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai framework
+    - botnet
+    - carbonato
+    - container security
+    - credential theft
+    - cryptocurrency
+    - docker
+    - exposed daemon
+    - hermes agent
+    - malware.carbonato
+    - telegram
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '213.136.79.115'
+        - '190.211.124.187'
+        - '91.99.195.164'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

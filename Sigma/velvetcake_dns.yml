@@ -1,0 +1,30 @@
+title: DNS Query to Velvetcake Domains
+id: 99b6d6a5-42c2-4a34-8692-d70b0cfb095b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Velvetcake.
+date: 2026-09-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - lnk files
+    - malware.velvetcake
+    - north korea
+    - operation conflict compass
+    - powershell
+    - scheduled tasks
+    - spear-phishing
+    - ukraine targeting
+    - velvetcake
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'p1o2i3u4y5t6r7e8w9q0.medianewsonline.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
