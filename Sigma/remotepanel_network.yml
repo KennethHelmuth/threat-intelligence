@@ -1,0 +1,37 @@
+title: Network Connection to Remotepanel Infrastructure
+id: 790e36e0-e738-492e-95cc-e034cf95cbc9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Remotepanel.
+date: 2026-09-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - app-bound encryption
+    - bnb smart chain
+    - boundsiphon
+    - browser hijacking
+    - clickfix
+    - credential theft
+    - cryptocurrency wallet
+    - hvnc
+    - malware.remotepanel
+    - persistence
+    - remotepanel
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'greatgrgreeng.com'
+        - 'leftsideegpeakk.com'
+        DestinationIp|contains:
+        - '193.233.75.7'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

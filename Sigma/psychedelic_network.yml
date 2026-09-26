@@ -1,0 +1,31 @@
+title: Network Connection to Psychedelic Infrastructure
+id: ec2127c1-6d74-464d-b8e9-35ce413da83b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Psychedelic.
+date: 2026-09-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clipboard
+    - fake captcha
+    - infostealer
+    - malware.psychedelic
+    - msi package
+    - psychedelic
+    - windows run
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '107.175.82.242'
+        - '193.178.159.128'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

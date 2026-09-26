@@ -1,0 +1,34 @@
+title: Network Connection to Elf.Drifter Infrastructure
+id: b7c9a0c7-0cec-454a-a586-e5e627823f56
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Drifter.
+date: 2026-09-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Android
+    - DDoS
+    - botnet
+    - dongfeng
+    - drifter
+    - malware.elf.drifter
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '104.165.244.81'
+        - '138.124.251.63'
+        - '171.22.130.121'
+        - '213.108.3.84'
+        - '45.133.73.56'
+        - '93.152.221.232'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

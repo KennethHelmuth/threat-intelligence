@@ -1,0 +1,33 @@
+title: Network Connection to Silentxmrminer Infrastructure
+id: 8ce41173-2888-41ff-9ce4-edc43b7848d1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Silentxmrminer.
+date: 2026-09-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - anydesk
+    - c3pool
+    - cryptominer
+    - cve-2024-7399
+    - cve-2025-4632
+    - malware.silentxmrminer
+    - monero
+    - on-endpoint compilation
+    - samsung magicinfo
+    - silentxmrminer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '194.87.89.30'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

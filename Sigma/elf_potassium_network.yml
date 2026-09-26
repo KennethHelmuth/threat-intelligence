@@ -1,0 +1,36 @@
+title: Network Connection to Elf.Potassium Infrastructure
+id: 96534910-02ce-4183-91fd-125ec4746a41
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Potassium.
+date: 2026-09-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - DDoS
+    - Mirai
+    - botnet
+    - malware.elf.potassium
+    - potassium
+    - woof
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '130.49.190.185'
+        - '212.192.14.31'
+        - '217.60.103.25'
+        - '45.95.233.131'
+        - '5.181.2.159'
+        - '89.185.82.37'
+        - '89.185.82.38'
+        - '89.185.82.39'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
