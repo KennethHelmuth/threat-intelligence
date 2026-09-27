@@ -15975,3 +15975,52 @@ a7e8c9e157d3ce37913a32aaa861b5248da4cc5288fa99a6b291524af5e3b9c6	OTX	2026-09-24	
 b7a5c52cedd9cd5425a7f85b8d3b4b869b805c70c7991375a2c4ab612ff7906d	OTX	2026-09-24	family=RemotePanel | pulse='RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft' pulse_id=6ab561541d94721ef4ce040e
 fec29bbd8e50b6635ef683f03f6e018c9627aa6362a2f167115424e50b8c1b10	OTX	2026-09-24	family=RemotePanel | pulse='RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft' pulse_id=6ab561541d94721ef4ce040e
 0d202e16408770e8b6cceb14e1e3e72946b154bf881d27fe33d0060315b30dd1	OTX	2026-09-24	family=SilentXMRMiner | pulse='The Not So Silent Miner: Threat Actor Compiles Cryptominer on the Endpoint' pulse_id=6ab561550075cd5f0b500b25
+fd560206e680213b10844e04af42c842ac0131ac41d645c417a7749b8c5ed96d	MalwareBazaar	2026-09-27	filetype=exe md5=77024b93ec1c38e8a9226d2f53d881a7 sha1=b97035b8b38b523815f7761e3791efae8cb06d4f | vt=33/75
+685cc1323f45a0c0153013c5bbfe774b869a6cb9cc9ea9388cb73e8bcdfbe811	MalwareBazaar	2026-09-27	filetype=exe md5=39dc9c06c0d6c39d673916dc39f70cdb sha1=fba51f3792e5ae02d81033efd2603b738a90d4ac | vt=1/75
+2dfac7088e35e9c281e5402989ea937114c9b6232bd25962a43c90bf8d74d35d	MalwareBazaar	2026-09-27	filetype=exe md5=edbb9852822971aa5d7483b230b95820 sha1=ea06e64e149ed775b747f291babf8228a7436a18 | vt=46/75
+4b9dbcbddde9eed3f77df929449c3b499356c91f0a94ea1ef0b8bd79411dab6b	MalwareBazaar	2026-09-27	filetype=exe md5=b044f6e32bda15e0a61a40afd0ff0c53 sha1=a8716f7f0948f4305f18271bede2123c1abd03ac | vt=38/75
+a8e9be14f25f61b1eea9ca9b4ed56df0420ada7fde57f6ea0f1bdad5c0362e94	MalwareBazaar	2026-09-27	filetype=exe md5=9c75e9c7b6c6f5f5a9955bdee0361d77 sha1=a1ed46df1877efc1a41d81c4532215733fe3db95 | vt=55/75
+594033ed58e27b42bb1bef7e5b21eac87f0d660c7cc3d48881a2e5575e3ac811	MalwareBazaar	2026-09-27	filetype=exe md5=d3cea61538aa5030e90a1d38cca762b4 sha1=dd39fafbdba994169991cea092c6428e1d3b1539 | vt=5/75
+7eb1e0f2ed37d00f7e6b4cfcf46a333ca90ed349de4ec0de4b6cbf93a338fa59	MalwareBazaar	2026-09-27	filetype=exe md5=ff04e81cb29ecdd27de4fceb0a1c1f4d sha1=e4c0efd9d3daeeeb66529f4ea80bd8a94651ed71 | vt=11/75
+b8b032626a9e36cb5b3b00c23495827094b0b6d48a61e6556a2734120e4048f8	MalwareBazaar	2026-09-27	filetype=exe md5=aab22f1648b0e486dcb0a0c725bf4397 sha1=9c512cc5ad72e6a37cd463c5434a6bdd27470010 | vt=33/75
+8f245d981061827ea694497d1c9045a3415104b25ce316d531706a1fd886726f	MalwareBazaar	2026-09-27	filetype=sh md5=2a398786864e25e7cc2d9c609aeeb6ed sha1=eba05eb82a691d657612b24b0237745886e897e7 | vt=16/75
+fd0cd32edfe9b4f68dcc2fddb8f27c6102e9a9c8b90c5def07ac8e62b2a75303	MalwareBazaar	2026-09-27	filetype=macho md5=b6000eb45cc980f5fba975a5ccc9f909 sha1=f168e0a230e81e30596848b5f3af47b5d130a9c5 | vt=28/75
+26a8dc2daa4faac90cb9726d627e79164cd7030afabc774034a507148ea2faae	MalwareBazaar	2026-09-27	filetype=exe md5=0fb7d367bc51267e6eab6d312a93953b sha1=fd338df0da134c13c94ff7cefd1a440ca13789ac | vt=25/75
+27f555028c1060f932dd1ae52e713383bfa80dc8c2ce66f5d5d09e68a52c871e	MalwareBazaar	2026-09-27	filetype=exe md5=aefbbdbfa763110ed3dc3548f2fc29f5 sha1=937c0ff36905961f1abab00fef7b8c5ad38cb356 | vt=7/75
+a91d954fa5a9a1f167625e7ac8314a481e32a9dbee4635533b52be21be4e508b	ThreatFox	2026-09-27	family=osx.amos | confidence=100% threat=payload
+0f808ec0e7d9fb413f44331ba5fc6a23ca282363f244062f0acaa418e55b2ec8	ThreatFox	2026-09-27	family=osx.amos | confidence=100% threat=payload
+9e221f45649bdd5d7fdd77949083b1d37ac34f8cf3cbf91b686edb1c6b2262f6	ThreatFox	2026-09-27	family=osx.amos | confidence=100% threat=payload
+4c487d86d904ec55002123163e8db6dfa93918a342036cf0d155ce9c2f662c7a	ThreatFox	2026-09-27	family=osx.amos | confidence=100% threat=payload
+cae8a07ea351d73ee3fb4d649d38eed3d752e1e122b9537e5bfb28b0f5aba3c5	ThreatFox	2026-09-27	family=osx.amos | confidence=100% threat=payload
+b30b4b58eb215b60a8526c506d689ffab91ed43124709bc20b4085edf9d5361b	ThreatFox	2026-09-27	family=osx.amos | confidence=100% threat=payload
+81bedb0639d5857c6d28b23b06cf87f812c1070d2c7c6ee8c985362a0ef2b873	ThreatFox	2026-09-27	family=osx.amos | confidence=100% threat=payload
+6910e0a987ca752e7fcd93bc66f45790fe0e0a04140d7055f7dcb7cd901ca6fb	ThreatFox	2026-09-27	family=win.coinminer | confidence=95% threat=payload
+c66d2b77b9e85c53391891212413ad9a99eb66f4b11c6a431e78884a5b2651e5	ThreatFox	2026-09-27	family=win.coinminer | confidence=95% threat=payload
+14b2ac356ed75d10ef40bbaaa48e7dd9fff7de9719c2a43ad123fe843dd4e4e2	ThreatFox	2026-09-27	family=unknown_loader | confidence=85% threat=payload
+5bdbda071156dd520cf27bfd7d7d2b95700a251215e18b35b2eceacb799b174f	ThreatFox	2026-09-27	family=osx.amos | confidence=100% threat=payload
+5e8b77073c07a0212fe33de5ade94058fd9e60211535841d739a2b39821c2594	ThreatFox	2026-09-27	family=win.vshell | confidence=95% threat=payload
+e0d6a02ee294d46c2b57a151797eb88fce1add4571a00a746837052059e41ffa	ThreatFox	2026-09-27	family=win.vshell | confidence=95% threat=payload
+b8c7390e314c6144b581550163252ebffd03543e33ea75707952ead239be98d4	ThreatFox	2026-09-27	family=win.vshell | confidence=95% threat=payload
+bffb15ba549446153f35ba84416c339c6c88bd3e5559f9967f083e74ee7811c3	ThreatFox	2026-09-27	family=win.coinminer | confidence=95% threat=payload
+8bbb2c7674001099bdb3a8abef6b6461ae9c82115cdb908efd76830ccb1290dd	ThreatFox	2026-09-27	family=elf.mirai | confidence=100% threat=payload
+e4725de41e756ff48aa7ea4c9673a7dc7fab51d8aeaafb190dac536ef8a71e27	ThreatFox	2026-09-27	family=win.vshell | confidence=95% threat=payload
+760802055ca9f84eb0b36ea10f5082498c4baef87a35dffdc05995b5b8010062	ThreatFox	2026-09-27	family=win.vshell | confidence=95% threat=payload
+1efcc4319789b84e8dbd79ac257a68121e53dcbf8628e13b7691e18a4e49ee74	ThreatFox	2026-09-27	family=win.vshell | confidence=95% threat=payload
+7c8337d5fdcc48d97fab53fbbb9c469baca1f48a333522c3efa1aefe837d31b6	ThreatFox	2026-09-27	family=osx.amos | confidence=100% threat=payload
+483412936ba57ea770142aea37b965079904b1cb4056749190ceb6211232f80a	ThreatFox	2026-09-27	family=win.vshell | confidence=95% threat=payload
+d38299b943c1817179a82bcde7bca8e613781c8fc00689c8abf29282b2c02309	ThreatFox	2026-09-27	family=unknown_loader | confidence=85% threat=payload
+7ff2375f3300ce58ae4f6058d98481b3004489b1d781403c2fe9b58d63283c6c	ThreatFox	2026-09-26	family=elf.bashlite | confidence=100% threat=payload
+6ef60d18d177615ce7d72f3a6f8cd23d5454ac7b1c7239a2079eb3c06e532f2d	ThreatFox	2026-09-26	family=unknown_loader | confidence=85% threat=payload
+5fad9ac5e4842002c39d3aeac43a5546c672b50e9bccc7ca3bc574966ee49068	ThreatFox	2026-09-26	family=win.vshell | confidence=95% threat=payload
+138d14853a542ecda52bd9331eb988e40fc574d9e61574dc0a4b63e74a78c3a2	ThreatFox	2026-09-26	family=unknown_loader | confidence=85% threat=payload
+4fcb285eecf75967839ad180e50d9c558d72a9a6be5af5765425a1dc37707668	ThreatFox	2026-09-26	family=osx.amos | confidence=100% threat=payload
+a82718ccac2e5cad78538d04a27eeb7cdd49146d9b48d425554d850386d6d87c	ThreatFox	2026-09-26	family=osx.amos | confidence=100% threat=payload
+95fc81417c4c134feba6333e9f378d542154a0b76f24fdd4236e5b76540bcc9d	MalwareBazaar	2026-09-27	family=Mirai | filetype=elf md5=61e4670fd89fdf33594da1061680b031 sha1=2fb5e18de8cc5b5a8cef34601de43c0a75c9b603
+1f59e345bfc016af575a2bddccbd69ca8217ac597c252f9aaad33b0adcb8a5c4	MalwareBazaar	2026-09-27	family=Mirai | filetype=elf md5=6ae16c8f9bb724f88b2c3d34832f8fc9 sha1=58cf4cf34d8c201c96ea1f51b63345733403eefe
+dc0d39646413ec457668ca29c0dee4f72ff0a545545c70245ecec9149fb86994	MalwareBazaar	2026-09-27	family=Mirai | filetype=elf md5=fa835b5447cdc973bbe9619640746b9d sha1=4e1132340b83252b6baaa39329204dca945284cf
+c286eafd9b5df65763f8ddde0fcb22e6486881baf1b61657dfa7a6534817853e	MalwareBazaar	2026-09-27	family=Mirai | filetype=elf md5=42f569b44584ec149af8bd133f169d26 sha1=745b1cb98b8937fa650a1277ba08446742e33376
+f8e3b4b81fe1eb109ff7c7e1f295f6472e355a1a05d487516d14e275ccb5b3e0	MalwareBazaar	2026-09-27	family=RemusStealer | filetype=exe md5=05c0a2940a7748bc4d53529ee543d7bb sha1=566540706287490791afbd499952136f031cd180
+fab9726534078808667e3e330bf24152919f74893067ec8cc40f21b0d025fbb8	MalwareBazaar	2026-09-27	family=DCRat | filetype=exe md5=2fb35c4ae7f69057974364351375bfb9 sha1=a06345f53795736da97151d45fee3cb402f61ec0
+f983f6b0b3e0891bebc3df2dcecce58df03233182d3f0356bd08c3f134de0981	MalwareBazaar	2026-09-27	family=AsyncRAT | filetype=exe md5=33a1ee920abf31eca7385ea3b36bd4e7 sha1=72c284574f21f7533d344f670089e08d8e345d41
+3d79b920eb11a9b112c895af242db940222c094a64cc8bf52f136740c00719f3	MalwareBazaar	2026-09-27	family=Mirai | filetype=elf md5=25a652d36f6a72f49cac9d61ffe09f2b sha1=d0200ca137539399c06614294c8328955563c303
+6ce6b616051d003c38f1df67a42c38c293393686042c560968615a7c321c2733	MalwareBazaar	2026-09-27	family=Mirai | filetype=elf md5=d170ada4d384de95836e3923f521edc0 sha1=2d44a6da4b7c5b278cbadc4cfbf6cb7e061a3881

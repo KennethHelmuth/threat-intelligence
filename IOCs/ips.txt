@@ -12715,3 +12715,6 @@
 193.178.159.128	OTX	2026-09-25	family=Psychedelic | pulse='The Psychedelic Stealer: When a CAPTCHA Becomes an Installer' pulse_id=6ab68af3aecfcfc39b2824d8
 193.233.75.7	OTX	2026-09-24	family=RemotePanel | pulse='RemotePanel and BoundSiphon: A Dual-Payload Toolkit for Persistent Access and Browser Theft' pulse_id=6ab561541d94721ef4ce040e
 194.87.89.30	OTX	2026-09-24	family=SilentXMRMiner | pulse='The Not So Silent Miner: Threat Actor Compiles Cryptominer on the Endpoint' pulse_id=6ab561550075cd5f0b500b25
+196.251.107.171:3000	ThreatFox	2026-09-27	family=osx.amos | confidence=100% threat=botnet_cc
+188.212.158.203:7707	ThreatFox	2026-09-27	family=win.asyncrat | confidence=75% threat=botnet_cc
+188.166.246.245:9034	ThreatFox	2026-09-26	family=elf.aisuru | confidence=100% threat=botnet_cc
