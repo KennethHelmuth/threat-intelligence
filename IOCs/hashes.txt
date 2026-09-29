@@ -16024,3 +16024,229 @@ fab9726534078808667e3e330bf24152919f74893067ec8cc40f21b0d025fbb8	MalwareBazaar	2
 f983f6b0b3e0891bebc3df2dcecce58df03233182d3f0356bd08c3f134de0981	MalwareBazaar	2026-09-27	family=AsyncRAT | filetype=exe md5=33a1ee920abf31eca7385ea3b36bd4e7 sha1=72c284574f21f7533d344f670089e08d8e345d41
 3d79b920eb11a9b112c895af242db940222c094a64cc8bf52f136740c00719f3	MalwareBazaar	2026-09-27	family=Mirai | filetype=elf md5=25a652d36f6a72f49cac9d61ffe09f2b sha1=d0200ca137539399c06614294c8328955563c303
 6ce6b616051d003c38f1df67a42c38c293393686042c560968615a7c321c2733	MalwareBazaar	2026-09-27	family=Mirai | filetype=elf md5=d170ada4d384de95836e3923f521edc0 sha1=2d44a6da4b7c5b278cbadc4cfbf6cb7e061a3881
+3283a6191ff876700e240f8f840c72aa56ebf0bc2d254974db7dd5287e658351	MalwareBazaar	2026-09-29	filetype=elf md5=bd5ec6a7ea65dc659b18c3390d957475 sha1=3ad792ab62ca5cef6e2210e681fe2813f5d6cae7
+2f68027a04d5941ea71e3cdf6b8ddd13ca2bd7fbd15edff7cd44020830da0cb7	MalwareBazaar	2026-09-29	filetype=exe md5=46289e98728a5f15c70ca2838d6adb07 sha1=fa88c18996d36020919592acd8fa3c9809e09c10 | vt=10/75
+71343c483f16201005ef1b489464032c12dd938b16d942da245aa20c5fbfa959	MalwareBazaar	2026-09-29	filetype=js md5=57379927557009d4d7f25c2ace0c03b0 sha1=1f6ef5fb7bf4269e41af6ee915d4ba59a57aff79 | vt=10/75
+7c425641751c58bbbf48a04f4a0ed810cdd219fc25fd3569a1e178ecf097414c	ThreatFox	2026-09-29	family=osx.amos | confidence=100% threat=payload
+4d939c9b69d4804e3e4fff78e70d20a0a62890bcb85c86a68e8978ba1ebd5f80	ThreatFox	2026-09-29	family=elf.mirai | confidence=95% threat=payload
+09ad448456ad23e125933e92fba62ca7e5738054ec96fed123d0891b4876c746	ThreatFox	2026-09-29	family=elf.mirai | confidence=100% threat=payload
+3cf3edeeeac605be90d682b402ca8f34841633b05b45be6be2c50d30e5563fb2	ThreatFox	2026-09-29	family=elf.mirai | confidence=100% threat=payload
+dde323b2041356e8fffc634a0d52af38efcf99596c28a4d7c308936d30e53976	ThreatFox	2026-09-29	family=win.vshell | confidence=95% threat=payload
+ab1ae861b41f856ad304e965385d44eb4286e385943b83dda6f47e419c63071c	ThreatFox	2026-09-29	family=win.vshell | confidence=95% threat=payload
+4f8cff206d67df933563f952b99e56171bbc5b024a5c99217ec7d1614e4f1748	ThreatFox	2026-09-29	family=osx.amos | confidence=100% threat=payload
+8727a17e67980f4db297653f1bbdcf3a788f6241259427163de792b8f1e291b8	ThreatFox	2026-09-29	family=elf.mirai | confidence=100% threat=payload
+51e0e80af7100b9a2b296aa3e171e247a65276b9d19228c837c3c20e3ccadb27	ThreatFox	2026-09-29	family=elf.mirai | confidence=100% threat=payload
+25d775826462960f3e9aac0a58c5317f69809f2a403c09a242bbec88e0792069	ThreatFox	2026-09-29	family=elf.mirai | confidence=100% threat=payload
+af41f25526d07a548b9039cbfa287acdf4014b04b37dd2e24e8ee11682477f91	ThreatFox	2026-09-29	family=win.vshell | confidence=95% threat=payload
+f2a48263238b50587405045a5d1cdb12eca324109beb4db4f3d77ddec8d4cafc	ThreatFox	2026-09-29	family=win.vshell | confidence=95% threat=payload
+14d3490432ecfdb93e93966c18f1d80b7f382b126fde376275ff4fab41f985b9	ThreatFox	2026-09-29	family=osx.amos | confidence=100% threat=payload
+6daf0a66bef3847abf05e59ced910d7b6f08b3caf1befe4998231f57795ac42c	ThreatFox	2026-09-29	family=elf.mirai | confidence=100% threat=payload
+b9767f9702ceadbbc4f562c81ab70ceb06e2baea838127a19d277cb7c8eef5ba	ThreatFox	2026-09-29	family=elf.mirai | confidence=95% threat=payload
+e2d46a6b819865112dd88b7ccbcc34379d2c5711acadd0c6720fcd91b4909096	ThreatFox	2026-09-29	family=elf.mirai | confidence=95% threat=payload
+ab69ef32017a5365ee0e7faca03e1352382865c5672e989d99d2d77ec91c33ef	ThreatFox	2026-09-29	family=elf.sshdoor | confidence=100% threat=payload
+11eb0b6716717420386a3a718b49600128fde8103735d9849a44340a67ee02fa	ThreatFox	2026-09-29	family=win.vshell | confidence=95% threat=payload
+7106c50fdeb5dde442714f1f9ea7aa547c31178ba073f02a15fc33987adb83e6	ThreatFox	2026-09-29	family=osx.amos | confidence=100% threat=payload
+3e16c3bc39182471cac0c89b9883bd102d23d4bb938eb648c7d88b8649e857a9	ThreatFox	2026-09-29	family=elf.tsunami | confidence=100% threat=payload
+f9191fbfcd25b4d0274e7831ae190d888c42be4e3794c4bb3dea7517b704fdee	ThreatFox	2026-09-29	family=elf.mirai | confidence=100% threat=payload
+b689280b4f803b16c44dfec32d1090db70bafb18e35555d118519b79a5b7db4a	ThreatFox	2026-09-29	family=elf.mirai | confidence=100% threat=payload
+9d6e9ab5e433481d57f3bedf30f50ae41a5ad266e206710999bdb64af7c82df3	ThreatFox	2026-09-29	family=elf.mirai | confidence=100% threat=payload
+1476885ceabb54b25f302d2fa363a87b3b11a4616328fa0844bb9e7a160d5946	ThreatFox	2026-09-29	family=elf.mirai | confidence=100% threat=payload
+8c91dc9f4aaea6e073773138bac235b9	ThreatFox	2026-09-29	family=win.valley_rat | confidence=95% threat=payload
+482b33402196894a4c14d95796d22196	ThreatFox	2026-09-29	family=win.valley_rat | confidence=95% threat=payload
+d650f07dcfe75553fc5215a2f4a4d70b62f6e06bbbae30cb972bd763213a20b8	ThreatFox	2026-09-29	family=win.valley_rat | confidence=95% threat=payload
+cc24db0d85f59a2968228d479f1a6001e5663e57e070510850b14e7d32b6ef13	ThreatFox	2026-09-29	family=win.valley_rat | confidence=95% threat=payload
+5a196edbe5db582574e59ceeeec49bdc	ThreatFox	2026-09-29	family=win.valley_rat | confidence=95% threat=payload
+fac1cceafaadf076674274b4d7ca951990770c00f572f227cb9cb6235653285f	ThreatFox	2026-09-29	family=win.valley_rat | confidence=95% threat=payload
+b1f1fe9eaa28a32efb48a7a70a40ff7e5fcf7e633081ee65713833e5f695ebd5	ThreatFox	2026-09-29	family=win.coinminer | confidence=95% threat=payload
+c04f0dc1cbefd3b345496edbd7cdfbc5	ThreatFox	2026-09-29	family=win.coinminer | confidence=95% threat=payload
+92d68cd1555c5a315c40115c5a8a5665	ThreatFox	2026-09-29	family=win.vshell | confidence=95% threat=payload
+f822e13e1412bc88cd86813a8ef1a633	ThreatFox	2026-09-29	family=win.vshell | confidence=95% threat=payload
+9fb21889c132ac78880f966496cc3e62	ThreatFox	2026-09-29	family=win.phorpiex | confidence=95% threat=payload
+09b94f3a07f29998b71f3ed7ead8ebdd754d4e918b4112248a19e69d9715f4de	ThreatFox	2026-09-29	family=win.phorpiex | confidence=95% threat=payload
+38bc5b9fc0ede4fef1e28e892edb5deb	ThreatFox	2026-09-29	family=win.phorpiex | confidence=95% threat=payload
+15eb799f44da58693e6c43fdbd894299e02308c9f6cae8f8e00b8fc8176fc754	ThreatFox	2026-09-29	family=win.phorpiex | confidence=95% threat=payload
+0decf104ecf4e26c41e4b852deafd3b1dcec928be7fc5508f072b889ab767179	ThreatFox	2026-09-29	family=win.phorpiex | confidence=95% threat=payload
+61ab126c877d224850b46fd7f0a61ce1	ThreatFox	2026-09-29	family=win.phorpiex | confidence=95% threat=payload
+d932537b9ac0c16f9294d7a4a007c196	ThreatFox	2026-09-29	family=win.phorpiex | confidence=95% threat=payload
+882cd8797f417c8898ee087d0ad158ac7b61ac41dd9cb82d0fd26cd55d7fe75e	ThreatFox	2026-09-29	family=win.coinminer | confidence=95% threat=payload
+d024d63c31d57b7c7b45d26705e7755f	ThreatFox	2026-09-29	family=win.coinminer | confidence=95% threat=payload
+b7b1ef1e1dfcbd63f757c68f372e529b	ThreatFox	2026-09-29	family=win.phorpiex | confidence=95% threat=payload
+c515019419a3ea506f0adec86ef45c9f8e786236324f96b8c7769b41f1948208	ThreatFox	2026-09-29	family=win.phorpiex | confidence=95% threat=payload
+d788aaf3d00ef5d0ded9d149c7d99376	ThreatFox	2026-09-29	family=win.phorpiex | confidence=95% threat=payload
+ce5102dbdb561d469ea91100b1fc7d8c800882df4d67a78d88fa9aeb7fd187bd	ThreatFox	2026-09-29	family=win.phorpiex | confidence=95% threat=payload
+a904d0f0a3ca37b2c734fcc01f532998	ThreatFox	2026-09-29	family=py.stealler | confidence=95% threat=payload
+8849b6f4a97c8e33640f85319cbff7446d7969225d37179ca91900b92cad33ad	ThreatFox	2026-09-29	family=win.phorpiex | confidence=95% threat=payload
+43dad61855f42e358c869051b408766f	ThreatFox	2026-09-29	family=win.vjw0rm | confidence=95% threat=payload
+64cda43078cffa6fdb57aa81bc0ca7283b131256067d8c0ccf1a45d7ba1fed64	ThreatFox	2026-09-29	family=py.stealler | confidence=95% threat=payload
+4c3ca75d24bbdef38e02d2673a0bd088	ThreatFox	2026-09-29	family=win.valley_rat | confidence=95% threat=payload
+fac9c7d186fa00ac7101e8f6201be0c4d97b0cd521f589a2034274e5f23e7898	ThreatFox	2026-09-29	family=win.vjw0rm | confidence=95% threat=payload
+633ad68daaf42d119ef95c7594d23773	ThreatFox	2026-09-29	family=win.valley_rat | confidence=95% threat=payload
+ecfce6af6567f51cfa08a0fe4470bae777eaf2591d103d16d2c01350df772f00	ThreatFox	2026-09-29	family=win.valley_rat | confidence=95% threat=payload
+ab2f3f0abf3e7ae2d95881965f8bc0e1a90e7447085648a04d9efee0399e974b	ThreatFox	2026-09-29	family=win.vidar | confidence=95% threat=payload
+5016268f5429e579f3a8160804ff4cc9	ThreatFox	2026-09-29	family=win.vidar | confidence=95% threat=payload
+d43c8476acb00d80f509248b65613957c2a4277c8cb443c4705e569f5753943b	ThreatFox	2026-09-29	family=win.valley_rat | confidence=95% threat=payload
+ba4b3e20ceddd9460c91925395e0e9c7	ThreatFox	2026-09-29	family=win.vidar | confidence=95% threat=payload
+fdcf294cb718b0b5699cd80d753bf65a2a81703d139808f1ed8e049b36bbfb6b	ThreatFox	2026-09-29	family=win.vidar | confidence=95% threat=payload
+cf770e81f65ae2b530e0b36e8b3b3c4d	ThreatFox	2026-09-29	family=win.vidar | confidence=95% threat=payload
+f5d8f373025ae2328ba5736e0ee13797	ThreatFox	2026-09-29	family=win.vidar | confidence=95% threat=payload
+313ca74c5a6fca97af609826c2d81450a7bb779477207115eb4bf6d3f616f469	ThreatFox	2026-09-29	family=win.vidar | confidence=95% threat=payload
+298be766951139e504fd0027199ad10d	ThreatFox	2026-09-29	family=win.valley_rat | confidence=95% threat=payload
+e3831b39dffdefe129c6be4e0e0131ea19cdeea6575a44a6ef0386f4d138e77e	ThreatFox	2026-09-29	family=win.vidar | confidence=95% threat=payload
+9ddd32f3e09c744d4be178ef3e7f4c1b4c1d500fe8f9a2f2a5e7f122bbbb8a1c	ThreatFox	2026-09-29	family=win.valley_rat | confidence=95% threat=payload
+7431ea32371d841a719fc66d60bdabb51e6e4f4579ee33f4b23b3c2c32263a9f	ThreatFox	2026-09-29	family=osx.amos | confidence=100% threat=payload
+0e91ef623cbdb543680d0a984894546b1e1698ae278418740fcf0c01dbd18fc2	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+51a1dfb301d5f2bde8a824ab3852677fdba245c43aa20b82ff71ac19c71fe2cb	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+e0a1adc708da1bb9718b698d137fe065ba54ad47da72f30eaf3839fa5ebee372	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+bfab96ba9cc070006e1cd2b793ff14b896ac468002284253eeb36a514b532205	ThreatFox	2026-09-28	family=elf.tsunami | confidence=100% threat=payload
+af3ef8ab9299f332e26daa23770cd35182fc4df18344121b3987f4ad7f9685da	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+7fa4151a68295e54afdc51df7041c4f1f852f74470c086f0ac4100439e75a331	ThreatFox	2026-09-28	family=osx.amos | confidence=100% threat=payload
+b154f29c4092ae9224fff3148c3fb854b6de0cb6f6a95ff6cc4ad821d19f58e3	ThreatFox	2026-09-28	family=osx.amos | confidence=100% threat=payload
+0bbece3dc42199a2cc3db4e7685e5e6078084203e51e9ef6df657038cf79b306	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+73bcca5b454619b329fd696ba5049fb404b38857702dd65e2f093851076fda38	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+9ea665fe5d5d4c705d31d81918bccdec8038257fa316aaa10a97995c0e4d2c99	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+0aa485506ebf9f1fb8c3931f0834875f1284776e86ef6d7d34e381df68f1d9dd	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+0116035ec7b3089b35231c75dc558547337e99bb99319c52241905a2c968f341	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+93d8b8ecae2f71494ff55c642236a8cf29b1bef976631ec64345b7dde0fede69	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+e759a73f9d73a6c2d72b537a31294fcbc78fcc36139ad7c97597aac8568f07ae	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+ce0865d3a8cebe945d01f5ef0f5614426f0053a0f55fa8419b4d7156190153d5	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+81962dbb7118f5b588f9e00f4e11e1842589d54857b861c8e8e9ef15e992a1cc	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+6ae5460d257132f6cae6c23589a9307f5135f4470fbcf8078bab594617573ccd	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+b9171b32851167861cd5001a2dbec5fa49a16b709fb77ae298917a1ccb74df95	ThreatFox	2026-09-28	family=osx.amos | confidence=100% threat=payload
+26d6edba64dc8656e603294b9696a02534306ade52758383b4d8acc1f8afed2c	ThreatFox	2026-09-28	family=osx.amos | confidence=100% threat=payload
+fd0e6eb71c4cd3349b08e529f4b323f1012b4643533ced1dd5de0ccdf9451245	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+2986b0fc809100749b800b34f75079daed9a12002d758aa6d499d31d774b799b	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+9829563285d1ff578beadf939ccfc52e3ea70a11cb64536255923a6cc2d563c5	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+ee6a1407df1393298e114b6af10062739ba8bb2bb476d2cf7e0c9bf5b66b5eec	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+4dbb279ab9b0cc6c0ccbd31bd62fc25d52bc18ffd32348ddba2448db3d71006a	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+96b31b3e0fd380d53208a92cd55522ff02674019168f1b3f6308f67d833b8a6d	ThreatFox	2026-09-28	family=unknown_loader | confidence=95% threat=payload
+f0fac0f22f107252ea48d5293e51b6760e091988bc5921974b3691f0eb81274f	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+96b4e296574eaae3f7224a54f9eaeeb51f799b1c083067d6f2f006e5cd466bd9	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+0f4145cfd74d684368fb0953c4b57f97255edc1fd636b44d16433eb8a0179128	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+d68c8f283edbae7b0f4765db4fcaa3d7e4af5154510bc3b6e3d39b40f1462139	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+5a5dc1350f5928adc4a254e700183bf98e7ee4167e09c2e3dda8a23296b0db96	ThreatFox	2026-09-28	family=osx.amos | confidence=100% threat=payload
+c40412860ce3a41c299db6f204975cd29c1c5266383194644a4df5d255ded9f6	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+aaaefce4ffe75496650ccc0c4719b3d334137e200fe426b2902eae0090ab8f97	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+f6a41e926a8692787e859da9080396d1859ae7507524255bdd6fb55805c7dd85	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+52b776209bece44b89e723c2405c0177a4978bb32598f7bf65359bee58d8f3ed	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+fe5a102bc43d8eb727f09fba6fb390917d8d5556732dfd1f24244262526731f2	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+bd7d0e58f98d2665d12bb321e4aab2f62d373a62f5018814ae5f7c202c04369d	ThreatFox	2026-09-28	family=osx.amos | confidence=100% threat=payload
+d85baeaad8d76d2352aa50b81ffb68b11ee7a40159cb09b88b56b5f8e3380e72	ThreatFox	2026-09-28	family=win.vshell | confidence=95% threat=payload
+5a73ac1265512d75eb2a65a941e062f680b3581c295ab13403d097f8cc3f40af	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+9680789e5b74e294572da7ae8030d1632a60010b3c9fcab7a4eff824725f6435	ThreatFox	2026-09-28	family=elf.bashlite | confidence=100% threat=payload
+f8a0d79ec16180b2b5faf5ebbf1e736b4574dafce3772f4797c9561d4d0e420c	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+ddd6990ff9bd1cae695b629368d3ec66c5be1bff43d5158696a841ee9eebc639	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+c59fed552577a011c5a298558420d0beb233128d4046abdc2fc324a6a7f02a93	ThreatFox	2026-09-28	family=osx.amos | confidence=100% threat=payload
+1262bf0a9a17b3c0d332f3e93589305c3f60d1942ec6f4ff633ccf872e80e2e3	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+c73afea96dedfb910531992b4dd8b735c6274c896bb604b6e3dfe3d502778e9b	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+8120fea65552acb805e7db469a6fba74dd87a4fd212c4b53fbb829bc26f174a9	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+00e531a66d4f0763b70298f3b5c6e76a91e5cc744dad375c71cacc201b3d5f1e	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+78c765978a0c2683eddafbbcc6e7896bf7172d63a936c602457034064016f3a5	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+440da933aecc21a57dba92324eaef042d47aa94f4a042b4523bd8a75c13864c3	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+3d3a39b3154dcfe594e5a30c223231ce84009ed4c0223e81ce0363d3f7b36bec	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+c844f9cddcda05bedc73a3ed1d3223bacc7c84061c90cc2a4cb9be4c8db5f97c	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+ac179894414f1083488f8a906af85017c747c5870ad089cd90b9fba8d72f157d	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+97457bc09a6635dbfd7797639d160bfc73a538e2b9c4dc2d084a88171ae5f27e	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+cbabb0e80c921e18f6121607ee77e8e9497ef4d036e428e237ce0c8d98fe0a14	ThreatFox	2026-09-28	family=win.vshell | confidence=95% threat=payload
+c8aa0e9d82b079b7df357099642ff942e8aaa014e5832242763f3e4a20263d88	ThreatFox	2026-09-28	family=elf.bashlite | confidence=100% threat=payload
+ee5fda0b22ae5dfb3ad28bbf63c32d9ffe7d976caf789797b2b401c7d634a7c3	ThreatFox	2026-09-28	family=elf.bashlite | confidence=100% threat=payload
+8eb8810bb8fbb0c647a38576e894f9f03f70ad9f5e0aafebbb3f8a0821e14641	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+fdf0a3a084b3ee58a9bafb561a9ef3ee33e343e47f15d00c76bd0834c951ec68	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+53a5cb07048841336d07d3e3158096f4a7105b97a9751709fead74ad31eb70f6	ThreatFox	2026-09-28	family=osx.amos | confidence=100% threat=payload
+584fc9114be2797f31b44f4ac5e84ac6f5231f70b9f725afe4f34b111dbbd4d1	ThreatFox	2026-09-28	family=osx.amos | confidence=100% threat=payload
+370d0a0d1baf43a2da13038c35730c6b67c7812d30e8c6d3c03b013814f858a9	ThreatFox	2026-09-28	family=osx.amos | confidence=100% threat=payload
+9f7b4717a2938d363706a362dca72b73eb690b30cbc6f2c1df5cc37e91bdfcac	ThreatFox	2026-09-28	family=win.vshell | confidence=95% threat=payload
+ec966edf8b2375773323260fae697417822c3636e74647dc8a8ecbc5cd420bc2	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+ca46b49f751a102d34b24776d1ff3a0c899446a28f36f672fa2dc374b571c19c	ThreatFox	2026-09-28	family=elf.mirai | confidence=100% threat=payload
+8c86700dd5e9c47a2aeaa835015db85b210b6ca4c5d7341179d48f33ef215477	ThreatFox	2026-09-28	family=elf.bashlite | confidence=100% threat=payload
+8df346d65a944a9fd336577680c2a1a3ca3026ce16e3978ed161f665c0e891fa	MalwareBazaar	2026-09-29	family=Mirai | filetype=elf md5=f6b4f1ac7a43870edbde6d0aaa87dedd sha1=b314670c7c0d35f0f9e437e8ec5d9ef83700fe8a
+7f2852397704b09e573495e88dd28f96955b5f44a65522969e541ff641ee1ea8	MalwareBazaar	2026-09-29	family=Mirai | filetype=elf md5=b62c08c7f07e56aded3b52cfa514582b sha1=389359f9a5d88dd954b4653b0ac9de142aaa7cd0
+e7c9daa4ac7475b08afebbec7d421fed98d822db91bf4fbb8ca4e4831b69137b	MalwareBazaar	2026-09-29	family=Mirai | filetype=elf md5=62d40c326cbe4b6306255be421050414 sha1=8613e247e156a037d234c158ef39a5c74869af0d
+13b77bda033ab3575d3ba5c33cf690188125dae4695bb0e824e0878bb53ada6e	MalwareBazaar	2026-09-29	family=Mirai | filetype=elf md5=6f08eca0af02aada1ef243cb7fc267f8 sha1=8c7ff7fe316eae107ad7c569cbf4b22f1fc35d76
+bf5d8a98294a9713a8e127078309ca613bbe0a4d21710149a10b4646ac6a910f	MalwareBazaar	2026-09-29	family=Mirai | filetype=elf md5=b4309857595d5df8c1b180740eb30e1c sha1=d7abe3ccfa4f3617a6bcdb6c2491e7dd82a34baf
+4a43f3b2d17fc03089cbb4b35024c94feed9554609c8761dcb0c03bf4b6040c7	MalwareBazaar	2026-09-29	family=Mirai | filetype=elf md5=f7df3004a49a2479f7ab4a42c5e703e5 sha1=673d4cb608775d5a93f1d2957d6021828ff2b599
+0a4be0b6c650ffdcd1c22db56f1c4aec	OTX	2026-09-28	family=Godzilla | pulse='Telerik UI Exploitation Leads to Webshell Install and Scanner Execution' pulse_id=6aba1398c736673eae22c865
+10f705728d228ad949b7894c1a85a2b1	OTX	2026-09-28	family=Godzilla | pulse='Telerik UI Exploitation Leads to Webshell Install and Scanner Execution' pulse_id=6aba1398c736673eae22c865
+177e34d9174766a1d187a0c82de4c02f	OTX	2026-09-28	family=Godzilla | pulse='Telerik UI Exploitation Leads to Webshell Install and Scanner Execution' pulse_id=6aba1398c736673eae22c865
+18fb4e070653fc9791e0e408d8cb1c8e	OTX	2026-09-28	family=Godzilla | pulse='Telerik UI Exploitation Leads to Webshell Install and Scanner Execution' pulse_id=6aba1398c736673eae22c865
+1dbfda02d74b6a7586c4430175204c28	OTX	2026-09-28	family=Godzilla | pulse='Telerik UI Exploitation Leads to Webshell Install and Scanner Execution' pulse_id=6aba1398c736673eae22c865
+972f86b4b06af1033063a2c3f114c56b400a917f	OTX	2026-09-28	family=Godzilla | pulse='Telerik UI Exploitation Leads to Webshell Install and Scanner Execution' pulse_id=6aba1398c736673eae22c865
+e23046d6f69b3732c2b92b437503470eec287a1e	OTX	2026-09-28	family=Godzilla | pulse='Telerik UI Exploitation Leads to Webshell Install and Scanner Execution' pulse_id=6aba1398c736673eae22c865
+fe619d4c633f9a1e35209b27d8ceb51b867b6a9e	OTX	2026-09-28	family=Godzilla | pulse='Telerik UI Exploitation Leads to Webshell Install and Scanner Execution' pulse_id=6aba1398c736673eae22c865
+944062c5c1bfcb1124475212127d4e45fe4b86e32f0c90f56841f8cd2e166ee7	OTX	2026-09-28	family=Godzilla | pulse='Telerik UI Exploitation Leads to Webshell Install and Scanner Execution' pulse_id=6aba1398c736673eae22c865
+ee3bd4920e01fdee051e32aa25f180bf0c34f5779bdfc8756958aa5e2867704b	OTX	2026-09-28	family=Godzilla | pulse='Telerik UI Exploitation Leads to Webshell Install and Scanner Execution' pulse_id=6aba1398c736673eae22c865
+ef30642c62856ccfd1dbac5ba97259e8d0a4ac61cb4c0efbaa563dc5164bb898	OTX	2026-09-28	family=Godzilla | pulse='Telerik UI Exploitation Leads to Webshell Install and Scanner Execution' pulse_id=6aba1398c736673eae22c865
+ec4219a7ecf132c29080fbb20e4ab410c57faa85aeed7acade1eb15d905a6ee0	OTX	2026-09-26	family=Kothamine Agent | pulse='Kothamine malware uses Tailscale's tailcat to evade network detection' pulse_id=6ab7c5997e2556d7c00c86e6
+74eca3973ad72a6ddc9397aff8250d9ee287211fc9a055d5ee290d01cf76a70c	OTX	2026-09-26	family=Kothamine Agent | pulse='Kothamine malware uses Tailscale's tailcat to evade network detection' pulse_id=6ab7c5997e2556d7c00c86e6
+d566ccdd099b0decb7e7288c20097f34da2613e3ffe8c5acbc1a1d01b6fe217c	OTX	2026-09-28	family=AdaptixC2 | pulse='Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline' pulse_id=6aba46a30e26418fb09c6000
+c40c1d4bb0e01f217c893f3dbc6b40802a260ef423f628889a48f996a4c96ed8	OTX	2026-09-28	family=AdaptixC2 | pulse='Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline' pulse_id=6aba46a30e26418fb09c6000
+2553146aea0b133d565684a8bdfb14cb91526eb88b4e5b22b129b1212f763dd7	OTX	2026-09-28	family=AdaptixC2 | pulse='Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline' pulse_id=6aba46a30e26418fb09c6000
+54caa256483876debd21c264bfc31bd96f925b2167f6d9358ab7ee0c87e6e37b	OTX	2026-09-28	family=AdaptixC2 | pulse='Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline' pulse_id=6aba46a30e26418fb09c6000
+0c36cf593cf177b87f34abb19b5d65619199a4aca9c8e19e39318ad2c4033385	OTX	2026-09-28	family=AdaptixC2 | pulse='Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline' pulse_id=6aba46a30e26418fb09c6000
+fd72014903466f2abcabb724df58682e629bf300703a06dad4dd0551018a42b5	OTX	2026-09-28	family=AdaptixC2 | pulse='Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline' pulse_id=6aba46a30e26418fb09c6000
+39aab72976d63f0218c3470c05afce5a896d28f860efaa598288d9409499b26b	OTX	2026-09-28	family=AdaptixC2 | pulse='Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline' pulse_id=6aba46a30e26418fb09c6000
+9a839b1e4c8cc5c0ebac1849973f136e68aae8eba357296be9e6cef9aff35ae6	OTX	2026-09-28	family=AdaptixC2 | pulse='Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline' pulse_id=6aba46a30e26418fb09c6000
+88527b06d836200a36130ee219242e4a8342520df85cb3886769da646dac25c9	OTX	2026-09-28	family=AdaptixC2 | pulse='Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline' pulse_id=6aba46a30e26418fb09c6000
+2ced60c88f5a2b36acb977ebf120e39b527dcff07b5072013350ebeefcabe760	OTX	2026-09-28	family=AdaptixC2 | pulse='Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline' pulse_id=6aba46a30e26418fb09c6000
+6394cb167a33772fc47596e22cd2a51f3dfa9867385d962cb700b78f021c60ca	OTX	2026-09-28	family=AdaptixC2 | pulse='Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline' pulse_id=6aba46a30e26418fb09c6000
+0b6bb51ef917c32edf75ff65a510b6a136575cfd2075305f7abe7d98e351b8b8	OTX	2026-09-28	family=AdaptixC2 | pulse='Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline' pulse_id=6aba46a30e26418fb09c6000
+eda93a71e656874077aa76d32d5147ea904ef60504b6b1b22b609969c06fb40b	OTX	2026-09-28	family=AdaptixC2 | pulse='Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline' pulse_id=6aba46a30e26418fb09c6000
+f9b147a2bf6cc53ed4e3c3d4d33efa072c19495ff86fa320a280097d66cb2d92	OTX	2026-09-28	family=AdaptixC2 | pulse='Operation Master: Deconstructing a Multi-Tiered Intrusion and Monetization Pipeline' pulse_id=6aba46a30e26418fb09c6000
+82699276b0f59a2304120a6baaf64a6b	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+5ab36c116767eaae53a466fbc2dae7cfd608ed77721f65e83312037fbd57c946	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+87903559afa09a0dfe251598c14e58124bddde1d	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+1fdea279cb8c9217487ac4c86ae9316c	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+2e05d97ed7bfabea8f7370ba627e0705ec2c0fbf3974b39437e9d95d45d1a76d	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+719f689b34f47be8ca105ce8484948474dafde0e106bab599e4a89326070c3d0	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+05e27e1a0ed75c32e896c5d0261bb077	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+6624eb2d2637338c82b5325141f1f75179a74660	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+af4ee79582992e348a8739579da478d50daccbaa6ec97420311916a2ac0fc503	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+e55412555b4699c6d3ce2ac60df81eb1ee0d5aa412a303555c8f64037d5633d0	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+c1a2b48d4f639b46cf6cde8322666f0991531ef32ffe571140418ae40342ffe8	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+8cd271f946d84423c554992eb0176be395cdd7bf6179efe1822759d019c94f34	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+eb20fb4e1de2844717270e600af05abac06b359be711eabf14a3d91bfbf966e6	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+ad0c3182b18b5d7ba8771d830f4d51b4ada7e26f8d05223f4379e6312aba65fa	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+9e54486f204d8c9ff9c539c5b2119b79a6da21e3dfdb7f51ee8ebba62f851174	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+1b5cf526a28bae9283acf91b2c0ccae3163d24706e40d9a0aea38c4b79e65d36	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+567fc6e35bb45a6ecf5d870e454c813613032078a5ba01fcd374544930598703	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+aee2aefbc73dbf5f65e455ef18e74e158290e21803bf3dd64a05d087bfaceb18	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+afd31f096c93776888454e1321654477cfd97eb0c6a75bea624d8f7d891e0a61	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+5331793d7c89907eeff77081d021d10d	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+6d90494c1119bb8cc67a85a9ac9aeaca	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+79435213ab241b13a9d8da354c088868	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+e951e6e4ef4a2696c69306693abd4a0e	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+1f655ff488320c589cb50f8ffe2701f7208999fe	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+6232326f3da33c340c57e7370e038085d5f86d88	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+f58f4bc7e421bb2e1117c22a8acf120de388d442	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+1be5cfb6b0e2ed8cf2c63365213f8a58f1a75e93899e7018acfa6b3484e8baa0	OTX	2026-09-25	family=PureRAT | pulse='PureRAT and PureLogs Campaign Targeting Japanese Organizations' pulse_id=6ab69627dd56b82f3b52796d
+2bee941fb40519d0d1ec52bd79a8f63fc65aac6455c8f2d6b668e3360dfdb5d7	OTX	2026-09-26	family=SIDEEYE | pulse='ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft' pulse_id=6ab77878ad1bbe2993309a09
+3ba215692665513abfffd4e815c5c45f2d41e5dcc4283a2a3b740930c5c417c3	OTX	2026-09-26	family=SIDEEYE | pulse='ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft' pulse_id=6ab77878ad1bbe2993309a09
+419c571ee38b7e7266d130c4b6bbc4dd0ef44d6e5f3bc02cc2cf73b762f07c86	OTX	2026-09-26	family=SIDEEYE | pulse='ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft' pulse_id=6ab77878ad1bbe2993309a09
+48b4a0827da7bbfce9fb52464f8a659dea7a035189c52c506c0bfb4b1c3fe494	OTX	2026-09-26	family=SIDEEYE | pulse='ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft' pulse_id=6ab77878ad1bbe2993309a09
+ba14419beb2ec0bb94cab6298c14d7fb3e1d819366fe378290c0c2a4d97f7e07	OTX	2026-09-26	family=SIDEEYE | pulse='ShinyHunters Renewed Mass Exploitation Campaign Targeting Oracle PeopleSoft' pulse_id=6ab77878ad1bbe2993309a09
+3f4c9025125027e307b7e52dd577303b	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+41ff3ecd1458b0bf86e1b4891636213e	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+f329ae0fdf1e198bea6ba787e59cb73f90714002	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+b96d75a000367c200958089728fc5cb8	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+6e8b49cf70bf854e8c59c7d27cefa89406caf8978461190dabb86dafcd8554e1	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+e9745f1791b2a6374711756e89c7bf2864e52f9ff467974f2f7bdc667f9f28c6	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+1f250eb486571d99bc1e4d760e37a554	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+348cabe85c8bb40e690ab873ab94acac	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+535091e6cab13af393b51ead0825f627	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+a7826642a2dc7d5e4999bb0545b05aa9	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+ae5450f32bcb533c5b592c77a7861553	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+af8b04f22bc682342b3ab4511a424f14	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+b9251db3aa9511157cba432c0b5402fc	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+d43aca60c882730797a1f7a1bf7d9d67	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+fb6a0786084615e4aa476e962761c620	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+661a1a28950cec3f2c3d0e72ab2a05d4a173cf9a	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+85e01bdb2aee0217932e108535691c898b138a80	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+94a102fb67c4d65a83c64e9d57a79fae7ad63d92	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+ae5292a44abb8faefa9d26a1ca9dd23e69c0d272	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+94bb7481aff840736fe6396fa270aa68ad24bc76e38a1e9fe899ce4356ccfa1e	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+bf14cd6c3328ebd08e940478b5d1da04e9e5aa576d045d41950bf4f1e2456dd8	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+c9daf8dbafc5e1f63e4af742a14a8a6669365e106ab0247ab366621bbc1f6967	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+e748f336d85ea5f9dcdf25d8f347a65b4cdf667600f02df6724a2af18a212d26	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+fc23abdcf93928e1db8401a7ff53c86c85230a8637c4168f7434208f9e8b5ded	OTX	2026-09-26	family=LunexStealer | pulse='Lunex Unmasked: A New Information Stealer Deployed Through BYOVD' pulse_id=6ab83188fddeab6ca23aeafc
+429ed63ab3fbda8d22d0ac750ecfe8cc	OTX	2026-09-28	family=browser-data-extraction | pulse='The Stealer Factory: Unpacking a Python-Based MaaS Infostealer Builder' pulse_id=6aba46a2a513094d63bf1bd1
+610f0c65a3f8e88559f89ed90ea9ee5c	OTX	2026-09-28	family=browser-data-extraction | pulse='The Stealer Factory: Unpacking a Python-Based MaaS Infostealer Builder' pulse_id=6aba46a2a513094d63bf1bd1
+9ffe0e45c7a3f20e4481206c1c3b0854	OTX	2026-09-28	family=browser-data-extraction | pulse='The Stealer Factory: Unpacking a Python-Based MaaS Infostealer Builder' pulse_id=6aba46a2a513094d63bf1bd1

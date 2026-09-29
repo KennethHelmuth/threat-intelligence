@@ -1,0 +1,59 @@
+title: DNS Query to Purerat Domains
+id: e15ec5db-3e1a-4752-8d11-6a10974c0142
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Purerat.
+date: 2026-09-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - byovd
+    - donut loader
+    - japanese organizations
+    - malware.purerat
+    - phishing campaign
+    - process hollowing
+    - purelogs
+    - purerat
+    - stealer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'baoquocgiavn.com'
+        - 'bayareakajabe.com'
+        - 'bartonaussies.com'
+        - 'tirakian.com'
+        - 'shareddocumentdrivehub.com'
+        - 'sharedocumentsystem.com'
+        - 'drive.careernetwork.co.nz'
+        - 'logs.uvexio.com'
+        - 'tea.vexexo.com'
+        - 'customerreviewproduct.com'
+        - 'customersrespondedpositively.com'
+        - 'trump2.1368.lol'
+        - 'cloudflare.carriernetworks.top'
+        - 'pure26.myftp.org'
+        - 'globaldocumentsharingcenter.com'
+        - 'documentcloudlink.com'
+        - 'azuravenue.com'
+        - 'babiesolutions.com'
+        - 'bagsdar.com'
+        - 'banksgreenanimals.com'
+        - 'baoholaodongbaoanh.com'
+        - 'baqtalanaqh.com'
+        - 'api0709.azuravenue.com'
+        - 'api0714.babilkuruyemis.com'
+        - 'api0727.banvanchuyen.com'
+        - 'api0728.baoholaodongbaoanh.com'
+        - 'api0728.baptizedinchrist.com'
+        - 'api0728.baqtalanaqh.com'
+        - 'api0730.bartonaussies.com'
+        - 'api0731.bayraqaleud.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

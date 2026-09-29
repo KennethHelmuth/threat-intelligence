@@ -1,0 +1,40 @@
+title: Network Connection to Ai Agents Infrastructure
+id: 2260e2b7-33ef-4766-af5f-c0fb74a4d909
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Ai Agents.
+date: 2026-09-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - affiliate fraud
+    - ai agents
+    - clickfix
+    - cloaking
+    - github
+    - investment fraud
+    - malvertising
+    - malware.ai_agents
+    - placeholder domains
+    - scareware
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'fastdltrk.com'
+        - 'your-app.com'
+        - 'prosecutoralliance.com'
+        - 'europaeinblick.click'
+        - 'fedexsupportverification.com'
+        - 'financeprotips.site'
+        - 'lnterac-transfer-login.com'
+        - 'scotiabank-secure.info'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

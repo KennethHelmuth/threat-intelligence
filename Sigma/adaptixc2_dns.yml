@@ -1,0 +1,40 @@
+title: DNS Query to Adaptixc2 Domains
+id: 3113bfbf-c1a9-4d96-a1f7-0fad497ca27f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Adaptixc2.
+date: 2026-09-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adaptixc2
+    - cve-2020-1938
+    - cve-2021-36260
+    - cve-2021-4034
+    - cve-2022-28368
+    - cve-2022-40684
+    - cve-2023-7028
+    - cve-2024-1086
+    - cve-2026-0257
+    - dns tunneling
+    - energy sector targeting
+    - globalprotect exploitation
+    - invoice fraud platform
+    - malware.adaptixc2
+    - multi-tenant phishing
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'nuvfaturas.com'
+        - 'wattiofaturas.com'
+        - 'igreenfaturas.com'
+        - 'qrcode.a55scd.com.br'
+        - 'nuvenergia.com.br'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

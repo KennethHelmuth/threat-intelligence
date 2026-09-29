@@ -1,0 +1,38 @@
+title: DNS Query to Ai Agents Domains
+id: 5acdc70f-17ed-4069-b55e-ceae5d0bf9fd
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Ai Agents.
+date: 2026-09-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - affiliate fraud
+    - ai agents
+    - clickfix
+    - cloaking
+    - github
+    - investment fraud
+    - malvertising
+    - malware.ai_agents
+    - placeholder domains
+    - scareware
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'fastdltrk.com'
+        - 'your-app.com'
+        - 'prosecutoralliance.com'
+        - 'europaeinblick.click'
+        - 'fedexsupportverification.com'
+        - 'financeprotips.site'
+        - 'lnterac-transfer-login.com'
+        - 'scotiabank-secure.info'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

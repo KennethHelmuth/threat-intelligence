@@ -1,0 +1,36 @@
+title: Network Connection to Godzilla Infrastructure
+id: 5fe8625c-8ee8-434f-86f5-5c443b586c0b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Godzilla.
+date: 2026-09-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cve-2019-18935
+    - godzilla
+    - iis server
+    - malware.godzilla
+    - privilege escalation
+    - reverse shell
+    - sweetpotato
+    - telerik ui
+    - web shell
+    - wordpress scanner
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '45.138.16.187'
+        - '206.82.6.22'
+        - '2.59.133.147'
+        - '65.98.5.158'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

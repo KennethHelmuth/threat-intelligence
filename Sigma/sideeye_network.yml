@@ -1,0 +1,40 @@
+title: Network Connection to Sideeye Infrastructure
+id: 8d3e161d-83ac-41e2-8322-a090b39a2cbc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Sideeye.
+date: 2026-09-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cve-2026-35273
+    - data extortion
+    - malware.sideeye
+    - meshagent
+    - neo-regeorg
+    - oracle peoplesoft
+    - shinyhunters
+    - sideeye
+    - sideeye backdoor
+    - unc6240
+    - waf bypass
+    - web shells
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'microsoft-entra.net'
+        - 'winmanage-me.network'
+        - 'enroll.azuredevice.cloud'
+        DestinationIp|contains:
+        - '104.219.234.138'
+        - '162.219.30.165'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

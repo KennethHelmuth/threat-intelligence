@@ -1,0 +1,43 @@
+title: DNS Query to Lunexstealer Domains
+id: 356c1c4a-8f3f-4c43-862d-2ff2191075ce
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Lunexstealer.
+date: 2026-09-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser-hijacking
+    - byovd
+    - credential-theft
+    - cryptocurrency-wallet
+    - cve-2023-20598
+    - information-stealer
+    - kernel-driver-abuse
+    - lunex
+    - lunexloader
+    - lunexstealer
+    - malware.lunexstealer
+    - native-messaging-host
+    - pdfwkrnl
+    - ukrainian-targeting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'teamwork-recover-password.com'
+        - 'whatsappbusineses.com'
+        - 'account-sams-club.com'
+        - 'namshi-uae.com'
+        - 'ibraq-perfumes.com'
+        - 'uasputnik.com'
+        - 'api-goo-drivehosting.com'
+        - 'applicability.security'
+        - 'blueteam.cool'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

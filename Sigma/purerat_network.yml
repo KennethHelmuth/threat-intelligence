@@ -1,0 +1,71 @@
+title: Network Connection to Purerat Infrastructure
+id: db6fba0c-2a09-49cb-b082-7560b2802bd5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Purerat.
+date: 2026-09-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - byovd
+    - donut loader
+    - japanese organizations
+    - malware.purerat
+    - phishing campaign
+    - process hollowing
+    - purelogs
+    - purerat
+    - stealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'baoquocgiavn.com'
+        - 'bayareakajabe.com'
+        - 'bartonaussies.com'
+        - 'tirakian.com'
+        - 'shareddocumentdrivehub.com'
+        - 'sharedocumentsystem.com'
+        - 'drive.careernetwork.co.nz'
+        - 'logs.uvexio.com'
+        - 'tea.vexexo.com'
+        - 'customerreviewproduct.com'
+        - 'customersrespondedpositively.com'
+        - 'trump2.1368.lol'
+        - 'cloudflare.carriernetworks.top'
+        - 'pure26.myftp.org'
+        - 'globaldocumentsharingcenter.com'
+        - 'documentcloudlink.com'
+        - 'azuravenue.com'
+        - 'babiesolutions.com'
+        - 'bagsdar.com'
+        - 'banksgreenanimals.com'
+        - 'baoholaodongbaoanh.com'
+        - 'baqtalanaqh.com'
+        - 'api0709.azuravenue.com'
+        - 'api0714.babilkuruyemis.com'
+        - 'api0727.banvanchuyen.com'
+        - 'api0728.baoholaodongbaoanh.com'
+        - 'api0728.baptizedinchrist.com'
+        - 'api0728.baqtalanaqh.com'
+        - 'api0730.bartonaussies.com'
+        - 'api0731.bayraqaleud.com'
+        DestinationIp|contains:
+        - '103.153.74.201'
+        - '103.179.188.236'
+        - '103.82.26.183'
+        - '103.179.189.169'
+        - '103.82.20.17'
+        - '103.179.188.216'
+        - '103.179.188.9'
+        - '103.82.20.60'
+        - '103.153.75.131'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
