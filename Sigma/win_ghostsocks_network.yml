@@ -1,0 +1,28 @@
+title: Network Connection to Win.Ghostsocks Infrastructure
+id: 060a6256-cf09-443f-9a59-b422361f3f9f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Ghostsocks.
+date: 2026-09-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.win.ghostsocks
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '144.31.123.157'
+        - '144.31.139.201'
+        - '144.31.139.203'
+        - '193.23.211.29'
+        - '64.188.104.2'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
