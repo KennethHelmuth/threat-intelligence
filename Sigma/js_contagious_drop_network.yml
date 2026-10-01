@@ -1,0 +1,30 @@
+title: Network Connection to Js.Contagious Drop Infrastructure
+id: 054d35b4-487e-482e-8f0e-330159da48df
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Js.Contagious Drop.
+date: 2026-10-01
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - BSC
+    - ContagiousInterview
+    - NodeJS
+    - TRON
+    - XCTDH
+    - git-hook
+    - malware.js.contagious_drop
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '84.200.33.163'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

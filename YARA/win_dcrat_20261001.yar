@@ -1,0 +1,20 @@
+rule win_dcrat_20261001
+{
+    meta:
+        description = "Auto-generated stub for win.dcrat based on 1 hashes"
+        author      = "ti-pipeline (auto-generated)"
+        date        = "2026-10-01"
+        version     = "1.0"
+        source      = "ThreatFox"
+        family      = "win.dcrat"
+        hash_count  = "1"
+
+    strings:
+        // Hashes (SHA-256) – reference only; add byte-strings/imphash conditions below
+        // ea0d96ded7147d7a617dbcd7dde4484c7e5142e505cbc25cd2ab5bacb6ce2f9e
+
+    condition:
+        // TODO: replace with byte-level strings, pe.imphash(), or hash.sha256() checks
+        // Example: pe.imphash() == "aabbccdd..."
+        false  // stub – analyst must complete this rule
+}
