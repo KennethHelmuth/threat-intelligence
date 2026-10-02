@@ -1,0 +1,33 @@
+title: Network Connection to Command Injection Infrastructure
+id: 32647827-63c4-4fa1-962f-8984732a8c7b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Command Injection.
+date: 2026-10-02
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - citrix netscaler
+    - citrixbleed
+    - command injection
+    - cve-2025-5777
+    - cve-2026-88771
+    - malware.command_injection
+    - pre-disclosure attack
+    - rce
+    - webshell
+    - zero-day exploitation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '149.104.78.141'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

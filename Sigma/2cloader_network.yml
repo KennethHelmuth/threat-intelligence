@@ -1,0 +1,34 @@
+title: Network Connection to 2Cloader Infrastructure
+id: d18610f7-7caf-4071-b7e4-6c9395b58969
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with 2Cloader.
+date: 2026-10-02
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 2cloader
+    - anti-analysis
+    - evasion techniques
+    - indirect syscalls
+    - information stealer
+    - loader
+    - malware.2cloader
+    - payload encryption
+    - remus
+    - vidar
+    - xworm
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '62.60.226.185'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

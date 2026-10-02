@@ -1,0 +1,39 @@
+title: Network Connection to Main.Py Infrastructure
+id: c2ddee5c-a794-4d45-b850-142ac838a767
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Main.Py.
+date: 2026-10-02
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - citrix netscaler
+    - command-injection
+    - configuration-exfiltration
+    - credential-creation
+    - cve-2026-88771
+    - main.py
+    - malware.main.py
+    - pre-authentication
+    - reverse-shell
+    - update_c08937.pl
+    - web-shell
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '45.141.21.130'
+        - '173.40.135.209'
+        - '47.230.224.154'
+        - '62.133.62.80'
+        - '70.172.58.168'
+        - '31.56.197.72'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -16524,3 +16524,118 @@ db11b9baed28a20871bf74a1126b1f202d974da51f865b2a6e3eccb1b0f9e4b6	MalwareBazaar	2
 5adc928c90571c9c956ed1b869b3acb87133ee1a1e63e61aa8324f7c1cc037f8	MalwareBazaar	2026-10-01	family=ConnectWise | filetype=exe md5=c0366ba53452891f711bc11b8c3e0186 sha1=51e89f10827bcc2159a2555f2cb7d9f4644d1a52
 786169a79bb505773566b041070dee3bb1c6ea67385acfc63ecf989ce701c87a	MalwareBazaar	2026-10-01	family=Formbook | filetype=exe md5=1dffdcc1f6a5cf3e7dfe90493cacf741 sha1=b6c1e9f485ef7a3a2caea2f4f94f7b6db1af6d8a
 7b254af99efa15b124d9133e32d22244c57076c9bcfdfb01b155d369e0d47aa1	MalwareBazaar	2026-10-01	family=GCleaner | filetype=exe md5=c08f622f58f7afd2dc94a5c6822bb172 sha1=07c1a6c1f14bec44a73dd614815da7032b9ea77f
+c80debfcc13b6b9dc675b48154f331cfa9aba5af149d3899a9f23a1e09cdc64a	MalwareBazaar	2026-10-02	filetype=zip md5=f7440cf3223d8aed1cea5c179d0c1574 sha1=520c344d36f7cf67f45c5f1449de15d333601e31 | vt=20/73
+bfad966f4b09e89b20d72d2fa16d2bc0a305297621d2eb88f4d8768d7ed92633	MalwareBazaar	2026-10-02	filetype=sh md5=19786b7d81f8733ee430c1654b401622 sha1=5f99e974e58b4f53771b28f75c256ae7279919da | vt=0/75
+c69576b1daa1246563e2391f84ad603c6fba454adc363146712a2e77f7b09510	MalwareBazaar	2026-10-02	filetype=sh md5=9b1e905016222d7707b1945b34b3f789 sha1=af4c767de5325d0af577c18f77be9e77ecba8092 | vt=0/75
+6ce6b4ebd1a25b971fcc9e1b8ef8ff00d2aed3b5117b3799bd1943c4400f9fbd	MalwareBazaar	2026-10-02	filetype=sh md5=04a17846ab2e9305ad06095dc9586540 sha1=7f5ce872fc798b1c46ce72125f40c75d60297c21 | vt=1/75
+223edab12979b91a01a53519fbfb52a97f772ac50ae6cc34bfde7a784306da30	MalwareBazaar	2026-10-02	filetype=sh md5=0f1d7acc69b20961376e401ec224d7d5 sha1=1050cc0d60d121a17bbf56a3cead8450ceeb0090 | vt=0/75
+7f0c6678d94bed94ddd2369bb5d59ead44fb2777dbb1ca27d86143f3cf73e1b8	MalwareBazaar	2026-10-02	filetype=sh md5=073cef07cce6c05352b4ff4ab66dfd40 sha1=aaa21ed14f41c2fc9981c92f7e32cf6d2dca92cb | vt=1/75
+f878eccf4b300f8085ceb866a2f71aed10428109e2cb89079a685699c6ef0941	MalwareBazaar	2026-10-02	filetype=sh md5=9ac325d6bc66ee68d2bf5804462a339b sha1=91879d05b5d15dfb81c7dfb2a5d5dc8cb3aaf7f0 | vt=8/75
+7bfdc8b959ef92ef35cb9eb74f9641096e74508061be37effe74abdb5435408e	MalwareBazaar	2026-10-02	filetype=sh md5=5e11605454f471dc41edab986a3a1e69 sha1=b3070a063ab7d99a53ad6b5f7bfed181f3770530 | vt=9/75
+accc5d1c6a5affdfce6e316f7ac7745a93598c568723d5b69189b86ee1b8b58f	MalwareBazaar	2026-10-02	filetype=sh md5=d2a11bffbc76e55f403944d3d6bed545 sha1=a53eb3ebf5d0982612caeae0d84f0baedaad3b30 | vt=2/75
+8fd5f4249f5cc9d7d33ed7679c0b78a5b269d82d2bc7bf3014f19fbff8d4d660	MalwareBazaar	2026-10-02	filetype=exe md5=b190a0d5b6c8fa1861b9a853db666e49 sha1=98fbbbf606626fa4933441609f889c1c30bfda5b | vt=12/75
+f88d65205dbfa7cc6a2570d8dd717159c4c541ad5375d387a0536329f1f9a855	ThreatFox	2026-10-02	family=elf.mirai | confidence=95% threat=payload
+12a2da9a62aae2e524ee82fc30f07c2234fe65bc6bb13027d562632ac18a53e7	ThreatFox	2026-10-02	family=osx.amos | confidence=100% threat=payload
+16cac377739f4bd02c9cd7d9e9bd28f5081a8b3797a5f3c22ea58bea9c8e661c	ThreatFox	2026-10-02	family=osx.amos | confidence=100% threat=payload
+8f990f1e541560dfd73f07bd44965c7855e62ef7b5631962a36ee211945b8ef8	ThreatFox	2026-10-02	family=py.blankgrabber | confidence=95% threat=payload
+00560eaec8e7b1700da1e1747c09cf35222ed881df33864338a3da6efaddeafa	ThreatFox	2026-10-02	family=osx.amos | confidence=100% threat=payload
+ce2d762121198452681f234593138c8e75a415c9756c993ee53541d35298bd1d	ThreatFox	2026-10-02	family=win.vshell | confidence=95% threat=payload
+ec0d13eb92a22465723e904b2ace56ddf20489810971f3b437197fdc78d10098	ThreatFox	2026-10-02	family=osx.amos | confidence=90% threat=payload
+23f900e9fb8ff57f420901178a087cc5570dcaf1fd161d8e8c0b38fcdb4e68f1	ThreatFox	2026-10-02	family=osx.amos | confidence=90% threat=payload
+0f8e8c44e3fbb2d8d0098f9b08db9896dcafb83230ca8f787d543fe78f7ce2d2	ThreatFox	2026-10-02	family=osx.amos | confidence=100% threat=payload
+a44bfc334b0032e00e4984f02e586b93647cfc4056764947d8dd149a00497225	ThreatFox	2026-10-02	family=osx.amos | confidence=100% threat=payload
+1dc53faeebe25b41fe88b757a07190842e58369eb2c95cddd95eccb90183d2a7	ThreatFox	2026-10-02	family=elf.mirai | confidence=95% threat=payload
+f0b55c610b42dfe509e5f4adb17e2505c13e732a903cec6bfecff19d11a088b8	ThreatFox	2026-10-02	family=elf.mirai | confidence=100% threat=payload
+f866fcae6a7bd70de5d52d1c798c566e8ba4ae4319f475ccd4f22f08741efdd5	ThreatFox	2026-10-02	family=elf.mirai | confidence=100% threat=payload
+6f5ac28130a03271154d0b88267d835bb4ccbbf7a3009111d2d5c78d7043aac8	ThreatFox	2026-10-02	family=elf.mirai | confidence=100% threat=payload
+b187acf97f1b6920f2831caff4e4f3ede02cfeec6d67751788b48258d92dd6a6	ThreatFox	2026-10-02	family=elf.mirai | confidence=100% threat=payload
+f02e83dab20843b48f6072ab04a9aa49bc134392779916aff87a409189165b23	ThreatFox	2026-10-02	family=unknown_loader | confidence=85% threat=payload
+e5e80e28370ac3da3cc73000c4f5cf1fb74a8f738defae813bc3ca06232e6456	ThreatFox	2026-10-02	family=osx.amos | confidence=100% threat=payload
+e7aa32a83c6df162b1e594b4d8bef54219b36adeb39d184662c94315d35086d3	ThreatFox	2026-10-02	family=osx.amos | confidence=100% threat=payload
+9d98dcaafcafd8b68104b162d22b33a6acade533fed7b1f62b1717f7421378fa	ThreatFox	2026-10-01	family=elf.mirai | confidence=95% threat=payload
+f8c6f2a0e5078faa6d2d85b14a7eed161dafdf32ffe47819aab715b6fb90f3b8	ThreatFox	2026-10-01	family=elf.mirai | confidence=95% threat=payload
+9d94a59e168170c07ef8217d980da3652b0c8b611ebe10e7ea47274017008f89	ThreatFox	2026-10-01	family=elf.mirai | confidence=95% threat=payload
+f9e554febbe32d19e39a23a163e331ca5828f697c60ff17a30282daf855ffea2	ThreatFox	2026-10-01	family=elf.mirai | confidence=95% threat=payload
+abb109b77d1aaea2a6dcf74844d9c1a2e11859568e000ea51e9850f893e8c476	ThreatFox	2026-10-01	family=unknown_loader | confidence=80% threat=payload
+94d0c55a228b9b146dca47178511f1136aad0795c6569fbbf6a845d1affa7569	ThreatFox	2026-10-01	family=osx.amos | confidence=100% threat=payload
+e9e6673fd8c6e86108051d3334dbb427eee99be1902fe6319e6f5c9599a545aa	ThreatFox	2026-10-01	family=osx.amos | confidence=100% threat=payload
+3d33dc55b40687afe672eb82c68b89af1fa250db4391e2836c266289249a495b	ThreatFox	2026-10-01	family=osx.amos | confidence=100% threat=payload
+e70745807f277cf046c8ec352b296f748a3fd497f4f0b2e0f6818e37608051a6	ThreatFox	2026-10-01	family=unknown_loader | confidence=85% threat=payload
+d445fbca8303ea2e7cd8fa3544dba4c13e4cc6c38c90ec60579cf3374fcf53da	ThreatFox	2026-10-01	family=unknown_loader | confidence=80% threat=payload
+a8d5fe2fc077e3385a64f1d75ebbed2c75f1c98897b2a205ecc4ab49280f1d6e	ThreatFox	2026-10-01	family=unknown_loader | confidence=85% threat=payload
+504a8cb701a8c8e90589a72a3f52d9efc33abd65913d20ad8774ddc88bb18c1b	ThreatFox	2026-10-01	family=win.vshell | confidence=95% threat=payload
+e33c374022736ffd062776b005e1d9666e73c580dc0c3b26921c9ac75e7b7207	ThreatFox	2026-10-01	family=elf.mirai | confidence=100% threat=payload
+7bac68e19b279f768e36b194f39de21f17dcdb6dacdcf27fa6f14d851fe9733d	MalwareBazaar	2026-10-02	family=Mirai | filetype=elf md5=d9272afdf76d96abde48bde8e522bcf4 sha1=edc5da6acbe1ded52892e72a50c193bef20b7380
+ebe315f58648a2d4a30e607230fd07cebd6251a054d4b7fe3e1078e8991857d7	MalwareBazaar	2026-10-02	family=RemoteManipulator | filetype=msi md5=c980150b7c49ed01fef8cefcfb2ae752 sha1=6ae2018c4cc315347ed23a918783d1371dcc7f5c
+ab2d265ebc26207ab8dbd7341d11e314b371665b742b7fbee0c29a0b2d0da112	MalwareBazaar	2026-10-02	family=Mirai | filetype=elf md5=6e783d24260a856a057b93f6e4f0fcdc sha1=4c7e5aeed2b3a4970e8646a5da9a58860885578f
+246717653bc2ae2e09036bac56c9d79940c652972a73f4c6aa9b925c28cce095	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+f12f406b95c0d82ecc2bebef6f2b343e	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+908ec018645315239dbd8b941f3e55a44d4b9811	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+1337ed6fe9c6205b569670a40eab42b51ba69c5c1724d61474e8595acd90ecfb	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+066d83b98a2081e0bb075c94376aebc9b0fd6499025cab1762d83bbb4d7576c6	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+5f48794510a5a3418cf042d95ffa13e3	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+9bfa4d8625be6bffa7ae433d30f6ad1e	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+ae562ddc495a05b75fe617e4feec91bf	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+220f8c63b76dbb5de1f0f7ca4cc9fad2c5b896d3	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+3b02d3ca024359776843cdd420e2a7decbb6da35	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+bf444dcd65b2b22146896f79128bf85a3e16bdb0	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+0e4d6c385922938ecc1962dbc7e5950b086459b172b70a945414cffe4395aa27	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+1447ed0893b9095f671e2f35a2a0127890040b5459534813b0f83c3e1fffa0bf	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+1b195181a2603b0b2608d49134af8c170225c2e06873c1fe5cd537db9018807f	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+30cf47caf9700a74a8ea4a728b8b7c88cb1f8e22261b4ac01575b112c1e224ca	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+0017821181723261801e24abb9d33c739f382889d46dbf46d320c87ac62e5ca6	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+c2d4370aecc06016e4aaa606c635b1c9d219972e	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+2c786f7009cc5e1fba5471a88b23b34dce6e1578ee9f664ec62bf48227ba384b	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+41194d0a2a33a0a70b94da9cf16a3ca5	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+ab4fe6616062bcca5d56c7f6ce0a64982760d323	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+19bd38875edc2c743993bbbeda388d99	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+7231d31dc8e80378cdb7bb83880ddca44b388afd	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+cbec833e4e0d7a6e5448263e785a1090	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+9b6fb43f46dd50413d2e1a44c7791b951124bb56	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+0a2ef2c360cf6e3e3e5d844ca03fecc31924ba0e8c3ecd8aefa778cae10fb19e	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+1c70ca6e573de25b3a823ce114b2e308	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+7797b4603c874196c3eae50b89191f63	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+96f02125464c11ebf99e791364ef3791	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+c57391593bb9d975cd014089eca9cf38	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+2dd409f171e9de0eb9c531a63236939a6ec91e21	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+4c38011124a439f6696cd549b2719bd3a211ae3c	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+6c925ddf87faa6da7690aa0749b6c25b6eb1e46b	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+e0cae084f93e4fdc01ab8f49212d1313e71f159e	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+0ee6df8a309443c86c0bba8b376f39531513d3451b46bebd4b79bb9d5bf8dcb1	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+2ad9b5e1c9952e95cfa55a4255e952962b6208ae1ca610caf1c7c2383be7e74b	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+3286ff477ccd888479b96d0ffb2bd53962862db7267a4bd1c8d8f8c22fec63d4	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+331fd58d489e9fb888a5e4193d0e36f6ff29063808c59a164d98e26835054972	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+45d46e7064ba4b4cb578659f73ee354ad26cf2cc1e7f59bd3d15028e1e46a38b	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+5edcaa75a28e5cd700bf7643b275fe5d28649aa41a0711f391ec1fca795a4e8a	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+18c070b8d032336a244440df1115123d	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+d2e55213a02fd16a077298c986130522eb63196bdf8a8c1aec0eed6ef318b222	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+cf6dd15baf5ef66432a95b5a2ec64ba5c6de565b3fb9e10ae01b1a91612a1c2c	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+bc5fd75b307c2a11a602fbedb8275e0836ddf81cdd43af00a6bf0d850ff6cf58	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+33d0a8294d2520608dbc4901c3ebd525aaeb7b8eceba9d140f62efa419a8c55a	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+a8ff38e5f21a5202e1ce33e62b9ddde4ec4faffabd52a4a146cff18c877fe7ca	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+f893ab902cf0ad1a62cdfe04c58ba7560db7a0f5153303af18bd549c6619a044	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+9c8760f8b973360701774bc56c7c97295eb42d49a02a281cbaadc32c973bd8b2	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+d91c10536293d23bd3ebfc0f922e367303f455571556d83684170183dd6897f4	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+8673371d266d041dae20f64e0532d2bca65c3b09a6c0faf16a6546e6067bac2e	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+1a7541b30dcccd91e969f0e1586ba18fbf3a7d78f960654a5c1489108e516180	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+67a5fe0dd43cb25c539341c0bf31d2b0	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+acc6aad93d92b4eca8b0fec938ac38cf	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+3406e4d5b6cc917080c531fae37decc9073e7617	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+561485ba4f3954414b7ad1c4d58a6a9748116d30	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+861207a8973ab353910d746853b232429fbaaa621ff0ab2df182ffb7af75d6ec	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+c59edcfa37db923d3a6a4739d073aee9f54383505d196d36de2e8834aa3c2378	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+6f5a2a452a7901323abd21879c6cecccb47c06aeeaccb1b467212f3b11e4b1e7	OTX	2026-10-01	family=command injection | pulse='Swarming Against Citrix 0-Day Exploitation' pulse_id=6abde373c68b5d048accac49
+dee5af1c0f76b45d28bafd6e60c07bb8e391d98addf81ef8f13d073acdb3c48a	OTX	2026-09-30	family=China Chopper - S0020 | pulse='Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570' pulse_id=6abd4fc35eecbf1cfcd9681c
+aea991f694911e321b0ab97534f2ad0291c392c0a43dabff664c563618bd036d	OTX	2026-09-30	family=China Chopper - S0020 | pulse='Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570' pulse_id=6abd4fc35eecbf1cfcd9681c
+6ab7de2509038edf580aef6229c1c3db17f4da8f2d7d940818faf617d1938244	OTX	2026-09-30	family=China Chopper - S0020 | pulse='Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570' pulse_id=6abd4fc35eecbf1cfcd9681c
+bf28f38122bf20d5fac969cc414daa6a890cdea872d389ca93d2092b6b7773cf	OTX	2026-09-30	family=China Chopper - S0020 | pulse='Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570' pulse_id=6abd4fc35eecbf1cfcd9681c
+b594a42b8f1c6f090327bb9a3361c2d3515537fb7ac8da6b9061b9a3f330e159	OTX	2026-09-30	family=China Chopper - S0020 | pulse='Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570' pulse_id=6abd4fc35eecbf1cfcd9681c
+65a7576c389326b6cdf9c993d0be6e5d50fed9655d1cdf2a3a50f2c21c8ec435	OTX	2026-09-30	family=China Chopper - S0020 | pulse='Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570' pulse_id=6abd4fc35eecbf1cfcd9681c
+22ef852f6ebc39ee71235b90648b4b200b385c47d25c79545986493f8c70db69	OTX	2026-09-30	family=China Chopper - S0020 | pulse='Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570' pulse_id=6abd4fc35eecbf1cfcd9681c
+518fe65dd349180191d9b258ab24876aaed6613cd657d0b626d1fc24e03a22b6	OTX	2026-09-30	family=China Chopper - S0020 | pulse='Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570' pulse_id=6abd4fc35eecbf1cfcd9681c
+66555abd5f6529e20fb03b2743f177c6	OTX	2026-09-30	family=China Chopper - S0020 | pulse='Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570' pulse_id=6abd4fc35eecbf1cfcd9681c
+f214d3dcd1ba1bd92955a8bed9c6d8f7	OTX	2026-09-30	family=China Chopper - S0020 | pulse='Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570' pulse_id=6abd4fc35eecbf1cfcd9681c
+1e03cbd0d75e9ba9724a266a24d65250bda9a292	OTX	2026-09-30	family=China Chopper - S0020 | pulse='Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570' pulse_id=6abd4fc35eecbf1cfcd9681c
+93eac8c351d4890644ca969d30792a8800b22c1d	OTX	2026-09-30	family=China Chopper - S0020 | pulse='Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570' pulse_id=6abd4fc35eecbf1cfcd9681c
+e9fe43968c6c0955300e3bc4d7fb0b05a18570b4733aaf4f5c6f7f09be5a242c	OTX	2026-10-01	family=main.py | pulse='Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators' pulse_id=6abde7dd3f829cf6b721cfaa
+974b69782fdf5d67b97cfd508465939e44ee10798dbcc1e82b92d78776bad938	OTX	2026-10-01	family=main.py | pulse='Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators' pulse_id=6abde7dd3f829cf6b721cfaa

@@ -13150,3 +13150,35 @@
 13.212.38.253:8080	ThreatFox	2026-09-30	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
 13.212.38.253:80	ThreatFox	2026-09-30	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
 92.242.33.17:8080	ThreatFox	2026-09-30	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+72.60.189.171:6572	ThreatFox	2026-10-02	family=win.remus | confidence=100% threat=botnet_cc
+185.33.86.141:443	ThreatFox	2026-10-02	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+185.33.86.141:80	ThreatFox	2026-10-02	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+111.170.148.132:15673	ThreatFox	2026-10-02	family=unknown | confidence=100% threat=botnet_cc
+45.146.91.241:32505	ThreatFox	2026-10-02	family=elf.drifter | confidence=100% threat=botnet_cc
+185.215.151.9:8089	ThreatFox	2026-10-02	family=win.remcos | confidence=100% threat=botnet_cc
+111.170.148.132:15674	ThreatFox	2026-10-02	family=unknown | confidence=100% threat=botnet_cc
+111.170.148.132:15675	ThreatFox	2026-10-02	family=unknown | confidence=100% threat=botnet_cc
+111.170.148.132:5673	ThreatFox	2026-10-02	family=unknown | confidence=100% threat=botnet_cc
+148.66.17.125:60001	ThreatFox	2026-10-02	family=win.vshell | confidence=100% threat=botnet_cc
+148.66.17.123:60001	ThreatFox	2026-10-02	family=win.vshell | confidence=100% threat=botnet_cc
+148.66.17.124:60001	ThreatFox	2026-10-02	family=win.vshell | confidence=100% threat=botnet_cc
+134.175.125.204:8084	ThreatFox	2026-10-02	family=win.vshell | confidence=100% threat=botnet_cc
+45.136.14.91:110	ThreatFox	2026-10-02	family=win.vshell | confidence=100% threat=botnet_cc
+172.236.129.220:23007	ThreatFox	2026-10-02	family=unknown | confidence=50% threat=botnet_cc
+172.236.132.235:23009	ThreatFox	2026-10-02	family=unknown | confidence=50% threat=botnet_cc
+172.236.132.235:23017	ThreatFox	2026-10-02	family=unknown | confidence=50% threat=botnet_cc
+52.36.201.99:16000	ThreatFox	2026-10-02	family=unknown | confidence=75% threat=botnet_cc
+159.223.24.190:34567	ThreatFox	2026-10-01	family=elf.aisuru | confidence=100% threat=botnet_cc
+204.44.69.213:31883	ThreatFox	2026-10-01	family=win.remcos | confidence=100% threat=botnet_cc
+93.113.180.149:3778	ThreatFox	2026-10-01	family=elf.mirai | confidence=80% threat=botnet_cc
+62.60.226.185	OTX	2026-09-30	family=2CLoader | pulse='2CLoader: A New Malware Loader Delivering Vidar and Remus' pulse_id=6abd500c65b4bbb867b80e99
+156.227.0.13	OTX	2026-10-01	family=AdaptixC2 | pulse='PaperCut MF Zero-Day Intrusion: Java Loader, Web Shell, and AdaptixC2 via CVE-2026-82078 and CVE-2026-81578' pulse_id=6abde39c863acdfda74e5d84
+149.104.78.141	OTX	2026-10-01	family=command injection | pulse='Swarming Against Citrix 0-Day Exploitation' pulse_id=6abde373c68b5d048accac49
+117.107.25.243	OTX	2026-09-30	family=China Chopper - S0020 | pulse='Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570' pulse_id=6abd4fc35eecbf1cfcd9681c
+193.42.40.135	OTX	2026-09-30	family=China Chopper - S0020 | pulse='Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570' pulse_id=6abd4fc35eecbf1cfcd9681c
+45.141.21.130	OTX	2026-10-01	family=main.py | pulse='Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators' pulse_id=6abde7dd3f829cf6b721cfaa
+173.40.135.209	OTX	2026-10-01	family=main.py | pulse='Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators' pulse_id=6abde7dd3f829cf6b721cfaa
+47.230.224.154	OTX	2026-10-01	family=main.py | pulse='Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators' pulse_id=6abde7dd3f829cf6b721cfaa
+62.133.62.80	OTX	2026-10-01	family=main.py | pulse='Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators' pulse_id=6abde7dd3f829cf6b721cfaa
+70.172.58.168	OTX	2026-10-01	family=main.py | pulse='Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators' pulse_id=6abde7dd3f829cf6b721cfaa
+31.56.197.72	OTX	2026-10-01	family=main.py | pulse='Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators' pulse_id=6abde7dd3f829cf6b721cfaa
