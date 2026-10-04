@@ -13182,3 +13182,32 @@
 62.133.62.80	OTX	2026-10-01	family=main.py | pulse='Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators' pulse_id=6abde7dd3f829cf6b721cfaa
 70.172.58.168	OTX	2026-10-01	family=main.py | pulse='Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators' pulse_id=6abde7dd3f829cf6b721cfaa
 31.56.197.72	OTX	2026-10-01	family=main.py | pulse='Citrix NetScaler CVE-2026-88771: Observed Exploitation Artifacts and Hunt Indicators' pulse_id=6abde7dd3f829cf6b721cfaa
+2.59.163.183:15987	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+5.181.2.8:15987	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+89.185.82.70:15987	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+92.118.112.61:27651	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+217.60.103.131:2404	ThreatFox	2026-10-04	family=win.remcos | confidence=100% threat=botnet_cc
+147.45.116.130:7193	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+62.133.62.30:7193	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+89.185.84.98:7193	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+138.124.67.244:7193	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+145.249.109.10:7193	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+87.251.69.139:7193	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+87.251.69.166:7193	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+89.185.82.69:7193	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+89.185.82.70:7193	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+92.118.112.61:7193	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+2.59.163.183:7193	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+2.59.163.4:7193	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+2.59.163.77:7193	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+45.155.68.31:7193	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+5.181.2.8:7193	ThreatFox	2026-10-04	family=elf.potassium | confidence=100% threat=botnet_cc
+191.124.5.229:80	ThreatFox	2026-10-04	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+191.124.5.229:443	ThreatFox	2026-10-04	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+81.71.128.221:14149	ThreatFox	2026-10-04	family=win.njrat | confidence=100% threat=botnet_cc
+103.245.237.10:9506	ThreatFox	2026-10-04	family=elf.mirai | confidence=80% threat=botnet_cc
+138.124.67.16:7193	ThreatFox	2026-10-03	family=elf.potassium | confidence=100% threat=botnet_cc
+138.124.67.60:7193	ThreatFox	2026-10-03	family=elf.potassium | confidence=100% threat=botnet_cc
+89.23.113.104:27651	ThreatFox	2026-10-03	family=elf.potassium | confidence=100% threat=botnet_cc
+132.243.187.112:7193	ThreatFox	2026-10-03	family=elf.potassium | confidence=100% threat=botnet_cc
+132.243.187.133:7193	ThreatFox	2026-10-03	family=elf.potassium | confidence=100% threat=botnet_cc
