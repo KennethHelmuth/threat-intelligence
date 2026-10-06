@@ -1,0 +1,34 @@
+title: DNS Query to Bpfdoor Domains
+id: d33b7071-9e24-4a8f-847b-ca577f3feba4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Bpfdoor.
+date: 2026-10-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - averat
+    - bpfdoor
+    - implant
+    - linux
+    - malware.bpfdoor
+    - network-edge
+    - passive-backdoor
+    - process-spoofing
+    - rekoobe
+    - smtp
+    - telecommunications
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'mx.zxopfds.com'
+        - 'mx1.wwstifsteel.com'
+        - 'spam.suwaccqi.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

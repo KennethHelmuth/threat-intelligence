@@ -1,0 +1,35 @@
+title: Network Connection to Vs Code Infrastructure
+id: 5cfba3f8-141a-48c9-9d12-4245f7c8f4fc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Vs Code.
+date: 2026-10-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - dead-drop
+    - extensions
+    - glassworm
+    - malware.vs_code
+    - open vsx
+    - solana
+    - supply chain
+    - themes
+    - vs code
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'fingercakes4sale.store'
+        - 'holiday-themes.dev'
+        - 'aurora.themes.dev'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

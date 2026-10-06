@@ -13227,3 +13227,45 @@
 8.148.8.46:8084	ThreatFox	2026-10-05	family=win.vshell | confidence=100% threat=botnet_cc
 142.93.6.168:9034	ThreatFox	2026-10-04	family=elf.aisuru | confidence=100% threat=botnet_cc
 102.220.163.203:10213	ThreatFox	2026-10-04	family=apk.cecbot | confidence=100% threat=botnet_cc
+186.194.50.58:5930	ThreatFox	2026-10-06	family=win.remus | confidence=100% threat=botnet_cc
+45.86.60.114:80	ThreatFox	2026-10-06	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+45.86.60.114:443	ThreatFox	2026-10-06	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+134.175.40.200:3000	ThreatFox	2026-10-06	family=unknown | confidence=100% threat=botnet_cc
+139.59.101.166:9034	ThreatFox	2026-10-06	family=elf.aisuru | confidence=100% threat=botnet_cc
+109.206.247.245:10881	ThreatFox	2026-10-06	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+138.68.101.133:8080	ThreatFox	2026-10-06	family=elf.aisuru | confidence=100% threat=botnet_cc
+154.12.92.28:8084	ThreatFox	2026-10-06	family=win.vshell | confidence=100% threat=botnet_cc
+31.77.109.117:2404	ThreatFox	2026-10-06	family=win.remcos | confidence=100% threat=botnet_cc
+134.122.91.85:8443	ThreatFox	2026-10-06	family=elf.aisuru | confidence=100% threat=botnet_cc
+168.245.203.150:3790	ThreatFox	2026-10-06	family=win.meterpreter | confidence=50% threat=botnet_cc
+186.241.115.168:12443	ThreatFox	2026-10-06	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+176.65.134.119:4444	ThreatFox	2026-10-06	family=elf.mirai | confidence=90% threat=botnet_cc
+176.65.134.119:80	ThreatFox	2026-10-06	family=unknown | confidence=50% threat=botnet_cc
+66.179.30.155	OTX	2026-10-05	family=double-extortion | pulse='Caught in 4K: The Gentlemen Files' pulse_id=6ac3a6d89aeb3e3d383d6d06
+120.193.219.210	OTX	2026-10-05	family=Cling | pulse='A STUNning Disguise: Cling Malware Masquerades as Google' pulse_id=6ac368846173b592a85473db
+58.211.144.243	OTX	2026-10-05	family=Cling | pulse='A STUNning Disguise: Cling Malware Masquerades as Google' pulse_id=6ac368846173b592a85473db
+118.45.196.225	OTX	2026-10-05	family=Cling | pulse='A STUNning Disguise: Cling Malware Masquerades as Google' pulse_id=6ac368846173b592a85473db
+145.249.115.184	OTX	2026-10-05	family=Cling | pulse='A STUNning Disguise: Cling Malware Masquerades as Google' pulse_id=6ac368846173b592a85473db
+112.151.157.222	OTX	2026-10-05	family=Cling | pulse='A STUNning Disguise: Cling Malware Masquerades as Google' pulse_id=6ac368846173b592a85473db
+121.32.243.81	OTX	2026-10-05	family=Cling | pulse='A STUNning Disguise: Cling Malware Masquerades as Google' pulse_id=6ac368846173b592a85473db
+147.185.221.129	OTX	2026-10-05	family=Cling | pulse='A STUNning Disguise: Cling Malware Masquerades as Google' pulse_id=6ac368846173b592a85473db
+83.211.9.232	OTX	2026-10-05	family=Cling | pulse='A STUNning Disguise: Cling Malware Masquerades as Google' pulse_id=6ac368846173b592a85473db
+1.34.200.85	OTX	2026-10-02	family=BPFDoor | pulse='SMTP is the key: BPFDoor and AVERAT hitting the network edge' pulse_id=6abfb61b65922c3229d35cf8
+122.116.138.33	OTX	2026-10-02	family=BPFDoor | pulse='SMTP is the key: BPFDoor and AVERAT hitting the network edge' pulse_id=6abfb61b65922c3229d35cf8
+59.125.211.65	OTX	2026-10-02	family=BPFDoor | pulse='SMTP is the key: BPFDoor and AVERAT hitting the network edge' pulse_id=6abfb61b65922c3229d35cf8
+176.53.159.40	OTX	2026-10-02	family=Psychedelic | pulse='The Psychedelic Stealer: When the CAPTCHA Is the Installer' pulse_id=6abfb63a870eec5021127b09
+45.140.205.28	OTX	2026-10-03	family=Matanbuchus | pulse='Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix' pulse_id=6ac12c993806593609d1c30c
+96.62.224.81	OTX	2026-10-03	family=Matanbuchus | pulse='Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix' pulse_id=6ac12c993806593609d1c30c
+188.212.158.34	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
+94.154.32.41	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
+89.106.83.35	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
+77.110.114.115	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
+138.124.62.81	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
+155.103.69.55	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
+207.189.14.71	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
+103.131.131.96	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
+84.38.129.15	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
+135.136.140.150	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
+102.220.161.92	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
+104.249.10.101	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
+102.220.163.27	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b

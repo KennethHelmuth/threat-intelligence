@@ -1,0 +1,40 @@
+title: Network Connection to Bpfdoor Infrastructure
+id: 34fd568e-6cc2-4788-b78c-67dc15907024
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Bpfdoor.
+date: 2026-10-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - averat
+    - bpfdoor
+    - implant
+    - linux
+    - malware.bpfdoor
+    - network-edge
+    - passive-backdoor
+    - process-spoofing
+    - rekoobe
+    - smtp
+    - telecommunications
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'mx.zxopfds.com'
+        - 'mx1.wwstifsteel.com'
+        - 'spam.suwaccqi.com'
+        DestinationIp|contains:
+        - '1.34.200.85'
+        - '122.116.138.33'
+        - '59.125.211.65'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

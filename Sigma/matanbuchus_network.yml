@@ -1,0 +1,39 @@
+title: Network Connection to Matanbuchus Infrastructure
+id: a915a3e8-4bff-4c55-a21f-40eb289af6fe
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Matanbuchus.
+date: 2026-10-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - amos
+    - astarionrat
+    - canon captureontouch
+    - chatgpt custom gpt
+    - clickfix
+    - dll sideloading
+    - dns-over-https
+    - gomcam
+    - google sites
+    - lumma stealer
+    - macsync
+    - malware.matanbuchus
+    - matanbuchus
+    - persistence mechanisms
+    - powershell
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '45.140.205.28'
+        - '96.62.224.81'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

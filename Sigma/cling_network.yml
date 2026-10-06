@@ -1,0 +1,45 @@
+title: Network Connection to Cling Infrastructure
+id: b0661693-5c22-4537-95b8-e7a7a24bfbc0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Cling.
+date: 2026-10-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cling
+    - command-and-control
+    - cve-2014-8361
+    - cve-2016-10372
+    - cve-2016-20016
+    - cve-2021-35394
+    - cve-2023-26801
+    - cve-2023-41011
+    - cve-2024-3721
+    - cve-2025-34037
+    - ddos
+    - iot botnet
+    - ip spoofing
+    - malware.cling
+    - realtek exploitation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '120.193.219.210'
+        - '58.211.144.243'
+        - '118.45.196.225'
+        - '145.249.115.184'
+        - '112.151.157.222'
+        - '121.32.243.81'
+        - '147.185.221.129'
+        - '83.211.9.232'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
