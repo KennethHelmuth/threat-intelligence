@@ -17787,3 +17787,240 @@ be312034d50a5e2cf8e25bd4011ad2dbcb876910	OTX	2026-10-05	family=XWorm | pulse='XW
 4d403644d7520429283d7e1e4477971fe0b5a418d5e1341f9f12f8f1e84480ee	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
 9a8dc848fd13565eea98b5e5e9ef222bf2aa9b83df316813ebaff46c1f28c4d3	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
 d15f8b15696bf2118bf81cf9656f28a6bc6992731956f2e070ce0f033fdd2ef3	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
+db528a6c9b4eea0d095c69f85a181676c7de77fc564da78f83ea4babcc04b080	ThreatFox	2026-10-07	family=unknown | confidence=100% threat=payload | vt=12/75
+040a0da5c3f26dc1b971271e13e8930c7680b8aeef8aba87f885009760a71709	MalwareBazaar	2026-10-07	filetype=elf md5=0e839e368326a7d8d040ca367cfeca2b sha1=4f46934c931fde7b444ed379a05c7312c1a1d874 | vt=5/75
+d292f68fcc94542edf5761239a77cd7d17f3ed5d7fc85451cefb8d2ad7bcb06b	MalwareBazaar	2026-10-07	filetype=dll md5=08f045006ed0409784798556b77ea889 sha1=76feebd05c54ec9a982c93bd165a7249c3c0e5d2 | vt=4/75
+fed1a1556b70e2d634b05a951a4c5f89617d80e1b1cde5c620f7cf7b2970fdd5	MalwareBazaar	2026-10-07	filetype=exe md5=954d1293832b5296971ed38e973a9203 sha1=0ea03d0aeaf2bd97bf5be2a8f6e6285952881249 | vt=14/75
+91bb4e80a57b2738a6725cc20160e8f43f4398b509c104e6c4fefaec1373c703	MalwareBazaar	2026-10-07	filetype=hta md5=5da0e8beab38804eadfae086f88c96ab sha1=3213da2f8545e0244807ecc8185800c0a321f370 | vt=5/75
+f0712721a0095d99f9ce6d4650115ddb63e303d8ecefaa9916861c0b331e21a0	MalwareBazaar	2026-10-07	filetype=ps1 md5=dc496c078f2eac7064a256585363ef4e sha1=910f67b3ce205e7b1842a0e603c14da4b3c82f62 | vt=2/75
+ef17ba04b4f40ab80c46d923a4253b56236a94f2aa844b645662ae1cefefcf14	MalwareBazaar	2026-10-07	filetype=js md5=bbd29a72b549f4cab5e9442d1983f29c sha1=76a4c0fa07dd8ead22c81a55f9db8c6147de267d | vt=8/75
+aa84a72e470b4a4b8c581e5867a13118fc43756b62796556de3dfe4a688c3ddb	MalwareBazaar	2026-10-07	filetype=ps1 md5=14c364b2de3ce175fcc9f32041d8d195 sha1=0433b9e8b154763fdb2733ea81b773ad23fcea98 | vt=2/75
+6ee948412a06d2402d7967975e410a7069c75d0bcfb6afd0d7a9215579e2a5c3	MalwareBazaar	2026-10-07	filetype=ps1 md5=bb13a6dd1fa3ceb4afc1e57cca9720dd sha1=1c42868f0c17d51d3f6c0978e290f7cafa5f8a77 | vt=2/75
+285216ad44f6cf4c8b70dcdbcbaeb9807ca83d217f6bf48a834e20de6a882708	ThreatFox	2026-10-07	family=osx.amos | confidence=100% threat=payload
+97a7cb9173bcef716a999ff6968805d416c02ccfa29a5f4f6fcc31e9a9878fba	ThreatFox	2026-10-07	family=osx.amos | confidence=100% threat=payload
+dd11fdaa68ac849eea117fea352c2436a9aecedb974a0bd9fe108d8792165c07	ThreatFox	2026-10-07	family=osx.amos | confidence=100% threat=payload
+1d9fd698ccfcc4cd0f8f8f66df82da734b9f341ae47f489d7ccc6732400dcefd	ThreatFox	2026-10-07	family=osx.amos | confidence=100% threat=payload
+746e37c45296c42d8bbd1f0c0aff7b6b20ecd14c1108e9899cc6cc78c2573fec	ThreatFox	2026-10-07	family=osx.amos | confidence=100% threat=payload
+1ebbe1479d2be9b5ddae584a2d987e5f6f4ce14c1f002bb8bd1fb7e13046969e	ThreatFox	2026-10-07	family=osx.amos | confidence=100% threat=payload
+cc85c7eff50e4df105b28b300fae9603ad3d1653408c6bdc5a2665a16c379103	ThreatFox	2026-10-07	family=osx.amos | confidence=100% threat=payload
+23f6b48ec53b6490d06722b49a54aaaf855f63c15bde3c32cb90db432d8fcb96	ThreatFox	2026-10-07	family=osx.amos | confidence=100% threat=payload
+c05a49f1183b96574f47cf0cc5b88f81e2d7fb2e66a11e921782a18f78214a34	ThreatFox	2026-10-06	family=win.govrat | confidence=95% threat=payload
+891b4554e82840c4fd606d944f87c8cd	ThreatFox	2026-10-06	family=win.govrat | confidence=95% threat=payload
+ef5ebe165dc61a588e448f5a045f545d	ThreatFox	2026-10-06	family=win.sliver | confidence=95% threat=payload
+01c6597a9d807338577300a4c861509021b161784c7997d70e4bd44d4da2c059	ThreatFox	2026-10-06	family=win.sliver | confidence=95% threat=payload
+18574afb782de70a00eae72adf564791	ThreatFox	2026-10-06	family=win.valley_rat | confidence=95% threat=payload
+6bde7ba7c5c9b5f000c2255dd3f87340a96ca9fbdf2b2d4688251c9adb4b88a2	ThreatFox	2026-10-06	family=win.valley_rat | confidence=95% threat=payload
+2aaa2370984af15261e51a730e800ea1	ThreatFox	2026-10-06	family=win.valley_rat | confidence=95% threat=payload
+aedb264e412ea574ad4ef2bdf5d857397b0fdfc429cfbce47a35d280b15ca503	ThreatFox	2026-10-06	family=win.valley_rat | confidence=95% threat=payload
+36e73c5600a6c9ee9b1ae3d8f113683e	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+8e587c3050c5c9d55ccf274827c1c6a9	ThreatFox	2026-10-06	family=win.masslogger | confidence=95% threat=payload
+ad94161a022aa30896c1a8bcd8dbc85771295f860cbfda0926bfeaca9546f094	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+d7fea5f6217db6e04f75333a65a46cdfcc523c7f3ddc29cfaecb18cd8876ea98	ThreatFox	2026-10-06	family=win.njrat | confidence=95% threat=payload
+1cf8cce965f8f2089ce67ef811b29d13	ThreatFox	2026-10-06	family=win.njrat | confidence=95% threat=payload
+985df2cfe2d10aa55c0a893a51218e8dab64ba5f57e0e7a8155e06455b3d8e87	ThreatFox	2026-10-06	family=win.masslogger | confidence=95% threat=payload
+e44ee181d3235c52db5d99e2cc86d306	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+abda1607910d3b8653aed50d74bf7e8d7189db192d553086a3c1b85a78bb7235	ThreatFox	2026-10-06	family=win.coinminer | confidence=95% threat=payload
+096622abc355ce5302f4154d45751620	ThreatFox	2026-10-06	family=win.coinminer | confidence=95% threat=payload
+822086e8cca3a86d1845e0c86cc249a5	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+21eed78ef28f13581985a98514ec70fe1d8bfb9dce22900c9cff07796bbf2ade	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+0b81936f0bc1aaf3d55932e910e8a1cdbd80f276e59f80690a80f8f9e6550a93	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+95e32a3d60558c896f50ff50684fe125	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+5d010b50c9cfd89d091aa90acf4b1ffc8f1659e89d1993dd54f76498fed3cf67	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+19c91fe72a4e7aa7b59d84baf6ce9383	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+2a4e92f9ceeafddef77dbdba62c0a9bd2711ce7be586994ba810712067c0e4fa	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+ac727d7ed3a0452251ae8b3d0f7f5d80	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+a4704f0e3a3ca3efc1078af02105d30f	ThreatFox	2026-10-06	family=jar.crossrat | confidence=95% threat=payload
+0ccda5fb8da309f4ca1af9510db9bbcbf8d91c6a12758f2ff05bfc885d46e764	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+d5c4983535d57d69fc6f8c09ff4a3838d6a61ac6b149de67b89c0c062968d9cd	ThreatFox	2026-10-06	family=win.njrat | confidence=95% threat=payload
+1742ad51f743c9e518abec7fc6f9451b	ThreatFox	2026-10-06	family=win.njrat | confidence=95% threat=payload
+034174f5266a4276cf29cfdb23fc3fa52699438ff60c8055b7df12c88341a49b	ThreatFox	2026-10-06	family=jar.crossrat | confidence=95% threat=payload
+b014e51e30e352689b3a2d1a8b4f100eafc9d7273b2d848e655eeba0513e375c	ThreatFox	2026-10-06	family=win.vidar | confidence=95% threat=payload
+138ca7a6667d8347b236f2aacb134e09	ThreatFox	2026-10-06	family=win.vidar | confidence=95% threat=payload
+c51ef0e96d102409320281316bce244e	ThreatFox	2026-10-06	family=win.netwire | confidence=95% threat=payload
+722552977aa29059abd535e5ed5b92e3de3a31e269d92210845672f4894f3404	ThreatFox	2026-10-06	family=win.zstealer | confidence=95% threat=payload
+74e28ff56ee527fe955e404861a4c71b	ThreatFox	2026-10-06	family=win.zstealer | confidence=95% threat=payload
+6384a37947e61cf136a039dd948e325b	ThreatFox	2026-10-06	family=win.netwire | confidence=95% threat=payload
+8337819ad52e9033786ecbdcef7043c1092735805670223c098832108ee6faa6	ThreatFox	2026-10-06	family=win.netwire | confidence=95% threat=payload
+374c1bcedd9eb8d9e537dd47759685e5d9db21c0aa9b943592cd95aadbd18248	ThreatFox	2026-10-06	family=win.salatstealer | confidence=95% threat=payload
+f221f1a45d3646cb8117fcc5f699c20b	ThreatFox	2026-10-06	family=win.salatstealer | confidence=95% threat=payload
+068973019438fd8817ae22b5f264e67bbb5c5675b11b5e7c24f7c954fc92835f	ThreatFox	2026-10-06	family=win.netwire | confidence=95% threat=payload
+ee009758219f6b7cdbfe4a346924cda4	ThreatFox	2026-10-06	family=win.bit_rat | confidence=95% threat=payload
+5381889f657250a50a62c8a629ee825ad3249a1ecac97454bbf9f0f0f30e7d6f	ThreatFox	2026-10-06	family=win.salatstealer | confidence=95% threat=payload
+38f0046416e3fdf6af81b5b3326e2240	ThreatFox	2026-10-06	family=win.salatstealer | confidence=95% threat=payload
+e85a16d7e9fe863a85f78d9f0cc4501f	ThreatFox	2026-10-06	family=win.vilsastealer | confidence=95% threat=payload
+403eb747d66afce6c38cb4364dadd3bf7149645e41f1c73892c99a475c9f2dd9	ThreatFox	2026-10-06	family=win.bit_rat | confidence=95% threat=payload
+1a256fa228d60488917a5a67bbbfeac9c08c178bd34c48e9c7e22c18b2a7b369	ThreatFox	2026-10-06	family=win.vidar | confidence=95% threat=payload
+74de2ab5ff79006b0f18deb133a791a3	ThreatFox	2026-10-06	family=win.vidar | confidence=95% threat=payload
+314a605bc42b47f044a1b297e4db33e66460952a23840767ee40c0f4acfdcf92	ThreatFox	2026-10-06	family=win.vilsastealer | confidence=95% threat=payload
+212d6f0d9e544c346f8dae39d0acd06d	ThreatFox	2026-10-06	family=win.hijackloader | confidence=95% threat=payload
+e203aee47ec911c8e6345cd89df9f338127a2b533fa4852f955d2ebcf25f9707	ThreatFox	2026-10-06	family=win.vidar | confidence=95% threat=payload
+357e6c2930275df89a9272e431e096fe	ThreatFox	2026-10-06	family=win.vidar | confidence=95% threat=payload
+753270b3843109dcb5f1ce2f2d095b06	ThreatFox	2026-10-06	family=win.gcleaner | confidence=95% threat=payload
+11e50f88499ead9da9d4b0b6c062651181f28df1bf1078c5d69bdf55a836b370	ThreatFox	2026-10-06	family=win.hijackloader | confidence=95% threat=payload
+406627d034ccf27232851600b6d2f4f93e93fce673b6c3b801e2f1140dc76736	ThreatFox	2026-10-06	family=py.venus_stealer | confidence=95% threat=payload
+259b49948f479a1ecb3448ef7e6bda75	ThreatFox	2026-10-06	family=py.venus_stealer | confidence=95% threat=payload
+81ce9fc4460358010edd5b6939c3cdb9e25831868bc33ddb4f23a473ab467ff4	ThreatFox	2026-10-06	family=win.gcleaner | confidence=95% threat=payload
+aaa2e8a2ba631becd8c0430dfd42bb96b83c21948ce3c293f019b27c92b022d9	ThreatFox	2026-10-06	family=win.vidar | confidence=95% threat=payload
+218bc14cce5a93f6c848cba43f060c60	ThreatFox	2026-10-06	family=win.vidar | confidence=95% threat=payload
+cd1fd8e06c31dc642b038cec1e234442	ThreatFox	2026-10-06	family=win.coinminer | confidence=95% threat=payload
+160f9349178e8169411d385e3ed0bc0cae494d302af225428bcdb10bc9eab84a	ThreatFox	2026-10-06	family=win.overlord | confidence=95% threat=payload
+1bd738355e034bf5cd53495feb862e2c	ThreatFox	2026-10-06	family=win.overlord | confidence=95% threat=payload
+d6e6b089da51d3662f052cb8f5f9436f	ThreatFox	2026-10-06	family=py.stealler | confidence=95% threat=payload
+b4359324e3cffb3dc521a808dfa0b5d7bd92dc6e08eb7527da41e1e1312d3265	ThreatFox	2026-10-06	family=win.coinminer | confidence=95% threat=payload
+6721f76518a60a424d02502fb4255fa5	ThreatFox	2026-10-06	family=win.nanocore | confidence=95% threat=payload
+4cecb0e41d53ccc73078d80dcac576b7b0905f37193693f9b41cf4eb6651fa85	ThreatFox	2026-10-06	family=py.stealler | confidence=95% threat=payload
+791c80619bb5c1dcd0a560c419b8e32885d074c82f626a1f35d4f477a45eb344	ThreatFox	2026-10-06	family=win.asyncrat | confidence=95% threat=payload
+61480a155193ab1d60ede49b5fe13556	ThreatFox	2026-10-06	family=win.asyncrat | confidence=95% threat=payload
+71145362a2382c5de9ed2f1a374b5e5dc2bf6b054da31f28ae911dd117cf11a3	ThreatFox	2026-10-06	family=win.nanocore | confidence=95% threat=payload
+07d421f571027adabae15b5d7d2644b4	ThreatFox	2026-10-06	family=win.vidar | confidence=95% threat=payload
+0fecb72b1e5b1fc4f5a00fec90beb85b22b6ec9be8139dd4cdf448087decefd5	ThreatFox	2026-10-06	family=win.asyncrat | confidence=95% threat=payload
+d9e3aad9d528c2cbcf57362306e6b5df	ThreatFox	2026-10-06	family=win.asyncrat | confidence=95% threat=payload
+d79a04df3971fc9519d5c9e28c224ae429ea9c57ef05cf4908d7ebd9eed3f048	ThreatFox	2026-10-06	family=win.vidar | confidence=95% threat=payload
+0ee59ae82757f58215d22a5c81e32573	ThreatFox	2026-10-06	family=win.vidar | confidence=95% threat=payload
+6baea71e36ded632af5dd706a7bafa25	ThreatFox	2026-10-06	family=win.nanocore | confidence=95% threat=payload
+9515a9525a7533ba496952c8060bc7cc2794cecec2674b32adb2c7c0aa3d1a1f	ThreatFox	2026-10-06	family=win.vidar | confidence=95% threat=payload
+6423288fa0a9d90a7faa2b610debe347	ThreatFox	2026-10-06	family=win.nanocore | confidence=95% threat=payload
+4b204193a8b7165f99a401a2ab33505c5f3af565ec3a8340cbcbda15b1a2bb53	ThreatFox	2026-10-06	family=win.nanocore | confidence=95% threat=payload
+960b0b1d55bbea03966505540d6ddff28a3400206621c73bd9e0627f47cf8349	ThreatFox	2026-10-06	family=win.vidar | confidence=95% threat=payload
+f39df780d3a02dc4524ec85c8c38ce55	ThreatFox	2026-10-06	family=win.vidar | confidence=95% threat=payload
+176e3b8bb480955589c292be9e74c38fb08ba73046c3e3016597384337f95efe	ThreatFox	2026-10-06	family=win.nanocore | confidence=95% threat=payload
+86313a101f0fd884ea5bf11bb281b4e0c9faf4155cf1c46a4ddb0b8ba376632a	ThreatFox	2026-10-06	family=win.netwire | confidence=95% threat=payload
+3effb7b4d5b81a4936d3254f01093d11	ThreatFox	2026-10-06	family=win.netwire | confidence=95% threat=payload
+5d7d506f8c627c54dcb0b3c18e8549dfa2af4f468e0c418f9f2819e8ee22adf4	ThreatFox	2026-10-06	family=win.phorpiex | confidence=95% threat=payload
+149428fbb8622cd08b18f008e24d54c6	ThreatFox	2026-10-06	family=win.phorpiex | confidence=95% threat=payload
+fa3e9bf80185c5524b3669d856f619ff94538fb71b3c56a636cc0d819e3e81a1	ThreatFox	2026-10-06	family=win.vidar | confidence=95% threat=payload
+f2d88aa41c35d7b0af0c79b8ef09192f	ThreatFox	2026-10-06	family=win.vidar | confidence=95% threat=payload
+e740b087ea540c1fabcb0623399c7142aa6dd68fd9b4a4cadd7521170c332935	ThreatFox	2026-10-06	family=win.coinminer | confidence=95% threat=payload
+cfcc97cb95e356ac0cd2e295c025dd25	ThreatFox	2026-10-06	family=win.coinminer | confidence=95% threat=payload
+960d0238a337c963c5eba8ac6010b5d8	ThreatFox	2026-10-06	family=win.netwire | confidence=95% threat=payload
+ad6a7fe9c9d21c0f6d68b3d44f966150	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+7e3841913e2fd4e3ecf9d382dcd7becd	ThreatFox	2026-10-06	family=win.tofsee | confidence=95% threat=payload
+935ce08748c7a78cbf64a8d0e5341061	ThreatFox	2026-10-06	family=win.valley_rat | confidence=95% threat=payload
+b11a75c9d60e50866ba0d84af1a155c6	ThreatFox	2026-10-06	family=win.netwire | confidence=95% threat=payload
+17461c93abf833a9514ee410f1fbafb1	ThreatFox	2026-10-06	family=win.netwire | confidence=95% threat=payload
+3da3c77545498bcaf0d6fe67e86ab53e	ThreatFox	2026-10-06	family=win.valley_rat | confidence=95% threat=payload
+fdc1fc279a15ba9f8e02f1eb46616475	ThreatFox	2026-10-06	family=win.netwire | confidence=95% threat=payload
+c0c6f6e0731a319cc92f90ca789dcc3d	ThreatFox	2026-10-06	family=win.netwire | confidence=95% threat=payload
+cd44fdd1585f6be07433627dbf3aa5f2	ThreatFox	2026-10-06	family=win.netwire | confidence=95% threat=payload
+afdd9d7685e2394ef444e693964f4095	ThreatFox	2026-10-06	family=win.netwire | confidence=95% threat=payload
+8c224bd3347c99685ac39d0322fbcde5	ThreatFox	2026-10-06	family=win.netwire | confidence=95% threat=payload
+99088294d431c0b4b63269202dba2d00	ThreatFox	2026-10-06	family=win.wannacryptor | confidence=95% threat=payload
+06967803198f1be4c67fbfc2d5176ce9	ThreatFox	2026-10-06	family=py.stealler | confidence=95% threat=payload
+df241bd3374ab72337100903f4ee161e	ThreatFox	2026-10-06	family=py.stealler | confidence=95% threat=payload
+40e7e77aff603f4c2ef17b3bc8ea836e714d0734a1e5b946e52f95536ec5c91d	ThreatFox	2026-10-06	family=py.stealler | confidence=95% threat=payload
+fbf5502d96d5e50e2084d6f11269460c	ThreatFox	2026-10-06	family=win.wannacryptor | confidence=95% threat=payload
+ca14ad0344dc7216f6da29a5cbe4237d886cc5257e8c3a48fb4885a311c9b800	ThreatFox	2026-10-06	family=py.stealler | confidence=95% threat=payload
+d2a9b590d61563ef68407d1f1afaab4e	ThreatFox	2026-10-06	family=py.creal_stealer | confidence=95% threat=payload
+b9fcda5008f194cb1d90a7fc1c30ac6240b7ca3fe1dff8c6e7c42c802ba25abd	ThreatFox	2026-10-06	family=win.wannacryptor | confidence=95% threat=payload
+b51388e42f98c44816102b669880e625	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+b2d0acd9d080794496faa1b3d7de902b3fb78329cddfe4deda33cbabe6e79a23	ThreatFox	2026-10-06	family=py.creal_stealer | confidence=95% threat=payload
+bfc0848e67feb2b80c7bf5ba9c1efe27	ThreatFox	2026-10-06	family=jar.crossrat | confidence=95% threat=payload
+9c374c3801bdcfa56b3c6c264ecb9e54acae6536b5ca77b9927abf76592457a4	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+1ad3729976f26d9d7ea44e2a7195b572	ThreatFox	2026-10-06	family=jar.crossrat | confidence=95% threat=payload
+2b0ca329e37f6cf14c33735d1c0d2e85d47354b9839798bfef7beb19df664975	ThreatFox	2026-10-06	family=jar.crossrat | confidence=95% threat=payload
+83f7f0a5a5475b33c66e39c8afe6c293	ThreatFox	2026-10-06	family=py.creal_stealer | confidence=95% threat=payload
+0693e042dd629efb54a385e8fee6cd00c7a54543d31bceb3f790365a72e55448	ThreatFox	2026-10-06	family=jar.crossrat | confidence=95% threat=payload
+cb345182c2482cb19834f6e0bfc0322c	ThreatFox	2026-10-06	family=win.shimrat | confidence=95% threat=payload
+d3ac1fa2c9bb8ef73f91f699b9896f45a65021c5b1e4bbff1b1ea0b701066f81	ThreatFox	2026-10-06	family=py.creal_stealer | confidence=95% threat=payload
+0709e53641829dc93945aece20e2da21	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+b975fc15637a72cb3452655dc5d7ba2d8230bda8a5752c3047eb4c0851c4c372	ThreatFox	2026-10-06	family=win.shimrat | confidence=95% threat=payload
+f19a811deb8f1af8d6b3b6b922b5bc90e64fe7bf246206bb061aa89572bf5828	ThreatFox	2026-10-06	family=py.rn_stealer | confidence=95% threat=payload
+29edbb113a824210409cf41619959db7	ThreatFox	2026-10-06	family=py.rn_stealer | confidence=95% threat=payload
+fa1d013f5d8f4833ca5e80b1987ce0908625fab234048fe16e293d5ccbb963fa	ThreatFox	2026-10-06	family=win.formbook | confidence=95% threat=payload
+8240919c6c1723113f8db83d8dffcba3	ThreatFox	2026-10-06	family=win.wannacryptor | confidence=95% threat=payload
+17161ca9b95f7b2550a69cc0f2fce78ae93ae27869f6652fd54cbc2bbec68b38	ThreatFox	2026-10-06	family=win.xworm | confidence=95% threat=payload
+14873f091ec6e4b5cd510745741f246e	ThreatFox	2026-10-06	family=win.xworm | confidence=95% threat=payload
+4a17cee02deaf2bd7f9bf3f2cd4dff37	ThreatFox	2026-10-06	family=py.rn_stealer | confidence=95% threat=payload
+f08f76ee0bc11c6383b83b70fb86dccd7668b76e17450d42453942b8fc148dea	ThreatFox	2026-10-06	family=win.wannacryptor | confidence=95% threat=payload
+2ced628a3e6299fee6186021aec817cf	ThreatFox	2026-10-06	family=py.rn_stealer | confidence=95% threat=payload
+b025d3a95f71cfb81f4d4e0162ab1f9a1d821c098bbf1fe5de7fdef73f1ea67e	ThreatFox	2026-10-06	family=py.rn_stealer | confidence=95% threat=payload
+7ef0b121f0059de02cea8c1280f4fdd0c440b057346984bfcf8606a2a66a8148	ThreatFox	2026-10-06	family=win.wannacryptor | confidence=95% threat=payload
+79ce4d0c02c4a1c3192615ed9f9b1962	ThreatFox	2026-10-06	family=win.wannacryptor | confidence=95% threat=payload
+acabede7ef8b0c5ed4a49ef82c58329ed97825e6d9a1d0c6d6425f3bb754cf5a	ThreatFox	2026-10-06	family=py.rn_stealer | confidence=95% threat=payload
+7f4c68c231b9470d423b5d1ae06b8a9f	ThreatFox	2026-10-06	family=win.acr_stealer | confidence=95% threat=payload
+ed554c51f7f69c2ca0e80c18d4b0e1240a33d74ba999ec9006cf5440b1f7bdb4	ThreatFox	2026-10-06	family=win.coinminer | confidence=95% threat=payload
+2feb859f5ad6cbb84746b2be2bac7c99	ThreatFox	2026-10-06	family=win.coinminer | confidence=95% threat=payload
+1f75cb137ec2c546b8b825d243cd0e4b	ThreatFox	2026-10-06	family=win.acr_stealer | confidence=95% threat=payload
+029d8159751de5f6faabe86b4f7b5077	ThreatFox	2026-10-06	family=win.phorpiex | confidence=95% threat=payload
+2450fabd7c6ac77f8c79b9171f4a9f85faf200c46cf3390930847f677347abe6	ThreatFox	2026-10-06	family=win.vipkeylogger | confidence=95% threat=payload
+e22066ff2cc65fb93c5bbd799e0245a5	ThreatFox	2026-10-06	family=win.vipkeylogger | confidence=95% threat=payload
+13464460a6a916cfcfeba3f29c7d16708bf4ec638af94b0a3b165c5ccb994eb6	ThreatFox	2026-10-06	family=win.phorpiex | confidence=95% threat=payload
+fd0d23011657d0185f6e4fb5fe57eb7894c9fc606b9ae5fc6b977efcb2ef1eeb	ThreatFox	2026-10-06	family=win.agent_tesla | confidence=95% threat=payload
+00b61ee4c9907cb2dc9daadeacaa3e05	ThreatFox	2026-10-06	family=win.agent_tesla | confidence=95% threat=payload
+3b9d2c4c21957d21b76e3b839f8d14d1	ThreatFox	2026-10-06	family=win.aurastealer | confidence=95% threat=payload
+ca5b62520e1452a26b3c83357d36bf0b3bf88db37a0bc8050062be4bd0851a16	ThreatFox	2026-10-06	family=win.quirkyloader | confidence=95% threat=payload
+61401e999d0655f1f3f49e71d43f4347	ThreatFox	2026-10-06	family=win.quirkyloader | confidence=95% threat=payload
+7140d529758138bc7f87f651d82f17fcd2fe3afb17c7d827e88721796778c1a4	ThreatFox	2026-10-06	family=win.aurastealer | confidence=95% threat=payload
+f3cdb85bf342b4efd4abf22ccaeb3cec511b5f6fe7bb9e4f1b9461f090425971	ThreatFox	2026-10-06	family=win.vanillarat | confidence=95% threat=payload
+805836d85d002b708ac1693c1117f863	ThreatFox	2026-10-06	family=win.vanillarat | confidence=95% threat=payload
+63a4f55282106baed0ef20a3017768fd1fca367d63bf12206768e18211b985a0	ThreatFox	2026-10-06	family=win.collection_rat | confidence=95% threat=payload
+4951465b8b9db30de15a8034b4e62137	ThreatFox	2026-10-06	family=win.collection_rat | confidence=95% threat=payload
+5688131c6dbe9c8bfef086dd441a588dbf26902d30cdf06cc81518cc25f81f6c	ThreatFox	2026-10-06	family=jar.microstealer | confidence=95% threat=payload
+33f25a90e23674dfbdae66a02f7ccce3	ThreatFox	2026-10-06	family=jar.microstealer | confidence=95% threat=payload
+4c3747305b868bc35cdc0c06783c2414	ThreatFox	2026-10-06	family=win.xworm | confidence=95% threat=payload
+62fe42ce45fd48c9c492758f58e2763d	ThreatFox	2026-10-06	family=win.phorpiex | confidence=95% threat=payload
+ff8d4e85afc851f980f7227ebfddcabf75926a6306d4355b1062f0070141c8eb	ThreatFox	2026-10-06	family=win.xworm | confidence=95% threat=payload
+3dbbd0d946ccb43a77198e3b863c8b3150f6f328ac7c7e196cc75cd2519755e3	ThreatFox	2026-10-06	family=win.phorpiex | confidence=95% threat=payload
+70185ccd2aca8d2232164abe51699c4698bed86c551c9edf284063b5791c054e	ThreatFox	2026-10-06	family=osx.amos | confidence=100% threat=payload
+a4f5bec5e206631a718b88e16f1a5fa3ebd0ad55955fd30001c29e42b601beeb	ThreatFox	2026-10-06	family=unknown_rat | confidence=100% threat=payload
+2d8fb6368c33ba76766834ab0737e9e830d8413ece0e7568a93fa3f894cd7ef9	ThreatFox	2026-10-06	family=unknown_rat | confidence=100% threat=payload
+ff1d48aeeda856e3b2f6aac842dc393e1156e1d5f783b1e7f812b3b0d5eb2986	ThreatFox	2026-10-06	family=unknown_rat | confidence=100% threat=payload
+c7ef30d2fbc1fad85c9e14c200b9328b7be55b83ab2080e8dd7e25be76abb2dc	ThreatFox	2026-10-06	family=unknown_rat | confidence=100% threat=payload
+5c1bf506401bda993ceedaf28b90ebff6d6beb92f33b9b975c21fc85b1be2614	ThreatFox	2026-10-06	family=unknown_rat | confidence=100% threat=payload
+debdc34170bd40bf2e18611eeb4605f99bd146b88c694cb1d7cf751976ead49e	ThreatFox	2026-10-06	family=unknown_rat | confidence=100% threat=payload
+dbe63e6863be3fefc70f8446134129f8351147c213cea78696e324429cf29393	ThreatFox	2026-10-06	family=unknown_rat | confidence=100% threat=payload
+b2c851105fa97e65b4a9068bba3d832b02a0bcb5d594f689e07391403305ebb7	ThreatFox	2026-10-06	family=unknown_rat | confidence=100% threat=payload
+37ee0b813c06da8eaabc00327c1f06895ab17702624c659047d77dec0344e419	ThreatFox	2026-10-06	family=osx.amos | confidence=100% threat=payload
+a45e7396cd5e64cf9ea7567f0e8d56d4a41c4b1b168981f8f0fb33e7e2a3dce5	MalwareBazaar	2026-10-07	family=Mirai | filetype=elf md5=27c6dacc56d653e983342df7b2efc145 sha1=9927374ad0144cec8f0e2dece691570b78a344ed
+965e3c0a85daa83a38e5841a77fad2407f42b28870ccab3f48efb7999c424127	MalwareBazaar	2026-10-07	family=Gafgyt | filetype=elf md5=fc8e8e1cc3e7e95a862d0aedae57edb7 sha1=be5049d292035d40c4e0176270fe69e156e1cdb2
+7bb04811138fbe63e93a45e2e3afe0e68e0145e2dd06626880579922c191d611	MalwareBazaar	2026-10-07	family=Mirai | filetype=elf md5=148e6004cd5f251661970302a0bfcab2 sha1=950ad8a34b9594c1e7a7cc8ee800c8e2c33ef876
+52b29b43b364314968aaca8ef61f87e05d68bca81e3dfd445093c18cd6ea5ceb	MalwareBazaar	2026-10-07	family=NetSupport | filetype=zip md5=7e9611ba6f7e50de7e59121407a49994 sha1=fbea420d9eef9ccd52935dc5c213831617ec7d72
+c57fa43fe729fc45ac725798a3f12d1eafcbe9b91c14046e98485033cb7e4fc9	MalwareBazaar	2026-10-07	family=NetSupport | filetype=ps1 md5=a2ae3848e94e1b993e92be023791103d sha1=a490617c99c1a1f999b42d989d69afebd51bd7bf
+5c4e263546fb21f8fe8732789a5b6583eaa8ae11ebeef099462a7c9bf50e022d	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+9391c6ad17aced1142607c0c623b18d86a7697cc483d204ffac94093e26b8068	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+e4d12208789f36efc5a1ff765088fed95d6bb5972d1a804a4536fd42366797d4	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+2ed54e0f988a62039abed88f6394eb1e3d5ed931f0183556055417fb08844ecf	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+b90640b392827b4f2d280f6cf67860862953331917d42df23e1653a92f2f98ad	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+f49f45303cbfccee14ff193ac9608f860e6d616f08c0ecbef1ec44f7c863d7ec	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+284e5ec8748f99fd1b8c331b699a5fe5fd4448bbaae0347a940f427f931c4d14	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+10d83c1748895361e07320f68d44d427b43cadd2cbffe0ab5e607ab03aec83da	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+6581bf37184bb2db899b9893064d39dd314ea691adf3281cc0aa7e0a31e5138a	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+dfba6008a2c828a9cb62342aec53006ae05a60cb8d4c41c3fa216fd727e8c6a3	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+c0d8ffebfba969b1c1ca76bd9623bb623e9f95155c8ceca77d8fcc521435a497	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+26cec4fe9fd641e2b9090c1551ee53cf	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+77a5e2f921c3362bc41509b8f652d920498cc6cb	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+852633e73ad0599e97d95abd28cd1300	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+945649b61f00dd7e9421609b8fb1bc2fd51f4f1d	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+85d9be558ce4625727d6a9e9c6f9983d	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+d8352cb67e9248f20c094aacdb6db3672ad040b1	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+123fdb418381ba3f48ee6a148102cdf9	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+2ae68307f85f71d4a295da575852bd0788ae9510	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+2e137a9159866bc875aaba0a338a86fd	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+a2821814bdcf85147839dc562214fed3bb3d4399	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+40f9b42b27e0a8fbcecf95d0c25a2488	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+d6f046773777c89090553aae9704e60cfeae1e3c	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+5ed4362cf8699c15db20c94a3455bfa6	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+c1d8e2829ea63b9dc1cf2c3421a5093406adad4d6622e238376e78e908e0e6e8	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+43dfd7c327e901813a30e31ef03a2263	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+5f8cf9aebdcffdc024465a8fcc6e1458	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+8e2cfa38ab3f407594a989e7e8e2bf6b	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+921f3db238c3e981a5ca72c0baed0f74	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+9ce0dca8fcc93b420c8fb3f2d74fe355	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+b46db2538f904a4005afbc2ac134e1d6	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+d99461f6b0ec318b8dedd9af28521628	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+05f3ae2e66a70805e6a5cd3a55329c64cf75f3b4	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+19a859f0071957afd9e3b5af7b6e63638bc2de08	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+2084822bdf611ac1d36aa0ae2e16b1a40489adb2	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+228ee086f6f390b02f72ecdb69bae54cecf666ae	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+5c8d0d056d8fffe1278c815bebad71e5d0282656	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+ba11db5e221529e776d71c7190b86df2fad0e817	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+c72b0b8073087dd7dfb3233dc0ce181b49d75d5b	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+cab486a91c8efea9ad21354bf1ec9104163ca8a6	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+121f2050e3c891b29565fd73451fff7ae60199c86eb8d79ec1eb1d9844578487	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+48962b3893f2c8261e32e6b95ea7d463d145a529a8b2a6c987dd979454405c73	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+48f9b72ce72ab7087794650d6eef10135345088384fbde1482f1c74a02b80302	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+4fbd61cb9181ebbc4fe9a6e59d3c346dc00001da48d66bd890556fc6fad22b07	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+76692a23abe718b93e63edefd743971ec627c0cdf3778f856bd5ec88003deaa2	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+a297eddfa7abea8d411afc0f150f8f6f30e470a77204de87e3b0815fa9bb8a84	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+dc892f5013edb0aa1e61e808511387373d8d120348b5be0929621d21e6e9946a	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+ec199c78c11040fd3127887222fd75a85e5797bf96aa691a117fdd83dd663d81	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf

@@ -13269,3 +13269,72 @@
 102.220.161.92	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
 104.249.10.101	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
 102.220.163.27	OTX	2026-10-05	family=XWorm | pulse='XWorm Malware: Worming Its Way From Entry to Exploitation' pulse_id=6ac34ecea12957741eb7ac1b
+45.55.202.73:9932	ThreatFox	2026-10-07	family=win.remus | confidence=100% threat=botnet_cc
+128.90.102.194:2015	ThreatFox	2026-10-07	family=win.remcos | confidence=100% threat=botnet_cc
+128.90.108.50:2424	ThreatFox	2026-10-07	family=win.remcos | confidence=100% threat=botnet_cc
+204.44.93.119:7878	ThreatFox	2026-10-07	family=win.remcos | confidence=100% threat=botnet_cc
+87.232.123.60:4326	ThreatFox	2026-10-07	family=win.remus | confidence=100% threat=botnet_cc
+104.248.155.168:9034	ThreatFox	2026-10-07	family=elf.aisuru | confidence=100% threat=botnet_cc
+128.90.108.89:2424	ThreatFox	2026-10-07	family=win.remcos | confidence=100% threat=botnet_cc
+91.92.47.97:23004	ThreatFox	2026-10-07	family=elf.bashlite | confidence=75% threat=botnet_cc
+103.254.61.170:3889	ThreatFox	2026-10-07	family=win.remcos | confidence=100% threat=botnet_cc
+46.246.14.21:5987	ThreatFox	2026-10-07	family=win.remcos | confidence=100% threat=botnet_cc
+194.116.236.83:15800	ThreatFox	2026-10-07	family=win.remcos | confidence=100% threat=botnet_cc
+154.12.17.20:22	ThreatFox	2026-10-07	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+154.12.17.20:443	ThreatFox	2026-10-07	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+154.12.17.20:80	ThreatFox	2026-10-07	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+38.55.252.139:6689	ThreatFox	2026-10-07	family=unknown | confidence=100% threat=botnet_cc
+129.204.55.230:443	ThreatFox	2026-10-07	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+89.32.41.111:7193	ThreatFox	2026-10-07	family=elf.potassium | confidence=100% threat=botnet_cc
+89.32.41.114:7193	ThreatFox	2026-10-07	family=elf.potassium | confidence=100% threat=botnet_cc
+89.32.41.117:7193	ThreatFox	2026-10-07	family=elf.potassium | confidence=100% threat=botnet_cc
+89.32.41.128:7193	ThreatFox	2026-10-07	family=elf.potassium | confidence=100% threat=botnet_cc
+89.32.41.146:7193	ThreatFox	2026-10-07	family=elf.potassium | confidence=100% threat=botnet_cc
+89.32.41.108:7193	ThreatFox	2026-10-07	family=elf.potassium | confidence=100% threat=botnet_cc
+89.32.41.109:7193	ThreatFox	2026-10-07	family=elf.potassium | confidence=100% threat=botnet_cc
+89.32.41.19:38429	ThreatFox	2026-10-07	family=elf.potassium | confidence=100% threat=botnet_cc
+45.79.198.116:443	ThreatFox	2026-10-07	family=win.havoc | confidence=100% threat=botnet_cc
+94.143.143.253:8090	ThreatFox	2026-10-07	family=win.dcrat | confidence=100% threat=botnet_cc
+120.26.49.92:5432	ThreatFox	2026-10-07	family=win.vshell | confidence=100% threat=botnet_cc
+89.32.41.59:7193	ThreatFox	2026-10-07	family=elf.potassium | confidence=100% threat=botnet_cc
+89.32.41.19:27651	ThreatFox	2026-10-07	family=elf.potassium | confidence=100% threat=botnet_cc
+8.210.166.12:54317	ThreatFox	2026-10-07	family=win.vshell | confidence=100% threat=botnet_cc
+132.243.187.133:27651	ThreatFox	2026-10-07	family=elf.potassium | confidence=100% threat=botnet_cc
+89.32.41.19:23789	ThreatFox	2026-10-07	family=elf.potassium | confidence=100% threat=botnet_cc
+89.32.41.19:49376	ThreatFox	2026-10-06	family=elf.potassium | confidence=100% threat=botnet_cc
+89.32.41.19:7193	ThreatFox	2026-10-06	family=elf.potassium | confidence=100% threat=botnet_cc
+47.94.56.71:8080	ThreatFox	2026-10-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+47.94.56.71:80	ThreatFox	2026-10-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+130.94.16.10:443	ThreatFox	2026-10-06	family=elf.jackskid | confidence=100% threat=botnet_cc
+130.94.77.120:443	ThreatFox	2026-10-06	family=elf.jackskid | confidence=100% threat=botnet_cc
+38.60.199.126:443	ThreatFox	2026-10-06	family=elf.jackskid | confidence=100% threat=botnet_cc
+47.94.56.71:443	ThreatFox	2026-10-06	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+5.180.42.176:7443	ThreatFox	2026-10-06	family=unknown | confidence=75% threat=botnet_cc
+45.76.161.231:8848	ThreatFox	2026-10-06	family=win.dcrat | confidence=75% threat=botnet_cc
+217.165.57.21:7707	ThreatFox	2026-10-06	family=win.asyncrat | confidence=75% threat=botnet_cc
+194.59.31.71:56001	ThreatFox	2026-10-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+192.162.199.186:6606	ThreatFox	2026-10-06	family=win.asyncrat | confidence=75% threat=botnet_cc
+170.238.45.33:7222	ThreatFox	2026-10-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+135.136.148.30:443	ThreatFox	2026-10-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+104.249.10.19:56001	ThreatFox	2026-10-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+104.243.248.63:411	ThreatFox	2026-10-06	family=win.asyncrat | confidence=75% threat=botnet_cc
+104.194.155.6:8443	ThreatFox	2026-10-06	family=elf.evilginx | confidence=75% threat=botnet_cc
+114.66.20.236:8008	ThreatFox	2026-10-06	family=win.quasar_rat | confidence=100% threat=botnet_cc
+38.55.252.139:8443	ThreatFox	2026-10-06	family=unknown | confidence=100% threat=botnet_cc
+89.32.41.19:15987	ThreatFox	2026-10-06	family=elf.potassium | confidence=100% threat=botnet_cc
+43.228.157.72:1208	ThreatFox	2026-10-06	family=win.remcos | confidence=100% threat=botnet_cc
+89.32.41.49:7193	ThreatFox	2026-10-06	family=elf.potassium | confidence=100% threat=botnet_cc
+2.59.163.77:32876	ThreatFox	2026-10-06	family=elf.potassium | confidence=100% threat=botnet_cc
+102.220.163.130:14644	ThreatFox	2026-10-06	family=win.remcos | confidence=100% threat=botnet_cc
+151.241.154.23:7007	ThreatFox	2026-10-06	family=win.xworm | confidence=75% threat=botnet_cc
+91.92.242.19:7193	ThreatFox	2026-10-06	family=elf.potassium | confidence=100% threat=botnet_cc
+45.227.253.132:8080	ThreatFox	2026-10-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+45.227.253.132:443	ThreatFox	2026-10-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+45.227.253.132:80	ThreatFox	2026-10-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+155.2.192.88:7193	ThreatFox	2026-10-06	family=elf.potassium | confidence=100% threat=botnet_cc
+51.89.199.102:7193	ThreatFox	2026-10-06	family=elf.potassium | confidence=100% threat=botnet_cc
+139.162.5.254:3778	ThreatFox	2026-10-06	family=elf.mirai | confidence=80% threat=botnet_cc
+128.90.108.109:2405	ThreatFox	2026-10-06	family=win.remcos | confidence=100% threat=botnet_cc
+124.163.212.119	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+222.223.152.97	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+118.145.196.225	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf

@@ -1,0 +1,40 @@
+title: Network Connection to Clingstun Infrastructure
+id: 44473d2e-3c72-4736-aec7-ca7f60337b3c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Clingstun.
+date: 2026-10-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clingstun
+    - cve-2014-8361
+    - cve-2016-20016
+    - cve-2019-17621
+    - cve-2019-7256
+    - cve-2021-35394
+    - cve-2021-36380
+    - cve-2022-26289
+    - cve-2022-35555
+    - cve-2022-36553
+    - cve-2022-37055
+    - cve-2023-1389
+    - cve-2023-26801
+    - cve-2023-41011
+    - cve-2023-46805
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '124.163.212.119'
+        - '222.223.152.97'
+        - '118.145.196.225'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
