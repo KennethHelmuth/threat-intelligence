@@ -18024,3 +18024,158 @@ cab486a91c8efea9ad21354bf1ec9104163ca8a6	OTX	2026-10-05	family=ClingSTUN | pulse
 a297eddfa7abea8d411afc0f150f8f6f30e470a77204de87e3b0815fa9bb8a84	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
 dc892f5013edb0aa1e61e808511387373d8d120348b5be0929621d21e6e9946a	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
 ec199c78c11040fd3127887222fd75a85e5797bf96aa691a117fdd83dd663d81	OTX	2026-10-05	family=ClingSTUN | pulse='ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure' pulse_id=6ac4285a7c6e1cd492e8b2cf
+b789adce70c028a6d17be45ec34667aa95586350ee0c4057e75b138b1ad35061	ThreatFox	2026-10-07	family=unknown | confidence=100% threat=payload | vt=44/75
+26b837f91d2341ea1e817c4654a53e0ff75feb6c6f7e341ae61158ae24fa6f67	MalwareBazaar	2026-10-08	filetype=exe md5=056af6e243e697da008000123fc257ce sha1=37af7cdf53f6b3f46283ced38ed00dd0ded00774 | vt=7/75
+bb85ba27f3091b70021fcd35e9be354fd8506078b7d4714991f9df061b80613a	MalwareBazaar	2026-10-08	filetype=exe md5=3c40b2fa960b679bf23d62ca9aa73cb0 sha1=bc8a695e9bddd6e505f0487f93994a9db471006e | vt=12/75
+3b29e7696318a7d1b1a9cbea7a65575ef9c3e833849c95eab7ad4f071a840bf3	ThreatFox	2026-10-08	family=osx.amos | confidence=100% threat=payload
+eb692b8b90ec35472cadafa1444f311b1d2e24fce84d40a1c5b43c7ea1b75812	ThreatFox	2026-10-08	family=osx.amos | confidence=100% threat=payload
+c984e75c6510b5b3b89824a4817b7094c1a51990e5b6fc7e2d20d4ca3cdcc39d	ThreatFox	2026-10-08	family=osx.amos | confidence=100% threat=payload
+199694033b66e4b868e19e1b17c10e7e402ffb58bf3c989e91ff45e6d65c7956	ThreatFox	2026-10-08	family=osx.amos | confidence=100% threat=payload
+c3cc91ff61e4da3977a5de3336ddfe4ba737f951a354c5a987c9ef2491915bb0	ThreatFox	2026-10-07	family=osx.amos | confidence=100% threat=payload
+1b564478966dea1b542c33b6076f7b1c14eed16c558e8b25e3d9f3b84286a4ec	ThreatFox	2026-10-07	family=osx.amos | confidence=100% threat=payload
+f05eea5f3134477c4b892677aea0600255b3351e9b69211f023f3d366b0b12f6	ThreatFox	2026-10-07	family=osx.amos | confidence=100% threat=payload
+c0a8657812d38d49f796266003043b604826dbfb358b9167e520fb0949762be1	ThreatFox	2026-10-07	family=osx.amos | confidence=100% threat=payload
+a8dd58cca69cff0ca3d6786686ece74e67804e4ea1ce961aab37ee9520fe2998	ThreatFox	2026-10-07	family=osx.amos | confidence=100% threat=payload
+9d4da288496157ce8e49f4bd99ddeddd10fcdccea2239d0e7a06ea55ba3dabbf	ThreatFox	2026-10-07	family=osx.amos | confidence=100% threat=payload
+a824398b7923e0945551b06f47c400ed	ThreatFox	2026-10-07	family=win.quantloader | confidence=95% threat=payload
+b94b0462a88c7f7f45e8ab7c4b4bdaeb54ac646a1720b89bdcaf580074a4a54a	ThreatFox	2026-10-07	family=win.quantloader | confidence=95% threat=payload
+3c19ef23dc3dec572cd6f2222dd07300	ThreatFox	2026-10-07	family=win.titan_stealer | confidence=95% threat=payload
+eb4ec97f2b54bac88140eb4639a1674d2a1fa81f05b01b36cae58c4d46a7c158	ThreatFox	2026-10-07	family=win.titan_stealer | confidence=95% threat=payload
+8f9fc33ab36f20a0938eb86652e6eaa1	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+11d7da51a1d765e6f6946b27566876a5c42e4d157bdb2c9f45dc579c87417f31	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+d77b96fe72bfd13d513ab559cba4b308	ThreatFox	2026-10-07	family=win.wannacryptor | confidence=95% threat=payload
+5ec4c1ecaf67ba48a7f6ccebc065e587e7629654e455b15f67894240e63ac704	ThreatFox	2026-10-07	family=win.wannacryptor | confidence=95% threat=payload
+41943a34fd0115c01bddf99f57b1dbf7	ThreatFox	2026-10-07	family=win.vidar | confidence=95% threat=payload
+cd3158bdde5b7145a69e72579fb14577c0f8eb1e49de549968a8ecbf6c3c4701	ThreatFox	2026-10-07	family=win.vidar | confidence=95% threat=payload
+05f8f93fb8a821aade444de558350595	ThreatFox	2026-10-07	family=win.stealc | confidence=95% threat=payload
+ffce7a3896c7e9e8172737d45c1eaed7f62b0a09b65ce22c5eeff9f25b7ace9d	ThreatFox	2026-10-07	family=win.stealc | confidence=95% threat=payload
+e7baec9e0a38ba52d7a8a545e9dbf6c9	ThreatFox	2026-10-07	family=win.vidar | confidence=95% threat=payload
+24abb4702809d350ec17986d645a0d453efc0fd6d499d87fb01e0b5cb1a65160	ThreatFox	2026-10-07	family=win.vidar | confidence=95% threat=payload
+b2d8a7fa418143a4542b28c53e86a080	ThreatFox	2026-10-07	family=win.vidar | confidence=95% threat=payload
+b106a8b8ffa1c67e0e8f21a2015d0f0935e16e9e710c95b1bef3f924d532bd76	ThreatFox	2026-10-07	family=win.vidar | confidence=95% threat=payload
+3860c03927290688db2f7769140103e4	ThreatFox	2026-10-07	family=elf.kuiper | confidence=95% threat=payload
+77a8d1bcbc9c79e76e64b5fd50aeda23d4d9a0ca42299f0f7a72f8da032fcc54	ThreatFox	2026-10-07	family=elf.kuiper | confidence=95% threat=payload
+1daec83a0a8e7909926a47f945058b89	ThreatFox	2026-10-07	family=win.vidar | confidence=95% threat=payload
+7ffa8ceaba695ecb58868eac30c83433b87854f8ef6ba6d97938bbd462d486a9	ThreatFox	2026-10-07	family=win.vidar | confidence=95% threat=payload
+c756d5f25076629543879497dbd7e70a	ThreatFox	2026-10-07	family=win.vidar | confidence=95% threat=payload
+a36fbc117b0582e076f28cb9c81680c61f45a2ab9eac0f99ddb75a59537aab7a	ThreatFox	2026-10-07	family=win.vidar | confidence=95% threat=payload
+00e964422ebcfb8dce11fbe450fa09ce	ThreatFox	2026-10-07	family=win.vidar | confidence=95% threat=payload
+187089dffb448a9fc3d858e1d539ea70ba06a706d2b63dd44afc89d2ef1d2f8a	ThreatFox	2026-10-07	family=win.vidar | confidence=95% threat=payload
+c9a8bc2237b95e0543c5dc67192de2b5	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+eff4b583d6a3e0743b7ad853a8227cc04b83eb4d855cac31bdef4fb0185326a9	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+54fe1c9789a24b53141411cc1aeae09c	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+372f8a434264575c7adeaf66ffc090b454fab89a1ac5f49986f2a9ed8d25d357	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+b3517a69209242e49f8e1f463732f656	ThreatFox	2026-10-07	family=elf.kuiper | confidence=95% threat=payload
+d16d828d6538f903ab4b487994ced8f19a7cffc23944d30b7b724a194628b443	ThreatFox	2026-10-07	family=elf.kuiper | confidence=95% threat=payload
+dcf3b88561b92b4edb0682c8b799b37b	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+b17689e3da2c11a8034dee9389c5577366a3b4cbdfc77419c997713d5082dfc5	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+f54b4f48c6661e798e28c2213fc1007e	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+dba820c1f2c4778166063b0a20563b51c160ee6a3b08e4d5c2d4d7153a3ec081	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+4b35c97702037bcd235041c6bc786da1	ThreatFox	2026-10-07	family=py.venus_stealer | confidence=95% threat=payload
+27c743d1ff6531bcd8fb09f0a91caea95ad72c34e83782660236b6b34b81cde5	ThreatFox	2026-10-07	family=py.venus_stealer | confidence=95% threat=payload
+76c73259f756d7367280719ecc4ac8fd	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+2dbc1c3920315f24899eb0f9574d0c5e2e0c5b42d280b6a7a506b176305f7b09	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+5af41a745941cdc66963b2007167547f	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+2c195b625dee9271f543a9be087c9fb1b641255be29cc7c88fd811f7e1fe71d5	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+770e477b5f8cd94a6783140a3bb62225	ThreatFox	2026-10-07	family=win.yibackdoor | confidence=95% threat=payload
+749009376b352dfd21f7289f549c0ed3ff515f813eb1eaf2e604ba75be02c9c2	ThreatFox	2026-10-07	family=win.yibackdoor | confidence=95% threat=payload
+fa553cae460341d33e5b04d4296c601e	ThreatFox	2026-10-07	family=win.salatstealer | confidence=95% threat=payload
+dc978cecad6e55b168f42ffcaab296a4513c3a46af58707fb1f6af5d162a69e0	ThreatFox	2026-10-07	family=win.salatstealer | confidence=95% threat=payload
+7e29dd50712b2f02b0464b835e6f30af	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+8c65239167f3ec609a5a992ed143b68b3c1b3a5985cf8a6d3f528081de15d0ee	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+954d1293832b5296971ed38e973a9203	ThreatFox	2026-10-07	family=py.stealler | confidence=95% threat=payload
+30ddf81994d4d81feb012f1419bcab53	ThreatFox	2026-10-07	family=win.stealc | confidence=95% threat=payload
+a9a97675dd4fd2cad9b66f31c0bb3cf177cfbe40f29a664abce74b11da645984	ThreatFox	2026-10-07	family=win.stealc | confidence=95% threat=payload
+a31b3261aa04f232b7fcfc77777c43a7	ThreatFox	2026-10-07	family=win.formbook | confidence=95% threat=payload
+a21be069523269d370e173e5560617c4960e9cabfa03de22bd8fcae2c08e9e40	ThreatFox	2026-10-07	family=win.formbook | confidence=95% threat=payload
+3cd3c4d9dd4a76a03504feb2306e06e1	ThreatFox	2026-10-07	family=win.xworm | confidence=95% threat=payload
+9262713395e980851638ce2f5bac67be989449f82d76e25d0ef42fa8e59c0863	ThreatFox	2026-10-07	family=win.xworm | confidence=95% threat=payload
+004205ee89f2859b461343ef555ac608	ThreatFox	2026-10-07	family=ps1.phonyc2 | confidence=95% threat=payload
+b18d170c8044d8db1c1453f62c093eb0a25fb611803bea6dcaab445f1f361257	ThreatFox	2026-10-07	family=ps1.phonyc2 | confidence=95% threat=payload
+8c1013d622f0911854bffa3fc88a3377	ThreatFox	2026-10-07	family=win.krakenkeylogger | confidence=95% threat=payload
+0178f142fb4d44b716b5fdcbd83e324de8d2554014ef6d7c72378ee239bf363e	ThreatFox	2026-10-07	family=win.krakenkeylogger | confidence=95% threat=payload
+07424088937d177857bcde33b8512599	ThreatFox	2026-10-07	family=win.stealc | confidence=95% threat=payload
+ef767d259cbb694fb895ba874810f37d4bcc5fdf375ae7e70dc72bff4ccecba4	ThreatFox	2026-10-07	family=win.stealc | confidence=95% threat=payload
+3856cf206988acc6389777fa62c34cf5	ThreatFox	2026-10-07	family=win.wannacryptor | confidence=95% threat=payload
+01469b8a4aa195637983cc952ab5dac5e9b7b46091ac709f8819ef82fa4c8b26	ThreatFox	2026-10-07	family=win.wannacryptor | confidence=95% threat=payload
+ba6aa91e6afd6fd1f24295bc301f5df5	ThreatFox	2026-10-07	family=ps1.phonyc2 | confidence=95% threat=payload
+e163174c8acd0ddd4be15d1d208cecca3df7e805d5ded812023a427f8c72ce67	ThreatFox	2026-10-07	family=ps1.phonyc2 | confidence=95% threat=payload
+5c6a535c64562738470356602ed9c556	ThreatFox	2026-10-07	family=win.formbook | confidence=95% threat=payload
+bc179912f78307a8798ebc1ce7fb38b1d2b4baf6bfddf15da8ecef4c0923694e	ThreatFox	2026-10-07	family=win.formbook | confidence=95% threat=payload
+5fa55b6b9a680cf8dbd6b3c837c3ef15	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+703dfb12edc6da592e3dfb951ca2d84bf349e6a16ad3a2ab32b275349956e7c4	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+32fe0e340f94282426829537fad19278	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+006e08f1b8cad821f7849c282dc11d317e76ce66a5bcd84053dd5e7752e0606f	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+afaba06803129ca1030499d61ed4e9e1	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+5599ec1f3e1eb52a7e0f3b9dbd0c9849cf494c32ed1e50e76c43d2200daa283a	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+22b5da140ab6f792a511d2563052e6d2	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+5650f8e0904433247a0cdc68c7b73c68291b52523dad1edb93a9bd7439273698	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+7f7b18413fc3affe2b839c2d1f1638ef	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+6606a963beb709da2d87d685d998e126f2a52efaad64eab8bbb5ba70c7ca5194	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+3bf3cee2a23b80237efc3bc0cab31c87	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+97876c085318d8606e8478976d98dab77a7e905a87a4b0a27e20d794af25cd4c	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+27c967bd6e99502ebbf83ba547adff82	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+cb2ed2ece12a675e19f2b537840a2b5d8bcdd1d508ec5c386178e60161d2cfe8	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+d504445b92af18bfb49cbe8b296abcc4	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+b2bbdeb48f60e591d78ddc98fffc9504128e9b948fd58a54c2cfa927ff9db105	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+ea0f589e4bc2737119a1730477f8929b	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+218ab4cb7bf3622b4b8d5fa9196d817b91046e1eca84c26091f3f703ab214707	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+e086f2aa9d57cb7364f4ca4b3b58ee9b	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+91860b4d03b32a4ca6e8e92856272d953999934e6316f65677a615cbfb8d31d0	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+d47d3a5fe3ca39379423ea4e22bc5713	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+c55f5339abaf48b9392df67d5b6f6e011d878d7ee848724ad5dbe8c4d898ef23	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+05733c2d4e5ddaa277ece03df37c8ed6	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+7c9312ebe2afc299a0835a32700cdd2c5099c228799414c48058c0fb6095df9b	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+54f8f76d0dd0dcdbe85e4d32f7108ea0	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+01c3d2a947c56e16718f1f54c0820996dce1d44da25d38b2a9992eb16e6b11e6	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+d050774dcdcc830e4b4b8b10590df3f6	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+f6683adcb8a152d31ef1132ee3f4cb818dcf0b5e361f991286f9fb5d2d747afd	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+32c62fe1beafb431feaaf8f7fe410e26	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+7606a3b69488795fe2d71558caab7877ea313425e55a63aebb932d0d92b38aee	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+3432643e0e96ddeef83586e47d2083dc	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+32addf18477324f478bf93ac22be65550bc71450c9bc4fe49aa3be22219aae65	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+66d58031731fc12a2b31d51af1b9640a	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+0956ec57c3ddcd24c4d61bd6a4dd16b5f1468f701a286e46b761f5be4fc478ac	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+fec6a02b6d8be9580f24599241ea3191	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+b10d8bb537ab05e51f08d0b942ee9f92f3226d118fcac794d1a7396bbc0b531f	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+cdf2f76525ad09669316f8933183a071	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+a0c291e8942c8c7fecccff3fbdb65f65c76312d384a73d3748042a319209c91c	ThreatFox	2026-10-07	family=win.regphantom | confidence=95% threat=payload
+c38bfdb3613d4d0c0a5ff7c60a9416d6	ThreatFox	2026-10-07	family=win.luca_stealer | confidence=95% threat=payload
+c073f5c684eafc2b0b0c6dedbf6aaa0148f5d1e6f5cd4b1090a88991a22c89bf	ThreatFox	2026-10-07	family=win.luca_stealer | confidence=95% threat=payload
+3d22a007f0e5878fa47d9ded220b605d	ThreatFox	2026-10-07	family=win.agent_tesla | confidence=95% threat=payload
+44c2f46e91c4b65b6f0c8385910af36a4255bba0fdd7bfccf2199e7a9faf19f7	ThreatFox	2026-10-07	family=win.agent_tesla | confidence=95% threat=payload
+2915aca201ab1167ccc0918b08ae1ee0	ThreatFox	2026-10-07	family=py.venus_stealer | confidence=95% threat=payload
+ff6379a044085e27758b1718515b16869a1bba31bb5e31b989aeaf07178fe87a	ThreatFox	2026-10-07	family=py.venus_stealer | confidence=95% threat=payload
+219811d86a84844199c1d502295e15b6	ThreatFox	2026-10-07	family=py.venus_stealer | confidence=95% threat=payload
+b9f9c58e080f1b5028e8e331fdc0aa5d5c43646d747031615d4645800fe87a02	ThreatFox	2026-10-07	family=py.venus_stealer | confidence=95% threat=payload
+5acb6579fc74d66e67e0cdecddb46457	ThreatFox	2026-10-07	family=win.epsilon_stealer | confidence=95% threat=payload
+bed116abf922b28f79323cce3901e206e82cb4a37020c623217ff1541baa00f1	ThreatFox	2026-10-07	family=win.epsilon_stealer | confidence=95% threat=payload
+a7318a5f7aa1d21989ca284d9e750381	ThreatFox	2026-10-07	family=win.expiro | confidence=95% threat=payload
+d00833318a04caa019c6f95dcb3598ad947d405010bfb2f3cbd04530a00bc3a4	OTX	2026-10-07	family=Akira - S1129 | pulse='Akira Ransomware Attack Investigation' pulse_id=6ac614ca291abbad48bc40de
+1f1bb322591b6d27fd2946e373d7d2efc2f4e1e66818846060d391600b600fba	OTX	2026-10-07	family=Akira - S1129 | pulse='Akira Ransomware Attack Investigation' pulse_id=6ac614ca291abbad48bc40de
+6e7d9b33f1e72ea1ede71373a604ecdb060dab7d42055179c1eede9ecd1fd239	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+f5b12772db6817f7a765a6fe7565fd3d4f87edc28e42fe3ec0244a372a410fc9	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+53f35e49eb9b271fd8cbcd3daacb525328dbf159a03dbd1c7adebe0363daa402	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+3fd810a3aa0039993393741b32287c367a9a5037a41e826906440887cdd3ed13	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+76273382e4252c1f60a2251141e108942494409c759358320735891762c0682e	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+d3561bd4aad003dc3e08157b0891860bb496b80cd6e44901692e08ab1d4e8260	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+f5ba1645694c62f527ed6ceda8c68a5c3dd92b4032439167e8e937e72803b4bd	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+7cc571aca6d8715d9aaad3d83e1bcd30467565d583db1dfe73697c5d00a1f875	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+2ab34636eeab843b4bcbb6e44f033eab	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+38aa0f535e2c6273ccf4de19a7a0f044	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+3d809693b3d63f33126e9eb630fef8ff	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+5a796cdce448eddbf1aec1c7c186dacf	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+7244a27029d2fb104a598b40e9f284d9	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+8a062a2d0741b57fab9635920b17275b	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+b53f5d8baf6840fa3a5ea8e56d208ddf	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+f2f8db8dc4c4f9573e5aa265235c9d49	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+18586ca8e3e3c4633ed3fccd909a0be87ba0a573	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+701f2a5c8d8bdc28e51e11a12955197fbd652698	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+7fa5ce4031e57e608b4a2f92cacdaf9183dfe76a	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+8c839823f58e8965c770c900be2b2cf14e054871	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+90f733c6aa7eaa37dbd654ef1f4cedfbb711dc03	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+9842b996277682a136562aa27e08919eac542c15	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+aa7f18c1552042d4d0854de69d5c69ee47a21ba2	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+f320cd3c6de7efb61b59669ce70c81fc8a94758a	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
+923641364ef0ce3a6f1d944890244082b8c7f29c9600c0433b2a0ca9822c0608	OTX	2026-10-06	family=amazon bedrock | pulse='Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access' pulse_id=6ac52c8896a61ee777d4aee5
+c9335bb8a21bd2c568d03b040fb86a0e72145691e54a33495ee0cfaac55835dc	OTX	2026-10-06	family=amazon bedrock | pulse='Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access' pulse_id=6ac52c8896a61ee777d4aee5

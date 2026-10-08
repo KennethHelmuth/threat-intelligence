@@ -1,0 +1,29 @@
+title: Network Connection to Jar.Jrat Infrastructure
+id: fcdae0b1-9bad-4955-ab99-bbdbaccddad3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Jar.Jrat.
+date: 2026-10-08
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - MateFalls
+    - discord-stealer
+    - infostealer
+    - java
+    - malware.jar.jrat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'matefalls.pages.dev'
+        - 'matefallsbeta.pages.dev'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

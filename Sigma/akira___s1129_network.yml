@@ -1,0 +1,33 @@
+title: Network Connection to Akira - S1129 Infrastructure
+id: 8b5f3c3b-ed92-4a1d-a7ff-c7a91e2aafe6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Akira - S1129.
+date: 2026-10-08
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - akira
+    - antivirus evasion
+    - data exfiltration
+    - gost
+    - gost tunnel
+    - malware.akira___s1129
+    - persistence
+    - ransomware
+    - rclone
+    - rdp
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '64.227.4.134'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

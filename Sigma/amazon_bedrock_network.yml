@@ -1,0 +1,61 @@
+title: Network Connection to Amazon Bedrock Infrastructure
+id: d58002b0-7539-4996-a63d-5ed968ef09ef
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Amazon Bedrock.
+date: 2026-10-08
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - amazon bedrock
+    - anthropic claude
+    - aws
+    - cloud security
+    - credential harvesting
+    - credential validation
+    - llm
+    - malware.amazon_bedrock
+    - token-jacking
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '112.78.151.90'
+        - '78.109.78.211'
+        - '83.194.172.248'
+        - '103.160.185.100'
+        - '109.146.93.39'
+        - '115.138.247.83'
+        - '116.106.179.94'
+        - '137.103.56.107'
+        - '138.94.168.132'
+        - '154.119.213.63'
+        - '173.92.116.211'
+        - '186.154.182.44'
+        - '191.93.177.69'
+        - '194.36.27.53'
+        - '196.177.214.142'
+        - '200.151.53.165'
+        - '206.206.119.201'
+        - '46.100.30.188'
+        - '47.230.250.253'
+        - '50.82.6.249'
+        - '59.92.240.165'
+        - '69.250.15.174'
+        - '71.76.4.45'
+        - '72.235.197.91'
+        - '79.117.129.254'
+        - '82.86.130.180'
+        - '84.50.134.231'
+        - '85.137.52.59'
+        - '85.137.53.173'
+        - '85.253.221.206'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

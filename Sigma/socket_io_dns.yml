@@ -1,0 +1,59 @@
+title: DNS Query to Socket.Io Domains
+id: 19393776-9ec5-4482-b561-c60a26fd51fd
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Socket.Io.
+date: 2026-10-08
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - advertising accounts
+    - ai impersonation
+    - browser-in-the-browser
+    - credential theft
+    - malware.socket.io
+    - mfa bypass
+    - phishing campaign
+    - social engineering
+    - socket.io
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'sync-account.com'
+        - 'verification-security.com'
+        - 'payment-confirm.com'
+        - 'claude-ads.ai'
+        - 'claude-advertisers.ai'
+        - 'gemini-ads-team.com'
+        - 'gemini-advertisers.com'
+        - 'manusbymeta.com'
+        - 'adeccohr-jobs.com'
+        - 'museads.ai'
+        - 'anthropic-ads-beta.com'
+        - 'anthropic-ads-marketing.com'
+        - 'anthropic-sponsored.com'
+        - 'ads-team-openai.com'
+        - 'advertising-chatgpt.com'
+        - 'anthropic-beta-ads.com'
+        - 'ads-claude-beta.com'
+        - 'ai-brand-safety.com'
+        - 'account-sync-data.com'
+        - 'adeccohr-calendly.com'
+        - 'ads-claude.com'
+        - 'adsmistral.com'
+        - 'advertising-gemini.com'
+        - 'ai-ads-platform.com'
+        - 'anthropic-ads.com'
+        - 'apple-career.com'
+        - 'beta-anthropic.com'
+        - 'beta-chatgpt.com'
+        - 'beta-gemini-ads.com'
+        - 'beta-manus.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
