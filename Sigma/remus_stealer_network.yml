@@ -1,0 +1,44 @@
+title: Network Connection to Remus Stealer Infrastructure
+id: 0bb0b92b-49a2-4a8e-abda-9df8e0782e87
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Remus Stealer.
+date: 2026-10-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - autoit
+    - clickfix
+    - cryptocurrency wallets
+    - donut shellcode
+    - ethereum sepolia
+    - information stealer
+    - malware.remus_stealer
+    - phantompolia
+    - powershell
+    - remus stealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'eth-sepolia-testnet.api.pocket.network'
+        - 'stormvenomforge.top'
+        - 'oceanvw.click'
+        - 'citywebntw.com'
+        - 'drepace.click'
+        - 'spogear.click'
+        - 'cloudcheckic.com'
+        - 'cokakina.com'
+        - 'littnetworks.com'
+        - 'littworkers.com'
+        - 'spaceclou.com'
+        - 'workeslexamp.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

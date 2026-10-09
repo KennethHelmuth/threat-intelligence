@@ -1,0 +1,64 @@
+title: Network Connection to Darksword Infrastructure
+id: 9368d263-039a-4cf6-9c2a-59d540bb6a6a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Darksword.
+date: 2026-10-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bip39 recovery phrases
+    - china-based operator
+    - coruna
+    - cryptocurrency wallet theft
+    - cve-2025-24201
+    - cve-2025-31200
+    - cve-2026-31001
+    - darksword
+    - exploitation-as-a-service
+    - ghostblade
+    - ghostknife
+    - ghostsaber
+    - ios exploitation
+    - malware.darksword
+    - open directory
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'escofiringbijou.com'
+        - 'hdios.cn'
+        - 'northlab.cn'
+        - 'fc.rsqqq.top'
+        - 'g.northlab.cn'
+        - 'machinest.onlinefc.top'
+        - 'manager.g.northlab.cn'
+        DestinationIp|contains:
+        - '185.189.45.40'
+        - '154.18.187.160'
+        - '14.128.47.81'
+        - '166.88.95.90'
+        - '112.213.108.85'
+        - '202.146.222.253'
+        - '154.217.250.206'
+        - '154.219.127.147'
+        - '154.219.127.94'
+        - '156.239.230.120'
+        - '182.239.114.223'
+        - '183.154.173.30'
+        - '199.30.90.154'
+        - '203.91.77.253'
+        - '218.25.85.177'
+        - '218.25.85.178'
+        - '23.148.212.237'
+        - '59.46.4.117'
+        - '59.46.4.119'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

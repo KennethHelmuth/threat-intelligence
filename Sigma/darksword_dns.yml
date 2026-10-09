@@ -1,0 +1,42 @@
+title: DNS Query to Darksword Domains
+id: 2df6710c-1376-4ff7-9953-2d0e4ab9fbfe
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Darksword.
+date: 2026-10-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bip39 recovery phrases
+    - china-based operator
+    - coruna
+    - cryptocurrency wallet theft
+    - cve-2025-24201
+    - cve-2025-31200
+    - cve-2026-31001
+    - darksword
+    - exploitation-as-a-service
+    - ghostblade
+    - ghostknife
+    - ghostsaber
+    - ios exploitation
+    - malware.darksword
+    - open directory
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'escofiringbijou.com'
+        - 'hdios.cn'
+        - 'northlab.cn'
+        - 'fc.rsqqq.top'
+        - 'g.northlab.cn'
+        - 'machinest.onlinefc.top'
+        - 'manager.g.northlab.cn'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

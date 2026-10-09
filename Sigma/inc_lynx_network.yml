@@ -1,0 +1,45 @@
+title: Network Connection to Inc/Lynx Infrastructure
+id: cd288e3e-c236-45fd-8cd4-052547b143e7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Inc/Lynx.
+date: 2026-10-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential harvesting
+    - fortibleed
+    - fortigate
+    - fortinet
+    - gpu cracking
+    - hashtopolis
+    - inc/lynx
+    - initial access broker
+    - malware.inc/lynx
+    - payload
+    - ssl vpn
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '103.27.186.156'
+        - '154.202.59.169'
+        - '45.154.12.132'
+        - '80.75.212.113'
+        - '193.8.187.2'
+        - '45.227.254.210'
+        - '77.91.118.10'
+        - '193.8.187.42'
+        - '87.251.64.44'
+        - '185.136.15.66'
+        - '185.199.199.56'
+        - '5.155.250.158'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

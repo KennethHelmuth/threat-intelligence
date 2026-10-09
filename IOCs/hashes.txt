@@ -18179,3 +18179,200 @@ aa7f18c1552042d4d0854de69d5c69ee47a21ba2	OTX	2026-10-07	family=ShelbyLoader V2 |
 f320cd3c6de7efb61b59669ce70c81fc8a94758a	OTX	2026-10-07	family=ShelbyLoader V2 | pulse='Iranian State-Aligned Threat Actor Masquerading as Dubai Airports IT Department Delivering Trojanized Coding Challenges - Blinder Tunnel Campaign Targeting Iraqi Critical Infrastructure' pulse_id=6ac6152430b84019d1fded71
 923641364ef0ce3a6f1d944890244082b8c7f29c9600c0433b2a0ca9822c0608	OTX	2026-10-06	family=amazon bedrock | pulse='Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access' pulse_id=6ac52c8896a61ee777d4aee5
 c9335bb8a21bd2c568d03b040fb86a0e72145691e54a33495ee0cfaac55835dc	OTX	2026-10-06	family=amazon bedrock | pulse='Beyond valid credentials: How exposed AWS keys are tested for Amazon Bedrock access' pulse_id=6ac52c8896a61ee777d4aee5
+b74cb10109cbd5d8dbfb3d2b34016991f69430fb9fc6553ddf7371a0e189c2ae	MalwareBazaar	2026-10-09	filetype=elf md5=24722bd1a63fff82557ef8197cf9d5fd sha1=f6f2bb2e0a54ea3e595aa4be85fd4d6c53361da2
+178ee12744a15f48fb6ebfba3191af933b59b4c6a86f430175bc3a87a0d2710a	MalwareBazaar	2026-10-09	filetype=elf md5=22cb330c4b9bfffe5a1126ba0564d615 sha1=ebf28a6b51190dc00b525fcd70cd0fb3cc164a40 | vt=15/75
+3ea03e28c0a5a8c8a4910f26b2a1ee073053f76cbd9d21729dcec81543ac1617	MalwareBazaar	2026-10-09	filetype=exe md5=17c4d6e51c52e59ada1d644411d33015 sha1=86ca4d6d00752507b1f12faf1bb55af0a6ec5db1 | vt=33/75
+2ad6e698cfc1ba63c902c22a6d468f1afa5dfeb61286d5488d4ebdb33db4a64d	ThreatFox	2026-10-09	family=osx.amos | confidence=100% threat=payload
+2524ca7fb873708b0e994ca5f6f18db95fcd5bc59c7e54eb5426b91658759142	ThreatFox	2026-10-09	family=unknown_stealer | confidence=100% threat=payload
+8ce110ffaeb7d61753000266fbb2769f862a357a562763b76b18a8a494ed2252	ThreatFox	2026-10-09	family=osx.amos | confidence=100% threat=payload
+5529d9ff7d84cb7a8db1f2d0ef9d50ff03488a7469d4ff156276521e30dd2d9d	ThreatFox	2026-10-09	family=elf.mirai | confidence=90% threat=payload
+77840f54cad6ff1badd14a0301f4b508bd657059a55bd83adb9e5c9116fb060e	ThreatFox	2026-10-09	family=elf.mirai | confidence=90% threat=payload
+91fbcdb39cc834cebb0898e90b0ef8eebaffef9ee24c8c04ab1b4c3fb94d5bbc	ThreatFox	2026-10-09	family=elf.mirai | confidence=90% threat=payload
+4df9902f81140d914a156af18f77534bcc4d1ad577ca91af97dfafb961aa72b4	ThreatFox	2026-10-09	family=elf.mirai | confidence=90% threat=payload
+cc0ab18f186304dbb698dc167a9fd4e2582efa487e83eeed40b6a972cd141b2a	ThreatFox	2026-10-09	family=elf.mirai | confidence=90% threat=payload
+a2340ba1546cea741ea17fb6d84a51e39cfde541838836f801833d6a99999bc6	ThreatFox	2026-10-09	family=elf.mirai | confidence=90% threat=payload
+793cfc2d1054179c987a21dfe328a6419d37e362584b8083c2b91500f31f1fe7	ThreatFox	2026-10-09	family=elf.mirai | confidence=90% threat=payload
+bff1a0106509646f73c8aa2be4372668291b2204ad9a5ca1a622d5f30941dc5b	ThreatFox	2026-10-09	family=elf.mirai | confidence=90% threat=payload
+bbc090045e9171257096fbeef4bb6696ea9787a4d38b44a1cb16adaf1202401f	ThreatFox	2026-10-09	family=elf.mirai | confidence=90% threat=payload
+703d34a8d6a70eedbb3bd431fb90990bb4a9f0da873d0e9ed9941ce3ea4a5556	ThreatFox	2026-10-09	family=elf.mirai | confidence=90% threat=payload
+f7dcabc1ecd5d8ce5f956488ce37563bcdd8a1d29c5d9b080377984e99edb9df	ThreatFox	2026-10-09	family=elf.mirai | confidence=90% threat=payload
+0419e82dd1b5ed807540b2be4ba98789965b2e3a6011ab180a950dc5c58c7245	ThreatFox	2026-10-09	family=elf.mirai | confidence=90% threat=payload
+cc41fea5a9b0a072b9f0a36a7610a682acbae747ce65265d0f43ccb4b184d8d9	ThreatFox	2026-10-09	family=elf.mirai | confidence=90% threat=payload
+b10daff5af0638ea0b47cc205fac28f3a8246cbd0dad1f22a11055c90e375fc3	ThreatFox	2026-10-09	family=elf.mirai | confidence=90% threat=payload
+99410c62ffbaf607a62c2badf53d84ae450cb187f3b211fb8b89dd640c687a4e	ThreatFox	2026-10-09	family=osx.amos | confidence=100% threat=payload
+ebba744252a7fb09d1fdc1d36a3855fe47e0986e32105bcc068b5c469b08d5d5	ThreatFox	2026-10-09	family=elf.mirai | confidence=90% threat=payload
+9d733d1f2fca83a4a407769566fcdf29720fb27495a4b6951bf663a5b978055f	ThreatFox	2026-10-08	family=osx.amos | confidence=100% threat=payload
+206c4862f8feedef7979768c6b72599928c2bf05bae6ddf87b387083f5e86ee5	ThreatFox	2026-10-08	family=osx.amos | confidence=100% threat=payload
+a448b2e0b20011a925ff2cdf27b12932dfd331a274b51849f7ab2016954b1063	ThreatFox	2026-10-08	family=osx.amos | confidence=100% threat=payload
+0fa673a1cffbbabcd03249e98cd879bdfd4175ad720a2761fe89ee8dfd87c43c	ThreatFox	2026-10-08	family=osx.amos | confidence=100% threat=payload
+b449341fb97c5dd248f2091d92ad27d4dc32861ba5bc86deb0ccbbc627d4843e	ThreatFox	2026-10-08	family=unknown_stealer | confidence=100% threat=payload
+cbe1e45bf6b3a8315495ad80bf54de74ad2d3c9f4c28eef4d6a9629d4bd7efdc	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+80de518cae3595b230f8dd865d754326f30e4ea8ff9e107fda987ea7d1ca0e9d	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+6fce5471f4a86a77136bb9eab33f969cebec1c1b74228da1c404b7be73739199	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+62b7b66c5424d90f7cef9de55b80dc91bc93c3dac4a9c5b15c32854bb22b1ceb	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+c8bd3836fbcd2fb59c6c8606e04110e370bddf25ecb2f9e4c049d4827f76b09d	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+b47d3ddcbb97281a4a8604b16fd5d1eef850a0488f53c1e8a912d0edb81b6429	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+0a6483fcb33b2b1c41d3900d6664f2962e5ff722dec9420fb6630c0c0a6934d3	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+8cc85c9940db9e4f50ef91df4f9569c380b7b33bd272eca35f4f4e537cf5a02b	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+412e214fa52fb1d9beee979c95b64b99776670f4f2fb7c6812246be4c1bafa3f	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+13b211b289756f6b0bca46aadc18d8abe0110db3400968a9b1d261ab1b7906cd	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+0bf7c786b8e4e0fa284459db0c9bc18dee0cea772e519c16601ed7caaa52138d	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+0a3cf154d156699a87a6592e859249ca2f689452d8608cdef18d0d84177f1649	ThreatFox	2026-10-08	family=osx.amos | confidence=100% threat=payload
+0e8c800969f3c96165f87c7b53a8e35137a33327ed245e01af750059917ffaa0	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+108dcbfc64f3d14568f5bcd532a297f49267b537fe335c169cf133b173a9adb0	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+2bcf9f309f825586120effa1e9f7a47773509bdcf77b3dbcb807a35ef8703f33	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+f25bf40d63141679a19d81df02d096e60b1c767ea553a77fc201dd4430b71fd2	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+f8611cb7d9bdb193cfabc3fafd821265e45cd2ce922ad2c27061677845635358	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+9a0595d08e9399fe0f332b2f3f0c0c65e4d8290bb9ec116ce759073991be8b71	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+6582b5a796c9121b4326f0b1afa89dc6020e77bcb8b58f2c701bb2822a98ff6b	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+1df3abd1f3542516e6d1a109a33b7404a105896d7d45c8f55606b2b01d353c49	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+e4aa4ebaf431cea5933fefb1357d865eafa64107190e2520b6cae1eb58fb7afa	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+1c0207b4e21d1125120d557b7a6f7ef2f8c3e1befeacabfa7d0c638a8f5e6180	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+5d4df29b692c0a24d23fe37c34110004fcea4e47a162f16924a96b10fb51241f	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+dcaf6ca6d03a4defcec7dd72e34b6932ec181bd4c73f22622c21ea1a05e740bf	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+222b1d71da49325b98d883d15c6d64ca3d27282d2f1d022988f7b268196f78cf	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+42220565173073c1f9bab9837d8ded19f7fdae815f785d3269b052d452110ee7	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+b05eab99e3eaf66be37cfae1663b90e2ba90b437161213b0947717996439d055	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+ff0c402fce022ea26dce1ad6856bd168753c7a980f2f381d32116d6ed283c160	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+786d55d24cc000ca6d119eaa0943e1946905f558806ad2c29c49765d98422b90	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+531bcc57d86367930ae500a2d3ae5659477a04804385ec98f7c6db6aecc63bcd	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+a55c1667a405be3728aab8905160d5db1ebb1b0ea8bfd1b80e43bbebbcb2e180	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+1a92b78d783f27b84c7c10a57d284321c61157107db5733c3ffa8660fc4ce796	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+b5ea833edb28697521f0b68d746f1cd09daa26d89e8baba30c930748e2c7720a	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+0bfabbd22e5fd6175f5701ebcb2c54aad28e5bb1106a0d98ee2a7dc1cc39bda1	ThreatFox	2026-10-08	family=elf.mirai | confidence=90% threat=payload
+149b0894f5d5a376c58fc72011370a350a4bd17a5521f2ab211ac96ac728ffbb	ThreatFox	2026-10-08	family=osx.amos | confidence=100% threat=payload
+f90c8b1dcd374d4f552744ee1765583d	OTX	2026-09-08	family=XMRig | pulse='Redis Cryptomining Botnet Compromised 3,562 Servers, Exposed by the Operator's Own Files' pulse_id=6aa03edde73b7cd2b94b199e
+420c7850e09b7c2b9e39e2a93e204e3c56bcf08a685ff1daa986e3c348da5d2a	OTX	2026-09-08	family=XMRig | pulse='Redis Cryptomining Botnet Compromised 3,562 Servers, Exposed by the Operator's Own Files' pulse_id=6aa03edde73b7cd2b94b199e
+bdca0eb738faaccb5b992d0f393b9d9f	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+c6ee3d72053772bdce063c5b98afe32e739e918e	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+54d4ee85175a249dcb576716edf491d09fa05dfdfc492ff710a0cb711f9a35ab	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+24f344e174546e780332d573d5a27c43	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+dfd9c7dee4f4a16d636917de35a510b7	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+03fc9c35d6453ccf7dd5d16ea2d6d272da1e1cae	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+3a8138debf528361bf7093e3aa85a5f84105ebf6	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+05e26b639f55e53f73c2fd2980c519db347086951d832d58a94a26990d81befe	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+12fb8fe6cd895044e38217dd5945b0ec810f667660fd87dbb21687ea42084589	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+16c3ee7276d52c11d3cc6270af883abe5d7015ea4f8f66fb3b6493144a863377	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+1e6ff4a1dba4d6e4c29f4f7bc06b774104a38c181a05ebed127bb7b914128a21	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+30f4e1bc0cd96d4210765b18533eb0c5343f155a36b1a567132538242487d09c	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+45f71eb7ee96f80a1e865b2249452b603b729f4fc4c6f02ed00cadcdacf8f384	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+5652e2256df133a429f329ba60fe78c67ce63e089a5a3d58e4ff3d058ef7a708	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+7ec965cd61ad4de270b45e7719fdd72b3a37b27c0ba5764a73ec2c1cfc966559	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+9cd3a954e807a3d596401b43e8820ca6ee76119d4dfc60afe0eaaf054e2c2ab5	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+b32bfa02834d43f04b78854e6cc417da2d45a2ca6d2908f33c06dc97c7cc0389	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+dfd708b9debd3c32897b96726a5a9437bcb36f1ad59639f1214a969f8f09e237	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+8e2a4186103443e05f57d6607969ebba953a16f4	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+962add498857e2497bb9b720528cc6a687a5db07	OTX	2026-09-08	family=Hagaseca | pulse='Inside a Packed Android RAT Loader' pulse_id=6aa03edd0fe4e4f76a331977
+6fab94577364beec314afae3b082dd680933f08a8349b9f35b92667e8231b501	OTX	2026-10-08	family=PoeLLM | pulse='Canto incognito: tracking the PoeLLM malware' pulse_id=6ac7794a227de27b373a9281
+acaf0ec9d31646c2fb59f84f35e6a174	OTX	2026-10-08	family=PoeLLM | pulse='Canto incognito: tracking the PoeLLM malware' pulse_id=6ac7794a227de27b373a9281
+be2ffcc4591e527c48d98a53b66521b93671975e	OTX	2026-10-08	family=PoeLLM | pulse='Canto incognito: tracking the PoeLLM malware' pulse_id=6ac7794a227de27b373a9281
+350a99830b80b5600d3a2757fa996155579ef9d0c53de95f0299f64d280b9bb1	OTX	2026-10-08	family=PoeLLM | pulse='Canto incognito: tracking the PoeLLM malware' pulse_id=6ac7794a227de27b373a9281
+f706aba0d150db2d8f385cbbbb6a6d4fe590a5d184f29e5b1b05fcc4c2cd0932	OTX	2026-10-08	family=PoeLLM | pulse='Canto incognito: tracking the PoeLLM malware' pulse_id=6ac7794a227de27b373a9281
+f8f5e0440c57c7deffd75ca33e2511867039796aa803e7ef847396a379188a7d	OTX	2026-10-08	family=FRUITSHELL | pulse='The state of AI-analysis evasion in malware' pulse_id=6ac778436ef05de8abf44e67
+34098fe0bc4c69c4c4eb3f74688fb375326804536d25e5574e8c4c28c113b5c3	OTX	2026-10-08	family=FRUITSHELL | pulse='The state of AI-analysis evasion in malware' pulse_id=6ac778436ef05de8abf44e67
+389066bd5543aeea363d23a4dce7f7a21c7f2c73c61f506a93a69f594cf48ecf	OTX	2026-10-08	family=FRUITSHELL | pulse='The state of AI-analysis evasion in malware' pulse_id=6ac778436ef05de8abf44e67
+5f60d16fa67ff8ef07817c33b7e6b7fa91c6c21060020df46b1f5c56e076e259	OTX	2026-10-08	family=FRUITSHELL | pulse='The state of AI-analysis evasion in malware' pulse_id=6ac778436ef05de8abf44e67
+a0294f7152f9c4c908e9def58279e9fa29952715947c950c8489949f26a15cc8	OTX	2026-10-08	family=FRUITSHELL | pulse='The state of AI-analysis evasion in malware' pulse_id=6ac778436ef05de8abf44e67
+c17bf76d02163863c251c3bb3a12725eeb525fab5522521923925e0469ca269f	OTX	2026-10-08	family=FRUITSHELL | pulse='The state of AI-analysis evasion in malware' pulse_id=6ac778436ef05de8abf44e67
+2aa7f13bf474e2ce5049fd4db2bf4da04b4ce51ac0d36dceb24865255241c937	OTX	2026-10-08	family=FRUITSHELL | pulse='The state of AI-analysis evasion in malware' pulse_id=6ac778436ef05de8abf44e67
+bacb5794a300f7a88c7f6d458382eb11d2f39c0f496b509ca512afe8588fc33f	OTX	2026-10-08	family=FRUITSHELL | pulse='The state of AI-analysis evasion in malware' pulse_id=6ac778436ef05de8abf44e67
+2e3e1bcd44cc3cbec4f5ca9991d14a326d3cc6bf76fe6e0d434c9b5f7e1ae6ab	OTX	2026-10-08	family=FRUITSHELL | pulse='The state of AI-analysis evasion in malware' pulse_id=6ac778436ef05de8abf44e67
+a42632c68d2dcea06300e790c9440fe0943ce0dee2075f29170fd2774eacf433	OTX	2026-10-08	family=FRUITSHELL | pulse='The state of AI-analysis evasion in malware' pulse_id=6ac778436ef05de8abf44e67
+7dd3747d777f9576a11004532b463351e7718b6af193d8ee7221ac41479d199a	OTX	2026-10-08	family=FRUITSHELL | pulse='The state of AI-analysis evasion in malware' pulse_id=6ac778436ef05de8abf44e67
+abd28aecb2d57660bcd9455333b84d289aa883eaf5cf15def1bf0feb35833aa2	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+93830d73ddf9665ae4d5665f1cebabd093646ed54356662e1b2a925bc2df681b	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+7504898b17a9ce05eb9209128bcd0fb67d675a70c8c64f6f624d08b47b2fe3af	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+87e8d39db624f37d3e77aedf487a2dfd197f71a4730ea74f4e7a4341deaec2ff	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+567c158ee0858f8e941d4ab7a6c18dbc	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+47d922b0fd5d704025d14ef98ded46e74830a423	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+bd36f4c15fe0acb6748da5ed12e45dcc37d412385812c078d1e4f04730e9f69b	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+56241fae7b30fae69410925b91107df5	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+a42531b020a3f5f1adac3a962e9e92b0	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+dc5859aa3e12e2bd3e04f1b9d4142abb	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+95e291766bde87901fe6e253f71c84bd9c8af4a8	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+a8018c33a9c7cc594f6fa44c33ee83df804e6b6d	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+d451fd0b6b9cdf481a5867ddcfcccfbe8a0739a8	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+0c9bb4ced6c55776b0b2b903b4f65f2653d5868214601a4dcceea27789701dd5	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+0d660045808528c0525313b148f649eb77a341a2a2f8c5641721551362aa73d0	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+10f411e530c7bd86583ce80977d795837d85bab6b3ecb01fe3f3d069cdaeca8e	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+15fea063a3ceba5e929536357d1e9e1b9f0326fcbec50d570c4583712b109d6f	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+1819827e17f31e72d456158b6b9c90af25a65945f6f05d04a060da9f24179b25	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+20040a8d6389a1a638c39b5457f235b2c23efa8bbd9f98204db831d5e3dc9b66	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+264c87880f7afaeb02e0fa522db52294d5a4198ae97fcf67d9aace3474c1b62f	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+279d04c0cfd700c8bcb9acbed528131d3ffef8e25d12713e8649772739aecb92	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+38e74ff8d5f02617ff8858d9094b455d4e999223c7f78726584690e7201d94b7	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+643ef35536ff9273fb84b8504467b1a5645cd3ffd5476d64b99244b02131b205	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+86fbce191248bcc124b1259a178d84216d713f4acd516f578c5f3fdccb01fa4a	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+88735b838a83428193d1909424d082339cc1a993a4f91a9df09f51c81c69f70a	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+91c4e9537558ef4481e5ea29c785fd1bc3f162bb60e2fa313239957e4381cacf	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+9aa88b8e5b298e78ebd55ad53d322efe4b26e6cb1fadf6e94ae258d62a3362e4	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+9f7b6aa8bd4c726a9a8d4c2788814db417a21cf4a7f9de3e1fc2bca6203a4e14	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+be028ac6299ce6c2870941c700fa1fb2581bfd4ee6c0c75e89c5da9cea73fe97	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+c2256961d9b7704e2bb85ae9512b4c1ee75fea95532434230c93cd5e38ef8aa7	OTX	2026-09-08	family=Amatera | pulse='ClearFake WebDAV infection chain delivers Amatera stealer, ZigCryptoStealer, and NetSupport Manager' pulse_id=6a9ffe054812bce013827753
+7d9d7e80ed52350616be0215a7ded10aaeb9aaa64e34ff8af7f9177c8c855799	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+da447fe02e4577da97144a4d92b395078954fde1ff196746413837e1e4a20bcd	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+be246ca5cb1372394e0443df45454f88ca39eb4a8dcfc4a99cb8865100fb4897	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+c550f0860012e0dfab14ed65a9425961e22025e0ab23fd9d69d294a8aa34db2f	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+eb134bbf73046800c8177383754cf754b8776ec30cf5cc8a13655d259e49a4bf	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+2f9270269e631bc4fd634d741afcfc3df8f54e43e40b16f38660fe8ce6c26f51	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+225f5d6c5d70a7e7f3abf62ea0dda1cf8bf8e70565f7db748b0d8fa602da939b	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+6b53369fb868efb92b60af40fbd5906fa3d3d8785a7878b4af6e4efd333a4de8	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+8906dd85b0991fac14e5973b3f3f61d93ef1101504cb5867a004c762ee184ef7	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+9fea0ee3c81047f5e50eeb3a2ab2a7cd70357f3e49944b7079ab3e90c9ea0e8b	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+0aed5f24ce625ee6b9422083302766f74b0b9a57e1b18213328b950cc7057e35	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+635b31b4a19b5673fcbe0fedeb3f7ed2c27fddb739685f19ca5f3d1f1d7f0083	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+d9432e41e0401715bce4ce11f4a7104d94fab1ec89be553ba57a2097e418c1a1	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+458e7255438f15aaede02fd7f8fcfdf762aa6e08608b9546fe8aa8aa399c76b7	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+bb8f60b3f77d96adc93bf0515b34df7c5f1f560a9f6d0c353b7d849609e3557d	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+71ec70479ab78efb1e1f9507f8ff7348d5711c837cc50a0120f3a188c340f3f4	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+e96c75cd0c9b35000b4a3ec12d5dd23ca157e94aee7271a0fe8d8d7c9f2e9096	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+faf174414ddc7099360c4ae4d16497b9846cfae71ffad5bbab820bba657f94d3	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+b02ae1d5a0d2a5b28f8baa2afcdc7d7090fab051536303cba3ba1f17860da980	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+4512389444a767f12211beeb5f2ad165aca4a558e88e8f111affb30b77ed6a5a	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+e5c9a29d5ba0f53a49d8b333bfab17bf9878f94e8c3f325f5afacad44bb26fb5	OTX	2026-10-08	family=cryptocurrency | pulse='16 Malicious Firefox Extensions Steal Cryptocurrency Wallet Credentials' pulse_id=6ac74668a88744f8ef47c332
+1334417664270db20af705f422878c53c8378203	OTX	2026-10-07	family=DarkSword | pulse='DarkSword/Coruna Open Directory Finding' pulse_id=6ac6bb9cd16a3898ced29ead
+864d68e64618d6bfc26d75d6f780ae0b7bfed3698cc8333818ed32519e560d1f	OTX	2026-10-07	family=DarkSword | pulse='DarkSword/Coruna Open Directory Finding' pulse_id=6ac6bb9cd16a3898ced29ead
+05629f35dfe1409ea963c135581c228e3b71869b0707974244f6938af635a70e	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+8f4903b8b110ec1b9580a5a27bf49c3e4793538a863100559d085b7545fcda25	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+f02e2fefd74c7268e3aced61017173fff92e2a1d0e7eaf7807189f371fbfcc1f	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+61def8b242913b520ec110458a416b02a6a38dc8765bc76bd571ee7ae8350aae	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+22b0fc350b5e5c557344267b3c44323ac117d3fbeb5cf1bcb8b027352155fa11	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+a38e6f54efe342b4a2ca9ac4428a5268faed96cd602baa1886efb09f72435abb	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+5363bc92bac44aa2ba87b46c59fd3f78d5cdd32839efa854e97380a55fdacabb	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+dc0a864f441f0237853b40217eda577defb7c1dd15af407c7241688b1b3a3b46	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+a0923188fbd52277e1711ae312f3c6fb841f3cdebe1a95d5c89fe2455f8ace32	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+22c6008736a2187534025935000bfe31	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+36e9baafedf5bacf043ff3d862ac3aa4	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+3956c8bdebb48342cb2e265b6be19ae4	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+5b87de7ceb6c1248f5ce42b86083b93e	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+663566d170555c92a9af909089ec1e28	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+756d63bdd8c9a7e95caadaadb8a2124d	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+8212d2bda1c4647998b1a92edae33b80	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+a698891e68d71ead7b51649ec27a1384	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+c5999babb6d361afb4a799f3fb9f4f00	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+eb82ad83d725e7f703d0bdc7b2927f8d	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+f654a79f56219371b242f551552191a7	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+fea685e85ae8f904b3e979afc0e062bb	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+4ae26b9ecf5250d6b1691d4006b629fa39d668d0	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+a136171cf7f550fc39ca425091cde99ab6605e8f	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+dd81c9c6749a24e618e6ec1c047a5426b5900fbf	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+f55007cb0f1a6e4357b1da8a811133d687bf65e5	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+034415dafdf168c75e4600b7c9458e8fcd9db957de0f413947c2333b2e5e240e	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+11a879d4599de275ab48f899bb6c507cb80559204178c1854de131c5cc7af65f	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+6177effa359be26ba663cb6f511c376a6c6145394bcfb9cc6ad13e26c0efc3e0	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+834cd32eb3b4c87a2bec086625319c50a2625ca839065dabe9fd3c5647105edb	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+9ba9103cf28abf54e63655cc57956403d1f48a42b51d9277a5b94eb2e6116979	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+a8e443851e9a99444395c156022c599bccaef93cf56788ea76695ec5f79bacfb	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+b7a49bfe734499684435a2d5bce25994deccf7fab1752ae98b892bbdee44a056	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+baadf410b634ffed2decbc4f66f2613fa2d1559a749aac8a4311631b46cb77ec	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+cd919a6a7c6e942e9d97773b3069f8b2306a1dd4981203506bb5302cfd4062f2	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+cf1d026f09e207c1ea44e5e0cb272ee272ab8f96507959dd0b20e0542c666f0f	OTX	2026-10-07	family=Remus Stealer | pulse='Inside PhantomPolia: Remus Stealer Delivery via Donut Shellcode in ClickFix Campaign' pulse_id=6ac6bb9b4a8df7d9c471fc83
+25a0735d0db7dc40e5d45ce42d9c106067e6a66e184d967cfecfab17c3bcb5ef	OTX	2026-10-08	family=credential theft | pulse='TensorLake npm SDK Compromised in ChainDrop Shai-Hulud Credential-Stealing Attack' pulse_id=6ac7415f2754c1b2193c9737
+b50a00900399ba99fb6ce1fc151519cb99d44320ef2a631f2237e1aea0ad6fec	OTX	2026-10-08	family=credential theft | pulse='TensorLake npm SDK Compromised in ChainDrop Shai-Hulud Credential-Stealing Attack' pulse_id=6ac7415f2754c1b2193c9737
+1017a75cf19be75f6ba21148a9b646d1	OTX	2026-10-08	family=ScreenConnect | pulse='RMM Tools Being Distributed Through Phishing Attacks (ScreenConnect, FleetDeck, Datto, SimpleHelp, JumpCloud, N-able)' pulse_id=6ac741ed2968234538d416fa
+1562d523c2ebdc19c0ff8f3ea5f3763b	OTX	2026-10-08	family=ScreenConnect | pulse='RMM Tools Being Distributed Through Phishing Attacks (ScreenConnect, FleetDeck, Datto, SimpleHelp, JumpCloud, N-able)' pulse_id=6ac741ed2968234538d416fa
+594a652263e5e4eb96b5164d337bc1ca	OTX	2026-10-08	family=ScreenConnect | pulse='RMM Tools Being Distributed Through Phishing Attacks (ScreenConnect, FleetDeck, Datto, SimpleHelp, JumpCloud, N-able)' pulse_id=6ac741ed2968234538d416fa
+5a49d0b22ced22f9cf8b2015a327f163	OTX	2026-10-08	family=ScreenConnect | pulse='RMM Tools Being Distributed Through Phishing Attacks (ScreenConnect, FleetDeck, Datto, SimpleHelp, JumpCloud, N-able)' pulse_id=6ac741ed2968234538d416fa
+5ac7526b582d9cf4f7854c52ee75f359	OTX	2026-10-08	family=ScreenConnect | pulse='RMM Tools Being Distributed Through Phishing Attacks (ScreenConnect, FleetDeck, Datto, SimpleHelp, JumpCloud, N-able)' pulse_id=6ac741ed2968234538d416fa
+fccc77bb369c41a410be97bf306cfb55380cc063	OTX	2026-10-08	family=ScreenConnect | pulse='RMM Tools Being Distributed Through Phishing Attacks (ScreenConnect, FleetDeck, Datto, SimpleHelp, JumpCloud, N-able)' pulse_id=6ac741ed2968234538d416fa
+015755b2fdb66633f6f9dac2a473f0806a1c094f33d963687538fce90cf7ed90	OTX	2026-10-08	family=ScreenConnect | pulse='RMM Tools Being Distributed Through Phishing Attacks (ScreenConnect, FleetDeck, Datto, SimpleHelp, JumpCloud, N-able)' pulse_id=6ac741ed2968234538d416fa

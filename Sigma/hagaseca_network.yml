@@ -1,0 +1,37 @@
+title: Network Connection to Hagaseca Infrastructure
+id: d169dc83-abcf-4253-9d57-ba8a1a326b1e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Hagaseca.
+date: 2026-10-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - accessibility abuse
+    - adb propagation
+    - android rat
+    - hagaseca
+    - malware.hagaseca
+    - redroid
+    - tc9
+    - tc9.dex
+    - thost4
+    - thost9
+    - worm behavior
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'hagaseca.com'
+        - 'hagaseca.ec'
+        - 'hagaseca.pleasedonthackmyserver.com'
+        - 'test.hagaseca.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

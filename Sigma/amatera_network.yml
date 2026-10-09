@@ -1,0 +1,64 @@
+title: Network Connection to Amatera Infrastructure
+id: 8af31706-cb31-47ad-bc3a-8c47e4d7993e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Amatera.
+date: 2026-10-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - amatera
+    - amatera stealer
+    - bnb smart chain
+    - clearfake
+    - clickfix
+    - credential theft
+    - cryptocurrency theft
+    - etherhiding
+    - malware.amatera
+    - netsupport manager
+    - webdav
+    - zigcryptostealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'leaguejazire.com'
+        - 'verification.google'
+        - 'smart.hugo-mapp.co'
+        - 'paf.hugo-mapp.co'
+        - 'tnt.unguidedfreewill.co'
+        - 'fd-api-irs.velqo7.co'
+        - 'sp1.gstats-api-coni.co'
+        - 'sp13.gstats-api-coni.co'
+        - 'sp13.gstats-api-cont.co'
+        - 'riyazinikokar.xyz'
+        - 'kffd3.vexlatech.cc'
+        - 'geo.estimator-undermostshelving.in.net'
+        - 'paternal-angrily.com'
+        - 'br.hugo-lapp.co'
+        - 'dau.hugo-mapp.co'
+        - 'dmt.unguidedfreewill.co'
+        - 'doh.hugo-mapp.co'
+        - 'en.hugo-mapp.co'
+        - 'fd-api-irc.velqo7.co'
+        - 'fd-api-iris.velqo7.co'
+        - 'fd-api-rop.velqo7.co'
+        - 'fd-api-zog.velqo7.co'
+        - 'fd.gstats-api-contd.cc'
+        - 'fgp.unguidedfreewill.co'
+        - 'fr.hugo-mapp.co'
+        - 'jup.unguidedfreewill.co'
+        - 'kr.cedar2glanz.ru'
+        - 'pf.hugo-mapp.co'
+        - 'phys.stunned-amniotic.com'
+        - 'pt.hugo-lapp.co'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

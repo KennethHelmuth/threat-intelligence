@@ -1,0 +1,46 @@
+title: Network Connection to Poellm Infrastructure
+id: b563c6f9-1f1a-4413-a130-01a43e6f5937
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Poellm.
+date: 2026-10-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai infrastructure targeting
+    - botnet
+    - cryptocurrency mining
+    - cve-2026-10520
+    - gotenberg
+    - litellm exploitation
+    - malware.poellm
+    - ollama
+    - poellm
+    - xmrig
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'malwarescan.xyz'
+        - 'edge-ru-07.kryptex.network'
+        - 'gotenberg.dev'
+        DestinationIp|contains:
+        - '185.132.53.158'
+        - '5.180.174.162'
+        - '89.39.253.46'
+        - '92.119.165.74'
+        - '103.249.201.108'
+        - '136.148.69.233'
+        - '92.119.164.50'
+        - '120.224.114.212'
+        - '191.37.28.160'
+        - '185.119.19.171'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

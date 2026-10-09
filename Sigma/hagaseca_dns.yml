@@ -1,0 +1,35 @@
+title: DNS Query to Hagaseca Domains
+id: 37e64377-fa33-4dfe-81bb-5659e7d32ee6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Hagaseca.
+date: 2026-10-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - accessibility abuse
+    - adb propagation
+    - android rat
+    - hagaseca
+    - malware.hagaseca
+    - redroid
+    - tc9
+    - tc9.dex
+    - thost4
+    - thost9
+    - worm behavior
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'hagaseca.com'
+        - 'hagaseca.ec'
+        - 'hagaseca.pleasedonthackmyserver.com'
+        - 'test.hagaseca.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
