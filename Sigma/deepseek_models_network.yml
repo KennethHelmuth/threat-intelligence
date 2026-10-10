@@ -1,0 +1,34 @@
+title: Network Connection to Deepseek Models Infrastructure
+id: 78143458-993a-4cd4-9d27-d1498f169231
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Deepseek Models.
+date: 2026-10-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-orchestrated campaign
+    - cve-2026-81578
+    - cve-2026-82078
+    - deepseek models
+    - global intrusion
+    - malware.deepseek_models
+    - papercut exploitation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'pc-sec.hiv'
+        - 'pc-security.hiv'
+        - 'pc-sys-reg.hiv'
+        - 'pc-sys.hiv'
+        - 'pc-system.hiv'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

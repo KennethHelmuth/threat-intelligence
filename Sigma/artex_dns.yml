@@ -1,0 +1,25 @@
+title: DNS Query to Artex Domains
+id: f5e6a511-1182-444a-b332-6a90352bafcb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Artex.
+date: 2026-10-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - agentic ai
+    - artex
+    - llm-powered attacks
+    - malware.artex
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'xcai.pro'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

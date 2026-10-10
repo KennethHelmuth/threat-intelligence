@@ -1,0 +1,33 @@
+title: Network Connection to Matchboil Infrastructure
+id: 3c83e765-bc46-4d31-aa53-ba48d8fbfa9d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Matchboil.
+date: 2026-10-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - lonepage
+    - malware.matchboil
+    - matchboil
+    - spearphishing
+    - uac-0099
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'airarticlegenerate.com'
+        - 'virtualdailyplanner.pro'
+        - 'flycloud-service.com'
+        DestinationIp|contains:
+        - '64.95.13.210'
+        - '64.95.10.223'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

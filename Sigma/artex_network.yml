@@ -1,0 +1,38 @@
+title: Network Connection to Artex Infrastructure
+id: c48d05a5-ae82-4db0-951d-c52d4611bb89
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Artex.
+date: 2026-10-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - agentic ai
+    - artex
+    - llm-powered attacks
+    - malware.artex
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'xcai.pro'
+        DestinationIp|contains:
+        - '38.244.50.120'
+        - '101.53.80.20'
+        - '205.214.59.31'
+        - '124.155.252.63'
+        - '154.201.79.246'
+        - '23.248.249.90'
+        - '23.158.220.98'
+        - '103.248.148.84'
+        - '203.160.133.172'
+        - '209.209.85.38'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

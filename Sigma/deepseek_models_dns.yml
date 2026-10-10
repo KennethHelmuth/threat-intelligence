@@ -1,0 +1,32 @@
+title: DNS Query to Deepseek Models Domains
+id: 18ec1fe7-258d-49b9-9a1d-d8b53f05ec39
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Deepseek Models.
+date: 2026-10-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-orchestrated campaign
+    - cve-2026-81578
+    - cve-2026-82078
+    - deepseek models
+    - global intrusion
+    - malware.deepseek_models
+    - papercut exploitation
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'pc-sec.hiv'
+        - 'pc-security.hiv'
+        - 'pc-sys-reg.hiv'
+        - 'pc-sys.hiv'
+        - 'pc-system.hiv'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

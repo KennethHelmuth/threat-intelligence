@@ -1,0 +1,34 @@
+title: Network Connection to Mirai Infrastructure
+id: ad044607-da9e-4a32-b126-8c23ad68a82f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Mirai.
+date: 2026-10-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - fishhub
+    - flax typhoon
+    - integrity technology group
+    - malware.mirai
+    - microscan
+    - vulnerability scanning
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - '98aicai.com'
+        - 'youtubecard.com'
+        - 'c0cc.cc'
+        - '98aicode.com'
+        - 'outlook3650.com'
+        - 'linkedinns.net'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

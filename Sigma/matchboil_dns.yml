@@ -1,0 +1,28 @@
+title: DNS Query to Matchboil Domains
+id: 9304b4f3-e958-4029-8e71-60ae7c406b17
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Matchboil.
+date: 2026-10-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - lonepage
+    - malware.matchboil
+    - matchboil
+    - spearphishing
+    - uac-0099
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'airarticlegenerate.com'
+        - 'virtualdailyplanner.pro'
+        - 'flycloud-service.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

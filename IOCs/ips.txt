@@ -13562,3 +13562,39 @@
 59.46.4.117	OTX	2026-10-07	family=DarkSword | pulse='DarkSword/Coruna Open Directory Finding' pulse_id=6ac6bb9cd16a3898ced29ead
 59.46.4.119	OTX	2026-10-07	family=DarkSword | pulse='DarkSword/Coruna Open Directory Finding' pulse_id=6ac6bb9cd16a3898ced29ead
 216.250.252.58	OTX	2026-10-08	family=ScreenConnect | pulse='RMM Tools Being Distributed Through Phishing Attacks (ScreenConnect, FleetDeck, Datto, SimpleHelp, JumpCloud, N-able)' pulse_id=6ac741ed2968234538d416fa
+86.163.111.183:4782	ThreatFox	2026-10-10	family=win.quasar_rat | confidence=100% threat=botnet_cc
+38.55.252.139:8082	ThreatFox	2026-10-10	family=unknown | confidence=100% threat=botnet_cc
+178.16.53.68:8443	ThreatFox	2026-10-10	family=elf.aisuru | confidence=100% threat=botnet_cc
+31.56.19.111:23789	ThreatFox	2026-10-10	family=elf.potassium | confidence=100% threat=botnet_cc
+104.234.26.225:8084	ThreatFox	2026-10-10	family=win.vshell | confidence=100% threat=botnet_cc
+206.189.164.5:44559	ThreatFox	2026-10-10	family=elf.mirai | confidence=100% threat=botnet_cc
+159.65.67.52:44992	ThreatFox	2026-10-10	family=elf.mirai | confidence=100% threat=botnet_cc
+85.137.53.167:3169	ThreatFox	2026-10-10	family=elf.mirai | confidence=75% threat=botnet_cc
+64.190.113.163:8888	ThreatFox	2026-10-10	family=win.vshell | confidence=100% threat=botnet_cc
+168.245.203.127:3790	ThreatFox	2026-10-10	family=win.meterpreter | confidence=50% threat=botnet_cc
+31.56.19.111:7193	ThreatFox	2026-10-09	family=elf.potassium | confidence=100% threat=botnet_cc
+143.20.154.42:80	ThreatFox	2026-10-09	family=elf.mirai | confidence=75% threat=payload_delivery
+77.90.57.20:8080	ThreatFox	2026-10-09	family=elf.mirai | confidence=75% threat=payload_delivery
+213.232.114.14:80	ThreatFox	2026-10-09	family=elf.bashlite | confidence=75% threat=payload_delivery
+5.83.134.80:24331	ThreatFox	2026-10-09	family=elf.mirai | confidence=75% threat=payload_delivery
+13.140.176.180:24331	ThreatFox	2026-10-09	family=elf.mirai | confidence=75% threat=payload_delivery
+213.232.114.14:21	ThreatFox	2026-10-09	family=elf.bashlite | confidence=75% threat=payload_delivery
+189.249.195.244:7443	ThreatFox	2026-10-09	family=unknown | confidence=100% threat=botnet_cc
+177.4.12.11	OTX	2026-10-09	family=XMRig | pulse='Threat Actors Exploit Critical AhsayCBS Flaws to Drop Webshells and XMRig Cryptominer' pulse_id=6ac84a1665712fe245b07ce7
+38.60.252.110	OTX	2026-10-09	family=XMRig | pulse='Threat Actors Exploit Critical AhsayCBS Flaws to Drop Webshells and XMRig Cryptominer' pulse_id=6ac84a1665712fe245b07ce7
+185.220.236.49	OTX	2026-10-09	family=XMRig | pulse='Threat Actors Exploit Critical AhsayCBS Flaws to Drop Webshells and XMRig Cryptominer' pulse_id=6ac84a1665712fe245b07ce7
+104.234.26.10	OTX	2026-10-09	family=XMRig | pulse='Threat Actors Exploit Critical AhsayCBS Flaws to Drop Webshells and XMRig Cryptominer' pulse_id=6ac84a1665712fe245b07ce7
+123.202.208.37	OTX	2026-10-09	family=XMRig | pulse='Threat Actors Exploit Critical AhsayCBS Flaws to Drop Webshells and XMRig Cryptominer' pulse_id=6ac84a1665712fe245b07ce7
+64.95.13.210	OTX	2026-10-09	family=MATCHBOIL | pulse='MATCHBOIL: New tricks, same old evil intentions' pulse_id=6ac84a166254b974f23968a2
+64.95.10.223	OTX	2026-10-09	family=MATCHBOIL | pulse='MATCHBOIL: New tricks, same old evil intentions' pulse_id=6ac84a166254b974f23968a2
+65.87.7.132	OTX	2026-10-09	family=KNTRAT | pulse='NEBULA: Seven Fake AI SDK Packages on npm Install a Windows RAT That Needs No DLL' pulse_id=6ac8a46214e2077a0bfe7409
+38.244.50.120	OTX	2026-10-09	family=ARTEX | pulse='Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance' pulse_id=6ac8a22f8d0ad1ea5f056ddc
+101.53.80.20	OTX	2026-10-09	family=ARTEX | pulse='Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance' pulse_id=6ac8a22f8d0ad1ea5f056ddc
+205.214.59.31	OTX	2026-10-09	family=ARTEX | pulse='Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance' pulse_id=6ac8a22f8d0ad1ea5f056ddc
+124.155.252.63	OTX	2026-10-09	family=ARTEX | pulse='Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance' pulse_id=6ac8a22f8d0ad1ea5f056ddc
+154.201.79.246	OTX	2026-10-09	family=ARTEX | pulse='Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance' pulse_id=6ac8a22f8d0ad1ea5f056ddc
+23.248.249.90	OTX	2026-10-09	family=ARTEX | pulse='Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance' pulse_id=6ac8a22f8d0ad1ea5f056ddc
+23.158.220.98	OTX	2026-10-09	family=ARTEX | pulse='Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance' pulse_id=6ac8a22f8d0ad1ea5f056ddc
+103.248.148.84	OTX	2026-10-09	family=ARTEX | pulse='Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance' pulse_id=6ac8a22f8d0ad1ea5f056ddc
+203.160.133.172	OTX	2026-10-09	family=ARTEX | pulse='Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance' pulse_id=6ac8a22f8d0ad1ea5f056ddc
+209.209.85.38	OTX	2026-10-09	family=ARTEX | pulse='Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance' pulse_id=6ac8a22f8d0ad1ea5f056ddc

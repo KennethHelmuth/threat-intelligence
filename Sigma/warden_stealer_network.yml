@@ -1,0 +1,61 @@
+title: Network Connection to Warden Stealer Infrastructure
+id: 31ae67da-68a5-4bd0-bf4d-39b21eae351c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Warden Stealer.
+date: 2026-10-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - amatera
+    - callbackbeaver
+    - goflateloader
+    - maas
+    - malware.warden_stealer
+    - obfuscation
+    - remus
+    - vidar
+    - warden stealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'matie-bal.club'
+        - 'luqiuid91.com'
+        - 'backtoblack7.com'
+        - 'berff3788.com'
+        - 'bobroviysmex.shop'
+        - 'bomboclat.rest'
+        - 'brodyagup.com'
+        - 'culture-shock.club'
+        - 'diseazhjw.cloud'
+        - 'dojaekrt.cc'
+        - 'dojaekrt.forum'
+        - 'dojaekrt.trade'
+        - 'erifytrtr1.vip'
+        - 'ggresp.com'
+        - 'hotelcalifornia.club'
+        - 'hroffice.work'
+        - 'incoming.rent'
+        - 'jgkawdq.cloud'
+        - 'kaifdlyaw.com'
+        - 'konradkerz40000.work'
+        - 'library2000.com'
+        - 'macfilecloud8.com'
+        - 'modicontools.com'
+        - 'nextlanding.net'
+        - 'nweenwew234.cc'
+        - 'patduggan.com'
+        - 'pianolovers.club'
+        - 'piska-sosidka-govno.asia'
+        - 'plainhorizon.org'
+        - 'publisher99.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,32 @@
+title: Network Connection to Kntrat Infrastructure
+id: c578e264-9f7b-4011-b112-e99a4a76ed85
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Kntrat.
+date: 2026-10-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - NEBULA
+    - hvnc
+    - malware.kntrat
+    - npm
+    - supply chain attack
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'api.nebulaai.dev'
+        - 'fact-register.md'
+        - 'uberip.com'
+        DestinationIp|contains:
+        - '65.87.7.132'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

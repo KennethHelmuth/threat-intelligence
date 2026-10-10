@@ -1,0 +1,32 @@
+title: DNS Query to Mirai Domains
+id: 65f94fcb-109c-47db-9bda-4efef4b0855c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Mirai.
+date: 2026-10-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - fishhub
+    - flax typhoon
+    - integrity technology group
+    - malware.mirai
+    - microscan
+    - vulnerability scanning
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - '98aicai.com'
+        - 'youtubecard.com'
+        - 'c0cc.cc'
+        - '98aicode.com'
+        - 'outlook3650.com'
+        - 'linkedinns.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

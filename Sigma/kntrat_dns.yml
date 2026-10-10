@@ -1,0 +1,28 @@
+title: DNS Query to Kntrat Domains
+id: 8038b989-5959-4c9d-86e9-1d37f60df4de
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Kntrat.
+date: 2026-10-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - NEBULA
+    - hvnc
+    - malware.kntrat
+    - npm
+    - supply chain attack
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'api.nebulaai.dev'
+        - 'fact-register.md'
+        - 'uberip.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
