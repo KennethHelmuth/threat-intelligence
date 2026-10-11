@@ -1,0 +1,32 @@
+title: Network Connection to Win.Salatstealer Infrastructure
+id: 26f92215-c442-4fd9-9bbf-b319993950d8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Salatstealer.
+date: 2026-10-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - RAT
+    - SalatStealer
+    - malware.win.salatstealer
+    - stealer
+    - webrat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'wruser.org'
+        - 'salator.es'
+        - 'websalat.top'
+        DestinationIp|contains:
+        - '64.204.180.24'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

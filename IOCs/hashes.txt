@@ -18617,3 +18617,303 @@ d81081691c3631f3adc1a6db0ee22ab19682ef30	OTX	2026-10-08	family=FLATROOF | pulse=
 8bc90df9b387849338d9c61a8d379cfbb0d70ea576c0e37e1fb07ba164921807	OTX	2026-10-09	family=KNTRAT | pulse='NEBULA: Seven Fake AI SDK Packages on npm Install a Windows RAT That Needs No DLL' pulse_id=6ac8a46214e2077a0bfe7409
 e99bab7b8bbbde7c821dae4ccfedfd1e608d65c466de9b08037c5ce5f56af3b1	OTX	2026-10-09	family=KNTRAT | pulse='NEBULA: Seven Fake AI SDK Packages on npm Install a Windows RAT That Needs No DLL' pulse_id=6ac8a46214e2077a0bfe7409
 f0d36ac2d75c81a4c3cbdbf2f717db858f2876e6a1cc74f2d36b729a1dd51a5e	OTX	2026-10-09	family=KNTRAT | pulse='NEBULA: Seven Fake AI SDK Packages on npm Install a Windows RAT That Needs No DLL' pulse_id=6ac8a46214e2077a0bfe7409
+85dfe92b43734f2573a30e0f295a602111cbcecffc8260534a2f41386a6025d9	ThreatFox	2026-10-11	family=unknown | confidence=100% threat=payload | vt=21/75
+cfc566841ccbd54340b2a1520b2c37d8a494bd8d4964e13738382e8887f0c986	ThreatFox	2026-10-10	family=unknown_loader | confidence=50% threat=payload
+1b937dbaa72bc5d6196d45559037182ccf8ab038d4f4f45592b40630af40bfc6	MalwareBazaar	2026-10-11	filetype=exe md5=89cf7f7629ff5d69e436f7974db3c328 sha1=30fdb5f8c61ec8a4c6b93c4f0ed489326d222390 | vt=24/75
+862e9cbed9de24b5de5b633e8813af7d1704e95fd22b925e7768e6a151fe9e2a	ThreatFox	2026-10-11	family=osx.amos | confidence=100% threat=payload
+82cfa13c5614b24832b396034fdf907a009ab9a9c7a8c77ddc39b66bc66c90d0	ThreatFox	2026-10-11	family=win.hijackloader | confidence=100% threat=payload
+13608aa205e934e3e0b3ac504e1589a41285f9197f6f53be01c2bc59f46b6837	ThreatFox	2026-10-11	family=win.hijackloader | confidence=100% threat=payload
+ad7ae1df63dc9f6ee4eabbeb4e9c0f98b2a1b1d69ad8bde9b564e998678310c4	ThreatFox	2026-10-11	family=win.hijackloader | confidence=100% threat=payload
+4323fb90e50b2deb5f9fd235100dd7e41e28f1fd645099dc3bc65e1445463613	ThreatFox	2026-10-11	family=win.hijackloader | confidence=100% threat=payload
+bf8a8241e1d114be03550e909ddb8fb354d84b1e9c1b8a29c809de0160d74ee6	ThreatFox	2026-10-11	family=win.vshell | confidence=100% threat=payload
+80f7d2d3de2cdfebab4c9d9b5de17efc7c08de900b12330c349beeaaf3eafedd	ThreatFox	2026-10-11	family=win.vshell | confidence=100% threat=payload
+2c7a459ee60175bc5c7fad43ab530348af3789d86be558c83e914e126631a803	ThreatFox	2026-10-11	family=win.vshell | confidence=100% threat=payload
+c9dc947b793d13c3b66c34de9e3a791d96e34639c5de1e968fb95ea46bd52c23	ThreatFox	2026-10-11	family=win.vshell | confidence=100% threat=payload
+cc84973917d7089aa43eab0b5307b1bb052da6c68931be0ba20444a9ae84d9d5	ThreatFox	2026-10-11	family=win.vshell | confidence=100% threat=payload
+a9fc1e7b49f06d3d5161c78da1821de4849de3a9994955e0c9660d14e7031220	ThreatFox	2026-10-11	family=win.vshell | confidence=100% threat=payload
+9697dead9eada8f60adf9a7855c8bdf1468f151ebf91089acb1c4bcb52b26aa0	ThreatFox	2026-10-11	family=win.vshell | confidence=100% threat=payload
+eec3cf8a0e22c37a3f3faa406d01d5a3d39dedc15de1b60a9947764f1c02d028	ThreatFox	2026-10-11	family=win.vshell | confidence=100% threat=payload
+396cb8333cfb215f01da97994b7fe070c02fd58b80192090d3e52a647b77fd0f	ThreatFox	2026-10-11	family=osx.amos | confidence=100% threat=payload
+a4b1e1a980e7d870df771f0f9e15a456dce9632ea95fd01a3a9d3ce53adc0b9b	ThreatFox	2026-10-11	family=win.smartloader | confidence=85% threat=payload
+2bff53f12b4bd8a1f4a061b849f7f044b1fedc1dc778cda4f15c1897ca9f5d03	ThreatFox	2026-10-11	family=osx.amos | confidence=100% threat=payload
+e2605e9e08fa9f7b1cc23497fec745f290a97a212cc7056c87459544325ac048	ThreatFox	2026-10-11	family=osx.amos | confidence=100% threat=payload
+e8ff0ba3bfd76048aca15fb2fc417840ed93991a0e012435e290f520741c523d	ThreatFox	2026-10-11	family=osx.amos | confidence=100% threat=payload
+8d4fc1e1797743dec4c00583dfe989820eb3c2785cf414feaaf440e54719bd6b	ThreatFox	2026-10-11	family=osx.amos | confidence=100% threat=payload
+1d6cd5411bcbfea3f5328b40c62a57b9788a557efc00d927d9d921afe994c19e	ThreatFox	2026-10-11	family=osx.amos | confidence=100% threat=payload
+d1bf789e50cfc13b638867c290f589039eba36f38e3a07aa18ed3ba61e47a80c	ThreatFox	2026-10-11	family=osx.amos | confidence=100% threat=payload
+0890d39cd6af6f3d6d99ae32e4d05649eb472b6d7d5d1726a0473633fe715e5f	ThreatFox	2026-10-10	family=osx.amos | confidence=100% threat=payload
+d14856969df860a679ad1060c7d2a81dd60180d0f5fd22988a4c09de0a6de11b	ThreatFox	2026-10-10	family=win.smartloader | confidence=85% threat=payload
+bafa2a82ec1bf371ef0c28e94730091c43302f50492a72fcc429403ba0889f49	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+ee08d74477ee187ac5694e07f6deace4f1cec4b8955468df9cc9059ee20bc63f	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+e81982006eb1a6643b10b103c8e94b5ee63d6ef293cc21d53a2b3ba9a93ba0fa	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+972a8e1eb9cfa81b96888ba74120917eed6a2d9c9b77c4de8105026e4fc04787	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+f4e87418b810b69cf43ef33d876c7b119718f15a3cbc8562e344c32a74e2c26c	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+cb4c28fdc8a1bc5671a48cd81c5aac5438d64001ca1ad2a2ef6b133d3c79493a	ThreatFox	2026-10-10	family=elf.mirai | confidence=95% threat=payload
+cbdb650d0d991d2102d4bbe24130c63130908c0e50ee381c4c9ca495d4cdf08c	ThreatFox	2026-10-10	family=elf.mirai | confidence=95% threat=payload
+2ce0c7b067339c33da3ae88154d0a6b2	ThreatFox	2026-10-10	family=win.deltastealer | confidence=95% threat=payload
+d61419108785340e5b48fb4ef5fec85f46bbeaa86636bdfa9706b7df16a2e0f4	ThreatFox	2026-10-10	family=win.deltastealer | confidence=95% threat=payload
+a79c713bfb2f0ca6c6eed68466723a5d24d2fcead39b7d2aeff262083909efd0	ThreatFox	2026-10-10	family=win.ghost_rat | confidence=95% threat=payload
+6d82907be55d8d627bbd17e70f4846ac	ThreatFox	2026-10-10	family=win.ghost_rat | confidence=95% threat=payload
+dfc1236ffc512053310826982da37c5fe9cf2fd73847e2c9f0fdc52497de5066	ThreatFox	2026-10-10	family=win.netwire | confidence=95% threat=payload
+e7a99c961596ae02b33bba60829df743	ThreatFox	2026-10-10	family=win.netwire | confidence=95% threat=payload
+cf03c5920933f4c0f79c71e52edb28d238bb8396e71558ecc9b33a595fc0a9ae	ThreatFox	2026-10-10	family=win.coinminer | confidence=95% threat=payload
+31525df166ed1ca0a0da57f68b2fbb3e	ThreatFox	2026-10-10	family=win.coinminer | confidence=95% threat=payload
+6e13203eb73938e8685388a45968ef00	ThreatFox	2026-10-10	family=win.vidar | confidence=95% threat=payload
+9c2d17c7cf9be978bb06c9ac20365293	ThreatFox	2026-10-10	family=win.vidar | confidence=95% threat=payload
+fae31a1b99b802d086777002b8e1d513	ThreatFox	2026-10-10	family=py.stealler | confidence=95% threat=payload
+2f70cfcee962a80007a5f3b6441e5bb0a25ac7398cfcca5ab87caf65c05e9e71	ThreatFox	2026-10-10	family=win.vidar | confidence=95% threat=payload
+fc2f1cdd2fbb4061a8f9e909c64b7f54	ThreatFox	2026-10-10	family=py.venus_stealer | confidence=95% threat=payload
+489109095909eb9b3d60db1a01178080073b068e535735a026d351d446bef1d2	ThreatFox	2026-10-10	family=py.stealler | confidence=95% threat=payload
+950eb350edf0887058c64221846564f054d8ace58b504abd6b97ba3ce45c66e2	ThreatFox	2026-10-10	family=win.quantloader | confidence=95% threat=payload
+6e4188eab774c2d0641bfcb032f19799	ThreatFox	2026-10-10	family=win.quantloader | confidence=95% threat=payload
+9fe84328554e02c9aae80f9fda0fb6c06e8b16bde91f6070a991a619bfc61238	ThreatFox	2026-10-10	family=py.venus_stealer | confidence=95% threat=payload
+d2b5f4ff9ccf98b4ebff54c8bf85e242bcf2b6387c10c451fe8c21d73c5d24fc	ThreatFox	2026-10-10	family=win.moriagent | confidence=95% threat=payload
+f0af25e9b2ac985a1ba4eba7ca321806	ThreatFox	2026-10-10	family=win.moriagent | confidence=95% threat=payload
+82967b6c24f52664a3b9399f853ea812	ThreatFox	2026-10-10	family=win.coinminer | confidence=95% threat=payload
+45b8c5064a92c60ea747e3bdd7dbe201fe8577942c048f1e942e9237e3b9a6ec	ThreatFox	2026-10-10	family=win.gcleaner | confidence=95% threat=payload
+8d1d55cdb009796323a6ffe8c3403795	ThreatFox	2026-10-10	family=win.gcleaner | confidence=95% threat=payload
+8c37e43091ae6750e9dd459f81f0f32c	ThreatFox	2026-10-10	family=win.tinymet | confidence=95% threat=payload
+f0a5f859bf11fb59dfc898cfff1d3a57	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+01805651d30a44df6d53dd07e5813e6be2a9b496f9568da8ab4d443e9db7bde6	ThreatFox	2026-10-10	family=win.tinymet | confidence=95% threat=payload
+a5836555b66a6cf07bae480d0784c0d6	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+fda3692724e2f52fbbf34be12dfcc6f9	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+79b6b834125fa351b72ded1aefe2f199	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+2e1472c57f6a711c2c6b7602221b86c5	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+c002f45ab245cbcbd0386560b071f581	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+baf8a415b418e178fa5bdca17ca20180	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+6b9c3b61a843c55da3a53b548161c168	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+7031764d914024a88fe83299f2fafd98	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+d8b77b37a651aa029928aaa83763407d	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+e96d4af3d295cc1f2e07411c26758153	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+413af1f553721dae4996d11ac19f2978	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+e44b8803d57a6bc4a3561f61b95ff731	ThreatFox	2026-10-10	family=win.coinminer | confidence=95% threat=payload
+9b11e6ed6a0687ef06fe3a73dc16b4ec	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+f2041ff2f92ccfe3775f1507dbb087d9	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+4fdcf56964bbc3a2c9848c05f00f9b56	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+b068f38757134531bcb0489d96324ae0	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+0b9dbdb9290c53fd7f7f070f5bec478b	ThreatFox	2026-10-10	family=win.mirai | confidence=95% threat=payload
+523d561061c3fea9c863a15c61042897	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+8e5999ff4481cd73e6a74df6f4d60af1	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+2c252bc8ecf99d3659df65af554c0c4d	ThreatFox	2026-10-10	family=jar.crossrat | confidence=95% threat=payload
+0e32c55428f531e7c09b476f42c0cfc1	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+11862191bdcfc8bb03d5e7e1f72a1db133eaaca9344916a6c79c3517f7aba06d	ThreatFox	2026-10-10	family=jar.crossrat | confidence=95% threat=payload
+1de007ec15884a623391a3b13cb4596b	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+5d98562f29a6e4197c43d1db35192118	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+c2ab98b7da779932e8fa25a279e59a8c	ThreatFox	2026-10-10	family=win.babadeda | confidence=95% threat=payload
+5528b5e88656593ef5c680980621855ef84389efd06fb441a01ff3b48d8bdeb9	ThreatFox	2026-10-10	family=win.purecrypter | confidence=95% threat=payload
+c6077f50c2ccb6e4b9263222adcc223e	ThreatFox	2026-10-10	family=win.purecrypter | confidence=95% threat=payload
+2986bdb8dd1f62b11c1c57e58f00ae50	ThreatFox	2026-10-10	family=win.vidar | confidence=95% threat=payload
+16687cfe65c4d3598ca0a880f9b0fca0	ThreatFox	2026-10-10	family=win.vidar | confidence=95% threat=payload
+4dbc2a3dcbd0a5a711f45789a4367cd959fc0dcc37ddc1d6e335cb98925aa688	ThreatFox	2026-10-10	family=win.vidar | confidence=95% threat=payload
+e7c45671c68e5100f7191de9106af5a8	ThreatFox	2026-10-10	family=win.vidar | confidence=95% threat=payload
+b6ea43e7f0371f5278f7d56dbdea7da203fe51976f5ea3751aff0598d44d8921	ThreatFox	2026-10-10	family=win.vidar | confidence=95% threat=payload
+79af7efda58aaa0562bbd3b98ae65a18	ThreatFox	2026-10-10	family=win.vidar | confidence=95% threat=payload
+ac97ff69a8b5da0b04c14ed85945931c6218823d829192f2d7bcfa022b6b65b9	ThreatFox	2026-10-10	family=win.vidar | confidence=95% threat=payload
+dfe0826ecc3baeb9e74e361adbcd34bd	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+ad10f4c694e060e8cf9066c8156e03c3eef0a413c125c51e64baceca732c4f31	ThreatFox	2026-10-10	family=win.vidar | confidence=95% threat=payload
+56e705cf656cce54945c7941442a6624	ThreatFox	2026-10-10	family=jar.crossrat | confidence=95% threat=payload
+79ada3e5bddf5a6ffb1977e4e0f50a13512a02e2ba786b96b86190498d175873	ThreatFox	2026-10-10	family=win.vshell | confidence=95% threat=payload
+a6a09b6e372bf40b716d2bf3237c2902	ThreatFox	2026-10-10	family=win.quasar_rat | confidence=95% threat=payload
+77415566cdc9a0f0d16347961f5eacca934a73cb4e00c834b782962e9de8d417	ThreatFox	2026-10-10	family=jar.crossrat | confidence=95% threat=payload
+df6f9ce4475da25b324829509ef5c186	ThreatFox	2026-10-10	family=win.quasar_rat | confidence=95% threat=payload
+2c9056c7f596f9e135ae1fe685b42f87	ThreatFox	2026-10-10	family=win.nanocore | confidence=95% threat=payload
+d5102a93f27c365d5a1d57e82d0d4571d558ff846c50efd7896905fc736148ea	ThreatFox	2026-10-10	family=win.quasar_rat | confidence=95% threat=payload
+cfbd859dc82f8bd3af2c90598a9d46145f6dc4b3663de9e5195812519ab09948	ThreatFox	2026-10-10	family=win.netwire | confidence=95% threat=payload
+ea6af616eb4cb6efd68dc8140db720b0	ThreatFox	2026-10-10	family=win.netwire | confidence=95% threat=payload
+9b4bfdddc2a1a59cf45915fd20f183afb6a255575bb646441d821622600cd223	ThreatFox	2026-10-10	family=win.nanocore | confidence=95% threat=payload
+25a7c4a7d8ca13429745d57f052401f7	ThreatFox	2026-10-10	family=osx.orat | confidence=95% threat=payload
+10e851bd7fc8e17b390cb8ccedb4becbe1008ff37e6b327c761b2572f42ea5ab	ThreatFox	2026-10-10	family=win.netwire | confidence=95% threat=payload
+a2c0862d74a77d74b4d5c945a994cba3	ThreatFox	2026-10-10	family=win.netwire | confidence=95% threat=payload
+263ca98327e452380ea330c8a9a5664f	ThreatFox	2026-10-10	family=win.wannacryptor | confidence=95% threat=payload
+447e7d5ed5e5bae4d4d34057f2ad9a580583bf363c18befd6c28abec57c0490b	ThreatFox	2026-10-10	family=osx.orat | confidence=95% threat=payload
+bb65215c42767d9a7f3943a024e39ef9	ThreatFox	2026-10-10	family=win.wannacryptor | confidence=95% threat=payload
+dec381ad98ee824cd95313883bc4a17244e8c3a4f37de3b0354fb9f636b2134b	ThreatFox	2026-10-10	family=win.wannacryptor | confidence=95% threat=payload
+fee6d07c0dfef6724ba1646362fb7c4c	ThreatFox	2026-10-10	family=win.wannacryptor | confidence=95% threat=payload
+e58536bb0fb12bfe4253f44f46f4aedbdaa37d195c31d1976e8cb78e925f1d76	ThreatFox	2026-10-10	family=win.wannacryptor | confidence=95% threat=payload
+5f3be9263a702f55f2f43782882bf3de	ThreatFox	2026-10-10	family=win.recordbreaker | confidence=95% threat=payload
+e9f75925a4da2748957701e7a8b25b0b9e724fd86a7d603d099d918f3b34e19a	ThreatFox	2026-10-10	family=win.wannacryptor | confidence=95% threat=payload
+e7103164b532a7e095f652e9f6a93a9e929eae88a4022e34c5eed980c65c3d34	ThreatFox	2026-10-10	family=win.recordbreaker | confidence=95% threat=payload
+e6bd58f332c9aabe502e35ccedb38313	ThreatFox	2026-10-10	family=win.ghost_rat | confidence=95% threat=payload
+bc4585a4cce1a946b4f83a887c627af6b4e6b45e1daa493cf3f117e180250813	ThreatFox	2026-10-10	family=win.valley_rat | confidence=95% threat=payload
+e44a70b628c96e4621411e51691422b1	ThreatFox	2026-10-10	family=win.valley_rat | confidence=95% threat=payload
+070c2cc17d3f0c3086f6410df6886a6b	ThreatFox	2026-10-10	family=win.coinminer | confidence=95% threat=payload
+44cd0e97316c4ed137b1612e5b4d56f7caaa0250d3badbb344927671a6979714	ThreatFox	2026-10-10	family=win.ghost_rat | confidence=95% threat=payload
+87d8778250a4515ed73221ba47fb861ac9fb0303c49045dd9f5cc6954021477a	ThreatFox	2026-10-10	family=win.coinminer | confidence=95% threat=payload
+5b991446073634b7c35c0f9b7e775e7565259ae07dff41215f42e44c39635a87	ThreatFox	2026-10-10	family=osx.amos | confidence=100% threat=payload
+242594ab43c445a116b0fd835a811696c179a5cbffbf0df8ca4a0e99c0b5682f	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+b7e704d90e6281d4ef4b0fcdbb06bf3733435e7a3d473668713149bae76f2abe	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+17e6710b264fd0c0b9b90457359c48bee27befd92132637e0ce4551218cc54c4	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+3568368d5a6a3edb7abd622340f9c87a73a2ac143d30e236ce7bd5b27a91e3bb	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+82c3911a4b2a559118471c87cfbbf38211020c42f3d77c77a6bfb9a2c9012b46	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+d3e89dc4da146c03e18f4cc93ffd9d1738ff73be1876900ee44c0e7be416382e	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+bd9ac14ea870f3659a3e99718e00aa118b69e736fa783fd196737aa80ae205eb	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+2631e628a204008b27b5956b90d40d66799d663731331ab09b3f0bb77c645100	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+ede4c9a228a124b0735b72fffe9121596c184b676bdc298dfe4ad5b77421cd12	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+f602c9b0ff36b90c47d65c788200c7d62e898717f1c041848c68e5a07c79ccce	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+7bdb2edff669a7dc719ba30b25d350513b463a19ea0409721f6f83bdf41af795	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+1f7bd959e17b09986e17291aae498a251dab8927f14d38045729f600f29ab3b4	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+fc07fe31dfb51b568db664cf84653e37d223ad7587f6a65934435a3762d308d5	ThreatFox	2026-10-10	family=elf.mirai | confidence=95% threat=payload
+0a4578d60bd782b4e589dd85eb08ba64f4b4a24d167ef7d968eaed4411956aeb	ThreatFox	2026-10-10	family=osx.amos | confidence=100% threat=payload
+e23723b0b476a2b6d8f8ac544e4872e0cb2c6beec35d735bc8d2296dc37c6387	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+605394ec700b60b94fb028048834cb89d7627b35af50382e7f42c5c4c8f61c60	ThreatFox	2026-10-10	family=osx.amos | confidence=100% threat=payload
+ffd88db69e131045a5dafd51d65b0ef88a59c032d4e0d79a85bf9c45566510e8	ThreatFox	2026-10-10	family=osx.amos | confidence=100% threat=payload
+386ecada87d6348a92eee0a6126c5a2596d14e9362f35ae01857813ffa6ae35f	ThreatFox	2026-10-10	family=osx.amos | confidence=100% threat=payload
+4fa6d321714717df4ad7b139ac074b1cac5f4853cc4bfe3f3ca328370cb577d4	ThreatFox	2026-10-10	family=osx.amos | confidence=100% threat=payload
+9aace0b5aeeb83147b28efd5aebd8c51841afdd17b8f8a73a34dfc1e9d9a4fad	ThreatFox	2026-10-10	family=osx.amos | confidence=100% threat=payload
+d815901f0e6174e83fcedfd45ac47f7459bcc8ea63364185b4bfd9daa3e7d00c	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+53d27245ee5e9928482f9ac7bb9b54181586eaea2b4124590a14d8e41fcf088c	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+005486bf8975b090856d31bc66ee45c33880816880a9c92a31558983f2dc4561	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+75dae106cf59fbab6119d195ca38a4fffdd3128b1f26a23b088d47f4765b5435	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+d683f70abc03b4f48cce61260d8302b04b0a5551a9c6e1e8b7c4602cd9ac5811	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+fc0c410479d64f68841ffe2c4cc32e396962ad114853de913be74f576714e1bb	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+2dd6e9a64ffdf45168ada584d15e6304f0bc10e9e8718f88fe4bfdd97464a4bd	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+63e726bee554a09ad7de1f8303928850b94174a8e8828c224b9d9c54dc1b2656	ThreatFox	2026-10-10	family=unknown_stealer | confidence=90% threat=payload
+165c77e0cb3fc6551babc2de99e0c5182fb86e20ac3354da7ae980b580721049	ThreatFox	2026-10-10	family=unknown_rat | confidence=90% threat=payload
+6c2446f06869a50df82165dbbc78527186cc70e8ebb50c48634de0ab9057c00a	ThreatFox	2026-10-10	family=unknown_loader | confidence=85% threat=payload
+0a5c86ee3956ef4bf3349adaef85208809b41de2f98aefd7956645e7e9ea5342	ThreatFox	2026-10-10	family=unknown_loader | confidence=85% threat=payload
+6c977cac10245be0d1222fa444aafeed327e840a8864c7a37feb401ed51e7257	ThreatFox	2026-10-10	family=unknown_loader | confidence=85% threat=payload
+d68a9b3dcbe30b391315c02a65821c185280e00892d7e826ef12ffacafb2ee0c	ThreatFox	2026-10-10	family=unknown_loader | confidence=85% threat=payload
+3d397e1e5b35f998f85b35d884b2396c2cbd523388a5e9495b4c9f9c62d57fb7	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+2d3c0d6305c349e8a520a40baa6fa330478488479a8af4743e3aee5e3426c426	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+27e9b25c43479ff918ac19da04bdc0331c09de251f01c8d4cd23a84c9f4277c1	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+9319b118f1abd335ebb460e1cde91bba4af3a814dfc21d27a23d1247be20fecd	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+b2cc0c25c6f6e66a3d83689ec18847a9a021b92ca7d4be2cf1ebb9b5a6a49339	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+07aa27b5b6dc45d0ef4eaa38283e88fe00aa1eef6fb8ed9a4e3ee2f75ef40f19	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+e3ae43c1f29e8932d836d1c7ba9bacfc6c1977632647e4019b6a79f9eaf8ba52	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+cb939ad413e0740dfd38dcc7cdb71ef23a65ca962bd56f838c31433edcca0ac0	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+d4064e80e231492a03f77e78af609213cb269bb9b8147d111336f51c2e424bc6	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+5d4583cb3669b39dd95f822f45bb1fad05f01d54c2127f8fb1c2c30793795dbe	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+0f00c20fc657d1bd10f8974554dff3181fe06632adf5bbb4e80b6dda2c9ed8ce	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+1ac5cdba55b0ad5e28e2f29494b47bd4a7e0f285aba40747cdb219b742ff7a8d	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+f8e41136e3b1ef6daaff98f665139a528978bb375431014efd996de9ae79ec93	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+76c3ad51a52899878a89cb49cbfc034aa810f837d893a8bff63dfa6af788f4ef	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+43157db11bdb316ec68ec0127a26f3d48aea27b2d216261f2e71240307dd927c	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+e3254bbae3cee001b0998d17002b61eadafc80cbb237cdb356f7bde956782fc2	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+8536ba331695b95d2d590ef3c6bf878210ad9b8d69ec4b21e44e7bd21c06ad05	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+0b4f59dcc4ba74918a9a093d9d56bb388cb48f586ebc51641383ecbf63a13211	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+15ed3dbc8d91259c9afd897e7d21009123e7d715025198c26488c8e22db76c5c	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+70fb96203061d20fde5c81e512a5177efacdf9922ab01d4ea8b23cc66a610a5e	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+a14cbabe19c12b812b126f32573db3ae439cf0bb4a06e2b97119509bba264a36	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+d61b49afa8bed6abcc3adea608d925777b640c6cc1c5659bf83503edcc76cb77	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+6ea903e0ed2f2077e954335f247883cd0ff5343bcdccf1bb5bfb48b40b9c224a	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+9a961874a9f871e6c494280a85d710cd5d374f33efbeba58c738a82eb61f4d3d	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+f87a3f6bd5b29ccef54d8d32847993288c60289effe935519593aff5038eef0f	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+1445f010323973c629ba695ba6778cc92bbd3ceaaf58fd9679c321ba5303181d	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+8288bdeec418d3a1cfdcb726beb42751361b8ff55a458e03a1b27d7a6c9da522	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+849d618e1c224d58cd269a06ded13047ab971ff611b254da4de414644069977b	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+909c91bbe018d96d60c6b9a3b7cb29bd0a5bb733f9f72846b8edcb8a332d4b7f	ThreatFox	2026-10-10	family=win.smartloader | confidence=85% threat=payload
+76bd92cf89676f5ce2a48c5956c158382c9ee4a545261ce113f79ecde05ab5f7	ThreatFox	2026-10-10	family=osx.amos | confidence=100% threat=payload
+6c0372b4924412776f036fed3946528ab7619c7001358d3d83700f3b88a3dc2d	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+dd5af3cc7fd1a458953940f8df0155f125c4814eadcf8770491634680a28a91e	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+e820bd6b1c285945dbd17b68ee9e2cbe063bed78578b8993e822b94ddb4a8597	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+d28ce07924e6ba941cd2e753f665dd4ef89099032061bfd8bdb68cf2d8438ea0	ThreatFox	2026-10-10	family=elf.mirai | confidence=90% threat=payload
+5f924d5b8e190ee9022fc821ee30bfbc0d91c7c8a96bac1a8d2cefc1c3878321	MalwareBazaar	2026-10-11	family=Mirai | filetype=elf md5=f1874790bc9d09f33514182815e98045 sha1=77d61004de10d986e70c84766b8450d884040fad
+92a4bdc95e0d99200c7e703b2739ffdc1c0dd6b974bd4e97a375ad5a09b1e480	MalwareBazaar	2026-10-11	family=QuasarRAT | filetype=exe md5=1843db1abb66e726e081329dd239d6e8 sha1=a8773af716f8811e9e3e8482a9bb3d1905ba5928
+093e027a709e90916e7a15076711c5a07674b2a29f742632e4e2b3a85c2de581	MalwareBazaar	2026-10-11	family=Mirai | filetype=elf md5=de769b4d46c455e49ab9959b242e7772 sha1=e0ce56d0a1cef507eeb722090d2f85d5fc773989
+695b1239e02d9392ef5188887f3b36829153ab1ea274a51aad7430b5c8703da6	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+697f696954324f7c87df6a4823faf5dbf95ad991c2c51f1674cf55fe663b6de1	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+6b952d8d8e738d19b67043f760010a9653abf33c5ca5b0df206d1ca60d811f8a	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+6cff2d77564ed27d5a17d8af5106cc2e7c483fa5b562fd481f8baabe7e6bebbf	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+6dfbddd99713a65f6fa49b043e2156d91d70551ba7491cd43a3a38ac106d68c3	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+6e7aece49c230dd1f2310550e08286a6932b3ef60d5f7ba9178678609b5e655d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+702b00364a41ee197e77e3a69d37b51b4287b07f74d58528b03dc80a73c616c6	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+708fbf2da56ad465cd690568d2b0f9464d6f569e051fa974dd566840673b20a0	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+70dce77c49336b6020d27dd0997f685f2e35f9ae3de7b1bb9aac9b28629da968	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+733b521418db18800d5af6d3fbb117cb3bfb72ba1a9100018d506c3dea29c648	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+74b38e3ebbf12b96ad1c083749b0405a6f3472eb93a50045e45c6007440cd847	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+7515bda20cafa65a44003e3eedb110ae17de52302b0c6abbcf924828032ed9c2	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+76c82d9de0c7a8b38d23a0a4fe6b44cba7990bfc5926e387c09cd68c78d8a29b	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+7a5352cccc915b2725c087c70a5ec988744c414bcf6af3daa613a13b55023d5f	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+7b9485a79a681b55701cf22e786f352610fc6718bed799c1d340b813a394066a	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+7edee0acfd3757d0beee90a3ef0402f4c7925a5d1cfb58b2043742b7e473ba1e	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+805a5b84b5d938905f22a4acfd64d68c3fcbdecce9bbe81e985e7430a957efea	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+8079b05e406e69b9d8bbdb8a2eac411ebb836cdf0b7d70a8016a68d7c95453c0	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+8118826b9137cf67374278193731ad484b0090e9e054fabde415904ef5f143d5	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+83e1c6a8f7edf6bd8c827355d73606597c28e7187b6e0673a1ea8b4fbc79b0f4	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+84434a28f7b0c20417ba3d2b64e4c876ff9f9e6504c41be467dfb2e9eb3769a4	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+84856590a7474b6646faa5d26784ac0d12d692eae517ab284c6725f484a31c75	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+848cef8690a3baee5435c7bf3bdac9ea80aab7d7644d941383346dd864e56320	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+85f90d96e31265e1b7a614f4378e8f72adf1156b6a0b1187eeaaeb24b5a517ee	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+86805f5df0bf8f11996739af07882c9d99ec20039ca39f89f9eb57e78d28b16d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+88294ccecadff9ddb2d7cf4d4b2c8b85aff87fa2e2f9514f2975e8a295d8ec65	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+88468ebda5cc40d8855c4100544b0d6cd0df1198f1ff93b4dc148e3d50f94401	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+8854767ec9a4316014e3ab2a9a8e757dc3dadbd0ace0d7d2f7924907121af00d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+8a1febb6e5144feeeac1df72f15a5335d3161efe3f84eff681cfb123cf6f7e94	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+8dd4b2ae738473e3787757129814510ec37125db7020fe39167c0d0fb02a9b38	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+939ebdb10828dd7150b5a2ac467325d1398478bd656f1d6079af829eac295052	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+96b4cc027b0cdc862753e82036151224c5391366444627fa6fcd36fc33775627	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+97aa633606d809cf2397065fc84a50f5def1e94ff52fed9ba3f9a3ef1b421cc8	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+97ad0b681a63c4f3bb4f01685d5ec6a258ea332c6f2528cba1bd28a8653c3c82	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+988f8c17d5f5f0edabf6055c7f19c7af72fe8878b697f72824aafd6608e6fb84	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+99900fc8f2b3b4eabfc93e3f418dbce95c395785f220354aacd6b2072c1c6430	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+9c0dd7652014b045f300484cf79c64c662b4eb6b9ab372b2325b818bbf134dac	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+9e87d0632b9780db17a3a5cfc6da2fc4a7995af048542e03127396c36dddae9e	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+9e986825dbc0f8aca318a7e187df662ca3b68a508f01beed561270c557579e4e	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+9eac5a91e4e099cf8244af07accd3bbdaf2f2f4909d7b59cb134c8ed2ea03770	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+a1a13f1c03fab3a0e69e7d8e8cf712c770a3f9009aba6b872e396c2635bb0b85	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+a22f00f8c608c48abfde4b33bceb44d98fca3462e6151d37b22e335f81903891	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+a37d25242efb271346d3d3e182b4d92cccf1ee6091aecaf86f9c55527baa7d63	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+a5126f2d7462fce5eaae903da1ffcd6c08402a81b6355c56f3a5460d0fbf22d6	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+a5517e7e91a736173bf96f24ebbbb794420f349b56e6a6d2b5137625f297014c	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+a81d9a2a39f439a7f07292e174984355f426aff4817433d79834bf7c7bc53de7	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+a96b9bc1dae3d3524de9fca00ae01ed4b6f524f9c7a047e9d2c59715dac2b342	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+aaad9ac07274019006e42d2fc139ba28908586c353363c8d1b060df5c43e6af7	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+aac37e22b6d99b63d129d013d3077ec56c4732b6611cdf681c287c7f01fde992	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+afe525fd38e438876360b476a8a5d4f4c150c8bac11d21fcbb7a3b086d1b6d56	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+b09bcfcd73d3fc9aeb6581f18a93cc14f7ca46a7f45d64522ff4e88eef2edbfa	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+b13fb3590df3550ed7ab448436f5bab7fe2d36ae85bbd2f168a4af06f8f07c88	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+b1bec13aff0afc8a863361b7d3554c56077031baba99b1732c4dbab642bd4f52	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+b498c369ff31c4715252dd152d98539dcb46ac3b14cf8392af257ffd9493340f	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+b71a799a60071016ea2623e84fba1a2e9ead18637339f10a4cd0ae10850551c9	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+b761401ece471f5ffe79b09c0c5bf0c6354e01ec6b2ccc19b19afa017235205c	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+b80bd1dec033764124e56887a5b7ede2131e3b5b767566b989c87d55d8449fba	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+bc9530555867d98aeb3635ec1209b799055b6f376c2502f49d4230fdcd405207	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+bccd64353e877c6fbf7a9c9d6a836218463c77df7189be8763e9be4831776e98	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+bf1ca2a3cfbf67c35d0f439653ba9040ee90878fa49fb1f94d7b293726337801	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+bf4a5de5844cf693f8a3582922de094a541c603ee6a0007a658c09b70e8aafb0	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+c32a452ace7d9558d4abd3f67640406b14c434107a53e6a63babea0228294d9a	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+c3c209c32fb0e8557813f978b63c11c8ee595551fc6a5f9b2deea7bc91cced7d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+c561e84d8c443c43638c255d4d29d32f76f9672b3a2f4b19bff86e7aa372a3fd	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+c5649903235f72a0dd9748e6707a1868fad43c36d61ebf514c030f203e4ddd4d	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+c8368eec6910ccf7ac31fa9b252c65ba8cfdc4c00c201475935966104901bdc5	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+c869841f3c4876c3c5f78c59e41a7bb1c2839df8291f6f941f74bb6c9d15d816	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+c8c0c72b0750b610163071510a9987504b52ca93eb301372d242f45124f31aa0	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+cce2cacb3ae451a220c9a993f2471d6c92669ea747131d497aeb08a650952455	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+cd7687cc2ee1260ecdd1b8163bc72cda1d5fa7970dd432e77dea9bc9216fd0dd	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+ce412b5dca01d0bf4c223abcb60d608e1a61a27fc41e5a0b9a049b9056a7383b	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+ce5503ff4490331f1f67397500916b067126c4b1bbe16392297ab0ddfa5d4b3f	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+d0e07087e065e26c3c9ba8d5aca0caf069730343bf8f850a171aa3524a7cfefa	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+d3f660fa00ea2b8d26c6393391304986e32dc518b82a1970c3f18b5e8ab253ac	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+d564639e8183ed390a7f9e99843bdb980797c346f925e28a03f37d325aabbf5e	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+d622f2a9d52f51d42ee5d43dd0c6e68ceb5a08ad0c07c024e1630e56ca9485a3	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+d6340faa2d1b0b7aba9ad38b5ee9f77664f525134fe4772552e98a4bd481c2b8	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+dba600f1cb731e3f6dc91977d97dc2099adfaf74f38490f684abe324924ae816	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+dc70ed893ae3ac176d03c6db3ba88b8800bcdf4e923edb1265becd291d586b11	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+dcffde8b3d234efa921383d140efddb468d862eb894a62524d11d21389d3ee1b	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+dde28c167212692a7081ff90462bfcc7a705d053d0192a6c38878fbc35a0bb9f	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+ddfa9aa26e79d293c2e39fe0021275311ed0a8b1a032926bf2abc761fa228baf	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+de36c323115c5990ef14411b133c7a84e2559dfdb56849ac67e8141b726d6d39	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+df160b38ad210562ff02ab50d2065fc8f09fbc65e0c6959ebc6c89097375e171	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+dff84cd97ff9d61102d9c9b847deefb68a57a8751a888d114c92afe36a8f487b	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+e0b211cf913d35abb854acde697bd7d244edc7d10f5cd8d34014f0f7a3fb27f6	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+e0be8a26515328c3104c8d1c65dae86f99a6ab66b677a5dfc124c267b7aaa788	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+e290076a9a7aec59c63b78f9ff40905f6763f2c24cb1c1f77c199cc7c7a56b08	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+e3a48a74630221984171750a1c9407b51cb9f01b84a27134266b1882a7111d00	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+e43f049244212e979ec847f4ca879852279ec22665e248f5a412083ebc4d5e7c	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+e63bd2192f2299a142f1d52d82d58c7e605841a17a4e62e6c648d2bb69c98836	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+e6f09c6f817337465f48626dc1508ab053c991d900f664e49821bc13fbade584	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+e83d0a7e1289d7480bbc22fc71312b58f1b553813e05ff53c8a878638cd29e68	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+ea69685aa8535d3d4187ee0920c616da14d2e1c0c9beb62a479fa18b48c28d19	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+ea9de56330a07433e896fbff0cf3f483768137a4f53c63a2de1f21f7834e30a5	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+eb9f7f8ae19867da0fc8eff385b8733267f8ef265483fde7eee5246a46586a18	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+ec0caa0c0b3545f498d48c7d56217932988fcb38f14c5ca60a4c26a199062553	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+ee6ac9f2b47cc30b9f873d14e0517db31ff2712aab0e1b6d378fbe0814c1c496	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+f24eec129430c4fdde50c35541fbb233955d81c9ecfa32fb22069a178d1d7146	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+f2b0a5d86e2657902ab5ba3cdd3db9dca771994a67ed152c0f4bc8440581a815	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+f2b6cbe35b2557730c79ad910de2bdd53516f0460c54a30df8d13582b0fb84d0	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+f40d6205aabbd2b184b32a6c49d13026c476e3caab17c7ff0d7c72576e8a1c3c	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+f55e5f603b363eeacc53ad97deb1f9b555627e33616facba7fb5359f0ea2d3cc	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+f6b1b9e3072bbc9557296536ac9e75c516d1ba8cccf8c27bc9fdd543d5aa9072	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+f781c7d610c5315411d68d6c66ac18507a347f274ee0e3a74dd27b8d668c2688	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+fb4268911dc81c853ae680246db43c0270fd990caccc754c19952a43fb9f7280	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f
+fd109c4517f6ed02e8c45ea3b62739a42587b9c2318ad1a1f499c34332bc6765	OTX	2026-09-10	family=Mantax Otax | pulse='Mantax Otax: Indonesian Mobile Ransomware with Spyware Integration' pulse_id=6aa1c8a04d40933ab841482f

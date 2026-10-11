@@ -1,0 +1,23 @@
+title: DNS Query to Win.Remotecontrolclient Domains
+id: e2a70b62-7770-4c3f-acc5-745bbc1e35c1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Remotecontrolclient.
+date: 2026-10-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.win.remotecontrolclient
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'flingtrainer.io'
+        - 'fling-trainer.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
