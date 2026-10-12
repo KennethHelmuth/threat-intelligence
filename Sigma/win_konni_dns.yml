@@ -1,0 +1,25 @@
+title: DNS Query to Win.Konni Domains
+id: 1fb9c2eb-23fe-43f7-8d41-093f8f40c2f6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Konni.
+date: 2026-10-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - APT
+    - Konni
+    - malware.win.konni
+    - powershell
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'fe29jf323.kesug.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

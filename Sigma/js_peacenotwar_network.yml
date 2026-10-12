@@ -1,0 +1,28 @@
+title: Network Connection to Js.Peacenotwar Infrastructure
+id: 42bd33c1-796a-4f13-b498-03097c8bd018
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Js.Peacenotwar.
+date: 2026-10-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Wiper
+    - malware.js.peacenotwar
+    - node-ipc
+    - supply-chain
+    - vsix
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'lebang.si'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

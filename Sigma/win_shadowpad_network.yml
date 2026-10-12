@@ -1,0 +1,26 @@
+title: Network Connection to Win.Shadowpad Infrastructure
+id: 2dce126d-a1aa-4686-9edd-b136bad14aa3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Shadowpad.
+date: 2026-10-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.win.shadowpad
+    - shadowpad
+    - shodan
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '122.114.166.14'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
