@@ -1,0 +1,35 @@
+title: Network Connection to Noir Infrastructure
+id: 53a52467-03ab-4ee3-a85e-4e5ba168f815
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Noir.
+date: 2026-10-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-developed
+    - cloudflare pages
+    - command and control
+    - crypto phishing
+    - cryptocurrency drainer
+    - dns over https
+    - dns txt records
+    - doh abuse
+    - malware.noir
+    - noir
+    - wallet permissions
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'noir.black'
+        - 'r.noir.black'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

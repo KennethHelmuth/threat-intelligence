@@ -1,0 +1,33 @@
+title: Network Connection to Google Account Compromise Infrastructure
+id: 1819694d-8d01-43a3-be79-34aadf59054d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Google Account Compromise.
+date: 2026-10-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - brand impersonation
+    - credential theft
+    - google account compromise
+    - malware.google_account_compromise
+    - phishing campaign
+    - social engineering
+    - sponsorship scam
+    - sso abuse
+    - youtube creators
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'matchyjoin.com'
+        - 'joinmatchy.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

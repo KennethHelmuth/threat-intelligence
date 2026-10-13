@@ -1,0 +1,23 @@
+title: DNS Query to Win.Younglotus Domains
+id: 6224123d-4cea-4f0d-a168-f6da541c1213
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Younglotus.
+date: 2026-10-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - YoungLotus
+    - malware.win.younglotus
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'www.4i7i.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

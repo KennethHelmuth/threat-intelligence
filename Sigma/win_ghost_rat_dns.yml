@@ -1,0 +1,26 @@
+title: DNS Query to Win.Ghost Rat Domains
+id: 46208f83-3172-4b36-812f-2f672c9f9f62
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Ghost Rat.
+date: 2026-10-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Gh0stRAT
+    - GhostRAT
+    - RAT
+    - malware.win.ghost_rat
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'hook.ftp21.cc'
+        - 'ssl.ftp21.cc'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

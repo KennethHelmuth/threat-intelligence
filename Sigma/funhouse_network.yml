@@ -1,0 +1,36 @@
+title: Network Connection to Funhouse Infrastructure
+id: 343dc57f-47d6-49e5-b66d-f536c99cf44f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Funhouse.
+date: 2026-10-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - endpoint
+    - endpoint ransomware
+    - funhouse
+    - funhouse ransomware
+    - hwp document
+    - kimsuky
+    - korean targets
+    - malware.funhouse
+    - multi-stage scripts
+    - quasar rat
+    - resume lure
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'koocpt.site'
+        DestinationIp|contains:
+        - '70.36.97.236'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
