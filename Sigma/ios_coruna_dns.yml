@@ -1,0 +1,56 @@
+title: DNS Query to Ios.Coruna Domains
+id: 40497581-7f81-4f95-b5c4-3e26cf5f4bca
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Ios.Coruna.
+date: 2026-10-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Coruna
+    - DGA
+    - DarkSword
+    - PLASMAGRID
+    - ios
+    - malware.ios.coruna
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'st.onlinefc.top'
+        - '66ds.lol'
+        - 'www.10xddl8puxw5rn3cg8pdus.net'
+        - 'www.of6npor1sq1ko7rs.net'
+        - 'www.mgmyhys8v6v19e9w5kbizn6i.cc'
+        - 'www.llvdtejnjgcz99wlv4z68es1.com'
+        - 'www.b-ui75mia5005x0vinb.cc'
+        - 'www.oam6g5x6u0hrmhe50mctg.live'
+        - 'www.lz81ugazc-3rxi-1draiesh.org'
+        - 'www.l9-xf4xzz9g7s9nywuox.app'
+        - 'www.4n2nxouwtumend277hcvo.net'
+        - 'www.3rtmi4mknw285dffeu0.org'
+        - 'www.9vlqt9g3n0ijfbrs.info'
+        - 'www.lsexctodyiaygkqr2.cc'
+        - 'www.dclpxlbqzn1l4qsls.org'
+        - 'www.v71zxahc3jd0txzxs.app'
+        - 'www.bf2tmwypyvr7un7nmk1vzn.net'
+        - 'www.60gs6zhh50fvjnlfy6.net'
+        - 'www.utdxr9omtswgfgl5vyz6huj8.net'
+        - 'www.neqbzjio8rflhgwclmpr.app'
+        - 'www.s-w34iusuwt9mdjzen7b.live'
+        - 'www.ibv7pi89gcy6fq-oc3.net'
+        - 'www.ov86ayb0fe4ep2b92-645o.com'
+        - 'www.qdh71-y6j7vxgw046v4cvgga.live'
+        - 'www.txap5gmcyop0xb0s4ykikmsg.cc'
+        - 'www.39rwcybep-20pwozhvdrzzy.net'
+        - 'www.b-29sn-02vvbpmb0zu3kmq.org'
+        - 'www.ex0x40vmi8qyccxq.net'
+        - 'www.w4iunvbdvjof39q-3.net'
+        - 'www.y9m7yr8h6j2stxh1na5vy.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

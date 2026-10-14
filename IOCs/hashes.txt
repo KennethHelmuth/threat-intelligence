@@ -19118,3 +19118,462 @@ ae22ef2517b5c0fb47f78745b9cb5260acee0e751b89bcd354640ff8bc8d29ec	OTX	2026-10-10	
 79c65fa04541032e251fa4796b97800374b63c7982593dd1a2e0db605d429186	OTX	2026-10-10	family=netscaler | pulse='Threat Overview: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Being Exploited in Production Environments (Updated September 30)' pulse_id=6ac9eef4bcc05a59cd402770
 1bd314b661396c7086f6367fbbb48025e03ca2de69c073d53a8b0a38aa5fbb7d	OTX	2026-10-10	family=netscaler | pulse='Threat Overview: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Being Exploited in Production Environments (Updated September 30)' pulse_id=6ac9eef4bcc05a59cd402770
 7489a0f93c67fa5cdaeb4b921d90594d	OTX	2026-10-10	family=netscaler | pulse='Threat Overview: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Being Exploited in Production Environments (Updated September 30)' pulse_id=6ac9eef4bcc05a59cd402770
+a714c6ad4a95f0f85db1e944358c3c5d40aed2ea50d7c13d37f5397061a61333	MalwareBazaar	2026-10-14	filetype=sh md5=2f9b89d6ebb0eaa60e5da36fc0fb847e sha1=c31e9a10f95f943940e6eb379b3936635635d8fa | vt=9/75
+8a02d1826b114ffeeafafbe54eb816908b34970356738b8a1e5da5c7e1859bd3	ThreatFox	2026-10-14	family=osx.amos | confidence=100% threat=payload
+eb973c360ec8e6c8904e3be6045ab66e5f19d82f0408652f9fbd6b12ae747242	ThreatFox	2026-10-14	family=elf.mirai | confidence=90% threat=payload
+4d69344194599f5106fed1e48418da444461009fc46b7ce456422d779f2dc3a6	ThreatFox	2026-10-14	family=elf.mirai | confidence=90% threat=payload
+17c4ecb2901f893ef05530fccdafb7117a6d9a804cc3c7b0e59f7d89c4626706	ThreatFox	2026-10-14	family=elf.mirai | confidence=90% threat=payload
+10aef7a016bc6626e12e0ed8af61cf000e67e070cfd0f4faba91c7df07b15d02	ThreatFox	2026-10-14	family=elf.mirai | confidence=90% threat=payload
+9c7dcd233f91b5e8bb99063602dad46c957587abce3d89ad74d27a303c42b0ff	ThreatFox	2026-10-14	family=elf.mirai | confidence=90% threat=payload
+ad7e71907911893a6f71a1c390efec21a10ef3e2cab9ec0a218e580050277415	ThreatFox	2026-10-14	family=elf.mirai | confidence=90% threat=payload
+6742368df09634143ad87169ef3c2975d9d6e3d218f5df942160639181db0e54	ThreatFox	2026-10-14	family=elf.mirai | confidence=90% threat=payload
+9969edc6554049bac6c4f9f6949279474a7fff9d07f04a9bd687a72be238a990	ThreatFox	2026-10-14	family=elf.mirai | confidence=90% threat=payload
+d394d33582ae646ab6978a387cbbf901346f1e9d203495da471cbbe28626227b	ThreatFox	2026-10-14	family=elf.mirai | confidence=90% threat=payload
+71540ab73d9697a3ae82c17d6f1886c0223e965cfdd8e0b678ecc8e2460d23c5	ThreatFox	2026-10-14	family=elf.mirai | confidence=90% threat=payload
+63ff7ec5c269efca65d217ecd776b96756bc577d147440e75c58092098c9cc68	ThreatFox	2026-10-14	family=elf.mirai | confidence=90% threat=payload
+f80955f145b04c05581e7310683abd23bd59e37317dfdb80eb76a44c32457389	ThreatFox	2026-10-14	family=elf.mirai | confidence=90% threat=payload
+1b30348bde0941eeb328dcd98cc380d833b29703f2674e8a456d4166f5718a03	ThreatFox	2026-10-14	family=elf.mirai | confidence=90% threat=payload
+411ede512aeec86e15ec1e77e1797b78b65fc5ab329a455d2562103e12387e22	ThreatFox	2026-10-14	family=elf.mirai | confidence=90% threat=payload
+dfc4d9863944f3c6699ec78e9433e40a5aba61a8473bf49b40683f48b268ccc9	ThreatFox	2026-10-14	family=elf.mirai | confidence=90% threat=payload
+9698095bf0ed30f410b251f06a14294ca2f14c51ead286fa44bb7457f746ec58	ThreatFox	2026-10-14	family=elf.mirai | confidence=90% threat=payload
+74d82db8de883724b21017ad054b8563eca5dd2488f303d9f8a531051ec8fa5e	ThreatFox	2026-10-14	family=win.formbook | confidence=95% threat=payload
+61018a9390bae5beab034c820856996613d9ad122271bf615e1bee2d56bc3cf6	ThreatFox	2026-10-14	family=osx.amos | confidence=100% threat=payload
+6dbe1b423fc86d6e1d3ad45fb621fd4a01247fed0ed0298b4f7ade95aacb920f	ThreatFox	2026-10-14	family=osx.amos | confidence=100% threat=payload
+47dda33a6e37dfad19af8ea2f8734e1ac9f98cf37d3c60ced6b92a5a558129ea	ThreatFox	2026-10-14	family=win.formbook | confidence=95% threat=payload
+b8f09bc9b59ca5028aac03833019ba4d654fcbd73bc9a4eaeff977f1ae247265	ThreatFox	2026-10-14	family=elf.mirai | confidence=100% threat=payload
+568f2a0f3d84d699323f42be26e31fac896bd7d193d0ebbea04938902cdbcfc0	ThreatFox	2026-10-14	family=elf.mirai | confidence=100% threat=payload
+ec171df1fa7d0913f2f551149a39e3cc7ac94ccf17c5f46c6a1497e3ffd5f2ad	ThreatFox	2026-10-14	family=elf.mirai | confidence=100% threat=payload
+3bfd259546c9746ae49fbf47a478a231d0f96dc6aadc2cdfd7f24753a1c54d92	ThreatFox	2026-10-14	family=osx.amos | confidence=100% threat=payload
+634472aee22bd1319f78eb025ef2bdf0e699682138b2d1b7284104443fcc0e79	ThreatFox	2026-10-14	family=osx.amos | confidence=100% threat=payload
+2ee734fac03850d2bac9e4d674b4e13df90bff608887e2b7c9847a71f8c7d52e	ThreatFox	2026-10-13	family=unknown_loader | confidence=80% threat=payload
+36c9777f84ccdae35801233322d3b45367b885ca8e2d3308c915a39185c704b2	ThreatFox	2026-10-13	family=elf.mirai | confidence=100% threat=payload
+08b386e69d6d038bc14762143ff9f80ea535cc597886b61281f0f878d37208c6	ThreatFox	2026-10-13	family=elf.mirai | confidence=100% threat=payload
+62d01e06630b9829a675e19139a806fcabc1c8d6b616aab8453ccb2edf514a0b	ThreatFox	2026-10-13	family=unknown_loader | confidence=80% threat=payload
+4c5be7e5b0ef0f7380a3c19cdc60244cef11fa0fa7dad8aa9ac4b0bd4f11c03f	ThreatFox	2026-10-13	family=elf.mirai | confidence=100% threat=payload
+52ded2b6af6c64932216537a1533a2961f3a621b9ffd51a20b64241f71fff2a8	ThreatFox	2026-10-13	family=elf.mirai | confidence=100% threat=payload
+490870ee21ccc65a75ee13feb97fce9178911f1d084f468c5e79c6a9f8854643	ThreatFox	2026-10-13	family=elf.mirai | confidence=100% threat=payload
+4c2c641b63e1485831e217b554a984a0a75c6f433fcb5edf3c94fa7a04a37519	ThreatFox	2026-10-13	family=elf.mirai | confidence=100% threat=payload
+b57099b095ed6f665ea8e768f3c6d1d1	ThreatFox	2026-10-13	family=py.akira_stealer | confidence=95% threat=payload
+8c827ebe6affd13781eba8a6751e4ee90168fe8511faa1e7b26bd96fdb9f281f	ThreatFox	2026-10-13	family=py.akira_stealer | confidence=95% threat=payload
+ff278159139bbb86fe106e3e1029a79a	ThreatFox	2026-10-13	family=win.rietspoof | confidence=95% threat=payload
+fd793ca50146040d60bbc34bf292cf579646ad811de22835a1e17b5ccd14e83a	ThreatFox	2026-10-13	family=win.rietspoof | confidence=95% threat=payload
+dcf102b1c40cbb682838adca7f0dc0af	ThreatFox	2026-10-13	family=win.ghost_rat | confidence=95% threat=payload
+1327c0684c8341d3d17b035c63315df93d6315b97b9484f1075b9bf251485e15	ThreatFox	2026-10-13	family=win.ghost_rat | confidence=95% threat=payload
+5e131f8aec1c61ad0c2644385c542eb6	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+65d76e7d6460707658cf67b5a47512a95a32b95c299b44d482e30cc3ae2ff7db	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+87bdb9dfe9bca574aeb3d6aa6113a7a3	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+adcddb34f3f1257f66b8666e7416d09fc0a1a247aa43ff01a8541e65294f8d77	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+129961880548c4eb4245de812aa6d45f	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+a37845bf7a3b2d27154fdf24dfa147b1f4e97e6a710123cdb5f1f88bd3299074	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+bd2989f5e07a4d4b9cede02773f90d9f	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+3c7e4f7adfcc9373f52395f481486aa3af8faf6916b1099b22e9492453be588e	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+2a9c83c2558490dd0b9b769273c34d1c	ThreatFox	2026-10-13	family=win.arkei_stealer | confidence=95% threat=payload
+a1efcf4e1c2ee9a4a887ec9208a7f69c0bc360677db147161cad1e54520780fd	ThreatFox	2026-10-13	family=osx.amos | confidence=100% threat=payload
+b31a87efe83fe2d6b4dae35fd02ee024c4988fe6991ba2727c5e03ffb21f92ee	ThreatFox	2026-10-13	family=win.arkei_stealer | confidence=95% threat=payload
+ce8144286e438036dceb5a5593b8d420	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+2684dd7946751a6b074e124ca46a5da4dca8f663152d219c1e5bb533f39f3149	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+31f29c789e6cab8b96ccd162cf2c330a	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+f761f56f9f7f65c5ed6861b696da459bc2e7cfd9ba4caea98be350ef9eafe432	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+505a135a49d214154a1863956fa161da	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+2c1f19a9ed33cfca89c6527dc3ea1675514022dde6862ad0609ad3d59518155d	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+56e1295102477f805aee0fc3e686b912	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+2ea394c33913bdb06cac96467213c5b860ca80e70df3b846f3602b0f74884b46	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+75c3c2a4b1f467eb9e4cd82a1912867d	ThreatFox	2026-10-13	family=win.asyncrat | confidence=95% threat=payload
+6be0d87cb44236b11c566bb7914d27c0ef550487d8e42926a8f7331eb76f5f5a	ThreatFox	2026-10-13	family=win.asyncrat | confidence=95% threat=payload
+0bc5588615e54ef6657940e7396b18be	ThreatFox	2026-10-13	family=win.asyncrat | confidence=95% threat=payload
+84025cfdc41458df372f199ce64cced15e9925a5b70cfeef77e64bd2df8df07d	ThreatFox	2026-10-13	family=win.asyncrat | confidence=95% threat=payload
+43d208e58212ce98fa8ef6fefdb0717d	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+9bef01ecd6613f0fe81424a3fac7734386ebbdb6d69525f4f1b89e553cb4c7af	ThreatFox	2026-10-13	family=win.vidar | confidence=95% threat=payload
+885c38bde7effc7a8af889efc78a1224	ThreatFox	2026-10-13	family=win.salatstealer | confidence=95% threat=payload
+2b94ca38bb03b91ff7e21aecd1626c63940617476c5a430fc0f5be17cd2b0964	ThreatFox	2026-10-13	family=win.salatstealer | confidence=95% threat=payload
+8a5d17ac34596b46b71d0316841654f4	ThreatFox	2026-10-13	family=win.salatstealer | confidence=95% threat=payload
+c72861fd6e134f05f7aa27c2a6345002f9a0b4d4474fe12555ca0f159e7257b7	ThreatFox	2026-10-13	family=win.salatstealer | confidence=95% threat=payload
+4bf3a344ec6623214367b92e338b627d	ThreatFox	2026-10-13	family=win.formbook | confidence=95% threat=payload
+7a2feccbbd016be9a383025f686c8fc44bcdbb7a175b9591cf743bca7bafd82f	MalwareBazaar	2026-10-14	family=Vidar | filetype=exe md5=63093887bc79b9bcc222745e1ee11b05 sha1=616986fd61c98635a33817e475ec77d85caa03da
+210f503fcd5cc49a20fee4f24e818e4849647b70f95d5509df883a2a24c656ad	MalwareBazaar	2026-10-14	family=RemcosRAT | filetype=js md5=c53977913f949552a2383387e6e86208 sha1=78debfce33a8d29f09c113aac5cc2306728c8d63
+297292d46d4f11fc801f5d6d01251735698a8419aa3196db7b3aa7bb8ea85cad	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+d398f11c236a59e44a9dff6f99af3aacefcb4a4bdf77bb7cf790cd0b13b0439a	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+7a6e1e578342864c1bb07c83b4e677e3	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+fa87911771a52e3c1ffb1c39da59540c	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+29c19cf3900d1b8e03a83b57e604ff79d8f43e3b	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+a8fbf9c78c1c1a3f34bf18bc6c2aedfa842fe15c	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+df74f2f8eb8d707411ffb8ee8f9c9fb1881fe1cc38978e8c743de393d4ce0b9d	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+05cec01db363488e6762097095d7b7fc	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+05e65662d55327febf5d4aaeca54f982	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+0919c2a84a1c76d6f5268dd5ffd7b5e7	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+0933fda33f46d2b31e023bf322a11d41	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+0a0fe8a557eff10b3b32528347b9d988	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+0ae92755dafc510efdc9f68e817b683a	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+0c89cc9118b863488f5ba240bfe396f6	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+14c8b93304700e27b479596024ef19cf	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+1f5416894b604ed6ef1f839414865eee	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+1f873bc5c6d5ff0ae0f228dbf26220ba	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+1f8ad760e1feee7cecfe1bfadde93d4e	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+2062dde8114d57b0108e92371e29b3ed	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+2364f22dfe4d2018619cfba2b510f290	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+24b12630d402e4ce40d05e0623e56933	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+26642b9800192440621a70383595dea2	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+28210832c13d806e87cb8f1449cf8c5f	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+28fb9e179c3aac449b7e4d760f6b8b7d	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+2a100b8de6099b06449e3084b689c32d	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+2e36880877f32eac56ae4502ad057b2e	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+2f407d8e3dee54e0c4f776e5db55ae86	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+324352a61a343969a93386466d232684	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+337edcca9ef27cfe1a76f4cffa676026	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+33cd80a0b3059c23eadcf263ddbb330f	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+348150ce9f3c49283c16d9b37e6dc354	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+353311ea9b82724aa862477cae44cd39	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+380d5a157077b7c8bdfe7c6d9628fe6d	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+382bb72f7f42f27b04d1fedd6d633a82	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+3d3f6897f57f4a7b94f83278e795dc18	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+40b48810400a825858946aae9ff5b50d	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+4f5694f61b4c244cc2269c3a5eb8a7c7	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+5282b7aa97f45feeff73ba87d0523e53	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+567a2aedd00fa97f03fc852b1d949596	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+57025a7f9d9d2ef4930dec189bdd0bd0	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+5a0923427b2fcb5070510753e4f0c0d0	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+5dd387acef74a14a63dbc883aadee854	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+5fa367e38148de7e19abe789451a7a38	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+620bc65bb86962f633a37586e17da9f3	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+6896f9c3f24f2fdc7966f753ad3ce723	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+76ed1e64d1c9ea3e4b91f7ed7b2f59f2	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+77b9a8309e9f80ca442c629396cc3f6e	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+78bf053eea23b86e42a658245d8de904	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+7e76b71247c995359a7642fe62f3b28f	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+7f1b4583fec9db44e85b458df4e55669	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+8445ffdacfed1fc9951e62ea054ee1c3	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+85fcd85d24e1b391cbf0c22b0c8a362a	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+896a859812f181286542a0041a549156	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+8d73beff15a0467b9bc2b74f6abed75d	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+90449413823f31c89f2bd12b5a1ae5d5	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+93587de64c445e7fe20351f24c4a97d4	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+9b33a10f7637c7ce9e5e8aa1ed7303dd	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+9c2d0cace5c703afa9f3862d19073c6d	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+9d3b0832e1759d29d2651f3a2d34d781	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+9f14d0c51795489bbb8d1853fb7e269d	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+a0f8c686d57c746bcd97e21dc8fa2159	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+a49a2676174f1d7c5e8647e4fc7316de	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+a80dd39ce35e712fde43b51f6a5ac22a	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+a86861abef9de0148a560614a5830a19	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+ae2a710e1940b5a7c3d8c7da754a4bdc	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+ae2fb368e8f33de4b5382dc3296c7076	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+b52d4d43ddbd8a2b34808e45bd1d4504	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+b64e08e12d90ee33c4409204a1ea509b	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+b65049b275769947fce9d332de39ad58	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+b7db9fe60ce4a2372ee7d4665ae859ba	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+bc903979c2ef367f15424d651eb1730d	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+bf95687e8f040d9b656e2702eca30ff6	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+bfb0591fb5c58b5ef751c9994cb86fbd	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+c6017291b89dc20b4b333b6e5d1e92c2	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+ca3e297df21d63fabbcac343dd2740c9	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+d915752f0dfe5d2ca3388cc711840d31	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+d9ebfcce15a1a2c39c22aea092d6fb11	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+da44fa987f5a1967b8691254419d8e52	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+dc5a698e0f74b79da77592145a669f51	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+dcbb6683e1f5c826d0f65dc68999fe52	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+e5b1e7b3f3ab24239f2cd1cbce806228	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+ea02654da967a66ba0bda85f8578562a	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+eb9d0c1e252a2b08ddfdeb7dc458032a	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+ed02d851d07f38d9bb04a0d2e464cf10	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+f547cad15814b06c7876c63609da5b8f	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+f549fc826acf79521d6a0c8aa63095e0	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+f5f5da0dac34841451c5328871d0d77b	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+f6786ff62fdfdc46cfb84ff7cc2a580a	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+f6f00417b925bf42090a89f8668fb554	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+f85016e8cc6b509a9fba1ccd1dc88da1	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+54857b0ce7c95a283dc7c0706d813aa6f0b67f26	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+637ec48c1b1f39975cdf7b57a99503f22b59fed0	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+6a2d9e66baf908d0a17ecbd84fa6d1fcf3d3ba35	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+c1eeefa9bcbefb76815344dd65b1fd829152b601	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+de923722a5ee51ec33ba0588407d34c45be0bff1	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+21b6e7c5fd2e68c9e9cdcf96498285daf0a3918bae297fc37f599a931adba7da	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+52fbc79e508fc90aa69a1c7cc05a4d7d48b4ef9f4bf47b8f877c2f95f92335cc	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+742dbd332aa008fffc4b662fc2699bd384166b64f33d619a62ecf29bb69f7b4a	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+9e54a2129e43baac4b8a5cf157f3b1d17427388b4a149be926c63b381b1e8e2a	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
+a8847b68428fde206b6dff8001051f92	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+05ae89e761a890fa24f80f4be7263651	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+1da42505f1c83959c7f901f5139a158e	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+a147cd8f72aadfcf78f7723db6813e86	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+f456f0c6b89bd3d5124699d43971d094	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+2c77653b889dfccd649b82446f8c0d1b	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+5d29e9b24708c3ec36d1d59036124838	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+998e9010e5dfc4e4645f5572cbbe5b53	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+b3a4405d1b8d43545d07b10581008d32	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+0377ca97ac0ca35f9134052fede67a81	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+0b0d8e995e6ff24d4e9d00417446c25e	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+1414d4ef2d1191080abc59a407dcb6c5	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+345057421c7d9ac2b671c47449f35030	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+36deebfcda4012d18706cd170c1edf1f	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+37f18a20b9cf32e6f07450e903eaad7c	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+4507363415e7dc6d2cab14eeed137f6c	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+512a6db4a22244272826f39da020fb44	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+5b3a49938f455d1197736971c4c07228	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+6aca76699ec0bb8e51372d5c68c8359b	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+815b910f1efc95f38ba0c5b12c4f2129	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+c75ec7f3bcbc879aae9a21ad544d3232	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+d9fc6b2cd5eaa3929207f1029663d947	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+e51c11442a529dcd06dc7c8e45974ec2	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+e9b91e1d94bb3ff9a1c00b1c13eb7960	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+be22c91b4578ac2357a16133615df335	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+d5d88214170875386ab855172f881e51	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+dce5b0dc0e7d7059b5ab8384a7c24ec4	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+61aac6a98abd6dcff0dc41bb88159786	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+2b784622422f4280e0b3e38b30dd87bc	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+2b7f1a7d5f5515c05d0c8e3857155ae2	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+3d3358b1057b1bfbd7e60577d8a31e0c	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+7400c34f7c6f866499029f5e759f58bd	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+d4ceb05682ecd60f4ebb4e76e02fcf7d	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+60bc23d3d453f258e2c4ca421cd086a9	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+b862681953e945439167a736ba4cd41b	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+ed1a6bed83899952b464c27aef9752cc	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+0903d7fd3e1d4a599a7eb3c5d356779b	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+a57a1ba15364dfb35d334f644d7049e8	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+cde0490e11db8ad54737c1df59ec658b	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+08d231c6a5303e543eb60d4181f6a4ea	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+7f7747575980098bdc98e7b7aa362697	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+d3faec4f013c4a1e84a1d681448312c0	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+e75e183027bf897eda6447366c7acd01	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+20108557cacd24263e7e611afc327801	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+aac942aaf6ec0773cbac87fde4a6b284	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+cf20de9d9ddc952bb2265002d26a916f	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+f602230f54507cbddf5ef3014737d768	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+079298a7a506b376def4f4ff9a250672	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+20cefb2c667f945d482daded7e698eea	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+254bc5f6f81de1f3c47534e6febaf023	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+31b3280f1c0836c39c470932cf6c3e6f	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+3b35d3c5667136134b20a8411803c97d	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+3bc159537c909fa86bcc55eda127b5aa	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+42a9f64e75911c167ec7a163e8b24920	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+4a171f62d1bab01827b06ae73d4caafa	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+66c6512b9a73425aba40c8bfa95d23a0	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+6df909898f5f1394e78508d1152fab38	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+6ee2be3e5558085b532dacc8db61f3e9	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+6eea0568d5cc776ae03e09149cec3cd8	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+765d3ce85a6393d05973c4cfa7738116	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+90e0d27d808105167fdaa3a22b918217	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+9e7b34e63d8d38e37667f88a945ae69a	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+a02f28387527abe90d73d2879f671972	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+abe12db77a62ecb99d6ab5dc4fff18c7	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+de66cac88f156c3227749e03bdf7cf54	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+e6650dc6721aaa27f8a289ff92e613ff	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+e7c56b4f580da53cd0e4f11d1a11e402	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+2de346602433cdd1668f36b2e9db0be1	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+af16072864ae0f9d755f8cf00fded359	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+e974cf4cc5d55cddc04f026dd3ea72b8	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+250205ee4b8de59e60c745856f439608	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+af7f1eef22bf5ee3d0a394f53ba7e1b8	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+7322d8a65a56a7ab09f4d526cb343e3d	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+0b8d3cd264c191f4884a25d0cc5318b5	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+33b2d3ec9a35cfb0b5a5d7b24ce4140e	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+3bb270d4927e2a8385793d9084a92fd3	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+4e46549122c0236307c5eef8891466f5	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+642d84ed5660407b972f1df642acb192	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+9a3d04aa36654b5c4b21edd22e46f92d	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+b7d0d5ae09b0d2d2f999c1087c450456	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+cdfcc848e16660d607aba6ecf24567f4	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+f0b7b1c940ebcee97eb68f528682fc50	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+1150da1af88729e54a34b8da5a2741c7	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+36f9e8cf47a28f9803fba427cf02a25c	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+6739fe083cfa8dec9b4f989ccba0e99e	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+ca7e2d265fc35aede432c4636a2cf4cb	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+fcb9f38cc687fc8a4637e0acdf91ab66	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+c55c9d7e12cc273b812ceffca8f62d4b	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+9a46098de785ae732e5fced55a2f3063	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+d145b14b9cc15799485f2592b2c16d9a	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+0a26a9d5f7ab91cb5eed852cf83ef078	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+294ab3f586d76772ae89add417cf6324	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+a13af0174bc211709e8b73bf60492a17	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+b974ef4106af6b932df352563a9b8b3c	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+e9ec6d7b50c1e54cd523283b9de55e10	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+5400ffac371c5e5c9b7f3705ce9faca5	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+92f2fd8bcccc8ec4ffa64c7f6b3b9b8d	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+ab8d6be686ca9413e27a11e85f9cef1a	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+879168159c155758dbfd7a76e8f21548	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+b6c5f7dfaf9d47cd67380a48df5e1731	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+cb19dbf279a3488aec76c17e8e122c14	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+fc812444baa071f5141ddad812d673de	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+4f7d3c5859100d65ff02449884841b9c	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+50e9cdc3ed145bbc688356eda07f8eb3	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+9f1e2249003ab22cf8a38048e0ff6f6c	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+e39bddf592016ad6d0784770df3e2ffe	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+7469c9c06e5f324ca608e0140156bbad	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+4521a5bbe0f33a15da86bd80ff5d6d9c	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+8ec360829f4f7ae8dcae47c02b996762	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+d56158a2cc8d13778df850907733b2c4	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+fac6548a4a7a88156468b809c4f877f5	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+ac8957a474f8aa812c7b233aafde4723	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+cf4f24fdd283f80313565b08fea9d06d	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+3c098465af131141996ff840bd34e791	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+387f7af167530486adcf3d8546063462	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+ee4e778e53ce4d4339d7c7888d06384d	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+c8ea2a7c1f52c4c2474475c28373ee27	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+836739fe7196437d8e998245b6f2b3b4	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+d6ba4044f9d57f7e86d83187982ed593	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+838dc8fcde1b28171e404ece1cfcde44	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+da67e37be01c20566990152ecfb14ed1	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+e250e5966c119a9098f7818fc6c080e5	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+3b20edff1125e146aa3d5153708b58f4	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+542ab80429ec42e8643dc645f58b716c	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+145b806282d247441751bb4957b71606	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+ee70ec99121f4d7c8b5a883e5ab3a858	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+92390cacdd20d2ee5405093669e7302c	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+08d61e6d27788be4c4b5e2417afc97245c0c137f	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+09f3d06d95615f9cfef7da62e324e046c286db33	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+09fc7707e786949ddec99b48ea42452e75ead2df	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+0b768794412f002d5827c7601c39a956955e736e	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+0cc48e4ce6bf1f3d7fbf4228f3e43e2ac33934b5	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+0d450b8b0100f5fd3dba2596021123864f11cad1	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+0e2c284cb7b0da722fe7fb97869f2e75c421ffab	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+0f2d84b004b0ca34bbb3d5dce903e9c3fc87213a	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+11eda40901ac8bf98415b2f5f4390d777fd54a1e	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+13947fcc695dffefe38725a45a7bc832107b67f1	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+1bb516ba33bfd7576020754ac370d5e675c64c1c	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+1bc4acf9d096b55b10a991f2b080fa5e91f27bc5	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+209135f37a03ed38b75771a6ed2ef9bac756d676	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+22c4013af4192eaeb3e2c787d40d7d40c221f31f	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+2a6ef3e64d41d2f3337cd27db7893977db508ea7	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+2c00a721f16726365266c0de6b21ac691f880886	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+2e13b956808bc087eb160bcf10088a1bee422500	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+31427b3fc74c692db1ed26328d4ad36ffb659c36	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+37ecc10fb057f830e380930482d2e893c395f417	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+38045c12bee9f0c036425fda00c176c11c114091	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+383de49be8a3343ce8de9e551a4c3dcab34c3ea9	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+3d5b948a824eceedf988adaa964d915d03ee092f	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+4150f982daf6caaf0fa33240456e1dd30f2bc45a	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+41a00d30e26645c267e3cb106fcd5177591e5c48	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+4338e685295bf976d0a1143e9bbdd7a5c64af6f3	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+43ae00ac6bf7cf48b5827e5749c3bbd8d1798ea5	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+443f4fc736dec43fd224b330aa08b0ef0649f2c0	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+44ca472eeb164d22832af7727e6056f089eab4ee	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+4c919146e2ba12dfdce30752fc92b2859dc07338	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+50226ba8496cd194b52d7da4bab57eb9559eb3af	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+5a3242d3153b1e770a0cd4381b828b24dea2e125	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+5e88e5e36201bf4353227b64ec72250a7dcc2ec5	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+5fdd7606d6fd5f8fc020f44b1ef6f73a34004c7d	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+69445cedeb5df3c9f6bc8467447a0e813a8a0562	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+6c158f399e24ed5737d6c39ab20ed85e98d2e475	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+6d152dcb11345dfae0986b8e97769f49db76de24	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+6d4f1cac9b03a2ab10a58e99955dafd708f1c875	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+6ea77785dfab7864b2760d4682cf7f06a3f74b79	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+6f2ba3bb7008254c522f9a8afd536e1faf1f9ee6	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+768fe3f969f58e20f61dd55b650d8457717f27ad	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+7b5d55bfa6563fb539675790369db7511cee16fd	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+7c8364823b0a2e96ab1fc7d1f36500a160880c97	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+86197947be1c1e5ebb280b7e16227eca9f88ff85	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+868d74e459411acde4ad51da02c1b88f55fc9811	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+88fc97e541efe39400f3327a7bb08e6ecb80b7d9	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+8bf8cd98670aaf64ebb0867335cb2f2def99afe0	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+9313952f12f0941fa7550702e463b61458875a15	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+950bc47ba5e0854b4ec0ad3e5c2fda77c211cbd1	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+97467bb9076d0b184304c6ecdd630371799de450	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+9da6831bbcdc6898b8bee2d1a9447f6d22ef00f4	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+9eb4487957e2b4f824f283ee17c0d4b877818739	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+a04851cd613e2d2ef7257c2a3aefb2a68efb324b	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+a3b4d7fe17b884369f314fdf50fb9b743606d2d4	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+a5d7c847a5209673ca74ffb053e8a68102c86965	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+a7cf6a0a4089a6da299055b270d2db4561aa748b	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+b2dc16de8d90128238f4198f360a67e2e02eaa88	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+b7225ddd1f30da5167a93d28fe63723f245ba256	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+bb4f4de1ab57e035c3d77df3385a0d6c443d5266	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+bc829547f5603dc078e7466419ecce47036a5c0f	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+c1418d96e172dc979a7d7d9011798fb98e2f6b9b	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+c40957fd3a2329c4614719c49c07ce6860e7f58a	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+c57275a9972df28bf9bd3db55e5782e593145300	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+c74aaeefb45e7a8d126715d11f4d3ba6ee87ed4a	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+c8215fbe61aa8cd1fc95453ab42737ef8a69e84c	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+c844fa262a61059cac50e3662518a558b4c229e6	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+cc0434452e50c302ed7126afa2cbda6f547ba88d	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+d3bbb4aea58653175d763aa87803d4035934d265	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+d5fde4a911f62c4d4ab1ba41aada493667181fb5	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+dd88edbc7e17b9c6f5eed5a0a93598fa901cbd4a	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+dec0af7bad0f71a645725ce057d569e065f3ee17	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+dedd3761dd5c28d66ddc8e0ea325b78e86a0b352	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+e57344d92eabbe3483eba57444f24d26246a12a2	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+e75192992cbe907a263000b9f3a94a05776b0d13	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+f0823115b42208952c3db8fbb03ca27475380b45	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+f853c90dc78904b993cb8adb47d7701c1df0cb78	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+f8d650d4ea1f0a161b13501491feb04af25a244e	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+036a34a8b44651b8a946819b7cf170417129e3527f4bffabb51e95f51c3b4749	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+0ca8e43316f3f303640aac4bfb8d0707faa0cb76cce70246a25fa5f8835cdb4e	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+0e85dfa3124db03b79bba7aa7a628cf5537c3321671c569e686d16aa718f60fd	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+1b423665896a40d31bc7feec8b0fa78d7f27552fd25f4a72917519feed3e59f5	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+1ba97892f9631d0609116325eace408a4d2b28ff8f0639a4303b5cff2fb6b4f9	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+1fce280388341989856991b09d0a82b8872061b739641241bc30e57241a27dcb	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+1fe24e80eed64eb28ea1d31e949445eaa85095e33a03e6bc835d688b81f40875	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+207758bad044c25f89fabf78892aa0f845a9b44a73b7aa16fd1fab1139c2297a	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+21d8ff68344b589d05626dce48a3b29573ee6c2e2a1ce81c392d69afd758c124	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+22dc4a4c12ce7199a4f4e901c8fc62cdb97a7e633b8503b83c8c7d2dd96aedbe	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+245b0b9b3583d37ae9eedac2665b09f656bd67f3985df0cdc0af9c7cd95bceed	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+296c86ecc4c3c233e02d5882efe48f4a172095c9ce109e08408d3befd0b5cba1	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+2fd2ef85f62bfb8deaf5b53353a23f6d378ec76a26dc623eab4b2027e0acddf0	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+3066fbf4a8791a7cd0b46408a7950852d0e04fb02a2c4dcb70a77add4928cd1f	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+32b0dcb8429f6b049424ef08be58f641e2ba3b8292d38d0f7ebfdcd495b697df	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+3351728f6fba0c65d1c1c678e80c36ed7bdc8be1ea6bf85e826c27e689c3db07	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+3398bdb7180bc9d3c6755e6cd3ddb351c751e64c3bf346a1857cb2c1c7406483	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+3b8519d6412546c4c1c622e842e0d9b34a540169c974325d053ff227407133ad	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+4657191f26927e22018495a9e8da9044f76d0644d56eab0a553d57cc9735c63d	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+468d2d12ededba0733acc32b4a0da776fac592cdc5fdf49015728f4586322b79	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+4839c6423b145486981d374d57e55246af99a37a7ba7c9f4e0ff4ba0dd577843	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+4b3080c1cd2c669dff3144f332013dd6db0aaf1115e6b04efcb4e25fea884fd2	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+4e7b79e59cb151fe8f30648571722a0b5789442195c5385bac80ae8f4fe8d7d7	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+502090cf297cd5fbffe6caf57fed196e737c07075895cd26d93662c16c95c4fe	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+53e1d7dc079dc2ffcff9fea9dccd23d9d206ffaede2274a2e6d8259c26b1a4a2	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+543922608fa97dca7e13e70a8538ef60722d32069542551f218eafcee99e80fb	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+55605320099d8b351e9c0fbbe0b9806058ba644de9c1f384914b4f1445a028e9	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+58b95add72b23acce491516c4d0eaa4291ff902199b806446587ed147dfd1a1e	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+5cd66605c1a299ac58a0686c2d52547d43d3eb60fcf7a2fc9474f5752ebb8105	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+63d2417f93b4e434d231f00cb9ba16e6636792a96e21acf1be76f411dd1c5ed5	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+681de0cc74d7d8bf0d2ce5033f16bb67c836affb643d57404ab7ec25e055beac	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+6cb1b929dc98d6b1725fb4566a1b58bd3211c5da31697c962099ef585b1e7853	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+70baca89bb6b76f26076c01c35cf531018064fe5ab3d6332312500e7c1def9e1	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+731634848622ba0b32b03d03766d01990c1ce63c85b5a701e15dd2a96bd5f47e	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+771744786d0da8a530cbfe921408a3ddb11af797dff3ad9716d9b57ef7ab48b5	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+819f87c7c310c4491192cd87bc1a3e65297c2133819b2b4f672204787693f87b	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+880c7c369497fbc515b96eaea63c01d879895e1efc4b1ed71d58dd8e5aaf0284	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+88ee3c961ccd8dbad9c5e8f02da118caf1ead51fef0fcd4cebb311be3fd622a1	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+8db1b34bcea9345700c5db075e5968aa30d90f15bd28901d11ccdcde4e464015	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+8f35a3844b3bc3f5d44b278568bae8933e36cddb4e9074ad1b29a64e7c197e26	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+90ba60b1b296830ea9581d96c038646e778d5683bd4fe12234d368f3af5bc8d5	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+97d37c33b2332072da7ca16d99ab047b64939745c82dab3b17e6b69f14ad8ada	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+980ee11f141ca4983c2e5457d48a994a61aa5a537c60d89a0999ce8a69996e0f	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+997eb5ab4def197862c7725ba213ab454b60bcb03557f226e8f2de3abfb5ebbc	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+99861e91fea411c704c1c1a4255d7b55df7738d1e594d08ee1776a1537d236a1	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+9bc8f9f8fb60e8cb424166f90fa33a7d25a32f8855ce47e0f25b6621bb8d96f0	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+a12844e4e1007ec143200d8192589593c22b6cf143ac51b320eabf08260ab2d4	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+a427a8e3bfeaa66f017535669905763d7af1cf2c394d8ba80ebe3f489e2bb54f	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+a4e2e5b7a2bd908338d66f4b29adb518c4707ea71b0a1f9b8cb0836041eeeecd	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+a831cd1d351a695e8a778a9552a6c89cb791838cb62710d6d7b8eb5561451af0	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+a888431b63b462571d73ef281f2a532b9c9e940245d8d8cd9e2c9ac8fc7105dc	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+af7e7e1ed3666cc8d08a393b02d8dc143a762f4e9496578ab437ab1b5d7b4659	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+b45ee7ba3a2d569b1862c962398afb3b7cb305e27caad8808b32fdf0c0ae5fcb	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+b890f785ba69ef53cc900457671b47549b36ff3dcc3eca4d2407ba1908b3f9e4	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+b8f2a9c4b2b70e7f76a0466fe9698b5208a03b0c771e88c1ee6793cde5353f15	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+bcad5575a549137af0e44463b3cdda315848ed93c2ca6acf486dbc20c4f57f0c	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+bf3e765f355e3636406a30286205271de9d6ca570ad6971174dd13b4f5b19f58	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+c38714cd8f77fca773d97b86c9a3122ef5e4991a6e70f901c64672cff8bf3956	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+c43d5817325a2105012b21bd713b18be45c3c85482777bc96d30c3cdb2018006	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+c6f56cc6fb700c1609ac3529c3a44520f59299dfa5fce1156004399feb42910b	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+c993c660f8f4b7de09cb2525f70400401aba341f2e4a30721619d628723e0c40	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+d434d6cb954d404789f652040d761b07e12aaae0129dc6c25ec1732afc5d92f3	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+d6a97f619b8edc41d22496240397c114b2b1eec5910444493cbf740435d41da4	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+e1b600dc014eed0e59e4345021ec0e9e210edf364fffdb655baeb4dc6c058822	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+e2632e4bd0f48ebb3c11bfe3e8fcfc22fe689b68a347a953ec1b893285e1ca1e	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+e33624c0d69bc71c68ce5b84757efcd27943757c24f14d2abbff1c564587c104	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+e5430700c840f5f2e64b9b78a9112926f2d5bd37652aec43d963fffa3965c8ad	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+e66d62bba82a5452fd9cb99a2b304c32f461cbc7f411a0fd555ae9db6ce34eec	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+ea1a3420cbc2a923eb23ae55285955316287a06ed17878fdd7cbed75914c1593	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+eaf9b677cc3f08ae27476a997e49a636c31299105b7b622f3af10c1792849edf	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+ecf386a680e3b901136eac7a10e1c54fbda7cad4778190804ded72a723f8bb04	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+f36b55aca49faab9fc99c14eb22077e43390d06123a981dec1059f57ac426363	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+f67f5a4415ca63037f6a543a900ca622d13b169fced6064d91e7082e8557b53c	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+f7a0ebd36671de85d5517b348ccfaf7c1cc738cb9da6efae09dc53eb563dbd5c	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+f8a747c42a131468aa025ff4979a47d34bda6f40bbf0285abdb0d3b4e8b643d1	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+f99fd72d1d7a2a810b5588a09aa9fd33be742d4c4ffc99fe51d326ba75167a2f	OTX	2026-10-12	family=Midnight Mimosa | pulse='The phone was compromised before the user turned it on: the rise of Midnight Mimosa' pulse_id=6accbe14102992eb5a52b063
+72a8eb805e026accc0a5805847db978f	OTX	2026-10-13	family=VulcanRAT207.A | pulse='From WhatsApp to SYSTEM: Inside the VulcanRAT207.A Intrusion Chain' pulse_id=6accfc98a21fbfce518cceaa
+a1589326cc3fcd0c64a7c08ca78fe30b3f7ee5cf	OTX	2026-10-13	family=VulcanRAT207.A | pulse='From WhatsApp to SYSTEM: Inside the VulcanRAT207.A Intrusion Chain' pulse_id=6accfc98a21fbfce518cceaa
+facf78d474b66ed821288db41fa6ad8a7b6f30650eb12127cb3e9a3cc6146116	OTX	2026-10-13	family=VulcanRAT207.A | pulse='From WhatsApp to SYSTEM: Inside the VulcanRAT207.A Intrusion Chain' pulse_id=6accfc98a21fbfce518cceaa
+0c418989bbc836208a087dee8fd64210f58909dddf736bc94769c269f65c26eb	OTX	2026-10-13	family=VulcanRAT207.A | pulse='From WhatsApp to SYSTEM: Inside the VulcanRAT207.A Intrusion Chain' pulse_id=6accfc98a21fbfce518cceaa
+be740b05caead2fa4521f42da0653a10f53029df5455ebafe4701ab3d41afdf9	OTX	2026-10-13	family=VulcanRAT207.A | pulse='From WhatsApp to SYSTEM: Inside the VulcanRAT207.A Intrusion Chain' pulse_id=6accfc98a21fbfce518cceaa
+6833b1946ac219cf6ddf6cfbde1f81352b12d9125c8735961b5256216c4fdc49	OTX	2026-10-13	family=VulcanRAT207.A | pulse='From WhatsApp to SYSTEM: Inside the VulcanRAT207.A Intrusion Chain' pulse_id=6accfc98a21fbfce518cceaa
+cbf8ffe904a030c02b9def094f609b2c05a78fa5c7745d2d371d38dd460c58be	OTX	2026-10-13	family=VulcanRAT207.A | pulse='From WhatsApp to SYSTEM: Inside the VulcanRAT207.A Intrusion Chain' pulse_id=6accfc98a21fbfce518cceaa
+f7721c28c9f30b905a3ec0c66a0eec0edffec8cb	OTX	2026-10-12	family=VulcanRAT207.A | pulse='From WhatsApp to SYSTEM: Inside the VulcanRAT207.A Intrusion Chain' pulse_id=6accfc98a21fbfce518cceaa

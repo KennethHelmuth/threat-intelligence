@@ -1,0 +1,38 @@
+title: Network Connection to Win.Koiloader Infrastructure
+id: 2e74ec06-7892-4af4-915a-87d6cc80ef36
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Koiloader.
+date: 2026-10-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - KoiLoader
+    - KoiStealer
+    - malware.win.koiloader
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '2.58.15.233'
+        - '5.101.84.22'
+        - '37.49.226.113'
+        - '217.12.206.93'
+        - '195.123.217.223'
+        - '77.73.131.21'
+        - '62.233.57.162'
+        - '195.123.210.154'
+        - '109.172.55.110'
+        - '45.14.227.125'
+        - '185.82.218.145'
+        - '195.123.217.43'
+        - '81.19.141.115'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

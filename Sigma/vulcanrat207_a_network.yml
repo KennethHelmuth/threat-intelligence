@@ -1,0 +1,34 @@
+title: Network Connection to Vulcanrat207.A Infrastructure
+id: b9cbd2e0-05e9-4e9f-b128-94d910ad6dfe
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Vulcanrat207.A.
+date: 2026-10-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - dll side-loading
+    - gofly driver
+    - gofly64.sys
+    - malware.vulcanrat207.a
+    - poolparty injection
+    - statement.exe
+    - system privilege escalation
+    - vulcanrat207.a
+    - vulkan persistence
+    - websocket rat
+    - whatsapp delivery
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '61.18.208.27'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

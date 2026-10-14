@@ -1,0 +1,59 @@
+title: DNS Query to Operation Gitpower Domains
+id: 14f78c46-b36a-4a25-ba79-30bb1a544591
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Operation Gitpower.
+date: 2026-10-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chm attacks
+    - github abuse
+    - lnk files
+    - malware.operation_gitpower
+    - operation gitpower
+    - powershell
+    - spear phishing
+    - state-sponsored espionage
+    - ukraine targeting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'pokijhgcfsdfghnj.mywebcommunity.org'
+        - 'minecrafter.mygamesonline.org'
+        - 'bwer5t6kl.getenjoyment.net'
+        - 'cmieqf7yjs.sportsontheweb.net'
+        - 'mf3goke.getenjoyment.net'
+        - 'argentinese.medianewsonline.com'
+        - 'dofamini.com.ua'
+        - 'ezms1ez.mygamesonline.org'
+        - 'fo27axr8z.getenjoyment.net'
+        - 'gstcg9g.mywebcommunity.org'
+        - 'h4s7hlkpo.getenjoyment.net'
+        - 'hnvg5lco.mywebcommunity.org'
+        - 'jkio954rt.medianewsonline.com'
+        - 'ke45tyghnj.mygamesonline.org'
+        - 'ki876tgvb.mypressonline.com'
+        - 'mailsecurity.serveirc.com'
+        - 'nimdm8cx87.mygamesonline.org'
+        - 'ny6r3kijc.mypressonline.com'
+        - 'oh8e6hd7ip.getenjoyment.net'
+        - 'oy51g1vt.getenjoyment.net'
+        - 'oz9ffohqb.mywebcommunity.org'
+        - 'rty789ijnh.medianewsonline.com'
+        - 'se4567yuhn.sportsontheweb.net'
+        - 'security-profile.serveirc.com'
+        - 'svpiwsw.mypressonline.com'
+        - 'w50dleqwo0d.getenjoyment.net'
+        - 'yrfghjk652u.mygamesonline.org'
+        - 'mykolapalinchak.medianewsonline.com'
+        - 'qweasdzxc.mygamesonline.org'
+        - 'security-zooma.serveirc.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

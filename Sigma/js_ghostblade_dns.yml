@@ -1,0 +1,33 @@
+title: DNS Query to Js.Ghostblade Domains
+id: 2399e88b-47ef-4c63-90d6-008e320bc5a8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Js.Ghostblade.
+date: 2026-10-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - DarkSword
+    - GHOSTBLADE
+    - ios
+    - malware.js.ghostblade
+    - panel
+    - supply-chain
+    - web-drive-by
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'dcgfun.top'
+        - 'ytl99.vip'
+        - 'myymk.cc'
+        - 'tronide.cc'
+        - 'jkonnet.buzz'
+        - 'sqwas.shapelie.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

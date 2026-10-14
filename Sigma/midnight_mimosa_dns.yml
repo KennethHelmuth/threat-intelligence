@@ -1,0 +1,43 @@
+title: DNS Query to Midnight Mimosa Domains
+id: 6c3f8994-0d50-4242-a5db-e541a118225e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Midnight Mimosa.
+date: 2026-10-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ad fraud
+    - android dropper
+    - android.click
+    - android.joker
+    - android.phantom
+    - botnet
+    - click fraud
+    - enloaderlib
+    - malware.midnight_mimosa
+    - mediatek platform
+    - midnight mimosa
+    - preinstalled firmware
+    - residential proxy
+    - system privileges
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'sec.com'
+        - '5.ahd187.com'
+        - 'cgb.jingongbuxiao.com'
+        - 'fyapi.freeflightbird.com'
+        - 'kwlib.next'
+        - 'zediel.com'
+        - 'oeawmfedpcleaih9.apple.0aa0cf0637d66c0d.com'
+        - 'oeawmfedpcleaih9.apple.442fe7151fb1e9b5.com'
+        - 'org.life.goal.tools'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
