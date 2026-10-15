@@ -1,0 +1,25 @@
+title: DNS Query to Win.Cloudeye Domains
+id: f71a32d6-a915-413d-9ddc-b41c8bd6cc60
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Cloudeye.
+date: 2026-10-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - DGA
+    - c2
+    - malware.win.cloudeye
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'biggerworldclassstandard.com'
+        - 'commonhedgehogs.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,34 @@
+title: Network Connection to Watchguard Impersonation Infrastructure
+id: ff98058c-0372-4aff-88ba-f99a5cae8f61
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Watchguard Impersonation.
+date: 2026-10-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser pop-up
+    - credential phishing
+    - fake download site
+    - malware.watchguard_impersonation
+    - seo poisoning
+    - signed installer abuse
+    - vpn targeting
+    - watchguard impersonation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'watchguard-vpn.com'
+        - 'watchguard-vpn.net'
+        - 'www.watchguard-vpn.net'
+        - 'watchguard-ssl.online'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

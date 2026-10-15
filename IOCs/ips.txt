@@ -13872,3 +13872,19 @@
 195.250.24.113	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
 85.155.224.59	OTX	2026-10-13	family=operation gitpower | pulse='Kimsuky attacks targeting Ukrainian experts in diplomacy, security, and international policy' pulse_id=6ace37f3bfe7f0829254f7bf
 61.18.208.27	OTX	2026-10-12	family=VulcanRAT207.A | pulse='From WhatsApp to SYSTEM: Inside the VulcanRAT207.A Intrusion Chain' pulse_id=6accfc98a21fbfce518cceaa
+188.166.233.108:9034	ThreatFox	2026-10-15	family=elf.aisuru | confidence=100% threat=botnet_cc
+139.224.113.180:8084	ThreatFox	2026-10-15	family=win.vshell | confidence=100% threat=botnet_cc
+38.55.252.139:8083	ThreatFox	2026-10-15	family=unknown | confidence=100% threat=botnet_cc
+152.32.133.192:49665	ThreatFox	2026-10-15	family=unknown | confidence=100% threat=botnet_cc
+176.65.139.141:10213	ThreatFox	2026-10-15	family=apk.cecbot | confidence=100% threat=botnet_cc
+193.26.115.35:80	ThreatFox	2026-10-15	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+64.177.112.233:443	ThreatFox	2026-10-15	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+144.34.239.24:8443	ThreatFox	2026-10-15	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+103.170.217.170:80	ThreatFox	2026-10-15	family=unknown | confidence=75% threat=payload_delivery
+167.172.79.84:8443	ThreatFox	2026-10-15	family=elf.aisuru | confidence=100% threat=botnet_cc
+172.94.111.66:2404	ThreatFox	2026-10-14	family=win.remcos | confidence=100% threat=botnet_cc
+159.203.38.220:8443	ThreatFox	2026-10-14	family=elf.aisuru | confidence=100% threat=botnet_cc
+206.123.152.36:65070	ThreatFox	2026-10-14	family=win.remcos | confidence=100% threat=botnet_cc
+177.22.88.133	OTX	2026-10-14	family=ShellBot | pulse='2026 Q3 Linux SSH Server Targeted Malware Statistics Report' pulse_id=6acf2be335dd8bbd4e27ec2e
+103.157.217.38	OTX	2026-10-14	family=ShellBot | pulse='2026 Q3 Linux SSH Server Targeted Malware Statistics Report' pulse_id=6acf2be335dd8bbd4e27ec2e
+38.60.253.35	OTX	2026-10-14	family=XMRig | pulse='Q3 2026 Statistical Report on Malware Targeting Windows Database Servers' pulse_id=6acf2be17afb8c6c6b066bc9

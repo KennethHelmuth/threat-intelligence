@@ -1,0 +1,32 @@
+title: Network Connection to Agenttesla Infrastructure
+id: 5a73464a-09cb-4522-a49a-8a3d36e005a2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Agenttesla.
+date: 2026-10-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - agenttesla
+    - credential theft
+    - ftp exfiltration
+    - infostealer
+    - malware.agenttesla
+    - multi-stage loader
+    - obfuscation
+    - phishing email
+    - social engineering
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'anmarinee.it.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

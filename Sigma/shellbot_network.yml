@@ -1,0 +1,39 @@
+title: Network Connection to Shellbot Infrastructure
+id: 75df37d5-aa67-491a-b1b0-844bd09eef84
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Shellbot.
+date: 2026-10-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - brute-force
+    - cryptocurrency-mining
+    - ddos-bot
+    - dictionary-attack
+    - fisieredoor
+    - goauto
+    - honeypot
+    - libssl2.3.0.so
+    - malware.shellbot
+    - rootkit
+    - shellbot
+    - ssh
+    - tsm
+    - xhide
+    - xmrig
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '177.22.88.133'
+        - '103.157.217.38'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

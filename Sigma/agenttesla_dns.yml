@@ -1,0 +1,30 @@
+title: DNS Query to Agenttesla Domains
+id: 1b2c6e69-9c69-40fd-b316-d65a9f5e7a61
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Agenttesla.
+date: 2026-10-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - agenttesla
+    - credential theft
+    - ftp exfiltration
+    - infostealer
+    - malware.agenttesla
+    - multi-stage loader
+    - obfuscation
+    - phishing email
+    - social engineering
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'anmarinee.it.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
