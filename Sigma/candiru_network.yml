@@ -1,0 +1,67 @@
+title: Network Connection to Candiru Infrastructure
+id: 86b2de14-399f-4c02-b06a-df9061b99fb7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Candiru.
+date: 2026-10-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adfection
+    - adint
+    - candiru
+    - controlium
+    - cve-2021-21166
+    - cve-2021-30551
+    - cve-2021-31979
+    - cve-2021-33742
+    - cve-2021-33771
+    - cve-2022-2294
+    - discover-tech
+    - malware.candiru
+    - mercenary surveillance
+    - real-time bidding
+    - targeted advertising
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'api-docs.freewheel.tv'
+        - 'rockhoster.com'
+        - 'volasim.com'
+        - 'ifrm.style'
+        - 'fearevolve.com'
+        - 'jobmarcher.com'
+        - 'outdooutcome.com'
+        - 'suggestutterly.com'
+        - 'ads-monitor.xyz'
+        - 'beachvibesnow.com'
+        - 'bindecy.com'
+        - 'checkmyimp.com'
+        - 'citymaster.io'
+        - 'controlium.net'
+        - 'cookiesurfer.com'
+        - 'discover-tech.io'
+        - 'enjoymultiplecats.com'
+        - 'epsilon-sec.com'
+        - 'globaldatapoints.com'
+        - 'icecreamtester.com'
+        - 'infoanalytics.live'
+        - 'insightenterprisells.com'
+        - 'intelos.io'
+        - 'keyadapter.com'
+        - 'mydsp.io'
+        - 'nutralove.co'
+        - 'pickarest.com'
+        - 'plasticbells.com'
+        - 'powerium.net'
+        - 'sharethere.net'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

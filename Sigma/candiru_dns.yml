@@ -1,0 +1,65 @@
+title: DNS Query to Candiru Domains
+id: 15644537-e13c-4b25-95e2-7e7cf9d155d1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Candiru.
+date: 2026-10-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adfection
+    - adint
+    - candiru
+    - controlium
+    - cve-2021-21166
+    - cve-2021-30551
+    - cve-2021-31979
+    - cve-2021-33742
+    - cve-2021-33771
+    - cve-2022-2294
+    - discover-tech
+    - malware.candiru
+    - mercenary surveillance
+    - real-time bidding
+    - targeted advertising
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'api-docs.freewheel.tv'
+        - 'rockhoster.com'
+        - 'volasim.com'
+        - 'ifrm.style'
+        - 'fearevolve.com'
+        - 'jobmarcher.com'
+        - 'outdooutcome.com'
+        - 'suggestutterly.com'
+        - 'ads-monitor.xyz'
+        - 'beachvibesnow.com'
+        - 'bindecy.com'
+        - 'checkmyimp.com'
+        - 'citymaster.io'
+        - 'controlium.net'
+        - 'cookiesurfer.com'
+        - 'discover-tech.io'
+        - 'enjoymultiplecats.com'
+        - 'epsilon-sec.com'
+        - 'globaldatapoints.com'
+        - 'icecreamtester.com'
+        - 'infoanalytics.live'
+        - 'insightenterprisells.com'
+        - 'intelos.io'
+        - 'keyadapter.com'
+        - 'mydsp.io'
+        - 'nutralove.co'
+        - 'pickarest.com'
+        - 'plasticbells.com'
+        - 'powerium.net'
+        - 'sharethere.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

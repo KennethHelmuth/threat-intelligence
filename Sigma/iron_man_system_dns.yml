@@ -1,0 +1,43 @@
+title: DNS Query to Iron Man System Domains
+id: d5191710-e2db-49e9-9ced-eeb4b2eb6471
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Iron Man System.
+date: 2026-10-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - banking fraud
+    - chinese threat actors
+    - global infrastructure
+    - iron man system
+    - licensing backend
+    - malware.iron_man_system
+    - phaas
+    - phishing templates
+    - phishing-as-a-service
+    - postal impersonation
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'loveboy.xyz'
+        - 'protonmail.me'
+        - 'docker.aidchildren.cc'
+        - 'aidchildren.cc'
+        - 'haoeryu.top'
+        - 'api2.haoyutai.cc'
+        - 'api2.peaceman.cc'
+        - 'bin2.peaceman.cc'
+        - 'docker.loveboy.xyz'
+        - 'install.loveboy.xyz'
+        - 'ipapi2.peaceman.cc'
+        - 'log2.peaceloving.xyz'
+        - 'ossapi.haoeryu.top'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

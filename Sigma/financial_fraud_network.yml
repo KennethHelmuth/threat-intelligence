@@ -1,0 +1,40 @@
+title: Network Connection to Financial Fraud Infrastructure
+id: eb0eb3ee-a927-479d-a0f7-987d11c2873a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Financial Fraud.
+date: 2026-10-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chinese-speaking cybercriminals
+    - coacev
+    - cofish_ws
+    - cogui
+    - credential phishing
+    - domain seizure
+    - financial fraud
+    - iron man
+    - japanese targets
+    - malware.financial_fraud
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'lygyaou.com'
+        - 'kenandy.shop'
+        - 'new-app-haixing.com'
+        - 'ylhgkj.com'
+        - '1dwsd1dedf.kumamoto-city.jp'
+        - '9aiolnhtdi.kumamoto-city.jp'
+        - 'bcuxktpfkz.kumamoto-city.jp'
+        - 'paidy.farradae.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

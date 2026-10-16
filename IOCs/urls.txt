@@ -60284,3 +60284,774 @@ http://112.248.252.138:46325/bin.sh	URLhaus	2026-10-14	status=offline threat=mal
 https://theinvitationestateco.vu/EdesktopInvite/RsvpNow/invitedetails.php	OTX	2026-10-14	family=ScreenConnect | pulse='RSVP to Disaster: How One Click Installs a RAT' pulse_id=6ace7dbf73fb0a8d1beeba9b
 http://watchguard-vpn.net/index.php	OTX	2026-10-13	family=watchguard impersonation | pulse='Clean Install, Stolen Creds: Fake WatchGuard VPN Site Serves Genuine Signed Client' pulse_id=6acec272f01b1f0cac6ecb2a
 https://www.watchguard-vpn.net/	OTX	2026-10-13	family=watchguard impersonation | pulse='Clean Install, Stolen Creds: Fake WatchGuard VPN Site Serves Genuine Signed Client' pulse_id=6acec272f01b1f0cac6ecb2a
+https://yk.888-fw.com/g4	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/g4/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/ae	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/v6	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/so/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/so	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://cdn.jsdelivr.net/gh/landmark-code/0a8541-c2de-40aa-8ecb-aed771fa2be/2b-468fe	ThreatFox	2026-10-16	family=js.clearfake | confidence=100% threat=payload_delivery
+https://yk.888-fw.com/ho	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/f0/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/f0	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/vm	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/wd	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/i5/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/o	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/n9	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/n9/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/f	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/ce	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/iy/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/iy	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com/ge5	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.888-fw.com	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://48mko9hrqrdwuvj.icu/	ThreatFox	2026-10-16	family=unknown | confidence=90% threat=payload_delivery
+https://ti.888-fw.com/z/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/z	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/gk	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/jg	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/rs/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/rs	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/e5	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/e5/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/ic	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/mt/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/mt	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/n3	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/my	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/my/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/sb	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/ry	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/ql/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/ql	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/kt	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/pm/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/pm	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/c50	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/zz	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/q1d/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/q1d	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/m	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/a4/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/s	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/b	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/st/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/st	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/nd	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/l	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/l/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/fl	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/ei	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/x/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/x	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com/ri	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://ti.888-fw.com	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/di/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/di	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/ri	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/bvn	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/pq/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/pq	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/cs	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/f2	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/f2/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/wb	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/x2	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/e1/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/e1	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/iym	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/tq/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/tq	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/vp	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/k3	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/hp/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/hp	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/vd	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/yv	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/yv/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/e	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/p	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/g/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/g	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/rn	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/kk/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/kk	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/p1	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/y39	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/bp/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://cdn.jsdelivr.net/gh/wjc5uqh3kb6geyrb/3685ba10-2e0b-4cf8-9fb4-929b401c5270/fa-b7e7-2b93d	ThreatFox	2026-10-16	family=js.clearfake | confidence=100% threat=payload_delivery
+https://fg.888-fw.com/bp	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/k6	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/z3/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/z3	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/ymi	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/ib	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/nu/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/nu	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com/ko	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://fg.888-fw.com	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/g/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/xd	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/g	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/r/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/r	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/vd	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/r4	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/r4/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/q3o	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/v	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/w5/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/w5	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/x	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/dv/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/dv	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/w2	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/l2	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/uf/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/uf	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/l25	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/j/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/j	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/gv	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/u	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/y3f/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/y3f	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/mm	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+http://124.29.224.45:43068/Mozi.a	ThreatFox	2026-10-16	family=elf.mozi | confidence=75% threat=payload_delivery
+http://125.47.84.76:50246/Mozi.m	ThreatFox	2026-10-16	family=elf.mozi | confidence=75% threat=payload_delivery
+http://124.6.167.113:41339/Mozi.a	ThreatFox	2026-10-16	family=elf.mozi | confidence=75% threat=payload_delivery
+https://c.888-fw.com/e6/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/e6	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/si	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/uk	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/sb/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/sb	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/cr	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/fv	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/fv/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/d6	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/fm	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/yl/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/yl	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com/l	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://c.888-fw.com	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/an/	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/an	ThreatFox	2026-10-16	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/av	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/p	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/wz/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/wz	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/vzn	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/u/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/u	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/ai	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/je4	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/aqt/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/aqt	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/k7	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/d/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/d	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/ni	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/i	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/tp/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/tp	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/go	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/es	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/es/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/six	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/fb	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/bc/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/bc	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/ro	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/c/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/c	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/ri0	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/as	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/lr/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/lr	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/s4	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/cr	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/cr/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/a	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/ysm	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/j/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/j	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com/lu	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://iy.888-fw.com	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/co6/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/vw	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/u9	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/lk/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/lk	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/vb	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/jqz	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/jqz/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/sy	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/a3	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/pw/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/pw	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/tt/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/tt	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/e2	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/t3	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/c7/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/c7	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/pc	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/x4h	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/x4h/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/slm	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/l68/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/l68	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/je	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/t	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/a8/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/a8	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/m	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/d9	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/ph/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/ph	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/a	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/z1/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/z1	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/wbu	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/k	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/oo/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/oo	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com/tq	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://sa.888-fw.com	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/uo	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/uo/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/tn	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/ix	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/fu2/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/fu2	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/ul8	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/ay/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/ay	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/a6	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/bd	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/vd/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/vd	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/ww	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/pt	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/pt/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/j	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/ld	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/pc7/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/pc7	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/p	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://q.71k.org/l	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/b/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/ss	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/vo	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/k/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/k	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/tbe	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/u	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/u/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/x	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/bh	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/m	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/bh/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/ku	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/mm/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/mm	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/ih	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/ju	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/zr/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/zr	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com/p2	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://m7.86idn.com	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://q.71k.org/x	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/ox/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/ze	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/zd	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/fu/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/fu	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/cn	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/ku	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/ku/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/as	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/jz/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/jz	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/sk0	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/xo/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/xo	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/vo	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/g4	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/ir/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/ir	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/nz	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://q.71k.org/d	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/e4/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/e4	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/yi	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/nk	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/v2/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/g	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/x3	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/x3/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/lr	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/tu	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/tu/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/ae	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/qz/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/qz	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/ri	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/xf	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/cd/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/cd	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com/ee8	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://be.86idn.com	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/ih/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://q.71k.org/j	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/r3	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/y1	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/qg/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/qg	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/jt	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/cb/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/cb	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/nx	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/eep/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/eep	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/l	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/mb	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/mb/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/c5	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/j	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/cx/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/gd	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://q.71k.org/y	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/bnt/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/bnt	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/vk	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/yky	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/jf/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/jf	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/dz	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/oha	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/oha/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/u	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/ph	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/or/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/or	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/cm	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/fv/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/fv	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/ia	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+https://t9.86idn.com/kv/	ThreatFox	2026-10-15	family=win.vidar | confidence=100% threat=botnet_cc
+http://183.151.200.30:41095/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://59.97.250.29:37302/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://45.165.172.92:60966/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://105.225.95.127:36479/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://59.97.250.116:41377/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://210.208.110.51:44372/bin.sh	URLhaus	2026-10-16	status=online threat=malware_download
+http://220.168.238.209:60522/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://222.137.141.44:47658/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://182.119.34.156:33099/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://182.119.34.156:33099/bin.sh	URLhaus	2026-10-16	status=online threat=malware_download
+http://196.190.69.149:36947/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://221.202.234.23:52511/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://221.202.234.23:52511/bin.sh	URLhaus	2026-10-16	status=online threat=malware_download
+http://182.113.205.239:50784/bin.sh	URLhaus	2026-10-16	status=online threat=malware_download
+http://38.43.93.61/hiddenbin/Space.arm5	URLhaus	2026-10-16	status=online threat=malware_download
+http://91.92.43.221/hiddenbin/Space.spc	URLhaus	2026-10-16	status=online threat=malware_download
+http://38.43.93.61/hiddenbin/Space.x86	URLhaus	2026-10-16	status=online threat=malware_download
+http://38.43.93.61/hiddenbin/Space.mips	URLhaus	2026-10-16	status=online threat=malware_download
+http://38.43.93.61/hiddenbin/Space.x86_64	URLhaus	2026-10-16	status=online threat=malware_download
+http://38.43.93.61/hiddenbin/Space.ppc	URLhaus	2026-10-16	status=online threat=malware_download
+http://38.43.93.61/hiddenbin/Space.arm7	URLhaus	2026-10-16	status=online threat=malware_download
+http://38.43.93.61/hiddenbin/Space.mpsl	URLhaus	2026-10-16	status=online threat=malware_download
+http://38.43.93.61/hiddenbin/Space.sh4	URLhaus	2026-10-16	status=online threat=malware_download
+http://38.43.93.61/hiddenbin/Space.m68k	URLhaus	2026-10-16	status=online threat=malware_download
+http://42.230.54.62:58470/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://42.55.37.135:45921/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://221.15.189.37:44951/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://180.190.200.74:38298/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://175.174.13.217:36599/bin.sh	URLhaus	2026-10-16	status=online threat=malware_download
+http://178.207.243.137:45243/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://222.140.182.253:36775/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://180.244.225.170:37008/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://182.113.205.239:50784/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://222.127.50.108:41701/bin.sh	URLhaus	2026-10-16	status=online threat=malware_download
+http://182.121.213.133:34850/bin.sh	URLhaus	2026-10-16	status=online threat=malware_download
+http://182.113.34.105:54101/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://182.113.0.7:39005/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://222.140.182.253:36775/bin.sh	URLhaus	2026-10-16	status=online threat=malware_download
+https://ggi.dietondemand.com/download/versions/5.3.1/2keyfactory.exe	URLhaus	2026-10-16	status=online threat=malware_download
+http://42.227.202.119:47620/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://42.231.249.63:33849/bin.sh	URLhaus	2026-10-16	status=online threat=malware_download
+http://42.239.231.217:56903/i	URLhaus	2026-10-16	status=online threat=malware_download
+http://125.42.225.92:38465/bin.sh	URLhaus	2026-10-16	status=online threat=malware_download
+https://dir.sonikjp.org/microsoft_store/download/version/93.11.1/2fa_code_engine.exe	URLhaus	2026-10-16	status=online threat=malware_download
+https://sep.dailytechinsight.com/download/ver/12.1.2/plclean_master.exe	URLhaus	2026-10-16	status=online threat=malware_download
+https://db.foodbook.pk/download/21.0.2/rdp_officex_manager.exe	URLhaus	2026-10-16	status=online threat=malware_download
+https://ww.menara5d.net/download/version/15.12.16/qr2auth.exe	URLhaus	2026-10-16	status=online threat=malware_download
+http://42.239.231.217:56903/bin.sh	URLhaus	2026-10-16	status=online threat=malware_download
+http://115.50.89.97:56156/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.61.118.122:60549/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://42.227.207.135:59885/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://221.15.178.114:40031/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://124.92.76.80:36313/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://42.234.233.113:55975/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://42.238.139.238:54491/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.50.89.97:56156/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.62.117.230:52274/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+https://brotherspizzapeoria.com/download/version/15.12.16/qr2auth.exe	URLhaus	2026-10-15	status=offline threat=malware_download
+http://115.55.53.145:45755/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://221.15.173.51:41661/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.49.24.236:46806/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://105.225.99.51:58007/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://61.133.30.139:43947/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://42.177.21.160:39514/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.49.69.231:44643/i	URLhaus	2026-10-15	status=online threat=malware_download
+https://anthonyspizzeriainc.com/microsoft_store/download/version/93.11.1/2fa_code_engine.exe	URLhaus	2026-10-15	status=offline threat=malware_download
+http://123.13.52.10:47498/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://123.13.52.10:47498/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://36.32.176.115:57093/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://219.157.186.140:47861/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://113.236.92.29:52754/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://182.127.111.173:40844/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://114.228.131.9:41693/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://219.157.186.140:47861/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://42.230.42.54:53636/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://125.42.32.7:39513/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://124.94.170.244:51983/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://59.97.248.127:54669/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://45.166.188.48:51478/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://42.230.42.54:53636/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://117.131.92.150:57383/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://106.58.126.200:60807/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://220.191.125.250:48161/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://221.15.185.193:48623/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://221.214.181.197:39806/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.61.118.122:60549/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://182.121.213.133:34850/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://101.109.199.229:46550/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://182.113.34.105:54101/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://182.121.85.243:40929/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://182.122.233.48:46273/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.57.180.160:35655/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://105.225.25.212:47629/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.57.180.160:35655/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.55.192.158:52755/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://223.151.72.37:40635/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://196.221.145.214:34136/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.55.192.158:52755/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://196.221.145.214:34136/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://116.139.137.227:46446/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://123.12.234.123:53789/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://120.28.194.92:34423/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://182.116.112.212:43421/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://melonandworld.top/hiddenbin/Space.arm	URLhaus	2026-10-15	status=online threat=malware_download
+http://111.179.145.25:56237/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://melonandworld.top/1.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://scribblebubblebibi.top/1.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://113.21.43.36:38425/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://steelstanleystaystrong.top/1.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://griffcar.com.br/Jordfyldens.toc	URLhaus	2026-10-15	status=online threat=malware_download
+http://182.234.145.4:47714/Mozi.a	URLhaus	2026-10-15	status=online threat=malware_download
+http://plochcarsportsball.top/1.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://110.138.8.251:48912/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://melonandworld.top/hiddenbin/Space.x86	URLhaus	2026-10-15	status=online threat=malware_download
+http://plochcarsportsball.top/hiddenbin/Space.arm7	URLhaus	2026-10-15	status=online threat=malware_download
+http://plochcarsportsball.top/hiddenbin/Space.arm5	URLhaus	2026-10-15	status=online threat=malware_download
+http://plochcarsportsball.top/hiddenbin/Space.x86	URLhaus	2026-10-15	status=online threat=malware_download
+http://steelstanleystaystrong.top/hiddenbin/Space.x86	URLhaus	2026-10-15	status=online threat=malware_download
+http://scribblebubblebibi.top/hiddenbin/Space.arm	URLhaus	2026-10-15	status=online threat=malware_download
+http://melonandworld.top/hiddenbin/Space.i686	URLhaus	2026-10-15	status=online threat=malware_download
+http://scribblebubblebibi.top/hiddenbin/Space.sh4	URLhaus	2026-10-15	status=online threat=malware_download
+http://plochcarsportsball.top/hiddenbin/Space.ppc	URLhaus	2026-10-15	status=online threat=malware_download
+http://plochcarsportsball.top/hiddenbin/Space.sh4	URLhaus	2026-10-15	status=online threat=malware_download
+http://plochcarsportsball.top/hiddenbin/Space.arm6	URLhaus	2026-10-15	status=online threat=malware_download
+http://steelstanleystaystrong.top/hiddenbin/Space.arc	URLhaus	2026-10-15	status=online threat=malware_download
+http://steelstanleystaystrong.top/hiddenbin/Space.i686	URLhaus	2026-10-15	status=online threat=malware_download
+http://scribblebubblebibi.top/hiddenbin/Space.x86_64	URLhaus	2026-10-15	status=online threat=malware_download
+http://melonandworld.top/hiddenbin/Space.mips	URLhaus	2026-10-15	status=online threat=malware_download
+http://melonandworld.top/hiddenbin/Space.ppc	URLhaus	2026-10-15	status=online threat=malware_download
+http://melonandworld.top/hiddenbin/Space.arm7	URLhaus	2026-10-15	status=online threat=malware_download
+http://steelstanleystaystrong.top/hiddenbin/Space.mpsl	URLhaus	2026-10-15	status=online threat=malware_download
+http://steelstanleystaystrong.top/hiddenbin/Space.arm6	URLhaus	2026-10-15	status=online threat=malware_download
+http://plochcarsportsball.top/hiddenbin/Space.arm	URLhaus	2026-10-15	status=online threat=malware_download
+http://scribblebubblebibi.top/hiddenbin/Space.mpsl	URLhaus	2026-10-15	status=online threat=malware_download
+http://melonandworld.top/hiddenbin/Space.arc	URLhaus	2026-10-15	status=online threat=malware_download
+http://melonandworld.top/hiddenbin/Space.arm6	URLhaus	2026-10-15	status=online threat=malware_download
+http://steelstanleystaystrong.top/hiddenbin/Space.mips	URLhaus	2026-10-15	status=online threat=malware_download
+http://plochcarsportsball.top/hiddenbin/Space.mpsl	URLhaus	2026-10-15	status=online threat=malware_download
+http://scribblebubblebibi.top/hiddenbin/Space.arm7	URLhaus	2026-10-15	status=online threat=malware_download
+http://plochcarsportsball.top/hiddenbin/Space.mips	URLhaus	2026-10-15	status=online threat=malware_download
+http://steelstanleystaystrong.top/hiddenbin/Space.arm5	URLhaus	2026-10-15	status=online threat=malware_download
+http://steelstanleystaystrong.top/hiddenbin/Space.sh4	URLhaus	2026-10-15	status=online threat=malware_download
+http://melonandworld.top/hiddenbin/Space.m68k	URLhaus	2026-10-15	status=online threat=malware_download
+http://melonandworld.top/hiddenbin/Space.x86_64	URLhaus	2026-10-15	status=online threat=malware_download
+http://plochcarsportsball.top/hiddenbin/Space.arc	URLhaus	2026-10-15	status=online threat=malware_download
+http://scribblebubblebibi.top/hiddenbin/Space.arm5	URLhaus	2026-10-15	status=online threat=malware_download
+http://melonandworld.top/hiddenbin/Space.sh4	URLhaus	2026-10-15	status=online threat=malware_download
+http://steelstanleystaystrong.top/hiddenbin/Space.ppc	URLhaus	2026-10-15	status=online threat=malware_download
+http://scribblebubblebibi.top/hiddenbin/Space.x86	URLhaus	2026-10-15	status=online threat=malware_download
+http://steelstanleystaystrong.top/hiddenbin/Space.x86_64	URLhaus	2026-10-15	status=online threat=malware_download
+http://plochcarsportsball.top/hiddenbin/Space.x86_64	URLhaus	2026-10-15	status=online threat=malware_download
+http://plochcarsportsball.top/hiddenbin/Space.m68k	URLhaus	2026-10-15	status=online threat=malware_download
+http://scribblebubblebibi.top/hiddenbin/Space.arc	URLhaus	2026-10-15	status=online threat=malware_download
+http://scribblebubblebibi.top/hiddenbin/Space.arm6	URLhaus	2026-10-15	status=online threat=malware_download
+http://steelstanleystaystrong.top/hiddenbin/Space.arm7	URLhaus	2026-10-15	status=online threat=malware_download
+http://melonandworld.top/hiddenbin/Space.mpsl	URLhaus	2026-10-15	status=online threat=malware_download
+http://scribblebubblebibi.top/hiddenbin/Space.i686	URLhaus	2026-10-15	status=online threat=malware_download
+http://scribblebubblebibi.top/hiddenbin/Space.ppc	URLhaus	2026-10-15	status=online threat=malware_download
+http://steelstanleystaystrong.top/hiddenbin/Space.m68k	URLhaus	2026-10-15	status=online threat=malware_download
+http://scribblebubblebibi.top/hiddenbin/Space.mips	URLhaus	2026-10-15	status=online threat=malware_download
+http://steelstanleystaystrong.top/hiddenbin/Space.arm	URLhaus	2026-10-15	status=online threat=malware_download
+http://melonandworld.top/hiddenbin/Space.arm5	URLhaus	2026-10-15	status=online threat=malware_download
+http://plochcarsportsball.top/hiddenbin/Space.i686	URLhaus	2026-10-15	status=online threat=malware_download
+http://scribblebubblebibi.top/hiddenbin/Space.m68k	URLhaus	2026-10-15	status=online threat=malware_download
+http://112.248.245.25:56104/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://109.238.87.75/g84kfS5n/Uploads/inject-test.exe_Melted.exe	URLhaus	2026-10-15	status=online threat=malware_download
+https://cdn.discordapp.com/attachments/1559223274288713738/1560345233772904488/bundle.zip?ex=6ad2603d&is=6ad10ebd&hm=49c0bd69cb1ca8cd85c0689bd14ddb748734e4975b02953df8e0211a8995d347&	URLhaus	2026-10-15	status=online threat=malware_download
+https://cdw.omsules.life/DvnX.zip	URLhaus	2026-10-15	status=offline threat=malware_download
+http://139.227.137.155:39361/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+https://cdt.omsules.life/DvnX.zip	URLhaus	2026-10-15	status=offline threat=malware_download
+http://42.227.196.224:53694/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://151.240.157.27:443/hunter	URLhaus	2026-10-15	status=offline threat=malware_download
+http://151.240.157.27:443/miner	URLhaus	2026-10-15	status=offline threat=malware_download
+http://151.240.157.27:443/xmrig	URLhaus	2026-10-15	status=offline threat=malware_download
+http://151.240.157.27:443/6bqpetbeacon	URLhaus	2026-10-15	status=offline threat=malware_download
+http://151.240.157.27:443/wallet	URLhaus	2026-10-15	status=offline threat=malware_download
+http://91.92.43.221/hiddenbin/Space.arc	URLhaus	2026-10-15	status=online threat=malware_download
+http://91.92.43.221/hiddenbin/Space.i686	URLhaus	2026-10-15	status=online threat=malware_download
+http://91.92.43.221/hiddenbin/Space.arm6	URLhaus	2026-10-15	status=online threat=malware_download
+http://91.92.43.221/hiddenbin/Space.arm7	URLhaus	2026-10-15	status=online threat=malware_download
+http://91.92.43.221/hiddenbin/Space.mpsl	URLhaus	2026-10-15	status=online threat=malware_download
+http://91.92.43.221/hiddenbin/Space.sh4	URLhaus	2026-10-15	status=online threat=malware_download
+http://91.92.43.221/hiddenbin/Space.arm5	URLhaus	2026-10-15	status=online threat=malware_download
+http://91.92.43.221/hiddenbin/Space.x86	URLhaus	2026-10-15	status=online threat=malware_download
+https://dklak.cam/Y7YX0XZ1	URLhaus	2026-10-15	status=offline threat=malware_download
+http://91.92.43.221/hiddenbin/Space.m68k	URLhaus	2026-10-15	status=online threat=malware_download
+http://91.92.43.221/hiddenbin/Space.arm	URLhaus	2026-10-15	status=online threat=malware_download
+http://91.92.43.221/1.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://91.92.43.221/hiddenbin/Space.ppc	URLhaus	2026-10-15	status=online threat=malware_download
+http://91.92.43.221/hiddenbin/Space.x86_64	URLhaus	2026-10-15	status=online threat=malware_download
+http://64.235.41.52/ip2	URLhaus	2026-10-15	status=online threat=malware_download
+http://91.92.43.221/hiddenbin/Space.mips	URLhaus	2026-10-15	status=online threat=malware_download
+https://donutsmputilitys.netlify.app/downloads/tweaks.jar	URLhaus	2026-10-15	status=online threat=malware_download
+https://internetmissouri.com/curl/42403afd2906a8f3062e3ddb19b28572d88db9ae74b147319383bd280c6bec0a	URLhaus	2026-10-15	status=offline threat=malware_download
+http://151.240.157.27:9000/hunter	URLhaus	2026-10-15	status=offline threat=malware_download
+https://64.235.41.52/ip	URLhaus	2026-10-15	status=offline threat=malware_download
+http://209.54.102.168/30/wemadebestthingsforme.hta?imafeination.pics	URLhaus	2026-10-15	status=offline threat=malware_download
+http://91.92.43.221/hiddenbin/Space.sparc	URLhaus	2026-10-15	status=offline threat=malware_download
+http://91.92.43.221/hiddenbin/Space.mips64	URLhaus	2026-10-15	status=offline threat=malware_download
+http://112.248.245.25:56104/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://222.134.167.0:42213/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://222.134.167.0:42213/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://123.10.70.119:36801/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://125.44.190.24:59007/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://59.96.140.65:40755/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://59.96.140.65:40755/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://59.97.254.36:33859/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://222.137.37.123:33987/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://222.141.135.181:50577/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://130.12.182.175:8080/gdtrupoqncyropd22.exe	URLhaus	2026-10-15	status=online threat=malware_download
+http://113.228.106.96:50311/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://113.228.106.96:50311/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://59.97.255.15:49804/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://61.52.222.63:41021/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://175.175.254.97:47852/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://124.6.167.113:41339/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://175.175.254.97:47852/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://123.148.142.77:43201/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://124.6.169.54:35063/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://d-j-d.com/g84kfS5n/Uploads/inject-test.exe_Melted.exe	URLhaus	2026-10-15	status=offline threat=malware_download
+http://61.52.185.167:57511/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://61.137.159.194:34929/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://61.52.222.63:41021/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://101.59.79.119:45459/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://125.42.225.92:38465/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://119.189.172.143:50999/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://123.12.230.43:56724/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://v-w-v.com/g84kfS5n/Plugins/clip64.dll	URLhaus	2026-10-15	status=online threat=malware_download
+http://d-j-d.com/g84kfS5n/Plugins/clip.dll	URLhaus	2026-10-15	status=offline threat=malware_download
+http://v-w-v.com/g84kfS5n/Uploads/build_amd.exe_Melted.exe	URLhaus	2026-10-15	status=offline threat=malware_download
+http://c-f-u.com/g84kfS5n/Uploads/build_amd.exe_Melted.exe	URLhaus	2026-10-15	status=offline threat=malware_download
+http://d-j-d.com/g84kfS5n/Plugins/cred.dll	URLhaus	2026-10-15	status=offline threat=malware_download
+http://c-f-u.com/g84kfS5n/Plugins/cred.dll	URLhaus	2026-10-15	status=offline threat=malware_download
+http://v-w-v.com/g84kfS5n/Plugins/cred.dll	URLhaus	2026-10-15	status=offline threat=malware_download
+http://c-f-u.com/g84kfS5n/Plugins/cred64.dll	URLhaus	2026-10-15	status=online threat=malware_download
+http://v-w-v.com/g84kfS5n/Plugins/cred64.dll	URLhaus	2026-10-15	status=offline threat=malware_download
+http://c-f-u.com/g84kfS5n/Plugins/clip64.dll	URLhaus	2026-10-15	status=offline threat=malware_download
+http://v-w-v.com/g84kfS5n/Plugins/clip.dll	URLhaus	2026-10-15	status=offline threat=malware_download
+http://d-j-d.com/g84kfS5n/Plugins/cred64.dll	URLhaus	2026-10-15	status=online threat=malware_download
+http://d-j-d.com/g84kfS5n/Plugins/clip64.dll	URLhaus	2026-10-15	status=offline threat=malware_download
+http://c-f-u.com/g84kfS5n/Plugins/clip.dll	URLhaus	2026-10-15	status=offline threat=malware_download
+http://ld-cf.com/g84kfS5n/Plugins/clip.dll	URLhaus	2026-10-15	status=offline threat=malware_download
+http://ld-cf.com/g84kfS5n/Plugins/clip64.dll	URLhaus	2026-10-15	status=offline threat=malware_download
+http://ld-cf.com/g84kfS5n/Plugins/cred64.dll	URLhaus	2026-10-15	status=offline threat=malware_download
+http://ld-cf.com/g84kfS5n/Plugins/cred.dll	URLhaus	2026-10-15	status=offline threat=malware_download
+http://ld-cf.com/g84kfS5n/Uploads/build_amd.exe_Melted.exe	URLhaus	2026-10-15	status=offline threat=malware_download
+http://109.238.87.75/g84kfS5n/Uploads/build_amd.exe_Melted.exe	URLhaus	2026-10-15	status=online threat=malware_download
+http://123.9.68.39:48605/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://60.18.99.133:55111/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://109.238.87.75/g84kfS5n/Plugins/cred64.dll	URLhaus	2026-10-15	status=online threat=malware_download
+http://109.238.87.75/g84kfS5n/Plugins/clip.dll	URLhaus	2026-10-15	status=online threat=malware_download
+http://109.238.87.75/g84kfS5n/Plugins/clip64.dll	URLhaus	2026-10-15	status=online threat=malware_download
+http://d-j-d.com/g84kfS5n/Uploads/build_amd.exe_Melted.exe	URLhaus	2026-10-15	status=offline threat=malware_download
+http://109.238.87.75/g84kfS5n/Plugins/cred.dll	URLhaus	2026-10-15	status=online threat=malware_download
+http://113.53.69.165:46289/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://115.52.22.187:43380/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://39.77.250.226:59814/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://219.157.39.145:59352/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.49.24.236:46806/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://45.172.218.85:42114/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://45.166.188.48:51478/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://221.15.10.194:38855/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://113.53.69.165:46289/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://60.214.231.246:46912/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://61.53.140.82:52817/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://66.205.236.190:47116/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.52.22.187:43380/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://222.134.163.77:55046/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://27.215.124.78:60459/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://27.216.33.36:46164/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.55.130.202:34606/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://182.127.64.151:40844/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://61.52.182.76:44809/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://27.45.183.118:52733/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://115.55.130.202:34606/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://61.243.141.19:41846/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://37.34.181.111:53143/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://60.23.236.153:49355/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://61.53.84.98:48194/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://61.52.185.167:57511/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://182.117.119.237:60350/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://175.174.13.217:36599/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://175.151.87.39:48434/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://175.165.199.119:58677/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://182.113.206.163:36350/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://182.119.11.178:35763/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://59.180.153.189:48667/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://182.116.81.29:59993/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://182.116.120.14:34596/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://112.198.194.175:55553/Mozi.m+-O+-	URLhaus	2026-10-15	status=online threat=malware_download
+http://163.142.77.44:36474/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://123.12.232.231:57060/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://139.227.137.155:39361/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://123.12.232.231:57060/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://216.126.86.128:34013/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://196.206.115.18:40753/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://201.110.21.150:38216/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://201.110.21.150:38216/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://221.1.227.111:52522/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://123.11.8.153:34303/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://120.84.214.210:44069/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://123.11.8.153:34303/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://220.198.112.236:48147/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://219.157.20.98:42224/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://60.19.211.40:54211/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://60.19.213.66:43806/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://180.191.49.27:56901/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://36.255.97.170/bins.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+https://up.sb/J2FMm/1.tar.gz	URLhaus	2026-10-15	status=offline threat=malware_download
+http://151.240.157.27:8080/hunter	URLhaus	2026-10-15	status=offline threat=malware_download
+http://151.240.157.27:8080/xmrig	URLhaus	2026-10-15	status=offline threat=malware_download
+http://151.240.157.27:8080/miner	URLhaus	2026-10-15	status=offline threat=malware_download
+http://151.240.157.27:8080/beacon?id=chain_01d0c0c1a3c5	URLhaus	2026-10-15	status=offline threat=malware_download
+http://205.185.117.117:9443/sysd.bin	URLhaus	2026-10-15	status=offline threat=malware_download
+http://205.185.117.117:9443/g.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://5.83.136.39:8080/bins.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://151.240.157.27:8080/r5g6y6beacon	URLhaus	2026-10-15	status=offline threat=malware_download
+http://151.240.157.27:8080/wallet	URLhaus	2026-10-15	status=offline threat=malware_download
+http://42.6.101.155:34345/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://123.10.70.119:36801/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://121.202.142.137:42284/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://123.14.235.37:59244/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://27.215.140.2:54550/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://119.179.250.149:40209/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.55.129.26:59481/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.63.245.203:46795/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://123.4.18.86:53996/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://121.231.77.24:4367/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://119.166.84.226:52492/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://115.55.206.233:48121/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://45.183.184.74:38533/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://105.184.177.151:35937/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://115.55.129.26:59481/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+https://cdn.discordapp.com/attachments/1557740644179517531/1560206841797939210/bundle_3.zip?ex=6ad1df5a&is=6ad08dda&hm=94d7059bfa407e04fa9e30edd05d792a68272c07e2bd3ab74e919b8647f857ae&	URLhaus	2026-10-15	status=online threat=malware_download
+http://202.83.167.117:47317/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://115.55.203.30:32869/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.55.238.219:32771/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.55.206.233:48121/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://103.66.176.192:33647/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://59.96.138.155:42226/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://59.96.138.155:42226/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://42.227.196.224:53694/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://42.226.236.209:36563/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://115.62.152.23:52843/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://115.62.152.23:52843/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://42.230.35.117:53220/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://42.226.236.209:36563/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://103.66.176.192:33647/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://115.55.61.246:34455/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://60.186.138.183:45320/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://210.208.106.68:50663/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://105.184.182.218:55557/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://175.107.215.35:39492/Mozi.a	URLhaus	2026-10-15	status=offline threat=malware_download
+http://119.30.117.179:38895/Mozi.m	URLhaus	2026-10-15	status=offline threat=malware_download
+http://95.9.35.137:35818/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://42.225.199.101:33025/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://115.50.104.42:48635/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+https://download1593.mediafire.com/65fjj9yhlxlgyAmDvohLNPZOz6PDQSXZh38lLkt6VQoL0SihRWoxP0RRbfp5J49NZC3t1IBDJf-K9lsq0p30jcAuNcleWlwfo63HP_IQvgJWjiIXxOtz8pV13Q9dgvUaJCfpjkg88otD8xea9CxgFtsOtiXAF_pld4OyGzEVRIV_Yg/f5or9v58g1hmf84/MalwareRAT.rar	URLhaus	2026-10-15	status=offline threat=malware_download
+http://115.61.111.244:57147/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://105.184.125.244:54343/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://216.126.86.64:38919/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.55.61.217:35633/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://115.55.203.30:32869/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://121.202.142.137:42284/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://196.190.69.149:45971/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://115.62.117.230:52274/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://95.9.35.137:35818/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://202.166.165.60:58074/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://82.22.23.132/bins/mpsl	URLhaus	2026-10-15	status=offline threat=malware_download
+http://46.236.65.27:49459/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://42.85.124.15:53135/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://113.53.69.133:35662/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://59.180.134.170:41296/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://59.90.191.229:57627/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://59.90.191.229:57627/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://221.15.178.114:40031/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://222.127.186.27:42601/i	URLhaus	2026-10-15	status=online threat=malware_download
+http://113.53.69.133:35662/bin.sh	URLhaus	2026-10-15	status=offline threat=malware_download
+http://123.12.226.4:57201/bin.sh	URLhaus	2026-10-15	status=online threat=malware_download
+http://203.204.246.77:54733/i	URLhaus	2026-10-15	status=offline threat=malware_download
+http://120.28.194.30:34491/i	URLhaus	2026-10-15	status=online threat=malware_download
+https://dobeqnesmot.cc/gate	OTX	2026-10-15	family=Aoki | pulse='Aoki: Infostealer Targets AI Coding Assistant Credentials' pulse_id=6ad0c30399495ae02dc7664a
+https://hjazfioe.surf/gate	OTX	2026-10-15	family=Aoki | pulse='Aoki: Infostealer Targets AI Coding Assistant Credentials' pulse_id=6ad0c30399495ae02dc7664a
+https://neihite.cc/gate	OTX	2026-10-15	family=Aoki | pulse='Aoki: Infostealer Targets AI Coding Assistant Credentials' pulse_id=6ad0c30399495ae02dc7664a
+http://discover-tech.io/_functions/api/disclosure.json	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://discover-tech.io/dsp	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://discover-tech.io/dsp-privacy-policy	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://discover-tech.io/privacy-policy	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://dtech.adtimizer.co/DSPCLogger/ClickProcessor	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://dtech.adtimizer.co/DSPCLogger/Impoint	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://events.myweb3id.io/cplatform/getAd	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://events.platc-tester.com/cplatform/getAd	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://events.platc-tester.com/cplatform/getAd?idfa=test123	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://imp.powerium.net/DSPCLogger/ClickProcessor	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://imp.powerium.net/DSPCLogger/Impoint	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://js.cookie-sync.xyz/myipinfo/c_tracking_pixel_gdpr.js	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://js.tracookiepixel.xyz/dt/c_tracking_pixel_gdpr_enhanced.js	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://js.tracookiepixel.xyz/myipinfo/c_tracking_pixel_gdpr.js	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://logger.controlium.net/register_event	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://noas.powerium.net/getAd	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://qa-noas.powerium.net/getAd	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://sincereaccertain.com/?qq=[...]	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+https://api-docs.freewheel.tv/advertiser/v2.0/discuss/60a53c1531fb4d001c01435e	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+https://events.platc-tester.com/cplatform/getAd?idfa=test123	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+https://logger.powerium.net/register_event?user=dbdt&user_id=test2&bundle=&domain=&user_sha1=&exc=&name=test2&bt=&ai=&referer=&devicemodel=	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+https://myipinfo.io	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+https://sincereaccertain.com/?qq=[...]	OTX	2026-10-15	family=Candiru | pulse='Exposing AdFection: How Discover-Tech Turned Targeted Ads Into a Pipeline for Zero-Click Mercenary Spyware' pulse_id=6ad0c5a0a6d66a2d742e590c
+http://43.225.157.157:8766/request_token	OTX	2026-10-14	family=Hirudo | pulse='Hirudo: From Fake Updates to Patched Banking Apps' pulse_id=6acf85338bff164de62a2759
+https://kenandy.shop/paidy/ubmisionsjp/	OTX	2026-10-14	family=financial fraud | pulse='Disruption Targets Major Chinese-Language Phishing Kits with Japanese Focus' pulse_id=6acf8736e6d91800bcdb734a
+https://lygyaou.com/9AioLNhtdi.kumamoto-city.jp	OTX	2026-10-14	family=financial fraud | pulse='Disruption Targets Major Chinese-Language Phishing Kits with Japanese Focus' pulse_id=6acf8736e6d91800bcdb734a
+https://new-app-haixing.com/1DWSd1DeDf.kumamoto-city.jp	OTX	2026-10-14	family=financial fraud | pulse='Disruption Targets Major Chinese-Language Phishing Kits with Japanese Focus' pulse_id=6acf8736e6d91800bcdb734a
+https://paidy.farradae.com/paidy/ubmissionsjp	OTX	2026-10-14	family=financial fraud | pulse='Disruption Targets Major Chinese-Language Phishing Kits with Japanese Focus' pulse_id=6acf8736e6d91800bcdb734a
+https://ylhgkj.com/BCuXkTPfKZ.kumamoto-city.jp	OTX	2026-10-14	family=financial fraud | pulse='Disruption Targets Major Chinese-Language Phishing Kits with Japanese Focus' pulse_id=6acf8736e6d91800bcdb734a

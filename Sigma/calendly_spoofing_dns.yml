@@ -1,0 +1,40 @@
+title: DNS Query to Calendly Spoofing Domains
+id: a1c53ee5-2377-4c89-807d-69c1be92add3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Calendly Spoofing.
+date: 2026-10-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 2fa bypass
+    - account takeover
+    - calendly spoofing
+    - credential theft
+    - job scam
+    - malware.calendly_spoofing
+    - meta impersonation
+    - phishing
+    - social engineering
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'joinconnect.cfd'
+        - 'joinconnect.works'
+        - 'joinhire.cfd'
+        - 'joinhire.info'
+        - 'joinquest.cfd'
+        - 'joinquest.info'
+        - 'joinquest.works'
+        - 'jointhetalent.cfd'
+        - 'jointhetalent.info'
+        - 'jointhetalent.works'
+        - 'jointheteam.cfd'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

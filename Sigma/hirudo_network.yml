@@ -1,0 +1,38 @@
+title: Network Connection to Hirudo Infrastructure
+id: d9c5fe5e-c21d-440a-b153-e2f4fe07018e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Hirudo.
+date: 2026-10-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - android banking trojan
+    - app patching
+    - credential theft
+    - device takeover
+    - fake updates
+    - hirudo
+    - indonesia targeting
+    - malware.hirudo
+    - rat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'jiekou.baojingtextile.cn'
+        - 'www.helloharmonyos.com'
+        DestinationIp|contains:
+        - '134.122.153.136'
+        - '134.122.153.68'
+        - '134.122.153.92'
+        - '43.225.157.157'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

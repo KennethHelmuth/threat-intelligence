@@ -1,0 +1,35 @@
+title: Network Connection to Aoki Infrastructure
+id: b7d9563a-8a15-4c39-9840-90a9c390ae19
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Aoki.
+date: 2026-10-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai coding assistant
+    - aoki
+    - aokigahara
+    - api keys
+    - browser data
+    - credential theft
+    - cryptocurrency wallets
+    - infostealer
+    - malware.aoki
+    - session tokens
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'neihite.cc'
+        - 'dobeqnesmot.cc'
+        - 'hjazfioe.surf'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

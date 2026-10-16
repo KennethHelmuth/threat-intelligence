@@ -1,0 +1,33 @@
+title: Network Connection to Vpn Appliances Infrastructure
+id: d61ce2ea-32d1-4ebb-8ecb-5ac4f67af747
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Vpn Appliances.
+date: 2026-10-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - authentication bypass
+    - cgi exploitation
+    - cve-2026-104935
+    - ivanti connect secure
+    - malware.vpn_appliances
+    - privilege escalation
+    - race condition
+    - root access
+    - vpn appliances
+    - zero-day vulnerabilities
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '108.165.147.64'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

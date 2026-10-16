@@ -13888,3 +13888,72 @@
 177.22.88.133	OTX	2026-10-14	family=ShellBot | pulse='2026 Q3 Linux SSH Server Targeted Malware Statistics Report' pulse_id=6acf2be335dd8bbd4e27ec2e
 103.157.217.38	OTX	2026-10-14	family=ShellBot | pulse='2026 Q3 Linux SSH Server Targeted Malware Statistics Report' pulse_id=6acf2be335dd8bbd4e27ec2e
 38.60.253.35	OTX	2026-10-14	family=XMRig | pulse='Q3 2026 Statistical Report on Malware Targeting Windows Database Servers' pulse_id=6acf2be17afb8c6c6b066bc9
+120.79.192.53:7000	ThreatFox	2026-10-16	family=unknown | confidence=100% threat=botnet_cc
+179.199.199.11:8080	ThreatFox	2026-10-16	family=win.vshell | confidence=100% threat=botnet_cc
+178.16.53.76:9035	ThreatFox	2026-10-16	family=elf.aisuru | confidence=100% threat=botnet_cc
+43.138.224.194:9999	ThreatFox	2026-10-16	family=win.vshell | confidence=100% threat=botnet_cc
+82.156.127.116:8888	ThreatFox	2026-10-16	family=win.vshell | confidence=100% threat=botnet_cc
+167.99.179.106:9034	ThreatFox	2026-10-16	family=elf.aisuru | confidence=100% threat=botnet_cc
+164.92.243.20:9034	ThreatFox	2026-10-16	family=elf.aisuru | confidence=100% threat=botnet_cc
+217.160.53.33:6738	ThreatFox	2026-10-16	family=win.remus | confidence=100% threat=botnet_cc
+216.9.225.228:8765	ThreatFox	2026-10-15	family=unknown | confidence=75% threat=payload_delivery
+114.66.38.23:4567	ThreatFox	2026-10-15	family=win.meterpreter | confidence=100% threat=botnet_cc
+155.103.71.231:4041	ThreatFox	2026-10-15	family=win.remcos | confidence=100% threat=botnet_cc
+128.90.113.198:3000	ThreatFox	2026-10-15	family=win.remcos | confidence=100% threat=botnet_cc
+8.137.187.63:80	ThreatFox	2026-10-15	family=unknown | confidence=50% threat=botnet_cc
+8.137.187.63:443	ThreatFox	2026-10-15	family=unknown | confidence=50% threat=botnet_cc
+8.137.187.63:50053	ThreatFox	2026-10-15	family=unknown | confidence=50% threat=botnet_cc
+8.137.187.63:50054	ThreatFox	2026-10-15	family=unknown | confidence=50% threat=botnet_cc
+185.165.171.21:8888	ThreatFox	2026-10-15	family=unknown | confidence=50% threat=botnet_cc
+185.165.171.21:8898	ThreatFox	2026-10-15	family=unknown | confidence=50% threat=botnet_cc
+195.72.189.19:18085	ThreatFox	2026-10-15	family=unknown | confidence=50% threat=botnet_cc
+91.92.43.221:80	ThreatFox	2026-10-15	family=elf.mirai | confidence=75% threat=payload_delivery
+111.90.143.39:80	ThreatFox	2026-10-15	family=unknown_loader | confidence=75% threat=botnet_cc
+47.236.70.111:2222	ThreatFox	2026-10-15	family=unknown | confidence=100% threat=botnet_cc
+45.142.31.186:15987	ThreatFox	2026-10-15	family=elf.potassium | confidence=100% threat=botnet_cc
+91.92.43.221:3778	ThreatFox	2026-10-15	family=elf.mirai | confidence=80% threat=botnet_cc
+78.142.218.10:56002	ThreatFox	2026-10-15	family=win.pure_rat | confidence=75% threat=botnet_cc
+69.169.101.100:6606	ThreatFox	2026-10-15	family=win.asyncrat | confidence=75% threat=botnet_cc
+5.189.168.42:20001	ThreatFox	2026-10-15	family=win.pure_rat | confidence=75% threat=botnet_cc
+46.246.12.13:2703	ThreatFox	2026-10-15	family=win.asyncrat | confidence=75% threat=botnet_cc
+45.153.127.224:56811	ThreatFox	2026-10-15	family=win.chaos | confidence=75% threat=botnet_cc
+38.49.214.29:56002	ThreatFox	2026-10-15	family=win.pure_rat | confidence=75% threat=botnet_cc
+31.57.38.147:443	ThreatFox	2026-10-15	family=win.pure_rat | confidence=75% threat=botnet_cc
+31.56.209.62:56003	ThreatFox	2026-10-15	family=win.pure_rat | confidence=75% threat=botnet_cc
+23.171.177.41:56001	ThreatFox	2026-10-15	family=win.pure_rat | confidence=75% threat=botnet_cc
+216.9.225.201:1248	ThreatFox	2026-10-15	family=win.asyncrat | confidence=75% threat=botnet_cc
+216.9.227.252:1248	ThreatFox	2026-10-15	family=win.asyncrat | confidence=75% threat=botnet_cc
+207.56.3.56:56001	ThreatFox	2026-10-15	family=win.pure_rat | confidence=75% threat=botnet_cc
+207.56.3.56:56002	ThreatFox	2026-10-15	family=win.pure_rat | confidence=75% threat=botnet_cc
+195.20.115.190:6606	ThreatFox	2026-10-15	family=win.asyncrat | confidence=75% threat=botnet_cc
+193.84.71.165:59813	ThreatFox	2026-10-15	family=apk.hook | confidence=75% threat=botnet_cc
+172.81.132.156:56001	ThreatFox	2026-10-15	family=win.pure_rat | confidence=75% threat=botnet_cc
+172.81.132.156:56002	ThreatFox	2026-10-15	family=win.pure_rat | confidence=75% threat=botnet_cc
+165.227.48.17:65000	ThreatFox	2026-10-15	family=unknown | confidence=75% threat=botnet_cc
+167.148.41.45:56002	ThreatFox	2026-10-15	family=win.pure_rat | confidence=75% threat=botnet_cc
+156.238.120.71:56001	ThreatFox	2026-10-15	family=win.pure_rat | confidence=75% threat=botnet_cc
+156.238.120.71:56002	ThreatFox	2026-10-15	family=win.pure_rat | confidence=75% threat=botnet_cc
+151.244.30.155:1337	ThreatFox	2026-10-15	family=elf.evilginx | confidence=75% threat=botnet_cc
+147.124.210.227:56001	ThreatFox	2026-10-15	family=win.pure_rat | confidence=75% threat=botnet_cc
+147.124.210.227:56003	ThreatFox	2026-10-15	family=win.pure_rat | confidence=75% threat=botnet_cc
+144.172.116.238:7443	ThreatFox	2026-10-15	family=unknown | confidence=75% threat=botnet_cc
+139.99.124.37:44321	ThreatFox	2026-10-15	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+138.197.192.243:65000	ThreatFox	2026-10-15	family=unknown | confidence=75% threat=botnet_cc
+129.146.131.251:443	ThreatFox	2026-10-15	family=win.danabot | confidence=75% threat=botnet_cc
+147.93.145.60:8887	ThreatFox	2026-10-15	family=win.remcos | confidence=100% threat=botnet_cc
+172.94.125.194:2404	ThreatFox	2026-10-15	family=win.remcos | confidence=100% threat=botnet_cc
+185.174.101.106:2408	ThreatFox	2026-10-15	family=win.remcos | confidence=100% threat=botnet_cc
+31.77.138.220:1616	ThreatFox	2026-10-15	family=win.remcos | confidence=100% threat=botnet_cc
+45.133.174.164:36284	ThreatFox	2026-10-15	family=win.remcos | confidence=100% threat=botnet_cc
+94.232.46.202	OTX	2026-10-15	family=DragonForce | pulse='DragonForce Ransomware Profile: From Affiliate Program to Cybercrime Cartel' pulse_id=6ad0dc1e98341fe609c19f3e
+185.73.125.8	OTX	2026-10-15	family=DragonForce | pulse='DragonForce Ransomware Profile: From Affiliate Program to Cybercrime Cartel' pulse_id=6ad0dc1e98341fe609c19f3e
+134.122.153.136	OTX	2026-10-14	family=Hirudo | pulse='Hirudo: From Fake Updates to Patched Banking Apps' pulse_id=6acf85338bff164de62a2759
+134.122.153.68	OTX	2026-10-14	family=Hirudo | pulse='Hirudo: From Fake Updates to Patched Banking Apps' pulse_id=6acf85338bff164de62a2759
+134.122.153.92	OTX	2026-10-14	family=Hirudo | pulse='Hirudo: From Fake Updates to Patched Banking Apps' pulse_id=6acf85338bff164de62a2759
+43.225.157.157	OTX	2026-10-14	family=Hirudo | pulse='Hirudo: From Fake Updates to Patched Banking Apps' pulse_id=6acf85338bff164de62a2759
+108.165.147.64	OTX	2026-10-14	family=vpn appliances | pulse='Ivanti CVE-2026-104935: Zero-Day Chain Exploited in Operation Innovate' pulse_id=6acf8533a44062761084826c
+23.240.77.233	OTX	2026-10-14	family=PEERSTITCH | pulse='PEERSTITCH, a Stealthy FortiGate Implant' pulse_id=6ad0096119a185c9dcb055b0
+47.18.167.159	OTX	2026-10-14	family=PEERSTITCH | pulse='PEERSTITCH, a Stealthy FortiGate Implant' pulse_id=6ad0096119a185c9dcb055b0
+204.194.54.240	OTX	2026-10-15	family=privilege escalation | pulse='How AI Agents Turned One Exposed Endpoint into a Server Takeover' pulse_id=6ad07b924dde0538386bd7d5
+204.194.55.189	OTX	2026-10-15	family=privilege escalation | pulse='How AI Agents Turned One Exposed Endpoint into a Server Takeover' pulse_id=6ad07b924dde0538386bd7d5
+94.177.131.113	OTX	2026-10-15	family=privilege escalation | pulse='How AI Agents Turned One Exposed Endpoint into a Server Takeover' pulse_id=6ad07b924dde0538386bd7d5

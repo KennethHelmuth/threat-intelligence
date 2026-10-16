@@ -1,0 +1,42 @@
+title: Network Connection to Calendly Spoofing Infrastructure
+id: 24ec8eb9-0af7-44ab-93bf-38fc312b4fd1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Calendly Spoofing.
+date: 2026-10-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 2fa bypass
+    - account takeover
+    - calendly spoofing
+    - credential theft
+    - job scam
+    - malware.calendly_spoofing
+    - meta impersonation
+    - phishing
+    - social engineering
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'joinconnect.cfd'
+        - 'joinconnect.works'
+        - 'joinhire.cfd'
+        - 'joinhire.info'
+        - 'joinquest.cfd'
+        - 'joinquest.info'
+        - 'joinquest.works'
+        - 'jointhetalent.cfd'
+        - 'jointhetalent.info'
+        - 'jointhetalent.works'
+        - 'jointheteam.cfd'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,45 @@
+title: Network Connection to Iron Man System Infrastructure
+id: 0a4a1200-23bb-440d-a8e3-a4ad24a02373
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Iron Man System.
+date: 2026-10-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - banking fraud
+    - chinese threat actors
+    - global infrastructure
+    - iron man system
+    - licensing backend
+    - malware.iron_man_system
+    - phaas
+    - phishing templates
+    - phishing-as-a-service
+    - postal impersonation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'loveboy.xyz'
+        - 'protonmail.me'
+        - 'docker.aidchildren.cc'
+        - 'aidchildren.cc'
+        - 'haoeryu.top'
+        - 'api2.haoyutai.cc'
+        - 'api2.peaceman.cc'
+        - 'bin2.peaceman.cc'
+        - 'docker.loveboy.xyz'
+        - 'install.loveboy.xyz'
+        - 'ipapi2.peaceman.cc'
+        - 'log2.peaceloving.xyz'
+        - 'ossapi.haoeryu.top'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

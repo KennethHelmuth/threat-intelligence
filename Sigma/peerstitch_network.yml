@@ -1,0 +1,35 @@
+title: Network Connection to Peerstitch Infrastructure
+id: 4eff0fb9-a9f1-453d-975d-9725cfe5ad66
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Peerstitch.
+date: 2026-10-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cve-2024-47575
+    - cve-2025-61624
+    - fortigate
+    - fortimanager
+    - malware.peerstitch
+    - memory-resident implant
+    - network intrusion
+    - peerstitch
+    - privilege escalation
+    - telecommunications
+    - vpn
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '23.240.77.233'
+        - '47.18.167.159'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
