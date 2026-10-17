@@ -1,0 +1,25 @@
+title: Network Connection to Apk.Spynote Infrastructure
+id: 8076cc1d-af4a-4fcf-b96b-90485109e1b9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Apk.Spynote.
+date: 2026-10-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - apk
+    - malware.apk.spynote
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '109.122.18.50'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
