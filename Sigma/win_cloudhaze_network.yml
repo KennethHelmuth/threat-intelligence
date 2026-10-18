@@ -1,0 +1,29 @@
+title: Network Connection to Win.Cloudhaze Infrastructure
+id: e690da7f-ecd7-47d0-8b04-7c4073a20e78
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Cloudhaze.
+date: 2026-10-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://www.virustotal.com/gui/file/1b402fdf68777db3b1a3f185dc1c1d410f3683459fe0f0aabb4154d830e19c20
+    - https://www.virustotal.com/gui/file/191371792deef7b6cfd2bc96cb95545a772b152734609dad21912de4749b0a33
+    - https://www.virustotal.com/gui/file/0c6a3ddee8bfbc0b7aa8107d93d449af7622f8ebce973b695fe1b94a2d459184
+tags:
+    - CLOUDHAZE
+    - RUST
+    - UNC7072
+    - malware.win.cloudhaze
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'maximalmaxing.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

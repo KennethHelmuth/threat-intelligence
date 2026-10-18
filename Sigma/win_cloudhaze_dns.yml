@@ -1,0 +1,27 @@
+title: DNS Query to Win.Cloudhaze Domains
+id: 0d8df9e1-2dee-487f-bb37-699a24578ef2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Cloudhaze.
+date: 2026-10-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://www.virustotal.com/gui/file/1b402fdf68777db3b1a3f185dc1c1d410f3683459fe0f0aabb4154d830e19c20
+    - https://www.virustotal.com/gui/file/191371792deef7b6cfd2bc96cb95545a772b152734609dad21912de4749b0a33
+    - https://www.virustotal.com/gui/file/0c6a3ddee8bfbc0b7aa8107d93d449af7622f8ebce973b695fe1b94a2d459184
+tags:
+    - CLOUDHAZE
+    - RUST
+    - UNC7072
+    - malware.win.cloudhaze
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'maximalmaxing.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
