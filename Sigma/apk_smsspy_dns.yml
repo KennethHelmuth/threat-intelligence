@@ -1,0 +1,33 @@
+title: DNS Query to Apk.Smsspy Domains
+id: c984b7b6-7617-41f7-8755-8c8d84869ec7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Apk.Smsspy.
+date: 2026-10-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Android
+    - GhostBat
+    - mParivahan
+    - malware.apk.smsspy
+    - veltrix
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'mparivahansms-default-rtdb.asia-southeast1.firebasedatabase.app'
+        - 'mparivahansms.firebasestorage.app'
+        - 'hdfc-bank-8ab58-default-rtdb.firebaseio.com'
+        - 'hdfc-bank-8ab58.firebasestorage.app'
+        - 'panel-sms.firebasestorage.app'
+        - 'andromeda-d389d.firebasestorage.app'
+        - 'nsx1-7f7aa-default-rtdb.asia-southeast1.firebasedatabase.app'
+        - 'nsx1-7f7aa.firebasestorage.app'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

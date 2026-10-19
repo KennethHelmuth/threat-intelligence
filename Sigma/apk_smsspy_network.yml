@@ -1,0 +1,35 @@
+title: Network Connection to Apk.Smsspy Infrastructure
+id: 36367c10-7795-45c2-b8a3-7055186d502e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Apk.Smsspy.
+date: 2026-10-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Android
+    - GhostBat
+    - mParivahan
+    - malware.apk.smsspy
+    - veltrix
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'mparivahansms-default-rtdb.asia-southeast1.firebasedatabase.app'
+        - 'mparivahansms.firebasestorage.app'
+        - 'hdfc-bank-8ab58-default-rtdb.firebaseio.com'
+        - 'hdfc-bank-8ab58.firebasestorage.app'
+        - 'panel-sms.firebasestorage.app'
+        - 'andromeda-d389d.firebasestorage.app'
+        - 'nsx1-7f7aa-default-rtdb.asia-southeast1.firebasedatabase.app'
+        - 'nsx1-7f7aa.firebasestorage.app'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
