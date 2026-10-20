@@ -1,0 +1,28 @@
+title: DNS Query to Yuankong Domains
+id: 44423561-2f25-4e2d-ae82-86b8129a22ab
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Yuankong.
+date: 2026-10-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adb-escalation
+    - android
+    - malware.yuankong
+    - overlay-attack
+    - yuankong
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'www.ktxapp.com'
+        - 'ktx123.net'
+        - 'www.ktx123.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

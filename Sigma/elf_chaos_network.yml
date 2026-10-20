@@ -1,0 +1,32 @@
+title: Network Connection to Elf.Chaos Infrastructure
+id: 15d8f7d7-0167-4dc3-a9a5-104052672639
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Chaos.
+date: 2026-10-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - AUR
+    - CHAOS
+    - DirtyBlanket
+    - gitflic
+    - linux
+    - malware.elf.chaos
+    - onion
+    - systemd-fontd
+    - wayback
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'lpdt2hbzom3uxxq4dutlnypca3ym5c6h7g6fooi4qgz4m5qpcvrpczid.onion'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

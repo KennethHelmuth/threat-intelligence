@@ -1,0 +1,43 @@
+title: DNS Query to Ultraviewer Domains
+id: de41836a-38c9-4555-86a7-0c71ca1db2d0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Ultraviewer.
+date: 2026-10-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cloudflare pages abuse
+    - help tds
+    - hotejka
+    - malware.ultraviewer
+    - roi777
+    - tds infrastructure
+    - tech support scams
+    - ultraviewer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'roi777.com'
+        - 'roi-traffic.icu'
+        - 'hotejka.ink'
+        - 'lib1.biz'
+        - 'fosetya.shop'
+        - 'goalods.lol'
+        - 'hotcname.help'
+        - 'hotejka.com'
+        - 'hotns.rest'
+        - 'roi777.online'
+        - 'trixsolvesxa.shop'
+        - 'varbani.com'
+        - 'zylvantrexor.lol'
+        - 'usa.on1xvpn.com'
+        - 'usa.on1xvpn.ru'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

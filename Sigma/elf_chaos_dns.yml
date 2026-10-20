@@ -1,0 +1,30 @@
+title: DNS Query to Elf.Chaos Domains
+id: fc5a1959-64eb-406a-9509-54e43984c549
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Elf.Chaos.
+date: 2026-10-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - AUR
+    - CHAOS
+    - DirtyBlanket
+    - gitflic
+    - linux
+    - malware.elf.chaos
+    - onion
+    - systemd-fontd
+    - wayback
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'lpdt2hbzom3uxxq4dutlnypca3ym5c6h7g6fooi4qgz4m5qpcvrpczid.onion'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

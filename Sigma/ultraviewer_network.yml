@@ -1,0 +1,47 @@
+title: Network Connection to Ultraviewer Infrastructure
+id: 637d1429-5e7a-4d60-95b3-080e8f81e976
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Ultraviewer.
+date: 2026-10-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cloudflare pages abuse
+    - help tds
+    - hotejka
+    - malware.ultraviewer
+    - roi777
+    - tds infrastructure
+    - tech support scams
+    - ultraviewer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'roi777.com'
+        - 'roi-traffic.icu'
+        - 'hotejka.ink'
+        - 'lib1.biz'
+        - 'fosetya.shop'
+        - 'goalods.lol'
+        - 'hotcname.help'
+        - 'hotejka.com'
+        - 'hotns.rest'
+        - 'roi777.online'
+        - 'trixsolvesxa.shop'
+        - 'varbani.com'
+        - 'zylvantrexor.lol'
+        - 'usa.on1xvpn.com'
+        - 'usa.on1xvpn.ru'
+        DestinationIp|contains:
+        - '91.196.33.144'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

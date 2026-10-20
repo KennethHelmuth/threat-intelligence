@@ -14124,3 +14124,131 @@
 38.54.117.91:31338	ThreatFox	2026-10-18	family=win.sliver | confidence=50% threat=botnet_cc
 223.206.137.140:12325	ThreatFox	2026-10-18	family=elf.mirai | confidence=50% threat=botnet_cc
 45.13.237.148:31337	ThreatFox	2026-10-18	family=win.sliver | confidence=50% threat=botnet_cc
+49.233.175.166:443	ThreatFox	2026-10-20	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+119.28.160.161:443	ThreatFox	2026-10-20	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+106.55.34.199:8444	ThreatFox	2026-10-20	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+15.235.65.221:4002	ThreatFox	2026-10-20	family=win.remcos | confidence=100% threat=botnet_cc
+156.240.41.168:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+103.39.79.102:5432	ThreatFox	2026-10-20	family=unknown | confidence=100% threat=botnet_cc
+89.19.220.21:8443	ThreatFox	2026-10-20	family=elf.aisuru | confidence=100% threat=botnet_cc
+47.122.120.188:8084	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+178.16.53.68:34567	ThreatFox	2026-10-20	family=elf.aisuru | confidence=100% threat=botnet_cc
+64.177.68.245:8085	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+64.177.68.245:8084	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+62.234.215.37:80	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+8.148.20.104:13106	ThreatFox	2026-10-20	family=win.njrat | confidence=100% threat=botnet_cc
+172.94.125.34:2404	ThreatFox	2026-10-19	family=win.remcos | confidence=100% threat=botnet_cc
+5.230.56.196:443	ThreatFox	2026-10-19	family=unknown | confidence=100% threat=botnet_cc
+82.165.60.187:8080	ThreatFox	2026-10-19	family=elf.mirai | confidence=75% threat=payload_delivery
+43.248.102.182:24245	ThreatFox	2026-10-19	family=win.njrat | confidence=100% threat=botnet_cc
+89.19.220.21:8001	ThreatFox	2026-10-19	family=elf.aisuru | confidence=75% threat=botnet_cc
+35.72.209.50:50000	ThreatFox	2026-10-19	family=win.sliver | confidence=100% threat=botnet_cc
+156.240.41.95:8877	ThreatFox	2026-10-19	family=win.vshell | confidence=100% threat=botnet_cc
+102.205.170.11:55044	ThreatFox	2026-10-19	family=win.quasar_rat | confidence=100% threat=botnet_cc
+102.205.170.11:52200	ThreatFox	2026-10-19	family=win.quasar_rat | confidence=100% threat=botnet_cc
+102.205.170.11:51227	ThreatFox	2026-10-19	family=win.quasar_rat | confidence=100% threat=botnet_cc
+102.205.170.11:48949	ThreatFox	2026-10-19	family=win.quasar_rat | confidence=100% threat=botnet_cc
+102.205.170.11:14218	ThreatFox	2026-10-19	family=win.quasar_rat | confidence=100% threat=botnet_cc
+102.205.170.11:8081	ThreatFox	2026-10-19	family=win.quasar_rat | confidence=100% threat=botnet_cc
+92.4.168.97:443	ThreatFox	2026-10-19	family=unknown | confidence=75% threat=botnet_cc
+69.5.53.89:7443	ThreatFox	2026-10-19	family=unknown | confidence=75% threat=botnet_cc
+57.129.168.220:8444	ThreatFox	2026-10-19	family=win.havoc | confidence=75% threat=botnet_cc
+45.76.155.242:443	ThreatFox	2026-10-19	family=win.sliver | confidence=75% threat=botnet_cc
+45.76.155.242:22809	ThreatFox	2026-10-19	family=win.sliver | confidence=75% threat=botnet_cc
+3.109.17.133:443	ThreatFox	2026-10-19	family=unknown | confidence=75% threat=botnet_cc
+27.124.17.194:56002	ThreatFox	2026-10-19	family=win.pure_rat | confidence=75% threat=botnet_cc
+27.124.17.194:56001	ThreatFox	2026-10-19	family=win.pure_rat | confidence=75% threat=botnet_cc
+27.124.17.190:56002	ThreatFox	2026-10-19	family=win.pure_rat | confidence=75% threat=botnet_cc
+27.124.17.190:56001	ThreatFox	2026-10-19	family=win.pure_rat | confidence=75% threat=botnet_cc
+27.124.17.187:56003	ThreatFox	2026-10-19	family=win.pure_rat | confidence=75% threat=botnet_cc
+27.124.17.187:56002	ThreatFox	2026-10-19	family=win.pure_rat | confidence=75% threat=botnet_cc
+27.124.17.187:56001	ThreatFox	2026-10-19	family=win.pure_rat | confidence=75% threat=botnet_cc
+217.217.97.76:443	ThreatFox	2026-10-19	family=unknown | confidence=75% threat=botnet_cc
+172.86.82.140:56003	ThreatFox	2026-10-19	family=win.pure_rat | confidence=75% threat=botnet_cc
+172.86.82.140:56002	ThreatFox	2026-10-19	family=win.pure_rat | confidence=75% threat=botnet_cc
+172.86.82.140:56001	ThreatFox	2026-10-19	family=win.pure_rat | confidence=75% threat=botnet_cc
+13.140.145.60:56003	ThreatFox	2026-10-19	family=win.pure_rat | confidence=75% threat=botnet_cc
+13.140.145.60:22111	ThreatFox	2026-10-19	family=win.pure_rat | confidence=75% threat=botnet_cc
+107.182.130.44:443	ThreatFox	2026-10-19	family=win.pure_rat | confidence=75% threat=botnet_cc
+147.124.212.179:2405	ThreatFox	2026-10-19	family=win.remcos | confidence=100% threat=botnet_cc
+102.205.170.11:6542	ThreatFox	2026-10-19	family=win.quasar_rat | confidence=100% threat=botnet_cc
+102.205.170.11:6513	ThreatFox	2026-10-19	family=win.quasar_rat | confidence=100% threat=botnet_cc
+102.205.170.11:5061	ThreatFox	2026-10-19	family=win.quasar_rat | confidence=100% threat=botnet_cc
+103.236.84.103:6443	ThreatFox	2026-10-19	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+209.99.191.10:8887	ThreatFox	2026-10-19	family=win.remcos | confidence=100% threat=botnet_cc
+128.90.108.139:2405	ThreatFox	2026-10-19	family=win.remcos | confidence=100% threat=botnet_cc
+217.60.194.116	OTX	2026-10-19	family=XMRig | pulse='Plex vulnerabilities being exploited in the wild to drop a cryptominer' pulse_id=6ad5b2c95417d4d1ac959070
+144.172.64.99	OTX	2026-10-19	family=m365 | pulse='ConnectWise (SkyKick) Vendor Credentials Abused in M365 Attacks' pulse_id=6ad5e7f75d4f869db2238e26
+144.172.64.128	OTX	2026-10-19	family=m365 | pulse='ConnectWise (SkyKick) Vendor Credentials Abused in M365 Attacks' pulse_id=6ad5e7f75d4f869db2238e26
+144.172.64.60	OTX	2026-10-19	family=m365 | pulse='ConnectWise (SkyKick) Vendor Credentials Abused in M365 Attacks' pulse_id=6ad5e7f75d4f869db2238e26
+45.153.212.101	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+111.92.128.89	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+103.83.146.100	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+195.62.37.119	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+102.222.146.45	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+82.167.14.7	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+130.12.182.7	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+46.33.33.95	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+103.181.212.245	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+114.145.49.215	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+120.244.160.182	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+125.62.88.26	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+13.1.37.28	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+154.183.158.198	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+154.241.254.9	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+174.60.63.37	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+177.52.203.23	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+183.63.88.227	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+190.117.56.56	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+207.48.184.10	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+46.233.40.20	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+46.236.167.143	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+49.150.197.119	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+78.190.152.64	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+81.10.79.197	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+95.105.74.172	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
+206.82.1.14	OTX	2026-10-16	family=YuanKong | pulse='YuanKong RAT: the Android remote-control service that stamps its operators' names into every build' pulse_id=6ad241d9f4cd3e84da0dbd3c
+91.196.33.144	OTX	2026-10-16	family=UltraViewer | pulse='Inside Help TDS: Hotejka, Cloudflare Pages and Predictive Detection' pulse_id=6ad1d2421e774bf7224baf2b
+46.17.42.29	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+185.125.203.150	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+154.18.187.239	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+89.22.169.22	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+166.1.22.248	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+188.227.16.2	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+185.158.153.13	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+176.32.38.168	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+62.113.66.137	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+91.149.240.142	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+62.113.66.7	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+194.87.82.8	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+154.205.145.20	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+37.18.27.27	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+37.18.88.6	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+89.22.173.5	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+38.60.209.55	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+178.236.22.54	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+154.18.239.238	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+195.133.55.162	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+45.130.146.197	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+195.133.55.31	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+188.72.76.36	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+178.170.220.14	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+37.18.88.25	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+46.17.46.156	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+62.113.66.17	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+89.22.168.20	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+89.22.173.39	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+89.22.173.54	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+91.245.60.45	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+94.139.242.46	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+154.205.145.179	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+167.17.183.223	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+176.109.87.14	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+176.109.87.28	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+176.109.87.29	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+178.236.22.27	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+178.236.22.28	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+188.227.16.6	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+188.227.74.19	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+188.72.77.166	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+46.243.186.87	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed

@@ -1,0 +1,32 @@
+title: Network Connection to Upgrade-Now.Exe Infrastructure
+id: cfe90cf6-d35e-46d0-8dfb-ceaebcaee183
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Upgrade-Now.Exe.
+date: 2026-10-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aomei backupper
+    - malware.upgrade_now.exe
+    - remote access backdoor
+    - software distribution hijacking
+    - supply chain attack
+    - update infrastructure compromise
+    - upgrade-now.exe
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'storage-data.com'
+        - 'promotion.storage-data.com'
+        - 'aomei.storage-data.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

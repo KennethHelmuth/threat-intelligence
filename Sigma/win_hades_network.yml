@@ -1,0 +1,29 @@
+title: Network Connection to Win.Hades Infrastructure
+id: 7980ef95-ae2a-4aa2-a17c-0ba069f14d90
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Hades.
+date: 2026-10-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - HadeStealer
+    - HadesStealer
+    - RAT
+    - malware.win.hades
+    - stealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'bestminecraftplayer.fun'
+        - '6krhuxhtp0k5.bestminecraftplayer.fun'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

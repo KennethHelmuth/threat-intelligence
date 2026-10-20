@@ -1,0 +1,30 @@
+title: DNS Query to Upgrade-Now.Exe Domains
+id: 03ed1b4a-d3dc-499d-814e-6c0e6067a232
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Upgrade-Now.Exe.
+date: 2026-10-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aomei backupper
+    - malware.upgrade_now.exe
+    - remote access backdoor
+    - software distribution hijacking
+    - supply chain attack
+    - update infrastructure compromise
+    - upgrade-now.exe
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'storage-data.com'
+        - 'promotion.storage-data.com'
+        - 'aomei.storage-data.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,95 @@
+title: Network Connection to Laplas Infrastructure
+id: 003d6fc7-083a-4735-9fd3-c119db1fc6d4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Laplas.
+date: 2026-10-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chvost
+    - cobalt strike
+    - cve-2025-25257
+    - github staging
+    - laplas
+    - ligolo-ng
+    - malware.laplas
+    - meterpreter
+    - pickleshell
+    - silent lynx
+    - ssdpshell
+    - water infrastructure
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'cs.access.ly'
+        - 'toolbox.ddns.net'
+        - 'q1q.ddns.net'
+        - 'repo-centos-webstatic-world.securitytactics.com'
+        - 'windows-update-catalog.serveftp.com'
+        - 'main.servecounterstrike.com'
+        - 'catalog-update-update-microsoft.serveftp.com'
+        - 'updates-check-microsoft.ddns.net'
+        - 'security-updates-microsoft.servehttp.com'
+        - 'microsoft-updates-windows.servehttp.com'
+        - 'alashsec.hopto.me'
+        - 'asan.zapto.org'
+        - 'auth-update-check.myddns.me'
+        - 'blog-tecnet-microsoft.serveftp.com'
+        - 'blog-tecnet-microsoft.servegame.com'
+        - 'blog-tecnet-microsoft.servehttp.com'
+        - 'catalog-update-microsoft.serveftp.com'
+        - 'catalog-update-microsoft.servehttp.com'
+        - 'catalog-update-unix-systems.servehttp.com'
+        - 'cdn-redhatcom.serveftp.com'
+        - 'cdn-redhatupdate.serveftp.com'
+        - 'darkpc.zapto.org'
+        - 'daww3420.myddns.me'
+        - 'debian-update-system.servehttp.com'
+        - 'domain-server-ms.securitytactics.com'
+        - 'drivers-microsoft-catalog.serveirc.com'
+        - 'drivers-windows-update.serveirc.com'
+        - 'english.read-books.org'
+        - 'esd.asan.gov.zapto.org'
+        - 'forti.access.ly'
+        DestinationIp|contains:
+        - '46.17.42.29'
+        - '185.125.203.150'
+        - '154.18.187.239'
+        - '89.22.169.22'
+        - '166.1.22.248'
+        - '188.227.16.2'
+        - '185.158.153.13'
+        - '176.32.38.168'
+        - '62.113.66.137'
+        - '91.149.240.142'
+        - '62.113.66.7'
+        - '194.87.82.8'
+        - '154.205.145.20'
+        - '37.18.27.27'
+        - '37.18.88.6'
+        - '89.22.173.5'
+        - '38.60.209.55'
+        - '178.236.22.54'
+        - '154.18.239.238'
+        - '195.133.55.162'
+        - '45.130.146.197'
+        - '195.133.55.31'
+        - '188.72.76.36'
+        - '178.170.220.14'
+        - '37.18.88.25'
+        - '46.17.46.156'
+        - '62.113.66.17'
+        - '89.22.168.20'
+        - '89.22.173.39'
+        - '89.22.173.54'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

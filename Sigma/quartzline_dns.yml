@@ -1,0 +1,35 @@
+title: DNS Query to Quartzline Domains
+id: 2ad5fbd2-f058-4200-a6bd-2d4197416f9b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Quartzline.
+date: 2026-10-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - backdoor
+    - caira
+    - chrome stealer
+    - cloudhaze
+    - ironbark
+    - malvertising
+    - malware.quartzline
+    - pdf viewer
+    - quartzline
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'motherotters.com'
+        - 'healskills.com'
+        - 'beatramiro.com'
+        - 'flawlessgradecheered.com'
+        - 'tabbyottercub.com'
+        - 'guessgooseberries.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

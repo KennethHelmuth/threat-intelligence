@@ -1,0 +1,27 @@
+title: DNS Query to Win.Hades Domains
+id: 037f177e-3c34-4762-b462-529a4b8aeaad
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Hades.
+date: 2026-10-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - HadeStealer
+    - HadesStealer
+    - RAT
+    - malware.win.hades
+    - stealer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'bestminecraftplayer.fun'
+        - '6krhuxhtp0k5.bestminecraftplayer.fun'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
