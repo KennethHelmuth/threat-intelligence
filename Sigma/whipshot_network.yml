@@ -1,0 +1,32 @@
+title: Network Connection to Whipshot Infrastructure
+id: d5c1a3d8-4f8f-4eb5-8067-235c2a4408fa
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Whipshot.
+date: 2026-10-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cve-2026-88771
+    - cve-2026-88779
+    - malware.whipshot
+    - netscaler
+    - php webshell
+    - whipshot
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '179.60.146.241'
+        - '46.151.182.18'
+        - '192.159.99.139'
+        - '209.74.64.192'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

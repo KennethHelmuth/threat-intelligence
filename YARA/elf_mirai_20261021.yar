@@ -1,0 +1,65 @@
+rule elf_mirai_20261021
+{
+    meta:
+        description = "Auto-generated stub for elf.mirai based on 46 hashes"
+        author      = "ti-pipeline (auto-generated)"
+        date        = "2026-10-21"
+        version     = "1.0"
+        source      = "ThreatFox"
+        family      = "elf.mirai"
+        hash_count  = "46"
+
+    strings:
+        // Hashes (SHA-256) – reference only; add byte-strings/imphash conditions below
+        // c99f4b61d0e5c2c8b80910244a58eaa80bc62bf9a12c81209170a1ee428e4a77
+        // e1a4d414cb857b1535f0b3f7306492153e5d4726b2dae796937fa1cf106e535c
+        // 3f49aa5fe7183942af44585355ddab790050cc581ae83875f5152fcaa98f2f28
+        // c869584f3e17fdde01a26bdf58d92837d8f396aad9944dffb08627c1f7e1323f
+        // 4e3700db45af47ab456f788e85815aec8855f27f02c20d6112aab69dcbbfd770
+        // f315faf21a2971d025d51e520c668b19f34adbc3ebd4dda4a7ba21c8fe986b20
+        // debc12885eec9ba1ee1c15688a3f36d5e0a074d10b3779312ffb9ea06acc485b
+        // 2489b4852de45939207caa7d5ccedd85a6d2ff498df26c48e68282cd73a8ec7f
+        // 9b092bb1ca0d0694f66cf4dbe09fc2a1a26eb3a56a8b9e3a5e975d991cefc269
+        // 71d4d2e1892179669ed15ec1004a24937c3ee502841c8662e3d1a194a9306dac
+        // b1df100d0789619abea8c2bf0118585a8500b9876126643a140f966242ce0883
+        // d01ceaab8cf29d24ab4c69bad06713e5890875812ca9e6eee1ab6a89d14969b5
+        // 826e34d65baa12de93626aa2ed2140cf8e0e5005fe5b7d5c25de34fab4baf5c8
+        // 73beae5ef285a99b797378cf78ccdfe7f5df6f2c36ec4140798fe2b5923be58f
+        // 630878253e5826676b2db848c60a204ffbbc0af5cb57e2f27e00a99e3c499c3f
+        // 5bb2e1daab028de260386ee63aa4563b1dec1bcb1c6ef7071f88e2432b4c5d65
+        // bb2392612337722f99190face902dd1bb1f2baf49fe8be31ca03b1aaae33cbba
+        // 7996a43a6a0e6a518eca52551099d8fd17dc9b3900a01151431508fff0c7d908
+        // fab2b4610eed54774a700d587514e9c7c53c9aea744362339ec1ded4dbf36b66
+        // 0b52360cb5e7bc0de3fabcf6552958514f92db05083e9101780b361190004d16
+        // ef8b69e4206acec7f5fcc9943a07edb0de005cc09e0d398c1ab03f1fcd0e530a
+        // 9492a6d94d920ae8376f869eb0f8f41d16f059ae0df9354b8ae81fdb3b93b380
+        // a367e7c92f579948345cb8cb91ed5bbce9a905b9ad225fc3bf9f85d8fc57735f
+        // f1d49535e64d7c384c5ea3cca0e10e3c7888181e79c2cd82b8d2b03e8f0a6cc2
+        // 3a04e47eed6c3fb22b2ebbe5d6e0fec970596290c4b792868078cc980d662174
+        // 8643842d8fc61d2a2c4768cc459ddf96b91b92bff3ac6687e4f51d62f6c98351
+        // 25c250e714d13a6d7e8ad05ac6a4a67b87444c7535c81e9fca511c189f772970
+        // 51d4c983a6a42ec1a4a73d5020b119757d5cb681ab887396d7c9473ed2064ca8
+        // 030cd2ba7fdfea96b50e91569c45ce524aad2d2801f364e745371e23a8251f85
+        // 73a5dcaa227c8d3096e45140e3afbd318bdf34b155b88d394473ff1b95b5d750
+        // ffea3070af4b850efe2136558323c5a249664774f1d3b9e5b2bfb7233c5ed554
+        // 6aa8cf027b848615974d4f0de115e4b2746b080585a63447151dd124f71c24c2
+        // 0adc7e0b37f9e590f57e07c31c4fdf992f87549d4e9da82c4e7463a059f19c2a
+        // 9f93b2e20493146a634a242b1bf3027819a059a66fa5df8653b91845441c34f5
+        // f3e8dc132b1c4d4426b7ca25e61ac1d903dcffc6b8f78030171f7fd04075c364
+        // eb4687566e2d6ed28c9f2a0854ed696deb23f3f66b021a6b9d54dda917f49d68
+        // 64a20393edf06a5c37260435bf8e431d45d0b9454f00f5314e7274441065f620
+        // fd5418a9e34037f9b64da8cc72650c12cf303f2e39f783b76f7dd2e7f576aac2
+        // 163f65318251c1dfdf1739171518c84a744f0f5e56d08cfcf67f4c48c466c1aa
+        // 79dcf5f7965ecd1b596b78ba58e26ea56f93ca718fa55bc08247ac2d547f11b9
+        // ad7dcaef3f3e81d884a22ff0d126aabb0671e69a3dad111997940ec1d21285db
+        // 98554cbcdc531b5ea20ba121191b57be2f6b8ce726e259655de426ee92011821
+        // 23b2bee6d808e7d3caf0e3e6f51e10d470f4cf298766c87f2062a4121dfb0d19
+        // 591358a73cd343f79a9efd2d592bdcb56fa54bb9096b786624aebc0d3fc5b3ba
+        // 0ad07ef254e4aa14d108354f84fc4dfc27754b5e6f7de54ecd877466b4978bd5
+        // a1be6349f9d69bd157c292e7c3533f17222d799f187eab8b51de1900bb83d4d4
+
+    condition:
+        // TODO: replace with byte-level strings, pe.imphash(), or hash.sha256() checks
+        // Example: pe.imphash() == "aabbccdd..."
+        false  // stub – analyst must complete this rule
+}

@@ -14252,3 +14252,54 @@
 188.227.74.19	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
 188.72.77.166	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
 46.243.186.87	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+154.64.250.38:4167	ThreatFox	2026-10-21	family=win.valley_rat | confidence=100% threat=botnet_cc
+156.240.41.105:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.104:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.102:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.101:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.100:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+23.132.164.207:2404	ThreatFox	2026-10-21	family=win.remcos | confidence=100% threat=botnet_cc
+173.249.215.187:39221	ThreatFox	2026-10-21	family=win.remcos | confidence=100% threat=botnet_cc
+209.54.102.133:14642	ThreatFox	2026-10-21	family=win.remcos | confidence=100% threat=botnet_cc
+37.60.141.43:8443	ThreatFox	2026-10-21	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+172.94.111.51:2404	ThreatFox	2026-10-21	family=win.remcos | confidence=100% threat=botnet_cc
+47.92.113.149:8084	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+176.97.117.157:80	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.93:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.82:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.6:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+91.92.41.72:2404	ThreatFox	2026-10-20	family=win.remcos | confidence=75% threat=botnet_cc
+8.148.27.183:12325	ThreatFox	2026-10-20	family=win.njrat | confidence=100% threat=botnet_cc
+156.240.41.55:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.51:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.49:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.48:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.36:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+128.90.113.3:3000	ThreatFox	2026-10-20	family=win.remcos | confidence=100% threat=botnet_cc
+156.240.41.4:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.39:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.253:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.193:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+31.207.7.129:1515	ThreatFox	2026-10-20	family=win.remcos | confidence=100% threat=botnet_cc
+156.240.41.233:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.229:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.222:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.204:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+38.54.40.15:17251	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.177:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.17:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.169:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.154:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.149:8877	ThreatFox	2026-10-20	family=win.vshell | confidence=100% threat=botnet_cc
+77.239.124.135:9111	ThreatFox	2026-10-20	family=unknown | confidence=100% threat=botnet_cc
+2.56.3.177:47	ThreatFox	2026-10-20	family=win.njrat | confidence=100% threat=botnet_cc
+1.92.135.168:8032	ThreatFox	2026-10-20	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+88.119.168.238:8443	ThreatFox	2026-10-20	family=elf.evilginx | confidence=75% threat=botnet_cc
+38.60.202.196:7443	ThreatFox	2026-10-20	family=unknown | confidence=75% threat=botnet_cc
+27.124.17.194:56003	ThreatFox	2026-10-20	family=win.pure_rat | confidence=75% threat=botnet_cc
+96.62.218.59	OTX	2026-10-20	family=software supply chain | pulse='Active Exploitation of CVE-2026-110936 in Siemens Software Center' pulse_id=6ad77e2e717e0153aa2fda49
+2.27.248.127	OTX	2026-10-20	family=software supply chain | pulse='Active Exploitation of CVE-2026-110936 in Siemens Software Center' pulse_id=6ad77e2e717e0153aa2fda49
+179.60.146.241	OTX	2026-10-20	family=WHIPSHOT | pulse='NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779' pulse_id=6ad71b768e708ffb59419b43
+46.151.182.18	OTX	2026-10-20	family=WHIPSHOT | pulse='NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779' pulse_id=6ad71b768e708ffb59419b43
+192.159.99.139	OTX	2026-10-20	family=WHIPSHOT | pulse='NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779' pulse_id=6ad71b768e708ffb59419b43
+209.74.64.192	OTX	2026-10-20	family=WHIPSHOT | pulse='NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779' pulse_id=6ad71b768e708ffb59419b43

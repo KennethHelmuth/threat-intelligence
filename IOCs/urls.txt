@@ -63386,3 +63386,687 @@ http://125.41.228.146:36532/i	URLhaus	2026-10-19	status=offline threat=malware_d
 http://125.41.228.146:36532/bin.sh	URLhaus	2026-10-19	status=offline threat=malware_download
 http://209.141.43.95/files/kw2-freebsd-x64-s11;chmod$	OTX	2026-10-17	family=rce vulnerability | pulse='CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability' pulse_id=6ad2ca008bd3199ee7bb0b83
 https://ktxapp.com	OTX	2026-10-16	family=YuanKong | pulse='YuanKong RAT: the Android remote-control service that stamps its operators' names into every build' pulse_id=6ad241d9f4cd3e84da0dbd3c
+https://a7.abbc123.org/fb/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://a7.abbc123.org/to/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://a7.abbc123.org/f/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://n.9winn.org/u/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://n.9winn.org/s	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://a7.abbc123.org/kn6/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+http://retas3.help:7713/profiles	ThreatFox	2026-10-21	family=win.remus | confidence=100% threat=botnet_cc
+https://a7.abbc123.org/gq/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://a7.abbc123.org/sq/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://a7.abbc123.org/i0/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://a7.abbc123.org/ruc/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://n.9winn.org/s/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://oa.abbc123.org/i/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://n.9winn.org/w	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://oa.abbc123.org/dc/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://oa.abbc123.org/pca/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://oa.abbc123.org/ol/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://oa.abbc123.org/i4i/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://oa.abbc123.org/p6/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://oa.abbc123.org/zv/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://n.9winn.org/w/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://oa.abbc123.org/yq/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://oa.abbc123.org/q4/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://oa.abbc123.org/qi/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://oa.abbc123.org/f/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://oa.abbc123.org/h0/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://lob.88kfc.org/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://lob.88kfc.org	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://vy.abbc123.org/fx/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://n.9winn.org/y/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://vy.abbc123.org/ll/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://vy.abbc123.org/u8/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://vy.abbc123.org/pc/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://vy.abbc123.org/j7/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://n.9winn.org/z	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://vy.abbc123.org/z4/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://vy.abbc123.org/z0m/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://n.9winn.org/z/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://vy.abbc123.org/dt/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://www.mittpanel.qpon/no/	ThreatFox	2026-10-21	family=unknown | confidence=100% threat=payload_delivery
+http://echjho.biz:7713/users	ThreatFox	2026-10-21	family=win.remus | confidence=100% threat=botnet_cc
+https://vy.abbc123.org/qe/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://vy.abbc123.org/es/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://vy.abbc123.org/he/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://vy.abbc123.org/igk/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://n.9winn.org/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://ne.abbc123.org/bp	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://ne.abbc123.org/ev	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://y4.abbc123.org/ld/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://t.9winn.org/m/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://www.paperexim.com/	ThreatFox	2026-10-21	family=unknown | confidence=90% threat=payload_delivery
+https://y4.abbc123.org/o60/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://y4.abbc123.org/ui	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://y4.abbc123.org/ui/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://y4.abbc123.org/yp/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://y4.abbc123.org/qj/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://y4.abbc123.org/tq/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://jscdncloude.beer	ThreatFox	2026-10-21	family=unknown | confidence=100% threat=payload_delivery
+https://y4.abbc123.org/g/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://t.9winn.org/t/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://zaraproperties.net/	ThreatFox	2026-10-21	family=unknown | confidence=90% threat=payload_delivery
+https://y4.abbc123.org/e0/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://y4.abbc123.org/p/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+http://187.110.223.227:44522/Mozi.m	ThreatFox	2026-10-21	family=elf.mozi | confidence=75% threat=payload_delivery
+http://105.224.36.188:34011/Mozi.m	ThreatFox	2026-10-21	family=elf.mozi | confidence=75% threat=payload_delivery
+http://196.191.120.244:57900/Mozi.m	ThreatFox	2026-10-21	family=elf.mozi | confidence=75% threat=payload_delivery
+https://y4.abbc123.org/jg/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+http://sheetmancer.com:4538	ThreatFox	2026-10-21	family=win.remus | confidence=75% threat=botnet_cc
+http://tyred2.my:8312/tasks	ThreatFox	2026-10-21	family=win.remus | confidence=100% threat=botnet_cc
+https://t.9winn.org/v	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+http://retas3.help:7713/collections	ThreatFox	2026-10-21	family=win.remus | confidence=100% threat=botnet_cc
+https://y4.abbc123.org/lve/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://y4.abbc123.org/im/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://ne.abbc123.org/zz/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://t.9winn.org/v/	ThreatFox	2026-10-21	family=win.vidar | confidence=100% threat=botnet_cc
+https://e-nastava.ba/	ThreatFox	2026-10-21	family=unknown | confidence=90% threat=payload_delivery
+https://dailymoon.news/	ThreatFox	2026-10-21	family=unknown | confidence=90% threat=payload_delivery
+https://ne.abbc123.org/si/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://ne.abbc123.org/tz/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://t.9winn.org/b	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://ne.abbc123.org/o1/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://ne.abbc123.org/ds5/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://ne.abbc123.org/uk/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://ne.abbc123.org/y6/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://t.9winn.org/b/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://www.agenceaci.com/	ThreatFox	2026-10-20	family=unknown | confidence=90% threat=payload_delivery
+https://ne.abbc123.org/gt/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://ne.abbc123.org/x2/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://ne.abbc123.org/v/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+http://netulse.sbs:5621/payments	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+https://ne.abbc123.org/vj5/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://consultasjudiciales.co/yynft.1xHC1z.43F-kjXv45PbbA	ThreatFox	2026-10-20	family=win.xworm | confidence=50% threat=payload_delivery
+https://demanda.methalerzambranoabogados.com/	ThreatFox	2026-10-20	family=win.xworm | confidence=50% threat=payload_delivery
+https://ne.abbc123.org/u3/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://k1.abbc123.org/fs/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://aragoniteforum.info/logout/oauth-dom.js	ThreatFox	2026-10-20	family=js.smartapesg | confidence=100% threat=payload_delivery
+https://k1.abbc123.org/e/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://k1.abbc123.org/msq/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://k1.abbc123.org/ga/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://yk.abbastoto.org/fh	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://k1.abbc123.org/r5/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://k1.abbc123.org/u1j/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://k1.abbc123.org/p8u/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://t.9winn.org/f/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://t.9winn.org/f	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://t8.abanda88.org/ko	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://q.9winn.org/a	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://k1.abbc123.org/ik/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://k1.abbc123.org/a0/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://k1.abbc123.org/uy/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+http://vydga2.xyz:5621/sessions	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+http://soft-storage.top/worker?=7645909592/discordmode	ThreatFox	2026-10-20	family=unknown | confidence=75% threat=payload_delivery
+http://finter28.help:5621/profiles	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+https://k1.abbc123.org/ri/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://t.9winn.org/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+http://slink4u.click:9692/reports	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+https://k1.abbc123.org/zf/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://n.88kfc.org/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://ok.abbastoto.org/w4	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://km.abbc123.org/m9	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://tronscan.org/#/address/TBMcSRezuxdoNEC8gD3uS4GQVGvybYU4UU	ThreatFox	2026-10-20	family=osx.beavertail | confidence=100% threat=botnet_cc
+https://km.abbc123.org/jf	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://n.88kfc.org	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+http://tmooreenterprises.com:6738/messages	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+https://s7.abbc123.org/vx/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://s7.abbc123.org/c/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://s7.abbc123.org/qt/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://s7.abbc123.org/hc/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://s7.abbc123.org/ty/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+http://ventuxe.biz:6929	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+https://q.9winn.org/d	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://s7.abbc123.org/bas/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+http://slink4u.click:9692/files	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+https://s7.abbc123.org/t3q/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://i1.abbastoto.org/mk	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://s7.abbc123.org/fj/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+http://darcy19.my:8312/imports	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+http://tool01.art:7713/transactions	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+http://netulse.sbs:5621/articles	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+https://s7.abbc123.org/ri/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+http://tool01.art:7713/comments	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+http://retas3.help:7713/reviews	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+http://retas3.help:7713/exports	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+https://s7.abbc123.org/x3/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+http://vydga2.xyz:5621/exports	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+http://vydga2.xyz:5621/workspaces	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+http://finter28.help:5621/projects	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+http://tool01.art:7713/contacts	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+https://s7.abbc123.org/rt/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+http://slink4u.click:9692/categories	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+http://tpujse7.click:9583/events	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+http://slink4u.click:9692/attachments	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+https://q.9winn.org/b	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://s7.abbc123.org/qc/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://km.abbc123.org/dqb/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://km.abbc123.org/l1/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://km.abbc123.org/ce/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://km.abbc123.org/g1/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://q.9winn.org/j	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://km.abbc123.org/h8/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://q.9winn.org/j/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://km.abbc123.org/wm/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://v2l.abanda88.org/t7w	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://km.abbc123.org/u/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+http://45.205.1.167:24381/bins/payloads/w.sh	ThreatFox	2026-10-20	family=unknown | confidence=75% threat=payload_delivery
+http://45.205.1.167:24381/bins/payloads/c.sh	ThreatFox	2026-10-20	family=unknown | confidence=75% threat=payload_delivery
+https://km.abbc123.org/m/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://i1.abbastoto.org/r	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://km.abbc123.org/a6/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+http://popeak.biz:8312/webhooks	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+http://retas3.help:7713/addresses	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+https://km.abbc123.org/c6/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+http://darcy19.my:8312/files	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+http://vydga2.xyz:5621/invoices	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+http://popeak.biz:8312/contacts	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+http://slink4u.click:9692/permissions	ThreatFox	2026-10-20	family=win.remus | confidence=100% threat=botnet_cc
+https://km.abbc123.org/e/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://km.abbc123.org/f4/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://h.9winn.org/e	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://ok.abbastoto.org/q/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://q.9winn.org/a/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://w.abanda88.org/i0	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://ok.abbastoto.org/n0v/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+https://ok.abbastoto.org/gd/	ThreatFox	2026-10-20	family=win.vidar | confidence=100% threat=botnet_cc
+http://112.248.190.135:55046/i	URLhaus	2026-10-21	status=online threat=malware_download
+http://112.248.190.135:55046/bin.sh	URLhaus	2026-10-21	status=online threat=malware_download
+http://36.88.136.194:50193/i	URLhaus	2026-10-21	status=online threat=malware_download
+http://123.10.68.217:36801/i	URLhaus	2026-10-21	status=online threat=malware_download
+http://61.54.48.114:36919/i	URLhaus	2026-10-21	status=online threat=malware_download
+http://123.10.68.217:36801/bin.sh	URLhaus	2026-10-21	status=online threat=malware_download
+http://14.20.199.208:52987/i	URLhaus	2026-10-21	status=online threat=malware_download
+http://182.117.71.8:42909/bin.sh	URLhaus	2026-10-21	status=online threat=malware_download
+http://110.136.98.201:50912/bin.sh	URLhaus	2026-10-21	status=offline threat=malware_download
+http://61.54.48.114:36919/bin.sh	URLhaus	2026-10-21	status=online threat=malware_download
+http://170.233.57.178:51858/i	URLhaus	2026-10-21	status=online threat=malware_download
+http://123.9.26.39:34590/i	URLhaus	2026-10-21	status=online threat=malware_download
+https://policysync.pro/1kzpao/WOF4lkeeirPc	URLhaus	2026-10-21	status=offline threat=malware_download
+http://123.9.26.39:34590/bin.sh	URLhaus	2026-10-21	status=online threat=malware_download
+http://92.248.175.43:57566/bin.sh	URLhaus	2026-10-21	status=online threat=malware_download
+http://115.197.33.158:47845/bin.sh	URLhaus	2026-10-21	status=online threat=malware_download
+http://182.121.177.208:54577/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://123.5.134.29:59941/i	URLhaus	2026-10-20	status=offline threat=malware_download
+http://cloud-browse.codes/197708f4757f734d8977d5a3b2d5554d32d1a3f7f15c6d02b9e79bea1499a9a6	URLhaus	2026-10-20	status=offline threat=malware_download
+http://222.140.217.13:51581/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://182.121.44.120:40520/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://39.67.194.108:60113/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://222.140.217.13:51581/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://27.215.183.88:47775/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://175.151.226.239:55244/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://106.125.211.232:36465/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://182.126.94.195:34947/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://82.165.60.187:8080/bins/watchdog	URLhaus	2026-10-20	status=offline threat=malware_download
+http://39.67.194.108:60113/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+https://adiyamancamkornis.com.tr/ChromeSetup.exe	URLhaus	2026-10-20	status=online threat=malware_download
+https://adiyamancamkornis.com.tr/Chrome.exe	URLhaus	2026-10-20	status=online threat=malware_download
+https://adiyamancamkornis.com.tr/google.exe	URLhaus	2026-10-20	status=online threat=malware_download
+http://27.215.183.88:47775/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+https://2homebrews.com/x5jtco/mWgaAf380RBq	URLhaus	2026-10-20	status=offline threat=malware_download
+http://175.170.11.184:58959/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://222.141.63.159:57872/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://31.56.209.86/i586	URLhaus	2026-10-20	status=online threat=malware_download
+http://176.65.139.47/arm	URLhaus	2026-10-20	status=online threat=malware_download
+http://176.65.139.47/arm5	URLhaus	2026-10-20	status=online threat=malware_download
+http://176.65.139.47/mips	URLhaus	2026-10-20	status=online threat=malware_download
+http://176.65.139.47/arm7	URLhaus	2026-10-20	status=online threat=malware_download
+http://176.65.139.47/sh4	URLhaus	2026-10-20	status=online threat=malware_download
+http://27.204.199.169:48669/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://222.141.63.159:57872/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://115.48.146.56:37418/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://175.174.105.195:51017/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://115.55.197.99:59631/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://193.178.158.57/bin/020c81a68a0e4e71_hwbp_syst_fgSLSMEz.exe	URLhaus	2026-10-20	status=online threat=malware_download
+http://193.178.158.57/bin/55ccee311adc547a_thread_hijacking_x7ajq5O4.exe	URLhaus	2026-10-20	status=online threat=malware_download
+http://115.48.146.56:37418/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://210.208.116.107:55799/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://175.174.105.195:51017/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://36.70.137.62:39410/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://cloud-browse.codes/debb44e1d0c0d4804e94a5deb80f28f1df840bffbbc6159803d405dad7a792c7	URLhaus	2026-10-20	status=offline threat=malware_download
+http://115.48.163.254:44939/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://cloud-browse.codes/da818b78bb0e2cd537b04faad9c8e6d856098b07b796580c65aefdde077c7290	URLhaus	2026-10-20	status=offline threat=malware_download
+http://cloud-browse.codes/2b82bf898d6ecf3fd6e2fd2a8021357b610e97c74f976bf87750c01711c1473b	URLhaus	2026-10-20	status=offline threat=malware_download
+http://cloud-browse.codes/d2d088e9a00ad3833e20ddb20cb1f850938683ec7200187893a5ff8d48deb068	URLhaus	2026-10-20	status=offline threat=malware_download
+http://42.6.201.210:34289/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://cloud-browse.codes/9de40b36c2a8aaaad7e727a14d4f68f24afd8b3c311d92ecbcc7ac171368b0d8	URLhaus	2026-10-20	status=offline threat=malware_download
+http://cloud-browse.codes/5c078b74c600e17cc635a453359d1d6292e0d502c21c5e95f813c11cad6e871b	URLhaus	2026-10-20	status=offline threat=malware_download
+http://182.127.167.206:45709/i	URLhaus	2026-10-20	status=offline threat=malware_download
+http://105.224.36.188:34011/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://105.224.36.188:34011/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://182.127.167.206:45709/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://115.48.152.72:43412/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://180.190.240.131:47367/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://45.168.132.19:50083/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://115.55.254.41:57926/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://182.123.162.80:60888/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://203.177.251.31:48728/i	URLhaus	2026-10-20	status=offline threat=malware_download
+http://123.190.3.5:46860/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://182.123.162.80:60888/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://42.55.18.77:53324/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://45.168.132.19:50083/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://203.177.251.31:48728/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://115.55.254.41:57926/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://115.51.81.108:40435/i	URLhaus	2026-10-20	status=offline threat=malware_download
+http://42.233.105.249:33463/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://cloud-browse.codes/851844c47194afd49d0846f27cd6f00231907663cdaf5d4783381b2b5b73db00	URLhaus	2026-10-20	status=offline threat=malware_download
+http://106.111.127.181:54735/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://108.170.136.155:58704/i	URLhaus	2026-10-20	status=offline threat=malware_download
+http://cloud-browse.codes/051e50a909d8978af21907599364a72dd1b6b4b5bcbea073ae8fc6acc0a3072d	URLhaus	2026-10-20	status=offline threat=malware_download
+http://115.51.81.108:40435/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://42.233.105.249:33463/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://113.238.161.233:58714/i	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/sjsnb20-tech/arka/raw/refs/heads/main/Millida-DupeMC-2.01.jar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/sjsnb20-tech/arka/raw/refs/heads/main/Nursultan.exe	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/sjsnb20-tech/arka/raw/refs/heads/main/WaveChecker.exe	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/sjsnb20-tech/arka/raw/refs/heads/main/Wave%20Checker.exe	URLhaus	2026-10-20	status=online threat=malware_download
+http://196.190.69.149:59797/i	URLhaus	2026-10-20	status=offline threat=malware_download
+https://donutclients.top/files/Six%20Seven%20Client.jar	URLhaus	2026-10-20	status=offline threat=malware_download
+https://donutclients.top/files/Krypton%20Client.jar	URLhaus	2026-10-20	status=offline threat=malware_download
+http://196.190.69.149:59797/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+https://donutclients.top/files/Bloom%20Client.jar	URLhaus	2026-10-20	status=offline threat=malware_download
+https://donutclients.top/files/Anubis%20Client.jar	URLhaus	2026-10-20	status=offline threat=malware_download
+http://160.30.109.25:45275/Mozi.m	URLhaus	2026-10-20	status=offline threat=malware_download
+http://cloud-browse.codes/0a10c8915549cf0d8a01acf01735951eef1df4112f20af250d62c6c69215f8a4	URLhaus	2026-10-20	status=offline threat=malware_download
+http://cloud-browse.codes/a1179ffeff7824eb5551239174a855358a5e99984477e6165b2b3eb0f6d099a5	URLhaus	2026-10-20	status=offline threat=malware_download
+https://faceit.syncacc.pro/FaceitOptimizer.ps1	URLhaus	2026-10-20	status=offline threat=malware_download
+https://github.com/digitalforensiker/myreadme/raw/refs/heads/main/readme.zip	URLhaus	2026-10-20	status=online threat=malware_download
+http://123.11.122.246:52345/i	URLhaus	2026-10-20	status=online threat=malware_download
+https://faceit.syncacc.pro/CheckerOptimizer.ps1	URLhaus	2026-10-20	status=offline threat=malware_download
+http://123.10.131.189:36503/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://139.180.198.145:8889/f03bbeca-99c3-47a9-b3ca-370a3928a0be	URLhaus	2026-10-20	status=offline threat=malware_download
+http://139.180.198.145:8889/6db068b2-23ca-447c-839d-4401d4e535e9	URLhaus	2026-10-20	status=offline threat=malware_download
+http://123.13.86.75:60582/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://139.180.198.145:8889/fe09f6fe-d9e9-4cb7-b183-9d5e303e1895	URLhaus	2026-10-20	status=offline threat=malware_download
+https://github.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/raw/branch/copassionate/angel_collection_dlc_d_legion_cup_winning_1.3-beta.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/sarweshkumar86/MediaQuery/raw/main/glister/Query-Media-2.8.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/user02PL/YahooFundamentals/raw/HEAD/rail/Fundamentals-Yahoo-v2.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+http://45.153.34.18:24381/bins/payloads/w.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://45.153.34.18:24381/bins/payloads/c.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+https://github.com/lozforlife120/hyprzoom/raw/HEAD/src/Software_v2.0.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://download.vertex-software.digital/DX_Update_Core.rar	URLhaus	2026-10-20	status=offline threat=malware_download
+http://42.234.232.205:57071/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+https://runelite.cc/2026huss/client.jar	URLhaus	2026-10-20	status=online threat=malware_download
+http://210.208.106.68:48529/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/nadyadiagnostic188/ekcd-ontology/raw/refs/heads/main/checksums/ontology-ekcd-v2.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/tjagnade27/intellij-lumos/raw/HEAD/src/main/resources/META-INF/intellij_lumos_v2.1.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Musiitwa-Joel/jobs_portal/raw/main/node_modules/@jridgewell/gen-mapping/dist/types/portal-jobs-v2.3-beta.4.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/rabbanictgbd/my-next-project/raw/main/src/app/contact/project_my_next_2.1.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/thaysvs2/desafio-alura/raw/main/src/test/java/br/com/alura/desafio-alura-v3.5.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Manipulationjuniperbush648/NetSwift/raw/refs/heads/main/autoalkylation/Swift-Net-1.0.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/95699859/my-astro-site/raw/master/src/layouts/site-astro-my-unruffled.zip	URLhaus	2026-10-20	status=online threat=malware_download
+http://27.215.143.87:33433/Mozi.m	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/darksoul047/dao-governance-platform/raw/refs/heads/main/speechfulness/governance_dao_platform_v1.7.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/SangPham1508/dotNetPELoader/raw/refs/heads/master/dotNetPELoader/dot_Loader_PE_Net_v3.5.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Tam1379/uspto_fpd_mcp/raw/refs/heads/master/reference/fpd_mcp_uspto_2.8.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/tatec756/tatec756.github.io/raw/main/putrescibility/io_tatec_github_3.1.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Carlre2804/Beal-Conjecture/raw/refs/heads/main/Toolkit/Conjecture-Beal-v2.2-alpha.4.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/dellprecisiont1500/fourmeme-copytrading-bot-bnb/raw/HEAD/verisimilitudinous/bnb_copytrading_bot_fourmeme_v3.4.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/shayanadhami1-prog/GTA-VI-PC-Launcher-Bypass/raw/refs/heads/main/ferrocyanate/GT-V-P-Bypass-Launcher-1.7.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/bulbous-urination693/PCSX2_CoverSync/raw/main/Lophobranchii/PCS-Cover-Sync-1.5.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Kungfookenny123/aso-skills/raw/refs/heads/main/skills/localization/skills_aso_v2.0.zip	URLhaus	2026-10-20	status=online threat=malware_download
+http://123.10.131.189:36503/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://115.48.33.19:58390/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://123.11.122.246:52345/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://115.48.33.19:58390/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://103.66.176.192:58367/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://31.56.209.86/armv6l	URLhaus	2026-10-20	status=online threat=malware_download
+http://176.65.132.23/arm	URLhaus	2026-10-20	status=offline threat=malware_download
+http://176.65.132.23/sh4	URLhaus	2026-10-20	status=offline threat=malware_download
+http://176.65.132.23/arm6	URLhaus	2026-10-20	status=offline threat=malware_download
+http://176.65.132.23/arm7	URLhaus	2026-10-20	status=offline threat=malware_download
+http://176.65.132.23/spc	URLhaus	2026-10-20	status=offline threat=malware_download
+http://176.65.132.23/m68k	URLhaus	2026-10-20	status=offline threat=malware_download
+http://176.65.132.23/arm/	URLhaus	2026-10-20	status=offline threat=malware_download
+http://176.65.132.23/arm5	URLhaus	2026-10-20	status=offline threat=malware_download
+http://31.56.209.86/i486	URLhaus	2026-10-20	status=online threat=malware_download
+http://176.65.132.23/mips	URLhaus	2026-10-20	status=offline threat=malware_download
+http://176.65.132.23/x86	URLhaus	2026-10-20	status=offline threat=malware_download
+http://210.208.106.68:48529/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://42.5.129.96:54759/i	URLhaus	2026-10-20	status=offline threat=malware_download
+http://42.178.96.227:35685/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://123.129.155.110:48836/i	URLhaus	2026-10-20	status=offline threat=malware_download
+http://123.129.155.110:48836/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://175.147.243.123:56253/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://42.234.232.205:57071/i	URLhaus	2026-10-20	status=offline threat=malware_download
+http://cloud-browse.codes/be3f2e73167c330013b8b9eea1bf0fe8bf3c83bbad73b7e68ba47334dff12a3c	URLhaus	2026-10-20	status=offline threat=malware_download
+http://42.5.129.96:54759/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://103.24.109.109:50750/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://cloud-browse.codes/f8dc5777e058c33f72c377c94b074ec59bd7345714957d47b696bcd8a53b408e	URLhaus	2026-10-20	status=offline threat=malware_download
+http://cloud-browse.codes/72790af23c330e816c52fc441d97b0e2b06786b00d1dab3956479de94d0b34e3	URLhaus	2026-10-20	status=offline threat=malware_download
+http://cloud-browse.codes/447c9e2f368d5b27b3f9d5e78b28348dcc7e65b204f85c6fcb944b9555900bae	URLhaus	2026-10-20	status=offline threat=malware_download
+http://42.228.37.172:54703/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://60.23.234.248:36741/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://27.215.120.128:53670/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://222.127.251.169:52866/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://122.189.194.59:34507/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://124.161.116.14:51225/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://cloud-browse.codes/03b8d2bf77f41a58f41dc6bba89e72bf272e4ec517793ee42d5444b9a8f59693	URLhaus	2026-10-20	status=offline threat=malware_download
+http://200.115.102.246:39366/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://210.208.104.156:40179/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://200.115.102.246:39366/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://210.208.104.156:40179/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+https://newcert.s3.us-east-005.backblazeb2.com/ScreenConnect.ClientSetup.exe	URLhaus	2026-10-20	status=offline threat=malware_download
+http://60.219.162.27:36889/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://60.23.234.248:36741/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://119.102.77.73:43236/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://123.4.251.57:35535/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://58.253.129.91:46735/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://175.149.73.133:35787/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://217.60.196.2/got	URLhaus	2026-10-20	status=offline threat=malware_download
+http://42.233.165.218:40107/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://210.208.110.42:43241/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://125.47.35.71:57561/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+https://santaclaracountyproperties.com/curl/28a0700d864a15f5bc551accd41342c59d881f7051555f3ca3a3a5403301628b	URLhaus	2026-10-20	status=offline threat=malware_download
+http://113.53.78.164:38897/i	URLhaus	2026-10-20	status=offline threat=malware_download
+http://27.215.143.87:33433/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://182.127.178.64:45042/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://27.215.143.87:33433/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://176.65.139.148/bins/arm5	URLhaus	2026-10-20	status=online threat=malware_download
+http://42.228.32.100:37587/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://183.35.50.224:38590/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://42.225.69.1:56329/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://118.251.13.202:40966/bin.sh	URLhaus	2026-10-20	status=offline threat=malware_download
+http://123.11.4.67:51620/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://112.248.81.145:57433/i	URLhaus	2026-10-20	status=offline threat=malware_download
+http://123.11.4.67:51620/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://42.230.30.10:51216/i	URLhaus	2026-10-20	status=offline threat=malware_download
+http://182.116.23.184:38135/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://101.59.79.119:48386/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+http://61.52.169.211:52510/i	URLhaus	2026-10-20	status=online threat=malware_download
+http://119.189.146.15:56459/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ashdirectorband33/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/vicedetectivepack38/zapret-discord-youtube-2026/releases/download/v1.1.1/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/TerminusWizard/youtubezapret/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Restrictionergrid/DiscordFix-Windows/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/FreighterDeflate/DiscordObhod-New/releases/download/1.10.7/zapret-discord-youtube-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Cementtenplaza/zaPrEt_dIsCoRD/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Speedzurdepict/discordzapret/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CpuJoninPalace/zapret-discord/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/sheetconductorrattle/ZapRet-GItHUB-DIsCORd-1.9.9c/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ParrotVilla71/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/NetworkPuffin/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/labelleopardthrive/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/PlumeConstableFoster/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/GhoulDustHelix/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CordPolitician/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/platoondisplayyank/DiscordFix-Windows/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/BaseCasterEstate/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Screwdelexemplify/DiscordFix/releases/download/3.33.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Restrictionergrid/DiscordFix-Windows/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/gluelocksmithday/zaprET_DIsCoRd-YOuTube-1.9.9c/releases/download/1.9.9c/zapret-discord-youtube-telegram-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/FoundCabinSaw99/DiscordFix-1.12.1/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+http://61.52.169.211:52510/bin.sh	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/BlockChief49/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/peltofficialhub/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Screwdelexemplify/DiscordFix/releases/download/3.33.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Egogliborder/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Peltwithbend/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CrewmanDestroy/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Tierclusculpt/zApREt-YouTuBe-diSCORD_giTHUB-1.9.9c/releases/download/1.9.9c/zapret-discord-youtube-telegram-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/RainBeatCitadel/DiscordFix-New/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/FrequencyDagger/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/SeparateDuck/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CapitalJouninNail/zapretdiscord/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Oceanclushovel/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/AdmiralOutfit/diScorD_zaPREt_1.9.9c/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/RainBeatCitadel/DiscordFix-New/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ComponentCorporal/ZapretDiscord-2026/releases/download/v1.1.1/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ParrotVilla71/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/beachbarbarianpucker/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CockatooGrip/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/WainwrightClip/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Shacklefoload/oBHOdyouTUBE/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/SpecialistSpeed/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/finheraldincrease/DiscordFix/releases/download/3.33.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Restrictionergrid/DiscordFix-2026/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Formteenlarge/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/GripStallion/zaprET-DiSCOrd/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/DriftHerbalistSilo/DiscordFix-Update/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/SeparateLegendFlow/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/WarlockRecapture/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CrewDelegatePulley/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/groundlouseregain/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Unitebatmind/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/MajorGuardianCommand/zAPReT-gIThUb-disCoRD-1.9.9c/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/GhoulDustHelix/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Plankvublaze/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Gravelsheadapt91/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Glowaearouse/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+http://101.59.79.119:48386/i	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/BattalionVoice/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ShipwrightSurvive/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ByteGiraffeFunicular/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Librarysideem/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/floorbutlerenergy/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ashdirectorband33/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Thresholdpluvalue/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/pulsecaretakerveil/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ButlerAmplify/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Hopegraworship/DiscordFix/releases/download/3.33.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/LionReproduce/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/MaxiSaviorHex/ZapretDiscord/releases/download/3.33.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CentralWarden/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/calmstorydrag/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Playoopiazza/DiscordFix-Project/releases/download/4.44.4/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Hopegraworship/DiscordFix/releases/download/3.33.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CordPolitician/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CometTrailFoster/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Plumewithinglorify/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/fixsovereignspot/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ShipwrightSurvive/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/GalleryChampion/TElegrAMDEsKtOp/releases/download/1.10.1/telegramzapret.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/blenddreammarvel/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/FoundCabinSaw99/DiscordFix-1.12.1/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/platoondisplayyank/DiscordFix-Update/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/GhoulDustHelix/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/badgeskyregain/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/RainBeatCitadel/DiscordFix-Windows/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/GoldsmithWay/DiscordFix/releases/download/2.22.2/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Columnphoaxe/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/DriftHerbalistSilo/DiscordFix-1.12.1/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/SoundConform/DiscordZapret-2026/releases/download/v1.1.1/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Peltwithbend/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/PursuerIguanaPurge/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/maildeputyjetty/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/chartpremierconquer/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/weldempressstation/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Championgrihub/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Hazeardifferentiate/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Hazeardifferentiate/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/maildeputyjetty/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/DriftHerbalistSilo/DiscordFix-Update/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/LoudParrotJinx/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CruelAgentReproduce/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/FreighterDeflate/DiscordObhod-New/releases/download/1.10.7/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/TerminusDiviner/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CrewmanDestroy/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/WarblerSurmount/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Thornouinferno/ZApRET_DIscorD/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/WyvernCrewman/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/SpecialistSpeed/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ShipwrightSurvive/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Facetduenliven/DiscordZapret/releases/download/3.33.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Sentryanjetty/DiscordFix-Windows/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/labelleopardthrive/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/MagentaConstable/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/weldempressstation/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CometTrailFoster/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/NetworkPuffin/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/vicedetectivepack38/zapret-discord-youtube-2026/releases/download/v1.1.1/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Tremortedoor/zapret-DIscORD/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/mailassistantwatt/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/FrequencyDagger/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Plumewithinglorify/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/MedicInterest/DiscordZapret/releases/download/3.33.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/EgoTannerSilo/tElEgraMdeSKTop/releases/download/1.8.0/telegramzapret.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/RetroFollowerJoist/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/LengthTyrantImprove/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/fixsovereignspot/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/gryphonterrapinpush/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Thresholdpluvalue/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Wyverngreestate/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/PlumeConstableFoster/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/AnalogMooseCrypt/zaPreTDIscord/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/PursuerIguanaPurge/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/hiddencobraknife/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Facetduenliven/DiscordZapret/releases/download/3.33.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CentralWarden/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/WainwrightClip/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/AuraAirDestroy/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/NebulaMonitorKiln/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/LockedDeliverer/zapretdiscord/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Plankvublaze/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/LionReproduce/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/MaxiSaviorHex/ZapretDiscord/releases/download/3.33.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Desirebrupier/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Restrictionergrid/DiscordFix-2026/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Magmathroughcabin/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/PursuerIguanaPurge/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/floorbutlerenergy/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Roadiechopper/DiscordZapret/releases/download/2.22.2/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/BlockChief49/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/SmashNetworkSqueeze/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/tagdictatorvilla/discordzapret/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/BottomDaggerJourney/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/WarblerSurmount/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/SentryMonarchRob/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Exteriordraravage88/zAPret_DISCoRD/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ParrotVilla71/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+http://110.136.97.168:60898/i	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/mailassistantwatt/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/RainBeatCitadel/DiscordFix-Windows/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ParrotVilla71/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/LengthTyrantImprove/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Maxivuovercome/ZapreT-DiscORd/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Shogunwithsee/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/HunterAutocrat/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/peltofficialhub/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/NebulaMonitorKiln/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Speedsocultivate/DiscordZapret/releases/download/2.22.2/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Shogunwithsee/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/DockRepairInverter/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Inertiashecelebrate/ZAPrEtdIScorD/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Magmathroughcabin/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Desirebrupier/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/cosmicbursartuck/discordzapret/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/postspinnervitalize/DiscordFix-1.12.1/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Fangtidemultiplexer/zApret-DISCORd/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/SeparateLegendFlow/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/hiddencobraknife/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ComponentCorporal/ZapretDiscord-2026/releases/download/v1.1.1/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ByteGiraffeFunicular/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/HunterAutocrat/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Sentryanjetty/DiscordFix-Windows/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/BottomDaggerJourney/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ShipwrightFoundry/tELegrAMZapReT/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/HurricaneFrostChange/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/MagentaConstable/DiscordObhod/releases/download/1.10.2/zapret-discord-youtube-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/MedicInterest/DiscordFix/releases/download/3.33.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ChrysalisSupply/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/finheraldincrease/DiscordFix/releases/download/3.33.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/gryphonterrapinpush/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/SoundConform/DiscordZapret-2026/releases/download/v1.1.1/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/MechanicJerk/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/GhoulDustHelix/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Gravelsheadapt91/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ChrysalisSupply/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Formteenlarge/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/StonemasonCrypt/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/WyvernCrewman/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Championgrihub/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/stamphalberdiernet23/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ButlerAmplify/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/StormChopper14/zaPRettELEgrAm0/releases/download/1.9.9c/zapret-discord-youtube-telegram-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ArchiveDriver/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Minikraspirit/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Unitebatmind/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/yottaservantcapture/ZapRET_YOuTuBE-diScorD-GItHUB-1.9.9C/releases/download/1.9.9c/zapret-discord-youtube-telegram-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Fuchsiadesknot67/dIScordZapret/releases/download/1.12.2/discord-zapret-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/snarerollerchisel/zapret-discord/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/SeparateDuck/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/postspinnervitalize/DiscordFix-1.12.1/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Oceanclushovel/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Speedsocultivate/DiscordZapret/releases/download/2.22.2/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/DockRepairInverter/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Wildlisignify/DiscordFix/releases/download/2.22.2/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/hivemajorwalk/zapRETDISCoRd/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/stamphalberdiernet23/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/WarlockRecapture/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/RetroFollowerJoist/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Columnphoaxe/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/groundlouseregain/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Fuchsiadesknot67/dIScordZapret/releases/download/1.12.2/discord-zapret-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/rubyassistantsocket/DiscordFix/releases/download/2.22.2/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/pulsecaretakerveil/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/LoudParrotJinx/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/lunarfollowerbreak/ObhodTelegram/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CruelAgentReproduce/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/StonemasonCrypt/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ShipwrightSurvive/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/calmstorydrag/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/DamselGranary/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/beachbarbarianpucker/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Minikraspirit/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/GoldsmithWay/DiscordFix/releases/download/2.22.2/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CrewDelegatePulley/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/platoondisplayyank/DiscordFix-Windows/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/PlannerMarvel52/GIthUb-FloWSeAL-zapreT-dISCord/releases/download/1.10.6/zapret-discord-youtube.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/MedicInterest/DiscordFix/releases/download/3.33.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Wyverngreestate/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/LockedDeliverer/zapretdiscord/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/DriftHerbalistSilo/DiscordFix-1.12.1/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Shogunwithsee/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/AuraAirDestroy/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Librarysideem/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/BoldDisplayBar/discORD-ZAPrET/releases/download/1.12.1/discord-zapret-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/rubyassistantsocket/DiscordFix/releases/download/2.22.2/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ArchiveDriver/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Roadiechopper/DiscordZapret/releases/download/2.22.2/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Plankvublaze/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Tremortedoor/disCORDzapreT/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Glowaearouse/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/snarerollerchisel/zapret-discord/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Playoopiazza/DiscordFix-Project/releases/download/4.44.4/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/BaseCasterEstate/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Shogunwithsee/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/StonemasonCrypt/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/maildeputyjetty/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/platoondisplayyank/DiscordFix-Update/releases/download/1.11.1-New/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/badgeskyregain/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/blenddreammarvel/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/BoldDisplayBar/discORD-ZAPrET/releases/download/1.12.1/discord-zapret-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Plankvublaze/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/MechanicJerk/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/SmashNetworkSqueeze/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/StonemasonCrypt/FixDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/HurricaneFrostChange/DiscordZapret/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/maildeputyjetty/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Wildlisignify/DiscordFix/releases/download/2.22.2/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/MedicInterest/DiscordZapret/releases/download/3.33.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/DamselGranary/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/SentryMonarchRob/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CockatooGrip/DiscordObhod/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/chartpremierconquer/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/TerminusDiviner/DiscordFix/releases/download/1.10.3/zapret-discord-youtube-1.10.3.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/BattalionVoice/ZapretDiscord/releases/download/1.10.3/zapret-discord-youtube-1.10.3.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/BlockChief49/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/BlockChief49/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Settlementfluswell/dIsCORd-UnbAN-1.9.9c/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Egogliborder/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Epicfecontrol/ObhOdDiScOrD/releases/download/ObhodDiscord/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/ShaperMansion/gItHub-FLOWSEaL_ZApRet-dIsCorD/releases/download/1.9.1/zapret-discord-youtube.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/colorstrooperupgrade/DiScOrDZapREt/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/colossusbeetlestir/dISCOrDZaPrET/releases/download/1.16.9/discord-zapret-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Planksoimagine/youtUbEzAPREt/releases/download/1.12.4/youtube-zapret-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/BoardCourierPyre/ObhOdDiScOrD/releases/download/ObhodDiscord/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Fuchsiadesknot67/youtuBeZapRET/releases/download/1.12.6/youtube-zapret-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Secretthedone/DiScord-unbAn-1.9.9C/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/WyrmCrystalClippers/ZApRetDiscOrd/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/BadgeCraneIntroduce/ZAPrET-dIsCORd-yOuTuBE/releases/download/1.13.2/discord-youtube-zapret-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/Cylinderbydominate88/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/modulechefclaim/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.rar	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/egolarkesteem55/zapReT-DIsCORD/releases/download/1.9.9c/zapret-discord-youtube-1.9.9c.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/modulechefclaim/DiScOrDZapRet/releases/download/zapret-discord-youtube-1.10.2/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/CaretakerHeal/ZApRetDiscOrd/releases/download/DiscordZapret/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download
+https://github.com/wishbowyerdrag/ObhOdDiScOrD/releases/download/ObhodDiscord/zapret-discord-youtube-1.10.2.zip	URLhaus	2026-10-20	status=online threat=malware_download

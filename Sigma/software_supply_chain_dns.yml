@@ -1,0 +1,26 @@
+title: DNS Query to Software Supply Chain Domains
+id: 0541fa88-f8f2-419f-8d94-577ec9ffc3cd
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Software Supply Chain.
+date: 2026-10-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - cve-2026-110936
+    - industrial software
+    - malware.software_supply_chain
+    - software supply chain
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'wizardexpensive.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
