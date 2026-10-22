@@ -1,0 +1,34 @@
+title: Network Connection to Js.Ottercandy Infrastructure
+id: 0b8f2988-63cd-4029-a2c7-904a6fcd1600
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Js.Ottercandy.
+date: 2026-10-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ContagiousInterview
+    - DPRK
+    - etherhiding
+    - fake-interview
+    - malware.js.ottercandy
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'rising-vercel.vercel.app'
+        DestinationIp|contains:
+        - '147.93.2.250'
+        - '5.175.213.199'
+        - '31.220.98.95'
+        - '5.249.163.245'
+        - '5.83.138.155'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

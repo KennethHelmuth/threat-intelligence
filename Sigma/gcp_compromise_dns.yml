@@ -1,0 +1,45 @@
+title: DNS Query to Gcp Compromise Domains
+id: e098bc62-efbc-479f-8418-2e7d2b9a9687
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Gcp Compromise.
+date: 2026-10-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai resource abuse
+    - cloud billing hijacking
+    - credential theft
+    - cross-tenant exploitation
+    - gcp compromise
+    - gemini api abuse
+    - llmjacking
+    - malware.gcp_compromise
+    - phishing sponsored ads
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'groosl.com'
+        - 'groonl.com'
+        - 'gboogl.com'
+        - 'gbrokl.space'
+        - 'gbrokl.xyz'
+        - 'gcoalg.com'
+        - 'gcslom.com'
+        - 'gpoosl.com'
+        - 'gprokl.com'
+        - 'groolg.com'
+        - 'gsool.space'
+        - 'gsool.xyz'
+        - 'gsoolg.com'
+        - 'gsoosl.xyz'
+        - 'gxoosl.com'
+        - 'gzoozl.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

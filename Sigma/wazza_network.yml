@@ -1,0 +1,61 @@
+title: Network Connection to Wazza Infrastructure
+id: 1df544a8-1536-495e-bd72-5e3f952a8f6f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Wazza.
+date: 2026-10-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cloudflare workers
+    - credential theft
+    - device code phishing
+    - google sites
+    - malware.wazza
+    - microsoft 365
+    - oauth abuse
+    - phishing kit
+    - wazza
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'beton-beton.eu'
+        - 'beacon-surge-sync.workers.dev'
+        - 'bike-msca.eu'
+        - 'bodi-project.eu'
+        - 'bruoth-family.eu'
+        - 'cardamomo.eu'
+        - 'coppietersrecherche.eu'
+        - 'diabetesnet.eu'
+        - 'dymowski.eu'
+        - 'euniverza.eu'
+        - 'hutspotmaken.eu'
+        - 'illuminatedminds.eu'
+        - 'jetcapital.eu'
+        - 'languagesforwork.eu'
+        - 'lesbolides.eu'
+        - 'mdiament.eu'
+        - 'nbi-training.eu'
+        - 'nellarmonia.eu'
+        - 'originalpizza.eu'
+        - 'polskaprezydencjacsr.eu'
+        - 'robologic.eu'
+        - 'safetystock.eu'
+        - 'electroloys.com'
+        - 'hacsg.com'
+        - 'dv0psh-purv3w-azfn-b2c0-msauth3-m365svc-s3ntln-4zrfn3x-cntnrx.workers.dev'
+        - 'ssosvc-m365s-kvl-dv0pshb-s3ntln-c0mply-4zrmonx-apimgwx-evnthb.workers.dev'
+        - 'wndws-pip3ln-sql3-waf3-purv3-gdprsx-dfn-azfn-appsvc-0ffapx.workers.dev'
+        - 'purv3w3-t3ms4pp-certs-intun3-sbussvx-4zredg-siemsv-pip3ln-0ffc3.workers.dev'
+        - 'c5id-pc17-fffoub1-bul3-ahv1-r00kubt.ondrv-pwrbi3-s3ntln-quesvxs-l0gsvx-entr-m365s-cmplncx-ehubn.workers.dev'
+        - 'd3m9a-goo2ns-wx0g-jzhuc2-t9r2b9i.dvps-azbl-fnapp-trc3svc-synpx-quesvxs-purv3-siemsvx-cmplncx.workers.dev'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

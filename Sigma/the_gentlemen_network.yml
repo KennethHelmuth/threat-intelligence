@@ -1,0 +1,38 @@
+title: Network Connection to The Gentlemen Infrastructure
+id: 2b71b80d-86d8-402e-844a-e9e9be5ecf17
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with The Gentlemen.
+date: 2026-10-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - armcorp
+    - chacha20
+    - cve-2025-70795
+    - data-exfiltration
+    - double-extortion
+    - edr-killer
+    - lateral-movement
+    - malware.the_gentlemen
+    - phantom mantis
+    - psexec
+    - ransomware-as-a-service
+    - the gentlemen
+    - vulnerable-driver
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion'
+        DestinationIp|contains:
+        - '2.5.30.112'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

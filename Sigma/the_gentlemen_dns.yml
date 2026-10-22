@@ -1,0 +1,34 @@
+title: DNS Query to The Gentlemen Domains
+id: f91242cb-5422-4945-9765-68a40603c9d1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with The Gentlemen.
+date: 2026-10-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - armcorp
+    - chacha20
+    - cve-2025-70795
+    - data-exfiltration
+    - double-extortion
+    - edr-killer
+    - lateral-movement
+    - malware.the_gentlemen
+    - phantom mantis
+    - psexec
+    - ransomware-as-a-service
+    - the gentlemen
+    - vulnerable-driver
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'tezwsse5czllksjb7cwp65rvnk4oobmzti2znn42i43bjdfd2prqqkad.onion'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

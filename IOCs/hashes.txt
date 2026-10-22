@@ -21272,3 +21272,177 @@ c6e443496337f0fab189bbbdfe91a102f1d56678	OTX	2026-10-20	family=WHIPSHOT | pulse=
 a0ba4e1ad622d9c3d950b4156d4430812d05bee216ab22c3804a9f7a80535556	OTX	2026-10-20	family=WHIPSHOT | pulse='NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779' pulse_id=6ad71b768e708ffb59419b43
 eaf0086237879bbaac00a5874c0e2ff84deede1ba10e6b706e2288fd3a31cdde	OTX	2026-10-20	family=WHIPSHOT | pulse='NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779' pulse_id=6ad71b768e708ffb59419b43
 ffe052fc50271e7739d458b155df790438776032bfd125b974735e1dd9c0b138	OTX	2026-10-20	family=WHIPSHOT | pulse='NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779' pulse_id=6ad71b768e708ffb59419b43
+a9969fcef2ad4865519c7325ca458c3d586c5937fd3ada51c3eef684c4334560	MalwareBazaar	2026-10-22	filetype=exe md5=f59e5fb20de0581d2660794b7ca35445 sha1=c8969d3dba58e68a142e69be7a04ff33b6d81f96
+18d0c7d0078e310617ffc4e75d93becfafc6434e6aef839a9587aaa2ca39ecfa	MalwareBazaar	2026-10-22	filetype=exe md5=cc835182790618fa9c05bd00d1436b6e sha1=2427c187e1217080afa2e91b4add31ea8aad799f | vt=14/75
+766113abb85d8186721076f23422f6b7b5e773c06fd3451343f751568b4b091e	MalwareBazaar	2026-10-22	filetype=hta md5=633dea7478ea64b22c5caaa552263497 sha1=ede1845d0d299b3a448f3798d8221d645aca7f8d | vt=4/75
+5c195f41798265546fdf058f2b4c4a2f35f88532b60b1d3976ae27f58aaec8ad	MalwareBazaar	2026-10-22	filetype=exe md5=d9426f43acb32e29486d15777200ac0a sha1=93eddf1e2aecad78e9761aec95651874d1087429 | vt=19/75
+9b7237bcbebe18085bc6322d165d65188150cf5219c03672971cf8d6b7b0dd30	MalwareBazaar	2026-10-22	filetype=exe md5=ad6e79c10d82822410626659d6f29a22 sha1=470f455a7dfc87af9dce876dd2617abfc7eaddc7 | vt=19/75
+72340d984e5018ea2763ab0125354ecbab45261bf3d9f241bca875b0ed2c9998	MalwareBazaar	2026-10-22	filetype=msi md5=449d6415d57aea346e9cfd765b51108f sha1=8fb5cd02d8ed88373010c1db6b53d7eb58df565d | vt=14/75
+b36d3ad13456b95f05c4b237c5799a01884fd5121b793acbb5e1c50bb0f64405	MalwareBazaar	2026-10-22	filetype=msi md5=650283f1efd1071401f4588b4878947a sha1=c3e5424f460215b268d48edaeb59136af3a00238 | vt=15/75
+41ad249f4d3f2ee1e13fa60544d5ead4eb12de75404de60c2ff43f6e1fd8425b	MalwareBazaar	2026-10-22	filetype=exe md5=13f7116c89a6f6031778d8cbf193b93b sha1=8d76b7939bff058c7822f498a5a570837e91d859 | vt=19/75
+b9c25bd6b70a019d08aadff9e6bb677c11ea5c9ae8ecb2f49a1d8a6da216fc98	MalwareBazaar	2026-10-22	filetype=exe md5=221f272bfc2987e61dc013b83cffbfc5 sha1=a59b28f3aafa372af3c8db70ea70bf1482bb265c | vt=24/75
+937b0ccd38d543b7fcb265901443601506623452067b4c0df3ec75117c06f02b	MalwareBazaar	2026-10-22	filetype=exe md5=bb1f59d4c92c85d725c34700ce131ec4 sha1=6c788889c4502f15d0e701d678a283fc45c82b61 | vt=20/75
+74870e90ca4dd0ca3cb813a1a42105e1e8eb179aeec012451c6cda0674643498	MalwareBazaar	2026-10-22	filetype=exe md5=bf512478b09d09878305240a7acb01af sha1=95718b6c6aa070e3d3f9e9fa8a176af917b06267 | vt=20/75
+02c94f1d67605c2710a8f558a82e69e80fd499a1a5bb6f2e7f0689668d49f43f	MalwareBazaar	2026-10-22	filetype=exe md5=c0f9acbdb1d94573f076e1896edae3c8 sha1=cdcd0f294f58e8a25f05604dd0a7c546f46d5597 | vt=16/75
+1b9ebec7a73d0a7c135f71904fef98602fa5ff49d137bb145608da207541c15b	MalwareBazaar	2026-10-22	filetype=macho md5=a2dd43b96e8b490e604fb13d12b6847a sha1=ce11c02f79e3416f1e78f89c39df087d6a77ff82 | vt=10/75
+3957725c425fbfe89cbe2e6bed37f0938609ac0af14ad1e111a078e154975b20	MalwareBazaar	2026-10-22	filetype=zsh md5=2bb444692c62607f5cc602c6aec04305 sha1=ca7e2945d51b7d798401c4a14a6caa30ab1aceb3 | vt=12/75
+ce6c5781e90909f30a957226aab5823fa03c98a8c316a06aba95d80fcfcd03db	MalwareBazaar	2026-10-22	filetype=exe md5=35dc33ffd64f680d3a99991d1dd9f021 sha1=313e50cc750b85b8c3c90bc7366b4ff6b5b9d2cf | vt=20/75
+f033beed6150ab6bffc19a0b611082c09fce9ef7a1bef6e18ce5b340083ad63e	MalwareBazaar	2026-10-22	filetype=zip md5=a66c4a866a651e1593bebd28de6064e4 sha1=0194384176db69007da0eafed3eafc8e470b6179 | vt=0/75
+d89e9eb189292b26039cb9ec1490b6a5e8389827345aac521879340ede936715	MalwareBazaar	2026-10-22	filetype=exe md5=56ca6c677256547e401fb47fb181574d sha1=e1b078be4d3b8198aff88bb9ffab806fc07c863b | vt=16/75
+0d04183546002117b1d691ecb513140d2f17834e98b22e809e7328a09c49b106	MalwareBazaar	2026-10-22	filetype=exe md5=688788ef827f1381515df6f436e8789c sha1=43e1ab7ea811c159e25b42c0c06b173e27c6d455 | vt=20/75
+1b67353f5c8411eff4310649e7ad1a389e28e794cb0800fb95a63e889a728469	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+6a762ce5466bd4c15a1a0e14d1c4dda1e1946ef874e18f0c33aad69eb714d7c1	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+81cebf383b544f9b5a968b16a091a049f4862d6b4e9a20840b3a87356594dc21	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+e0c26045c435dc4625520a89214044387a3bcd29c21027c572e279db4f1fb742	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+9d9f92f132825591571786ab89e2fb51c1c4f5054115356bc674a6b482693b04	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+4a323c3ae8b828f695539fff1fd8cae909616da4d76b4a1d7b48d5c85d6fbb6c	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+424efc3e977e95b82a0a9c1be4b8804f261c95c6ad83014ed0cb90a446f82b94	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+9ef03b375da756bfde5ce7e73e86f9c4d3865fced60a4f0b36579c1b31e00aa2	ThreatFox	2026-10-22	family=elf.mirai | confidence=90% threat=payload
+3f09df05e961893fb8ec3197357dbcfee2ac492a122b227dc9214c3ed2623a98	ThreatFox	2026-10-22	family=elf.mirai | confidence=90% threat=payload
+b48bfc0b588e0ea9d4638d64ffdfb9b2b28537c64d5a53134d0edb9bdf7ab182	ThreatFox	2026-10-22	family=elf.mirai | confidence=100% threat=payload
+655e99f9559d7a55cb21b17cf37fb9f92f52eb7ec143587cc3b4af24963a0548	ThreatFox	2026-10-22	family=elf.mirai | confidence=100% threat=payload
+ddf40b226242884285546065b5981048ed5d76c6e7d158e6b8afb6b739693f8e	ThreatFox	2026-10-22	family=elf.mirai | confidence=100% threat=payload
+f0da74998bfa8cdba6bf0100e80086e60a8e461014a118365d18f7ee0d040f1a	ThreatFox	2026-10-22	family=elf.mirai | confidence=100% threat=payload
+3551a3e9e912d005919fdfa67eb9e56dbe0f5d7b331709d491b771f493861d0b	ThreatFox	2026-10-22	family=elf.mirai | confidence=100% threat=payload
+0b70ad78aaf9dff31b712f91cee5d1dfae0c8378f67b5fdac27625c07ce092ee	ThreatFox	2026-10-22	family=elf.mirai | confidence=95% threat=payload
+e71c131c07d125f11202e3a48b73a6de02fcfdbaddf5598633f59ee02efb331a	ThreatFox	2026-10-22	family=elf.mirai | confidence=95% threat=payload
+d81398e4ca4f3d6711ec00dd3a3c2423c537fe7caf38c741fbfe81e44659fce1	ThreatFox	2026-10-22	family=elf.mirai | confidence=95% threat=payload
+77aa5eac66e43cf09f2fe383816e038b7324f17d4bd1080e9e1ad9fed59edc24	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+bafcc9491c9f4a5a6e50faffbd7509394796d9092ae7a813ccc16e93012a57e9	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+ec19363ca4c96d572a46f2d5b31682cb7d4807268b4269fb3b289fa427003ef3	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+9e37fd3ea848db59f11560e4a19de14134b3eb5110d8d6c31f68b86352410091	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+c25a9a12979d177f34c9bf0757fe5ac9f311256249f84a32293112b7704d958f	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+ad28074b00304db66bb2f400e944063f22c8a8fd53325acfc783afd0b3053338	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+9daed17dd69de929281fb04dcb245721620f6562e4cf59a9e74345d8be5c987c	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+1580562475011dca6fcbbd691f6c6cc5667604e965f26f4abf119d624921ff71	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+e5e44b52a0f49822871439bd790ae6a662d2e462fd1924efb2429c09e13ac79d	ThreatFox	2026-10-22	family=unknown_loader | confidence=85% threat=payload
+8c2bd2b45f4bed4dd03a361fe1bff03e649183ff3a2c6c38e691941e488df223	ThreatFox	2026-10-22	family=elf.mirai | confidence=90% threat=payload
+f93d2709dd79604ccddc6d91959353e226ecf6b7ad772c945f9dc8d99284b5db	ThreatFox	2026-10-22	family=elf.mirai | confidence=90% threat=payload
+f0dc549d397abf6f221a013798b43e8db2b4309b4d7cdddd597a1a8031e6ce35	ThreatFox	2026-10-22	family=elf.mirai | confidence=90% threat=payload
+ee44a8fe7fe93c8a67e96e84caed7af23deedbae9352c5bde7c0265a765d47cd	ThreatFox	2026-10-22	family=elf.mirai | confidence=95% threat=payload
+400a71a777d9a6444b2d9287888fd497f7e7d7035f9e5bac6c857cdd4877323c	ThreatFox	2026-10-22	family=elf.mirai | confidence=95% threat=payload
+db7064aedd34c959fbb19ac70da43ff9f08be90e7a85f3d1fa996a3f3186dd53	ThreatFox	2026-10-22	family=win.remcos | confidence=95% threat=payload
+e9147fe213c511ff98c33005e0ae6d4376b45c60b56f830eaba3d16d8fad3dab	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+ac82eb253a8d1cfefcc7022f0a9b2ebd50f95a5fdb4d9042290e96c7bef6229a	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+6026c6462561bd45b68fb61b533ed9f6b409ab76bd10bd644c5cc4f7f60897f9	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+c81b8c0775f0fa25cfe09cab180e88426340cd1e171c033cd70145294504fefd	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+49497e31cb6b96ea6727625f2c8b2a5599ab8b0f898c0f13ad5f8557a8fa470a	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+730c24af1694d073e9217ed0796da5c6852ba540d7c1556767811e3dcd3b7a8f	ThreatFox	2026-10-22	family=unknown_stealer | confidence=100% threat=payload
+a655c29ddc0fd99f477601c56319f569e3b055496d5551c2a5a33e70bce28e88	ThreatFox	2026-10-22	family=unknown_stealer | confidence=100% threat=payload
+adec4ec705b856858141f732160a3c5685d520727b3d573bee1d675a7f7b5101	ThreatFox	2026-10-22	family=unknown_stealer | confidence=100% threat=payload
+914aef2b9e24aab9f3840be3c07df88baf025ed276911cf1919ae67739d5cd48	ThreatFox	2026-10-22	family=unknown_stealer | confidence=100% threat=payload
+3347e249649c63e9bc068712de0f6ae7d18eb17061f54f16513911e7da20080e	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+c3aed2ca0d46a3161cbd85c52d0178388bbb63c7d30267b9c20c7bf5d7f04462	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+5da1795d3da3b93e5d30b350eea40f46e164c584a0a6031eee006a750f9bd9b0	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+d310405790ca4490898b2242e3230d873021e0d1595cc12d26beb83f1bdf26ef	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+3b0c464bd1295dd33dc857e65575346c8062b4c0325d0da066ae625d45db1bb1	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+66bb0add8962b6b2cf5bb3358e6777a421b54968674d838d7ccd2d3a6da555a0	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+9436647b020283e62bd3276056169275b2e1d1516dad4528c16573554560894b	ThreatFox	2026-10-22	family=win.smartloader | confidence=85% threat=payload
+40924000211de474d80eaefe30daff0045a591806e1942fb98ea0fa26d0526d2	ThreatFox	2026-10-22	family=win.smartloader | confidence=85% threat=payload
+8437686b327f7cf19382cd983d7f4c519d6b69f295f62362ce487f1d088a317f	ThreatFox	2026-10-22	family=win.smartloader | confidence=85% threat=payload
+4cbfd006ec5b1323509bc24957ca38523caff4348904436f1657e642275136f6	ThreatFox	2026-10-22	family=win.smartloader | confidence=85% threat=payload
+61e81d702cdb26cae6a4566ea75441707ae79a6584a9d6803f6ebfe674a39010	ThreatFox	2026-10-22	family=elf.mirai | confidence=95% threat=payload
+82fa2a1c0992548f2059e7e2822de74126d317c156f360012b1f53571a3ee550	ThreatFox	2026-10-22	family=elf.mirai | confidence=95% threat=payload
+2640d2d948f9ebb16f9a8692da79887ea3cf62d6faa366daa2f442c92fa77ace	ThreatFox	2026-10-22	family=elf.mirai | confidence=95% threat=payload
+2134f6e9c63de9b421e75d70bdb72ecf79609ff8259d4240087524d29dace2d3	ThreatFox	2026-10-22	family=elf.mirai | confidence=95% threat=payload
+44306aa41505302c109d90a5c85c68541b98bf783cb47af912a55b4d5a3dcc99	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+b626c19713c716a0bc5a49d801300eaade449cec525012a35a6477295b6729a4	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+9edd2a4e7ce79550637ab4dd1dec171087dcf7313547e0935d64725101140a9b	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+aeea0651716d990d527a48473e7b54cd56849aee87b8916294c8f2ae81831617	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+932761c3c90d8db72e53b5e2cbf5f86eee95e15be50e0a4dab91d6e16b33cbd8	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+94521a0d9d77513864171e00075b46b5bededbd849efe056687d8494353815d4	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+805a8575437df0241e4f24d3c3d377e7dbcb42924ad9e41664bd0bc7dc26ed9d	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+a4f89e85ca176c7fccd50335b80e9cb31887297c3e8abb879e35636ae7c6cd68	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+bfaba22e0b58c2f5ab977de4322563fdeb3f5a90a573175181f34d4830a7fc97	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+8103bfe69650f5bcb4db87b08e9ca323c7c9ac803246f68a5371585e6f335157	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+cb69e3ac7766671076b970ff9517651fa0a80aaaa65342ad2cea5fdef4132ef6	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+6a12b821f57f39cbe9982e164cf33450933669a8da63620598a5ef650d24869b	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+3c659c6e9c4e54db8520ea738aa2389494bb8a20dafacc8a9207ca6808fb1b78	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+35a1f8a653da98a61aae35db1f9435798f9279ccf171c81f1fd1a7b032bce77b	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+a166456532f7e7ac79ac35d37ab1103a8f5bc976c1e627678cf6d06add9325d0	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+e6d5a096be84b8820fd724a9363559854823cb43957578e0c563078d169c6305	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+a833c1778f7205159a00eb53913e1323e8125a17c070fb5fce3a8b339f9eeea9	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+15c8aa29287daff51ee744c192372ae56fde3c5c7d53d36e3435925d87942f1a	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+7a432eb04d64e19851339b75174abba4cf0d06c6975baccfc37eff2b16b338ca	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+2e7a5ab7abb5899b0cfac6cf530ecfd3060ec2f2f120863797158686d6ed228a	ThreatFox	2026-10-21	family=unknown_loader | confidence=80% threat=payload
+4682478753b995e334e0bfd053d4fd0b715921c2b5b0f74da43ea7676a1673a9	ThreatFox	2026-10-21	family=elf.mirai | confidence=90% threat=payload
+a653695fe33295fe6dcf74e38c460a1fd91f2fc91dccda10896f2f90b3f36818	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+3d5301c431b402fe4bfcd2f7cb87c03ab1ea60680582131666043380e6d1213b	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+6d36cd5a757a635a432c98b8f9d737b9c09863f723b3c9be23880cb7c1a95f36	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+143056f6280c31b4c6cdb1816af7ca60445b6017b9acefb854c518ea251db54b	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+824fcb6cd0621c4b08a035c5d1f0b0e9ffb954ff8f0dc8c329cef117fada7f91	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+aa755e4f490fd50aacaec3727c810a54f5aa74ec230582d1a81ce72170316da1	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+c67191b785191ede69ace12c4570cf4a873b7ff3930f0c33ca5a28dbddac071a	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+6a6bc1031590dddd55d9b087ba8fa60075471e36bf3b002e351c153ad20a5446	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+ab45a663946538d84003300f3cf7056825c9e4843e19efffdb9e9477f727a702	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+847f05497bf5f5b7bfb96255f5e6f1ad195d762c35586f1da19569a727e642ab	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+1d7b5f9c0b255d1c89afac4b44b793e41dfafb76d8d5e751f5b59994cd5e15f1	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+5c99f45e4a6e34afb17b6801d81a1f7230056ef4258cb40d4c91bf4644c4cd91	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+3439d0cf84a668d0542306d55d2ed1735b2150a0146ffbddd86a5cc1a1128fca	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+7703c1711139aefc8afae19efbf7ca2c995d9e49771fd8338a1d5efaec0ecd7a	ThreatFox	2026-10-21	family=win.smartloader | confidence=85% threat=payload
+4b14f3e9b5a097b7cc3bcb1ccfd8e0d8cbf5d939b5eb48ef705263322ffd4e7e	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+032ca6eca0f327d15053db625bd375b96a96c82885a4cfafe4bbae004f7c8a2e	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+39dddca8090a00d5be54b213a1cdaededfe508ab65e5012b73c3c89e6a625cf0	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+6b9deaad7a9e0261b8a5352933a7a72ed44a4607359918c77c3e7d0dec1899ed	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+7300d563da3032500a4d1c9fdd92b8063819f28d25131a622f410c1fc4f01f5c	ThreatFox	2026-10-21	family=osx.amos | confidence=100% threat=payload
+72d191ea359d563f97dc4b05d72a104837a4af131e9e626747761373c5f1f69f	MalwareBazaar	2026-10-22	family=Mirai | filetype=elf md5=6747be22d3b904c54a5d4ba53d1ccbff sha1=bdac5417b642b74343ebd01c7dcf6d5262e24d54
+acb4328b2d6bfa66ff3d396fb80e266e684876057382ed768393c69d8174f3ed	MalwareBazaar	2026-10-22	family=CoinMiner | filetype=exe md5=32daafa759bce140a3318b97e4b8fbca sha1=dd2932fde160456cc0257d9929548e2571f20f8a
+c92d2ba2be0710a1f68be422410d21a5df7ef38a407e317d270568e86f968e6e	MalwareBazaar	2026-10-22	family=Adware.OfferCore | filetype=exe md5=13dcc9a1ac392b788f0f2f0ae1c96ea7 sha1=bf35c761048c57164ddf80ac6c7537346f8af2bd
+7115bc90e9340ed8df5a83986f93256aa947c3a507cd60d63679b5cead98afbf	MalwareBazaar	2026-10-22	family=RustyStealer | filetype=exe md5=fe1f63f48b60e228af9c2b908c86249c sha1=b89f4cd0c5ba5af47bdaf3d691aa01007f1f441d
+b4a60551ca30298c4e8f225aea012cdc34aaaaf640d9c7ee0818860c74ffab19	MalwareBazaar	2026-10-22	family=CoinMiner | filetype=exe md5=afaf3d534dfdb96401493ff3a8b27f26 sha1=7afc0158fe33c770fbee71818b703f775a6aa3e2
+45fde449a55e964d31b7be280e6b2a3df03bf29e09c2c2a3c3293db49e6a4f5e	MalwareBazaar	2026-10-22	family=CoinMiner | filetype=exe md5=7e756878d2cf546fc171b519cff0d67c sha1=7e9065e4042264c6d3c1cb07243ba27c817e1a54
+e8d4d78f4dfc72d389e7101cdcba866b7ac90094c3356de17b22ecb097c53f9c	MalwareBazaar	2026-10-22	family=CoinMiner | filetype=exe md5=2ed04d94857e43eaff040ff4a0562061 sha1=66e61309d2aa427bea49ce7b5b7d2b68eefd1b82
+4537002cbc3e7711a5878d880ffa6ac5cf0a2cfd8735d6be41da38d1a623ab78	MalwareBazaar	2026-10-22	family=Mirai | filetype=elf md5=38027c73f9ac3331f0aa6d7aa389bf5c sha1=93bf9ba3cbb3a5e198f7839e1b342becb79b13e1
+568c833c3618eb35f15f019f3606ee20215ee33d22bbdd8175f4c4e7a0e847e9	MalwareBazaar	2026-10-22	family=CoinMiner | filetype=exe md5=2f3556eddf6e060591b256fe9e94bbff sha1=ea29b87edda88a2105ab7382ce0e85a7996858fe
+400d22f6ea66e0f002936ce5cfaaf46e9d279d7b3bf04e37810ef34a18a8b298	MalwareBazaar	2026-10-22	family=Mirai | filetype=elf md5=507976c76a486c5825c84e3a038443f0 sha1=66326e9da13f62b826d9cf233ea69ac49c4c7b48
+7229bc3efe1252c159e082641f6196330f716781782f02f3353791646626416c	MalwareBazaar	2026-10-22	family=CoinMiner | filetype=exe md5=2d2d479b8b4a766ed9539275c00e3465 sha1=9c74528f1db3d888fb3a3c19f30f148483ebd4a0
+5fdb0f71877c5223352cc79fb04bb73c68e0952d3e17a7eefdc5e0303ee5e1c3	MalwareBazaar	2026-10-22	family=CoinMiner | filetype=exe md5=300849ce88f8702a3f0b975deb8ed46a sha1=efbd1356a0983304cf43a730c59ee8182b691327
+40103a4ae0abbef8f35a7adce7f50a9f536198a850b6eeb9761d6470d1fffa9e	OTX	2026-10-20	family=cve-2021-41987 | pulse='Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell' pulse_id=6ad791051c8d94c4c32e8ad7
+6dde072a64933967456a57610dce8978dab195f9f9de66a0ecd1b1c7bfacacae	OTX	2026-10-20	family=cve-2021-41987 | pulse='Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell' pulse_id=6ad791051c8d94c4c32e8ad7
+70af26f3fd65472877ba5a3676a60d4a7ea7bbcceddc8e363ca795f36bb96ac4	OTX	2026-10-20	family=cve-2021-41987 | pulse='Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell' pulse_id=6ad791051c8d94c4c32e8ad7
+7e43fe3888ac282b04074916fc4c5e33697a9f254403537e552f11b7cbd4ac4b	OTX	2026-10-20	family=cve-2021-41987 | pulse='Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell' pulse_id=6ad791051c8d94c4c32e8ad7
+ab8c39638608738349fddb02f73a0bb5712809b22cd2863f57829e8d6f35c24d	OTX	2026-10-20	family=cve-2021-41987 | pulse='Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell' pulse_id=6ad791051c8d94c4c32e8ad7
+d2753dc8bb3ffc5b6aeea02a6bd2faa9d83c4d6f4c9e8ae207767fe6614609e3	OTX	2026-10-20	family=cve-2021-41987 | pulse='Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell' pulse_id=6ad791051c8d94c4c32e8ad7
+f1f5f46f5e5e3d111779310cf3b57461a18f12f903a88290a035993dc72d6a14	OTX	2026-10-20	family=cve-2021-41987 | pulse='Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell' pulse_id=6ad791051c8d94c4c32e8ad7
+ec84d6cb2ae7974767aedac246b50a3e	OTX	2026-10-21	family=TechHub | pulse='Dissection of Operation FlashHole, a complex attack by Lazarus' pulse_id=6ad857db71667a30647a5232
+a28cba214058fcae2883d8cffc883abd	OTX	2026-10-21	family=TechHub | pulse='Dissection of Operation FlashHole, a complex attack by Lazarus' pulse_id=6ad857db71667a30647a5232
+c105d6b16f544582772de0159f24c00a	OTX	2026-10-21	family=TechHub | pulse='Dissection of Operation FlashHole, a complex attack by Lazarus' pulse_id=6ad857db71667a30647a5232
+2f8475a90a25624ed02f1d18d4e6d65d	OTX	2026-10-21	family=TechHub | pulse='Dissection of Operation FlashHole, a complex attack by Lazarus' pulse_id=6ad857db71667a30647a5232
+676fabe30a28b53925fba98e34b35986	OTX	2026-10-21	family=TechHub | pulse='Dissection of Operation FlashHole, a complex attack by Lazarus' pulse_id=6ad857db71667a30647a5232
+b4a7eff35f048f06fb0a2d7631f23a7d	OTX	2026-10-21	family=TechHub | pulse='Dissection of Operation FlashHole, a complex attack by Lazarus' pulse_id=6ad857db71667a30647a5232
+ff07641dc56914dd90ee0bd7404d7ad7	OTX	2026-10-21	family=TechHub | pulse='Dissection of Operation FlashHole, a complex attack by Lazarus' pulse_id=6ad857db71667a30647a5232
+0549eacd067f37f8b2df8b1bac68838ac1e70352	OTX	2026-10-21	family=TechHub | pulse='Dissection of Operation FlashHole, a complex attack by Lazarus' pulse_id=6ad857db71667a30647a5232
+0c6064255c63dcd447176c25f7cd6971f88f9992780e3b36509dd1be7684d4f6	OTX	2026-10-21	family=TechHub | pulse='Dissection of Operation FlashHole, a complex attack by Lazarus' pulse_id=6ad857db71667a30647a5232
+1334f0189a8e6dbc48456fa4b482c5726ab7609f7fa652fcc4c1a96f2334436f	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+dce2e5cc00eff2493f8ced546dc51f9d5ef78c5ee56805906ec642dfa77a1c70	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+698ce57e5f0ecda7b41d2c6c1e7ca177	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+736a6b312fe80efea9bc2e482629be06	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+9887bc4eed59173d94f5340ef7c09e8ea68cd824	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+9e9cfecdae356761795f5c5f5655d1ec306e39d6	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+598b222fe1d12453639dc14b390b3fa9	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+6440dff8fd8156ef54f6814207983d65	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+926d26fae93d090519ac0f0e1155150e	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+06c524df4947206f9d09181a187ead4128f8c0e9	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+6983544798d04f180427d1cb81c3a11ba227bfd4	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+9ef41c3f92003f73a9946f50ab5a20f6f5df56b7	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+a1894ecc337c34031986f5908c7300b2483074f6	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+143af42b492b0f36b296b0b593bd630248b5641c20b1ca1e5603e7e01b5b0676	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+228fc86acbaa6626051fd189932cb1768254aec5a9539771cee8a567103bbec1	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+363a435e517f344056c42f8d46ef73396220f79e780828ad35ec0a68e7525d02	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+3c2466d8a4572c26530e6f6bcef01fc1baefb98dbff2c65efaed5599622f51f3	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+403187f08c064f244e101bbc03f1fb5b82af8ebdf4b2be0ba1a70d59ac74b313	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+4de88220ff6a6dcb137b17d8d3f77ab4bacc39ea4e4d1147f687b021b7a82b8c	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+5206a05eb128ccdef497f7f234cb27678046f6c6b12aa7a072672f2a4694c2b9	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+586459f1adf018de4586dcd61782839a3ee72d8469944e0f4dd45a6e20598869	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+6a70824fc1777f81c8e8289258ac951e6bac7636db5315b6d7e76c5a58b82b6b	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+7284d45bdbb1e32e3fb1ca6041b448b165795c91a2748de715798238fc8b3bff	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+7d90023d535096da99bffcb3370008355435d9f022232870f3c27d29be8be60c	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+7eb2fd5e79e79c3f2a95023d617062908c9d8c5aff9fed8361a5a74dc0d1af75	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+9c6f6c0d7127c95aa1360ad6fb0ba5679527a6ea2cc17eb0bc2162dd1e13cd09	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+a1500204822fb16556a274132d802ba18a7e8b95cf134bd17b473f915e8cda81	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+a974a9f097bc2e26f285560f1454c70710c88c30c0ae1edfa2977ad862c56716	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+afc30b1a14f2f29572412ba883782eb3ad3a9e6bf9ff9c38aa48ff35a4ee73fa	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+bd5950d4bd3de1c6d1609b8369b7332ada40c50070a9a3cd8e80ec89b19c48dc	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+cd66fb941e63ad9a72687cafb050ed5b4d8b97b34461168581c4f150d6501523	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+dfdc8313921c0f594ee1cd41ff7ef73d973c667438c2dfe5c38cafdbba10defb	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+f483faa2b9c9815a0efb08023fe5d243b1b9f7e04b95127c506b6aae824c9d09	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692

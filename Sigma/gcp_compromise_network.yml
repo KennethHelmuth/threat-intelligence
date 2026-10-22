@@ -1,0 +1,49 @@
+title: Network Connection to Gcp Compromise Infrastructure
+id: ccc8bde4-8e96-48aa-84de-7a44fcaa46aa
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Gcp Compromise.
+date: 2026-10-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai resource abuse
+    - cloud billing hijacking
+    - credential theft
+    - cross-tenant exploitation
+    - gcp compromise
+    - gemini api abuse
+    - llmjacking
+    - malware.gcp_compromise
+    - phishing sponsored ads
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'groosl.com'
+        - 'groonl.com'
+        - 'gboogl.com'
+        - 'gbrokl.space'
+        - 'gbrokl.xyz'
+        - 'gcoalg.com'
+        - 'gcslom.com'
+        - 'gpoosl.com'
+        - 'gprokl.com'
+        - 'groolg.com'
+        - 'gsool.space'
+        - 'gsool.xyz'
+        - 'gsoolg.com'
+        - 'gsoosl.xyz'
+        - 'gxoosl.com'
+        - 'gzoozl.com'
+        DestinationIp|contains:
+        - '212.73.134.136'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

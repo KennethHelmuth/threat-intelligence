@@ -1,0 +1,33 @@
+title: DNS Query to Cve-2021-41987 Domains
+id: ab8226a9-d9b3-4471-97f0-18de87ae8931
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Cve-2021-41987.
+date: 2026-10-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cve-2018-14847
+    - cve-2021-41987
+    - cve-2021-44228
+    - deserialization
+    - graylog
+    - jndi exploitation
+    - log4shell
+    - malware.cve_2021_41987
+    - state infrastructure
+    - ukraine targeting
+    - uxp verifier
+    - x-road platform
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'scanitex.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

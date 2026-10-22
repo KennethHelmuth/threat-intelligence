@@ -1,0 +1,37 @@
+title: Network Connection to Qilin Infrastructure
+id: c23ab228-c61e-4ed3-8390-f1b768b3acd9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Qilin.
+date: 2026-10-22
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - authentication bypass
+    - cve-2023-27532
+    - cve-2026-0257
+    - globalprotect
+    - inc
+    - malware.qilin
+    - pan-os
+    - qilin
+    - ransomware
+    - settra
+    - virtualization layer attack
+    - vpn exploitation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '146.19.216.119'
+        - '146.19.216.125'
+        - '23.128.228.6'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -14303,3 +14303,64 @@
 46.151.182.18	OTX	2026-10-20	family=WHIPSHOT | pulse='NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779' pulse_id=6ad71b768e708ffb59419b43
 192.159.99.139	OTX	2026-10-20	family=WHIPSHOT | pulse='NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779' pulse_id=6ad71b768e708ffb59419b43
 209.74.64.192	OTX	2026-10-20	family=WHIPSHOT | pulse='NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779' pulse_id=6ad71b768e708ffb59419b43
+132.243.199.24:9034	ThreatFox	2026-10-22	family=elf.aisuru | confidence=100% threat=botnet_cc
+156.240.41.248:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.245:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.244:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.238:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.242:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.241:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.239:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+147.93.2.250:5056	ThreatFox	2026-10-22	family=js.ottercandy | confidence=100% threat=botnet_cc
+5.175.213.199:3011	ThreatFox	2026-10-22	family=js.ottercandy | confidence=100% threat=botnet_cc
+31.220.98.95:3011	ThreatFox	2026-10-22	family=js.ottercandy | confidence=100% threat=botnet_cc
+5.249.163.245:3011	ThreatFox	2026-10-22	family=js.ottercandy | confidence=100% threat=botnet_cc
+5.83.138.155:3011	ThreatFox	2026-10-22	family=js.ottercandy | confidence=100% threat=botnet_cc
+147.124.202.170:443	ThreatFox	2026-10-22	family=win.netsupportmanager_rat | confidence=100% threat=botnet_cc
+80.190.79.39:443	ThreatFox	2026-10-22	family=win.netsupportmanager_rat | confidence=100% threat=botnet_cc
+150.241.203.68:7200	ThreatFox	2026-10-22	family=unknown_stealer | confidence=100% threat=botnet_cc
+31.76.252.141:8080	ThreatFox	2026-10-22	family=unknown_rat | confidence=100% threat=botnet_cc
+109.120.178.160:8133	ThreatFox	2026-10-22	family=unknown_stealer | confidence=100% threat=botnet_cc
+47.128.235.169:31337	ThreatFox	2026-10-22	family=win.sliver | confidence=75% threat=botnet_cc
+85.215.73.250:80	ThreatFox	2026-10-22	family=elf.mirai | confidence=75% threat=payload_delivery
+156.240.41.237:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.235:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.234:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.232:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.230:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+211.154.24.12:6000	ThreatFox	2026-10-22	family=win.ghost_rat | confidence=100% threat=botnet_cc
+156.240.41.228:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.227:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.225:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.218:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.215:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.224:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.223:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.221:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+89.106.84.23:2405	ThreatFox	2026-10-21	family=win.remcos | confidence=100% threat=botnet_cc
+156.240.41.219:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.217:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.216:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+132.243.199.24:8080	ThreatFox	2026-10-21	family=elf.aisuru | confidence=100% threat=botnet_cc
+8.213.217.241:8199	ThreatFox	2026-10-21	family=win.chaos | confidence=50% threat=botnet_cc
+74.207.232.213:3338	ThreatFox	2026-10-21	family=win.chaos | confidence=50% threat=botnet_cc
+172.233.46.241:8105	ThreatFox	2026-10-21	family=win.chaos | confidence=50% threat=botnet_cc
+191.223.39.174:443	ThreatFox	2026-10-21	family=win.asyncrat | confidence=50% threat=botnet_cc
+191.223.39.135:443	ThreatFox	2026-10-21	family=win.asyncrat | confidence=50% threat=botnet_cc
+177.201.235.96:443	ThreatFox	2026-10-21	family=win.asyncrat | confidence=50% threat=botnet_cc
+177.201.235.25:443	ThreatFox	2026-10-21	family=win.asyncrat | confidence=50% threat=botnet_cc
+177.201.235.194:443	ThreatFox	2026-10-21	family=win.asyncrat | confidence=50% threat=botnet_cc
+102.220.160.198:1504	ThreatFox	2026-10-21	family=win.asyncrat | confidence=50% threat=botnet_cc
+159.203.28.151:8080	ThreatFox	2026-10-21	family=elf.aisuru | confidence=100% threat=botnet_cc
+156.240.41.214:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.213:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.212:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.211:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.210:8877	ThreatFox	2026-10-21	family=win.vshell | confidence=100% threat=botnet_cc
+146.19.216.119	OTX	2026-10-20	family=Qilin | pulse='Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257' pulse_id=6ad79104128abd6fe9532c09
+146.19.216.125	OTX	2026-10-20	family=Qilin | pulse='Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257' pulse_id=6ad79104128abd6fe9532c09
+23.128.228.6	OTX	2026-10-20	family=Qilin | pulse='Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257' pulse_id=6ad79104128abd6fe9532c09
+85.239.144.170	OTX	2026-10-20	family=cve-2021-41987 | pulse='Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell' pulse_id=6ad791051c8d94c4c32e8ad7
+31.77.220.141	OTX	2026-10-20	family=cve-2021-41987 | pulse='Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell' pulse_id=6ad791051c8d94c4c32e8ad7
+212.73.134.136	OTX	2026-10-21	family=gcp compromise | pulse='From Phishing to LLMjacking: Threat Actors Targeting Cloud Billing Accounts for LLM Usage' pulse_id=6ad81ada1b040cdb328c726b
+2.5.30.112	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
