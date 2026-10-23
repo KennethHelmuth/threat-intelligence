@@ -21446,3 +21446,202 @@ bd5950d4bd3de1c6d1609b8369b7332ada40c50070a9a3cd8e80ec89b19c48dc	OTX	2026-10-21	
 cd66fb941e63ad9a72687cafb050ed5b4d8b97b34461168581c4f150d6501523	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
 dfdc8313921c0f594ee1cd41ff7ef73d973c667438c2dfe5c38cafdbba10defb	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
 f483faa2b9c9815a0efb08023fe5d243b1b9f7e04b95127c506b6aae824c9d09	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+faf0bc67308eb8eb4261e918c57e187eef458d87d6ba64a591b2e6672b771d9d	MalwareBazaar	2026-10-23	filetype=elf md5=a4158a859a59fd44db2d21cc458adcd4 sha1=6f4c8fd7603fefab432104968e5016cba66e9b04 | vt=2/75
+87f4c9758c73198c38289dcc3cdbe032b9ebc5d39115f2c2cb187d2396edc2c1	MalwareBazaar	2026-10-23	filetype=elf md5=d201545575b396bf3fd188c5f2eeed70 sha1=a80e493e530660e0653d49fdfda81b46108d4bed | vt=3/75
+82706984f1b92070cf14109888f79d754aedbcff93f4322c9558d818da7f8a5a	MalwareBazaar	2026-10-23	filetype=exe md5=7067453973511cde4cfa5c2cf86b4449 sha1=5dbefd7bf57854c9bd15d887d71fe1a614626c5f | vt=14/75
+ba419690cd762058a0037d11619c8a1fe5b6690c2f359addc91375c0712ed366	MalwareBazaar	2026-10-23	filetype=exe md5=20a403d93b109eb11ffb701439f748d6 sha1=d0a9d6d4186843d9d780b32ddfbd70edb1f56a95 | vt=15/75
+0c0940c543d28b134dd55313b27eeb05489902f6c59bb162ff2805ec39d45902	MalwareBazaar	2026-10-23	filetype=exe md5=7ad5e5ae162f001e82ad4732ddb84912 sha1=21afec2976e42c73fd147a9dd465790251b69341 | vt=14/75
+1e6188e20e3fc69250147f3e297dfb35f90d66a0e8c711ff0e74efc3e829280d	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+09cf46c4080eda693c4d544e94e0e35f7246be9b32e02e1ff60c87430bd876e0	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+9d780da8cf2a612a40e995fd57f9b183d5893378ced84ba6b00c615a57d4aa14	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+b6fd5b1983511ad6b1295f08630f8be63549aed4b653cb32ddb6ab39d587a3c3	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+cd6783d9e802a9bcdca8da2c5f5a403313eab2432d28591699cd86b03268757a	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+26b8028884ab1b0c08bf4eef25692ca8c5c0fa74b60b98bb0ce1f33a72807b9e	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+93b322cd6e71620b5098c4c27bec28b5351a4729a724d1d9e1f95754451c2839	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+cae0cda20cbe31075f103dce3b9fe469c7444854c4e6e0e4b384cd38571aab51	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+4fd37be9248ab9685ba3fcd81eb0ecaa8f5ac5256d9b0cf459ef7d72ce5128eb	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+3a6c5914ebdb989889cdc903067a1e05d6c147f665f8d6d8d2cae9015063e69a	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+46a88f68e4db3e164c4ac856629283cef10149f757e5e5dc40303f6df81fe077	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+01715e4a2c3fbadc116a47da778c9fb2d583f24a93ed3c07203dd6936f219a4c	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+fd7d3abff959a5790edc95eba30479e19c6242d3b32abc95a95fd12a55e989dc	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+579d1f0b2e091a23afa228d11223abb12541899803bacc29e7f99f88c7267b19	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+d0312239fdb46ff37e658af54855ff867b1a158e70b04a444c37d236fc68cb55	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+b8529448ca17ba76f5dbc39be1fd5d82c83bac8e2dd946e84b13414666967d9f	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+ad90a919af893a2761ef588669b9c951715c9046274bef96e00d6c675c4e893e	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+273b6cd05d03c82d836d6ad298bfae66a696ca857856b9f9bf5c77e8d1fee949	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+58825e39905ab5bb228699f43a318884b5a160525d5c7c51a83200516b35ad3f	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+6eb235b8ae753f97f5d95d1b432dbe9846df36b51fceb61ae5998a7e302e24d0	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+da36885bc3c28eafe95c63cfc20593e3112f5983168cf5887e57aaeb680cd2d6	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+13a4f1bb7f3db7a90412ba7badf1edf7aec3574897d5aaafd1b18d4d375ed144	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+74fd8f8e014d46d84e66a98937ee7d35120779f613cdda6c995d233690442061	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+0c1cf43713eb87341ea3a99d17605243285502255d31e074787d72531b788c41	ThreatFox	2026-10-23	family=elf.mirai | confidence=100% threat=payload
+16a55c27500d9ce805689c083bdad865f148807f13f7cfea549c2b8a79b419d0	ThreatFox	2026-10-23	family=elf.mirai | confidence=100% threat=payload
+aa6976a2df1dc3352e784d1875b15ba90a6e3d4f237a1d7ad7e4e874c3f9e7d3	ThreatFox	2026-10-23	family=elf.mirai | confidence=100% threat=payload
+167c44b17a6f796970a2a18ff391ea9d8ed4a0cc6820e22615b11716da5704be	ThreatFox	2026-10-23	family=elf.mirai | confidence=100% threat=payload
+21af7d776011760bce54d51cefe0416d26888701696ddff544a5f6a307980f43	ThreatFox	2026-10-23	family=win.formbook | confidence=95% threat=payload
+452b57325c8ba3fbd604d4f4a079ad95236f1cdfc05c8a9ea28d00e2e9835e6a	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+19b280fcf8eda4fdff7ba96913fb9dece8d220bd9cca4a422c0e8d125136845b	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+52a1bcd108f4720d67e01752f227b6b56737f10c2c21c28ce13ddd901ca582e6	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+2932a6e2ba89534158072b52c993edc062d1ab97312828ad24425bd367fbd78b	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+0fd8e40fc5ef8565d6265a8099d76fa8b0c747d3292836671a7283c9a514ae64	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+b981b78113bf6952867e27dc846ba3be9064730d49caa9c8518935779e14d4ca	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+6dac6fb030625d93ad1cf2b40c22c51fd7588b8bd48809f82c42eb597808d983	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+4ad2a59c5039ac06a99bf5017f866d5c8e7ec3c78318a63681bd72bf7a2da8aa	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+7d745a4e1c187ffbcc901a658558a2e469c75041a2794b7eba84e05d3e5fd5d1	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+308b83c7e42d32b10a60295491fab2abe94ee59a41750dfe7fe7af26f1fac71c	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+a8c0edff7cbc550402437da7f84b99f2d34be98afe1cdc1d81be6a020d1acd9b	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+d5ef33c409b3d6f6cd6d27d44099edb504ca56e62e15948d5f868ea29385a708	ThreatFox	2026-10-23	family=unknown_loader | confidence=85% threat=payload
+c6abdc7bdb43b73bbabe29d21fce583770c5af965ba5c8d23c98bbb24b3b331a	ThreatFox	2026-10-23	family=elf.mirai | confidence=95% threat=payload
+6eecc8a6959e2d9c2ad8ed338ef169e077fbd0372c38b41c55528dda0ca8e56b	ThreatFox	2026-10-23	family=elf.mirai | confidence=95% threat=payload
+102398d87e6fc027f91197033254b66504107a103b2d0508a7ca493a7e297f59	ThreatFox	2026-10-23	family=elf.mirai | confidence=95% threat=payload
+1a82e6aebae1050a62c1aac0f671f9350e4c76a33b45f82875f818de5ae26fd9	ThreatFox	2026-10-23	family=win.asyncrat | confidence=95% threat=payload
+d75649240d5a50be3a263699612414155f1d8a49b0750c45291859be6fdd1707	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+3f91393f0c0aa2f7d5f42327e5786c97c6fc11f64f9cf842ece684f837ef311c	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+3977232d82b90d1f8352d78097a76c60cad5ddad5d49ca872cdb17f5dbd6b412	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+efe601e5a80a1f1a7bf774d7877da39bc85d22c430c17d52af82191279d311c0	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+0e42860b136886205d516cb6fe54ba8897efb6c98e68eefa45742cdec6583bc1	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+783f060a3f5f85526e6d7fea1177135412cb4e257f3df19057a0bfd563acae09	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+e9665f588f4bcf0333ed42c4772159e7a73fd2601010c70d83c500617d6bf014	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+c8bc81e2bf79e73f60973e6ccd3f47ab665da06c8b8d53202f2af099e43dc419	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+a09b741354218e19b7f3d7d3fa18592acbcf49f9f21eb5b7810b875b366b3001	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+837da6443577e34ed5131b1728229f9e5d96fc53a820e7ce693c261bdb38be7c	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+68793ae6c7213c4dad3d656eb1025b7ecb6814bf665c99e8ce1e5a95dcc7a827	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+c3bca04a525efbce865d03bd7cc7631c7dca3e9c50f4e1949c955541e3660103	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+71fbe49d223d272852212f304d1dfa207b671b060426a3e619e6c0c6813b589d	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+54022fe4cfdaf50065aff8ba63fba9f3df77a483fec5c805047fc9a3f9f55245	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+ab253de6924568c6a4574561fc6ec14ee98e5fd48e98162245c71a612af96a26	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+6a3a45ed8e0ae10013252651c2eeff306f6b31f9d4379a3e14db961a6ed85914	ThreatFox	2026-10-23	family=unknown_loader | confidence=85% threat=payload
+01e5360067eb757682085ff66939c7190edbcab62cd00153b1e10ff6be9945e8	ThreatFox	2026-10-23	family=elf.mirai | confidence=95% threat=payload
+395f7031ffaf797e82da79644d29df07e06d010a3dbf2eb930d3a3163ce9d01d	ThreatFox	2026-10-23	family=elf.mirai | confidence=95% threat=payload
+1a414a458c66e3c967737c7895e01412909bffe28919ecfbad859caddc6aaa38	ThreatFox	2026-10-23	family=elf.mirai | confidence=95% threat=payload
+699285bcd392f0299450fe733d4ec2eb4991a465ea35bdc311a1c0d7aef55cfa	ThreatFox	2026-10-23	family=elf.mirai | confidence=100% threat=payload
+aa0f3a504da0c4a16fb064f5bd2c23d1a977cbf05d6e1dea9f6efd57c3d32324	ThreatFox	2026-10-23	family=elf.mirai | confidence=95% threat=payload
+561095acf398b0edcdbb36719488782814bf9c4410907c6095107b4414941840	ThreatFox	2026-10-23	family=elf.snowlight | confidence=95% threat=payload
+b6d03e3f9c178c77eb32e730e8e690fa844ffd73f49a8fa0c6c37ea09956e299	ThreatFox	2026-10-23	family=win.formbook | confidence=95% threat=payload
+c2b46142bfd7edbb48349bebd24d78ef7b3d43e8ce5052c422c9990c789ff839	ThreatFox	2026-10-23	family=win.urlzone | confidence=95% threat=payload
+c7bebd02f8db04103ac5f83078e634535db5ff1d3a59fe241b707c36813d2983	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+3169f13963324e6b06335f3f19c672630ddc0c0da423b2d0bdd9378d1de6de71	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+27e4adf26375ac044a8631d8998471b0c4746635cb8e45d9f12e5d6a24d080d9	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+946de91e0b3aaf6bc466d9bf11df1b4ed74f24ef301dff697010ee15918f88f9	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+9081546dcd8528fa3b26aabcab3baf5ece17faadcb0f6e697e7591f73c6ed839	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+6d2c7f1837bd52c975c29c8ac8c0bc2f4b5b688ac987482da05c77e0ea2295c5	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+b2a38245d0cd7985793e03df229a46ea8cee0941b8b1dc116a3a128e8fe1aa03	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+bf13273062b560eab32373d3634d53d01e3789383c1f0a0967233d4d8c2fbd9d	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+fd7a2fdce01faae3a187d50db6cf5cc0f0fceb2be27b8f15d483b34502b464bc	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+eed27a8b72adc3ebcf157ef862d26d4528c6ce908f0c33a3a5429371247d0f63	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+c68475f70eea40fb1cda3581f45e0eaf5f48077b424305d757c0e56f927d2184	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+00a6fd9c1f56f2277306294a3f5b134aae008b9cd7dfd9f98829c868784610a4	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+f3aae835f17f3470da3ed28ce79ea92224ad4b803c7d9ea279ec7bd4934e7718	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+f02922e44832ed5d370ad0ae2d0df61c6dcd7b8484c653bb9283d850b3ef8201	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+4e59c77ceac64546bbd51b834f76d925a92f148092e8e5e699366415ecec2355	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+d6e5854a34e317065a1fc05407f66cd88ef034bafeba5c1c0ccdce19e1c94fb2	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+d9e37f35d6a0874393c84d3a545d2b257f33d09d6f9c249172930b78bacf63c9	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+a2f4e4d71027c5f895c31023064ee2839145f1776f204a5a202a0fb72e96b162	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+75b3e06376152ce2aee9187802dc56e18e35124538faaa9a3a0e2af5bff15912	ThreatFox	2026-10-22	family=unknown_loader | confidence=80% threat=payload
+5ae300101bef874b2d8e9dc927571074d7cd6c706903f4a23d91bf0c2943e256	ThreatFox	2026-10-22	family=unknown_loader | confidence=85% threat=payload
+e99eac771ec345bbfc58dc1a478f9dc35462b9ff25b13d0f90e5b4da13862b98	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+1395c4bcf3a5c6f4a1fe355f927fc98434988ca7b038dc34af68432fccad537d	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+b43b1874718a5e3c030257b73863d87b5359fa7fc4b1a73c34d1eb192378b89d	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+7036d7b4c07f797bf8827a86ec369d168525f3a7acb96e2e61143149de0aecd5	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+6de646846c52db8f1fb2bf715e8c20625e95665cfbd54c152400a1e4fd2df1be	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+043e40522f0f68df2c7ee48a734f244d599870af08a022fa1582d8484f3755ae	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+96678ba7768e8bfca31c20a6a818110adfbd91db7a456d4c7446030067ee9a82	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+8f4a788291f211400a091756f38b8614aca7d30a839aaa1dded58e519e7f55dd	ThreatFox	2026-10-22	family=osx.amos | confidence=100% threat=payload
+64f8a2e463e90c05bfef709f4747224b39d0b69461a6fe646f1da9d4f509df9e	MalwareBazaar	2026-10-23	family=AokigaharaStealer | filetype=exe md5=2a99e44e9284d40657818571464ea5b0 sha1=6af54884b79e3677a956eb4e21b4a98319b6b895
+9ba0ffb9e9cc6c0001239d647f5e5a5a7f22d162798c8312fc65e31cf55ce7ca	MalwareBazaar	2026-10-23	family=Adware.OfferCore | filetype=exe md5=ecb20bf55b95b24664cb83d9a15b9c97 sha1=2f96166fb355b92e4358bee0dd191b46501b1a70
+677b6c7d9a094c40c57ec2c77a07bbb9f992eb9850c24c6f4fc037152aeb8f31	MalwareBazaar	2026-10-23	family=SalatStealer | filetype=exe md5=cb099db86f0fe8e7f8109d911e96a9e8 sha1=2e5dcd4166092a097acb5053e35c1c2e9086f0f2
+d63bcebff095babf029f77d80797984c73ba3ba7ab071b1fe43640d29bc249f6	MalwareBazaar	2026-10-23	family=Mirai | filetype=elf md5=09b36e7f560b8a3c7cd9bb64c350ecb5 sha1=ccce7b9cfaa465afb3941db5ea76a0bd7ce4862c
+d41653b6ed41c5626788ec35917cc812b703d4559bb133a6b3f22e37a70002fa	MalwareBazaar	2026-10-23	family=Mirai | filetype=elf md5=8ad2edade7992a9360d2b653d3b8d737 sha1=e4829e3e0254d187345a568add0e009684de4c59
+b6aec7e19e75aa2c85670ff8ded4bf2ab407dd8272416bb1d8d9cdbadf310e2e	MalwareBazaar	2026-10-23	family=Mirai | filetype=elf md5=c6aeaf8d1ff832e32817185279e9c06c sha1=9e5dde52fe1a8f6bf6e7c1efb7c5abb0b05499b6
+5f4b862ec05beb9df7363bbf3fc06adac31045759fd80126c6431b7ab4cb60b0	MalwareBazaar	2026-10-23	family=Mirai | filetype=elf md5=43bd2d70cc6037ade6b3f91e83d992c9 sha1=c08aeec075bbc21b3195c415967be08e28978a3e
+4b49891a0209264ea901a5b024f30a21af5f0a6a65d2355d8df7de81bda9abd6	MalwareBazaar	2026-10-23	family=Mirai | filetype=elf md5=18f3b7b87f5d1244c2beeef69e9b48c8 sha1=c9c62449005740177125cc82c56e7d1705b650a8
+af8a983b9ada07eae1259bf2953abd40	OTX	2026-10-22	family=BlackX | pulse='New BlackX UEFI bootkit exploiting Baton Drop' pulse_id=6ad9df071ab39972490f947b
+0bcdf5e0da32d68900b8b7638459d072	OTX	2026-10-22	family=BlackX | pulse='New BlackX UEFI bootkit exploiting Baton Drop' pulse_id=6ad9df071ab39972490f947b
+beddb5ac8fcda64639552c0068a38f49d3c29cf2	OTX	2026-10-22	family=BlackX | pulse='New BlackX UEFI bootkit exploiting Baton Drop' pulse_id=6ad9df071ab39972490f947b
+8938d65e9335e8e41db44d35d5fed68d2cd7b7041cc8f5fda5dcb5ef0922b89c	OTX	2026-10-22	family=BlackX | pulse='New BlackX UEFI bootkit exploiting Baton Drop' pulse_id=6ad9df071ab39972490f947b
+7f191632e7320705d154b85204f1ae546b543acbd7e8861229b76f5042b92bdb	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+84dc8c82c0a4a4a62552ef826b49fcc86d1a5c4a5d0f2c06665723f93d129d7d	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+9dd0a3926f96a37eb86cf1ee2310d9be93139cc4ebef3ef9e2efe9531390be25	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+03ac2a8b752605d1d7710979c17ff18b03dd978203ba23ba97fd8ce3d6f897ea	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+34bef04fe88ac9d0aae0475630b1738681d15b94f233ac8aa46eacf5968305fa	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+b6122440d0d9cb1eb1ade9933f49214da8c31288de7710c076c2680dfa528465	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+7598727f209d717041db37f7dca271d3a7d328a279890e0e1d55375729aeb86d	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+0aaf7ba346d41ef2f40390436738b001180d5a1c03aa093f121078a9969d9a1a	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+668169d35b87bf51324080390b1b1c5ab12bd335cfe5f1a99e3689abd5e02ae6	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+462d0c9f67ca522d9e0e4acd245e90b36ce0d5353604a66bb7c43a1ec4a6fcf7	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+c2e32d0ce2548aa662c18bf5001911a79fe5b30cf8357132275add02fdcde054	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+1bbce8caa94f01c0aaa0b7ddae51553a8a32e1ce53d96d44fe583272aff7ad00	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+12d4ccc5c6f8d35cf4f2cf233b7f3e418e863e657d81ff5f5fc9e210005b9484	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+bd1aeee419ea36da9aa2b657288da4101887be468f020ac63d22ba6ed84a3ea5	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+1bbcb1443bc962e45f5aad53fe3d2c30600e0379715fb6c664cdd3ac126c339e	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+56b74573eed6e4aafe4b50603dbe7853e0345f188c8e44a09f1098caf1f4bcdf	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+a898fd08ad220fed52488906eb45d196f332b972ad5d85214e7726545ecc4218	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+20535d8fa11f786a6c24df7488a0e449ed5f09ad	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+783c43bc455d2e05d3cfaf194c2f325cfeab1433	OTX	2026-10-21	family=privcollect | pulse='LiteLLM PyPI Package and Docker Images Compromised to Steal Cloud and AI Credentials' pulse_id=6ad91a62b48f2e8558fd4787
+1485e14e0f62bc94664eec341cabd275dad7d30b1d496c40ec340c9a0d9f0ba8	OTX	2026-10-21	family=remote code execution | pulse='PHP2Shell Vulnerabilities: CVE-2026-109618 and CVE-2026-109619' pulse_id=6ad91a624dfadf973556516c
+150ae88f0999032e2a6113501d6082f54a3ed98d02427b21a96e773a27d7bf16	OTX	2026-10-21	family=remote code execution | pulse='PHP2Shell Vulnerabilities: CVE-2026-109618 and CVE-2026-109619' pulse_id=6ad91a624dfadf973556516c
+27d926a6708d6769d97d065e7a5a860ab496eab272c03d1cebc55ec71b954fa2	OTX	2026-10-21	family=remote code execution | pulse='PHP2Shell Vulnerabilities: CVE-2026-109618 and CVE-2026-109619' pulse_id=6ad91a624dfadf973556516c
+40caf199ca1ebe056a74427f8e9db06c66899e33ae09c0ec2769ec70bf6dd8e7	OTX	2026-10-21	family=remote code execution | pulse='PHP2Shell Vulnerabilities: CVE-2026-109618 and CVE-2026-109619' pulse_id=6ad91a624dfadf973556516c
+70f28e18e7f4083cd542e6bff6b2682f3876c5ef4bcf4323aa22a6d03d4a8a82	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+7ad718a530a2913f775e62c656060af79ffde5c1f2c04138bcc068142f162a20	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+4286e7035096d002a0f90aca19b93504d7c69354cf0c76eb8b3c93bae2b7885a	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+ffca6aa96572743200f9f0040a3e435766f6d7c15d6a4c72045a0cbb4db72eb4	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+0ae4447d755593ee1931170d4187a07a29bf0690179acc39b7400a4c65cd07c5	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+14b711bd51096796ac6b38c30e3cced197831092956a4c6ff8d1f5ebb4432212	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+ec4ba1d570601eaa1474ab7cfffafcff218a717e44e8d2d22ed0573676b0463e	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+ca02f60942a43d8f8b973baa3231df1f8c26328750baa2ed8d4cf07335084ebb	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+ffd47c59a9960a293002c4fff481f613892599191356589eb7b6950ef7465918	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+16c3366c6a65802abc37874d250fa23e	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+548f90dd4c3d21b5c0c2af73774ae2ab	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+56542d2d190e7025f9eb9e5086c08b3b	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+66d290b4024a8eea4c097bc2e594a35b	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+84ace3d1da43a16cbb0c615ad10ce64b	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+b1db7f9845901a2451366177b6dd9805	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+c8426598f512934cd1c730452a24217b	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+cf434858f1ffbe652616b4db2138c52e	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+e775ad103decbc903ba03c0b65ae7e75	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+2470655619454d70222ca9369d16dd975a9cd840	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+2f769d3d79a5fcfcfa2ec7fdf7279102f271e741	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+69a26acfec69f177c0cfed77abf7d80f315c352e	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+9164d980b060efc041b00ac3b84f3700297ca914	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+afc540179dfe3fec6c16ce6c9121ad496ee09342	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+c5108cf0060df9d922ace04b1893dd031fc3bd50	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+c7249f28dbf15d7f73fc9acbb2a105ba55f64053	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+d6831ac93b8059a007dd38f3d1494e3bf4b72b17	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+f9dc6467bed6954c76ecd237e1595cd106ede01a	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+39c4decc4881ec02a47cd01c0fd8c3030527b466124ad03c6f99cfaa0ba0b72e	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+6f5d18157425aa9697913ae1310f588f	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+bfd864ec0e6bd912f932e4f3ed80687736ee16e8	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+032473db4d66748eab524effe57a661d	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+0dc1af7cfd336a7f075228defc730082	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+13367fbba4344de87de418ab17de76f0	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+197f2621c80da7974c56d2ff1921e994	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+20dc8f1b8a313336c14e03bcb71ff6c8	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+5318f29ef434341d989d543b14fd2a48	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+6546801898d0b32f5050f49c5302f0366d630cc9	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+b39cf70a0194d32e00d7812c29ae1d6add77b823	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+b686a811ad89671fbdb448d65f79488d2e562265	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+e2c96e603323d8fc7c08678b793d56554faa6914	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+e47a2b7ca6a8c009962871dbb667d128ad6b6162	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+f05daaf66b200672d679a5ced8b67d4b48a4906e	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+158215c7371e868f3d0c7fd2e92f05026a8678a3635629d89bd6042ee543278a	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+1d1b76d30a69aa39b224053481483156f82dde026edd6f5d964f6e03f5f04a6d	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+4db6bea4c1e4bce5020039def4087a073f4753a6b297b2832c19c10423ac842d	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+552d0096f60c36a35c6096b3e4b38d743c29f8c56f3862fa3b7ef06c932e2a21	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+808145ec3351569083fda27a910ebdf9e054e8ca42e40c021af5d6712c2ab87c	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+f9e95af4cda14dd5596c452a1a698f60412a7b2a9540321ee2a10b3bcbbd2a0e	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+2bb937c7eac0843313ee402735768e25	OTX	2026-10-21	family=Doina | pulse='Amazon-Themed ClickFix Campaign Serves Up Finger-Licking Malware' pulse_id=6ad8d87ee8e0fe132bce49d2
+923db163b89884e3f371cf322ee1a071515e2477	OTX	2026-10-21	family=Doina | pulse='Amazon-Themed ClickFix Campaign Serves Up Finger-Licking Malware' pulse_id=6ad8d87ee8e0fe132bce49d2
+035d396b3a329f59d680dc36a0a639eb7fb306bea97e42f5f53293dce817e8b7	OTX	2026-10-21	family=Doina | pulse='Amazon-Themed ClickFix Campaign Serves Up Finger-Licking Malware' pulse_id=6ad8d87ee8e0fe132bce49d2
+24a293a662600b2292d9259baebba1c09b41df82a5c9c20f8572625ae759696f	OTX	2026-10-21	family=Doina | pulse='Amazon-Themed ClickFix Campaign Serves Up Finger-Licking Malware' pulse_id=6ad8d87ee8e0fe132bce49d2
+408b7fc4f08f2a9044046025f05995e8cbd5c96c39844aaa8a7eb8ee4697ea89	OTX	2026-10-21	family=Doina | pulse='Amazon-Themed ClickFix Campaign Serves Up Finger-Licking Malware' pulse_id=6ad8d87ee8e0fe132bce49d2
+42527a4388ef4ade6f4eaf52706f0ab31cb4e9ced3a56a6b15402551f9f01208	OTX	2026-10-21	family=Doina | pulse='Amazon-Themed ClickFix Campaign Serves Up Finger-Licking Malware' pulse_id=6ad8d87ee8e0fe132bce49d2
+87a047160eb1a9b92e6ede511252dfc624b0f5a7185ac2cec1c7ebde8cdf4eea	OTX	2026-10-21	family=Doina | pulse='Amazon-Themed ClickFix Campaign Serves Up Finger-Licking Malware' pulse_id=6ad8d87ee8e0fe132bce49d2
+891cc3ca2d29e9b185a8913e93810f48859d2be1f23ddd977a15cdbeed509e0e	OTX	2026-10-21	family=Doina | pulse='Amazon-Themed ClickFix Campaign Serves Up Finger-Licking Malware' pulse_id=6ad8d87ee8e0fe132bce49d2
+b8419a676a3d4af04ea98287a2b85052fae5c06e6278ca9d8bfa4b5b396b39a6	OTX	2026-10-21	family=Doina | pulse='Amazon-Themed ClickFix Campaign Serves Up Finger-Licking Malware' pulse_id=6ad8d87ee8e0fe132bce49d2
+bc9e2dac08fb4f83dddb44f89bf7082bb4134697fbf6a99ad8ce30c634e9fe8a	OTX	2026-10-21	family=Doina | pulse='Amazon-Themed ClickFix Campaign Serves Up Finger-Licking Malware' pulse_id=6ad8d87ee8e0fe132bce49d2
+d864b28c302db9ed10baf8def0fb26bac0b97d27349d22c4e9390d30fce54649	OTX	2026-10-21	family=Doina | pulse='Amazon-Themed ClickFix Campaign Serves Up Finger-Licking Malware' pulse_id=6ad8d87ee8e0fe132bce49d2
+8846f7eaee8fb117ad06bdd830b7586c	OTX	2026-10-21	family=bluehammer | pulse='The Science of Exploitability: Decoding BlueHammer' pulse_id=6ad8d885956829eafc1fa8d1
+f4ffef4204880031a6a532ff5c1b5686e6a301c365f492071c1d462fa5b6b4a0	OTX	2026-10-21	family=bluehammer | pulse='The Science of Exploitability: Decoding BlueHammer' pulse_id=6ad8d885956829eafc1fa8d1
+b720a5e7c3a5b1760d15a8833a782f4fe7fc5c62b967fe57f607e72745ec0ccf	OTX	2026-10-21	family=XMRig | pulse='Autonomous LLMjacking: 'Skynet' Agent Hijacks Exposed AI Models to Run Attacks' pulse_id=6ad8968ddeccc0f490a19622
+fcde1323acceb46fd88f2276c010bb98839dccce03dc512c56d9529428ceec68	OTX	2026-10-21	family=XMRig | pulse='Autonomous LLMjacking: 'Skynet' Agent Hijacks Exposed AI Models to Run Attacks' pulse_id=6ad8968ddeccc0f490a19622

@@ -1,0 +1,30 @@
+title: Network Connection to Php2Shell Infrastructure
+id: 632c2510-86cb-4c1a-a93c-b7a1fee668f8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Php2Shell.
+date: 2026-10-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cve-2026-109618
+    - cve-2026-109619
+    - malware.php2shell
+    - php2shell
+    - remote code execution
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '187.15.88.186'
+        - '187.15.90.217'
+        - '187.15.89.186'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

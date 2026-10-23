@@ -1,0 +1,35 @@
+title: DNS Query to Doina Domains
+id: d1dda7f0-cabc-4201-a316-6c4442af196e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Doina.
+date: 2026-10-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - doina
+    - finger utility
+    - lumma stealer
+    - malware.doina
+    - netsupport client
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'grillmasterchef.com'
+        - 'grillrecipespro.com'
+        - 'homelygrill.com'
+        - 'kiriosyka.com'
+        - 'liokida.com'
+        - 'perfectgrillrecipes.com'
+        - 'thegrilljournal.com'
+        - 'orders-amazon-com.advancedfences.com'
+        - 'orders-amazon.com.advancedfences.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,30 @@
+title: Network Connection to Remote Code Execution Infrastructure
+id: a750aeab-7d19-4cca-adf9-e713963b85ad
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Remote Code Execution.
+date: 2026-10-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cve-2026-109618
+    - cve-2026-109619
+    - exploitation attempts
+    - internet scanning
+    - malware.remote_code_execution
+    - php2shell
+    - remote code execution
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '221.14.159.134'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

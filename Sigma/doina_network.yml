@@ -1,0 +1,39 @@
+title: Network Connection to Doina Infrastructure
+id: eae43891-1d50-4fcc-938e-75ecb62e2b75
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Doina.
+date: 2026-10-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - doina
+    - finger utility
+    - lumma stealer
+    - malware.doina
+    - netsupport client
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'grillmasterchef.com'
+        - 'grillrecipespro.com'
+        - 'homelygrill.com'
+        - 'kiriosyka.com'
+        - 'liokida.com'
+        - 'perfectgrillrecipes.com'
+        - 'thegrilljournal.com'
+        - 'orders-amazon-com.advancedfences.com'
+        - 'orders-amazon.com.advancedfences.com'
+        DestinationIp|contains:
+        - '167.148.201.106'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,32 @@
+title: Network Connection to Github Oauth Tokens Infrastructure
+id: e46e9106-ce56-42c1-a03f-103918273e6e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Github Oauth Tokens.
+date: 2026-10-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - docker images
+    - github oauth tokens
+    - infostealer
+    - litellm
+    - malware.github_oauth_tokens
+    - pypi compromise
+    - python
+    - supply chain attack
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'litellm.dev'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

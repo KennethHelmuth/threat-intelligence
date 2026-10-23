@@ -1,0 +1,45 @@
+title: DNS Query to Inc Ransomware Domains
+id: c8a7d599-64c6-4e19-b4da-30a36fd3a0f0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Inc Ransomware.
+date: 2026-10-23
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-driven operations
+    - athena
+    - bloodhound
+    - chisel
+    - ghost c2
+    - inc ransomware
+    - ligolo-ng
+    - malware.inc_ransomware
+    - netexec
+    - phantom
+    - phantom framework
+    - quickline
+    - ransomware-as-a-service
+    - revsocks
+    - simplehelp
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'bossprotect.com'
+        - 'system-strategy.org'
+        - 'iquickline.com'
+        - 'mcgrawney.com'
+        - 'stackpathcloud.com'
+        - 'cloud-update.live'
+        - 'trulitesupport.com'
+        - 'incblog4uttkxd6b4grii6k2qcj2tn5k37seep5xto3dlghyqla7u7qd.onion'
+        - 'incadmd42ytgp4hwkejirji4m6pcbacazoeic7fc5sd27nr7it5ajyqd.onion'
+        - 'z26qmezqaixjp3k6spvdpool4us6m3ei453f7wgl7gouojmp2ttkdgad.onion'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

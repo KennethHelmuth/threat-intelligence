@@ -14364,3 +14364,59 @@
 31.77.220.141	OTX	2026-10-20	family=cve-2021-41987 | pulse='Ukraine's State Data-Exchange System Targeted by Russian-Speaking Operator via Graylog Log4Shell' pulse_id=6ad791051c8d94c4c32e8ad7
 212.73.134.136	OTX	2026-10-21	family=gcp compromise | pulse='From Phishing to LLMjacking: Threat Actors Targeting Cloud Billing Accounts for LLM Usage' pulse_id=6ad81ada1b040cdb328c726b
 2.5.30.112	OTX	2026-10-21	family=The Gentlemen | pulse='The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation' pulse_id=6ad859c8c552c00c64877692
+38.190.224.38:443	ThreatFox	2026-10-23	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+203.195.243.103:80	ThreatFox	2026-10-23	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.121:8877	ThreatFox	2026-10-23	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.103:8877	ThreatFox	2026-10-23	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.106:8877	ThreatFox	2026-10-23	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.12:8877	ThreatFox	2026-10-23	family=win.vshell | confidence=100% threat=botnet_cc
+206.123.137.134:56090	ThreatFox	2026-10-23	family=win.remcos | confidence=100% threat=botnet_cc
+85.215.73.250:8080	ThreatFox	2026-10-23	family=elf.mirai | confidence=75% threat=botnet_cc
+156.240.41.73:8877	ThreatFox	2026-10-23	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.76:8877	ThreatFox	2026-10-23	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.64:8877	ThreatFox	2026-10-23	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.7:8877	ThreatFox	2026-10-23	family=win.vshell | confidence=100% threat=botnet_cc
+130.12.46.145:46787	ThreatFox	2026-10-23	family=elf.mirai | confidence=100% threat=botnet_cc
+156.240.41.56:8877	ThreatFox	2026-10-23	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.33:8877	ThreatFox	2026-10-23	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.30:8877	ThreatFox	2026-10-23	family=win.vshell | confidence=100% threat=botnet_cc
+123.123.74.83:8085	ThreatFox	2026-10-23	family=win.vshell | confidence=100% threat=botnet_cc
+103.242.12.143:10100	ThreatFox	2026-10-23	family=win.vshell | confidence=100% threat=botnet_cc
+43.136.40.48:80	ThreatFox	2026-10-23	family=win.vshell | confidence=100% threat=botnet_cc
+64.204.180.86:443	ThreatFox	2026-10-23	family=unknown_stealer | confidence=100% threat=payload_delivery
+39.106.251.194:20000	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+64.176.37.39:8084	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+156.240.41.116:8877	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+47.98.207.191:20000	ThreatFox	2026-10-22	family=win.vshell | confidence=100% threat=botnet_cc
+187.15.88.186	OTX	2026-10-22	family=php2shell | pulse='Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot' pulse_id=6ad9eb3e5a8fa9121e8ab038
+187.15.90.217	OTX	2026-10-22	family=php2shell | pulse='Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot' pulse_id=6ad9eb3e5a8fa9121e8ab038
+187.15.89.186	OTX	2026-10-22	family=php2shell | pulse='Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot' pulse_id=6ad9eb3e5a8fa9121e8ab038
+221.14.159.134	OTX	2026-10-21	family=remote code execution | pulse='PHP2Shell Vulnerabilities: CVE-2026-109618 and CVE-2026-109619' pulse_id=6ad91a624dfadf973556516c
+45.227.254.43	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+45.227.254.45	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+138.124.113.210	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+89.185.83.8	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+45.227.254.84	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+179.60.149.68	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+77.110.109.248	OTX	2026-10-22	family=INC Ransomware | pulse='INC and The Gentlemen Ransomware: Exposed AI Infrastructure' pulse_id=6ad8db024c84442cd0085496
+62.60.131.43	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+193.149.187.81	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+193.169.194.21	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+193.24.123.162	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+162.33.178.213	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+162.33.179.249	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+168.100.11.99	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+193.149.176.50	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+62.60.135.64	OTX	2026-10-21	family=AdaptixC2 | pulse='Stray Cat, Open Doors: How k0t Wanders Through the Network Edge' pulse_id=6ad8d8853d4b5de3946bd006
+167.148.201.106	OTX	2026-10-21	family=Doina | pulse='Amazon-Themed ClickFix Campaign Serves Up Finger-Licking Malware' pulse_id=6ad8d87ee8e0fe132bce49d2
+104.238.38.202	OTX	2026-10-21	family=ai-enabled attacks | pulse='"Next Exploit Opportunities": How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities' pulse_id=6ad8d884cb22f07021380605
+118.26.36.16	OTX	2026-10-22	family=ai-assisted attacks | pulse='Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques' pulse_id=6ad8969bac267e8087601c01
+210.149.87.120	OTX	2026-10-21	family=ai-assisted attacks | pulse='Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques' pulse_id=6ad8969bac267e8087601c01
+69.10.51.162	OTX	2026-10-22	family=ai-assisted attacks | pulse='Recent AI-Assisted Cyber Attacks in Japan: Investigating Attack Infrastructure and Techniques' pulse_id=6ad8969bac267e8087601c01
+86.216.147.228	OTX	2026-10-21	family=XMRig | pulse='Autonomous LLMjacking: 'Skynet' Agent Hijacks Exposed AI Models to Run Attacks' pulse_id=6ad8968ddeccc0f490a19622
+23.248.226.250	OTX	2026-10-22	family=ARTEX | pulse='Inside a Global AI-Assisted Hacking Campaign' pulse_id=6ad964720fdac83866db4a7d
+23.248.226.252	OTX	2026-10-22	family=ARTEX | pulse='Inside a Global AI-Assisted Hacking Campaign' pulse_id=6ad964720fdac83866db4a7d
+161.8.161.140	OTX	2026-10-22	family=ARTEX | pulse='Inside a Global AI-Assisted Hacking Campaign' pulse_id=6ad964720fdac83866db4a7d
+23.248.226.251	OTX	2026-10-22	family=ARTEX | pulse='Inside a Global AI-Assisted Hacking Campaign' pulse_id=6ad964720fdac83866db4a7d
+23.248.226.253	OTX	2026-10-22	family=ARTEX | pulse='Inside a Global AI-Assisted Hacking Campaign' pulse_id=6ad964720fdac83866db4a7d
+23.248.226.254	OTX	2026-10-22	family=ARTEX | pulse='Inside a Global AI-Assisted Hacking Campaign' pulse_id=6ad964720fdac83866db4a7d
