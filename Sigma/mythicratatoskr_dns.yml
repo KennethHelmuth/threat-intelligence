@@ -1,0 +1,46 @@
+title: DNS Query to Mythicratatoskr Domains
+id: 343c0913-c892-429e-8ff4-07c23ed68b61
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Mythicratatoskr.
+date: 2026-10-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.mythicratatoskr
+    - matchboil
+    - mythicratatoskr
+    - sdelete
+    - yggdrasil
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'egyptanimals.com'
+        - 'uztickets.com'
+        - 'adomd.net'
+        - 'sysop.link'
+        - '0.ygg.l1qu1d.net'
+        - 'b.ygg.yt'
+        - 'bode.theender.net'
+        - 'g.ygg.yt'
+        - 'helium.avevad.com'
+        - 'london.sabretruth.org'
+        - 'mlupo.duckdns.org'
+        - 'n.ygg.yt'
+        - 's2.i2pd.xyz'
+        - 'spain.magicum.net'
+        - 'srl.newsdeef.eu'
+        - 'sto01.yggdrasil.hosted-by.skhron.eu'
+        - 'vpn.ltha.de'
+        - 'y.zbin.eu'
+        - 'ygg-nl.incognet.io'
+        - 'yggdrasil.neilalexander.dev'
+        - 'yggdrasil.sunsung.fun'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

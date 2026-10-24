@@ -1,0 +1,33 @@
+title: DNS Query to Sharepoint-Impersonation Domains
+id: bab71c77-f224-4128-b71c-e00513e6960f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Sharepoint-Impersonation.
+date: 2026-10-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - docusign-impersonation
+    - malware.sharepoint_impersonation
+    - phishing
+    - sharepoint-impersonation
+    - social-engineering
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'rsfashionsdesignbd.com'
+        - 'bvlbetonvloeren.be'
+        - 'englaus.sbs'
+        - 'tropical100.com.do'
+        - 'eigapub.com'
+        - 'comet.kickcharge.com'
+        - 'login.yhoodgc.top'
+        - 'outstandinginvoicefollowup.canterburyhortlculture.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,76 @@
+title: Network Connection to Siriusqt Infrastructure
+id: b6240f77-4bc8-464b-89cd-aad50b4c9d85
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Siriusqt.
+date: 2026-10-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - asyncrat
+    - btmob
+    - hvnc
+    - malware.siriusqt
+    - netwire
+    - njrat
+    - quasarrat
+    - redline stealer
+    - remcos
+    - siriusqt
+    - xworm
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'crax.pro'
+        - 'xweb.ddns.net'
+        - 'tcp.cloudpub.ru'
+        - 'afxwd.ddns.net'
+        - 'nanejaojmnas.duckdns.org'
+        - 'surveillance.1qq.cam'
+        - 'sirius.surpasstools.com'
+        - 'vmobqlunsw.localto.net'
+        - 'ixcube.ddns.net'
+        - 'directindustry.duckdns.org'
+        - 'server.activeworkshops.com'
+        - 'serios.ydns.eu'
+        DestinationIp|contains:
+        - '193.161.193.99'
+        - '5.181.80.130'
+        - '185.69.122.235'
+        - '185.182.65.150'
+        - '185.196.8.145'
+        - '23.160.168.174'
+        - '196.251.107.104'
+        - '95.31.217.8'
+        - '178.16.55.23'
+        - '195.226.92.129'
+        - '77.91.65.188'
+        - '38.240.51.74'
+        - '109.242.9.165'
+        - '80.234.41.242'
+        - '151.243.109.130'
+        - '38.240.51.143'
+        - '162.217.248.219'
+        - '160.191.50.145'
+        - '155.103.71.146'
+        - '24.157.199.215'
+        - '209.99.187.200'
+        - '135.136.141.43'
+        - '194.156.79.168'
+        - '133.18.107.191'
+        - '104.239.66.128'
+        - '194.156.79.151'
+        - '45.7.228.152'
+        - '64.89.160.4'
+        - '194.156.79.203'
+        - '31.40.204.71'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

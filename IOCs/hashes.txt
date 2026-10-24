@@ -21645,3 +21645,467 @@ d864b28c302db9ed10baf8def0fb26bac0b97d27349d22c4e9390d30fce54649	OTX	2026-10-21	
 f4ffef4204880031a6a532ff5c1b5686e6a301c365f492071c1d462fa5b6b4a0	OTX	2026-10-21	family=bluehammer | pulse='The Science of Exploitability: Decoding BlueHammer' pulse_id=6ad8d885956829eafc1fa8d1
 b720a5e7c3a5b1760d15a8833a782f4fe7fc5c62b967fe57f607e72745ec0ccf	OTX	2026-10-21	family=XMRig | pulse='Autonomous LLMjacking: 'Skynet' Agent Hijacks Exposed AI Models to Run Attacks' pulse_id=6ad8968ddeccc0f490a19622
 fcde1323acceb46fd88f2276c010bb98839dccce03dc512c56d9529428ceec68	OTX	2026-10-21	family=XMRig | pulse='Autonomous LLMjacking: 'Skynet' Agent Hijacks Exposed AI Models to Run Attacks' pulse_id=6ad8968ddeccc0f490a19622
+4b731cca640b219d28fb2cfba1cc043a5f3085a6ae709dd7009e43682c7cd8c5	ThreatFox	2026-10-23	family=unknown | confidence=100% threat=payload | vt=10/75
+b37e4246cd4caa04dbf12d5790ae787879b9ca2868bc36555994519ea7a11cb4	ThreatFox	2026-10-23	family=unknown | confidence=100% threat=payload | vt=26/75
+7bc41ed79a9ae909927a9e40701736460a8cb70fca16ce1510e58677aca764b6	ThreatFox	2026-10-23	family=win.mirai | confidence=50% threat=payload
+a56f66cc45cd083ffe7ed8f4acb19b3ced3c17c699c32c06ea8d53337fe8c0c2	MalwareBazaar	2026-10-24	filetype=elf md5=4a6d7958a03e265cbf4271a5111c8195 sha1=7d25dec6dc3faffba9819efa7e23d4f448aad07e | vt=26/75
+2be0cf0161e40183c978b28bf20159a51cb77bec532bf0dd49c01572f4c7302d	MalwareBazaar	2026-10-24	filetype=elf md5=81ce3645e577572099f2343a597ed2c0 sha1=0b75703934f99f5b0527b3bb46a8c5e4bd4e81ba | vt=11/75
+b1bf43f0327f500bc47e62f42630137cd85f0af715efce69a5700cbda7d870e7	MalwareBazaar	2026-10-24	filetype=elf md5=09617212d5cde5d840d860b9604a438e sha1=c300b3bd27aa646188e0a1922f54a9287ab64803 | vt=0/75
+d8237ecddca7ca8ef2b555455c6455d51e5a1cfec330bfb10771a2a4b674d026	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+296d5c15ea6bbefa10b28d01f7b2ed774cf0539d563dc2cad9089d7758e12681	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+8c75138d5a49da7a51071368f2db38fc8626f277db647e6e48c4040b15e4757b	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+86c361f8b576d4db3fc5248ae5f5658d4982f59696a65bb23ac86e8957c92fde	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+7a60d7d01c08f0ecd3fed0fdb215440caed0e4ecc4caa69e46a9dcbc4f7cb585	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+a88a0ac96323389c6d2a09992863c84a00893c72223c66ec091e5b3b6adbac77	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+6103dcb39b6c5119bb257073de64149766fe3359323f9bf6f714f5ef714cc14c	ThreatFox	2026-10-24	family=elf.mirai | confidence=100% threat=payload
+f3edc42211737a96b81499f494f8d3603fde011b0959824780ebfa77a90ae736	ThreatFox	2026-10-24	family=elf.mirai | confidence=100% threat=payload
+f0c49d9a504002a1305b4d79e5f427c813355ff92536429d8ce0819f773fabe9	ThreatFox	2026-10-24	family=elf.mirai | confidence=100% threat=payload
+226bd33caa93d3ed07e70f229d58188caa10caa369cf9d1fbcc3af2842b3c5b5	ThreatFox	2026-10-24	family=elf.mirai | confidence=100% threat=payload
+9aba42d500b0941aad7bb39b5423e89311a6a8639ba6e3be1648bf7b0f28a775	ThreatFox	2026-10-24	family=elf.mirai | confidence=100% threat=payload
+f33315034a41f4a2ccb4d2d8db4694cb389ea78865da530e12f633cd4ba90649	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+6edd60f9d0d9b527c767030d90e2436126ca38968347a312043e84f88379466a	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+17294f32056bf3c59c9f60b19003fa824ba329347d47bc58f876ae5beea547b3	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+0c5bec568f14471bfb483873887c0321855c3c2c466fc9ee62ca77dc8d42b613	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+86424a27508f3df6facef637086d3ab4478a51d4fdeea9c00813647598680edd	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+73d0a9fc0668fcf2b32aacedaa417c3a460285f3a89a9781e0c22b0109be69e3	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+dad7961f1c9be745f7b0ac7a2945d8930b15df09ee4f2a77ca6a3da229702235	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+8b64ad25042574b5acf7a26a45a0d9f016910475cfddcabbc08332e88048f2b1	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+e8507b262041394a064d4a6472626649548a8688564b648ccb2e0df3f69e73e1	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+e99ec41a00cf5a9ef426751f9a700cec8403a643b9061d3b8276fcf3b033e08c	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+b392d9223d7f2202283cd9df1d69422d135a48cb34a31b26f21013fc2077b418	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+88c027ae91e1515064ccc75f6714ec326b5c3f3cc8266af841884b905df0f818	ThreatFox	2026-10-24	family=win.smartloader | confidence=85% threat=payload
+0f832acaae076974077a8a2b072a74ea70c441105ed560b625ca593a37de3d05	ThreatFox	2026-10-24	family=elf.mirai | confidence=100% threat=payload
+91015a7c0e203d60cee50a6775c2b8f59c1c49dc2d95390767f1d278bb6a9eca	ThreatFox	2026-10-24	family=elf.mirai | confidence=100% threat=payload
+ef67a672ece71861f810bdff3e9bdbf5bc14daa347861bed3ce1d1dddb68031c	ThreatFox	2026-10-24	family=win.babar | confidence=85% threat=payload
+97fdba0b9d0588d25db1b9c252e5154177fa1471abe35e947858ca0d82afcde7	ThreatFox	2026-10-24	family=elf.mirai | confidence=100% threat=payload
+e2ea41d1deab665e2f47974523d7d88f1496a24080fadeba706388d310148022	ThreatFox	2026-10-24	family=elf.mirai | confidence=100% threat=payload
+b1332b2c5de9f56d125cb23606a44b82d51250b5c0e199b6ade154681bb8197e	ThreatFox	2026-10-24	family=osx.amos | confidence=95% threat=payload
+3fd3d9b3bf908d6f1dfebaf7941d6456a9efcd4a43a1323a51c569e2313e8196	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+1bee314e512870b9f7767ab4381796fed5a97e0048334df7aaa00a08e353e4e1	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+a206e9f8a35bd9ace0304030724eff1f88c8fca08a4840245808d9e3abf879cc	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+2569261e1a8c5c88eeb39a4d104e1e1be59068faf62d08e3505712576988ee07	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+1da897638c00736cde7e5d994224f1d27d512384dd9c212b7054c237fa4104af	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+6cb232fc685eebbe73384171245579df72e9b53ba13462dfb4502c6ba8b55ce8	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+472e364d90ae1a2bfcc6fee7d546544aa0b3de88f65a8d3e3e4e7672e6a2478e	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+a5f63d9cbe2ec7d1af24aea3e3d85f2112c2783a9e11e29e40084ffed1ac1acf	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+66aa7604b1b4827959dbeb5383be419bf42e09d673627853399c381ac3e70ad2	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+9522bd15df5cf492b9eed6d9c46f06d6c275e27db6dfca5054299d2b1bcfd383	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+8ab5661da174b877582ebacc55d4698b2b71b3a3198afe746cfcd5adbf4cf1cb	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+9627b0e9001d2f68bb395b0ee034c8cf5547f88b4b64a4b732d6594ea53fcdcf	ThreatFox	2026-10-24	family=unknown_loader | confidence=85% threat=payload
+105424476904699dd218c8a8107c342c870571b48cc6b38029585e8c8b83d3a8	ThreatFox	2026-10-24	family=elf.mirai | confidence=90% threat=payload
+a20170667b22b3776fdcb9098320cc6cb306556d9f8387e5ee11da31ed09643a	ThreatFox	2026-10-24	family=elf.mirai | confidence=100% threat=payload
+2973d2d69a0d9ef0f0da6b285b2bb8bb2d1f6037de85214d9f2510f3329704ef	ThreatFox	2026-10-24	family=elf.mirai | confidence=100% threat=payload
+8112b3afd6d0ec3dc0386078e9b84266a8d0e50db4cc7cd4c57991164451da59	ThreatFox	2026-10-24	family=elf.mirai | confidence=100% threat=payload
+12784917afb2b0f5adafb44b94c3ef3019ccf6a991fcfe9033415bb45a5d931c	ThreatFox	2026-10-24	family=win.salatstealer | confidence=95% threat=payload
+f01781bf62e0a3846c288da5483ace08c63492a632762173f4ba6107799128a6	ThreatFox	2026-10-24	family=win.salatstealer | confidence=95% threat=payload
+79f3a3dd483248bcdd90f6e87ed6c3b38f4332448816cbe955bdb1add4c57ba7	ThreatFox	2026-10-24	family=win.salatstealer | confidence=95% threat=payload
+20e1245cf23bc8d0946dab9b8747dd189acef5cf09546257e7fc298a7c6717fd	ThreatFox	2026-10-24	family=win.salatstealer | confidence=95% threat=payload
+0bde7e85c0d4d2f39996772a6348b1bee4717349afa648a301f182529429c81d	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+fb3a907fa1c573b1d5604fb511c9c9c04d3f8b75bbdacd1402c31b53b5393a23	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+11387a0d240ca6a184d4fd7524e63661012b26a51926ba6562fd7d966ad1b23d	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+d2ec7a876540ce8f4096e004a42db4cb541383a2bd85087169bc96fda4c875db	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+003bcc4fb74050c564d7bcd6246d2ee13d1403eff1bb78cfcfe5945d4f499d67	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+840ebbef896ec2ccff40ce45096b63a6145665244077626d78509d7fdc32f6dd	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+6015a6d3a00d5771932ce7abf625a53c0bc4ba6b2353bd7e033f2434d708fe16	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+0bb6aca14af0fb513500770ca601c5b66e46c47e565f6e87c31f0c293fa8f5e3	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+ff72b39a559646d5a546eba3c939994ce9c3ed28efe200fa7929018c11292dd3	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+5670d4f79411fd5cb2ec03c2b5ed81b44e2b0681a72de5d9ce0de4001066d02a	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+b61faf483a13cc25f7b90129cb7088cd498560a09c1a014b5ca72ab713814352	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
+5b8eb51d5b833816136113ec60eeea9c0167a20d89043ae97d9c60ae153337e6	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+b1b5dd6e77801cd112ec598f32662628664125ff7d008911d3aa75feb09959ed	ThreatFox	2026-10-23	family=elf.mirai | confidence=100% threat=payload
+638fe6527fcaeb06f6199c59c4cdd1a76fe15777951ed9223866655c250f000c	ThreatFox	2026-10-23	family=elf.mirai | confidence=100% threat=payload
+1826b5c073569dba6d64db1bcd72c5777144e85464a30c72417ce19ece8103a2	ThreatFox	2026-10-23	family=elf.mirai | confidence=100% threat=payload
+b5e7c5dfa2888d052a75d93a9dfba6ecfc723670aba1994b6d79feee5af74766	ThreatFox	2026-10-23	family=elf.mirai | confidence=100% threat=payload
+b9c807357b61d627c363ad68aec1233682177061abaf206b73296a2967154925	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+7ce4e354c36cae32448f64ae2683fa5aded7fed95f15074d1b7452f4228f3b76	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+7b97c9978055184ed5e9c67f3d7cbb51ac9b7b8ba420e3cc700f68074103de3b	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+569e67288cb2b6ccf01429605de233905ad9d20b84302b75bd53e71de0605665	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+6263fdd3ffc579838360c0a68b12456bd45199c92d8fb3918bf9e169ac8745b9	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+c15a21e69b3142e50d4e42a4203741d924795b44a6a3907dcaf2a5dec0ae9d77	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+dbc8a0935d6b46e7b7d1f0c503e08aed6a1bfa42fce814544d13b2ba2db2757c	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+25f74177230e051dc6622a424691f85cc8eec8a66a38ee25e57165732cb6ed77	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+583e97200fc110eb65e7ba16cbe94c593b7ab0a21c87b8ac61e08656a8af116a	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+9df9be8bbb587de430026aefdbe30d52f9a886e8e18f32ca204a4920e49e9549	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+f603ab3a140307f8f6f4c73f529e743969a70f9367efefc083118e8de3702c27	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+ff290d19e4052db8b664031aaa873a7266c5391aefbd4204f74f9a88e3b00b08	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+a56ca8d8d4b4f8d99280631393936621bb915abc90b8c2643b03e0369e3e240d	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+6fec84bac0fadb7eb2d3fdb8695b60d9f7171a5fd390ce81f41ca0bba67f9bee	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+e7d85ee98d57b280b6b017e2d5a556341b4b42dc2f2477a977fdaef7d8b24c7c	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+8f31374c7f8d32bf0f9744e4fcc883af7293d52849f61ff87619edbce920d997	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+3b4a7679aaf1d3c69eed8d9a48f4b9092ec77c8abc964a31301449241d6eca3e	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+c53c2733b5238ab1be81e4b039953b10a805da3118ec1ddfbbd7c1d8537dd81f	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+d8f20aa24f77cf775834132036305d13c6115857c80d8e7f24eeafb80c05163f	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+1b302ac2b21c2f21695e2989ddf8d2b30582691880fd935dbd6eec5b35f4ad77	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+a476734473268df632d99b9b12108768b983ca96e624924c7345c6adcc9a76d2	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+b1ba4a08538c018d9ad84617cbdbefb3684111cabd20563d911145028dbaa635	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+5f8ffeeef936272c8fd3922373e7e71dde5279c6f6ddbeff0e47df76015f9e3b	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+31ac82ef49f69f7f2772efb1f8e29fd374bbf09e21e15d6708f52bc497cf5e6f	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+e4771d50991d2f6b74b1a4718be9d1343a0c3cec5d56fbcd2015891c34e0ebe2	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+f0f8af17aac6d83c1b5876b180a75677e130a1dad851c7965f543c1c818b269a	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+7e481bc464442beec22caa8745e760c59354b6d6bf35f13602492df1eb9e502e	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+0da001fb45bfd95bf22ec20b02f85948b9aaf28bde4a13e63c04d04adb3eff23	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+a91554620e9ca25fc024cf20768060da5ccaef1121d1e27230e55a9a1f7624e0	ThreatFox	2026-10-23	family=elf.mirai | confidence=95% threat=payload
+08c4ae2c6060c0714eaff8eee22bcad31c05cc2fa11966efd8da1b916e70f9b7	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+239a7ae7e6c40dce3ef3219a498f245e696e3ffeeae7b166cad5529c2085dd43	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+816e590d1fa76073ffde36b2db9a2a443d1dc78e0b48aa0315073ffb7ac6da4b	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+2c71ca25d4d54d5e75c61f30fdf78568dbd066d38ec970e1fce44c90bb32e05c	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+6929df4cc07a298d0f40465eeabe58a28b85646d2ead5bc090ba5c56026171ac	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+87613d2d37b953049627457b254cbf7cfa48eb171de4be0a5d60b335f5c7b803	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+58342d3672533f91f712794a8252aebdf8e221cb0ec45c2d2668b8cd947b6f8d	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+6c5ca77da71187a3e529139ebc64c031150d5020770b1bb688277e654839c225	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+aeeea08068de2839290f9cb35746268e0d27af2a474f7c0acbaf1c57449f2f35	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+fb940dae06a7245b8cdc9893efd2abefcdc1a39f5a69e3f797edc1a706868c6e	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+3e868befa89ab3148dc90272ee768bff48e0e1a8571c316946c66e3970d42476	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+5987d88469b9eb42c45b99b9ecad9f46e57377640822970c5471a96e10feb601	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+23020783281f255c62f001315bfa335b004b72c27c04dfd1b622c08e72e38599	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+b4f44e380e2565e52ec4a2cd30adbc7cab3276f5f9797e40d253cf64f8f7c7e4	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+5ae6a227ead902c8f46ebae859ea2f0b878fee3d72598df9f3fc36859ae900a2	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+b8ddba517ded94631018d0b877d23fcdc94ea4a2244bb9e3c7795433fd11604a	ThreatFox	2026-10-23	family=win.smartloader | confidence=85% threat=payload
+8062bcfff562323b720cad072760b747abfebdd098177b801686f80ccb39bfb5	ThreatFox	2026-10-23	family=elf.mirai | confidence=100% threat=payload
+9071fb0a61ee1df0b8245e0e15547f35731d6c18328b3d5b2f1165fb605b9f5e	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+3a8d0583c9921b934e576d99b8bd9d84b3b06236a8e7b385b509116656165d56	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+741f9b01aa5db34c0902c7bcd5d86c816c7187aebd4a4d62ef294b42cf16639f	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+22eb5e6d923525964dd1b2216587352bb417dc76b3d42c8d0ac2662c74e91d5d	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+61be5de0fab0ecfc1fb0b97f582001b409c48782ef5a047362c54cfdfe122a3e	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+93c9cd39439f8f93634f6eed49784dffcecd39fd2425ff842cae5ff3a6d0ee93	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+437a1e428bab9dc0a2347db5b1beff72c0632151a1e6e2b3bac08a449f07f615	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+57e8e36a0427c437409ceca50a44df4112765477efe2e3ac0c0729403f02de2f	ThreatFox	2026-10-23	family=elf.mirai | confidence=100% threat=payload
+5f566622b4c9ff9e00d2724cf6815e32ecde34a355cb186daec689860a002630	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+a9c7f305122093584da1be9a0277ed23cc6a0cd93b81b109b6028fea49eded7b	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+d5693b705214498c10e13262dd88024c34e7d3d8f500437f77ca64f17a2be9c2	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+c3448e6d107405774804180e341a50922bc4f2cea445cff59b422957f92ec1f1	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+ff8d62e0dcdcfda8d29f965ed96f9d07b207774e2721f1066179e9a7188fa20f	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+9fc17916b1daf376052c71cfd09df131c72bf8b2690d8f21000373bdeec111a2	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+be556f5ace9052310846cd29c5cd4dad3dc328009f8cf5519e9d5d26101376ac	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+cea730756ef2f2d964c737d4e32f1bf9b606f9834f1f0eb84529d5c1e4e4ce12	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+d6635b968b031cacbc4f9c640d401c21bf3f8c1780643c83d2f1200c5ca0d1c2	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+009bb48ae33043edf54cd84c6ae8e074c3e303e1f9139b3e4842833e415ba922	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+06a2dc91a0375a19587342781d97958e8ac699cdf7325dc69a0694c05d56e661	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+07186145331ea813d189959826ccc9935c8d8f148faa5fbc23a576235ed61eb5	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+86e2c73119d5cb59e7a4e5fecc55a7539695c4cad0212c1a026fa6578b79176d	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+065db2aaa3728200a9a4a77836efe6b298f278ada48f85bf6c28f15f35c815e6	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+d9f556865406a4671d53df11689b1f64	ThreatFox	2026-10-23	family=win.hijackloader | confidence=75% threat=payload
+0bc40efcb7690a9621778d2829c191e481b40efa70532e70c8dd6ab686a00f0e	ThreatFox	2026-10-23	family=win.hijackloader | confidence=75% threat=payload
+562d8f8381ad20a7140a5b7a060ff4ee60484eb815bf442f7071e293678ca95d	ThreatFox	2026-10-23	family=win.hijackloader | confidence=75% threat=payload
+1e63845a10e9b202e4e2b97c9986a3c67d81b7e5e19e9113890e70798702af4d	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+48eeb37f7272f2c5faefa4ac71c0d598826093095315aa53cfdf23b1dd581d01	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+a265ead9e24a0657c188ea828268b7dafbb5663f9d888246be248aec7537c8d9	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+9ad293893966776d416a47965ba5d5462e25183c36ea0a444213d3cbd821108a	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+8f8a5b206c21e16f0069c8c86df18cd09ca73861751d397f3f69b052e001ea62	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+847a9f2519d075f3c1e616bb280390a1bff691a573f68edbd69c29c587fcc091	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+45471298da7cf8d412a4102e2a74ce2244a3beb97eac2d646496479ecb21dffe	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+b6881d5559f5e63044cc9b71bcc0246be43a61bd0807eedf16aa3fd810a6d523	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+5adce34308ef434e23dc55404ac18d32fa84496c94a4950e695642e59b4d2f2f	ThreatFox	2026-10-23	family=jar.microstealer | confidence=75% threat=payload
+6f35be30e25b3d9979fe9f43e885014b0c7ffaec7e8bdc79aeb0578977ceb0b1	ThreatFox	2026-10-23	family=jar.microstealer | confidence=75% threat=payload
+6497ae0df78fe72409b86f7dea6999eb98d08b28fadb8a8990e73c7d9e89c7f8	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+943dfe3c370befd8c7774266371ccb575402702442e976e524eff3febb105318	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+b4e1639a12c84b93988c9ee4508fea8f68668b1be20d8e7ddbd13e72d3d89552	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+f3ae29687114337f4e956f4c0d2f69b4e14f5dad95a14cb653d83bea5e73531f	ThreatFox	2026-10-23	family=elf.mirai | confidence=100% threat=payload
+30fe63a2a7de33846d5f011a3e8531de00ef45d35187dc2e739d613421b9bdc4	ThreatFox	2026-10-23	family=elf.mirai | confidence=100% threat=payload
+7f66c6d294ed1ad152a65dadc7fb2c585cd55eeec8d42981f9272b1cd316f114	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+5ea47ecc91617190a182ee2b4d8d11ba1cd0e342218211dd277e64bddf0ecf11	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+27236adab02ffc845df5bb006aaf8b3c0c7c84e0ef0625cd4670fc1d99ae9398	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+478594380a1651679b600f7dba0dc943fe85e2b875b2fdbe8f16696b7c727bf9	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+e309bc4eb63bb2e5a20852963ce6975add80365e33ed9aebaf25712a654a6a1f	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+a2aec7053cb3d47f49cb9716b5269dba58d4a953f4bb9db118f8334c9a551aac	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+a00ed4ce15f96453e8c09d340b013898a15a0ab3e8dca2aa6d4d8831bd8f2ce4	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+acd6df8ee31ed636de43d1ca0d37dcd9581cabfad6059de6d2a70076ef585550	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+be571605929d03a2075d80fac90cc93994c851ce0fe85909116bef0613495303	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+598b0992d69d55845c1be3233b3abdc63ad1184cbc01705d5bbd1e65ea11fdbb	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+9aade612521dab5600f59b0660e19fb8392a42570408673e824f3bbd2532c85b	ThreatFox	2026-10-23	family=elf.xmrig | confidence=100% threat=payload
+19cd1fe4e501fbdf6e52a7249a7bd375ea3039feed596f56691fb7f353acc23f	ThreatFox	2026-10-23	family=elf.xmrig | confidence=100% threat=payload
+e15d2363b9e4552250f230c62188cb299ff2570c9ba9589fbc3e190df84768ba	ThreatFox	2026-10-23	family=elf.xmrig | confidence=100% threat=payload
+c5bd9b66d5535c2dffa253cb6dd665d20208db58793fd176d4773093546f50df	ThreatFox	2026-10-23	family=elf.xmrig | confidence=100% threat=payload
+2a6e2516b103c2f313d280e2e5954db9111515e401e603ebb6d4b47a65b086fb	ThreatFox	2026-10-23	family=elf.xmrig | confidence=100% threat=payload
+4230d003e25b12be26130c9d941ef0b809dc7da2a25ecbf8d15a0c369730ebd0	ThreatFox	2026-10-23	family=elf.xmrig | confidence=100% threat=payload
+5220cce8158699825c206529746ad1cbb20d930eff244017f8c3f913b83a3d86	ThreatFox	2026-10-23	family=elf.xmrig | confidence=100% threat=payload
+03347ea4466ecbc01dbe24e74d34910069344a3f2f90ee021d5ebc8bae7d3233	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+ee708fd253d47c5d5b60cb664dead6677febaa351acc4371dd8abc393b988d29	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+303cc093281421de65b9d9ee95f362274c18e68c82c5e2cda1131d74caa738a3	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+6a9b7604635da047df2b0add8151da5f246b02f267db3f2b90dc77dd9715a1fa	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+9920a07096c55c8f52983282c4a9851d0f2fbc420bc44033bc711d3b52d6b4c7	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+ae04c8dec68d024fa96a9ac2a0da542eaf00e8d83283f69424a037bb3e127209	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+62d5eae2e4f7deba6554026ee460e04ca0b100761f9fad62aa79983b6c5c444a	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+9dc7dbcaed3ddf341e3d7620e12179f32260eeab0a223da50014b8f1defdb78f	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+f74a8a969a08f66e1b3cc8901bce576b337b2bd536c2f2dd026bde2a344216d2	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+de6d1c265678b8b0af0c8cdb34b5f5feb52567b29bc3ed2354fc01fc13e6bd8e	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+70dcd7aa12b06a4de2981cd3ce00543599a6533b0a0f5f5f7e01bb923cd68738	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+13841620a19483067986fa872137e576506e00146dd87b2d3eb14a2b16f9504a	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+dadd4646d32ba0987ad11be623c3153b41b6b704f1e551b6ee745fa1d65d0b9d	ThreatFox	2026-10-23	family=win.smartloader | confidence=90% threat=payload
+9bd6d3998c1c8a9c173b6eab19819ada9cc88a87f77b4c9e96b8f4d8c0d38279	ThreatFox	2026-10-23	family=win.salatstealer | confidence=95% threat=payload
+d8412f760d50380ef5175317f129c75a80e4c21c912d4b0336a395586accd97d	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+a3564eb20eaaef3ed9e1f439e947baa2151d4f0bcdd38eaa9d0e82169e58153f	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+451eaa05684a2a86353f3c760edbb60a33761325509fe6797f4a7fbe0134d979	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+251b4bcaed3935aca8660850e00479451251c5ed016a64ccb5cc0cff1c1f18db	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+b5a208e6460390f077ae0e817c84e5951185fe626037d3e91745ca03acb19e84	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+af9fedc9c2e8a653812e75ba6315e41b734d33e1f85868a4834670b19863adba	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+27a399d440b1e6eadabcb0a7f1d0330c0331c506940fc37727b8bef42ad454b4	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+6b506bd806eab09f31afb25ba8d27b7512a813ae073156a5bca05b1ef5089b28	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+d809e9373dc7b1ccd98fe5dbb75f3d421bb623f2ae1d5e087c70f1b5b2cd1247	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+0d227dd39ec26aa41faa86cdd58c0295ddd07ecd116251597c4e960d4ad9d520	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+d46030a29fb6849da9d04da8226c766ef3d7ef4d2ffb602772e4080423880d22	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+7da4dcd0ee0bfb4e840a37d9828d3e7ce79a3ec2dc478a455e3d0cc74480f209	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+1956a73927254c77fea331a9221a62e23175439ca9065ed257054a5d8ce7321c	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+276ccb4d253d9835db973d7e879045d0d03376770bb39767b6f2a009d6a2bbb3	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+ac508a988cee49074cde22a3be74fe2ad11157666091d4bc05a236fa3cb31a46	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+fd03850a7372294684a62c0d87d0f3f868468b758ee0fb91b9d451d979efd007	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+fba9d0058144596b2cc649140c9caba18ed59d371fe0c3959a009977e5581364	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+2b3b84f38245536564cd73dc6253663e290c1a9a85d0c2949c27e8fc6b70543c	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+00da4b819c4a2c1fbf30b3ccaceb7371bcd86e25252b49fdc7e71ad083691635	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+77a76c95b71bbb85fff71960cf1bfd1485fcd1e493e1008d08beb71900e529ac	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+a06e0184a9b8d48c74a5a7533dc8728cd58c497a4758ae13247ec433df01ebfe	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+7a3517b21ef551876931c582c448d1352e5e98f5410e4ccfd06eb4b23e88ce70	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+f558b3deb1952b33e0e616b0d8f3e258ac23d527a248dd5ddac217202ab77007	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+9bfa622e37602bdf30d181842670449c61e45dd070f232fe84213b93a3cc5d75	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+b6537837be693eaf0c6c1b89c5d0b234ff70281a18cbdb67de4a10cf2f931c86	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+6c7bfe90d412652168b3dadd26ff650dd19097b8019ac3efe78b0a175f94b63f	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+e880fe4bc887e315ddb67e7b8a8865a2f9ffa3f5c85b4aa11a1eae93ddc4f614	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+4967f0fae992cd49954714fdef96df56b4b821824bf83db1af2cf398b183caa6	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+708a739e1a8fa65007dd3b0fce5f70c151514641919006b554194d366df0c381	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+53ff007979ab2cfb4934d5079d44c75748f731b207667b2b4b53200d183b9511	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+f13bf6971c4e4d6df124f787bafc6b504d4709c67a1229a8ac13b9f36e6201b8	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+3cddb47477d8da86a317e7198fc2d0eac6051d2e8ac307d45ceeb3417eadda48	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+c95c7ea29e8d7d681382a4e78a80f5a2ab97ef8eb6cbe2fee474e9ea94894cb5	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+e0a0dee40be5489356cf1f7afc0896e3dbbb33d2caab964540c0c43d50478845	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+de90a4cce172b19dc45211f9260e35bba570be90320c06f4920027e6082c8fae	ThreatFox	2026-10-23	family=elf.mirai | confidence=90% threat=payload
+ae7afba865d9f72d1d0d9c6048c144cc33dee8edca2831bc1677628cad694455	ThreatFox	2026-10-23	family=win.smartloader | confidence=90% threat=payload
+e6ffba4d9afe2f7817ce4594a13148e0839860384e14cdc36069b2d5a76c86de	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+9acb19ce70d343c14e258f09bf4124814d339fbdc1d81a2cddf3ba57dbc9d02c	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+b2cafdaa9e89bfec6b0b96f40d2e2cc8063f3b6b41d11a9c6af557e3bd80b44d	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+13fdeaed1eb1b2a1e10aa82a5d53f21cfdfdbba30480d3d30da3a490798b7d03	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+7bdcb91b35bf2ecfd709aa5db4caebe76e8aae6cae01910b3b49f22eab0e5227	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+1dc08f300798831789020005fabfeddef5312a9a5e9716a82f7f398fdaee9039	ThreatFox	2026-10-23	family=osx.amos | confidence=100% threat=payload
+7c0085fbeb389c79322b6cc5c8bdf1be	ThreatFox	2026-10-23	family=win.vidar | confidence=95% threat=payload
+a45988bc4d2654cd055477029a79a2cf4dffc7c8eea5af3a4f21ed73952e6626	ThreatFox	2026-10-23	family=win.vidar | confidence=95% threat=payload
+37af05962b00d2025a29fa19bfb49be1	ThreatFox	2026-10-23	family=win.vidar | confidence=95% threat=payload
+edc576329ef82cb7c13ade5eb3edbb8de56e0fd441aafee2fd0dcdf701fefb3f	ThreatFox	2026-10-23	family=win.vidar | confidence=95% threat=payload
+9e678aa1f798053aab18ccd6326a750a21c9cf5559e2fbbeb94164d529d64078	ThreatFox	2026-10-23	family=py.venus_stealer | confidence=95% threat=payload
+9fcc5b93e361c0aa959eb97e4ed2ba64	ThreatFox	2026-10-23	family=py.venus_stealer | confidence=95% threat=payload
+30bcdfdeff3d1c59132cbd892e8dc694	ThreatFox	2026-10-23	family=win.agent_tesla | confidence=95% threat=payload
+d1ab5c35e09e0d0bcfeea6a9c612169551e593957599260bce88c879efbb05af	MalwareBazaar	2026-10-24	family=RustyStealer | filetype=exe md5=4902f4ba2bd67972289fbd9ce15ba560 sha1=b0da124d0516528253f93109f57ab11c2ddc6c0b
+bdff003f47f176d4c685a032ffdb7db5e482c812bcd0c7e58acc76327f317a36	MalwareBazaar	2026-10-24	family=RustyStealer | filetype=exe md5=491fee22edfa785911d113c4118c7a30 sha1=61b08489f490887c33c95bcc133041f138ef16ea
+d65fec3809cf4341aedceccdb8eb856b430f7afcb6df88420eb3101011aacbf0	MalwareBazaar	2026-10-24	family=RustyStealer | filetype=exe md5=6fde2e6448bd610d74350aa22d857ea2 sha1=451557402efaf5cfac916540e21840bd7c8eb8ed
+edcd4de69b7e4c14a8948a7a8c600a7ce22731fbd5da9fbdae7c8f59d5f2fb90	MalwareBazaar	2026-10-24	family=Mirai | filetype=elf md5=25e3a3b7d8b2a95a967538f331577c46 sha1=31cd482000f10047d9bd53698953bb3c8e8d15ae
+da54c10718b4649eb6e9dd59abd3347a3f1c100d14a89d837e99214e4442e303	MalwareBazaar	2026-10-24	family=Mirai | filetype=sh md5=ed422f2302ff32c86fcabe9fdc95dd79 sha1=8eb6580333b38399afd58600016e157efd58a9f4
+7324066f5825c125c351ab7ccebad14d	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+d0bbb176db499a05ab91c2bea826043d	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+e4cedb7e809bb4335f25ddf16ec1f4c4	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+f11a904e20addfec59b3265948b23bbf	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+f4b53e8e87887af7dc9c8321a138410e	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+02794f7c99c69ea166979cff84ebc13fdea425ee	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+0f4a02a9c79423fcfc344455c8c99f926f7eee2e	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+2498c02e0f5689c13c9eb0e2a87693243f216226	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+8a0d2124013186cab76ce7a2b46846186efd3f43	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+c89d510bf4d8653d779c910c759f41e430e092ac	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+04d2828155ed2a276cfd3c97d4f966d328391dd818e04e773212cd601e49fa74	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+0ea99fbbe29af6f797e3866ed5f822c7a5d3e9cdb990a8c382a715069f156499	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+237ba698d7dc8936c43e0e78e7644002375e51e8baf9b3a7d4e18683f871ee31	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+3e3b62a9836697d978cbb620dc8af8f6eefdf8cb73fc30d16bb394d1c58f4c97	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+5410c2f239c3649928383c4478dea182f90b21f5b258081fec07e9d297ae4b1c	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+56f05c4fb1c25c04e0dde60e2e5e41ac164a6dc53688d0f9eb52a55f82106389	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+8fb7aaf2b9270b8b75f6844aaefd5242b4f926fb89cba10fff3d9b908a769788	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+be0329d0795dd62ae587faf97e704bb36413e5c98ddd8fe575f5077db3c84e5f	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+c1146fbcaa433385839c25839a61cd7fedaff858cc0d3fd063dba68db2cf31b4	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+f3846ec2a6ff0a27d9ef2b9bf7908743b81d295ef29344acfb96ff83fff994f9	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+fb1181160e9f10ce1eb5e5dc9bc23e1498a39110ee9ea361fd150454cb01b292	OTX	2026-10-22	family=Armorsteal | pulse='SEO Poisoning Campaign Delivers New Armorsteal Malware' pulse_id=6ada6051fb91aa7551af4ba6
+028afae8b5e9953e1cd84a003c42fd85	OTX	2026-10-22	family=Stadia | pulse='StealC Is Back, and This Time It's a RAT' pulse_id=6ada5f1e1071ed1bf4072f30
+7739a8d0d101ca82b93bbd0acdb6d9af	OTX	2026-10-22	family=Stadia | pulse='StealC Is Back, and This Time It's a RAT' pulse_id=6ada5f1e1071ed1bf4072f30
+1ba76d2029744cc6e2f7209c96a696b32962b1f1	OTX	2026-10-22	family=Stadia | pulse='StealC Is Back, and This Time It's a RAT' pulse_id=6ada5f1e1071ed1bf4072f30
+0e5337a4cc8ebc772bc50f6e79befd1e8efad3410022e050d08d5269733c4ea4	OTX	2026-10-22	family=Stadia | pulse='StealC Is Back, and This Time It's a RAT' pulse_id=6ada5f1e1071ed1bf4072f30
+ea928494fd30d88b98141d39a502a4324889fb732e74b44bfee12c72137dd73e	OTX	2026-10-22	family=Stadia | pulse='StealC Is Back, and This Time It's a RAT' pulse_id=6ada5f1e1071ed1bf4072f30
+bdfccc6ab3e592f6cfc47f6deb910950666fa47b5f87c6a08af7096d90e59d0f	OTX	2026-10-22	family=RatHat | pulse='Beyond the Sandbox: Leveraging Android Intrusion Logs to Expose Advanced Threats' pulse_id=6ada5f20aaf6e87709a6dee5
+01855153ca7a33ad5ff36451de5612dfba0dd2ca	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+028ca11f3f0d8396043af7bf756231fc2f50f829	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+09c816697c0c2aff9b4ff58681558ca30d04c9cd	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+131a371a1e4ee78ec3b2863607c99290ec3b58a6	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+4e3e6577866e4ce2ed73ca089700ae04230e768f	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+69969eeb7e0a3d84c4e70193636fcf934c6aa388	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+8ceb5f8bcdf4995b7164996f1429d682613bb17b	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+9085896989947c0919a660352f75f6b233fc645b	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+b69ef0e45b401440c0fde22046775d0c57e87415	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+d5f9288daebf87ae4579945f8dc6cf235b093cfd	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+d7e6a5a46c6ed3510997e91b11e51be0250fd2a2	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+e29af83a07fb32eb47c28733a9382e766d53f704	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+000000000143db657d1d6f80b5066dd109a4cb31f7dc6cb5d56050fffb014217	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+0000000998b5ff8c0f1115ce9212f772d0427151f50fe858e6de1d22600f1680	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+0000006149970f245e6cec43664bce203f2514b60a153e194f31e2b229a1339d	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+5636b3af4738c3998284c4805d91209cab38921159c66a6f359f3f692af1c908	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+ecbbcb3298e7d3b4196103333c3e839cfe47a6ca47602b94a6d596683f6bb358	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+f91b909f43829f8b20732b3bcf80cbc4bb078dd47b41638379a078e35984c9a4	OTX	2026-10-22	family=MythicRatatoskr | pulse='MythicRatatoskr: An Yggdrasil-enabled backdoor deployed in a UAC-0099-Sandworm collaboration' pulse_id=6ada5f1e04fbf3494e4114a7
+197f6a5103870ab3bb1a213f27a63c73	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+646765f24da91cf6975f24aa5feb7f373f4ec93a	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+07955dcb5f4f80c90ede398879589f2e369eb2d84c4975d3c8adf08433783409	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+0a3cb24e0d0c05b544a3e32affe3ea8a4ed87c0cc90e918c10b94d3b849d76fa	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+16f73adce28e3a33e98035a19721819ddac9cda130e6f1c337db6f8d8c2f95c6	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+19d9335e66d9d519c9068994491b1a0f8734626b5328fca9723d942b7128bc9c	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+2747316171bb2816b68db308162b40a47c6ddf82779d5f460a194921eb60f32c	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+2cac894bf2cef2232247927e18acd35280065b576c5fa030b5fbad666db0afcc	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+2dfa9e708fdb92e5d36080065f978e33a692c0fe813a75be9c7cdff03be51b6e	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+2fa9c207981e05141162b9c5cf62a86bdc6593b3a6861968e4df58f49c47da0d	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+3b79b342a580dd09a5e3f907e475c3131f4005be59468a59905fc289e005806d	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+4659d9648275113f7f95735d170f27f10fd6d0a4e606c5b4f6e916ddc54924ed	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+765525c4fabd01383ca3dd330dd4f4fbc931bea0724c12f553df41b48a96ca82	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+804349f8f087588b057e942f321ec2c0a677a0374e02d47f95d43196fc4cac0a	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+85515e25894cace49286581f9436bd2da429e05bd96d39fafe1c42fbcdfcd4e7	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+86d775c2d5cb459541cd2b0b967fac65ce20c60e483c71c9f7e108d5ad0bd564	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+9215d17e5138cee498bb529e69b1cc7267305136535025e9b49fe173cf648720	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+e98949a8370c5c3356a8e97f49a2f963a6126b917e1bc653890f8c79738c981d	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+eb5a6c895d24fd08e3bbd74d7a0ea02600d3b7574b9761efb2876b671e8ddd39	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+eeb182444019802abb34668bd6efc7e947c1822e95c87f9a5b5288b4331400c8	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+f110e20dce8361a31332faba49e29e6afd54f8bc4913841f9bdad3cbb66c14e3	OTX	2026-10-22	family=Web Media Optimizer | pulse='TRUST#GRAFT : JavaScript-Compromised Sites Target WordPress Admin Browsers to Deploy a Persistent PHP Backdoor' pulse_id=6ada5f1fb2e3c0d3b77b8ceb
+d8a3fedb1a3cd1287ca47c6851a49e6052ab6116b43666e674765ca892d798ce	OTX	2026-10-22	family=microsoft 365 | pulse='M365 Token Spray and Replay Campaign Compromises Business Email Accounts' pulse_id=6ada1e572ffb7473cf202754
+d1a1e6a2c0adc45a4cf40128e683499cd984d5803ad2e3a1ce26768a612eaec2	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d6802fce5b918ed247ba85d6aa0545a8120cfbc3734b1c37794c4e381862d4ee	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+728e75ae848ac62aa705ed4e4c000dd3dfa2a4cf70a5adfbc56c5a9d2b017792	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+435bceaf240dd7711542a723a6988b280948e77e9953614d981d653680de9f49	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a916870b1be4c1cf4e19cb9324a439b6	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+dc00375f36a7968d4946bd7f685f197c617f2c9a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+1d35ce5483a2ee834ab05a08c08d482244e3e15d2d371a1308cb74d6428a4215	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a478f5057ca0f0706a61e4fc1a681090bb49a54ffe60567e5dabe1ae05d45880	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+8838fe46c9aa4e8e60506e7320d34702a52539fc60cbcb03f0b8be6d8c1b4512	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+1d0862222b7236ba62cc2ca44acef718f3422ceda9c5eced96f799287abc1d9a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+75e4e48c75f1d71d96bfd3f1f12e9025	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6e4978a50572d9ba69323029abf0bb966aff02a3	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+652278d492e94af9a0ff804cfc4ca35c2b26b6f0508dcf93b32d95ceecacad5b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d58de1bcb41688adbb8967b0c5ba83b5c5beae7de4c9fe1b24382db7902c19f1	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+0431d6b6e42cb7f767ab6f9aa6278a46	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+07a97855afc1189e281b07388aea272c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+09a41418d70e6f726867a44c6829eda7	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+0d6bd261503578b052097284eff5b8d0	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+104a4f8c67f6ac569fadd6d259f7f03b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+15d75f0ee3051d9744c65a5b51df8aa9	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+17cc70d19711bdfced8f30850e5b72eb	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+18d2d6a41ae33a24d8717a5b39c1f032	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+27967751e41a395f565892a44d866c5e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+2f6a0dcb0ca5460b128af313c33c894d	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3703648e5586cbfb3539862dc2251298	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3a67ac8f4dd1dac278e681ef315510e1	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3b556a609c466b51c036a36008735d11	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3f6cfef9b6f7fb66b76ed5a32c67d08f	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+45f369acfa97975de7b3d3a344cd7c3a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+47a0d95db02b11835c52d83a3fe9609c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+48e0486b51938eea9d559467fa2f143f	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+496959ad54f1406be8b1af469dbaa851	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+4bdfa4161edd2168a612ec6bd60a6ad1	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+4c3bdb44696572f2a1d397cb092b84c1	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+4d53ee9e73a747fff2f925fe589ff9fa	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+5095073fccfd45909570643b7dc3bc54	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+56c0e8e229956c84d015380acb7b61a6	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+5846e76c2183b5e8b4f8a4f06720e1ce	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+5a6db7d334ee930306b044fa230d7182	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+5cede60bc3fd2bd6f5b9358073e09d1c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+5e2a89139dc3599a5754a1685e36a9bb	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+65f5890c7479ce4902f4ca77764d5692	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+66e974ba87a9bf68dea26ca6b227314b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6b696cda4ff3b784a164e45176feb892	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6b84f7c64ef2816eada4a2039b2f8e2a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+7278a6f0be0c730e4547650ea1896695	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+737729e4d21dbf28297f3adfbb5d3e20	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+745b498dcced10df74e7a02ec64142ba	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+770d1f689e9c9006b3cb20d495865757	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+7c0684fd9d32c4f4ce32b549f41061b6	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+7fafc458f6b82fa3413f65e112b0f913	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+82ee617633c5905b88322ea265f9ef8a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+88f04edcf811abdce33874753d3b080d	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+895121fd57db4c173a9d105bd49ba69d	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+8e183a1a3e2a470831668a6003d11a4a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+99f8d1992fbe4ffc29f7511fd916a253	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+9d4870e17bc44c601fb2de78af50a28b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a5524733c5a36876199f0c3c93ec4a6e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+adb235cdaf0bc9d8e43505099c2ca226	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+af44f98de9bb7c555e4daeed241985ed	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+b18efd1279b1f21540a6ec11f74764f0	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+b271e4e45e71de15411ff12c5188c173	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+bc61ca750375846037f43c652e227cd0	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+c57dd58268a9d2d277023641205a62a7	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+c6faf7700745e7f265652809bd1e3b25	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+ccb10ef80b27a97cbbc272f0c6495cb5	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d2bd486a68356992b35d47b3b54a7978	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d3062c5b223c70e20fe9167b4d892644	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d4788d0ca960cf0f4edb768db58000a7	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d9e3ae77a44ab089bf4973460b483a0c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+e01b086f767e20e13078df439e1a7e1f	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+e6ad565e8b5ed4564cd1d1d3a2ad9059	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+e7d3c3b453756b3024060e50d588e6b5	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+e8b080c276519547e95930ab15028adb	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+f553f9084f4df3f192a9ae2a9eae4fc5	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+f715a63daa011a39e1c6c4f6e02d5e85	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+f7ce401020ffbd4b2bf7f8d0688aaf23	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+f841f0b6123f9a9c9ca36e42b31043b2	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+fef0fe9c0f8ecf10f6efc29644f3223b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+ffe30ef32ae4417f6bfd801a8d93b81a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+002ab1c34002b762b7bb78a9ff5338072cb9f2fd	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+0337b5e17c9c43cb320ccd26724d30bbc1e503ae	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+048b3dc740014cdcaab70814d7f02e07b418ba91	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+08850fdb348b6079947e059f9639133bb93c2db3	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+08a69dd233ac6f4b83aff34cfcb2984590e2670a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+1eef888373a8b07c20eff71f849d93b7b9dff4d7	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+28c3926af10caf7d3b74002181c45e1de51b5c04	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+2c9a552c37e5f4fa7fe203f53371047f6c9deed9	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+2da154f21c633fb20fec54192e74a6c94ed5aa48	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3024349ea25b0dc0e3e8951b45f47c52b0d6e140	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3c48e68dac4eb78269832d53c9fc0ee9f0427721	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3ee3b6d4d16ce7c9c37c01c64352cffca38befe2	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+41e3d1fbec1b990ac2f650ef04a4b2eb874f84b3	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+42538df9589ad0c7b94e4fd4e2e9bb5694cd04ce	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+454668b395b5a97b4716458000be4e3f003193aa	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+4557478c9b47f5d0729b6f6bf21d673068b57126	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+459de20117b01cc346792f81eab85767117278fa	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+461742e459abcd2867a5484f724984ecf0030864	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+4a4a6666d95b35cfc4a556fd3d3b3ef368c04e9a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+4c1a428cc190a2d16043cbe75d3fed4d75b08a47	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+5007ea848c96662a3ef79bf70ed8318b580de61f	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+512c7c40782f66a4c3fe4e7eafa7a46eaac0a5aa	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+54bfa1df647f385887f86d75b213bdb9cc7f2a5d	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+54f46c1db9065f6b0db37c0c4d42667bcd6e1ecc	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+56e1f3d97202a46b5d3d75e67b645b69a77d80a1	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+56e5871b606f8c9f496137d4a1ea1f783cbf69c3	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+5ed7997ac877d8751034dd02cb5b8117f50b2870	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+5f6f3e0e474043136774cb29bff0cd522ae2782f	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+66258389fbf1807d9ce5cb4aabdbe85f8099e180	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6825609fe1f0d1c9cc94b2c6134b71069cb5fbcf	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6a3af069e9f31981fd574c0e9cb1b614d0aff3de	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6e5db791e93980b5b40618ee72905b95d282c0d1	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6eae606dd349b9d8ce4557b8ad59713071c9f3ed	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6f681a253a1311d612aabd443e0acd80035a4990	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6f77a7e5e97a7e30d47010f9ef3c78b98da9c87b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+7c4886a7d558822bc9384e22b42980c4790e4734	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+7cf78dfa7947b4bc2a75bf845e4f1906018ca14d	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+8073aba04559aad01a21b09c36d34e9d8ee3de25	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+825a0aa8699d72b37905ca057147a014d9fbb671	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+8650456019fa1dfdac88137a99af74175f1e22e1	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+889936ad9cafa9c542aadb73939b466e3a063499	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+8d007b7833711ad1aa6501f20a927dd5ca333831	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+9ff006c9fc04398cad063f6e10cc59d4226340c3	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a911875e47100e48da1b6ee98682fc812cadbabf	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a9979f1cb76586cdb4913a8361685f7ef536c31c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+ab50f6415f19412db1f4eefbaeb119a126face5f	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+ad5eedcb7c79b5243d21025a2787810363ed5328	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+b0d73e91b36724471d58da3940883bcef37f3d5c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+b5ff32eb8dee6501cb497c4c91b9433aa324c59d	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+b79197fcb916041791fa61e789c580b3c83c90e2	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+b93ce9b04ae7c536722d1bf9e80c007c67c49058	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+ba15cb951e812b494dedaffd0616fa8ed7b6c265	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+c519e6f7dcb5e95e468368f9a9dd196e144040b5	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+cc5579bb1694e60af322d166583c04c70c18b5eb	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+cd938a575d6ebb4f69d18f87d5db4a814e37ad0c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d3f03cd6bf77704037e4ba59e5ebe2cbbd17f1e7	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d41c33db58492e65865207d09987d745d4fb0b45	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d59689bb50dcb71cba3a952b71c9c8b55f6e1d7a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d622f6045d93dec386acbe8fe7f26b9c40c29a19	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d633338794e0cc11c55fa0cc1c0ff723ac8b3325	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d8c03427dbc4c5fa37011469b41f07a0c9f95233	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+dda178f066350151a63c1804cbab77d48a1b9944	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+e889ffd45ba4fa988b564ec191fb904a2ca72718	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+f34a261e1045ad503f6db6e59ea241c694d320f0	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+f7a207b18baccaf60405f15d762a21f6d180de31	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+f990663a28507d91c54766247a74353846978fbf	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+fec8fd3b23f4c766cfa591db08d54ba98f056434	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+00c6341ecb3dfed3e3b2f1e8ad3464356738c07edc48368cc0a5c501a0a97fa3	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+044fabf6c74ee4de19cee1e3abe4c2beb6a33a38cbed401c7a822c696fbaa33a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+05447eb22f74a607391b3260291491c129ac92a286d044f53f07d45911c13bfd	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+057348eeda75a2061a8314d3215a602f02d4d53ea16ca0c3c55d1189244da4c8	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+05ebce0211b25b4af2aca0cf74a175dc59330719026c4ebbfdb11c2b8af3e049	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+07ac1da4b8580958ac5ab693fd7c34dbb05132b1df03ae99e8390fe6e34ceb1b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+09387b8f33f17c02c096397557fb19d4ef076c47f58b9b2e62853b4064a0918f	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+09b9aa8f61dcfcd1bb8b56f9af083c3eb0d2399eb5714fa6e4e97e37e280fb9e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660

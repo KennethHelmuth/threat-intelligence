@@ -1,0 +1,26 @@
+title: DNS Query to Stadia Domains
+id: 2842d8dc-5166-4cb2-ae2f-c58873a98037
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Stadia.
+date: 2026-10-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - hvnc
+    - malware.stadia
+    - operation endgame
+    - stadia
+    - stealc
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'stadiadev.cc'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

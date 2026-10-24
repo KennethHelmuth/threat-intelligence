@@ -1,0 +1,27 @@
+title: Network Connection to Rathat Infrastructure
+id: 47823325-f40b-4fed-928c-a0fb4b34e4a7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Rathat.
+date: 2026-10-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - byod
+    - intrusion logging
+    - malware.rathat
+    - rathat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'fegrs.adidasabc.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

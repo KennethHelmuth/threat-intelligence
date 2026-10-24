@@ -1,0 +1,30 @@
+title: Network Connection to Web Media Optimizer Infrastructure
+id: d5ef8efc-1b9c-440c-b891-70c99a48a977
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Web Media Optimizer.
+date: 2026-10-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - malware.web_media_optimizer
+    - php backdoor
+    - wordpress
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'caapman.me'
+        - 'vtevens.icu'
+        - 'nutmann.club'
+        - 'vilialobos.lol'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

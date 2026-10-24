@@ -1,0 +1,43 @@
+title: DNS Query to Siriusqt Domains
+id: f53865d5-af9f-4719-829c-5c668154012e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Siriusqt.
+date: 2026-10-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - asyncrat
+    - btmob
+    - hvnc
+    - malware.siriusqt
+    - netwire
+    - njrat
+    - quasarrat
+    - redline stealer
+    - remcos
+    - siriusqt
+    - xworm
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'crax.pro'
+        - 'xweb.ddns.net'
+        - 'tcp.cloudpub.ru'
+        - 'afxwd.ddns.net'
+        - 'nanejaojmnas.duckdns.org'
+        - 'surveillance.1qq.cam'
+        - 'sirius.surpasstools.com'
+        - 'vmobqlunsw.localto.net'
+        - 'ixcube.ddns.net'
+        - 'directindustry.duckdns.org'
+        - 'server.activeworkshops.com'
+        - 'serios.ydns.eu'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

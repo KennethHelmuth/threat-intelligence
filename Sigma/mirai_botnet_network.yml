@@ -1,0 +1,43 @@
+title: Network Connection to Mirai Botnet Infrastructure
+id: 2926ff55-7b61-4332-9525-a5387f37f7e8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Mirai Botnet.
+date: 2026-10-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cve-2026-109618
+    - cve-2026-109619
+    - iot botnet
+    - magento
+    - malware.mirai_botnet
+    - mirai botnet
+    - php2shell
+    - woocommerce
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'godofthunder.st'
+        - 'gettingheadfromduckysmom.st'
+        - 'maste.mangsud.org'
+        DestinationIp|contains:
+        - '89.32.41.16'
+        - '89.32.41.50'
+        - '41.223.30.7'
+        - '92.118.112.100'
+        - '104.219.251.31'
+        - '102.210.149.166'
+        - '122.10.110.72'
+        - '206.188.197.105'
+        - '58.221.60.160'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

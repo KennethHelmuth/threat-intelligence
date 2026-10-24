@@ -1,0 +1,29 @@
+title: Network Connection to Sql Injection Infrastructure
+id: c0de7b49-fcbc-4c12-b448-723fba2942f2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Sql Injection.
+date: 2026-10-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - active exploitation
+    - cve-2026-114625
+    - malware.sql_injection
+    - sql injection
+    - velocloud orchestrator
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '74.82.197.86'
+        - '38.54.50.151'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

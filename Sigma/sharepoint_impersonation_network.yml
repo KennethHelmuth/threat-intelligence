@@ -1,0 +1,43 @@
+title: Network Connection to Sharepoint-Impersonation Infrastructure
+id: 5142176a-b139-45a3-8faa-5c9c4f786adf
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Sharepoint-Impersonation.
+date: 2026-10-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - docusign-impersonation
+    - malware.sharepoint_impersonation
+    - phishing
+    - sharepoint-impersonation
+    - social-engineering
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'rsfashionsdesignbd.com'
+        - 'bvlbetonvloeren.be'
+        - 'englaus.sbs'
+        - 'tropical100.com.do'
+        - 'eigapub.com'
+        - 'comet.kickcharge.com'
+        - 'login.yhoodgc.top'
+        - 'outstandinginvoicefollowup.canterburyhortlculture.com'
+        DestinationIp|contains:
+        - '157.7.189.101'
+        - '157.7.44.119'
+        - '118.20.84.128'
+        - '123.98.253.31'
+        - '46.30.188.242'
+        - '59.177.76.111'
+        - '85.158.111.12'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

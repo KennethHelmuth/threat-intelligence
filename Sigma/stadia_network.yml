@@ -1,0 +1,32 @@
+title: Network Connection to Stadia Infrastructure
+id: 7faf2173-eba7-441e-97f3-7d0b14a1e852
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Stadia.
+date: 2026-10-24
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - hvnc
+    - malware.stadia
+    - operation endgame
+    - stadia
+    - stealc
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'stadiadev.cc'
+        DestinationIp|contains:
+        - '93.152.213.215'
+        - '193.148.56.97'
+        - '91.92.43.45'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
