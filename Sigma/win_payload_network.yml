@@ -1,0 +1,28 @@
+title: Network Connection to Win.Payload Infrastructure
+id: 08044f20-33be-4653-825d-15c6cbc60232
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Payload.
+date: 2026-10-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Ransomware
+    - malware.win.payload
+    - payload
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'payload6eualw6kni6v2lqn7ovjcl76ojx25z5unsyvqo3lbqy3bo5qd.onion'
+        - 'payloadynyvabjacbun4uwhmxc7yvdzorycslzmnleguxjn7glahsvqd.onion'
+        - 'payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

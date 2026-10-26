@@ -1,0 +1,26 @@
+title: DNS Query to Win.Payload Domains
+id: 7dce74f2-8a1d-41cd-933e-bd5a4867ac58
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Payload.
+date: 2026-10-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Ransomware
+    - malware.win.payload
+    - payload
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'payload6eualw6kni6v2lqn7ovjcl76ojx25z5unsyvqo3lbqy3bo5qd.onion'
+        - 'payloadynyvabjacbun4uwhmxc7yvdzorycslzmnleguxjn7glahsvqd.onion'
+        - 'payloadrz5yw227brtbvdqpnlhq3rdcdekdnn3rgucbcdeawq2v6vuyd.onion'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

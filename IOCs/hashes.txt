@@ -22187,3 +22187,258 @@ e11d97166f3419f58d5c2996e12046ccf6e4522cd6739251e50319203def3979	ThreatFox	2026-
 cd72c23bef1c9120ba0528efb8437c4fe0b7f5d2bbe8877ba02ae8b980420453	ThreatFox	2026-10-24	family=osx.amos | confidence=100% threat=payload
 f7862077e802e8cdb0117b2c9c2e43ceeed7dcde5b3e6dd7935cae71afd44d5a	MalwareBazaar	2026-10-25	family=Mirai | filetype=elf md5=d586717424fe6b263e787eb3f0cf2ed9 sha1=6e2b08a1a07562a271f4ea24aaab53c4f1d1fc6f
 90950ae9570d317ba26d8a72f45c3d64821d4d2c8a916e78e01c24b6b13368dd	MalwareBazaar	2026-10-25	family=Mirai | filetype=elf md5=40779f33f106a3030c65dcb1c50e9079 sha1=6724aaae4cf0324cf88c4b8d62b19b0cae49254a
+f9829cddd02a096061cda97a4469b18a2afa791581134d7c32801824c8fdc5e2	MalwareBazaar	2026-10-26	filetype=exe md5=862073e13dba53db8c27b1c54fb2a19c sha1=971b08bbb42c29939e17dfe04880de9e0313d1ad | vt=24/75
+deb10b2a3c921bb2e0cd7a2180f96a6f0cdb1cb830e55b885b53df4d3118d8f2	MalwareBazaar	2026-10-26	filetype=exe md5=57259bc7c9d8c86369eaf0698644d60d sha1=856246ff041038ad79d876744d507fa1a9953410 | vt=44/75
+56047cbe27a63d0cea335992c8111c06a8b2d1124c02c7e984bc2d0996732f08	MalwareBazaar	2026-10-26	filetype=exe md5=ea228be0de1a3540ff4de647e1969a9e sha1=8b6534676f149554c824eca498597c97ef3c62a9 | vt=45/75
+50b420204ab02f3848f862e0d8dedc740711e9d79c35fd90188b98205ce7e384	MalwareBazaar	2026-10-26	filetype=exe md5=7c54ee413f379a926808943c7c3bce73 sha1=a6d4eab09f19123cbd9a079b054f48c0eb3f190c | vt=44/75
+f586e25f4fa4fb7ef2945dda68d6b18c84ba812f1de761e205cea75686e91f6f	MalwareBazaar	2026-10-26	filetype=exe md5=5bfac62891da558181b0e1cc9efb39e9 sha1=94011dab838298d2985e2d69ca5d91dfbbeea17d | vt=45/75
+4dd43a8aea19f785570aed976c78b9dadf3dc6df954a2278b7d55373de964518	MalwareBazaar	2026-10-26	filetype=exe md5=75d8f5385d73d00b439fcf06c44f345d sha1=644aeb89dc4ef0cfc7d17fbcea8a0ad08e11d08b | vt=45/75
+7e4c129f5bd09beffae196c2ea7d6528efc9a72142e2b4da665389544e4e7d31	MalwareBazaar	2026-10-26	filetype=exe md5=9e7be912ac3c259347db7d4c43295ab2 sha1=29c482b602d7a08d1db06b9a5468990da0401202 | vt=44/75
+5c73e0b861cabc1ce5d9905f927385252914944768b766e7709627a545fd02c6	MalwareBazaar	2026-10-26	filetype=elf md5=6d0075d15c51e0763c8b9340fc8372fe sha1=5503ce84e84acebd5f9e17d9df0bfcae3b4a4126 | vt=39/75
+590c035b4167db406823c6e5dedbe666db73ab5d68e957eb40e061bc0e71ce2f	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+dc25482df95393e9f0c559534735326e8bd202acd6847619d8c97013f39d010e	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+12e194238e89e11b3a44065852848baf6d680fb01beb75cbdbfb0c5a6aae9d96	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+b18c6c27a9df3521a6d85f68de971e33ba386dcb80364fd50f7402087476284a	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+f254ee4f97003bec2c845ce384fa38249cd22294d9d6ba7e6ab973be6fd4954a	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+074a569d024a213dd4d139b7ccb93672d8daa40c546bdc7fbc782c732c6c78e3	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+95305675b9535f24f9885974688b9c5430bcbbefe48db689c6dcf163dd2ec25f	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+b08438155360f5cadd56c308a01b63ece0538af7fe20cabd8da187ccd76262e7	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+4cce755f6e0f4bf39388c676e66d9e3f19dc1164b70482dce616b793dfd536fc	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+111e4fd49b33bf1ea5cd287a41e6a46eab87386fda163b91ea96aed6dc08073f	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+ae1241f4a4787c0362285f91657c4f91722345c78bd8b986f8f5e88d6db6083c	ThreatFox	2026-10-26	family=elf.mirai | confidence=100% threat=payload
+014e2e634bfdfc4ca6600898ad3d3ade92fcea86c9018c50bd057ef9baf8582a	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+f1d7fda8e42f2f6376d2e2ed4192b291a882ba29c5bc55b0745e218c10074896	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+7cc069a862258bd7ebfcaebf5bff72cc9ffbcb10e5ddb514a92dbf08f10d94fe	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+2b5b0ba9685b09277c3fee6c19e3ded60e57a72418f2550f2b1e43e00e1aebe8	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+fea6e379e5864f824165cd54548ec905672862fbe3cabfd04b7c59bb691541e6	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+a4389db74221b51ac7b1d60e30c954c20f639af06e2aefd79a57c1b3b137cd02	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+2e093d09ceb674fe47e130112dd38e753acedf1fec9e947149a7a2ca7d584fdb	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+deb1f5d8b7de5fe4b2370147a0a7871867b07edb2b72c2fec4ff191526fb0126	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+e28df40dc234353fbc06390833e0305a2e7bcd150e324cf9b0812d0ccc27d932	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+f2c33bee5bb42be519c8735151349bcbf8d91a749be7604ad5c970054195831f	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+70473b5416d501b66e4976a352dab4a8d19080bd4a2d8e5bc86a7b48209d3020	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+09f365cc415195f75e5aaa64137bb02d11d605e8c37b2783b93a383575ef4907	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+b8ab7dcb982eb6c2889bda259d85c8cd86001cad2b8ee22aa58662415e3012c4	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+e0fabbd75a800c5c18bab1a50d8225a0282c18f966acd76e4a4a914163940d14	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+42dccc9748790d8f8f392ca08dea047867013a0ce089ea414a35aae1b1e7ed11	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+b051bdb181f635f1c2c32e9c3636077485528faf806d2fcb41cf1cd946b9c24d	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+233f83c036e611b67c8e8245ba044b4e6e0490780c40b2426ef136e9e160c0d6	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+cc5353f305b429e76a8b6f15db16a1472803bf22cbb1ab4de4359311056327d9	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+191cc4b9334d555d3b24df5e6859391a844c772f2caec0197a6f11f04812625e	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+9d556431273f4a78e2e26f89f458d3cdca5af8f4c67dc06e23388f945cd068df	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+bd64725a7743aaba0654bc08057882effeb783bf39986940fadc6b15c63bd292	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+be7d9c313e7cee1155a3325e31ad678c4ebef9c43dd01e1d0bd31eea3d3c5cd7	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+1c05b05bf57cb5ac9e63a1b490bf785a50cfc94ed2f5732c8e9a4b750b7f0154	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+c07d3bbfccab22760ceb555452cf7e07932bf66c3fa344064da5248b2c555264	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+7aa755bbb27c07b44450ee8d0f97f99deddc990d17dcdb5d5cb7ca99be194c93	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+bfd3d52dc69f8d15f539747367a17fd4e71f4353167beb2ee972c3ff0a60f084	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+878aead2fc1b075822239d5b29f60602a077facf2131b8290b854023a8598172	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+613e6cc27b89dd6a1b0c10360e3415061f2754878e8032199ac1bd2552526245	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+fb68971ae9300d20b05bc04da9539606016a44f23e4e7237c8a4239d7f45a3cf	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+745a27ec5a4d4ad6873f078225816c12431c63d4a6f54fe0c1a3f2f85429bb13	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+f6027b44e8fb06d1eeba1602a4998fc7cfd37d77c0b8408d4cd704672f1a4095	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+52507ff90d624a6424515b71c6e1f2a9d6d3bacfeb0b6513696eb0d2e6206cfe	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+02dea3fde44dd098f7bb7562617a8b3475a4c04728f16d61a195ade38957f62e	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+1e1d07d2b3eeb3a27a16aba84973885bc76fa494a1f8dfe2f4c165717238c944	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+36393d61a6f0f1bb28ed162aa375d447ecb7092ac276d2e7e3e54c13d15bb5b2	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+f3560844feb9f9cb09923fdfdace3eecc7fae993edad0a54ab2e8c895c80ea7d	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+41d58c5548c6cba3c05cbd8f3b397cbe8199f1e474fbd2ba70bb2caaa8811bfa	ThreatFox	2026-10-26	family=elf.mirai | confidence=90% threat=payload
+7f281be0e278237d6b2f37f22174067ca70c721b4e20255659345890b5fa027e	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+5d403bcc82ff51825cd2fed2a98b651c05963f8e73d199c7c3ffc82deed787fb	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+ca4455bd766b2c3397021117e1410575f5e5493deb9ef6d42822be5a7db5c56f	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+e8b928fc2ab8a4d9006978c53df7608a7e4bbf76810731d4f24c475032dd44ac	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+a3ee8f8262e6befb1643eaae4763b6377050323335809fea2644ef270dd0e08f	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+97d054cfed1d1beab0bbd4d80f5b683576269cdebcef05d27982f1269d9acabd	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+1d7975652836f4a11fa9a66122f9116ea2fca34f3766027c56dde3a5ed05e173	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+290e3ab9fe0e54f01a3f7b13181171a499114e9059411d03060abc25967c541e	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+10ade0633ec156603a91201cf02607c93cca1ed5c119f2eba01628fc76da3ef6	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+1791781cf175cee025cc4ec4ed2e2d88a531e3cd6c8e979500cf03b3396fccc5	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+52c7a5b187fb9bea6c6e5eb2f49e08b43b64f6d61ee8f358ad097a391fda0099	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+323e30b63449264be7a5a86c6e921e13ab885cda92f4ada976552569428fc73c	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+5f473efe13de1c5e72ede7222aceb052c5f171cbf6217b68ee4093aaecbb852b	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+a98bde8380570069f860bd02d176fdf293c1fb9ad13e7fce88b057e433fe4a2f	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+ee8fc0541885fc8837a07d4aab4353bd91b78110bdd297dc94d10ba0451a2952	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+853f3819f6be301b48b1f944ceb2f3d5286de5416793a90e5924f31860e195a1	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+160499f60a0152f693cf24c9ed656db8a539173fd514380b15b882a3196a1cec	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+a6e36dc5448b4312239bd33988ec5e100262b8398c312a2dc1203020a910565d	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+c1fd09cf0ff586a467b17411834506093c74a15bc7df4dc0d595123075e3edbf	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+2929f253115d67febdb458be1f235a194c628669d32d0348fc79af5e5b74a999	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+9a8e80e8036894c1aacec28ac2fde83d9cf4d7b57347ff6f4aae4191a457af81	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+24e8ebbd353ea0e870e1c0ad2fc1c36bc8c78e8b9873abbb5f0654553d6e6929	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+31fc3a8b0078ac1a731a950190db70cd353030f78b5eb0cbc4b2003d29085c7a	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+40e9b126f8bb5f22edc73f085b65ee27b3070299dd85426a9ce7ad60900ba2cb	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+a3800f635ac2f8ef6f9c6dab83df0ec17737dcb39a1291147433a933bbf8c518	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+dfc90dcd94290865cd98543c8c36df4c633ca278a7de22e086b72eed6925015c	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+ccdb7e49a3ac27e5b4416dc885e82b010eaf6ce551b99ae95d85460c6d4e3028	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+37ad9b47526a05baa175c37557bcafaf1e5d41ce088497503f5b2f6abcb63935	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+04b381803469ad344515be05fe4b85347e55c0e8cc22e29a17402188fcfe1291	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+dea38546d1bd0e7a399f78b26836e0e2fa25ef449aab07046814dc7f36b247c5	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+b64e5d6c16622c5659a7d8d97210a59bbc10e98f24ca486e470be0378d7a0461	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+8acb67a9fde2880a2a57ad4c4825c74d5976553d501197917484708920990c41	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+5ef3b2ae6aac4c7b6a1ba0a14d0b4283da20002a6deee8d0d9ae2fd2fce79f58	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+4c565810ae06d551174b32ebb5e309693be3ceb8fe9939ece971180760949847	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+5f6ace8d46faae452b7b3056db7c12df1847a63ce105c7d837c4965e7ee1bc2f	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+9e641b2840dc1edf0dc82878a3cc9ae9bae6b458169390da7160539d9dfd3aa4	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+3e58d175f08fe7a183330fddc222c0fa793054dc64ecb35645913b7ca464f498	ThreatFox	2026-10-26	family=elf.mirai | confidence=90% threat=payload
+5ff9117937ddf3aca952e4948a05bb2af2e618dc6754ff58dbbfddc6b08f3328	ThreatFox	2026-10-26	family=elf.mirai | confidence=90% threat=payload
+15c2b1e6708311802cd82e2383a752524ad7687368627a2b381ba652e42998bc	ThreatFox	2026-10-26	family=elf.mirai | confidence=90% threat=payload
+53fd1bcc1e44eb09bc6b6bbf1fc78db617290f0939861a8cb67f47e82eb237df	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+95def1a0019325abb321e66c59553525223409b757f915838a16db6c42512402	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+dd50a17845f8c0cc2d08afadb32dc7ff299e5abe4ecac5fa750b0be69fed6090	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+19fa5d9b2bac0ac80baef97697847b7f8e5ee26bd481dbe35ab0b7990fc7f581	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+164cc4f36a05d5c9504b3e008ba51b137a5bae5e4b24caef3ba318e4f1e938ce	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+8ebfefb89f67bf1c7e02fbd992cbb39b46c349faaea4138c12a99047f457fa0a	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+f7355fd6e1d6129a8056191248dc0d008677a33b6812b06068803e2fea18fcb1	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+8bc7afc9352448b2aa0696fd74fd848a2c6ca3929221b00c4d4f5a8890f33a01	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+8bcfb1762441fb529e79519bad9e6754e06ad85f60e40a4c571caad8051bdfff	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+5c9135ff03360664296e9149e10fcf398918d4c2b1b5af182a16042d37e3911c	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+31c7c478088692f8baca0364145668f88500b649a7e006afde43b00d4bc27cac	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+a55957fbd49764aa9c66fb47a72201f879fe069172eb6015dbb9b2018637abb2	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+e2643d3674d0c73237b44c7a57c84f053f67c24dfeea63fdb1e9b157da4d16c1	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+7a6bceef42464be9148c4c0129c0b62049cf384d1221119abf01993dbfa126aa	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+e82559fc429d6194fd92b83210248cc91423ac7ad051d7e279864925edde21e3	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+f24f7daac0702a14caf47370d31ef1bf4b3694dd317912192a31493db15650ae	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+7ac995cecb447a5aa3d2611c81602efb1f3d22fc3287c07c82543985caaa2ad5	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+ebefeec29f7d577767e2c6382669bdf98a9da2d371876679539673d834033b71	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+1415386f9e93f07663f35e9bc7a1ffb7c718b4b412926bad675a439617bdd3c9	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+17badb0a67d95ed17340deab6c7376ccca9dcf042509b78846043b6421f78bae	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+851101eceec9198479d74baf595d1d8ead9366bbac435478a4d40286a9c15c23	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+baaaf98788d8393e448d542c539a286dfedb20b7c3ecb1faafbd95afb6c7ca75	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+734d7490aa3f346aaaa2d9ef9b074940155784aad12180447e5ac3450b5cc02d	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+44d8f0ca7f8a9b9a9d6af927b6b42fb4a95950ae5787ec25fcbd89b2bea285cd	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+30d32dd9732cecba766dacbfacb26997f88cb3c2129f9229910269c57f851af9	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+a8c270f45d7226e1408045974f6811b039cdce421a32221889149a8eb3eeb0ba	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+99245e159a90a58c2effae1723a7ed6dd61c844b7d857787ff0a6cab98d3f232	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+f179a3e2a6c2336ec1a2cb62ab050927437976f61ef99101d3f6c73e59bea302	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+8f731e155026650e1ca808c4b1a0e062fb14c7ba42d927cdf310781178a2fbdf	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+26be87bb1404191bc54ee58701576b895cc5ca4dfc2a463acd9594426a79b43e	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+cf3087a76f6ddc2aa742f797a56631b1c1c700a1452bd937a57f20a486749ab9	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+479a45ae6b92aaf022490e58c0268c307ff28b56f3ce18d941336a685ced677d	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+254808b0440e1b04eb89d8127c16a7f315e943b29f6d1e4ae798ea0ee8459085	ThreatFox	2026-10-26	family=win.salatstealer | confidence=95% threat=payload
+2d7e3e63207b4c7f2c7dd8658469c97fa73d2e45f7104de19b49654c44079e72	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+45ef0cea3b608f167c3e3101a0f78a4290ccf4ca1164c355bf4d56ac4bf44c0b	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+9c7713ce0a1fa2ef4b43651ef3a984b1656a6ee8dc3a94c4682e5e5e86428373	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+b2b904053a6d1b783e597bbab0d0ac9cf8d33dfd06b06e7a9ab3d99a769dd10b	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+ab5ba540eae3608c2e2ca230cc60f630e51e612ee0d65253e0eaf7d42ddb2f55	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+7ec6df0cae345fd0c3bdb220c2634e52cbb9ece8755143587a546e00d91b2ad8	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+94ecec65874eef8917d8f91d11724bca77194319c8711aecec0f8b39d6db93ca	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+33dd4fa348582867ac7ccec455f018a929207b16d1f3e6771fc0f7f2b91572e0	ThreatFox	2026-10-26	family=osx.amos | confidence=100% threat=payload
+95833922db56e83f81393ccda8cef166a358aa6f9793c3582173746581ae919f	ThreatFox	2026-10-25	family=elf.mirai | confidence=90% threat=payload
+d1a8fcbc867f2a098875628f4dc904618e0c4c29b1125244b02dee1a9a1d3f6d	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+0b600dcea7ebd3d8b316bd65963ae0a9cf06eaabcd78e6237b10dbfb35c4f3cc	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+7bc8432933f4da8bc12c8eb85ee55ce1c55f10f965662b6f3ad332d5a4414ae9	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+337f0b1329d19d47e4697b20c8d8bd756626e90b356f121f6ac0b3cdf193ac20	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+9905aadc411eb351f590ab9e29fb1ba004cf61932584bce939b222de59c05b08	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+31b629d19b105c776b2df87923817b612d40e24eb25feed0c9290e86a903ca04	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+dcde47d0dfa32797748f3abe9eac880650adf105fc97fbe2ee69e350e91cf95f	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+f63157ee94b7d3b66e9a89c5adee87d7aa6f6f126dc4b31890c5752ddcdba013	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+46dc4e3c499520aa05e0d32460d5991571af12c90bc85369ae2fd0f89b0b1e21	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+7459766fcc66151660f6a2cc92f13b8b800a65c6eef0002b3043979093ae5a30	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+d72ab67e90c5ac6f37053a61b349d5be059007e29d5f27ee30223804ae209c79	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+479d7a92b8d25a89e36e278a0f322b8cbcafbc1deedf0a8ff86413d3e6d0b899	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+7b9020092f5ad56b95f9a849d22579850deba98f982466232d80ec0264bc91ed	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+7fd117432a13b3a7c952a3c06a2c99eda37a5728cef8b73fc48188b7f0804c7c	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+9ae513e9620d15332a5f40989717b6cf428679735b9fa97057c2cdd042a0a61e	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+a0a11005525b15acfa657dc1a6cdcf48c0044edf261ac32ef042577e516d4cad	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+c25ca6176f2884c3b551b38f30c344f77a8addd6153bc7b4534c9a1fe80787a7	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+b5906c5780bfb8d8535c2914e6a1029ef4137cd119995bf281058bd06236bbae	ThreatFox	2026-10-25	family=unknown_stealer | confidence=100% threat=payload
+bbf7f1683cf2e27ddd72cc11137a01077294ccc006b3fb701f7dd64fac7221fd	ThreatFox	2026-10-25	family=unknown_stealer | confidence=100% threat=payload
+a42137cdea131458abbc6c9ffa5bfb40a101f8c0bb0467f515e0ade6144f6b53	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+df523fb9205c6267aa125068a1ea14efe825da6a57ba9db32cd0eb3d1557fb32	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+c1b80dd3cf5c227848edbb7beed4a3dab9df03819f4fcb973af47637e0188d35	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+61bdc206a61da7749f7cbb86364257b1407478ba6e8be2485584abd29c8ee3dd	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+67bd7061834286bce9f09f23e5429fb5956880989c2c127b338e04f4b7e65dd7	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+70a8a182d334a91f5ebc60ef9956061b076ad915b7693f38c1152980a519b8f7	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+7cb3b2f5555f9aef3fb6f1069e25415eea3b415e044eeca35766f1077a132cce	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+160b29be7a24aa625887ac0da57e974fbce4b5dc7066d548517b5af6b4656832	ThreatFox	2026-10-25	family=elf.mirai | confidence=90% threat=payload
+4cf9a28c0bb006f9dfd582596a7a8313871d1cd6f96af03fb04c03e8da6bb6cc	ThreatFox	2026-10-25	family=elf.mirai | confidence=90% threat=payload
+781ee6b91c11b1c689cd31a0785e43e25e01ab0e9d6fd3b886458137b9bd38c4	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+67c4919634631d19874eb409259a82ffa0addc8b11386ef7c0d2ae6f01e5c2e8	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+e8ff27ffd4e550cd57750237546f5f5a3293a052ae022b971c11a47dd156e601	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+d41e531df6537babc95606c7d81269ecb58931dbe4729d33aa3a774c2ca8fff6	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+b495be639bfc38588925bca30d751a8ef868e7a51d3c32e0f0b7149fa0c6c02e	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+1e70c0cd3487dca5a21f2cdae5bcb648ba6c3bafabc52ef1e06b1ee04124d706	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+10d8854cd25c6e23060d4f0606f9091d0753d1f2264da7c184e682bf2f07bdca	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+4f1a50a9440b626dc5cd6247bed4284b412f470cc5a8f19bc398bbb799074e2b	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+55d218a123621a4939a01a22866ad4464afa7f006f8e74c2b70f59c5947f31ba	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+88aa43c8229afe80f04294e696bfa29fb6bc81f4fbfd3462f2b56a0f066dbf98	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+1c9830a8872447eef9a673aaf113a191898f0edcda14453a3823001997f634ad	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+6262a27815bf3b1e491685fd7f86615e08aac77c829af06b0034f43e30333f10	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+282eb309aa2d0f77f5f2a91ecc85a255e84bde1593aab31518866899b2836588	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+efd9fc2b6837f0208840a8f789e85260cf22963b16d7b2713771740cb8b25ef3	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+e369e1a7d9e937175c822c3ac3cd0c1d29c34d0847ca5368a62fc334092ddab0	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+5723065bb32f424c666124b1ca6950f198f43afef0183f6e0dafc95ab9d3bcba	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+71c002bf166b0bcd1c103c99c79344aefc87639062ba07e8a30f38f9cd0f45a9	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+d2f0bfec23ee84a10896c3ed0ca41dc9620238e6aa766c484e7e161f51c518a7	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+ad407e60a93add5347ea63b7a9c2b1403d816f98cb947a17f0f835d4376b2eb9	ThreatFox	2026-10-25	family=osx.amos | confidence=100% threat=payload
+917293de84f76d7c3524185b22b6bab9838e884c794f0d9dea170717095fc8f6	ThreatFox	2026-10-25	family=elf.mirai | confidence=90% threat=payload
+83ee7cd932725e3de23db7861742bde84f1945c10c00ca5ac6ba1b4a2c4ec497	ThreatFox	2026-10-25	family=elf.mirai | confidence=90% threat=payload
+bd4632826803f35e47e9be3e6e81878ddedb9e1930e4a22ca2665a9e56420c0f	ThreatFox	2026-10-25	family=elf.mirai | confidence=95% threat=payload
+866202e5f53c11683026119b62b03c06850903cceb576336c958bd8a881edaa2	ThreatFox	2026-10-25	family=win.salatstealer | confidence=95% threat=payload
+c97a085278b9ffd4745b6aa59eb96f9da710a4211ff9dda547371fe300328002	ThreatFox	2026-10-25	family=win.salatstealer | confidence=95% threat=payload
+45d66b0aaf478ca4e719a10fcfd8956854cf49ff4bba25e0a5789ab6217c8e79	ThreatFox	2026-10-25	family=win.salatstealer | confidence=95% threat=payload
+49818c65eaad6ee5093f2b3253b2511e0733ac9800ec0b7033210e2ac462037d	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=5b278d50e2ef267e1eca51a949367ef3 sha1=5c26fed20a08e585ab96d8c366efcc7527ebb27b
+d98684d84b676fbd89c39f01152c14ed7171065e59d1a231a15a077715859842	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=ac0b7b0b6a9a103909c8c1946191dd1b sha1=c1c33d9fd8d9f13383c96d00ca28bf97c7088399
+965746db162d04837da30254e20451f985efb1aff56b724baaa770b7f3de76a5	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=f401a4fcf6ea4c330f18e1625dad626d sha1=c20f694d32f72115447ac4cf60d0c18ae5cc0cbe
+1fc26715d960f204b10dcd967843728b552ae22a7647147deb8a6f3c86b899ba	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=4d99b89777a1c888a7d1089fb21d6bf9 sha1=c6112e2079816e06c22eab24d555db8f88f02310
+f960ee2bf8316da09be6a44e024edd609e21f582ad094dc58803c5b93e08c79e	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=4fbaaea7ff73c5bdb9a752c24ae58a22 sha1=273c7db678e393e19a2be3196c24caa377eb37d3
+380a427f08c55b158cc0d90c38d3f741ea08a24a2811a2d9ca0c1d2dab5bfc66	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=cdd2f97116893a4834be9d8ff35e50ef sha1=152f47ad6fc5bb19a6c5add9b079109c725adede
+ab25adf6f1b4b69b915555f1df2e7c4703b44a28a9aa0377e096b36c4bf406e6	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=805060e7ca141c6061062343514111fa sha1=233dbd99754859947ecda581b01dc85ce4626a4a
+b95779be1565278c9595423f93d8dc6bbdc4bda8abbed130f4f8924d03300862	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=9191fe58349196800d3bce448af0580c sha1=eb949bf21ce94cb4b168aabbcc91dc803746e9d5
+dbbbbfb98939a25f1b2ab0e260aa01f7f6b569799aba107daf1cb17d66475295	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=476fb20e8e352288e67e50680717b269 sha1=011a89e3f497ac06c57132867adf24a739b2e66a
+5fc8200c7584303a0a9967875ce8050b95a9838b38e24ac0f35b595f79ca6217	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=61f34d207434074fc556705d6770cbf8 sha1=5d41b36562059520931650a684cce21b9a25c1a6
+44901fe5e07cb3a5e0d4e278126e40f491ca8c67eb431bd2fcf764568bc16a65	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=698c8a75beda1c89b93e9f853e190410 sha1=97cacda47465e87c1eb2c5297328ebbcbf635d3f
+18dc14d98be70b0b3733839cd8582e3ead95e6dbfda2d9e0e44cc771c85b7345	MalwareBazaar	2026-10-26	family=Mirai | filetype=elf md5=96c8ea4082cdc9ad5e1d0820c03e405e sha1=160df4343c31c57b860619c661017aa41b737d05
+6ca51009e9135f05a3ed7772f7fb00c87e973d71cfbb4292f46c369c2e5e27cd	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=afc7e918789524ff48129bbf1795045f sha1=f7ac3b8497ef77b0a0df6f228df305f1e95ea80f
+c32adbd683ac24aa6dcf4d8d5bba1457dcdd116446a44cf7dc0f3f4937fc739e	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=3d9e1fe08cc0b6de6b819bdd9c060a36 sha1=23a9fd6d2356319a6581cf78dce821ba488ac617
+f8ed72c81eadb12f513f2245163ec5cf89b1433199a4c6a8d9aaa44460818486	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=e9c1c7cf82ff620802ebcda9545999c9 sha1=6569d8052804e86f98af46e59112f264954362eb
+c2ee0b2f58eedd5c3690c5766870f17608e16bff99c2217e902b281d53ca4f85	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=afc738c0b7ce074d772ad90f764a0cb2 sha1=343c549e1aedcf0165f4a70adbed84460908ce07
+4fc7a8e8b3f31afaca715d1d1cf0e5fe99eaf1cc904168d84b2a59c9530cadf3	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=2edfb7f7b0e032ca366b3bec1d222528 sha1=ad370bc21a14b1be74a8e728be3f82c6a606da38
+c4939596c1549254f379ba7d7ebc85525af699e24011dc7ddf6ffdc37eb0cce1	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=8500668fa76660605e36207d6208a23b sha1=d22d2bf5e489bcb9ec19807e08a1d80566c13836
+d5e40d66ee25be808e3d7bd0926ef0a95cbac0397752a9317db0c006ae4914d0	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=e89f1164303332098ce3326dcf011b0e sha1=97132abfa7eb4c14dc1e4114661603d22993c586
+ba8346394f23db90f338477662ad89875aa004ca9acdd292690ba695fe1aa5d0	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=deac839bf75d78da1655f64a15f9a995 sha1=0a9022fc8342009daf05c0e3db1a8686532f93f3
+db62273ba408eeb6246b973f11cfa96313c1e8d5d6831e9b783db5e765544836	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=c7007050ae3593d95c160d8fcd00bb4a sha1=88f18ce3979bc15a3440219dd4f3cca267a5e549
+599cd0608c4f96e700d0460ac182bc8aa85b82d231bca1fce7da3e70cffebf66	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=e983c803b551268abd87a8c64757828b sha1=298ce6af7dee38aaa5c5ccb589ce92b75680e4a8
+6b1ae5d5a3575a9a7ef22960d0adf2f6549a81359161d38ab4253ab44e80130a	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=f0154414bc8fcf7f84bf0ea4e384beff sha1=4c35af61f4e38ee6577c1ba46a5ac163cd7b7992
+4be7c4355dee7e8792e2a8a0fd199d5208b0b7f10287ffb50813f4bac87d0d26	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=fc95bf11a4843cfa8d784be8515550be sha1=a0d989381d395fc83bd73616ea1ae82ae6eb52e8
+be22e2e21368e30cc8089edb0543459cfc404c3a1645f3b870a1ad05760a0343	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=c2e1258ab537abfef3f129b3e979cff0 sha1=4f4d055e9520556480344c9b7b132676a11f193c
+0b09b5c8c4e7133eaf940954a0ed8c62e26bc028d14a5c28c0c5f4fd4c01014b	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=96f180f164b162031f4475d33cd147df sha1=303622a1b2e51493c7764895725939a042d2b5db
+01b4818ebcd9a88c60ba75abd4667e3016cbef37243a7574eb1cbb4b31ec2845	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=3a551f171b49685a132f4b32956e069d sha1=c644a641f361675bd33521d8626b9e8dac029cf2
+28c7ddc294a263b8ca8a76fdec743c11cc9553447e66499882d5086d3f44d9bb	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=b76750c14a667991292126a66384209f sha1=7dd97333fcb72d5f6be7cff307f94924fa3c1419
+9c5a43a6c1d5d68e2c67d16b89fab04d838f8fa25daf863df8774d5be24004ff	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=3b0d0c8a4de32ba154af4178c096ff70 sha1=c5a846f918d73efb9acdbd50baf20da55bab64f3
+ecfd4196785d5944fe1e947fd3e23ed87dfccc246a0553bc6ab5f7a3e6ad4102	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=c973001389b8163ee6dcfa2a0cc1cc46 sha1=10c72faeb7864810c1b666a9e9dc58bad86e3e0a
+f48fd32b4c3c6dc7553630d4c624ab46e4b0458b5362515407ec6e7c2d46c1f1	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=6c38b9dd376b236c0b2e626c05fc82dc sha1=9b64a23ceaf5d59500921ce965d48cb8463abbce
+b647fada3a64d2dad979b8d18c0e2ed34944e2ba4cc60889cc06b093eb3f396e	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=6c01caeec65219cbd985f8234d722985 sha1=c86624d7ddc629d64fc36036443e4ce359c7986f
+6d2365d521653fef1c85938fe6e8ec7d67d3fae28515344733ff802a7f74ea18	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=d97be596936c2129f8a1237a259224b3 sha1=44d5d09bf6bfacb63ba624f8a2546db22a942700
+8daad70d021307c29446df9c72e93b13aaa8b41106c2c87d1b1e46ee16a0c76c	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=3274a08f5c61c716a7cdbf3cba506f4c sha1=f63335987463da40221486be787317fd4a868ed1
+65490ae0988454e9772c1ee1e54030aab7bafca07616cd2cff7103cf529f60c1	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=2106dc24c90b05cde859d4dc238cb6d7 sha1=06f6afc976d61ea9bd66b8e2230ac07d022ec6c9
+f6c74c5ac49453f0d43e3c459de39bfaa8bc68db1847b4123600ddb4607d9757	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=df5e6dab5fe8635b7dcbf46b1d6b4e0e sha1=427b068c83e200c7654c1ca13d3ae1dea2097f80
+46eeb050ee375b52ed28cc9dd593e8b25fb148e92f01878d5bb073e9fb25ecb7	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=bfc220bcae8e1c2264c4646d4eea29a3 sha1=f9e458bc456a79676034e853ffe22c4ff34a5f76
+81bfade2a8f36b41b76f42088b0171cd98bc691e50161e9d7b15bf9f3a205b31	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=86d8478965f359c2c36e9b9e8790aa97 sha1=a71813dc63bf2e3ba109d87edcd45a40bec7d60e
+de8566192e11b9fe1814307c5747f984e8095d6bd730241f9a95487a9a35951a	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=428a04d3bc013e9c92c2f4a4af482ce9 sha1=013369566907a6865f53e494b4c1410067282755
+9178eae708a885cd85b9e2d724f756abefe53bd497dd0aeed75be53ae23be9b0	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=1a9c0cdbd7adbac266e0ce153e4beac9 sha1=72b82ccd4db84000f68619f10be4f311e3c7ce61
+58cafffe8b371b4e89eea07bfe2100bce7f77df31dfb2b9cc2ea08612b09d7c4	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=229199674a1d5b6f098bddeab7b0a87d sha1=c2994fffb65a5e028504a3c4ccaf9a95c14b5713
+f585889eea97199802c699315490ce258b23c5e244eb0a5d60f1b7b7537290c2	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=c98b9d0a502ec9b5d48aab197e8b7255 sha1=5d8da97e61e063e8281004ff78f44566d4071174
+7d09495041b89cb3c4e49870c0534b9e9c3910950ce4838756e5daf2b610e25c	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=98947b961607154acfbc7c20154dcdba sha1=df6b3bb6705250e9e923766d67789dfdcba69e7b
+1f2de816dd49ccf3074102b38902c1ccc81b1786d0789971bbfb70ec3fd2fc75	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=a88c49e31f84254d96470dd940f67eb2 sha1=415a0e355a9836c5f7a2ce9fef7f4b648c7d3985
+30b07d7dfc830487a76b7c2b811bcbf96cdc0aeabbf54b2f14c5c70ef3ed3b96	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=1750be26a984ea15da75d84ee5acb127 sha1=634c0df8a0d337733108fc99a3d3cf3ada5aa5ec
+087148ec3f18d6b8b699d0d5940dc23af4e3e7c920049c6c865254b3bb958ce9	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=403ce6843c299e3e4823cfb1d7a51807 sha1=484b662bb6df6efac262385e6f6b1d0f785dbc23
+5b951b57c8529a2c09b4aadcc83376d7652c9674a61283fff443851d818bbab5	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=57bbe7db8a3819a49011539231e7ee3a sha1=8ced4c64818bc225820ce3ebc6aa73d933ff469e
+4e0dfca1772897e782d3b66dcfee2121349a5e384a918a41c869eade10247769	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=da2d89290f6c14f597dd219befab5b7e sha1=33c6e82e6c73268596642b4e0074f5497e221b18
+07be1a5a5d75c8cf33a17f4379f13bbdf20f8e3b30df291934088759300defac	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=596b2c4feeb789949ebcd7f4dde08c97 sha1=b73f3af69c4241f4604c68327b09d70e88c80318
+7688611419ae279d5f9683d3a3bfbb0050f604a6e5c76679c03b4795c7e1cf6a	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=f472572bfb616330d7ca5ee876bf586c sha1=ac3c31b8f6ae5a95bc8e2033e68c091097a2e81d
+6295455b0e17a38176a0c45681d0c13b6266fe0b465816a594e7e23af82ec23c	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=34c3b7f21647115495af4e7603125a04 sha1=ad1732022755816c508aa6bb4caaf3baa8c14826
+0fce7fe633685a0b907f2b26ed26604ac04fc1496f570ff10e50019c28eb1a17	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=662f4faed4cb6d026cab3ab5de757b20 sha1=4cf6c5416e53ed769f8b9a85359b1a0eb638dde1
+1768dae488b76147fb0bd76dc4aaa498fe7ecc5b8e3e3a802381b9d7c365f483	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=07b8cb2a68dc830c7855ab9a6aef17b3 sha1=8701eaa9502bc60172a9ebeaf5b356b73cfcd783
+9aeae30a3e6d49b4b2e3db2c7aeea8e33aad823ca487898fcdd4107a4f6555c4	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=7b6fd01a98ea144c70b04220dc79ea08 sha1=68f67ace4658ac93cb74f2dc0847020a82e67960
+47958f939631f1adba24b37c21a53bed74dd6179fa5beb0d2b912816ed4b7d8b	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=1eb268549e6887b48580f1e0b0efa1a4 sha1=0c0d8edb566d9c4f979a3130dbb29ab04447e8e5
+38602089a296b98914abbd7939f0f94a9c6135b4ee839ab2aef016df2488e305	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=cd392ea0848cec344bd1e34e4a5af459 sha1=2670e4cb6b54f7296393eb8096234a57aabdb898
+501e191da3be2d085394eb13e133c40a59ee222bd45182259fa465c65698c402	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=9e13e7f913ebc52dd5b845c16319b103 sha1=7642026d8805109bd2e3a685212f023f93e3fdc5
+b6a075d0ccd0b63e057244a64cd672074cc8a5f5579bb07d6291a1c648bad6bf	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=73df29527f94b09f6f0bf634067c04b3 sha1=60367c077eb7c4079580c458de69048f678310d4
+4327169987154a2a6770742919b916aff0c958f649145336a555c290c0d858ca	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=c68b5e311c5cbf5e525fab07cc1c928a sha1=acc6ce98133e015a92f8dc47bce5768bfdd6cdea
+ef3fafc754d4aa5597378fac2c27582dc974ab53077137f0c234638f42a5c009	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=de5331d7df774b1170eb5726e6d592f9 sha1=1044bab7dff0b44d2708e7a22274d8a3ccbf2520
+7f002f5d4cd461e27bec8016fcf981bba7b78dfd6386f3a9807a024f953dfbde	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=f61265c8c1df36e803134e7e36e088d0 sha1=d198f6d1aea8d0b824765ac2548680cf933d0c19
+e1bc1d85b1e60ccf6d49c90677768d93bd4d65d819029fd6cdd7bbfb57b2efb1	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=9fbe6ff89a8315b75036e3345b32d625 sha1=5edb4b2d663645a5918e611036517a206c861495
+51cda73c920806c6e71b1ca225017e863da345aaddb66429022fef3ff58d1f5f	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=267f9f33b72a578f111ee89f7bf65a00 sha1=3f3e40d58e584d61998655dceeacd626e4ab35d1
+1c7819f6a930439129c191c4b6741e44807350a64eaa9cfe966c5d12b9e4f0ef	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=14620973580baa9652a4930a0e5c1a00 sha1=92f85bde0761fbd1c7441c307b3553b39c8cd579
+f374939c71458fed913b6ef0287cc4f01a3612d69f0740807a7e820cb9dfdd91	MalwareBazaar	2026-10-26	family=SalatStealer | filetype=exe md5=9a5ec86fbd0cf8bb6669022d31e6bd88 sha1=215b1a040a78a2bff73863b12d5b3540bf9cc0df

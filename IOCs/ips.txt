@@ -14623,3 +14623,14 @@
 38.60.179.108:22	ThreatFox	2026-10-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
 18.118.229.48:443	ThreatFox	2026-10-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
 18.118.229.48:8080	ThreatFox	2026-10-24	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+176.65.139.51:3663	ThreatFox	2026-10-26	family=elf.mirai | confidence=80% threat=botnet_cc
+179.199.199.60:33061	ThreatFox	2026-10-26	family=win.vshell | confidence=100% threat=botnet_cc
+106.54.1.74:8089	ThreatFox	2026-10-26	family=win.vshell | confidence=100% threat=botnet_cc
+104.194.155.122:19191	ThreatFox	2026-10-26	family=elf.bashlite | confidence=75% threat=botnet_cc
+47.239.212.183:8964	ThreatFox	2026-10-26	family=win.vshell | confidence=100% threat=botnet_cc
+8.134.160.8:50002	ThreatFox	2026-10-26	family=win.vshell | confidence=100% threat=botnet_cc
+111.229.162.72:443	ThreatFox	2026-10-26	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+23.155.44.134:8443	ThreatFox	2026-10-26	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+109.71.253.60:80	ThreatFox	2026-10-26	family=unknown | confidence=75% threat=botnet_cc
+176.65.149.4:1367	ThreatFox	2026-10-25	family=elf.mirai | confidence=80% threat=botnet_cc
+91.4.40.132:80	ThreatFox	2026-10-25	family=win.ghost_rat | confidence=50% threat=botnet_cc
