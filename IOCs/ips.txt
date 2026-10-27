@@ -14634,3 +14634,30 @@
 109.71.253.60:80	ThreatFox	2026-10-26	family=unknown | confidence=75% threat=botnet_cc
 176.65.149.4:1367	ThreatFox	2026-10-25	family=elf.mirai | confidence=80% threat=botnet_cc
 91.4.40.132:80	ThreatFox	2026-10-25	family=win.ghost_rat | confidence=50% threat=botnet_cc
+43.198.52.128:443	ThreatFox	2026-10-27	family=unknown | confidence=100% threat=botnet_cc
+202.95.21.195:443	ThreatFox	2026-10-27	family=unknown | confidence=100% threat=botnet_cc
+95.169.10.16:30461	ThreatFox	2026-10-27	family=unknown | confidence=100% threat=botnet_cc
+121.89.93.230:443	ThreatFox	2026-10-27	family=unknown | confidence=100% threat=botnet_cc
+101.200.215.44:443	ThreatFox	2026-10-27	family=unknown | confidence=100% threat=botnet_cc
+170.33.12.185:443	ThreatFox	2026-10-27	family=unknown | confidence=100% threat=botnet_cc
+34.41.139.193:9999	ThreatFox	2026-10-27	family=win.nanocore | confidence=100% threat=botnet_cc
+192.169.69.25:36511	ThreatFox	2026-10-27	family=win.remcos | confidence=100% threat=botnet_cc
+172.111.150.134:36511	ThreatFox	2026-10-27	family=win.remcos | confidence=100% threat=botnet_cc
+167.99.165.191:80	ThreatFox	2026-10-27	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+167.99.165.191:8080	ThreatFox	2026-10-27	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+167.99.165.191:443	ThreatFox	2026-10-27	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+39.96.78.162:8089	ThreatFox	2026-10-26	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+43.228.157.68	OTX	2026-10-26	family=Shai-Hulud | pulse='Beyond testmetest: Native Addon Camouflage and 42 Armed GitHub Repositories Reveal a Hidden npm Publisher' pulse_id=6adf5e8931168a2a5042c62f
+119.63.72.54	OTX	2026-10-24	family=php2shell | pulse='Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure' pulse_id=6adc07f41102c5c37a64cd50
+185.235.212.105	OTX	2026-10-24	family=php2shell | pulse='Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure' pulse_id=6adc07f41102c5c37a64cd50
+103.77.210.80	OTX	2026-10-24	family=php2shell | pulse='Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure' pulse_id=6adc07f41102c5c37a64cd50
+185.203.18.54	OTX	2026-10-24	family=php2shell | pulse='Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure' pulse_id=6adc07f41102c5c37a64cd50
+188.80.228.122	OTX	2026-10-24	family=php2shell | pulse='Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure' pulse_id=6adc07f41102c5c37a64cd50
+147.78.168.57	OTX	2026-10-24	family=php2shell | pulse='Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure' pulse_id=6adc07f41102c5c37a64cd50
+158.173.75.178	OTX	2026-10-24	family=php2shell | pulse='Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure' pulse_id=6adc07f41102c5c37a64cd50
+31.223.184.166	OTX	2026-10-24	family=php2shell | pulse='Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure' pulse_id=6adc07f41102c5c37a64cd50
+117.203.73.63	OTX	2026-10-24	family=php2shell | pulse='Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure' pulse_id=6adc07f41102c5c37a64cd50
+145.255.150.25	OTX	2026-10-24	family=php2shell | pulse='Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure' pulse_id=6adc07f41102c5c37a64cd50
+147.175.149.67	OTX	2026-10-24	family=php2shell | pulse='Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure' pulse_id=6adc07f41102c5c37a64cd50
+147.78.168.67	OTX	2026-10-24	family=php2shell | pulse='Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure' pulse_id=6adc07f41102c5c37a64cd50
+2.26.252.48	OTX	2026-10-23	family=Aokigahara | pulse='Infostealer riding the AI Train' pulse_id=6adb86a013dc27c6c19d3f3c

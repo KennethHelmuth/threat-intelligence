@@ -1,0 +1,65 @@
+title: Network Connection to Qakbot - S0650 Infrastructure
+id: e4c358b6-d1df-4d4d-9561-b120dec27e0f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Qakbot - S0650.
+date: 2026-10-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cobalt strike
+    - darkgate
+    - email bombing
+    - external chat federation
+    - gogrpc
+    - it impersonation
+    - malware.qakbot___s0650
+    - microsoft teams
+    - qakbot
+    - quick assist
+    - remote access tools
+    - social engineering
+    - vishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'update-software.top'
+        - 'helpdesk-call.com'
+        - 'helpdesk-support-us3.com'
+        - 'get-help.top'
+        - 'updsysseq.top'
+        - 'get-help-systems.top'
+        - 'infoupdate-it.top'
+        - 'it-seccontrol.top'
+        - 'assis-programupdate.top'
+        - 'verifsec-update.top'
+        - 'sys-update-check.top'
+        - 'get-sys-info.top'
+        - 'verifcontrol-update.top'
+        - 'fix-it.top'
+        - 'ms-system-check.top'
+        - 'expertassist.top'
+        - 'get-upd-sys.top'
+        - 'data-sys-seq.top'
+        - 'upd-check-soft.top'
+        - 'soft-network.top'
+        - 'it-assistant.top'
+        - 'helpdesk-sys.top'
+        - 'programupdate-assis.top'
+        - 'get-info-check.top'
+        - 'help-desk-get.top'
+        - 'getitconnect.top'
+        - 'getsysmonitor.top'
+        - 'getsystembridge.top'
+        - 'helpdesk-s1x.com'
+        - 'helpdesk-support-office-3.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

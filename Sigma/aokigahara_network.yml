@@ -1,0 +1,34 @@
+title: Network Connection to Aokigahara Infrastructure
+id: c70f4da1-2bc5-4991-bbb8-f3ab9e4cc522
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Aokigahara.
+date: 2026-10-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai applications
+    - aokigahara
+    - infostealer
+    - kamidere
+    - malware.aokigahara
+    - stygian
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'kkeyyou.cc'
+        - 'dfwioeiofwr.info'
+        - 'gate.dfwioeiofwr.info'
+        - 'somelitersofblood.pw'
+        DestinationIp|contains:
+        - '2.26.252.48'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

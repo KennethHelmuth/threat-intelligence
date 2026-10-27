@@ -1,0 +1,35 @@
+title: Network Connection to Polyshell Infrastructure
+id: 4d348cb3-3002-4aad-ad46-6b7b6e760901
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Polyshell.
+date: 2026-10-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser fingerprinting
+    - cms block injection
+    - gsocket
+    - keitaro tds
+    - magento
+    - malware.polyshell
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'leqdger.click'
+        - 'manulfie.click'
+        - 'neswnsssn.click'
+        - 'c85grt98sd.com'
+        - 'crypto-insider.top'
+        - 'deepveindrilling.com'
+        - 'hdfdsi84j3h.top'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

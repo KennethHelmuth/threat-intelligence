@@ -1,0 +1,30 @@
+title: DNS Query to Aokigahara Domains
+id: b6096e45-2f03-4185-be20-0a8117ef98e5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Aokigahara.
+date: 2026-10-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai applications
+    - aokigahara
+    - infostealer
+    - kamidere
+    - malware.aokigahara
+    - stygian
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'kkeyyou.cc'
+        - 'dfwioeiofwr.info'
+        - 'gate.dfwioeiofwr.info'
+        - 'somelitersofblood.pw'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
