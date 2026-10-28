@@ -1,0 +1,30 @@
+title: DNS Query to Convertr Domains
+id: 4496a824-f19c-47bc-bea7-4e808f71e66e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Convertr.
+date: 2026-10-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - card skimmer
+    - convertr
+    - cve-2026-8467
+    - magecart
+    - malware.convertr
+    - supply chain attack
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'antiddos-protection.net'
+        - 'miorl.net'
+        - 'tray.is'
+        - 'xsox.diy'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

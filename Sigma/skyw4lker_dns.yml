@@ -1,0 +1,59 @@
+title: DNS Query to Skyw4Lker Domains
+id: e5244395-c17a-4ee0-b154-3d65bada6b35
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Skyw4Lker.
+date: 2026-10-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - device-code phishing
+    - enterprise targeting
+    - gabagool
+    - malware.skyw4lker
+    - microsoft 365
+    - oauth 2.0
+    - phishing kit
+    - skyw4lker
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'fosterswifts.com'
+        - 'kuer.online'
+        - 'mouphyweb.com'
+        - 'off365mail.club'
+        - 'eccentric-authentication.com'
+        - 'photosofus.com'
+        - 'nicewayrealestate.cc'
+        - 'clubdenut.club'
+        - 'eurosforgroup.com'
+        - 'pdlhaelth.com'
+        - 'solutions00fileptroduct.com'
+        - 'gregor.justdied.com'
+        - 'kilishy.qhigh.com'
+        - 'flow505.mooo.com'
+        - 'bigbrain.chickenkiller.com'
+        - 'off365acess.jumpingcrab.com'
+        - 'torvion.life'
+        - 'ghethim.com'
+        - 'priorispace.biz'
+        - '7criccasinobonus.cc'
+        - 'aachem-za.co'
+        - 'accordhealth.cc'
+        - 'advancedsteelbuilding.com'
+        - 'albertamo.com'
+        - 'alfabricationinc.com'
+        - 'apexpartsdepot.com'
+        - 'apinows.com'
+        - 'atlassgroupinc.com'
+        - 'auth-loadingdocuments.online'
+        - 'azgymfloor.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

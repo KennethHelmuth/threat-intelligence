@@ -1,0 +1,39 @@
+title: Network Connection to Overlord Rat Infrastructure
+id: fe375e3d-166a-48bf-ac52-6dfc174e4918
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Overlord Rat.
+date: 2026-10-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - banking trojan
+    - lampion
+    - malware.overlord_rat
+    - overlord rat
+    - phishing
+    - vbscript
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - '1protestorecife.com'
+        - '2protestodesalvador.com'
+        - '3protestobelem.com'
+        - 'protestobh.com'
+        - 'protestocampinas.com'
+        - 'tabelionatojoinville.com'
+        - 'resolvecenprot.com'
+        DestinationIp|contains:
+        - '191.96.225.125'
+        - '45.158.8.213'
+        - '148.224.62.243'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

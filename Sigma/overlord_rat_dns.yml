@@ -1,0 +1,33 @@
+title: DNS Query to Overlord Rat Domains
+id: 890259d4-0756-4cc3-979b-92bb2d1972cb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Overlord Rat.
+date: 2026-10-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - banking trojan
+    - lampion
+    - malware.overlord_rat
+    - overlord rat
+    - phishing
+    - vbscript
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - '1protestorecife.com'
+        - '2protestodesalvador.com'
+        - '3protestobelem.com'
+        - 'protestobh.com'
+        - 'protestocampinas.com'
+        - 'tabelionatojoinville.com'
+        - 'resolvecenprot.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,33 @@
+title: Network Connection to Icmacos Infrastructure
+id: c2f3f06c-c822-4ddf-878d-a671e7c055df
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Icmacos.
+date: 2026-10-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - amos
+    - icarus macos
+    - macos stealer
+    - macsync
+    - malware.icmacos
+    - remote access trojan
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'escapeai.live'
+        - 'mikoblico.xyz'
+        DestinationIp|contains:
+        - '85.137.253.61'
+        - '45.13.186.247'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

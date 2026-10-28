@@ -1,0 +1,39 @@
+title: Network Connection to Cname Abuse Infrastructure
+id: 4f50eee2-8106-49dd-a12a-d807eecfbfd5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Cname Abuse.
+date: 2026-10-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cname abuse
+    - dns hijacking
+    - domain shadowing
+    - gambling seo
+    - malware.cname_abuse
+    - ns delegation
+    - parasite seo
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'escuelanormallarrainzar.edu.mx'
+        - 'dhabalsatihs.edu.bd'
+        - 'hinkale.me'
+        - 'imghaxor.io'
+        - 'maishadihighschool.edu.bd'
+        - 'raahs.edu.bd'
+        - 'saaacademy.edu.bd'
+        - 'sanguhs.edu.bd'
+        - 'wsbachs.edu.bd'
+        - 'link.omacuan.amc.edu.et.raahs.edu.bd'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

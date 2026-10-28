@@ -1,0 +1,25 @@
+title: DNS Query to Php2Shell Domains
+id: 47bd4ed1-4ef2-4855-a669-c60db7a01722
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Php2Shell.
+date: 2026-10-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cve-2026-109618
+    - cve-2026-109619
+    - malware.php2shell
+    - php2shell
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'php2shell.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

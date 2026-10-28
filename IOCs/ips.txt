@@ -14661,3 +14661,61 @@
 147.175.149.67	OTX	2026-10-24	family=php2shell | pulse='Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure' pulse_id=6adc07f41102c5c37a64cd50
 147.78.168.67	OTX	2026-10-24	family=php2shell | pulse='Suspected DPRK Campaign staging PHP2Shell Targeting against Global PHP infrastructure' pulse_id=6adc07f41102c5c37a64cd50
 2.26.252.48	OTX	2026-10-23	family=Aokigahara | pulse='Infostealer riding the AI Train' pulse_id=6adb86a013dc27c6c19d3f3c
+182.16.98.88:21	ThreatFox	2026-10-28	family=win.vshell | confidence=100% threat=botnet_cc
+182.16.98.85:8081	ThreatFox	2026-10-28	family=win.vshell | confidence=100% threat=botnet_cc
+43.251.103.206:4456	ThreatFox	2026-10-28	family=win.quasar_rat | confidence=100% threat=botnet_cc
+213.139.77.217:8443	ThreatFox	2026-10-28	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+3.11.71.133:443	ThreatFox	2026-10-28	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+122.51.179.8:80	ThreatFox	2026-10-28	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+188.166.229.242:8002	ThreatFox	2026-10-28	family=elf.aisuru | confidence=100% threat=botnet_cc
+134.122.191.188:7111	ThreatFox	2026-10-28	family=win.valley_rat | confidence=75% threat=botnet_cc
+134.122.191.188:7112	ThreatFox	2026-10-28	family=win.valley_rat | confidence=75% threat=botnet_cc
+182.16.98.83:21	ThreatFox	2026-10-27	family=win.vshell | confidence=100% threat=botnet_cc
+134.122.189.138:5088	ThreatFox	2026-10-27	family=unknown_rat | confidence=100% threat=botnet_cc
+8.217.91.135:8443	ThreatFox	2026-10-27	family=win.vshell | confidence=100% threat=botnet_cc
+119.42.148.189:21	ThreatFox	2026-10-27	family=win.vshell | confidence=100% threat=botnet_cc
+119.42.148.187:21	ThreatFox	2026-10-27	family=win.vshell | confidence=100% threat=botnet_cc
+119.42.148.187:8081	ThreatFox	2026-10-27	family=win.vshell | confidence=100% threat=botnet_cc
+182.16.98.84:21	ThreatFox	2026-10-27	family=win.vshell | confidence=100% threat=botnet_cc
+182.16.98.84:8081	ThreatFox	2026-10-27	family=win.vshell | confidence=100% threat=botnet_cc
+185.177.72.24:80	ThreatFox	2026-10-27	family=unknown | confidence=100% threat=botnet_cc
+185.177.72.38:80	ThreatFox	2026-10-27	family=unknown | confidence=100% threat=botnet_cc
+176.234.231.136:80	ThreatFox	2026-10-27	family=unknown | confidence=100% threat=botnet_cc
+154.82.110.174:80	ThreatFox	2026-10-27	family=unknown | confidence=75% threat=botnet_cc
+203.0.113.99:80	ThreatFox	2026-10-27	family=unknown | confidence=100% threat=botnet_cc
+64.176.80.211:7443	ThreatFox	2026-10-27	family=unknown | confidence=100% threat=botnet_cc
+182.16.98.82:8081	ThreatFox	2026-10-27	family=win.vshell | confidence=100% threat=botnet_cc
+101.133.229.117:22	ThreatFox	2026-10-27	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+101.133.229.117:8011	ThreatFox	2026-10-27	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+101.133.229.117:21119	ThreatFox	2026-10-27	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+45.141.117.158:10151	ThreatFox	2026-10-27	family=unknown_rat | confidence=100% threat=botnet_cc
+84.54.33.24:56002	ThreatFox	2026-10-27	family=win.pure_rat | confidence=75% threat=botnet_cc
+66.179.30.172:7443	ThreatFox	2026-10-27	family=unknown | confidence=75% threat=botnet_cc
+62.233.51.89:443	ThreatFox	2026-10-27	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.225.135.237:56001	ThreatFox	2026-10-27	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.225.135.237:56002	ThreatFox	2026-10-27	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.225.135.237:56003	ThreatFox	2026-10-27	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.225.135.240:56001	ThreatFox	2026-10-27	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.225.135.240:56002	ThreatFox	2026-10-27	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.225.135.133:56002	ThreatFox	2026-10-27	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.225.135.227:56002	ThreatFox	2026-10-27	family=win.pure_rat | confidence=75% threat=botnet_cc
+23.171.177.41:56002	ThreatFox	2026-10-27	family=win.pure_rat | confidence=75% threat=botnet_cc
+206.123.152.134:99	ThreatFox	2026-10-27	family=win.dcrat | confidence=75% threat=botnet_cc
+157.66.225.224:6606	ThreatFox	2026-10-27	family=win.asyncrat | confidence=75% threat=botnet_cc
+154.29.79.11:443	ThreatFox	2026-10-27	family=win.pure_rat | confidence=75% threat=botnet_cc
+13.197.55.224:80	ThreatFox	2026-10-27	family=win.brute_ratel_c4 | confidence=75% threat=botnet_cc
+128.90.105.97:443	ThreatFox	2026-10-27	family=win.pure_rat | confidence=75% threat=botnet_cc
+107.173.140.41:7443	ThreatFox	2026-10-27	family=unknown | confidence=75% threat=botnet_cc
+103.181.134.12	OTX	2026-10-27	family=Poseidon | pulse='Automated Subversion and Attempted Takeover of AI Pentesting Harnesses' pulse_id=6ae0cd70485894a6eeb2bad8
+199.91.220.129	OTX	2026-10-27	family=Poseidon | pulse='Automated Subversion and Attempted Takeover of AI Pentesting Harnesses' pulse_id=6ae0cd70485894a6eeb2bad8
+144.172.116.37	OTX	2026-10-27	family=rs.win32.exe | pulse='Camera Management Software Compromise Leads to Malware Deployment' pulse_id=6ae0cc28c4875a80ccd6b804
+85.137.253.61	OTX	2026-10-27	family=ICMacOS | pulse='Inside ICMacOS: From an Infostealer to a Persistent RAT' pulse_id=6ae095d4e2266adbe75f4ec3
+45.13.186.247	OTX	2026-10-27	family=ICMacOS | pulse='Inside ICMacOS: From an Infostealer to a Persistent RAT' pulse_id=6ae095d4e2266adbe75f4ec3
+103.151.172.95	OTX	2026-10-27	family=php2shell | pulse='PHP2Shell: Exploitation Attempts and Remediation Trends' pulse_id=6ae0b1549b888d367073448e
+122.10.130.72	OTX	2026-10-27	family=Mirai | pulse='PHP2Shell (CVE-2026-109618/9) Havoc: UNC actors leveraging Public Exploit Code Against Public, Business And Educational Infrastructure' pulse_id=6ae095c9103f37d94d160182
+85.11.163.243	OTX	2026-10-27	family=Mirai | pulse='PHP2Shell (CVE-2026-109618/9) Havoc: UNC actors leveraging Public Exploit Code Against Public, Business And Educational Infrastructure' pulse_id=6ae095c9103f37d94d160182
+103.225.11.209	OTX	2026-10-27	family=Mirai | pulse='PHP2Shell (CVE-2026-109618/9) Havoc: UNC actors leveraging Public Exploit Code Against Public, Business And Educational Infrastructure' pulse_id=6ae095c9103f37d94d160182
+45.12.18.195	OTX	2026-10-27	family=Mirai | pulse='PHP2Shell (CVE-2026-109618/9) Havoc: UNC actors leveraging Public Exploit Code Against Public, Business And Educational Infrastructure' pulse_id=6ae095c9103f37d94d160182
+191.96.225.125	OTX	2026-10-27	family=Overlord RAT | pulse='How VBScript Malware Evades Detection Using Trusted Tools Copy' pulse_id=6ae095c5697cb799b2ecd396
+45.158.8.213	OTX	2026-10-27	family=Overlord RAT | pulse='How VBScript Malware Evades Detection Using Trusted Tools Copy' pulse_id=6ae095c5697cb799b2ecd396
+148.224.62.243	OTX	2026-10-27	family=Overlord RAT | pulse='How VBScript Malware Evades Detection Using Trusted Tools Copy' pulse_id=6ae095c5697cb799b2ecd396

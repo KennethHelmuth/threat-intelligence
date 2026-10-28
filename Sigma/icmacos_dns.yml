@@ -1,0 +1,28 @@
+title: DNS Query to Icmacos Domains
+id: f32aaa07-1985-4475-ae25-e404a8fd4a24
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Icmacos.
+date: 2026-10-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - amos
+    - icarus macos
+    - macos stealer
+    - macsync
+    - malware.icmacos
+    - remote access trojan
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'escapeai.live'
+        - 'mikoblico.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

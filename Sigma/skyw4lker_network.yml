@@ -1,0 +1,61 @@
+title: Network Connection to Skyw4Lker Infrastructure
+id: 56a480b5-752e-4709-a81f-807b10501b86
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Skyw4Lker.
+date: 2026-10-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - device-code phishing
+    - enterprise targeting
+    - gabagool
+    - malware.skyw4lker
+    - microsoft 365
+    - oauth 2.0
+    - phishing kit
+    - skyw4lker
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'fosterswifts.com'
+        - 'kuer.online'
+        - 'mouphyweb.com'
+        - 'off365mail.club'
+        - 'eccentric-authentication.com'
+        - 'photosofus.com'
+        - 'nicewayrealestate.cc'
+        - 'clubdenut.club'
+        - 'eurosforgroup.com'
+        - 'pdlhaelth.com'
+        - 'solutions00fileptroduct.com'
+        - 'gregor.justdied.com'
+        - 'kilishy.qhigh.com'
+        - 'flow505.mooo.com'
+        - 'bigbrain.chickenkiller.com'
+        - 'off365acess.jumpingcrab.com'
+        - 'torvion.life'
+        - 'ghethim.com'
+        - 'priorispace.biz'
+        - '7criccasinobonus.cc'
+        - 'aachem-za.co'
+        - 'accordhealth.cc'
+        - 'advancedsteelbuilding.com'
+        - 'albertamo.com'
+        - 'alfabricationinc.com'
+        - 'apexpartsdepot.com'
+        - 'apinows.com'
+        - 'atlassgroupinc.com'
+        - 'auth-loadingdocuments.online'
+        - 'azgymfloor.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,32 @@
+title: Network Connection to Convertr Infrastructure
+id: 1a334c96-af86-4b79-8455-6cf637e74cee
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Convertr.
+date: 2026-10-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - card skimmer
+    - convertr
+    - cve-2026-8467
+    - magecart
+    - malware.convertr
+    - supply chain attack
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'antiddos-protection.net'
+        - 'miorl.net'
+        - 'tray.is'
+        - 'xsox.diy'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,30 @@
+title: Network Connection to Yoba Infrastructure
+id: 9ca2d242-61f1-496b-9479-d8ca15144a1d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Yoba.
+date: 2026-10-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chatgpt lure
+    - claude lure
+    - github phishing
+    - malware.yoba
+    - seo poisoning
+    - xmrig
+    - yoba
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - '3zciedc3enu4muwc5adxciyk6u3juhvhvbv6bfrk2arawlvb7k7ovxad.onion'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

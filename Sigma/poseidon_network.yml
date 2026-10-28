@@ -1,0 +1,34 @@
+title: Network Connection to Poseidon Infrastructure
+id: 9c1d3dc5-c14a-4d07-afdf-2de7b5860638
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Poseidon.
+date: 2026-10-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - agentic operations
+    - ai harness compromise
+    - automated attacks
+    - cairn
+    - container escape
+    - credential theft
+    - malware.poseidon
+    - poseidon
+    - poseidon rat
+    - ssh key installation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '103.181.134.12'
+        - '199.91.220.129'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,26 @@
+title: Network Connection to Rs.Win32.Exe Infrastructure
+id: b50a86f8-1a09-4949-bfdc-b3c030132483
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Rs.Win32.Exe.
+date: 2026-10-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - camera management software
+    - dll sideloading
+    - malware.rs.win32.exe
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '144.172.116.37'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,34 @@
+title: Network Connection to Fake Onedrive Infrastructure
+id: 5351ae4b-ba73-4bc6-940b-ccf2fb343d9c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Fake Onedrive.
+date: 2026-10-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bid invitation theme
+    - business email compromise
+    - credential phishing
+    - document sharing lure
+    - fake onedrive
+    - malware.fake_onedrive
+    - microsoft login spoofing
+    - password-protected pdf
+    - social engineering
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'nbpn.lastingonlineexperiences.de'
+        - 'slotpastimaxwin50jt.online'
+        - 'mm-lasertechnik.lastingonlineexperiences.de'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
