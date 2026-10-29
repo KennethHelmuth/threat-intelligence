@@ -1,0 +1,30 @@
+title: DNS Query to Bulletproof Hosting Domains
+id: af246ae0-2408-4b57-8f2c-b55c0945f1e3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Bulletproof Hosting.
+date: 2026-10-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - asn manipulation
+    - bulletproof hosting
+    - cybercrime infrastructure
+    - fbi seizure
+    - malware.bulletproof_hosting
+    - omegatech
+    - operation omegaline
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'virtualine.net'
+        - 'anonrdp.com'
+        - 'ghostynetworks.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

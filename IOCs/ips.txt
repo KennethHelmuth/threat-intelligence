@@ -14719,3 +14719,41 @@
 191.96.225.125	OTX	2026-10-27	family=Overlord RAT | pulse='How VBScript Malware Evades Detection Using Trusted Tools Copy' pulse_id=6ae095c5697cb799b2ecd396
 45.158.8.213	OTX	2026-10-27	family=Overlord RAT | pulse='How VBScript Malware Evades Detection Using Trusted Tools Copy' pulse_id=6ae095c5697cb799b2ecd396
 148.224.62.243	OTX	2026-10-27	family=Overlord RAT | pulse='How VBScript Malware Evades Detection Using Trusted Tools Copy' pulse_id=6ae095c5697cb799b2ecd396
+185.197.193.121:7443	ThreatFox	2026-10-29	family=unknown | confidence=100% threat=botnet_cc
+106.54.13.23:8082	ThreatFox	2026-10-29	family=unknown | confidence=100% threat=botnet_cc
+176.44.71.239:443	ThreatFox	2026-10-29	family=win.havoc | confidence=100% threat=botnet_cc
+182.16.98.92:2333	ThreatFox	2026-10-29	family=win.vshell | confidence=100% threat=botnet_cc
+159.223.89.103:36605	ThreatFox	2026-10-29	family=elf.drifter | confidence=100% threat=botnet_cc
+89.32.41.114:23789	ThreatFox	2026-10-29	family=elf.potassium | confidence=100% threat=botnet_cc
+89.32.41.146:32876	ThreatFox	2026-10-29	family=elf.potassium | confidence=100% threat=botnet_cc
+89.32.41.59:23789	ThreatFox	2026-10-29	family=elf.potassium | confidence=100% threat=botnet_cc
+182.16.98.90:8081	ThreatFox	2026-10-29	family=win.vshell | confidence=100% threat=botnet_cc
+182.16.98.89:8081	ThreatFox	2026-10-29	family=win.vshell | confidence=100% threat=botnet_cc
+182.16.98.90:2333	ThreatFox	2026-10-29	family=win.vshell | confidence=100% threat=botnet_cc
+182.16.98.89:21	ThreatFox	2026-10-29	family=win.vshell | confidence=100% threat=botnet_cc
+182.16.98.88:2333	ThreatFox	2026-10-29	family=win.vshell | confidence=100% threat=botnet_cc
+78.153.136.20:8002	ThreatFox	2026-10-29	family=elf.aisuru | confidence=100% threat=botnet_cc
+159.223.89.103:34532	ThreatFox	2026-10-29	family=elf.drifter | confidence=100% threat=botnet_cc
+182.16.98.84:2333	ThreatFox	2026-10-29	family=win.vshell | confidence=100% threat=botnet_cc
+182.16.98.86:2333	ThreatFox	2026-10-29	family=win.vshell | confidence=100% threat=botnet_cc
+206.238.123.21:8080	ThreatFox	2026-10-29	family=win.vshell | confidence=100% threat=botnet_cc
+111.228.45.86:8088	ThreatFox	2026-10-29	family=win.vshell | confidence=100% threat=botnet_cc
+121.43.102.230:80	ThreatFox	2026-10-29	family=win.vshell | confidence=100% threat=botnet_cc
+45.135.118.214:2095	ThreatFox	2026-10-29	family=win.vshell | confidence=100% threat=botnet_cc
+49.36.35.148	OTX	2026-10-28	family=http2shell | pulse='Node2Shell / HTTP2Shell Vulnerability May Allow RCE' pulse_id=6ae2424aa801637ecf4942df
+105.213.105.48	OTX	2026-10-28	family=http2shell | pulse='Node2Shell / HTTP2Shell Vulnerability May Allow RCE' pulse_id=6ae2424aa801637ecf4942df
+49.37.46.99	OTX	2026-10-28	family=http2shell | pulse='Node2Shell / HTTP2Shell Vulnerability May Allow RCE' pulse_id=6ae2424aa801637ecf4942df
+198.13.158.143	OTX	2026-10-28	family=n0n | pulse='n0n Ransomware: Inside an AI-Assisted Extortion Operation' pulse_id=6ae20c8c345d85127b06d6d0
+217.18.55.185	OTX	2026-10-28	family=n0n | pulse='n0n Ransomware: Inside an AI-Assisted Extortion Operation' pulse_id=6ae20c8c345d85127b06d6d0
+45.132.114.241	OTX	2026-10-28	family=n0n | pulse='n0n Ransomware: Inside an AI-Assisted Extortion Operation' pulse_id=6ae20c8c345d85127b06d6d0
+96.126.130.81	OTX	2026-10-28	family=kkkkevin777 | pulse='PHP2Shell Weaponized After Japanese Real Estate Extortion' pulse_id=6ae20c8b7eea709e876863db
+149.88.73.163	OTX	2026-10-28	family=Wrqsnx | pulse='68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory' pulse_id=6ae205cefd1c69f6a9b3116d
+154.89.151.143	OTX	2026-10-28	family=Wrqsnx | pulse='68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory' pulse_id=6ae205cefd1c69f6a9b3116d
+177.3.42.39	OTX	2026-10-28	family=Wrqsnx | pulse='68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory' pulse_id=6ae205cefd1c69f6a9b3116d
+37.19.200.5	OTX	2026-10-28	family=php2shell | pulse='Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot' pulse_id=6ad9eb3e5a8fa9121e8ab038
+134.209.159.64	OTX	2026-10-28	family=php2shell | pulse='Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot' pulse_id=6ad9eb3e5a8fa9121e8ab038
+103.216.220.92	OTX	2026-10-28	family=php2shell | pulse='Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot' pulse_id=6ad9eb3e5a8fa9121e8ab038
+103.114.163.188	OTX	2026-10-28	family=php2shell | pulse='Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot' pulse_id=6ad9eb3e5a8fa9121e8ab038
+95.217.98.37	OTX	2026-10-28	family=php2shell | pulse='Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot' pulse_id=6ad9eb3e5a8fa9121e8ab038
+14.128.53.155	OTX	2026-10-28	family=ValleyRAT | pulse='RATatouille: Today's Special: Impersonating Companies in Korea, Payments in Cryptocurrency' pulse_id=6ae185d0d24a85ae5c54ae6f
+91.92.240.5	OTX	2026-10-28	family=bulletproof hosting | pulse='Omegatech Is Disrupted, and the Pressure on Bulletproof Hosting Keeps Building' pulse_id=6ae14ab2a51c8b2b96924ba2

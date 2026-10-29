@@ -1,0 +1,37 @@
+title: Network Connection to N0N Infrastructure
+id: 042f1f0d-c398-4c95-9c48-9217dd295c83
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with N0N.
+date: 2026-10-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-assisted attacks
+    - backup destruction
+    - credential stuffing
+    - data exfiltration
+    - destructive extortion
+    - fortigate ssl-vpn
+    - llm coding agent
+    - malware.n0n
+    - n0n
+    - n0n ransomware
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'beaconipv4185.157.161.93ntpsync.io'
+        DestinationIp|contains:
+        - '198.13.158.143'
+        - '217.18.55.185'
+        - '45.132.114.241'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

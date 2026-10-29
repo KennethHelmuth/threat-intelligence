@@ -1,0 +1,35 @@
+title: Network Connection to Http2Shell Infrastructure
+id: 896fee69-e37f-4141-b60e-a06937c15816
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Http2Shell.
+date: 2026-10-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - brotli decoder
+    - compression vulnerability
+    - container exploitation
+    - cve-2026-111497
+    - http2shell
+    - malware.http2shell
+    - node.js
+    - node2shell
+    - out-of-bounds write
+    - remote code execution
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '49.36.35.148'
+        - '105.213.105.48'
+        - '49.37.46.99'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

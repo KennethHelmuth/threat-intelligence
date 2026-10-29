@@ -1,0 +1,31 @@
+title: DNS Query to Firefox Extensions Domains
+id: e1bd823c-a7d4-48f4-a65f-451fd2549daa
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Firefox Extensions.
+date: 2026-10-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser extension malware
+    - crypto wallet impersonation
+    - firefox extensions
+    - malware.firefox_extensions
+    - seed phrase theft
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'phantom.bonto.io'
+        - 'jupiter.bonto.io'
+        - 'bitget.bonto.io'
+        - 'bonto.io'
+        - 'coinbase.bonto.io'
+        - 'exodus.bonto.io'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

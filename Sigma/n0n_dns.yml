@@ -1,0 +1,31 @@
+title: DNS Query to N0N Domains
+id: 85f64cd6-a2a0-4fc5-901e-a891debe24a6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with N0N.
+date: 2026-10-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-assisted attacks
+    - backup destruction
+    - credential stuffing
+    - data exfiltration
+    - destructive extortion
+    - fortigate ssl-vpn
+    - llm coding agent
+    - malware.n0n
+    - n0n
+    - n0n ransomware
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'beaconipv4185.157.161.93ntpsync.io'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,34 @@
+title: Network Connection to Kkkkevin777 Infrastructure
+id: ee716cb6-1e16-46a2-aff1-bee11e87ad08
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Kkkkevin777.
+date: 2026-10-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - beacon infrastructure
+    - credential reuse
+    - customer data theft
+    - cve-2026-109618
+    - cve-2026-109619
+    - japanese real estate extortion
+    - kkkkevin777
+    - malware.kkkkevin777
+    - php2shell
+    - shared hosting compromise
+    - web shell deployment
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '96.126.130.81'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

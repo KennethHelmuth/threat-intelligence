@@ -1,0 +1,69 @@
+rule win_salatstealer_20261029
+{
+    meta:
+        description = "Auto-generated stub for win.salatstealer based on 81 hashes"
+        author      = "ti-pipeline (auto-generated)"
+        date        = "2026-10-29"
+        version     = "1.0"
+        source      = "ThreatFox"
+        family      = "win.salatstealer"
+        hash_count  = "81"
+
+    strings:
+        // Hashes (SHA-256) – reference only; add byte-strings/imphash conditions below
+        // d572f36453a5f51d5d9e0e456264970da65c945bb8b001ed4e5c91e4bc74d294
+        // 66cfd97e739eed9e633a632eae81e24072399ff538e0dd85866cdc42cfa8557d
+        // 231f4fe6cebf9cbe7d663503bd25b923d3daeebbac973f98ace8a9a770d9b59b
+        // 77a32b9c95a8228dcb6ab73d2c045e7b603837a1aac535ac31b465b7f1f256af
+        // a0e2b9c5bcda769b5ced07bca13da40f37ca6dcb16c3d5036b9089755dedf186
+        // 5ced9afef6a7705b783ed2edda02a39452d391af6490087b0c32fdeaf4bea0f9
+        // 05cfac8008d88e131e7e81c7b58e783699080586792f54c9b0dfcda5738ed004
+        // 97b0f79f66bf46568ee6aa0ccaa24d95c46e6fa2fa7bdff2282b428fe96b7f32
+        // 88f7d11fe4ed196af8931d065dcf91c71fda385fc1aec33f114a25c3b98990bf
+        // ddffa002eb19cf535b4d7577d59207fbfd7cc04a693fd55fc9b9869324cd3d6f
+        // 364e0135bcf585807f10fbe0e29cbd1df7586d90bf2bb3a512fdc005b0b59669
+        // 1550c0399429bebc3aadb96a0de2f0550079434ffd643a7a76a47b9e47c9b4dd
+        // 5de3d9b327b1eca29867ab4a0d5c59302858302cf9091604658b9fc4995c5667
+        // d792764640539de0230ecd8213d9d5217ab43835943a8724e738eac0d96545e0
+        // 2ed145530149d78980b5018e7a018bb7d377b38ca5030760fb4154ddd5f49648
+        // a7c01cfc75676d0810a8f82fa026e9dbf2a70a3d376bfd8fc9992c0d0f0de6cf
+        // de2acd1f5cb95f8525d2c96eb8bacc1cfd73dcd0550f382e60e73a1bc208151f
+        // 12731350ac7d6cbe888e61b9754977bb85f2bbceb048170522237e94439cf17f
+        // 9f472cb0397fc1255adb1a001a5424972c4f6547a72c7090cfefb0a48b5251ff
+        // d975b3ee5688134b43d13e08845623ae4ed7bcd57c6c2a3e139cb129b824e2ad
+        // b8f71b5f6656298e95013e75b955b9b49f0f236f30558aedb20f2f62aeddd782
+        // ec01c37f1b3e111eb0a75e7e267726c118677cb0064f1aeb97651e471351f128
+        // 795f126123fbf480c2f843ca2d8b914d9bc13fbb0a8a1b88e18bd12130cc10d6
+        // c041f4667c7ec0b5eed619ab1a0529c8dc8a9eb18670d02de503f2edfe110a2c
+        // 2656587d1f6b827efb0e762739ffb1a391613ed690a096ae7a1cfbc41edad2f0
+        // 3ddcde297d71f9a475a57c2eeb2c923ca22b0fc9f67a1e1664c5057ba326d374
+        // b00784d96811d72a503d8b4f84d32c3c509322fcfdfaa476637d4d425b51deb9
+        // e55b5e0257295801d13099ca010da3c0ef7963f9adcf237c30cc0a3341f1a104
+        // 3990eb8f839bd4468dc389ed361bc037569989ad7df00532f94acdea04b46b74
+        // ba5f005a7d4c9969ef3152be044ea3875d598e0838fa4f905e5491f129cc4cc5
+        // 811ff617744e77cc61eb507b68f54f091d89dd37ecbb8ef69b9b82e9a7f00a66
+        // 73ea48e08248fdb6c9991223b34f825729266c8f493337e8a31cf2e047364627
+        // 6d2fdc2184461c903c9d08689b40fcd38aebd444d529b7a705f21f9c808c3dd4
+        // f9d022335dca53a2ac7353f771d801849405e2763a8c7c2ddc7e9d8573f86c32
+        // 565a42b0456aff7061c1431bf5deb8dd46a5b4352eedf096e379d65e50930bdd
+        // b382f286a2a4499ea1fc55facd1989999dc3ffb405845744b99e1dd40ba4c397
+        // 944e69dc3fdc3b821e6159325832e941895d0da372a00001e36051c82120dbcf
+        // 29c6fb47d4abfe4a610d6c68ee7526f93125a01537e8178e61dbcf5552b30850
+        // 1c0ea5018921057c4f7788748619b116126611fb962185b1e90d1825896ac238
+        // 2a064a5eb0a28e8bd8629631d56b91e7473de5e006983b8eba945e74938de2d2
+        // 6183cf92f3f1d5db425dccb8c8b051e60e08068ea746df3960027f9505877e0e
+        // d24016826df7ae508b90fdb6c9e7b6e8305245595ecfc2b506513f2f971cebd0
+        // 796b43e93f448491bdced298214a32c4d5399b9557d47b98781876497956d431
+        // 7a3900c0fb2deef9deb7aca302e26fc33f830870e42dabe3d15d9514bc6a314d
+        // 6db1df1541090a9d6f9c0bffe2bfa081981cdfc915de1b471c53c2e026569f00
+        // 621a881b711163982e7deb4a2bb28737
+        // ba3dae490a913378e459b7f249074f9f
+        // 16b4a4dfff7d5aaa779a1974544f9c89
+        // c661bc6971ae777bfcbdf418c9355bc9a823e1a79bcd58a11f014fd3da7993ec
+        // ca743c3b827e61b0ca6b936732f77e11
+
+    condition:
+        // TODO: replace with byte-level strings, pe.imphash(), or hash.sha256() checks
+        // Example: pe.imphash() == "aabbccdd..."
+        false  // stub – analyst must complete this rule
+}

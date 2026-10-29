@@ -1,0 +1,65 @@
+title: DNS Query to Ghostbat Domains
+id: c0f62a22-3333-4cb9-9f22-84b867f0f75e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Ghostbat.
+date: 2026-10-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - android trojan
+    - appkjl
+    - banking fraud
+    - btmob
+    - credential theft
+    - cryptojacking
+    - cyb3rx
+    - d-miner
+    - d-passive
+    - d-shine
+    - ghostbat
+    - ghostgrab
+    - godz
+    - india
+    - malware.ghostbat
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'serviceshelp.online'
+        - 'cardsprotection.in'
+        - 'aptabase.fud2026.xyz'
+        - 'accessor.fud2026.com'
+        - 'pool-proxy.fud2026.com'
+        - 'pool.fud2026.com'
+        - 'protectcc.online'
+        - '81service.icu'
+        - '81service.in'
+        - 'app2-update2.site'
+        - 'applypointguides.in'
+        - 'cancelcardprotection.online'
+        - 'cancelcpservice.in'
+        - 'cancelmyservice.in'
+        - 'cancelservice.in'
+        - 'cardforex.icu'
+        - 'cardplan.online'
+        - 'cardprotections.in'
+        - 'cardsprotection.online'
+        - 'careidf.online'
+        - 'carep.online'
+        - 'cpmanaged.in'
+        - 'cppmanage.in'
+        - 'deactivatecpplan.in'
+        - 'deactivatecpservice.in'
+        - 'hdmanage.online'
+        - 'icppuser.in'
+        - 'icppuser.online'
+        - 'icservice.online'
+        - 'icuser.online'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

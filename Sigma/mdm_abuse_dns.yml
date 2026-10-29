@@ -1,0 +1,33 @@
+title: DNS Query to Mdm Abuse Domains
+id: 4f2e75a3-eb77-4984-90f8-cbdcf295737a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Mdm Abuse.
+date: 2026-10-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - hexnode
+    - malware.mdm_abuse
+    - mdm abuse
+    - phishing
+    - privileged access
+    - rippling
+    - rmm tools
+    - screenconnect
+    - social engineering
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'relay.bobdthjau.com'
+        - 'relay.pronconetydesire.online'
+        - 'teams-microsoftcom5d41402abc4b2a76b9719d911017c592.kiratham.com'
+        - 'webdocusign.viewportal.es'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

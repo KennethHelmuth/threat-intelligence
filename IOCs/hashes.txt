@@ -23320,3 +23320,314 @@ e8f913f905f54510e3de1d5e9617a2a7b00d10e3	OTX	2026-10-27	family=Yoba | pulse='Tri
 1c88fc4bdbc144b341f46c5c1e7eae07422442bc	OTX	2026-10-27	family=DarkCore | pulse='DarkCore: A Data-Theft RAT With a Session-Hijacking Browser' pulse_id=6ae095c663fb4a4ea6376f77
 585cb5933db5a9209e663c66778dfff07669a8fe	OTX	2026-10-27	family=DarkCore | pulse='DarkCore: A Data-Theft RAT With a Session-Hijacking Browser' pulse_id=6ae095c663fb4a4ea6376f77
 bd47ddb17c2ffc579e7092515e628594efd8a762	OTX	2026-10-27	family=DarkCore | pulse='DarkCore: A Data-Theft RAT With a Session-Hijacking Browser' pulse_id=6ae095c663fb4a4ea6376f77
+6b5afe506c5b4db4094797166a92021271a623af48f1d476185858264909d8c7	MalwareBazaar	2026-10-29	filetype=elf md5=9d430f3192dc4c3dac9592c7c11db729 sha1=c6f0b5d69c55b07f77105b32bb12f1baf8a11455 | vt=38/76
+c6d1eb5f2869b70dbaaa504a6d33c4051715e19903cb4259448a08266d917dfc	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+f8f838ce043076a36fd91659ae5c38188d1595f3a8dabe0bace040d28f438138	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+7d7b0f1f816496e3965856b745aae486fd7ea554d69fbcb493a403a33190b27e	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+71e6163ef9103594938e35ac84e6f24ccbca80c7fdaba82c65a143be1bbe98ec	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+abf94a2b65c335698b9e22d14ad60a3dd22a5c9dd5f38586c4c98a0cd01e4296	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+7959fc5895b22533dd5d3adc7f36b155f8dbab791fb94f348dfdc9c84d4cc6e8	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+d572f36453a5f51d5d9e0e456264970da65c945bb8b001ed4e5c91e4bc74d294	ThreatFox	2026-10-29	family=win.salatstealer | confidence=90% threat=payload
+395033c5d50afe446e9a89f90c27c557906c73af0ff056701af88ad5426d187e	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+2c90f8a18892aad6e33f3e780a119bf25f447704aa7c55a1649fab54f5d142ec	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+5e3e5d493f8766ce268676d9dab591d9871bfe259d3a3ec6c910d6b11cda1773	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+3836616544c8044ea1977c9ce88adda5a53accd843ebbca469f7b11a6251486c	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+5c71ab6c748e996eb7133459d882235bae0987f30cfaee6aca28bdfa75e3b2c0	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+eec3f1975eb721121705ac3a478bade8a4c3d462615c2bfab7f2a035674cb3a9	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+6e79e890c649ef6f0cd238487fb56de717db6c60285d2c528464aa43bdd7bdc7	ThreatFox	2026-10-29	family=elf.mirai | confidence=95% threat=payload
+66cfd97e739eed9e633a632eae81e24072399ff538e0dd85866cdc42cfa8557d	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+231f4fe6cebf9cbe7d663503bd25b923d3daeebbac973f98ace8a9a770d9b59b	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+77a32b9c95a8228dcb6ab73d2c045e7b603837a1aac535ac31b465b7f1f256af	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+019f8714fd6c45ee9096fe1cbd09b46358b8d92d25f2af63f564736a8e3737b2	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+69160ef6c94bdee7fd3718866becc1cdbf21321dc8eceea8fd4cec558bea7ade	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+bade01c5f63c3c24fc80edd61d4cde938e416c5dc8b5cb6b2ea93f3ac66e16b6	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+c49eb212cba6a022634002f0f583184e19ef5e72678f8ee605e533be7156d51a	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+910eb333f417f07a44c6c85641ccf10997c77d27f63468c54825e05a4dbda2da	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+3d0d53a8518416b6d3e489359391b7e7e754d21e2cff6542f45b4ea6cfe723a5	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+a3e9ea19e34bb22c3e18d1c87d8c0f328f82007db5f0795fb36ab4cd7075b709	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+716fba2580b75a4a6283c29691b06f5dfb903cf51219217c4575e7766b85e635	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+fc372bac6f9c0fe527559e35ed140e67fe05489f7f2fe87c609f9ea7ad4a05a4	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+0a7589a80b60f4a2ede96d81552c39d0ad6ec1875e4a89141dc29e1a9181a199	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+468ac37089073e586ba0b9ce5934b25541861507528518326b7face877b4d1f9	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+f57608f60f0db086cbb621cb503003ae5d8e30e4d491f7ec778c0cf4f53f8e65	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+33ff9fd5c27385177180bae4be29cb10000e2e2e3b25d8023734a616fad8f615	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+a0e2b9c5bcda769b5ced07bca13da40f37ca6dcb16c3d5036b9089755dedf186	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+5ced9afef6a7705b783ed2edda02a39452d391af6490087b0c32fdeaf4bea0f9	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+e8e0fed368911912a6efb8433253b98f3380da37258a7c86831c9348b2fab365	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+15b43a39b979568645677a5e2d2b4f4e5388c7b0d2f5ff8fd71474c378a7b19d	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+e3352ba29ecb44dd26e431539a4e1260de1265472cb339b45ee142fc41ef5834	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+3d91efb7eb6fd4b6a96115fb3eba7cd6e2a6473d45edf98d552b8103891f3a04	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+832364e8c770e3bf63bb12d47c2b656c299aa1edfc3122aed9d5d6f5e6735c21	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+0e481f24a9a4177e05bb54fbf7a59ee4045d408610c8c7a2a33cbda65397aad9	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+97f8e07adf99482b1e4492ba7d63cb2b3bdfb3844c336126a9922c5b789808ab	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+9707addb21a57396972b1dd56d9fb35b3736c98496e825e6f749ae8801c95d5f	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+32d111437433485075cf6688daa9c6b3f1dadb027f0462bb8f19b1c274545963	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+b1cb2da0fa012330302b189385d8989b109aa48177bc19b4765bed230491673f	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+72cccdc5b3d18020ab3611f95dc3d21ffb63aba483201db555ac2cb3fc243e53	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+f64b3080432867f3778e62399cc109dfbc10ddc924bc5221daa3c1d54eecc831	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+5300c0e0296ae4d2897ea72b5282b2fa57f8b824507e1a3d9dd80d6530395fdc	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+decb5b02d75d017aab1cb5b059346c0acdb354f107583d9818411bb45eeae897	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+76ea3c8e523393464c9adb7ddeea8baa1469433a31556a4fdca705ca6197d66f	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+86732a4cfbd729746d6b920e56a903729a1d2c60bbd0df93803a508d609aa8bf	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+1a8c70939fe4e37a3f414a511605448b591978b5a0ee46a18ff3f504a2f6111c	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+e1d026ed8e57465ee7a0515d03720479e650e8ea56a28cd50c8a9db1a9471c6a	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+945eff8449202dac84db1cc9bdcf5eee98371c732b71f32aa1167fec38f68ec5	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+03434835f1d9dfd94991a8bd3c6add0bbca2989388043cf538945b69203c61a7	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+05cfac8008d88e131e7e81c7b58e783699080586792f54c9b0dfcda5738ed004	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+97b0f79f66bf46568ee6aa0ccaa24d95c46e6fa2fa7bdff2282b428fe96b7f32	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+88f7d11fe4ed196af8931d065dcf91c71fda385fc1aec33f114a25c3b98990bf	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+ddffa002eb19cf535b4d7577d59207fbfd7cc04a693fd55fc9b9869324cd3d6f	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+364e0135bcf585807f10fbe0e29cbd1df7586d90bf2bb3a512fdc005b0b59669	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+1550c0399429bebc3aadb96a0de2f0550079434ffd643a7a76a47b9e47c9b4dd	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+5de3d9b327b1eca29867ab4a0d5c59302858302cf9091604658b9fc4995c5667	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+d792764640539de0230ecd8213d9d5217ab43835943a8724e738eac0d96545e0	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+2ed145530149d78980b5018e7a018bb7d377b38ca5030760fb4154ddd5f49648	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+a7c01cfc75676d0810a8f82fa026e9dbf2a70a3d376bfd8fc9992c0d0f0de6cf	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+de2acd1f5cb95f8525d2c96eb8bacc1cfd73dcd0550f382e60e73a1bc208151f	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+12731350ac7d6cbe888e61b9754977bb85f2bbceb048170522237e94439cf17f	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+9f472cb0397fc1255adb1a001a5424972c4f6547a72c7090cfefb0a48b5251ff	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+d975b3ee5688134b43d13e08845623ae4ed7bcd57c6c2a3e139cb129b824e2ad	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+b8f71b5f6656298e95013e75b955b9b49f0f236f30558aedb20f2f62aeddd782	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+1c5efea856059fc548f2b21e9e6e5079727949e5c86f8f428acfeef314ed1060	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+8ac8e983086e7e35004a8ea6575a37e14b986c518b13bc5c906e3df89f37d8d3	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+8220416c319dfc519aaf6023ac5c50394d758e3ebe436f3e7c43ff7feb19c0a0	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+bb4490884100ee84e132ea822d06da99508becdc16e434dcf11ade19b0971dd0	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+a2badf05b11de0f772600c9fef2357c1f514a0ca21feb43240f188dbf7522992	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+643af4611e02c36280cdf4a9b22be3488ec48278db7511e268c13d0c11a0daf9	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+62907f8dfe5397eab2d8482c80b0544540d71ec95ae9ba3172a80f7dd09c7de9	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+e2fcffd2ce53fe38b555db86e14e96b706eb811367dba4725f96a248c667b9a8	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+87367d9c60bb5923526138d10340a60d13d150f3280bba966d0ef8a335893635	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+6335a4427566446e65202fb47dac5bac3433308c5daabf2293afb3c795f5353c	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+23603f5e68db0741d618e5272e45edf32545fce75bb1aca9ea9d08628a36ed1f	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+5758ca0553f9e85fc860040b5924a01ad8e1af4aa64048cd96201b932a4b3418	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+3134ac3401dc9d66d9cefc152f5d6ec69ff0b13cb98176c9cec3d72cd834429c	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+faf7e7f88297993457e5e931583221ee95495a1d5410c1fae748922a08bcd682	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+059f95e6249769d241793125a29b987514212e502fe15e3197cfe7117ecd0198	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+3edb147cbb3530816948c541b5a5bbd7dd22019adcb377d8a4fa5726c69ae9ee	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+0c48d26bbc65413616a61aa11b5038dd6c02e4579674db74d2b3ebb577bb0ed1	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+7a065cfe6e731aa47e3994ab636bf9e9bdb9a637dd4e5860bc93ad8e4a3b33e4	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+795c3b0e75c43ec8f9de30759a2bd754151708d01adeecbdf2c60e66bb7ff012	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+359c404fb4f3a73cffe4e0af1192f7111207e21eddb524826f9a44f326c646f3	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+7d2a1f4e22a431d1ffc8f887490e2cdaa1d326eec40d8273be332320703cb546	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+71dcddfe8918785e4f6178d3b0a92710d352262d234d8740b38419880ef3defb	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+00aa47837c4796b031001d78c68c4cec0c4772b960a8f76d336a2878bcbe52fe	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+0f14f2812656241b2e7fba99bc0377e4250d1900f2d34170aede647de4cdc848	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+00cdeb3f90ed814368e89b923afd3ff8996073603440bbc6350a75511d2f5066	ThreatFox	2026-10-29	family=elf.mirai | confidence=90% threat=payload
+ec01c37f1b3e111eb0a75e7e267726c118677cb0064f1aeb97651e471351f128	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+795f126123fbf480c2f843ca2d8b914d9bc13fbb0a8a1b88e18bd12130cc10d6	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+c041f4667c7ec0b5eed619ab1a0529c8dc8a9eb18670d02de503f2edfe110a2c	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+2656587d1f6b827efb0e762739ffb1a391613ed690a096ae7a1cfbc41edad2f0	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+3ddcde297d71f9a475a57c2eeb2c923ca22b0fc9f67a1e1664c5057ba326d374	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+b00784d96811d72a503d8b4f84d32c3c509322fcfdfaa476637d4d425b51deb9	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+e55b5e0257295801d13099ca010da3c0ef7963f9adcf237c30cc0a3341f1a104	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+3990eb8f839bd4468dc389ed361bc037569989ad7df00532f94acdea04b46b74	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+ba5f005a7d4c9969ef3152be044ea3875d598e0838fa4f905e5491f129cc4cc5	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+811ff617744e77cc61eb507b68f54f091d89dd37ecbb8ef69b9b82e9a7f00a66	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+73ea48e08248fdb6c9991223b34f825729266c8f493337e8a31cf2e047364627	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+6d2fdc2184461c903c9d08689b40fcd38aebd444d529b7a705f21f9c808c3dd4	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+0cbf40548184a9f9e017c7297beaa730f6a3994a4ea63c49731d85f510e0fb2e	ThreatFox	2026-10-29	family=win.asyncrat | confidence=95% threat=payload
+f9d022335dca53a2ac7353f771d801849405e2763a8c7c2ddc7e9d8573f86c32	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+565a42b0456aff7061c1431bf5deb8dd46a5b4352eedf096e379d65e50930bdd	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+b382f286a2a4499ea1fc55facd1989999dc3ffb405845744b99e1dd40ba4c397	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+944e69dc3fdc3b821e6159325832e941895d0da372a00001e36051c82120dbcf	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+29c6fb47d4abfe4a610d6c68ee7526f93125a01537e8178e61dbcf5552b30850	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+1c0ea5018921057c4f7788748619b116126611fb962185b1e90d1825896ac238	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+2a064a5eb0a28e8bd8629631d56b91e7473de5e006983b8eba945e74938de2d2	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+6183cf92f3f1d5db425dccb8c8b051e60e08068ea746df3960027f9505877e0e	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+d24016826df7ae508b90fdb6c9e7b6e8305245595ecfc2b506513f2f971cebd0	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+796b43e93f448491bdced298214a32c4d5399b9557d47b98781876497956d431	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+7a3900c0fb2deef9deb7aca302e26fc33f830870e42dabe3d15d9514bc6a314d	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+6db1df1541090a9d6f9c0bffe2bfa081981cdfc915de1b471c53c2e026569f00	ThreatFox	2026-10-29	family=win.salatstealer | confidence=95% threat=payload
+657cc30809e25334e8362bceff060ef8d2c47b58e0cee15bb8a68bfda2890797	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+81c45d6aa6d12d8103fb7bdb3c0bee883a9bb870982cc9bf00705ff892370d94	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+d835251aad9eb12cea2bd4446f9122b3185a854733c16ff06d35a64889d29c37	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+f78c685da97bcac521cc09d3e8dfb5c049b9f33c0dd75a53704218be06fd021f	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+5bd9c4b65c17dc6a2a395d89f31ad214aadf226e7638620b5a1e6ddb19c37a91	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+11751165cb7742cfd8494b4cb5d6fc09b0e3ffae28cfb452be8c3c88de45659f	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+b7626a7a1f413aebf27ddc34b20a61737d3f4eb7c41ae6c0b6e60152c1ee66f8	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+f1af4ed428a948ca8631556a62c6a88e882be1d9e481117e2f76ed5a30a74c75	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+401b72f3b6b63fb07102d79cce36fcd4860ab23753ae422e598edce1139828b9	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+5937fc8d8c630e6542d920837e2aaf28c762531e6a50f0e7dc4c58167826e4b6	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+088d6ec8c8c2618777424dee830e551e4f79212fbc77520ab37bb62f0e98c5cd	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+8598d14937559aba4a47005575a150c984ef4bad5061440df4c8542be8685093	ThreatFox	2026-10-29	family=osx.amos | confidence=100% threat=payload
+7669246efea5ecd0be33a46d1cb30bcc7253e996ac5b199129a01e4a74436f16	ThreatFox	2026-10-28	family=osx.amos | confidence=100% threat=payload
+f8ac4db6667346fafd42837761ed4c7598380c278e7b440228991f68860b5e80	ThreatFox	2026-10-28	family=elf.mirai | confidence=90% threat=payload
+080acc4891857f0a31314794f1552ce36441755c5fe058e2dcafda292d6ce9d9	ThreatFox	2026-10-28	family=osx.amos | confidence=100% threat=payload
+936b05d1ca4fbc5e10887d9105b194400abd3e091b27d52919f5f63a35407ed2	ThreatFox	2026-10-28	family=osx.amos | confidence=100% threat=payload
+26624672024c48b513d3abfa33c1d399323c666fb7bc8bdf3308229bb46b17a2	ThreatFox	2026-10-28	family=osx.amos | confidence=100% threat=payload
+710c5193b9f6c04c42eab13390b4f3c574e2270051155b9d5b0cebbecc923154	ThreatFox	2026-10-28	family=osx.amos | confidence=100% threat=payload
+9dd08dc4d5ec80ae7dccc94a1939f7126fa595c6f076fb369ab69ba4cba4c4dc	ThreatFox	2026-10-28	family=osx.amos | confidence=100% threat=payload
+75706f83fac88611d944a99018c40da7	ThreatFox	2026-10-28	family=win.coinminer | confidence=95% threat=payload
+78fb06eef2722709feb14cd85ecd74e5	ThreatFox	2026-10-28	family=win.stealc | confidence=95% threat=payload
+a1ee29422bc3dbc934431d9aafef188691a7873328f83571367b545aa2470617	ThreatFox	2026-10-28	family=win.coinminer | confidence=95% threat=payload
+655d159778124a3e86adaa7fb139de2c107b9936f2d719b54756de98b8135deb	ThreatFox	2026-10-28	family=win.stealc | confidence=95% threat=payload
+621a881b711163982e7deb4a2bb28737	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+ba3dae490a913378e459b7f249074f9f	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+16b4a4dfff7d5aaa779a1974544f9c89	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+c661bc6971ae777bfcbdf418c9355bc9a823e1a79bcd58a11f014fd3da7993ec	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+ca743c3b827e61b0ca6b936732f77e11	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+7f3e6cc4a01629304e091d31d07754f7	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+2610a90206fc62d150006f26f527b36e06b634805f33bd6b7e0dd4c0864c3c16	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+7730d5beb066ec059d8365a2810bdfac	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+16a20e9aa30aaea16144550b871b5d20	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+c4fc3e23a6bd979cbaa5e275e4af667b35b84c304bb0e89375b467959379f0c3	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+769c81851d102654e2cd0b0b601eb8d5	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+7194f0ca6291b43289f9be23323efaf30ebf303d26f0d141c2fdc10b78e446d9	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+0f8704e6b74bf56c42f2a011f609d4ecb296869dff9da7eedaa0d3ef832989f7	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+f8bfe165db0c042fa516ee883928b98d	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+e92dbab84f2499820739a972236fc9fffccb9be6fb104baced5d44073e72fa80	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+58e058e5952cc7b1eef6ef15c6825394	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+8211cd8cc3b4ec950d4b85330b0e3cbe9566c7098cf4a8e36faf127924720831	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+3368d3569adc2fad864d446ac51079d2	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+e6ef63dd0e6c18c8533649aefe84d999	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+5102c6aea1d4f788bce14dd58632d813e5edb19dd06f627d52a8637e7209114e	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+34b23de7636bba38663119ce5ca91a03	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+e98a383f2ac8c34b44c2fdf33790b3fec6123320c5dd38004cd29ca657d8e4bd	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+8d9d74de805565237d72b3a19feb8a68	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+770101ee683dfa9aff9d1f29b37a243e	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+93dd2ba96caefee2f581bdbe603248cd	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+2c5ef6895fbf67f068db6451b71b8ee3	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+3e5779c91c38dbb85ccec3641a8d1f8b	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+2a16e5d2d69d99a3841701e495b26842	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+87cea1eddba9ede478ef434a584b1a94	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+bbdc2756e3285e533a6e4f8e84fce3e1	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+ddcb9e5c6b2ca7f053bcfb6d2a654e7b	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+47362517d9730146dafa1699f746e88d	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+402730f5468691e972fda58ce04309d0	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+d64ddc26725e9e6a037218a2b08323e7	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+15d0d9b880a44f0512ee7b4954ad8a10	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+73dd67895db58fd41b4dbd6af5206844	ThreatFox	2026-10-28	family=win.salatstealer | confidence=95% threat=payload
+c14491979811b95f025be5274feb90ff296bcd4438c99f9121c8a5a7de8c4274	MalwareBazaar	2026-10-29	family=Mirai | filetype=elf md5=a5ebf44bb71daa629c8ffb9b171cccc3 sha1=15a8dc8fa000888f61abae3b7865dd83da3c205b
+18cc64b5520b7221d39f84072a91fbfd3af8997af90c135a301e50ab5ec6c09a	MalwareBazaar	2026-10-29	family=SalatStealer | filetype=exe md5=606a702430f63b0d5fd5e38f03eef5be sha1=759d74b9339a48af920ba1a305c3e71975493976
+11308a0ae3564419ff7d12914b5b390934af3fa9c7c29420d64022dd0722eafa	MalwareBazaar	2026-10-29	family=SalatStealer | filetype=exe md5=667b9c03558e715e538c645ae405e615 sha1=10358d2d70c709e078a028aa34c5d6e87b705bf4
+f2c4da25934bf744a2031f65b5ecd9be3b1a56ac5aad74f6a82c586bc8de12ba	MalwareBazaar	2026-10-29	family=SalatStealer | filetype=exe md5=7aca03d7c6e5a4c462a4f3a4a17e9fbf sha1=d5160caef252956ee268dc9d84019d5890789cd7
+a92603bea54428c6f479e62da9815dbbdcb4be3ed566a78f3e974529f006e52a	MalwareBazaar	2026-10-29	family=SalatStealer | filetype=exe md5=3d5522a1425146a4c5a9324e8dd5bb8f sha1=8fc99a059d433449f86845c23f8c2c7db3fdf84b
+0405d4f79a3cc97fa492f1957cde0d51bc569f5432792f1b8f72077aa3fb2434	OTX	2026-10-28	family=Wrqsnx | pulse='68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory' pulse_id=6ae205cefd1c69f6a9b3116d
+05e2daf00fd6d1f91e5ac32b156bae290bb43d4fa0c1521981d804582c6444d4	OTX	2026-10-28	family=Wrqsnx | pulse='68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory' pulse_id=6ae205cefd1c69f6a9b3116d
+4188295ae1f7f8a99d15e90eb037eef3eb03f6acd4422bf877c6e3304e70fcb9	OTX	2026-10-28	family=Wrqsnx | pulse='68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory' pulse_id=6ae205cefd1c69f6a9b3116d
+59309cca70a714ca7e6a2353d583d29b0ec02e408a413b86e85a621926c3b038	OTX	2026-10-28	family=Wrqsnx | pulse='68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory' pulse_id=6ae205cefd1c69f6a9b3116d
+9d3f2f6031ec3b487ae12dd6f9311dd89b4a6bd23af252212bcc1f5507784f39	OTX	2026-10-28	family=Wrqsnx | pulse='68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory' pulse_id=6ae205cefd1c69f6a9b3116d
+cde477ef57ef6f100dcb0242f055113690fdeade8204e0986a3ad257be1fb81e	OTX	2026-10-28	family=Wrqsnx | pulse='68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory' pulse_id=6ae205cefd1c69f6a9b3116d
+e7e6bfc3a2d6c3eb0ed6e1f4ade99ca761d517886412da99a2cf4a0626bce5e3	OTX	2026-10-28	family=Wrqsnx | pulse='68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory' pulse_id=6ae205cefd1c69f6a9b3116d
+ee15c2a54f1bb483f70bf7777ae08d39c8abbbf7f5b1f2139de0ff76ec3e241e	OTX	2026-10-28	family=Wrqsnx | pulse='68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory' pulse_id=6ae205cefd1c69f6a9b3116d
+fa2fac83ebc5dbdfeafe8e6950275fe3be0d4be87df37af0cc66671c318287ac	OTX	2026-10-28	family=Wrqsnx | pulse='68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory' pulse_id=6ae205cefd1c69f6a9b3116d
+fcbfc74ddffad4789120c618bdf166c6c8aaca286fb2d184f7fa0ed8b8f26c59	OTX	2026-10-28	family=Wrqsnx | pulse='68 GB Stolen From a Philippine Government Agency's Overseas-Employment Databases, Exposed by the Operator's Own Open Directory' pulse_id=6ae205cefd1c69f6a9b3116d
+a3b57e4e54d178fea8f9a5f45a44ed0f	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+390cf3bac67144c75f16065c2f74b864e745dc46	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+47ae095fd9e5143798a70805a23eb294fc072170dac19c1fa112beca186d844a	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+65e64e65678f849871257dca43fccf8941ee0ee35fe6b72e86a34fe84e752e68	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+7e631e9f7791f4648f776419c020ce6c33071c3e195669dd473f1423f098d39d	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+80de49a3bd719d62f3b2f24d584a03e3fff3e6ac46ad8bea3c04c8a09071ed3a	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+b2bfa29467c1979c044259d4ffe31fc32aa6ef33939779bd3b1ce6bedb44dea9	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+c6708166e0a6bf3484200fd6dd1569d89e81c36ffd76ff2ab5820b06fd2d5b54	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+cb86017411708eb6e5384fc0288b0ec4692ea45ef38586b7c67f99148e1117c3	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+dfa02773f97f552deb7ff04f5c598a81be4d236fe33adca2a47551485a3aeb2a	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+0832a279faee8a01737b75a353f78eff	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+0e29f74abca3929f9ec2ba3f0183fd3d	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+14bcaafb88b5991c4cf81ff89b75d73e	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+172e53499abedcf11d8709001a3f06b5	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+2132306905ccba7c9370c6e8cd544d3c	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+2a35f8452c21083315eac827a59ecfe3	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+3c7ebd025d6810ba221b758d1776b4fe	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+46e46a70cdb5a328c047b0dde8fb104d	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+47bc24e946c1042b0ca68faf7cdb45a8	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+52f883bde40c0ccb3c4021d4156738ea	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+6100ae647fd62ee5939b73c11d80c5d2	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+658f7bb49be0fb6f84dc7987ba8c74b9	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+7c84d9a1f7645b0bc99b40fc8d5fdb6d	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+827cca22875ad849da744755416e883e	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+838cfd899eda2d63010dcee0093dd510	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+8c9a75a67d79f9f44055e32bed68ff86	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+9e9dfd410224885c4b1b94155f64c667	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+ad06565482c88f6bcdfd683b63f3a527	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+b8246ab81a904cfe22b49b6f25194336	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+c05e9fdc636177afac9f0482872cb664	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+c43af420a42e97b92f5d456d09a10eb6	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+d4429047de20e5ce0023ab20d944c4a5	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+dd34c23e3cd7990d8c6ff9487c0d9cc6	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+e2c9c8adccf32255cbe0587a4b425bcd	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+0699dfb0444b3589358481cb07e3430ab803230e	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+0f98fea5836bcb3d3b70113433b99b8281859de6	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+1dd2af3c6af766e55adc1ddfeb78942a7e70a9eb	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+37ce07c843bd041cbae8b1dd87c47c725b36cfbe	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+3e9b15c25cbaa8a48a735a28d3b695350c48c587	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+4b33ed2b8c7ef86372f6fd2b7fced8ca89d3707c	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+54d6b43cba7ef2f0884684a59802f51f635adb3e	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+5a50eb2ebcd97ed397b2ab7c8c3e77e70e844284	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+5ff781fe71028d14cc7f4458f0e8cde6eca98bca	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+68c7def1be89cd9f4a7fbff5e0188cd099c6b8e0	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+6e7f5000a412fa135e31b57463191b8799e9d7be	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+71b7d8bc10e7a0c04acc6fd0de935aa1cf6608ab	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+8134f0412662084600e19a3d8745fbcd474add8e	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+835c8abf56a7ea6ff7a526ada8dcee2ef533d407	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+87720d76024c37ed21085c6acc121c1585b7c29a	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+943a0a2f7038c899c1669816380d469bdc8ab528	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+b0ff7acf6802277633468c3ee5aae55c52cca833	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+c113e191354ba596396f1d64d0d5201441f655a1	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+c838c2fff82773f826cf9250522af5786920b38d	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+db87d9043ce0375e42957ce1d2120921582798fb	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+e715c726bbab0a245c47b190a07462d7f9a33725	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+ede30cdf1064e25c3aa5ab614fc6004c7c5fb746	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+efdfa44b54afbcb992f34ec880130453f574426b	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+f98e048cee7911e659687acf4dbfd9ff8f6bd4da	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+04b35b0c199ef8a13d6ac18dfc6df2ea66a8ed5b6e464dc3a7db0839093882bd	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+0ad853b29a7b3677488018061b109bba59b1a518c8f33b48de31ec532be69856	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+1b9052d85e12573b4f64f6a47f64803007b19990def1bc62a865de00149a825e	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+1bfaaa9aed67552a2c368df3f264ef6878a4e7b43468546db77f095517b15b56	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+1e60421e83a317cfbfce980fefa926a847964bcc7b047908db65161148d0f624	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+2fbde057c22b6cb517116d6c797c3474de2f4d3bda09037a9f043a6ad843982f	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+34b75b78b6c575c8a9e71f712be9d90aa35a3a04b48839f86282678107f7876d	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+3b64eeacacb94d70d498988fe8c6dcc25b133bcaea37fb69dc6f0cc26bde9921	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+3b6c2dcba751d1ea05b83fd609e13423dff575705920a1c835ff0d5f92403ffc	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+431ae9a0569c52de8fb5abffcf12919b8d685a879f4e777602ae490dbc2a6baa	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+43b217184f7765c699fd887fe22c07c7656483dc088e0214587a4890b2b6aee6	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+4a17171155997754ad735b460be67e344c5939d9cff498ce1d95bf554b93fc1b	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+53f9fcf3a6fdc59e9a28fd129a32064d78628289eac72d47f53d63cbc434de41	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+555e0506979e0b26e4318c0f7dfff0e3dc5c81bb7e3925f2cadd1bdeb843570f	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+5a0cd09adb09a79071a85edc931e02c8d565d6cb7cb58e5b0bffd866e6a2ffb4	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+5c0f8bca492c9ee79d6bbd7a532945514670321a605002987f69e3331110e447	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+5f09a31e28b755aab00fbf3669a7369d1205ac5dea85f0b328cb7cd76472e456	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+902803b40aa30d12e60a37680b113d5fc7c79695b7e1b72904fa7de06cf9b27b	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+9e7cdafcb473d28e134f87d758839265e97b03cf260a186d0e21e1de8aeb7fa8	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+b332fa9c08020fbbc5503091b4f4a61ee66a05a0a76abf9a53db9f3d80c4862a	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+c36d2b4480034a409f33cdef8d7c3501e75f14d2c5bd9a914a65fd7f3c47d74a	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+c9ead89d1bcb09923e1057bb4617726867154d36932ed1c2f82c2466bf11934c	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+cf32addd82960501859f205b0fca8c0b51a40857f71e4a2aee8d70b2433319b7	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+cf66a1acebd878d85345377be53ac0b241f517253811ec969c8ff9c751151424	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+d72335c0cbbcef002274c1a5087702ed4a91d91a79279104aaf111a33984ae5f	OTX	2026-10-28	family=GhostBat | pulse='False Protection, Emptied Accounts: The Seven Android Trojan Families Targeting Indian Banking Apps' pulse_id=6ae205cc6609fd489e50c1b4
+8b8e44431aff7fcf38f67ac30d4c63250e51117861635a8510ea1c897df49488	OTX	2026-10-28	family=MR ROBOT | pulse='Inside "MR ROBOT" - Anatomy of a Malware-as-a-Service Operation Targeting Indian Bank Customers' pulse_id=6ae1c2df52dc75787f8e7d74
+ccd0bb059c9da0afb433effebc3c9ed76751569f5abcd1b34d7fc3dab87fd74b	OTX	2026-10-28	family=MR ROBOT | pulse='Inside "MR ROBOT" - Anatomy of a Malware-as-a-Service Operation Targeting Indian Bank Customers' pulse_id=6ae1c2df52dc75787f8e7d74
+fde290df3f3575e8359044d5489e67ff189132b9d73f4ff90cf33d297eb65a4f	OTX	2026-10-28	family=MR ROBOT | pulse='Inside "MR ROBOT" - Anatomy of a Malware-as-a-Service Operation Targeting Indian Bank Customers' pulse_id=6ae1c2df52dc75787f8e7d74
+311c49974f28d33947b8b74d78b48f51855eacac182d519a4fe1daa6af7f30e9	OTX	2026-10-28	family=firefox extensions | pulse='Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Wallet Secrets' pulse_id=6ae1b031bb4673daca05fd52
+999bccd41188a238a50d05b5aca8e35af45d107f32d7443389313816f0cb226a	OTX	2026-10-28	family=firefox extensions | pulse='Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Wallet Secrets' pulse_id=6ae1b031bb4673daca05fd52
+fd7b138f4fba003db332a4eee833e84491bf7ffec5a3d91f7451d7b95aabcf6a	OTX	2026-10-28	family=firefox extensions | pulse='Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Wallet Secrets' pulse_id=6ae1b031bb4673daca05fd52
+e688bff5df32f209b4ebb882985e3ad19ddee68666405c39ff523307068a8611	OTX	2026-10-28	family=firefox extensions | pulse='Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Wallet Secrets' pulse_id=6ae1b031bb4673daca05fd52
+30b17a249a34fdf5d2be64b3dfcc8494	OTX	2026-10-28	family=firefox extensions | pulse='Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Wallet Secrets' pulse_id=6ae1b031bb4673daca05fd52
+3efb89873d4c425c012cd1cb1736629a	OTX	2026-10-28	family=firefox extensions | pulse='Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Wallet Secrets' pulse_id=6ae1b031bb4673daca05fd52
+ca2bf8b1ba371a1426c1049d9dad8168	OTX	2026-10-28	family=firefox extensions | pulse='Malicious Firefox Extensions Impersonate Phantom, Jupiter, and Bitget to Steal Wallet Secrets' pulse_id=6ae1b031bb4673daca05fd52
+02b6374ff05ea4a0aa79f197f01e710f	OTX	2026-10-28	family=Lzveil | pulse='September 2026 Infostealer Trend Report' pulse_id=6ae1affbaef99b0bc3777283
+c5336d2ca0ecae1d7fd2ccb893860b29d9fd2aca	OTX	2026-10-28	family=Lzveil | pulse='September 2026 Infostealer Trend Report' pulse_id=6ae1affbaef99b0bc3777283
+9ab87b8fbe9a77d6d494eea39042f2e723bf971a3358f030517933d11a251b7c	OTX	2026-10-28	family=Lzveil | pulse='September 2026 Infostealer Trend Report' pulse_id=6ae1affbaef99b0bc3777283
+00af13db61bc4d075996d052faf6cdf2	OTX	2026-10-28	family=Lzveil | pulse='September 2026 Infostealer Trend Report' pulse_id=6ae1affbaef99b0bc3777283
+015e4dfcffca0c0bde10b6c52ab2e947	OTX	2026-10-28	family=Lzveil | pulse='September 2026 Infostealer Trend Report' pulse_id=6ae1affbaef99b0bc3777283
+02982429f7efd81338a4efd1fb6cb556	OTX	2026-10-28	family=Lzveil | pulse='September 2026 Infostealer Trend Report' pulse_id=6ae1affbaef99b0bc3777283
+035a4128d5bdf5d333f17f0e62b4fa3c	OTX	2026-10-28	family=Lzveil | pulse='September 2026 Infostealer Trend Report' pulse_id=6ae1affbaef99b0bc3777283
+0c3f7d7646bbad39ff3a3d6a207f6787e89bd8e0	OTX	2026-10-28	family=Lzveil | pulse='September 2026 Infostealer Trend Report' pulse_id=6ae1affbaef99b0bc3777283
+7455513d2a07a28be4ffcbac28ea0f6c7a224d428187335282499a243e40965e	OTX	2026-10-28	family=Lzveil | pulse='September 2026 Infostealer Trend Report' pulse_id=6ae1affbaef99b0bc3777283
+40cbef44d0ac78fae7c23803b0873cbe	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+6a051dcfaa8308563535490b74f43345	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+0e493032f66b499abb2edc978b372d1c8a444c10	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+b31585878977c3f36718c50d1eb85e7d872ba13e	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+ba7465a267877695061272a28b6091c0ea47d49e	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+011dcd84bc7b8faa8c32020f3530be599d213888c0e8b750b95595f8ff331756	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+24a24c5fe9a5dc242b2908d020f890ed5b3afe8146fade4e3ab8a07d19007b6d	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+43672ef1384888922c13838f695da58f8cb9b8ad47ce896b3b7151e7edd18afb	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+4f8efbfe1f94dc7c6d5547c836e56ed56b1b3c33d324bd8619b8108c572b5ca6	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+516927b55038c1702bc8a6a0262a39d5fe45f4b07527fdc42415533a9665264a	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+54f36b39e5bcee15acc530d70c173f26a1e1d7a62e866181d8a68309b4660928	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+61820172ff5440c9e4f48695cc3551638306d06214cf72df41740dd08d734104	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+62fd30a7841f36b389af9cf4b3230c666bf620d9f57eb3bf73a06fe86d0917ff	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+6595b1d7bf87cd3360d08afc1a24e32bca28620ddb4f2131ddf242cc1e4f97e2	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+bd1cf7823cabbac2ea7b45f2d7c9dfcd6b9a24714b6d40377bdef82b9c88021b	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+e76fb9cf2da75e963e4d00b48500f59fa6a0e7d21915b8c54ca3d83c52b9d43b	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+e81e9a3a8baca74a5c73bb5d0904cd7ac145e330c4d4993bfd671f3396402416	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503

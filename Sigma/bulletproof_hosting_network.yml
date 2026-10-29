@@ -1,0 +1,34 @@
+title: Network Connection to Bulletproof Hosting Infrastructure
+id: 5c98e3c6-c06f-422d-bb03-3ceb42993b19
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Bulletproof Hosting.
+date: 2026-10-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - asn manipulation
+    - bulletproof hosting
+    - cybercrime infrastructure
+    - fbi seizure
+    - malware.bulletproof_hosting
+    - omegatech
+    - operation omegaline
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'virtualine.net'
+        - 'anonrdp.com'
+        - 'ghostynetworks.com'
+        DestinationIp|contains:
+        - '91.92.240.5'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

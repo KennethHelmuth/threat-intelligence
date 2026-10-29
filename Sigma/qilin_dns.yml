@@ -1,0 +1,30 @@
+title: DNS Query to Qilin Domains
+id: 86eaa866-884c-47bf-ab61-fda8f646f26e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Qilin.
+date: 2026-10-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - affiliate-network
+    - esxi
+    - malware.qilin
+    - qilin
+    - ransomware-as-a-service
+    - rust
+    - virtual-machine-encryption
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion'
+        - 'wikileaks2.site'
+        - 'meuu4pqh6g4aqjk5i6ama4dt5z365qgilwfn53iqcyrdbzkd3d4secyd.onion'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

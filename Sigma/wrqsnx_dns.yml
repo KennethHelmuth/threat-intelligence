@@ -1,0 +1,31 @@
+title: DNS Query to Wrqsnx Domains
+id: 2234b751-d4d8-49fd-89de-34f4caaa8bab
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Wrqsnx.
+date: 2026-10-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - database exfiltration
+    - dcom exploitation
+    - godpotato
+    - impacket toolkit
+    - malware.wrqsnx
+    - open directory exposure
+    - overseas employment
+    - philippines government
+    - privilege escalation
+    - wrqsnx
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - '213-163-205-35.sg-sin1.upcloud.host'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

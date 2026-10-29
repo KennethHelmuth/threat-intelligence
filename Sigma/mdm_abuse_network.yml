@@ -1,0 +1,35 @@
+title: Network Connection to Mdm Abuse Infrastructure
+id: fd7dad5f-0dd0-4ccd-b9db-9ded368e4516
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Mdm Abuse.
+date: 2026-10-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - hexnode
+    - malware.mdm_abuse
+    - mdm abuse
+    - phishing
+    - privileged access
+    - rippling
+    - rmm tools
+    - screenconnect
+    - social engineering
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'relay.bobdthjau.com'
+        - 'relay.pronconetydesire.online'
+        - 'teams-microsoftcom5d41402abc4b2a76b9719d911017c592.kiratham.com'
+        - 'webdocusign.viewportal.es'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

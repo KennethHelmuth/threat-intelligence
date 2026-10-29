@@ -1,0 +1,33 @@
+title: Network Connection to Firefox Extensions Infrastructure
+id: 7dec34ed-c388-4dee-89a6-283fbc4d8ee4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Firefox Extensions.
+date: 2026-10-29
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser extension malware
+    - crypto wallet impersonation
+    - firefox extensions
+    - malware.firefox_extensions
+    - seed phrase theft
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'phantom.bonto.io'
+        - 'jupiter.bonto.io'
+        - 'bitget.bonto.io'
+        - 'bonto.io'
+        - 'coinbase.bonto.io'
+        - 'exodus.bonto.io'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
