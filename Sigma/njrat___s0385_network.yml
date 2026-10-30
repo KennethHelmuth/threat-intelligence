@@ -1,0 +1,34 @@
+title: Network Connection to Njrat - S0385 Infrastructure
+id: 19612a3e-3106-4a22-ba68-6f7eab1affb0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Njrat - S0385.
+date: 2026-10-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bulk mailing abuse
+    - darkkometa
+    - dns tracking
+    - malware.njrat___s0385
+    - njrat
+    - quickbooks phishing
+    - tech-support scam
+    - ultramailer
+    - ultraviewer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'qbcares.com'
+        - 'smtracking.healthclub951.swp23.com'
+        - 'smtracking.qbcares.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

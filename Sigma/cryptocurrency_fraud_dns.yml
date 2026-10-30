@@ -1,0 +1,59 @@
+title: DNS Query to Cryptocurrency Fraud Domains
+id: f32e2049-78f0-4177-b61c-8cbdea391f42
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Cryptocurrency Fraud.
+date: 2026-10-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - affiliate fraud
+    - ai-assisted scams
+    - atlascore
+    - cryptocurrency fraud
+    - magnetic team
+    - malware.cryptocurrency_fraud
+    - polyfucked
+    - prediction markets
+    - traffer teams
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'event-pick.com'
+        - 'predict.biz'
+        - 'gemchange.com'
+        - 'winzo.live'
+        - 'forutsagt.bet'
+        - 'design.md'
+        - 'poly-market.top'
+        - 'gobeast.bet'
+        - 'polyrnarket.vip'
+        - 'wettora.com'
+        - 'vuefax.com'
+        - 'winzo.cc'
+        - 'predicate.cc'
+        - 'prognozland.com'
+        - 'pollymarket.world'
+        - 'deltapredict.net'
+        - 'polymusk.net'
+        - 'polymarket-labs.click'
+        - 'predicate.club'
+        - 'predictmex.com'
+        - 'polymrkt.cc'
+        - 'polyblink.com'
+        - 'crossbook.xyz'
+        - 'polyfucked.top'
+        - 'fortvet.cc'
+        - 'polyxmarket.com'
+        - 'polymarket.atlascore-panel.net'
+        - '4pred.cc'
+        - '7poly.icu'
+        - 'apexswap.top'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

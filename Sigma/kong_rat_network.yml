@@ -1,0 +1,39 @@
+title: Network Connection to Kong Rat Infrastructure
+id: 667bd906-de97-4708-aa9b-6475c290c3d7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Kong Rat.
+date: 2026-10-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - chinese threat actor
+    - deepseek
+    - dll side-loading
+    - keylogger
+    - kong rat
+    - malware.kong_rat
+    - multi-stage attack
+    - scheduled task persistence
+    - seo poisoning
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'deepsecek.com'
+        - 'deepseekcn.cyou'
+        - 'deepseekem.com'
+        - 'deepseekk.icu'
+        - 'cc.kmsccadn.com'
+        - 'm.tysdt123.com'
+        - 'zh.szeom.com'
+        - 'zh.tysdt123.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

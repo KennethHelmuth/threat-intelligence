@@ -23631,3 +23631,233 @@ ba7465a267877695061272a28b6091c0ea47d49e	OTX	2026-10-28	family=Qilin | pulse='In
 bd1cf7823cabbac2ea7b45f2d7c9dfcd6b9a24714b6d40377bdef82b9c88021b	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
 e76fb9cf2da75e963e4d00b48500f59fa6a0e7d21915b8c54ca3d83c52b9d43b	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
 e81e9a3a8baca74a5c73bb5d0904cd7ac145e330c4d4993bfd671f3396402416	OTX	2026-10-28	family=Qilin | pulse='Inside Qilin ransomware: ESXi attacks, affiliate networks and double extortion' pulse_id=6ae185cf23690a9648c6f503
+eb38f2f91b58545f0511de0954534472e65de8b07abb57cee40a73576b0318af	MalwareBazaar	2026-10-30	filetype=macho md5=635d0f15b6d17180248caa3e97945caa sha1=7a2e9dbd9685f43e054fcae6a62716b9cb202aa2 | vt=14/75
+cb0062fa365e815cd28c5ac8237a241b7a50ffb9d2aefc772cec784785a59ad0	MalwareBazaar	2026-10-30	filetype=zsh md5=696eac098a2623232ab86d7583419de1 sha1=9fa3158e507a36bcad8be3fb42ace5895620cdb1
+9eabb901cc361b1b74cda3d7449ccc45d4b142c822c5e78b47246b0d8bbf7bee	MalwareBazaar	2026-10-30	filetype=macho md5=6f61636f5320a415f6b08e32f711233b sha1=75512ef212dbbd9a0f6b4afb239e52d841e452e6 | vt=14/75
+a8ee26aaa41e04b86cdeebd2c3748171bec0f8e4fab02f9a48cd5bbedd5db544	MalwareBazaar	2026-10-30	filetype=macho md5=629bbf882bebd0045f63699295300927 sha1=a42a42077f04973e739dae8214b04791e22bfe74 | vt=12/75
+bb4568b5a0a179f5391be75ac164900363133b29c24b225438f66c17a741d2dd	MalwareBazaar	2026-10-30	filetype=macho md5=74ec28e377dd8715546a6a53f2227b79 sha1=af2b01ae261da87f23e7815711cc47ce7b0b9a0e | vt=12/75
+f9713062c7f48d9689b2f921def5c3ebcb35e036b2ab694d625102dbadce8b52	MalwareBazaar	2026-10-30	filetype=macho md5=6b533c42012ada2cc610ff8221fe7ea1 sha1=7f9f65ce310a711eae3ccd2d841c373c3b5f93f3 | vt=13/75
+23746b451646aeaec0e56f813c7654fd75cb3c5a6d7c0e75fcda66c6287e5df2	MalwareBazaar	2026-10-30	filetype=macho md5=8af4bba71cab259ead5aa004e58f416c sha1=cdd9d9fe5b4dad3a34ec1d94b5d002b87c1c9bb9 | vt=13/75
+54c7ebe70c5981d14bda4f2ed99adbac28fcf390e4ddd0e0f272dd893f6caa1b	MalwareBazaar	2026-10-30	filetype=macho md5=6a830000e5524d5569db83b865e7ad17 sha1=e56819713aaea51effa2fa5072ed9f725b37e79b | vt=14/75
+85279394e95efea3d2678c9561021cb4a9f7a4d88dbafc74668ee918fff0fd0a	MalwareBazaar	2026-10-30	filetype=macho md5=f5aa91fd307bf8c70ab5460e15abd611 sha1=e59b736fefcb861ce250301047b9f6db614aff13 | vt=9/75
+69092c70e390ba31429d4bbd08ca01eef3415e665551d3d3a66b673f36ed48d3	MalwareBazaar	2026-10-30	filetype=macho md5=fb1ca848090eb80ea2398090983c5f18 sha1=80d6d6023b29421a786bd574f3eeea529a3cc105 | vt=13/75
+fca13846d30c12351274e78df6895aca5912930f44f211fb69f0e0cbbf1ae419	MalwareBazaar	2026-10-30	filetype=elf md5=f8de940796f8de661d1a683fc1889d0f sha1=8a9fce439f89e995fdc26b1356e3519c71d24aec | vt=2/75
+8b3a1d970fda0c17a0b785a990fb7b6a	OTX	2026-10-29	pulse='From Hijacked Pbx To Stolen Trunk Inj3ctor3s Campaign' pulse_id=6ae3706fa734f9bc58705e02
+a2f6863413c4192a4abfa360577b9961	OTX	2026-10-29	pulse='From Hijacked Pbx To Stolen Trunk Inj3ctor3s Campaign' pulse_id=6ae3706fa734f9bc58705e02
+1c14a761620691a43b1a554a9eccd38d21c15d59463945250d4f57b10d20fce9	OTX	2026-10-29	pulse='From Hijacked Pbx To Stolen Trunk Inj3ctor3s Campaign' pulse_id=6ae3706fa734f9bc58705e02
+38edbfc4ac89619d2bdb3f4bb2626deaaf422868d6d7af640f59d7959903f838	OTX	2026-10-29	pulse='From Hijacked Pbx To Stolen Trunk Inj3ctor3s Campaign' pulse_id=6ae3706fa734f9bc58705e02
+aa6dfd7ee90d9aea5af29ae39c14ff70cf8687118abadd7aa4fc98923f01ffd1	OTX	2026-10-29	pulse='From Hijacked Pbx To Stolen Trunk Inj3ctor3s Campaign' pulse_id=6ae3706fa734f9bc58705e02
+adeb015fdb37814edc3ed45230f48d2b0e87bb195a5a7e4487c01549b47c744c	OTX	2026-10-29	pulse='From Hijacked Pbx To Stolen Trunk Inj3ctor3s Campaign' pulse_id=6ae3706fa734f9bc58705e02
+b54a8d9e98ff36dfe63b2aea97a2003b670f7311595bb4dd072850fed5900a0b	OTX	2026-10-29	pulse='From Hijacked Pbx To Stolen Trunk Inj3ctor3s Campaign' pulse_id=6ae3706fa734f9bc58705e02
+c6e64453ea8bc0856333b6f57567c9efd8c440410787cae135d1c4a248c07c0d	OTX	2026-10-29	pulse='From Hijacked Pbx To Stolen Trunk Inj3ctor3s Campaign' pulse_id=6ae3706fa734f9bc58705e02 | vt=25/75
+d345671e688ee807e1bb9b6fc45e6bb0611bbb1331c33888c8030ec2db47e672	OTX	2026-10-29	pulse='From Hijacked Pbx To Stolen Trunk Inj3ctor3s Campaign' pulse_id=6ae3706fa734f9bc58705e02
+5c1a9be8ef8fdb9c9b866c1d6cd9d7c1	OTX	2026-10-29	pulse='From Hijacked Pbx To Stolen Trunk Inj3ctor3s Campaign' pulse_id=6ae3706fa734f9bc58705e02 | vt=25/75
+1546d6d3e26ddbb675b10648343e1a63a8bc0f7b	OTX	2026-10-29	pulse='From Hijacked Pbx To Stolen Trunk Inj3ctor3s Campaign' pulse_id=6ae3706fa734f9bc58705e02 | vt=25/75
+be70832f18593e14e7e205abcb995ca2d030217a7cc6f6a37032b2c5d804aaea	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+0fdd8680eee1762610d47515ace7b74b3ee715e93e5d1fbaecfa5b248fd1e187	ThreatFox	2026-10-30	family=win.formbook | confidence=90% threat=payload
+f51df4b117f65f70272204d7eb4f7b15caa495fd777ba7701884ad35ec2f07b3	ThreatFox	2026-10-30	family=win.formbook | confidence=90% threat=payload
+d75741349f4de1917c9d22ac48d95636290c04856c5facaccd6e2a128b47c6ee	ThreatFox	2026-10-30	family=elf.mirai | confidence=90% threat=payload
+782cdb174d91a2c9116c077cdb4f23c3280c617ad352f169f97f221dd8a5fbd8	ThreatFox	2026-10-30	family=win.overlord | confidence=90% threat=payload
+2c496e41d45ee787edef9c8dec4fe59e68a0d99746c899a6aabc6cbb36419bd6	ThreatFox	2026-10-30	family=win.overlord | confidence=90% threat=payload
+78a9600e16431eb0e2469b8c7eed2540c351a92e1204d0f4016307e0ec8da1e6	ThreatFox	2026-10-30	family=win.salatstealer | confidence=95% threat=payload
+20ca642dc72d3b2e260eedae8be9e63afcbe43844140fd0148d91fb328dfb18c	ThreatFox	2026-10-30	family=win.salatstealer | confidence=95% threat=payload
+b83bb0bedf80fdc7a85314c50ca2f438075eb24bd737988d4fdeb37b2ba32e04	ThreatFox	2026-10-30	family=win.salatstealer | confidence=95% threat=payload
+47fd48ccfadd4246158e201272f754d2ed530bbcd06a8d60005aca8504b5c1e6	ThreatFox	2026-10-30	family=win.salatstealer | confidence=95% threat=payload
+a12e5c2fac9e020414e8e2fe54ade89a0ced1aedb47999869f587cdde687e50c	ThreatFox	2026-10-30	family=win.salatstealer | confidence=95% threat=payload
+a3021d32d573bb4a64c3804fcc6bf95d756784e80c88dc0fe6223aada7ab2cb8	ThreatFox	2026-10-30	family=win.salatstealer | confidence=95% threat=payload
+d83a81b346d53f24152535604b0087fa88eb7f9214dc996141b5778820bcb91b	ThreatFox	2026-10-30	family=win.salatstealer | confidence=95% threat=payload
+219fe381157b3a2c9149a96dc7ebdf1ed088bb444a2244e9c5b3bebdf6308522	ThreatFox	2026-10-30	family=win.salatstealer | confidence=95% threat=payload
+dd6d28a7b589da47e49c64b700b6de5714ec21794dd36492606c507a39653da3	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+8a31835a1f98ab8d6aa8a008daa47ede3b97608d06ac698f9b607ec841229b7b	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+20df882d3b3e386b799916fb7a5c3bd395941855d7bc24d8f03293ce7cb23ada	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+15ca03115f51a83de2c81546ff32ef2e5a23d1f413e031b19cd2cf488d4a62d2	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+412e7eac262e1fcf08f27bfeaa3e2904b3ae787bd8756876a351e418b70a3dfd	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+a419b103d9c5df9bafc12c611b200b2be3847b4d6b28d9790855b9bae1fbf551	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+7ae5ad123099212bbecd2f10505fcdd0c3036290ccfb843af161527cdd90aefc	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+3cf7e6fc1725c1bb709b1156bbaa1cf8fe4bab53f59609912984b70b7f140b2f	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+7797272b8cff08547b5ec9fe085e7226bdbbb1845dcf06bbf9ca16526f3c6c50	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+68b1a3b00dcb3fd6601d30a3b7242d03e586d15d694abec2a6e426d38454ebeb	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+3c0deee92fdc43f513533ea9703e14313e9a1b298563864133663eb18a12141f	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+14f4ff195c3d6719d0fe07d329e673dd99e7fc1354d05def2a95a7691997fc10	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+a1dd8e2d3320f4524722ba32ae7e6841705a4792dbc69f6f3474ad2563f678b8	ThreatFox	2026-10-30	family=unknown_loader | confidence=75% threat=payload
+e0805ad4034a37cb6e0e69d3a3a562874da540456f92a9f112758cd4db597a48	ThreatFox	2026-10-30	family=win.mirai | confidence=90% threat=payload
+a0150547114a3b5d48728afe684c983aa4fe4cb950f791cb120b2256ba39847d	ThreatFox	2026-10-30	family=win.salatstealer | confidence=95% threat=payload
+f832e15488d1f6a36d6e54afeae40faf2c3da58ebe3164e86049e8253796f864	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+8003878453e57a63b3d78d9ef184aa51e2cfdca6ab80ff687bc468d9e72b29fd	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+46f7a0a1589579cd75fe7b0ea1a016707da819d81f9edd27f8d3691f93879fc8	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+ae21017868d473ccf7ad46de82ae3c72c8d15052b4ada0ed75e659fb86f1f98c	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+f3c9c48f21e1cb284723cfc8d4abd56dde7354d7c7d17ccf22a3c3da509f304c	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+bd20868bb8b458bf965e86b765c3d3e26fe7d2f565efddd73c07ec8a7f2135c2	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+434f7fe690ad350c81300583bb41b5c4f4a93a71fec2e11dd87b338cef8652da	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+b5568ab1d1f80c4332c4a0e053a5a245f7d65687df41cbd0111ecf13497a179f	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+26395aca4be64added116b156c39db4dd98706e19f6651553b98e2326ed74085	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+043dd3381cda35e5570b684d667e679660761049f37ea9a98c596d937a483c8f	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+9460e64b27e828c6832f9ccb95d1caa5b6799c48648a362b6a2d5b0da6c5e311	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+32fb201d13db94bc21ea96d91fa50440d7b33abb6a7ccdc3277412d923d1b122	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+39f98c303971dfa5d350808ef5989e579e66958efa32ce755058cbbca3c5c7d0	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+e634d54dff57c4740604668cddd972d45c2bddbcb04bb30b6638247c1d2c3b3c	ThreatFox	2026-10-30	family=unknown_loader | confidence=80% threat=payload
+7d0a6ed0d86c0d795f4fa6b78e75e7f9c0c1313e90751f5990e7f6946aba7b84	ThreatFox	2026-10-30	family=unknown_loader | confidence=75% threat=payload
+2a58d34754730edda817e153d27c75212cd45de5541d524accfa4ecdd48fcc98	ThreatFox	2026-10-30	family=unknown_loader | confidence=80% threat=payload
+98bd848f7e6f37ffe9108bd5410f8f95250f928bc27d3cf65a79d22bfd208e81	ThreatFox	2026-10-30	family=elf.mirai | confidence=90% threat=payload
+8296537d43829b79e0eef4236768a20a5d2c28a3f4436af6fbeab7688ae04045	ThreatFox	2026-10-30	family=elf.mirai | confidence=90% threat=payload
+dfef4be8d13c590c9fa46e3551c51ee642d5c6d82f175e634bfc43629e13b1a6	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+db2314d2f0dc05c6e0ed243539d29672f7a6147d6130ed4dc2894c2be6689045	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+1548dd2185d99e5c385b3cf33f95977f0eaa6c8a2377dfb0e43e3fb744328f47	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+8fcc9714bcdfa44ca7cfc9478caf7be8dac03f4f26aaf55ace0c7c1150fd0b28	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+dd18dac6e7561dd072699aaaf1cc9ade30ec60583b74c4592446a01f592a4a2c	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+305cc8c74468fd74792ace1470d60decd1c6ae658cc188d9b6c7f821db9893db	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+5b6b4687cc83db6c61c2fc0606176c9913fccb61237a808f76e7e46940ccbfad	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+0f2ea4c972c7828e01ad90902dc88a9b0943a0ce5a918a070acab8e0b7ea0830	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+22c3b8cc00da98c9aa8885476942f83ffe1dbb59af53d9bcb9e77997e3650d9d	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+3ce53fb4cc83cad84465296fc5b240d65f4848d3de43ac81d665419d1b62cccf	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+f478683887ae70276d712dab87b65513335df9f28e6ee2fd14b1640d2bebaae5	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+9516823dc1a1975f6bc4b5a69803ab138d4986e2178b530801855561ceb7b6e6	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+b39c6b877d9e24577b13243d77c2d0b5d419c552ae4ba50be18719e34679e107	ThreatFox	2026-10-30	family=unknown_loader | confidence=85% threat=payload
+a97449158fd238307664ca5a1e72b289cbc974be3f2ef0bb5be8ff042f982b08	ThreatFox	2026-10-30	family=unknown_loader | confidence=85% threat=payload
+3c0edc4f2290527e9717b68ea6bcd859b73d093bd7eea851d82db4900597f4b3	ThreatFox	2026-10-30	family=unknown_loader | confidence=85% threat=payload
+25412f42d183859961f4f6817b7fb7ec49b74f895aea32b4ef665c9cabd9696a	ThreatFox	2026-10-30	family=unknown_loader | confidence=85% threat=payload
+bf684adcc27a16784b22fbf49432dc94f76cf660e22adbf34db353aaa5a1c0f8	ThreatFox	2026-10-30	family=unknown_loader | confidence=85% threat=payload
+8f5d5d76e5c77ccb64cbaa8ead48bc1ba24a6b425f8aa577812be52fe4e0a0a8	ThreatFox	2026-10-30	family=unknown_loader | confidence=85% threat=payload
+1e9e3e5c18df97d2ced175df182441451e8a2c753e5606615da3208261f5a892	ThreatFox	2026-10-30	family=unknown_loader | confidence=85% threat=payload
+dcd9cd0cc3e09cbcdd6c466a89c6dae34f65f519903d3c0f198e266c12095f54	ThreatFox	2026-10-30	family=unknown_loader | confidence=80% threat=payload
+890da005fee93729a04f64618833e5cf6de3e6f4557d0b4cf51cd94351a47f62	ThreatFox	2026-10-30	family=unknown_loader | confidence=85% threat=payload
+3a580c3d7bc86e63cc9b265a5cb82a74b95cb573685d78e58961ac1cbe2ce659	ThreatFox	2026-10-30	family=unknown_loader | confidence=85% threat=payload
+93652ea61fc5891cecb692aa103746d6a154248516d512cca3098bd05f7ce94c	ThreatFox	2026-10-30	family=unknown_loader | confidence=95% threat=payload
+7f97451f3eb454915ff6a6f897910565bf30e0aefbf4408f997c87854ef9a492	ThreatFox	2026-10-30	family=unknown_loader | confidence=85% threat=payload
+3d6fca3ad48c89cc16a5c9022798f2880775382591d2bceb7370274f26bf27dd	ThreatFox	2026-10-30	family=unknown_loader | confidence=85% threat=payload
+42da774d270062038a702a80c1cbf95ccb296c7e0f6ecea303fb1f138c1f0dee	ThreatFox	2026-10-30	family=win.salatstealer | confidence=90% threat=payload
+ec9e62dd0b62fc97b69cf079a7e12da88bce8222ad32a6946337b6bb607988a0	ThreatFox	2026-10-30	family=win.warden_stealer | confidence=95% threat=payload
+bfc44506e787628c110b995f00dd77402431f60b24d493b08bb8e875f451abfe	ThreatFox	2026-10-30	family=win.salatstealer | confidence=95% threat=payload
+0f0782cea01c7b6a441590c915cbc2bd926a57d47284851f14078de271f49bcf	ThreatFox	2026-10-30	family=win.salatstealer | confidence=95% threat=payload
+053fcb1999e16ebaaca10347a4a996c671e82e77515c787d29d6695ba607d856	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+243d3cc5fe7ddc30d888e76eda8f90916547f09382f1de4cd7b4236fb062198e	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+26b33e86b69335438a53139610b5f2bad8d4b798f8a01f9fbd7734c2b0016398	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+5c7dd207a6b80d0802c23fbd0083d37c826cfde2f5b2a8facb70e64da60c24f1	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+854c14b7aaaebf4fef943759a84fd9bf238099955e7fa5abbd28dc375abfa70e	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+bba87319fc3055d4b7b85293c28e281faadf06fea07df83f1e0ef6d53772d061	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+a8cd574ccc15d32ea3c4931267eafdfece39b887f69f34e09df957ee36010820	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+83ef81d48afa643d27fe562d1c4a709a35a42b10cd57ea82213f0fdeb9d78633	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+36e63668a613612a572b95bd41857a2f8ce60edb66dbaab96407f312aa38c869	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+80d1bd904e36903507e5d70c256eb4ea8d4befbe4bf01f9aeb70c7009e3203ab	ThreatFox	2026-10-30	family=win.salatstealer | confidence=90% threat=payload
+9a07ad430a31fd5ab970c452b611393497ea0c2f7a0099d93b8d5cae26cb1c02	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+9a62513d24763cc7a74da6f31e088409af0813ab99c62e7d5d6ebfa335f5b2a2	ThreatFox	2026-10-30	family=osx.amos | confidence=100% threat=payload
+d86551d45a34c7941768dd04e8cbb96f8ab4344bed2ad13f9a993cb2d3731812	MalwareBazaar	2026-10-30	family=SalatStealer | filetype=exe md5=631f2958c8160211bd6bf4bacd68a916 sha1=f01776ee8a6d315eee9e5346d02e00fa02ee2023
+40b3daa9cf994704313ee59bc8cfbd6807d5a174173fa07b2056e2693999ae59	MalwareBazaar	2026-10-30	family=SalatStealer | filetype=exe md5=a4dad61a94ec2fdd4ffbf0c50949517d sha1=0d42b46be2bcde9d887341aef0c0a5045f049645
+a9588db7e895e28cd1cd7fb2e46ea08a626800fedd549fae9845c35db8b00691	MalwareBazaar	2026-10-30	family=SalatStealer | filetype=exe md5=c922f4e3e674f505986e08eb37574f5b sha1=4b00a8c57b03022b6ae247cb5aa84d3a89183f71
+fa1c4e3c842df81fae1772046eb456d67ef95afd9dca58dbae9dd33b8d907af1	MalwareBazaar	2026-10-30	family=SalatStealer | filetype=exe md5=5f44d1a658e716e4efeeef8c0894438f sha1=2718a2b20188f2e0a84b75e0ec0f2472734a6f16
+2613303e7488c44063180a9d7d958efe8c72652f187ea2bbcd2e67984a6cb642	MalwareBazaar	2026-10-30	family=SalatStealer | filetype=exe md5=dbcac097406b4c94025512b95da53856 sha1=47e36b55099812fb18ebd4faad49f1d457621f3e
+1912921e15be201b33e39053ff27945c22e7719713eca66589c8c8da65133a81	MalwareBazaar	2026-10-30	family=SalatStealer | filetype=exe md5=8331fc5eb567c030271551edce735233 sha1=f8d93134c95ade02a1a91fbf208c6a5720872495
+2d4caec37be793fa0cea5f370c7a06ab62f8325f3154e20be6f544d94bb3ad19	MalwareBazaar	2026-10-30	family=SalatStealer | filetype=exe md5=5f172ea9545d894234713ca6f5887c7f sha1=4f5f9debc5fc3db4d4e9a9deb0db9185e73cc630
+92854c890d6fe100858ffae5f213eb89ece3cdd4f72984adca1eb3439f240458	MalwareBazaar	2026-10-30	family=SalatStealer | filetype=exe md5=94810e6f7dcd8314de6a8b5455273cbb sha1=82c7d4d4cae71a53b7cb28fe4110e58ae80b5ced
+a41edbb52c94d58ca11aa599b0e168336537444fa55bc0597ccc25ce18ee2ad8	MalwareBazaar	2026-10-30	family=SalatStealer | filetype=exe md5=afb80f16c8942d69bcd692221a0846b7 sha1=d55e9329d4cf7db69e26b3a32ff302f918361d8c
+95424c6f72424f3b1f0ec1b3d3a3f89b9623b41a9ad828c8c9a97386c4d6d76f	MalwareBazaar	2026-10-30	family=SalatStealer | filetype=exe md5=2f37a0e1f2c020177f6126135a98b8da sha1=8206f008823c40a5a1c6214cf8fbfece2b5e064b
+d74572351d353e4e3df810c99361baddce5b966ce0c5e8c833f31612140f9024	MalwareBazaar	2026-10-30	family=SalatStealer | filetype=exe md5=f33002bdce90b949d9727f4997731908 sha1=c81e048a0a6dd2f5c16284be1625c7502895e5cb
+cb41fdc089dd930349d1ab001d506a62153473621c8555b77a59dd5943a07874	MalwareBazaar	2026-10-30	family=SalatStealer | filetype=exe md5=5599a519473189f8836bf4dbafca06b3 sha1=03a0c555d5eec41a43804fda63499ba1caa59ee6
+f5524521df17eb50fc3dfc7d4d447519ebdf2a4597c82fb9f16d46f64bf47822	MalwareBazaar	2026-10-30	family=WannaCry | filetype=exe md5=9cb0de092cdf1b3991fadcea548818d7 sha1=b3a140905945bcfe62cb09468ee7a7bd9d8ead4e
+fbc07658954f87579d615e72f76335f6fae5cec34a283535a37f72d6a4abce15	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+c22a661a7b10c742ae71f3a527f41d7b	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+2d6d738721b8fe5bdc6dc7a8a98e40920d6e86df	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+9c0364a0759ec18a9b9ec1e3a78b07df5e2b378221cce8d69191354f7bde07e8	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+b8c268e22cd5bcb5f082b14354d3210aa6679f87c7dfc8255df00e57576474a9	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+57ea0e992b999fb7be4f4690817dc687b862b97fbf41c6cfa5d9ce3374ace0ab	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+e16b256d28ff34557c6ad975004ae2c392f66f65f1344780e69b6204dae97c0c	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+4dc907e9e357fe1dfd291956b7cde97e	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+65d50e5ab9644cc9e665dbddf44d05bc	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+751a34ae8aede3d8a6f22c7f5eab0745	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+83f216b7230b3ecdf7f6d003b1622fc7	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+a23228d14700318bdb459cca45d8db04	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+e1270e755bc4834f49351b1e6d126bad	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+21c6465c4b98663298b0a5bffb14e01cdc8e80c6	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+24a3f00fea81e5cfeb6193451887b83b2acb771c	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+48d25b1c6460afd291f747eab79bec7d07000821	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+64092529c3d24bee863a96b291f6442bd44298d9	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+9fcac669224666b8f33ae9bcd998374cbd91191d	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+c789be142d5b687af45939488b5c452d175412a8	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+082a7b67fccdf73e859bff3a3c476d63862af92a848a88f2797cef482ace3da9	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+1c3d0abdafd654633bd13a7427080439b2b7f255818c22b05b0cea6ce85d18a6	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+1e0e2b32d4daae9afeab5b54003e25b8fefdbe12f912f56859b27a89062c09f2	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+2025f9efd6e3166d7b69dd166a472f7fde21bc92dbef39c1f0e324ecd5088ea1	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+2984dead38ed5a6bc3c4cc22ba8331d751b30f72efbdd8617f772789d7428420	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+33617f618530b00769afb2cf3b144e240ee241a59ed68b39c35926253e7f807b	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+33bacaa5064f5c24fe6b2f2964cf58f301ad1ea04ab02c732dfdfb2da56ea6a7	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+341bbb552abc9cd4a7a84a43be1ffdffae4032a0a2d8fbae0d3820b0ac8b4a4c	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+348f8074970a1eda5dedc7fd0b949fce61c5afeb520c101c7522daa2961d30dc	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+40650b0b1260d19d9979886c3ada8eb6cfa297c7a7e0f4c3d8612dc7ca43f129	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+41c646d81780890785d0bd3f4f27312d308b4db9e9205e7b135b82a222f11981	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+4cb8a54db1b71a95ebf4953ec91a288ef1d004b6dd6fe6811dac2e636e4d3d67	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+516efbb6b7df1667771ad64603daacdc5986416d8229588d1a16504c04053f36	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+51e5228295b012618a6ffaa9e18c791b709bdb446123d336a7d81dc05f6c8977	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+566449fe632fc7687d7a7f4b436ba01c1e38756bcab77567798452d000254c5c	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+5b675a1387aff6a151da77224fbfe732fc1beb2e8e9c91e471213db005d9e149	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+658401e3f09c4a068f73198ad27be285a6cfd03618c62d7a40c3f5da7d4248ed	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+6a1c563238f5489212cf1d10b28179e739c0ebc6af40e5d68e2a034f9c3b42b9	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+6c5d6d6ef3c825de9e52df37ccd8b611773f2bb0c47ed8328a7f5e68cdd5fcc6	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+72cae7dd93c6d0e72cd0af5510db25b7956c29e16eccd50da1ff6c7dacc39872	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+760942e8c107851a3222a000999de2b8abad9554fb3a72c3237e99eb35b7fb1f	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+7e53218da42201e56a655c5ddb577ccd88cd9d92a291a02255841b2f1e910cec	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+7f6796ea93b50b4195bfa4fcf634516d3b4107e637f4deb1d4b7e1c36acc721b	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+83cb86e98b1663bb8735913c3129e84141c9988a29235be3cc689366a4faf0b7	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+8b5c263809c6be09428706fe2f4ff868c98e946eca5072747171f278838a300a	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+94bbc3b9b884807b6eac46629d4cadbf4de627094ca2a2fef73b489f64bc18c1	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+a355679022a2334aff05b286f8e54318fa9f96955947493c1775af39557183cd	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+a90402ef6fb8efd2856d0523c9f0eca64b87110bd9435cff10cbcf4836fc51eb	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+a9b51f29d5408114b94c8e49d31b65ccd838e09b9a6bb887219737402a6ea5e6	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+b18f12098b66bd0f7b7ac7da73d9a7f757ff8b3d2754a7c08015cacc2adbe5dd	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+bb1d826e9a89f938cd617dfd5b1b41469c7c3971ff475a9105846d974c0d27c9	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+befffcf1ce2274fb7558bf68aeff9639975c6b5092fd458dfd4f1f7c77d2e6ac	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+c86dd314f2d17187d20beebcdaa1b736503d889b04edca6cdcb00454de3f8ef9	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+cda5a99d6ebbea06d3fe7d5e8fba453b08f617ce866dc158eda968b184d446f0	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+da0729c2593d54410457831fa118742708ab603cfed0e927acec38145b4f1cb1	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+e160d0de903c3310fb374252322e0d642ea8d7156943e9b65445506c6f31525e	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+ec974e39a2e732101eddfc09bdcbc84c4eb69439d1342853f4034db2e85cb48f	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+f35c08fae77bcc13fdaa940fea21446fb78444fc2c6232abf4a2dd2d8890971a	OTX	2026-10-29	family=Kong RAT | pulse='SEO Poisoning Campaign Targets DeepSeek Users: Chinese Threat Actor Deploys Kong RAT via Multi-Stage Attacks' pulse_id=6ae38be9be54297cf156f922
+bbe0aa67e3d9d968220cd57f8f0ad4e676a4e968031b8ad2697fac40b1a68008	OTX	2026-10-29	family=Coruna | pulse='Inside Coruna and DarkSword Chains: From Web Lures to iOS Exploitation' pulse_id=6ae38bc6be61d23c0f7a2165
+7fcbdaaecd4419e2930927844f3b772668204737a4e7602a2290c991c93c5c4b	OTX	2026-10-29	family=cve-2026-111497 | pulse='Node2Shell (CVE-2026-111497): Brotli RCE Exploited' pulse_id=6ae38bc5104a1b7a03e20f92
+28f046d9f985e58cbc8b245b54d4179feacecc12f41e2f6594306867ce3e8727	OTX	2026-10-29	family=njRAT - S0385 | pulse='Investigating Abuse of Remote Desktop and Bulk Mailing Apps' pulse_id=6ae38bc5290b5bac6b7748e0
+9e1a679ca45a149d2bd681cbb8ec3b1cc3d271fad51b092a3db5e5642eb6676b	OTX	2026-10-29	family=njRAT - S0385 | pulse='Investigating Abuse of Remote Desktop and Bulk Mailing Apps' pulse_id=6ae38bc5290b5bac6b7748e0
+a607384ce68144f2061a8b30cc65a6b8	OTX	2026-10-29	family=Hydraq - S0203 | pulse='Aurora ransomware targets ESXi abuses Cursor Agent for exploitation' pulse_id=6ae386434a2934ca4f48754d
+5f78b03392fb4cefc2bea9d4328589bc	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+7b1a939c1b4e6354587313d5eedec337	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+099061d5d822c2a3c8a286f8c552460787fa3700	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+0a22851cdb3e6fb209d2c5629490317c6bf4f2b7	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+16b80c3a0c82c83cf54f33a7b93423343c7b9438	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+1bc54589a73b759f1f88e17bb06d54249f3dc510	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+2b9b007b902fab661fbb9a586f071d9194e2fcd7	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+2da89f591e2bb3679c8a58bc96cf5e7b18af48e7	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+302cead78f476c53b556ccc415f2ee00b5c368aa	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+39bec651adf4a59e60f04c6ab0a9a21c6a120969	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+39d7abdea95ebaee77af715e0fb58a1416bddab3	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+3eeb5a31f648a7fadd4bcc3b7a1959716861425a	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+41930003ad8416d49900e3f313b7e282a892fb16	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+41bc46eb83b914d74510c1631abad0cae95bfeed	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+42945ad7f7c0cb9327a890878866e4b877f58399	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+5339216acb07038a15e4a01418d40e387d47ad37	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+6a6150817d46a702b807043ba055aef631d309af	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+75e009a7199d75d6f80cb81c9e5d8bbc17eda6ed	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+768d6bd60593f95ba9e826655e605276dde50f45	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+79b46af742a2f263b76d0fdff59b795b95ba0fbe	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+802ab4f182973db4727c6906f3bb8ff23eb3fff8	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+8df34b3f32eaa732c1b2a99bf348c4e4a6ff629d	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+954fee104a55595224679d6404ede0929f5a4c46	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+990ca4b3970b0091d4519b2b1693a269f321e957	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+a1735b2e9eedcb16e73c3e61fbd23ab72615fc72	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+b9be9c836892972af070bf1e4ca815a3781a5eef	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+c5f618e32c389016adff85168bb0a1b263e6975d	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+c607bf362fe731183d18c0803b7003c22f6d60e6	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+cb8dfde813ba2345cc8dffa223095d11e2d03381	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+ce2263990900c8998c52d8013fc4f6d70654fb4c	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+d38597e1d682a2725b9e36a62d8e4a0251011286	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+d59a78e7b873f562ea9330522d11f2270970c720	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+e5b0fefbf5d47f4ae667bd7500f079f6de368b82	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+e9621f90091b56c712858a27d3a775cde21c6463	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+eccbb63a309130bea7caa6a95ec17e5a73ba0bdc	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+edc34a9bd77849222254768c8909727d57fc4dc9	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+efe50cd161aaf3f7c9ff7381574032cb97d40e3f	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+f0ee455b8e7ea709de27ee4111c145da546ec337	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+f31a1dcb48467b89da25e8c85baad2a8f5f9aaf3	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+f5e9d8ed0a057fbb168bc17ad2ed1faeecae184b	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+f8051481b289b96332c52b61efd160e98f32fb79	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+fba905bc25a3b130816896f27973913a08e021a7	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+26651688609a58145e5e77e324e897f4dc5d6320c20f3f44b777e10456e90e72	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+8ec753a2ad825f732003a0c3113956804aa3dc96be3c8cc9998406278466043a	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469
+44e4fd961a6009092d79a265ab6cf474913ff554	OTX	2026-10-29	family=microsoft 365 | pulse='MadApe: The Code That Opens the Door' pulse_id=6ae34b9375e99ba3a966f469

@@ -14757,3 +14757,39 @@
 95.217.98.37	OTX	2026-10-28	family=php2shell | pulse='Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot' pulse_id=6ad9eb3e5a8fa9121e8ab038
 14.128.53.155	OTX	2026-10-28	family=ValleyRAT | pulse='RATatouille: Today's Special: Impersonating Companies in Korea, Payments in Cryptocurrency' pulse_id=6ae185d0d24a85ae5c54ae6f
 91.92.240.5	OTX	2026-10-28	family=bulletproof hosting | pulse='Omegatech Is Disrupted, and the Pressure on Bulletproof Hosting Keeps Building' pulse_id=6ae14ab2a51c8b2b96924ba2
+154.91.54.173:9097	ThreatFox	2026-10-30	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.54.169:9097	ThreatFox	2026-10-30	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.54.165:9097	ThreatFox	2026-10-30	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.54.163:9097	ThreatFox	2026-10-30	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.53.182:9097	ThreatFox	2026-10-30	family=win.vshell | confidence=100% threat=botnet_cc
+45.227.253.132:51212	ThreatFox	2026-10-30	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+154.91.53.181:9097	ThreatFox	2026-10-30	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.53.180:9097	ThreatFox	2026-10-30	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.53.179:9097	ThreatFox	2026-10-30	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.52.164:9097	ThreatFox	2026-10-30	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.52.162:9097	ThreatFox	2026-10-30	family=win.vshell | confidence=100% threat=botnet_cc
+91.92.41.166:2404	ThreatFox	2026-10-30	family=win.remcos | confidence=75% threat=botnet_cc
+154.91.51.190:9097	ThreatFox	2026-10-30	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.51.178:9097	ThreatFox	2026-10-30	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.51.173:9097	ThreatFox	2026-10-30	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.51.171:9097	ThreatFox	2026-10-30	family=win.vshell | confidence=100% threat=botnet_cc
+8.217.254.211:22	ThreatFox	2026-10-30	family=unknown | confidence=100% threat=botnet_cc
+154.91.51.168:9097	ThreatFox	2026-10-30	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.51.166:9097	ThreatFox	2026-10-30	family=win.vshell | confidence=100% threat=botnet_cc
+8.217.254.211:8888	ThreatFox	2026-10-30	family=unknown | confidence=100% threat=botnet_cc
+31.77.16.64:443	ThreatFox	2026-10-30	family=js.iclickfix | confidence=50% threat=payload_delivery
+91.92.41.197:2404	ThreatFox	2026-10-30	family=win.remcos | confidence=75% threat=botnet_cc
+158.94.209.19	OTX	2026-10-29	family=cryptocurrency fraud | pulse='Prediction Markets Emerge as a New Vertical for Traffer Teams' pulse_id=6ae388525fa9f64db6d1d947
+83.217.208.78	OTX	2026-10-29	family=cryptocurrency fraud | pulse='Prediction Markets Emerge as a New Vertical for Traffer Teams' pulse_id=6ae388525fa9f64db6d1d947
+192.162.199.243	OTX	2026-10-29	family=cryptocurrency fraud | pulse='Prediction Markets Emerge as a New Vertical for Traffer Teams' pulse_id=6ae388525fa9f64db6d1d947
+31.76.10.48	OTX	2026-10-29	family=cryptocurrency fraud | pulse='Prediction Markets Emerge as a New Vertical for Traffer Teams' pulse_id=6ae388525fa9f64db6d1d947
+31.77.159.194	OTX	2026-10-29	family=cryptocurrency fraud | pulse='Prediction Markets Emerge as a New Vertical for Traffer Teams' pulse_id=6ae388525fa9f64db6d1d947
+87.120.165.193	OTX	2026-10-29	family=cryptocurrency fraud | pulse='Prediction Markets Emerge as a New Vertical for Traffer Teams' pulse_id=6ae388525fa9f64db6d1d947
+89.213.118.50	OTX	2026-10-29	family=cryptocurrency fraud | pulse='Prediction Markets Emerge as a New Vertical for Traffer Teams' pulse_id=6ae388525fa9f64db6d1d947
+146.19.125.36	OTX	2026-10-29	family=Hydraq - S0203 | pulse='Aurora ransomware targets ESXi abuses Cursor Agent for exploitation' pulse_id=6ae386434a2934ca4f48754d
+89.106.83.49	OTX	2026-10-29	family=Hydraq - S0203 | pulse='Aurora ransomware targets ESXi abuses Cursor Agent for exploitation' pulse_id=6ae386434a2934ca4f48754d
+157.173.29.133	OTX	2026-10-29	family=Hydraq - S0203 | pulse='Aurora ransomware targets ESXi abuses Cursor Agent for exploitation' pulse_id=6ae386434a2934ca4f48754d
+23.246.128.3	OTX	2026-10-29	family=Hydraq - S0203 | pulse='Aurora ransomware targets ESXi abuses Cursor Agent for exploitation' pulse_id=6ae386434a2934ca4f48754d
+45.142.31.17	OTX	2026-10-29	family=Hydraq - S0203 | pulse='Aurora ransomware targets ESXi abuses Cursor Agent for exploitation' pulse_id=6ae386434a2934ca4f48754d
+93.157.139.115	OTX	2026-10-29	family=Hydraq - S0203 | pulse='Aurora ransomware targets ESXi abuses Cursor Agent for exploitation' pulse_id=6ae386434a2934ca4f48754d
+93.157.139.123	OTX	2026-10-29	family=Hydraq - S0203 | pulse='Aurora ransomware targets ESXi abuses Cursor Agent for exploitation' pulse_id=6ae386434a2934ca4f48754d

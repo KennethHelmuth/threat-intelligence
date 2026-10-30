@@ -1,0 +1,42 @@
+title: Network Connection to Coruna Infrastructure
+id: 70867b08-c6fa-4978-9ecd-4cf0f69a4901
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Coruna.
+date: 2026-10-30
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - amfi manipulation
+    - coruna
+    - cve-2022-48503
+    - darksword
+    - drive-by compromise
+    - ios exploitation
+    - malware.coruna
+    - pac bypass
+    - supply chain attack
+    - webkit vulnerability
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'ax.xoovo.top'
+        - 'ccsigen321qc.com'
+        - 'echomint.buzz'
+        - 'melatibiru.win'
+        - 'a111.life'
+        - 'commoditytrendpilot.site'
+        - 'kjkp.com.cn'
+        - 'qcsh.com.cn'
+        - 'stocktrendpilot.net'
+        - 'www2.disp.cc'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
