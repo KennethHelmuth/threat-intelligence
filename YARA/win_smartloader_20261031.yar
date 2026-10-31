@@ -1,0 +1,61 @@
+rule win_smartloader_20261031
+{
+    meta:
+        description = "Auto-generated stub for win.smartloader based on 42 hashes"
+        author      = "ti-pipeline (auto-generated)"
+        date        = "2026-10-31"
+        version     = "1.0"
+        source      = "ThreatFox"
+        family      = "win.smartloader"
+        hash_count  = "42"
+
+    strings:
+        // Hashes (SHA-256) – reference only; add byte-strings/imphash conditions below
+        // 14aaa132289790d5ea952e77da65ca7a16621c94bd53db7763c1960c7486e0ca
+        // 392c9a8527f5a867bbc542479b91ecee64c9b70ee253ae7dd1a1280a27ec6fb3
+        // 45a896a10de4b002dfd05875beede91fc8f35a6e131f267b9d622df3236f4fe3
+        // 79f8b7d275007c22264e4d3f7df4f6a4f2bbd96598c954b73827588510d15a71
+        // 7b53f6445615c5010cd41e6d61dc34b4d74a65f75c5e9761858829269c78eaa0
+        // 98349582e8e15c8bff5c96489bb15bdb580d5ceb4b45297dd4f342338754d8a8
+        // a15f44d60a01747589f088941b8f6e82f2d563e591695f9f09eb398a07b08193
+        // b0f15f64049d186d757f0f2819c3859d86045286a266de40c778cd4dc7e0c25e
+        // b554ac986ed0e8c1e8155ae229a8731028cc27b163931bccc281cd296fc4d157
+        // e292bfb598729eafda632d4b41afbefb5b51f269a874343f011cf0c55aa9e52f
+        // fa8e53ceacae798416f218def94b22e96aeb86dfc7f7b1e35d4ed98dc13e2411
+        // 5c1dfa4310e141a186292d834f7a5f713ace6e083a3b359b657b9ad396713074
+        // 6383e81b72db2877cb69526122379939427c00858f634abb8ee79897a931369a
+        // 67aa852354ffc0a1d05f7ed91fc77f6d2252f3f257847873e80f3bd36a1d4ad7
+        // 67ecdf16f813ff51cb2791c4c47eb1274c4aa45b232a863b662642ad13712968
+        // 6cd97eb6617b1a053c00a2399390b1b3e13cdbec2685a2464c9d61c45abaf8ec
+        // 6ec06ed33dcdac63138e63e26667d9cb73d6854c8bf527cac8eaf04cbba3a2ec
+        // 6f6121ded31eded2a7d9b1200f0367ad618c6f1f2b472865fa665846e49aef7b
+        // 77eabbe04ea254061938f5c82d9294fdfd4f37097fe6858f7f993c38a269ec31
+        // 7ddf3aca545834a60c18481511d4020111ac21e183d153f6d97cf6797fef651d
+        // 8b0d922b2265104c6d9bda2cde35a69a384d29b1cb617636073accbaefcd42ea
+        // aa57a2816fb6e2806f960bbf02b68a7187ed690cf80f22520fe27a2686fc41a0
+        // b13fdfba0a66882726272ae0442437f3719db07b1ceb2428a0e5e4d070bb03c2
+        // b54b851f24831876854aa24575a6c095cadc14309549ada6a86c83e8ee7293f4
+        // b562f08876f46b773c5048ee529b517ca8de3dc7fb39bd2fba33fecdaaf63a01
+        // b8d41fc0ea633bd5b110dd490254aa814583f7932c8a4a757618dce22a289d24
+        // c38e3b17d828b3c26e636d412148b9da10fcde03c81208906bf913c7c42bcfff
+        // cad13a42704271d54b60ad4332e1cced223b49fe9460d44c8f998069a596c2d2
+        // d869f745a657cddd0af426c5e69ac423c46f99600c5d92af65145688e16a9990
+        // db9d6651dfe2e606431e0d9e0b83c6cb5036b10867e70a7d3c74d2370b3512aa
+        // ddf5d4edd4ebc6e36cbe2ac3d46358dbd72b42bf4e1aca9a2b7c394a186ff30e
+        // ffc3da9b3b6875861eab31bbb4649a23b2a853154ba0ac872075e4358ec29307
+        // 57df281639cfd3245818757cd30887b1128153b8d3d2e013166a362acd0ec72a
+        // 0c4dc0feaef7b03657769a6740917c1a05be274d8247cdbfdb92b4f30ed2f307
+        // 1ef53dfcb1d0ceee43b692157143e91299d456da01e92bc16b9f3c3bdf6082ff
+        // 2ba0452156231cb01af750df9c9b50ae891b001355fb92ee231eca67a2abcead
+        // 2d35abee973dc2308d21a0e0684f755a3437760b73d2f332c92bc19030ee71ac
+        // 55ed0708283449b4a42bd0b413b74aed3c8d66008faee7a99bb10b5cbaac8523
+        // 58d35154206f24546d8fdc882968660d49308a1c85397ccfd6d8aa84f40329c1
+        // 815717dbce6939c9aa6fe0805a97e7c028f7a2e8655c3e78ba16640f79035ffd
+        // 071802a6a9191c2e47f19a29030c81683f730b8cd8cc6eb3f23aeed63b649542
+        // 4c27f2d2222e3c64de014504657147375e67f0d789fce299275b741efcd2ac31
+
+    condition:
+        // TODO: replace with byte-level strings, pe.imphash(), or hash.sha256() checks
+        // Example: pe.imphash() == "aabbccdd..."
+        false  // stub – analyst must complete this rule
+}

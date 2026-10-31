@@ -14793,3 +14793,28 @@
 45.142.31.17	OTX	2026-10-29	family=Hydraq - S0203 | pulse='Aurora ransomware targets ESXi abuses Cursor Agent for exploitation' pulse_id=6ae386434a2934ca4f48754d
 93.157.139.115	OTX	2026-10-29	family=Hydraq - S0203 | pulse='Aurora ransomware targets ESXi abuses Cursor Agent for exploitation' pulse_id=6ae386434a2934ca4f48754d
 93.157.139.123	OTX	2026-10-29	family=Hydraq - S0203 | pulse='Aurora ransomware targets ESXi abuses Cursor Agent for exploitation' pulse_id=6ae386434a2934ca4f48754d
+185.80.234.25:443	ThreatFox	2026-10-31	family=win.redline_stealer | confidence=100% threat=botnet_cc
+188.137.248.249:443	ThreatFox	2026-10-31	family=win.redline_stealer | confidence=100% threat=botnet_cc
+154.91.51.163:9097	ThreatFox	2026-10-31	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.51.167:9097	ThreatFox	2026-10-31	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.51.169:9097	ThreatFox	2026-10-31	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.50.175:9097	ThreatFox	2026-10-31	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.51.162:9097	ThreatFox	2026-10-31	family=win.vshell | confidence=100% threat=botnet_cc
+45.227.253.132:29554	ThreatFox	2026-10-31	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+154.91.50.173:9097	ThreatFox	2026-10-31	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.50.174:9097	ThreatFox	2026-10-31	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.50.171:9097	ThreatFox	2026-10-31	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.50.172:9097	ThreatFox	2026-10-31	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.49.177:9097	ThreatFox	2026-10-31	family=win.vshell | confidence=100% threat=botnet_cc
+193.233.16.35:80	ThreatFox	2026-10-31	family=win.smartloader | confidence=100% threat=botnet_cc
+154.91.49.176:9097	ThreatFox	2026-10-31	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.49.174:9097	ThreatFox	2026-10-31	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.49.172:9097	ThreatFox	2026-10-31	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.53.178:9097	ThreatFox	2026-10-31	family=win.vshell | confidence=100% threat=botnet_cc
+154.91.52.163:9097	ThreatFox	2026-10-31	family=win.vshell | confidence=100% threat=botnet_cc
+111.88.126.188:8029	ThreatFox	2026-10-31	family=elf.xmrig | confidence=75% threat=botnet_cc
+91.188.254.62:80	ThreatFox	2026-10-31	family=elf.xmrig | confidence=100% threat=payload_delivery
+85.11.167.7:11941	ThreatFox	2026-10-31	family=elf.xmrig | confidence=100% threat=payload_delivery
+85.11.167.7:11973	ThreatFox	2026-10-31	family=elf.xmrig | confidence=100% threat=payload_delivery
+176.65.149.174:34843	ThreatFox	2026-10-31	family=elf.xmrig | confidence=100% threat=payload_delivery
+95.164.53.45:80	ThreatFox	2026-10-31	family=win.smartloader | confidence=100% threat=botnet_cc

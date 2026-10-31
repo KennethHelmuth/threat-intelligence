@@ -1,0 +1,42 @@
+title: DNS Query to Animateclipper Domains
+id: c8128490-3a9d-4d42-96d1-c702662b3701
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Animateclipper.
+date: 2026-10-31
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - clipboard hijacking
+    - cryptobandit
+    - efimer
+    - malware.animateclipper
+    - zigclipper
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'wantsellonline.com'
+        - 'muaklekcoop.com'
+        - 'tuasesoriadigital.es'
+        - 'peniclean.com'
+        - 'thepullmanfolkestone.com'
+        - 'microlsireqjn.com'
+        - 'hindustanagency.com'
+        - 'cim-kolea.com'
+        - 'lb.propertyfind.cc'
+        - 'kupunasvolpiano.com'
+        - 'hasansunnah.xyz'
+        - 'hek5ensy7wqqls2cafflihs7sdqr4dwxux47vp3k7pgffeasxsfeeyid.onion'
+        - 'peowlakjew.com'
+        - 'swjxev2rvxfivi2wvkxre5vaxkjeepxzxva4u4ydm2qbkbakh6wnyead.onion'
+        - 'voedseltuinijplein.nl'
+        - 'webenvysolutions.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

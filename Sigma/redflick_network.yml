@@ -1,0 +1,46 @@
+title: Network Connection to Redflick Infrastructure
+id: f6c89ca8-52bf-4ca4-a40c-89657596d3ed
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Redflick.
+date: 2026-10-31
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cosmicpulse
+    - espionage
+    - malware.redflick
+    - phishing
+    - powershell
+    - redflick
+    - smartscreen
+    - star blizzard
+    - ukraine
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'groy.cc'
+        - 'muvb.net'
+        - 'bpdaersa.click'
+        - 'matjk.click'
+        - 'secure-dns-hub.com'
+        - 'qumel.link'
+        - 'ruten.observer'
+        - 'byveo.org'
+        - 'guach.net'
+        - 'stuseamandesilt.org'
+        - 'etia.ca'
+        - 'gliderrompercycl.com'
+        - 'divekickspolic.org'
+        - 'cyrna.top'
+        - 'drasw.club'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

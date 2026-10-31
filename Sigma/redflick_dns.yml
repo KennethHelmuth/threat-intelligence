@@ -1,0 +1,44 @@
+title: DNS Query to Redflick Domains
+id: 5d02b0c1-9cb6-461b-b576-7c3f9a844725
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Redflick.
+date: 2026-10-31
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cosmicpulse
+    - espionage
+    - malware.redflick
+    - phishing
+    - powershell
+    - redflick
+    - smartscreen
+    - star blizzard
+    - ukraine
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'groy.cc'
+        - 'muvb.net'
+        - 'bpdaersa.click'
+        - 'matjk.click'
+        - 'secure-dns-hub.com'
+        - 'qumel.link'
+        - 'ruten.observer'
+        - 'byveo.org'
+        - 'guach.net'
+        - 'stuseamandesilt.org'
+        - 'etia.ca'
+        - 'gliderrompercycl.com'
+        - 'divekickspolic.org'
+        - 'cyrna.top'
+        - 'drasw.club'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

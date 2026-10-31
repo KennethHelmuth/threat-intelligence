@@ -1,0 +1,30 @@
+title: Network Connection to Win.Smartloader Infrastructure
+id: cf6df3e7-fcc9-4b62-b481-5645103aad0c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Smartloader.
+date: 2026-10-31
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Github
+    - LuaJIT
+    - Polygon
+    - SmartLoader
+    - etherhiding
+    - malware.win.smartloader
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '193.233.16.35'
+        - '95.164.53.45'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

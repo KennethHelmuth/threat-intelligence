@@ -1,0 +1,44 @@
+title: Network Connection to Animateclipper Infrastructure
+id: 77cfe3a1-3131-44e8-bac8-c79152a1f1f0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Animateclipper.
+date: 2026-10-31
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - clipboard hijacking
+    - cryptobandit
+    - efimer
+    - malware.animateclipper
+    - zigclipper
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'wantsellonline.com'
+        - 'muaklekcoop.com'
+        - 'tuasesoriadigital.es'
+        - 'peniclean.com'
+        - 'thepullmanfolkestone.com'
+        - 'microlsireqjn.com'
+        - 'hindustanagency.com'
+        - 'cim-kolea.com'
+        - 'lb.propertyfind.cc'
+        - 'kupunasvolpiano.com'
+        - 'hasansunnah.xyz'
+        - 'hek5ensy7wqqls2cafflihs7sdqr4dwxux47vp3k7pgffeasxsfeeyid.onion'
+        - 'peowlakjew.com'
+        - 'swjxev2rvxfivi2wvkxre5vaxkjeepxzxva4u4ydm2qbkbakh6wnyead.onion'
+        - 'voedseltuinijplein.nl'
+        - 'webenvysolutions.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
