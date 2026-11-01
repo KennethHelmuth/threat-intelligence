@@ -24076,3 +24076,36 @@ c3180fb60f54da6440b3fa2d2569e5966c92b0fd3c451b7be0bba0e9dd5a967c	OTX	2026-10-29	
 d6aa943e7b696141090fe55c9f5f424e97abc8b52a6b469dff0448e1cf5ad54e	OTX	2026-10-29	family=AnimateClipper | pulse='How Attackers Redirect Crypto Payments' pulse_id=6ae3cb79a3fb666626c21e74
 ed3a66132044ad25b5e7f13b6fda5ccec35df0e27e3138fd294c1827164b6ede	OTX	2026-10-29	family=AnimateClipper | pulse='How Attackers Redirect Crypto Payments' pulse_id=6ae3cb79a3fb666626c21e74
 f5b419e2adc3a2e802f13fd3c089ae183e9f8216b58be8d366721600fc314209	OTX	2026-10-29	family=AnimateClipper | pulse='How Attackers Redirect Crypto Payments' pulse_id=6ae3cb79a3fb666626c21e74
+cfa2bac42af30c732cda9939159c3f41996cf074c2f7f3e3b21d38d944ff3e0e	MalwareBazaar	2026-11-01	filetype=sh md5=ea9cfaab1508cc7c8a2174e46c4bcb83 sha1=9c0906737b3aeaa0e2b6f4373f4ec0bddb7a13ce | vt=12/75
+fcb12e0ae3f50e171a814269e3c8174c613204b40d64bfb855d93668517104ba	ThreatFox	2026-11-01	family=elf.mirai | confidence=90% threat=payload
+2d2a95ddad86b51aceba55a10dc9d66489e7188f50cb8cd1eff7af115d136966	ThreatFox	2026-11-01	family=unknown_loader | confidence=75% threat=payload
+1b01265fc95eecf548211be11cb8708d63f774d92ca98be3d2edba6e6e1a7fc5	ThreatFox	2026-11-01	family=elf.mirai | confidence=90% threat=payload
+7b026f26374a7aea28f4c4e483fe9aad004ee3a7e33d308aa3a8de0bd5dfb303	ThreatFox	2026-11-01	family=elf.mirai | confidence=90% threat=payload
+9d248e41c44dc04235c3fa71f09bbc620e1e4cd4a488436effdfa0de47a092b7	ThreatFox	2026-11-01	family=elf.mirai | confidence=100% threat=payload
+c54c3592e1c1bc94f81646ac0051fbac4109811b21a3831f91b3a77b0d8def11	ThreatFox	2026-11-01	family=elf.mirai | confidence=90% threat=payload
+b054dff887f2fde959f25b42dc49d6dc0dd504f863d0a896a143fc01b21a2de6	ThreatFox	2026-11-01	family=elf.mirai | confidence=100% threat=payload
+931195a7237f8213f80a0a76c76a9663061793e5b74ece9975d489c0eb971e2b	ThreatFox	2026-11-01	family=win.rugmi | confidence=95% threat=payload
+a0432d0a7ca04b53e130a54710338385de639fe9a9cc0b858bd1649d539630e5	ThreatFox	2026-11-01	family=elf.mirai | confidence=95% threat=payload
+4f64901c53e903309136e13892c4c8a5c4c57550b08acd1ae53757ca43c7d8e5	ThreatFox	2026-11-01	family=elf.mirai | confidence=100% threat=payload
+586cddc7b67e1c2072b39cc6d0669b3031ab66c0075e91f8a81b8bd92b2e5c8e	ThreatFox	2026-11-01	family=elf.mirai | confidence=95% threat=payload
+d51568526eb146d673f4864629f21b40d70b35f5e25b88074a8bc63719cd67a8	ThreatFox	2026-11-01	family=elf.mirai | confidence=95% threat=payload
+067ec3b602489fd3d7b57cbbe3f9e24d986b476f072ba12777d0b447cb6226c7	ThreatFox	2026-10-31	family=win.smartloader | confidence=85% threat=payload
+cca729f2af3ca4622d1e23f2c149ae2ea7d50b52f4ed729cf3eba33b4fd605c1	MalwareBazaar	2026-11-01	family=Mirai | filetype=elf md5=4b0368fe7be980caaa99a5a67af9de52 sha1=df02cd27b7151b53a517a82daa3bbb03b7622841
+8015f34dc84922b03688399d7f9fe7a00361789f7e420c7e2a2cdb23e75cef84	OTX	2026-10-02	family=system compromise | pulse='PSIRT' pulse_id=6abf0b86fb14812f2dc84fb2
+77324ac428bde86d351fc5fc06f6d64a6bfe737dfb2743df1d4c5ac2418a5b6a	OTX	2026-10-02	family=system compromise | pulse='PSIRT' pulse_id=6abf0b86fb14812f2dc84fb2
+7a6cea9f5c9e2e9994d4e3c4da73f86cf5acd05ea5d312c066c9d1dafd69ee38	OTX	2026-10-02	family=system compromise | pulse='PSIRT' pulse_id=6abf0b86fb14812f2dc84fb2
+4000276a150a165d3c2537d1e19fb393c4de8333076a16655e28059cae82157b	OTX	2026-10-02	family=system compromise | pulse='PSIRT' pulse_id=6abf0b86fb14812f2dc84fb2
+703e97c64e61e41dc3aaba580d82bb2aa7b6a11b54ee6fb467ed5d5a3bffdef5	OTX	2026-10-02	family=system compromise | pulse='PSIRT' pulse_id=6abf0b86fb14812f2dc84fb2
+8953ec7960b09f544a880b072ad4e6cfda7a8303f486251d3478dcfdfbac23b6	OTX	2026-10-02	family=system compromise | pulse='PSIRT' pulse_id=6abf0b86fb14812f2dc84fb2
+d6fe51c22b91776f4c961ea58bcac5917f15d560a619d7ce726d3d51795609d3	OTX	2026-10-02	family=system compromise | pulse='PSIRT' pulse_id=6abf0b86fb14812f2dc84fb2
+49a7156a7d043cc8f9f680579db22f86	OTX	2026-10-02	family=system compromise | pulse='PSIRT' pulse_id=6abf0b86fb14812f2dc84fb2
+5241738a3e9988404239e12243f6d35b	OTX	2026-10-02	family=system compromise | pulse='PSIRT' pulse_id=6abf0b86fb14812f2dc84fb2
+61af1c4bce1c2eebc8ff689ca5337791	OTX	2026-10-02	family=system compromise | pulse='PSIRT' pulse_id=6abf0b86fb14812f2dc84fb2
+64c90a00c7fda4d5c7973ed64c25783a	OTX	2026-10-02	family=system compromise | pulse='PSIRT' pulse_id=6abf0b86fb14812f2dc84fb2
+8eb64f25d2a8e18e05aae058629473cf	OTX	2026-10-02	family=system compromise | pulse='PSIRT' pulse_id=6abf0b86fb14812f2dc84fb2
+ae0ea6502d3fa5f0664bceb73189eb54	OTX	2026-10-02	family=system compromise | pulse='PSIRT' pulse_id=6abf0b86fb14812f2dc84fb2
+f90fa81a5f521d785f2b2f765e3ab897	OTX	2026-10-02	family=system compromise | pulse='PSIRT' pulse_id=6abf0b86fb14812f2dc84fb2
+c6b8d0cdb53da98a5d15e79b7bb9e9f4c272c4f9592acdc291089f126f892f45	OTX	2026-10-01	family=TIKTOUK | pulse='TIKTOUK: Tracing a WordPress Credential Collection Toolkit' pulse_id=6abeceb3ed88945bc5661c7d
+0d8ea89a63070f68286249aa437aece0e040c1609b8c5c0950ebbc90e6f70f02	OTX	2026-10-01	family=TIKTOUK | pulse='TIKTOUK: Tracing a WordPress Credential Collection Toolkit' pulse_id=6abeceb3ed88945bc5661c7d
+1e22fde68d3277ed0fe7a8a7b554f0ae118260a2fa143f8e1bdc84c994ebbe90	OTX	2026-10-01	family=TIKTOUK | pulse='TIKTOUK: Tracing a WordPress Credential Collection Toolkit' pulse_id=6abeceb3ed88945bc5661c7d
+9903f4576980ff7cfd560ca57c665a4b59b3c30d	OTX	2026-10-01	family=TIKTOUK | pulse='TIKTOUK: Tracing a WordPress Credential Collection Toolkit' pulse_id=6abeceb3ed88945bc5661c7d
