@@ -1,0 +1,35 @@
+title: Network Connection to Aotera Infrastructure
+id: d6103050-2178-49d6-a43b-8b5a608ccf12
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Aotera.
+date: 2026-11-02
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aotera
+    - aotera loader
+    - browser injection
+    - clipboard clipper
+    - cryptocurrency theft
+    - exchange drain
+    - malware.aotera
+    - tedy
+    - underground
+    - vidar
+    - vidar stealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'quick-neo.com'
+        - 'easybooters.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

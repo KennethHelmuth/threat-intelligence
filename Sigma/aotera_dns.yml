@@ -1,0 +1,33 @@
+title: DNS Query to Aotera Domains
+id: 1467d2da-f81b-483e-a900-4b5f50d0fef9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Aotera.
+date: 2026-11-02
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aotera
+    - aotera loader
+    - browser injection
+    - clipboard clipper
+    - cryptocurrency theft
+    - exchange drain
+    - malware.aotera
+    - tedy
+    - underground
+    - vidar
+    - vidar stealer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'quick-neo.com'
+        - 'easybooters.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

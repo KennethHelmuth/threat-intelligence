@@ -1,0 +1,20 @@
+rule malicious_20261102
+{
+    meta:
+        description = "Auto-generated stub for malicious based on 1 hashes"
+        author      = "ti-pipeline (auto-generated)"
+        date        = "2026-11-02"
+        version     = "1.0"
+        source      = "MalwareBazaar"
+        family      = "malicious"
+        hash_count  = "1"
+
+    strings:
+        // Hashes (SHA-256) – reference only; add byte-strings/imphash conditions below
+        // ce05a292a38bfc0acd84d41f5ab827ddea81b6aee8075e20e4e5f41f50fae82d
+
+    condition:
+        // TODO: replace with byte-level strings, pe.imphash(), or hash.sha256() checks
+        // Example: pe.imphash() == "aabbccdd..."
+        false  // stub – analyst must complete this rule
+}
