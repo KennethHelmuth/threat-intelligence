@@ -1,0 +1,34 @@
+title: DNS Query to Tradertraitor Domains
+id: c2bca156-25cd-4131-850a-f1aff4d852a1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Tradertraitor.
+date: 2026-11-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - binance
+    - bybit
+    - crypto developers
+    - cryptocurrency theft
+    - devops targeting
+    - domain infrastructure
+    - fake job interviews
+    - front companies
+    - malware.tradertraitor
+    - north korea
+    - social engineering
+    - tradertraitor
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'bybit-assessment.com'
+        - 'getstockprice.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

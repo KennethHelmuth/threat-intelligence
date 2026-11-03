@@ -1,0 +1,38 @@
+title: DNS Query to Xcpe Domains
+id: 18838db1-7e53-4afe-b576-048fdcc29c37
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Xcpe.
+date: 2026-11-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - abcnexus
+    - ad-fraud
+    - android tv
+    - appsalt
+    - backdoor
+    - bird
+    - botnet
+    - bwm
+    - cboxtv
+    - earnfm
+    - fission
+    - gaganode
+    - hiddenview
+    - honeygain
+    - ipweb
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'jaguar-distributor.syslogcollector.com'
+        - 'jaguar-distributor.logreporter.com'
+        - 'mcstb.anyevonline.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

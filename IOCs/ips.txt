@@ -14892,3 +14892,53 @@
 115.175.24.19:22	ThreatFox	2026-11-01	family=win.cobalt_strike | confidence=100% threat=botnet_cc
 177.5.76.21:8080	ThreatFox	2026-11-01	family=win.cobalt_strike | confidence=100% threat=botnet_cc
 177.5.76.21:443	ThreatFox	2026-11-01	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+5.230.122.63:15152	ThreatFox	2026-11-03	family=unknown_rat | confidence=75% threat=botnet_cc
+216.126.225.243:8085	ThreatFox	2026-11-03	family=js.otter_cookie | confidence=90% threat=botnet_cc
+216.126.225.243:8086	ThreatFox	2026-11-03	family=js.otter_cookie | confidence=90% threat=botnet_cc
+104.194.158.65:443	ThreatFox	2026-11-03	family=unknown | confidence=85% threat=botnet_cc
+68.65.122.95:443	ThreatFox	2026-11-03	family=unknown | confidence=70% threat=botnet_cc
+185.21.136.6:443	ThreatFox	2026-11-03	family=unknown | confidence=65% threat=botnet_cc
+109.224.53.140:443	ThreatFox	2026-11-03	family=unknown | confidence=65% threat=botnet_cc
+154.93.37.228:443	ThreatFox	2026-11-03	family=unknown | confidence=65% threat=botnet_cc
+134.122.114.138:8888	ThreatFox	2026-11-03	family=elf.xmrig | confidence=50% threat=botnet_cc
+170.187.154.248:3129	ThreatFox	2026-11-03	family=elf.xmrig | confidence=75% threat=botnet_cc
+170.187.154.248:1088	ThreatFox	2026-11-03	family=elf.xmrig | confidence=75% threat=botnet_cc
+147.182.233.50:1088	ThreatFox	2026-11-03	family=elf.xmrig | confidence=75% threat=botnet_cc
+147.182.233.50:3129	ThreatFox	2026-11-03	family=elf.xmrig | confidence=75% threat=botnet_cc
+103.192.80.81:1088	ThreatFox	2026-11-03	family=elf.xmrig | confidence=75% threat=botnet_cc
+52.51.21.68:31337	ThreatFox	2026-11-03	family=win.sliver | confidence=100% threat=botnet_cc
+61.220.133.191:31337	ThreatFox	2026-11-03	family=win.sliver | confidence=100% threat=botnet_cc
+66.245.217.135:80	ThreatFox	2026-11-03	family=elf.xmrig | confidence=90% threat=payload_delivery
+141.95.72.59:80	ThreatFox	2026-11-03	family=elf.xmrig | confidence=75% threat=botnet_cc
+99.79.33.43:443	ThreatFox	2026-11-03	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+129.211.213.240:80	ThreatFox	2026-11-03	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+175.43.223.200:7443	ThreatFox	2026-11-03	family=unknown | confidence=100% threat=botnet_cc
+38.55.252.139:8088	ThreatFox	2026-11-03	family=unknown | confidence=100% threat=botnet_cc
+45.192.99.236:8888	ThreatFox	2026-11-03	family=unknown | confidence=100% threat=botnet_cc
+45.192.99.236:22	ThreatFox	2026-11-03	family=unknown | confidence=100% threat=botnet_cc
+124.221.123.110:8085	ThreatFox	2026-11-03	family=win.vshell | confidence=100% threat=botnet_cc
+154.37.219.102:8084	ThreatFox	2026-11-03	family=win.vshell | confidence=100% threat=botnet_cc
+124.221.123.110:8084	ThreatFox	2026-11-03	family=win.vshell | confidence=100% threat=botnet_cc
+8.160.189.25:8090	ThreatFox	2026-11-03	family=win.vshell | confidence=100% threat=botnet_cc
+62.60.226.30:10213	ThreatFox	2026-11-03	family=apk.cecbot | confidence=100% threat=botnet_cc
+195.206.234.176:443	ThreatFox	2026-11-03	family=elf.jackskid | confidence=100% threat=botnet_cc
+5.231.31.64:443	ThreatFox	2026-11-03	family=elf.jackskid | confidence=100% threat=botnet_cc
+96.62.250.146:443	ThreatFox	2026-11-03	family=elf.jackskid | confidence=100% threat=botnet_cc
+196.251.102.89:10213	ThreatFox	2026-11-03	family=apk.cecbot | confidence=100% threat=botnet_cc
+68.183.231.242:8080	ThreatFox	2026-11-03	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+68.183.231.242:80	ThreatFox	2026-11-03	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+68.183.231.242:443	ThreatFox	2026-11-03	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+219.134.163.210	OTX	2026-11-02	family=XCPE | pulse='Shutting the Door on the XCPE Botnet' pulse_id=6ae8a86845dfd06f55cb0848
+219.134.163.211	OTX	2026-11-02	family=XCPE | pulse='Shutting the Door on the XCPE Botnet' pulse_id=6ae8a86845dfd06f55cb0848
+104.234.26.163	OTX	2026-11-02	family=CyberStrikeAI | pulse='CyberStrikeAI attacks educational institutions' pulse_id=6ae86a19eabc583f87c50fd6
+45.153.126.223	OTX	2026-10-31	family=ARTEX | pulse='VAPOR PANDA Uses AI-Driven ARTEX to Grow Global Espionage Campaign' pulse_id=6ae64194faf7dc45dce3baa3
+31.57.201.201	OTX	2026-10-31	family=distillation | pulse='Black October for AI Developer Platforms' pulse_id=6ae5411ce86c1aaec037ddbf
+38.246.114.118	OTX	2026-10-31	family=distillation | pulse='Black October for AI Developer Platforms' pulse_id=6ae5411ce86c1aaec037ddbf
+45.39.190.176	OTX	2026-10-30	family=cve-2026-109618 | pulse='PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls' pulse_id=6ae4c9f97b4e07a268c06b96
+130.12.180.89	OTX	2026-10-30	family=cve-2026-109618 | pulse='PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls' pulse_id=6ae4c9f97b4e07a268c06b96
+2.59.133.151	OTX	2026-10-30	family=cve-2026-109618 | pulse='PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls' pulse_id=6ae4c9f97b4e07a268c06b96
+130.94.67.235	OTX	2026-10-30	family=cve-2026-109618 | pulse='PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls' pulse_id=6ae4c9f97b4e07a268c06b96
+23.27.25.75	OTX	2026-10-30	family=cve-2026-109618 | pulse='PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls' pulse_id=6ae4c9f97b4e07a268c06b96
+198.41.83.165	OTX	2026-10-30	family=cve-2026-109618 | pulse='PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls' pulse_id=6ae4c9f97b4e07a268c06b96
+198.41.83.174	OTX	2026-10-30	family=cve-2026-109618 | pulse='PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls' pulse_id=6ae4c9f97b4e07a268c06b96
+38.60.136.217	OTX	2026-10-30	family=cve-2026-109618 | pulse='PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls' pulse_id=6ae4c9f97b4e07a268c06b96

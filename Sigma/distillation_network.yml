@@ -1,0 +1,36 @@
+title: Network Connection to Distillation Infrastructure
+id: 7ee638f7-6f3f-4ffc-a9ea-a1c3dbe2f7b5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Distillation.
+date: 2026-11-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - agentic attacks
+    - ai developer platforms
+    - credential theft
+    - distillation
+    - llm brokers
+    - llmjacking
+    - malware.distillation
+    - supply chain
+    - token abuse
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'artex.nhhh.de'
+        - 'direct.465415.xyz'
+        DestinationIp|contains:
+        - '31.57.201.201'
+        - '38.246.114.118'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,31 @@
+title: DNS Query to Distillation Domains
+id: 11fbec9f-e24a-40d2-aef4-e6402c98503e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Distillation.
+date: 2026-11-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - agentic attacks
+    - ai developer platforms
+    - credential theft
+    - distillation
+    - llm brokers
+    - llmjacking
+    - malware.distillation
+    - supply chain
+    - token abuse
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'artex.nhhh.de'
+        - 'direct.465415.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

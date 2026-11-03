@@ -1,0 +1,38 @@
+title: Network Connection to Cyberstrikeai Infrastructure
+id: 486b259e-d1d3-49c0-9929-9208b6a98768
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Cyberstrikeai.
+date: 2026-11-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - africa
+    - ai-driven attacks
+    - cyberstrikeai
+    - domain compromise
+    - education sector
+    - latin america
+    - llm orchestration
+    - malware.cyberstrikeai
+    - mimikatz
+    - noderabbit
+    - pollcat
+    - post-exploitation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'fastcdn.bar'
+        - 'media.fastcdn.bar'
+        DestinationIp|contains:
+        - '104.234.26.163'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

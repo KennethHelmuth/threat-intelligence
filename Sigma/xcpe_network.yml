@@ -1,0 +1,43 @@
+title: Network Connection to Xcpe Infrastructure
+id: 6d24ec5e-e8ea-4323-bcfe-fb69f120f3f0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Xcpe.
+date: 2026-11-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - abcnexus
+    - ad-fraud
+    - android tv
+    - appsalt
+    - backdoor
+    - bird
+    - botnet
+    - bwm
+    - cboxtv
+    - earnfm
+    - fission
+    - gaganode
+    - hiddenview
+    - honeygain
+    - ipweb
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'jaguar-distributor.syslogcollector.com'
+        - 'jaguar-distributor.logreporter.com'
+        - 'mcstb.anyevonline.com'
+        DestinationIp|contains:
+        - '219.134.163.210'
+        - '219.134.163.211'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

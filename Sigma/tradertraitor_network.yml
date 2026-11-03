@@ -1,0 +1,36 @@
+title: Network Connection to Tradertraitor Infrastructure
+id: ceaf417d-d5fb-425a-9372-69a790c285d9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Tradertraitor.
+date: 2026-11-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - binance
+    - bybit
+    - crypto developers
+    - cryptocurrency theft
+    - devops targeting
+    - domain infrastructure
+    - fake job interviews
+    - front companies
+    - malware.tradertraitor
+    - north korea
+    - social engineering
+    - tradertraitor
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'bybit-assessment.com'
+        - 'getstockprice.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

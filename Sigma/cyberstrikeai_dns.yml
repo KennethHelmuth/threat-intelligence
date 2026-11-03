@@ -1,0 +1,34 @@
+title: DNS Query to Cyberstrikeai Domains
+id: 139ca759-da3e-410c-b637-f14105f8706d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Cyberstrikeai.
+date: 2026-11-03
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - africa
+    - ai-driven attacks
+    - cyberstrikeai
+    - domain compromise
+    - education sector
+    - latin america
+    - llm orchestration
+    - malware.cyberstrikeai
+    - mimikatz
+    - noderabbit
+    - pollcat
+    - post-exploitation
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'fastcdn.bar'
+        - 'media.fastcdn.bar'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
