@@ -14942,3 +14942,54 @@
 198.41.83.165	OTX	2026-10-30	family=cve-2026-109618 | pulse='PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls' pulse_id=6ae4c9f97b4e07a268c06b96
 198.41.83.174	OTX	2026-10-30	family=cve-2026-109618 | pulse='PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls' pulse_id=6ae4c9f97b4e07a268c06b96
 38.60.136.217	OTX	2026-10-30	family=cve-2026-109618 | pulse='PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls' pulse_id=6ae4c9f97b4e07a268c06b96
+187.201.142.208:1080	ThreatFox	2026-11-04	family=elf.mirai | confidence=50% threat=botnet_cc
+59.115.25.181:80	ThreatFox	2026-11-04	family=elf.mirai | confidence=50% threat=botnet_cc
+23.254.226.103:8080	ThreatFox	2026-11-04	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+23.254.226.103:443	ThreatFox	2026-11-04	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+112.213.110.225:443	ThreatFox	2026-11-04	family=win.vshell | confidence=100% threat=botnet_cc
+202.95.13.142:8888	ThreatFox	2026-11-04	family=win.valley_rat | confidence=75% threat=botnet_cc
+202.95.13.142:6666	ThreatFox	2026-11-04	family=win.valley_rat | confidence=100% threat=botnet_cc
+45.192.99.236:443	ThreatFox	2026-11-04	family=unknown | confidence=100% threat=botnet_cc
+23.254.226.103:80	ThreatFox	2026-11-04	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+141.98.10.86:80	ThreatFox	2026-11-04	family=unknown | confidence=75% threat=payload_delivery
+159.75.91.47:8081	ThreatFox	2026-11-04	family=win.vshell | confidence=100% threat=botnet_cc
+168.144.176.164:443	ThreatFox	2026-11-04	family=elf.jackskid | confidence=100% threat=botnet_cc
+64.81.30.24:443	ThreatFox	2026-11-04	family=win.vshell | confidence=100% threat=botnet_cc
+188.166.233.203:443	ThreatFox	2026-11-04	family=elf.jackskid | confidence=100% threat=botnet_cc
+170.64.153.147:443	ThreatFox	2026-11-04	family=elf.jackskid | confidence=100% threat=botnet_cc
+45.76.145.171:443	ThreatFox	2026-11-04	family=win.vshell | confidence=100% threat=botnet_cc
+49.235.179.14:443	ThreatFox	2026-11-04	family=win.vshell | confidence=100% threat=botnet_cc
+101.34.218.233:8084	ThreatFox	2026-11-04	family=win.vshell | confidence=100% threat=botnet_cc
+49.235.172.25:443	ThreatFox	2026-11-04	family=win.vshell | confidence=100% threat=botnet_cc
+156.238.237.103:443	ThreatFox	2026-11-04	family=win.vshell | confidence=100% threat=botnet_cc
+49.234.47.190:443	ThreatFox	2026-11-04	family=win.vshell | confidence=100% threat=botnet_cc
+124.221.142.210:443	ThreatFox	2026-11-04	family=win.vshell | confidence=100% threat=botnet_cc
+94.237.84.109:8082	ThreatFox	2026-11-03	family=elf.evilginx | confidence=75% threat=botnet_cc
+85.121.176.92:443	ThreatFox	2026-11-03	family=win.pure_rat | confidence=75% threat=botnet_cc
+80.47.233.8:8082	ThreatFox	2026-11-03	family=elf.evilginx | confidence=75% threat=botnet_cc
+51.79.168.5:80	ThreatFox	2026-11-03	family=win.havoc | confidence=75% threat=botnet_cc
+51.79.168.5:443	ThreatFox	2026-11-03	family=win.havoc | confidence=75% threat=botnet_cc
+46.246.6.24:2512	ThreatFox	2026-11-03	family=win.dcrat | confidence=75% threat=botnet_cc
+45.61.172.178:7443	ThreatFox	2026-11-03	family=unknown | confidence=75% threat=botnet_cc
+31.57.201.39:56003	ThreatFox	2026-11-03	family=win.pure_rat | confidence=75% threat=botnet_cc
+31.57.201.39:56002	ThreatFox	2026-11-03	family=win.pure_rat | confidence=75% threat=botnet_cc
+31.57.201.39:56001	ThreatFox	2026-11-03	family=win.pure_rat | confidence=75% threat=botnet_cc
+31.57.201.203:56001	ThreatFox	2026-11-03	family=win.pure_rat | confidence=75% threat=botnet_cc
+31.56.209.182:56002	ThreatFox	2026-11-03	family=win.pure_rat | confidence=75% threat=botnet_cc
+217.156.66.28:56002	ThreatFox	2026-11-03	family=win.pure_rat | confidence=75% threat=botnet_cc
+195.86.147.250:4321	ThreatFox	2026-11-03	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+193.134.211.216:40204	ThreatFox	2026-11-03	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+185.220.71.51:56001	ThreatFox	2026-11-03	family=win.pure_rat | confidence=75% threat=botnet_cc
+180.94.20.228:8000	ThreatFox	2026-11-03	family=win.havoc | confidence=75% threat=botnet_cc
+172.237.95.48:56001	ThreatFox	2026-11-03	family=win.pure_rat | confidence=75% threat=botnet_cc
+162.35.123.185:56001	ThreatFox	2026-11-03	family=win.pure_rat | confidence=75% threat=botnet_cc
+151.246.168.250:56001	ThreatFox	2026-11-03	family=win.pure_rat | confidence=75% threat=botnet_cc
+136.243.5.242:7493	ThreatFox	2026-11-03	family=win.asyncrat | confidence=75% threat=botnet_cc
+128.90.105.115:443	ThreatFox	2026-11-03	family=win.pure_rat | confidence=75% threat=botnet_cc
+102.220.162.138:56002	ThreatFox	2026-11-03	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.128.12.14:2053	ThreatFox	2026-11-03	family=win.vshell | confidence=100% threat=botnet_cc
+184.64.22.194:5000	ThreatFox	2026-11-03	family=win.quasar_rat | confidence=100% threat=botnet_cc
+45.154.98.118:2404	ThreatFox	2026-11-03	family=win.remcos | confidence=100% threat=botnet_cc
+132.243.238.178	OTX	2026-11-03	family=PSK Agent | pulse='StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores' pulse_id=6ae9eb17c5d87b8a004ed8fb
+86.107.100.105	OTX	2026-11-03	family=PSK Agent | pulse='StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores' pulse_id=6ae9eb17c5d87b8a004ed8fb
+45.194.90.57	OTX	2026-11-03	family=exploitation | pulse='Exploitation Targeting Node-RED, a Tool Embedded in ICS Products' pulse_id=6ae9ac6e66c89c6be4d99928

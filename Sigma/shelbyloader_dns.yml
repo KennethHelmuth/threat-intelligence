@@ -1,0 +1,65 @@
+title: DNS Query to Shelbyloader Domains
+id: dcbe4639-a7bb-49d6-9e86-4efbaaab45b7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Shelbyloader.
+date: 2026-11-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aerostat
+    - apt34
+    - dust specter
+    - enddot
+    - espionage
+    - ghostform
+    - github c2
+    - gulf cooperation council
+    - hotair
+    - kurdistan
+    - malware.shelbyloader
+    - psproxy
+    - runtimebroker
+    - runtimebrokerapi
+    - shelbyc2
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'mail.mofa.gov.kw'
+        - 'korektell.com'
+        - 'meetingapp.site'
+        - 'mfakuwait.org'
+        - 'meetgooge.cam'
+        - 'accountmeetgooge.online'
+        - 'artcyberspacetraining.site'
+        - 'artwavecollective.site'
+        - 'astravioncapital.site'
+        - 'cdn-gdrive.cloud'
+        - 'cdndrive.online'
+        - 'drive-g.cloud'
+        - 'drive-go.cam'
+        - 'drive-googe.online'
+        - 'drivegooge.online'
+        - 'gcc-sg.cloud'
+        - 'gcc-sg.online'
+        - 'googedrive.online'
+        - 'googemeet.online'
+        - 'gsecurity.help'
+        - 'krgcloud.online'
+        - 'lifeinmotionnow.site'
+        - 'meet-goo.cam'
+        - 'meetcloud.site'
+        - 'meetgooge.online'
+        - 'meetlogin.online'
+        - 'mfakuwait.online'
+        - 'mfakuwait.website'
+        - 'moelcloud.online'
+        - 'mofakuwait.online'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

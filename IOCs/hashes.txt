@@ -24559,3 +24559,541 @@ b04e15873c6690c38c3837569b8012c18ba19d21	OTX	2026-10-30	family=cve-2026-109618 |
 6f84cc354b785157983efa8f4b674d2e1d6c3331017f29ff8d51bc43668d4b0f	OTX	2026-10-30	family=cve-2026-109618 | pulse='PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls' pulse_id=6ae4c9f97b4e07a268c06b96
 9c15dc5a510bf2e8a16c846e61fa35c50ef733b72d4e47b6e8307498a398443c	OTX	2026-10-30	family=cve-2026-109618 | pulse='PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls' pulse_id=6ae4c9f97b4e07a268c06b96
 c1e81cfbaf7e4cccad7d7f43c1a624b791ba1b7f1d176e224455138604837b4c	OTX	2026-10-30	family=cve-2026-109618 | pulse='PHP2Shell One Week Later: Honeypot Shells on the Web, a Path to Root on Palo Alto Firewalls' pulse_id=6ae4c9f97b4e07a268c06b96
+5865fb8b29d8c03175897e123910f5a1082b4b7d12dc9e455af0d88ccef83127	ThreatFox	2026-11-03	family=unknown | confidence=75% threat=payload | vt=47/75
+ff5a20d1976646be3fbedc058bef40d95161dcdd7cc197c23b25bf82d5079706	ThreatFox	2026-11-03	family=unknown | confidence=75% threat=payload | vt=43/75
+c9c52801d72ece870f48cbb1ee4146a1fa11dbf98490be85c83eaf2f12380a09	ThreatFox	2026-11-03	family=unknown | confidence=75% threat=payload
+503e5f4826d41a76011f5b9f8892739ad358a6c1b6499060a2c1491258c3d6b5	ThreatFox	2026-11-03	family=unknown | confidence=75% threat=payload
+21eceb4b63db325a89dedc3e6b0595b10731e25dee8158510ef0f91b49acae53	MalwareBazaar	2026-11-04	filetype=macho md5=f69fc69792de8eca7eb328db5ede4589 sha1=34df3074e0dc798daec93b558f0fe1e1fa267cf2 | vt=20/75
+28c09862bfc850120201e22988176ce41900b491c064b61174f29aa6578f29ac	MalwareBazaar	2026-11-04	filetype=exe md5=60e4cb95f00c6ea4f52d9dc68e4905b2 sha1=ad763a13db4c39767953ab11f211da9597e1cafa | vt=12/75
+30a43e3a64b90e8853daaa61ca5c2a0e6b5f3e7126e47b3ab6d826243e9ca14b	MalwareBazaar	2026-11-04	filetype=exe md5=7ededc7f1886835c56a058f3587dc966 sha1=53a8a0d5c052ac92c17b3a353cb371885a66f76f | vt=6/75
+5cc241140c015634805a51d62ac1afe626c741a6a6cb181c6952723e73889a06	MalwareBazaar	2026-11-04	filetype=lnk md5=faf881dac4ad44761926a62dbc35f232 sha1=d55134bd613b039b68ac530f31c26fe3f9b21a58 | vt=0/75
+3d677911ed807621f3ee246f1429959dda28be6dbd402c8812521497a41d740d	MalwareBazaar	2026-11-04	filetype=bat md5=1a9141d2edee197f240036bb678b4247 sha1=74ca90f82e8473e8dd8857a2d27d3f66b20f1791 | vt=0/75
+ecd10815b84885333dd99b56c0e5c58c653373ede83b243947d1c4a8c64dcb12	MalwareBazaar	2026-11-04	filetype=exe md5=e31b232597040e67ca72b85e1739c64d sha1=19be0e76b7f84be1f40935e3589346d58267ae94 | vt=7/75
+4e6a07bb1abcbc9f994217c66ae0ee51981e590d9497107b653a44727b2daf4e	MalwareBazaar	2026-11-04	filetype=exe md5=3a5665260e0243be870e0b5ef850cb3e sha1=29a77327a942cf0a37f5e4b26776a4191be87ff3 | vt=49/75
+f41bb0e196f6aafe7bc90c27603afe5737dddc71cfc09a770ce7ef69c619c732	ThreatFox	2026-11-04	family=elf.mirai | confidence=90% threat=payload
+62df92297d65ef930d9f3faaff906f06e598eca3de83f98ca3b289c0b0433267	ThreatFox	2026-11-04	family=elf.mirai | confidence=90% threat=payload
+e79ea6eb542c2a89eb1d69aa65f5578f59adbc074ed5d1ca540f198e89e06a6e	ThreatFox	2026-11-04	family=elf.mirai | confidence=90% threat=payload
+15056424c523b8946b31c04a0f7997cebd4494023b0aca88c4e972d24445f2bb	ThreatFox	2026-11-04	family=elf.mirai | confidence=90% threat=payload
+2dba2de1b125e44dc20fbf4796e6ea37ae7f44ac11110c1274a59cca28671bf4	ThreatFox	2026-11-04	family=elf.mirai | confidence=90% threat=payload
+52b1fa72361351f840dfbc2ee555a7ed960a7e9e646aaf3db4f6b2167b57f5e4	ThreatFox	2026-11-04	family=elf.mirai | confidence=90% threat=payload
+57bb3007b68854a0a40e4f2c76a9a2eee97461e865c1ae0de7a247d0f333e7f3	ThreatFox	2026-11-04	family=elf.mirai | confidence=90% threat=payload
+169dd97aacb931053e2d1cd8b9fa8c19c2817a337c6197ec3c9c1ea2ea525305	ThreatFox	2026-11-04	family=elf.mirai | confidence=90% threat=payload
+2822d90437b05eb274d2634d7d94b33a5cf1dda07ac56c853f5d5bcf2de72640	ThreatFox	2026-11-04	family=elf.mirai | confidence=90% threat=payload
+d81773a146ba02872649b252a2a9975d142d0383a6d799056a0fb6afaf9f3700	ThreatFox	2026-11-04	family=elf.mirai | confidence=90% threat=payload
+56f1ccdfabe87bbf4f395b36e5a59481acf15aeae21efee0eb7b23424e2e200d	ThreatFox	2026-11-04	family=elf.mirai | confidence=90% threat=payload
+1859bee638ea6cc1081be27301058313e2d1213b517db791d7f89fb012c79c65	ThreatFox	2026-11-04	family=win.vshell | confidence=90% threat=payload
+2b0097062884dde6c69c1886decd489bf57ab5ddc27c3f8560b2800f7419b5ec	ThreatFox	2026-11-04	family=win.vshell | confidence=90% threat=payload
+d4a8ce2863d7717a1e5787c8b094098ec4e92e2379d26089bee2e235948a4446	ThreatFox	2026-11-04	family=win.meterpreter | confidence=90% threat=payload
+c190394a01de190b77175a28ef6e7ffea0572d32bcea11990fb223491754ec04	ThreatFox	2026-11-04	family=win.salatstealer | confidence=95% threat=payload
+a30ce38405a6f0fc0d56c129f3f655d667e206e134574e4d56538b10c0147827	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+4daac7b0684111d3466b1dbe38e27117b0fb29e65d9dbbf5751b580ac65d7909	ThreatFox	2026-11-04	family=win.salatstealer | confidence=95% threat=payload
+3ddda3506ae9aa13cbf3491f50fa3de545b10ac8f055cea404720f728a7f096d	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+57d369a87a85481d5a868ab8dd7f64c420efc9c2c11ba903a61a30d05c6e01f1	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+8a8b8942c8423eb9c45341f068bb82d61ba35ebae50324c8e8f9a433002e90f1	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+50a05e0a6370d18fb290903d6a2c3f9ef5e45e60274c29e7f6d0509420178289	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+051cffde7a46178e33c667fab183ae5930e649a4c119b2a60f14c55d8479bc81	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+0493a027fc10d4f437a7b04812756a65b1798902f0321231047a31954e678fa6	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+1a9bf2095f55a95313fbf8e9da6b4f04657773d63b38a8afdc956e8441b110ec	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+0649404c789622285371feac58fac468d63dd241c531208e22226c44d02769ad	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+f2231c8f98c11ec5457c7f57f248928babb90a1c7b4d03d615c31d7b1e0a0669	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+5b5b525a1fe36731f4fbfbaa481ff53dd6c8dd6a0c515fe0d9b6596c944ac2df	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+888b9da98311ffd89d5b002f23525b546fdef125067f2bae2459be6c22f20dee	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+54415228172fc135dab6137216300afa9f28dba40aa4c3a42a46cb537c1bd519	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+36f9fb109f2019c7a1e8bce339e5a51e2fcea95747e24179b400e0bcddb18683	ThreatFox	2026-11-04	family=win.tofsee | confidence=95% threat=payload
+76d2e2618e3ae41a43562d329d2824d82bf9812689004f0f54bb389946f98fbc	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+87bb11f776f90374ba7d779d7b42f65de9310ab09f095887c8f0155c4329f14f	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+04972564a570ed2a55c392e6b2bfc1e4f73e8f54c9024d2e11b225a5cbafd687	ThreatFox	2026-11-04	family=win.salatstealer | confidence=95% threat=payload
+be92c7289664952d3dcd925c64a32fdc82bf7fc0bfd109b8a208d92ad1152850	ThreatFox	2026-11-04	family=win.salatstealer | confidence=95% threat=payload
+c3931c4bc170bd4acfbb9589fe00be1d42aeabe2f29c52a974fa2fcbe722ad62	ThreatFox	2026-11-04	family=win.salatstealer | confidence=95% threat=payload
+14bda0bb19e820dd4d4d987ace6088c7c796a938fc0cd4eca9df61c9de086a22	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+3399aba09a449e3a24a1d133a385b881524768e6511eee3553d33237df8a5afe	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+f96ca051d90673de53973c88332d1a2f6db1be66f93de0a36eb7b85de9b35a05	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+64968643e4a400f593f00b8be918dd194c92f0f308d555cc9bcfa788f1b09fa9	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+607b1d5079cd5c29bb86c5067901293950e397f5162a0896df60def9341f54c8	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+62813069726c6ef59e19d2f614eecf1a51a5d78a5a62f63d7c4bfdddb5130081	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+ecece82f114573a2d089b4471f3c61eed380cec155e731d1277181d2513a771b	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+0a892d66d14d29298ae62330ffc5daba8020e00963e4d1a97bf3c040c1d76d48	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+4c4960115e75b1bc33d478578dde6a32077cd0aa58cbd52391306d56d0e97d04	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+a6ae05881962ac6834a2b343ddeda00713c0139274aa4240fc154c176473a6f3	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+b99a3e621a0494e2f83a1a824dfb333c313db01daa0b138362658cba87f76ad1	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+b884b0bd3a4d4c8447d756b76e641295545f23918ea3dbb2ddfe9eb87bd9ba5c	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+793a2971db7fbbffb3b31abb8af7195c327c84f0d88baf688e44d1ea01ff5e81	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+173a09636a91e303c6466a26ab0d84e156886d28d648f37b6ef9f1656af6471e	ThreatFox	2026-11-04	family=win.warden_stealer | confidence=95% threat=payload
+dc67f041b2df8e7273805bd5920febc27b5789a06ef9915562e81da3865adce9	ThreatFox	2026-11-04	family=elf.mirai | confidence=95% threat=payload
+d3a55afe454ab542b052d44aee5937d0c9218eed398b6eb532acbb03d95e918c	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+66c32801f7888c76b23f54992482c2175a6826f94eb53760d0c633c28f4cb01a	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+c47b2af73e081a7e7efa4053b861b7021b0b688940ce1324963be254254f9dde	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+e6578e8bbfa10ef17ed62550aa28a1b07996488bfa15b7abd54396ae915d073d	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+e5bdd95352e9088c1eaca984377cefae50dfe6ee352de379c221e86cca558e3b	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+cc51e4e55e9cbe9402931748d40dee01320e0d4ae5587ed1a64eccb9131b84ff	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+a9e23acd21ca3dcf4dc4de84581306397894f2c8b6b0b87094daf24800d51940	ThreatFox	2026-11-04	family=win.salatstealer | confidence=95% threat=payload
+ed42ce0788223a50342ab81c7f246d7b7d17648dbfee0a77acfdfa0d50796307	ThreatFox	2026-11-04	family=win.salatstealer | confidence=95% threat=payload
+a996675e3903ddfa2cbbabc8c68e489fb509eefc5a79c507abae5b07641be297	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+24476d3144a5f3968016c92a907372f1d99db877f4345a146ae699ab7fc0d59b	ThreatFox	2026-11-04	family=win.salatstealer | confidence=95% threat=payload
+774356cd6510ab2a59d13e640683f4dda51827558d7157e29840c56fc91c7f4d	ThreatFox	2026-11-04	family=win.salatstealer | confidence=95% threat=payload
+2aeb071f5cbdd485d6c714e51f0e4e78c4be82f3426f61c835a81259f44922d7	ThreatFox	2026-11-04	family=win.salatstealer | confidence=95% threat=payload
+ffbf9e753d2a211a0295332095b02bb966d9772fcdaf8b93fe4ad15ca3c86bc8	ThreatFox	2026-11-04	family=win.salatstealer | confidence=95% threat=payload
+1c85e2e519e5215e7a0ab7bfb36b6409dd1ec4772f48f687557a6a5654873617	ThreatFox	2026-11-04	family=win.salatstealer | confidence=95% threat=payload
+1ffd4b9f340daf62368553ed6576b489ed91e4750b97b02a6bdc856379216076	ThreatFox	2026-11-04	family=win.salatstealer | confidence=95% threat=payload
+8802e70d4e411e6a3f46b8ec914fb231d9403c6fc06f4e0b3a919fea0efca4ab	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+eba3f588f5182d1763b6c8a5bf8ce6f48ed56f18d3f033c842295b79609cc2be	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+ffac0d08cd8ef2f4bd903d5c4aa56e48a71c4002333b71dd593166ba9abf114c	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+c0bc64731c5b7c48fa3ce8701bc4f8ec04a17f091fbab44cfe770d6f15f06a8c	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+761af7620f551d9a33644d79e4e13411934232ef9dde805f3b847311a29a7130	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+d99f5e2033b41635fa53eb703d84c2c6181b0e331a3d9423ac2f7f8bb31beee7	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+9985aabab43d616f07cf89d442b798c3b36708bfffcbdbabbc805ffcf2a9a648	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+2536a50fd642f7afdd8a1d1e3ac410a623b822bfe7df3f054bc0fbb2f9c8314d	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+c919cf35abe2e769db6b16a8592b7758ed91c63af3c1e47c258c1d620a0725ed	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+080c039a46390a8a59f8077a79d06d54867c37546c5cd99fb6714390d8cf9538	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+cf3e5bedffbdadfdf30a9c942874d43361696954fae1150de32a73a460d0f35e	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+2777358990eea0242a38d9e34ac59fa1c9aa584b2d9a809662ebdc2e85414563	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+34a2f3bf3e131e794689b61d42c8415d0a9d5c1fd46e3aef12bb1f17f30db91c	ThreatFox	2026-11-04	family=unknown_loader | confidence=80% threat=payload
+e528cb58eecd5a357e3d6d8273b282dc14697db2224cd07123ea4dd1f19fc8c9	ThreatFox	2026-11-04	family=elf.mirai | confidence=90% threat=payload
+27db61f6b0739719ea9729ee88fe58c35fc1e9b233cffb45fbcf8453766e3801	ThreatFox	2026-11-04	family=win.snappy_client | confidence=90% threat=payload
+dce9083c32af5f26ff1a723df33366da58854beda7e674bce3b0507e628a8164	ThreatFox	2026-11-04	family=elf.mirai | confidence=90% threat=payload
+be00999bb11a9cc6fd5fa11ff99ab53ded74736b7de96c9ec36531ba14ab6e6d	ThreatFox	2026-11-04	family=win.hijackloader | confidence=95% threat=payload
+082c2a714c1a1e7ac0b21fde84a6c149a06d7644c78d2e45b189fbb0deef5c73	ThreatFox	2026-11-04	family=elf.mirai | confidence=100% threat=payload
+7b0a6911dae45311ebed9f4397af4b129b2c893f87e8166c85d7a85db7298af4	ThreatFox	2026-11-04	family=win.warden_stealer | confidence=95% threat=payload
+2b210819c8ae228d00d89d8f19194f7bf105be2f15b9e8890bfaeea6cf1e07f6	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+2b5c3476770e5dfaba082a9f1dc28f496192d166e27fa23f0cbd9fed9c78f6cc	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+ecd5cab25b09ac63f3631d42e098f60d7e604b8d10b2cff5f3c9d241bbe65ee6	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+3b3bb8fb099c85566495455c6d89b34e4afa5ef87a08cb8459796240b357bed0	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+0d771d43f83b06ad83a7aea9c5fff10e5ebf207ec803a164840e758a36ccb214	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+54d8e6eeaa35b6443864d1c7f751a10cb52eb748866023faf3e62426d702852b	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+b0ba7af48ebf015cf1b915c5a6c0cdf948ef72a95047edffd173fc5b93887d78	ThreatFox	2026-11-04	family=win.vshell | confidence=95% threat=payload
+63e29a420f1f9d8306e5c2b624b25268ac632e14da825c183ff0d1ea4a41bcd3	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+1135d9fab2ef52fe9f759992ee4c7e9da9af6b205efbda53216a8c6266ab80e9	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+2edd902f96067fbb93b21698043ae66ec525ac1f94de97004f313d20c7b57173	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+48f8b31a86093ff2747956e2cc8bcfff1137d1031f6658da4aac28f4a48b1174	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+7d425cac3ca25e8b62cb2c737aa1d4e087076ef98af82994ef4602ca8fb31895	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+7d9c115497573e9d4ac24b91418363b8bf8bcb4286da0d71f815c6504d3fd231	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+586a003d0ca97448101fd77b01172bc869a6c204a6163122e80d5b137b2ece55	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+bbc2911c150b676a0881ec85eacaf9f7e6eebb9b2cafb92b3410e4db6b3ce783	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+b7875fad099d5d47d904ef8daac5232ed9cf843876315190a1f8b19d867d6bab	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+ac00152352847b0685e317c584fda24f7ed23f22c77c6ccd4239dfacc822ea6c	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+c817b026ee26fcd24f920a50f71eb0fb871639d51ff6d8c4e4c5666938d5fcce	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+6a059100b5f8667a7907f4fca591b941b7c6b613645e8d2c2f3034fc15e16c9e	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+e1b5e175d4ffef096a2e6ae28cbc80983afb09dde44446297ac78290c46b5a59	ThreatFox	2026-11-04	family=unknown_loader | confidence=85% threat=payload
+f5b02b77825a8fa5503940639e8e28822cfd390954c61a6152c12ca6fc39057f	ThreatFox	2026-11-04	family=elf.mirai | confidence=90% threat=payload
+9326248d57c85adb00920ef2402b7ef11799ad5adc605965be8132059fa0ffdd	ThreatFox	2026-11-04	family=elf.mirai | confidence=90% threat=payload
+2ffcecf20d5601ccbed1d74da694d41673d06b759681e3d9585faa241f5bb7f9	ThreatFox	2026-11-04	family=win.rugmi | confidence=90% threat=payload
+59ae87b9ddbb7d557e075d089f10b7710c8bd4cafc946b425d41e1171a27ae42	ThreatFox	2026-11-04	family=elf.mirai | confidence=95% threat=payload
+7c80253e43ad1808c820e408205816d29fcfdf0af68f15c89e8ca2a9847ce73f	ThreatFox	2026-11-04	family=win.floxif | confidence=95% threat=payload
+98a724f93cb13da7c94403deec716ddade353b89d0a296ac1628cca48da364f3	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+26539975049a135b6d47537264556da7a0d2c5a73bb7402acf3922c23381ebcc	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+1c4e9a6a9bcce85414ef68e51bb2b0b8a869613ffd17dfde4062f84a17f4f249	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+4f9bfba5dc5b19360bd785ac5df0da4310e90da7cf3c0c1330ee77de037e0ee9	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+dd9f917582660b3d1623203343a57c8984e95b4503cf2fd9295fbda832d3bf6b	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+513502450f83157b57507d55d80cb0333bdebc06c8530fe3fd78a1e85b750e57	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+b056036d41d9992cde1cff4c9db6ca343ce86e41fd4394b382df0db6d1c81989	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+503b965c67a4712791ce7cbdcbecd492fcb85bdbebb777ebffb4aa74708eb3c6	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+0eefe5dd5605680e24f2b6c0cb75f5dcdc4688b7c0f8ee2986a592a326cabc5f	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+eea3fc56edae8f987bd841192f5810d240d27662e976d1087a68945f0e923172	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+1db680ecf7e3c1668f2454df9d661fe3bf84a4e82031725bd871f8eeffd59eff	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+a0d1321649b45899e56bd86f5dffec509f0cb8ac6e44acafb38f55649a69cbb0	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+323214d1eb020eb1919c87bc48541f1e2997082279969adc77f52b6cc17f0135	ThreatFox	2026-11-04	family=osx.amos | confidence=100% threat=payload
+5efa2d854e5a9ffec32ea81525d24875075e1017dce93cd18a4df6d703c7fd11	ThreatFox	2026-11-03	family=elf.xorddos | confidence=90% threat=payload
+60c3986439f423123eeb6e04e04dac447883863fe79dd8b664283cc4d20ec96d	ThreatFox	2026-11-03	family=elf.mirai | confidence=90% threat=payload
+5dcc40e317084d044855bf99e8b867aacb0dd0fed581147db9430fed31d841a0	ThreatFox	2026-11-03	family=elf.mirai | confidence=90% threat=payload
+47fbee3515b49f85aa987c620073c94aef40ce30c7a8f4c87768201d8ca4ca07	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+3db2ba68033329ef5f66f4fd4de9adce2b721d50f6fbf3384a20fbe5a555d42b	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+bf7d065f9e08a9d012e7d78e277246e4d7fd443b2e99ebc953abe259d1fafab2	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+34d7b6b30f4421f4c073900b2809a2f6e7f0b707afbf6aca52bfa3662440fe5e	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+0cc1bd4d811107f5f25e24fc2bba0f6e71cd50f341403a74dfa66516e219e868	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+dce06fad24106140e2b0a2487b4a7d2332e15ac734a870c3e9a1f269d616791c	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+3bf3763413f13ed640d88097dc87d4c61f856303121230083923c25cfa95a78e	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+571d37eb86d3861c489e2cd9312a735411f7d1ea4146705b87d66bfef42ed128	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+0ba41665335dc6d24d9489991ed3704a43064cbe38d4c4b6754d706c00905cb1	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+79da9e7ccf5fcc722561d6dc02b5bcc547c640730283ff72752f02d11697c06f	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+d4242682bc56d0c41732b189adfe7ba3eaf47bc19a8a427456258dcfcb91c8b1	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+93815095aebcac30ee55867984ae5e2faeeafa215633b1c228e42bc58b30d8d5	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+20797b5d303e3226f807c47b646f32387c2a903334b0ce81f9671ddc9798fa6c	ThreatFox	2026-11-03	family=elf.mirai | confidence=90% threat=payload
+aede15e51e71380edf74b2c0b2e8433026d4ac5f524fb9635f4c7249c45c90db	ThreatFox	2026-11-03	family=elf.mirai | confidence=90% threat=payload
+116bfcedf6ecfa5c2a870f7a70a08fa0c190e63a4b6e9f7c0746ae9ad0b6064c	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+2d163041e9702289defe89d497c49ea06b2caaa9357f9c912001485568de1a78	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+b1687075d5c19a8b93b6171ba596b544c8f8de9fae466ff25057d052d3486c5c	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+5ad3747a46c82e80a80f65fb494537fd72e605bfd1f8d0a8eaf3f04ae4ccbd3e	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+ed5181f4eba1fbce1bb0c83dc30f13042fabc720b6fe88f80df3a16fd9899319	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+e8d4e0271a07f3fdf92828ca6176bfcc15167ddf63ec026074f677d2037b7e7f	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+385d9a71be7c37e51f0c97e5398474b15a285dfed7d474442bdc2f92249e74d7	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+53d5b096fc02108a2d31cbf9a8939a72433ba522ba50a9d8d00c7b4d7149eabc	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+4dbc3d8043e6e3e6d286ec9297f1f74385bc4830fb47be53f1a30b326588cbc3	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+d7b728786f47079e3159937c466c647a1d101bfb40a280e9afd6bf44f43493bc	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+ef4c88769679e883fcc7aa1e3ad761b587d477402ef6ac88e0675a1e2d66970f	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+92371f8debfd12db3a57239d2f495f9d18db387132aa709b88696ed2042d62a1	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+6396bb30a348b36580cf4237d62e73f2caf4a3f17bb410e5b7f7b8a037237e3a	ThreatFox	2026-11-03	family=elf.mirai | confidence=90% threat=payload
+2f3178c79b435b5f2fc7290f8d1397452e4a2655c8a09a773a333455b3e5a566	ThreatFox	2026-11-03	family=elf.mirai | confidence=90% threat=payload
+546a85c60d459abbae429932d0591a1ce4993f371cbf77a352a6fc6e7a21b399	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+1b71579cb8326cb33f0cdca9da93278867a2dd5d50e595c402992752209d0b8f	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+f9bf40b9c3f0b84768b131019765d936cf782358dfd76de712f48c77064601ef	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+4a35dc30640bec0c53291ba68e1f18989c817d098fe1506f2697e06a3020e658	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+b7ff2e6d837975262fd98a86d439697913d1ebce17ea4fdc016e15a996d08d1f	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+b94aace3a39a04a355194ce2fe208b712e537189bc32820873f71199b78d85b7	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+dc77598471da558a5fbfccdfa41b72a013c5cb6c0bb1c1719d0a28d6ee54e35a	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+5d26501b823fd7cb3dbd6c364e135709643960997c66efed4808ae0c028ec2a3	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+6466cb98f4ad6058dc348c38ae5612d25aac286ae1afc315005cfa5bce88d092	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+9c13eda72a59574f28b37f728029617b7d9ebbd4decb0051937f9ab1cebd80c2	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+5652e3f16f84d7b945b96f5ea1b2f48e9110c73659c576127658337a87a454f3	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+a32843ce4410d25a4613f207a2a6935965da80c477778671161152147f48fc80	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+5a10ed35c77ace0f64d150d54d00bce7c3bab7c1022f57315ce25a9097339df3	ThreatFox	2026-11-03	family=elf.mirai | confidence=90% threat=payload
+6c4f8e15f87276d81dbc6373b8f1231f27718f876a09bf81d8b2a37933d20b91	ThreatFox	2026-11-03	family=elf.mirai | confidence=90% threat=payload
+ee57ea3a74e03531340825e23245ca219c39717016ce97775522a4523c0d2f37	ThreatFox	2026-11-03	family=elf.mirai | confidence=90% threat=payload
+22fa73e3f0eee1baa46631737ec7e5ac3b425346949da44b78f7ddfe161ad7d1	ThreatFox	2026-11-03	family=elf.mirai | confidence=90% threat=payload
+18cdfe1c0cdd15ed7af29dcbe38e23853676ba7f7ec890cd0d344813f9f121a3	ThreatFox	2026-11-03	family=elf.mirai | confidence=90% threat=payload
+9f8524939ce6ab03f98eddfd001aee1ecd8ca0491cdc3a39415bcbb874dc2a84	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+b1e523a9909465cee67c9c807b713efb5306125e9f6df87ba4420f444cd1c15a	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+7f9d0c46ec9a73ff6f6d8dd50a008b7b4a0e159cea3b89a3693b0b9fd9003045	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+56d3feef4dd48c8debb9829822d21b2aaa294ee3098974d0a6852b475d55d743	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+1789d0d75e0f24cc5d910ffaff10cb1b29c499f5ada66e65210731bd571add18	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+f2ca318f32d99dde2d2839011d0e5189e7f7f92438290cd546ba7b769bf0418a	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+680658f6ef8e61753e8a077ffb6434f1938a9fade40fc7317e581b2efdec9d57	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+b12d85b5ae5868a69310d9bb05941782865afac0c58df74353d447a1c58331e7	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+6ad57940d4d69cd0292ac26207e1801096faa81c283d6ef2c3fe01c865b15669	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+66aca008ad6df9c9443ca15f27f769a5b78a6bdfb4e4eeaeb74d923e5d3f7a33	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+d63dd10c3cafe9b6a0d1779c7de5f35433ab451eead921cd1a842288221c9f97	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+e4c18d0035e47b089ab22950c237a166001a62b6810dea0f341abe37274430fe	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+8623a88ed250f5d1a515698a514326e7be5bc89dd66bef4e9a424eb0f1f492c3	ThreatFox	2026-11-03	family=elf.mirai | confidence=90% threat=payload
+dd3d2c062818bcb1b6c89af75b675f9b17f8e9234dbc5ac3090dc5f09c3b99bc	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+d5c892ccaebd0b19f408329509245259f2467ec24822cee8176289b454b9d3ae	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+17127d33df7e2a1f8a0e51442f3076f7d08aeafd0de79856d795c61a18af00b8	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+bd4196ce1a005c998a016ef4478be7e31b8e286462a8142d8c3238c666361af4	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+21456eebd57b2194822bc66656015749d82f23ed0d1e98ad810f9be593d13800	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+105d1b6e16c69641d8f5e2d38ed98950223d5e6528b8e122a99268820d6e56ea	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+3c244f5a65ba9fe970a6f1048bf0db9fd641f9d2fb07f6de1bbcb5d41eef9736	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+5c6aa12c8023995117ddf0f85311e03bbcafc791c150f360bb7cfc53ab0a56e7	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+d8db5de7b14eb64f2600abd471729b79abc30d0803c0bd55de03cf02aee7698d	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+eeed422440e0d17fe619b1a6bfc5e0e5714647eb4329c540ccfa5c24d1da1e67	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+94bb476cb2be155a27df3aada6c36b2043771694c44a8eba9223703bb18881c3	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+c26631bbf128c025f6115804ddbdf3e50788d4109cbe8ee46aeecb4d5ebbfb0f	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+6fc5250112498f6f9c4fd5f947a6ec3a27a2624189a87735e1a8ea1e8cb664b9	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+67b4ed88b89bcb4ae154d4d4df2914bf39069868769a93b90ce51da0ed2b4d0b	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+613b8cd5221d483dc713f75ae97b453527794f0b7b8f092de87cb242752ed0a4	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+e4a17c32a2931fae7bdc020cbd9cfa2799f9cf402ab3db74550c71c3b26b6226	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+a9c5f17f8c92fae75b4653f7db8fd7661f799d3847db6fab512e1e46e01a2b6a	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+9b6a10d4435eea98d4c47b5ce8d9f156068947f564dbec7dae7adbdf5e82eae3	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+e44542787e1eebf2f5708e1f5ec416e53c2bc0a53740b13532bf38f80f5d829c	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+c4777e289cadea0c48a7241a3ecc70af9fbc52e9470441397f8a32bdd2ef6a1d	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+342207cee6770a41feb03261e85ebc91448b95eaf848e74783c58cefd1cf3698	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+00960b738da4cf1351e5b12fe9cfe017ca8fbd36951ac1452fcbd2f948881f12	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+c5e0eca3c1d4d837ebee59a29ff1cd8e421852653814da32415eef95c828e9f0	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+59ae597a89531f34515c40ec8ea354107a7c9fbcab3d722dccda8fc543bd7266	ThreatFox	2026-11-03	family=osx.amos | confidence=100% threat=payload
+36c5a90261c99ac56496093c571a971ed24b5c13b1983c19df4eb90eca0875be	ThreatFox	2026-11-03	family=elf.mozi | confidence=80% threat=payload
+124b84ece4b9cee6294b849794a5829cdbe088427807eebfbe9ffaeb142c58d3	MalwareBazaar	2026-11-04	family=Mirai | filetype=elf md5=a508ef25858eed0b30ba2c9f51e05fe0 sha1=e34abcd044b101fce4cef8d41cbd40544890f961
+b45518a68eb4b3412c679cbc07c6f97da344107cc32081d624444a5414ae578d	MalwareBazaar	2026-11-04	family=Mirai | filetype=elf md5=c0eeb7918228f294704b6fe8d832f564 sha1=7023083c13864bbb73a2740ee8d5792f7380e385
+7f5bf23cb0e7c9b9fb42deb4d53ad6b98f176f95fae477c11069815b0035bd21	MalwareBazaar	2026-11-04	family=RemcosRAT | filetype=exe md5=970662d268e4f9ff671ed86ac9230ddf sha1=3a16010342192b5ece188ae76e0dbb8de811bfbd
+d0c49323ffadf825f022fd40f36772c7665d0f548a341d43347318e183fd42d6	MalwareBazaar	2026-11-04	family=NanoCore | filetype=exe md5=517d2813b2a61f0aebe628dd8ffbf2c9 sha1=435af83c47ae0b5b39e5e22075b4f2845b1a3b6a
+262d5c1d7125d91952db890a28c1ecb04e92cdeca994016e34dfca538bfc0390	MalwareBazaar	2026-11-04	family=ConnectWise | filetype=msi md5=a96505c1407f0c1174d6c2d0eca3ce47 sha1=07ea683432c63bea03e30ce17c3f1c72fcc8dcfc
+f09b1384b2c38b0ad0525cfec5b7ef6d82879623c714b176b37d13257cf55715	MalwareBazaar	2026-11-04	family=Mirai | filetype=elf md5=e60b06e70cac1fbce9fae672aea9a530 sha1=2996d6a948aa55dac797c16f4a1a2f57307dcd80
+670fd2708b78dd40b7e0d945bfb785976dc1858d6cd140ae61a267fda9c03cc7	MalwareBazaar	2026-11-04	family=Mirai | filetype=elf md5=c8c03d40e070c53e07c72a79efea385e sha1=3b6d5d25f5f6b830c7fbeb2c6ae25b32a95cea82
+df565eec185189cd6281e541953975959b81524626f38272a85b6eef71c4ec16	MalwareBazaar	2026-11-04	family=njrat | filetype=exe md5=43ba5a3f20774f2ac402d8b310825f84 sha1=cec6ef6fdc36297935d1a352ce0f7a70cbbf27f2
+30a8365303ef8233d566a4a55f5d8f21cb5020444045537a489b89a0013cecb9	MalwareBazaar	2026-11-04	family=LummaStealer | filetype=exe md5=3837b2ae95f88ec677f83fa95ac50a79 sha1=1158d28851adc223b7cc93fcc9585381fe53be34
+fc9bcdb3a442880e585d6fe4ddaec62d62af641f8ac3cceeb6a553985a7d9094	OTX	2026-11-03	family=PSK Agent | pulse='StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores' pulse_id=6ae9eb17c5d87b8a004ed8fb
+6dbfb04c063170af13a8151346898ebcb9c4b827fa8d16a96018419b746601a6	OTX	2026-11-03	family=PSK Agent | pulse='StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores' pulse_id=6ae9eb17c5d87b8a004ed8fb
+1811a1d63310737e969348d16d95f80bf56f8e8896fc64eb5d6d6dc314e2a547	OTX	2026-11-03	family=PSK Agent | pulse='StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores' pulse_id=6ae9eb17c5d87b8a004ed8fb
+42c4933c4137e8cd7ebb4a40d0ae1586	OTX	2026-11-03	family=PSK Agent | pulse='StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores' pulse_id=6ae9eb17c5d87b8a004ed8fb
+6ba40f9bf68a6e4a89cd2a97acb24911	OTX	2026-11-03	family=PSK Agent | pulse='StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores' pulse_id=6ae9eb17c5d87b8a004ed8fb
+086496e97c73873297f9ece0b85791a97ae3de00	OTX	2026-11-03	family=PSK Agent | pulse='StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores' pulse_id=6ae9eb17c5d87b8a004ed8fb
+b97ad1cca896363e180a66c08086893ea3c5644d	OTX	2026-11-03	family=PSK Agent | pulse='StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores' pulse_id=6ae9eb17c5d87b8a004ed8fb
+38557f265cabc3cb785741c778a16b66	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+456e4c2ffab6909dc3f180b17299fbc5	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+55eab3cfdf75e78328f57ba9defd33a1	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+5bd92087d9e8a1335779d1e2f92aba31	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+6b095b7166ca3252b2abcae9cb871186	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+9811fae777173f8913b69d2d2adfbfa7	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+bc6975ba26d034e98472751e3b7f7f2d	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+eb29772884eeedccbef521c94f441b34	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+f72026a4043c043be65870671b2ad50c	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+2a61e811669c2fa9f2d9ecbc8d4c0932897409244d352dded764a4fd936c4d1c	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+2ebf2759195413e44f9e77cc8360976f989ff96e05531d40ec7d05756a1ea9c4	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+4d75c5461b65a2944b12414f1e5ef301fe411c1968788134d90aaaa6a50e68dd	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+715e3ae134195f89d8da82ec4cbe6ba1d596d756a2c207a95f75a94afcdff3a4	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+73076c366edd5b8b351f04725663d2189a92dfdc93cc34740a61a1de9bbde51e	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+7a9d66a4637ee2a1ee1e82cfa5db91f720b757aa8fe1457e0807b1f2210b308e	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+8fe2edd0572ea9f092d80c503d2c6df9026c36bd0ace1a77bdeff9cc99737739	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+b29cbf1bdde86ab15b5789e30dab7ce74c14ffd98f9d7e8b4f9887000e6d6834	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+e066c6a728ac92d261c1abff7bfce1ad5ebd8b1ef054974431221629ac30d221	OTX	2026-11-03	family=YobaLoader | pulse='Yoba Malware Campaign Abuses Signed AI Applications to Evade Detection' pulse_id=6ae9eb16f9bae7d0faed8d7a
+482c32947763a613199c43f7b4760f33	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+974eb3d5bd550feaea763f6d7f3f2b97	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+9876c685f8bcf351fc06db4b98ee192e	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+052702d652286482863a70eaa37e4fc894f40c8b08dccf245ced46916e7f419f	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+06d68dcb8088546cb40fb3d7e87d6a593cbdf4cc1e43017604faf786ad6dbd41	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+0702d54b03bf601019b6ad039f76ecc49b5b3e564119dfd60aebd742c8e90300	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+0c9869b4aa7dde55936ab8726c442368b722eb69b785ef5c8e24938a01fdee89	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+11d1d570b5db7639d56a40621045e96c33b3d1ec3ae49e63c2ff07b9865844d4	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+13216e9942e15a48228005092f4e5ff8b7382d4ec73673f88c6d7b6c103cbce0	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+1421fc1d0c06bf410b16f2cc44d49988c30cd64edf4dd08dd23ac64b28b5c641	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+1d1754948c42a85f4b613dfe3de8cfb100d334da956244e4b58f5ea9d6463fed	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+22beddd7fd5d6df6104fc4987ca892b6772c2b832ad31731f71d4de2e9d32c2b	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+39da663f083fad0ad8dcaac90b0760d166e2aa911f90a3c311a8121badc16020	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+3ab16d953c71738788ef2f39b62cf47284750e98aada273187954536e1ee1c83	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+3f1961c951c105f289e64a8933c7d1ee34d71f1964999c01e97f2d944dfdc33c	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+3f76edab26d08b1517a15bde8ca82e94d48b4cbedd005eb11c950cfd6d9a8982	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+3fde5576233852cb9fdc0d6c2c4956a8eaa0857c2bbd86c388d7b4e10f11b0e8	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+415eb0d0055bc113df2da361b35c4de65ff55d5cddea3b637660b3ad19848ebd	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+48e6a4196bff405b8b8ef80dcba599b93cb0428f3e587da90be6020e2337c83e	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+6ec2c97eeddf741a2f8dcd7b4c720c7f5a3f7afe5205ca1cf1e62d9199333e4b	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+770646093df203013b190ef0b0baa9dd2f6834534970a57ac5dc4be9b22ad28e	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+824b36b9af74655a2c53b73959c144028b1f8ccc7c45ef17455d020b74cd0a51	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+85c119297f42f09f9414e138b8f137a3e2dac1ee56fb6ae79c4c5044bc87bd80	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+87bd8af14932f132bb3df9a6b8c17748c3e114432e217816a88ba35ec9a381f4	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+8c68119ebef2ec4be1d57f867ecc1e3606f819bd6278d35a95c6d9b789ac0bfd	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+9ceb74f9ca2b0e9e1f0e579bfbb5d3d376667165eff9b8cda616b1c4a74236b9	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+9d4b61dae9e00940305c6ad7d862713025c07f27ecb5f89e59bcbd3fbcf17965	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+9d84672c95bfa4f2a3756053d21fd3b72508f51c7856837bd489f5edf283be10	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+aa7d4bf74edacba06da7e9d414c0649599fb0e7b118f7c3ddcec09eb3f720c82	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+aae2a7860f2e46019c38c1e7a50bc3b8f8104577acf750221c2cf23e6b376328	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+ac91ba73040ed42fb4eda1459bb8098e2f80970f2028da80c4e2f01e281cc223	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+b24a0c29134800dad72021e22d5ead99fa941722526807f29c131f6fbffa5fe2	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+c039da6d430f78fc2a405c8ae945d2114518a63d73857145bb244ab651e41f84	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+c9178fef804f2d6a525c1af0a8ba49a5ec692bfaabd6043e5f0094fe93a31e82	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+d8a4d54808c4705f472222c8a6ac5fd0622eb9bda7a2f07e12d712ea8b495d8e	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+dbd31b5d891d789e5cebbf0744a57b17c2f9a4fe50b79f64956e40dbb5fcaa9e	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+e325ba0f93dfdeeb8c35e159c54f9d4e796905056506f6d627f4d66f15fb9988	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+f2c54434e2eecca203c2114c0651e5d7a90fc2681117240686d084f016f9e2b6	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+0119d12974e47d98e394f7c4859a921d	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+03680e30bae20c6345b8a8cdf767775b	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+1f862be824fbe8082e7c505939e674c6	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+27b6c1c7dddb518bb197e67341dbbe1c	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+46ad1321a3d3a6667ef4078d1ac7c7d5	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+4a1fcfe0e49e8c92f10d3ba96b9fa06f	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+4c300a6f2e7e143006a6a85a698576cd	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+5691854fb0d6cbad1fe76d4c0059ed39	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+5c9fde16b807439d109fbdfce084e7d1	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+5fdb263596702c32dc711ba96727a1d3	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+66277efee8986d87ce54743842c8171d	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+6e9020f248ca3b393453aeb0a1179ea4	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+7aa7b1f67ab76b55efafa74b65bc622c	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+7fa504b29558607e3d2adf8741621aeb	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+80667638ffec4551d8a52a2e5e3c3fac	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+82d9be427df9221f4adea50cb5fb040a	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+85e2c447dfa84c390913ee999a3c979b	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+87fb76dd5c64bf449d5e7cd7f60849bb	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+965aa465f08922445749aebe71ef8942	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+96fc9b021cf19ed71c22805944bf31c7	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+9f640d341c67df1e84e79f018d5372b7	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+a4c1b0ee3d6d547e5245bc5c43528d85	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+ac351dda145ff3303111aacc8549531e	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+bdc76d30efaebb3a98a8d39b28c152bd	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+c253689aa4d9db03684d358591429173	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+c317bde785c8863dcd9938c70c18691d	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+cdf15be7e076870f554b34600b2dd9e9	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+d108ffdce3c12d5ecc102ea1e4d02175	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+d6cf4bc3019f880ac36b28623449f096	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+e1430a4396cd6d9cb83a699e9b886575	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+e36ea59882b96a6b8b83428fa33178a0	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+ec5f4f22455c52c57f8ff87887933a6d	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+0a47d07d7d59ac252526fc4145a5af7ce8f7abff	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+18c331e7b8abf8495f441fd817448950a7df2bd5	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+1dddbec634cdaf0eb1601a01c7d4a46813e00e8e	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+1ffbab1f042c1dfbaaf104eddb0e6ffec3cca798	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+246eab28907ea444973422e6935ae5dba10395c1	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+24f61bde39ae022dc0e8f5408431266e35429b7f	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+2bd8bbf7ded4c4c3523b750ab8d49255728aa60b	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+2c6171f22eeef8ba3087801caf419d45f5160bd2	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+2ec1ca6d4a98da6a76f8f1c703431890518dc01b	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+305e9ffaf2ffe6795ab0904d820947e5a9a60b1e	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+390d5767d731734bcdb36a46bb691384824bd327	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+3e13bbc0bf7b77c7b9fe47c8c536206e0eadc4f4	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+41b06d0bae939d58d839878acd4f20bce03625d6	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+4ee0cfa2800041a026536537d7649a45c24cb831	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+503de7921c8ce8cfb6bf4f3e013af7f36c44cfab	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+54e65ecbe38f514e65efe4fb5133919e9a00a076	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+5ed0f5e74e72f795468fddc98ca294eefb38b13a	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+63baf93cc4972295a8dee586cc9356cb065dea4e	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+7120e17ccb543c48fd73d340fec0c1c8c619f35c	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+72809a82a2b04c4221f61313ec35129f672649d5	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+72ad97cb7343c09fe4c67f78833b3ebf05c47849	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+7d7323700d59d09d43745c3f5786cf0d880e2526	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+7eaad2cbad8428679a482909940a769ae6d7dcdc	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+84cb7188c9f8d70ecdf122a604dfaaf581848bb8	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+b0011a09ae846521f1cc7bbaad58f788d3381c3c	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+b8a151bdefe273160144f5f206e0a274b8b421fd	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+bc9b98c39be5b152016914ef9a5d3479535b4dad	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+bf661181e70671a150ee2a653eb15c64cf4ab693	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+c318f2ecde501479928808956a245577c470648b	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+cf0687b72b49fcd296acf7901125de55209a885e	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+d399429e7381348604178456e30ed2e252146c47	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+e3fa2c27476a32440fc7c5fa03ca84dd9ddc6c3b	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+ea5de82603ea1eaf1dd2d524688a52fcec04eefb	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+f7a7fbaec3b11d7dd9e568c445d01505452993ff	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+8875a41ead3b17eb8538466bfecb211a52d7ee56fa6e496b4407bdb0caa51dc5	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+631a27dcd49574399ea5e8256c543879	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+371d0f2220ff374e5a7c9024cf4562ae0aba957a	OTX	2026-11-03	family=SHELBYLOADER | pulse='DarkBlinders: Active Espionage Campaign' pulse_id=6ae9a41c3b21a1b31d13d6b6
+4662660a5924cc8f09736d32ca1b8d8728d8e69805e7d1e8c9efdbdffa3cf0f1	OTX	2026-11-03	family=exploitation | pulse='Exploitation Targeting Node-RED, a Tool Embedded in ICS Products' pulse_id=6ae9ac6e66c89c6be4d99928
+a3081df333ca7f18bd90d10a45125ab5011dcf9d2806feae2935f09cab07da4c	OTX	2026-11-03	family=PapRAT | pulse='BITTER Expands Its Arsenal with PapRAT' pulse_id=6ae9981a0b51502b1e8d1e4f
+ccefbdec2718d864d9d33c743aabfcef88a8d7904d1c598bfcf15cf5f3591c88	OTX	2026-11-03	family=PapRAT | pulse='BITTER Expands Its Arsenal with PapRAT' pulse_id=6ae9981a0b51502b1e8d1e4f
+34115e4587dc5fb310f11c97b96a5300	OTX	2026-11-03	family=PapRAT | pulse='BITTER Expands Its Arsenal with PapRAT' pulse_id=6ae9981a0b51502b1e8d1e4f
+630f21883a6ba72d7adc13a7cb8344a8d60bcd8a	OTX	2026-11-03	family=PapRAT | pulse='BITTER Expands Its Arsenal with PapRAT' pulse_id=6ae9981a0b51502b1e8d1e4f
+411c0b9a2f98b927d806a685faf0c1ab1005647b4816157008892347fb88546b	OTX	2026-11-03	family=PapRAT | pulse='BITTER Expands Its Arsenal with PapRAT' pulse_id=6ae9981a0b51502b1e8d1e4f
+569a21b519aaac8c92f653d708ab6ef34e3f38ea967f47e041d1e2425f6a4b33	OTX	2026-11-03	family=PapRAT | pulse='BITTER Expands Its Arsenal with PapRAT' pulse_id=6ae9981a0b51502b1e8d1e4f
+e3992f8c945b0761242377cba32d91b0a390c7cecd79478439843d93e6d2b76b	OTX	2026-11-03	family=PapRAT | pulse='BITTER Expands Its Arsenal with PapRAT' pulse_id=6ae9981a0b51502b1e8d1e4f
+1c54c50c1dafcd2d63e29d40251f0838	OTX	2026-11-03	family=PapRAT | pulse='BITTER Expands Its Arsenal with PapRAT' pulse_id=6ae9981a0b51502b1e8d1e4f
+8d335ec4439fc2a210092a00f16629fc	OTX	2026-11-03	family=PapRAT | pulse='BITTER Expands Its Arsenal with PapRAT' pulse_id=6ae9981a0b51502b1e8d1e4f
+cfa759fca3efb8a794205809cdda8716	OTX	2026-11-03	family=PapRAT | pulse='BITTER Expands Its Arsenal with PapRAT' pulse_id=6ae9981a0b51502b1e8d1e4f
+71c8351a8d63a2fb8589d1f4f3f8aedf73853fee	OTX	2026-11-03	family=PapRAT | pulse='BITTER Expands Its Arsenal with PapRAT' pulse_id=6ae9981a0b51502b1e8d1e4f
+a31d30fd6d5ba22a148bbf7d9a120a9bbe8108a2	OTX	2026-11-03	family=PapRAT | pulse='BITTER Expands Its Arsenal with PapRAT' pulse_id=6ae9981a0b51502b1e8d1e4f
+a3f1841ac4fb4f93c87bf74abb0718a9e1696c82	OTX	2026-11-03	family=PapRAT | pulse='BITTER Expands Its Arsenal with PapRAT' pulse_id=6ae9981a0b51502b1e8d1e4f
+5547392697063aab2f2cf7510048c4e957181bfe99d12173671fd1528b77c309	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+b84ccf36e373db0f1d41121e7d3ddc57a3e12aa4637b09c16fa88e96fa1cdf6c	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+7a83708da58732571932c302038739f91a870b2f6f4e687c010ff4e7d86b0469	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+2a443baa14be4a2a45b7ea477a8ffc326169aaecc89919a42cf386d0978db0f2	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+0025bd47421f7f1d071ba540743e4a1c	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+00af596796e7f55c3ec18e9279e3e6f1	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+02bf6371d0aa6c00f849756f7ac95845	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+06e051ad639692da4ef7e397f720f565	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+092a0aba8e51c6ab2909be738b068806	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+16418038f955f2a1c8d99d6d2efbf81b	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+1932bd143b991ba954029f1724e1ea0c	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+2eb0620e6d5e3f02e537206b3c52dd94	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+2fc9f60f22bb190e44a6ea7528dc37dc	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+322a63a389bb7d99687fd69367735f99	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+343c9698bf42c3f6493b81cd5f72bbad	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+357d512988ffc532f5cfde0ce62b107c	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+3793afb733e412dc52b5c2808e6c46b8	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+387eb5d43d3f9a6d9cc432cd50e4a9ba	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+48bd9fff7a30b8d47704fd976b6d8782	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+5843e13d1151c35e15d08b6ec9724ae1	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+5888c5681a26406c612aa65a8a6e128f	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+66b40b3f5e1e62487eabf753f3b66266	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+6c559f689a696ed529bd7659bfed98ab	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+6e8bf498bb204ab6baf9da7ff475523e	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+78e5c0b9c17178e27c57f69612fb0a2d	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+91e36c54cad7dad69150782c4d51ee44	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+93c702d656f6f74563f7f37053c38e40	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+945c3308fae47e8f9bfcb68978ed20e4	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+9ce64d37963f195c0d4a1bd4c754fa11	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+a3c2cd4af6612f01ecb8a56ed529499e	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+abd80a1046f8e8595ee777875d53d171	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+acbd4fbdf09ed36ae8743342285321de	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+adffb0d7c6343596bbed0e16dc434525	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+ae28b2cc20251d57c3c9f9e38a17833a	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+c3774d625184783cbbfcb3b78be853a0	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+c59436bbaf84400bb732cf71d123b65f	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+cd9c278a8a96016a7952ff0641728d4e	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+d07980eda0d850d478882c6d8e5e6855	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+d1c4e92fd544304d655ae75afe5c397f	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+dcb48509badee499379fa1f65a2cefe5	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+e48d71463c4a895cdffa38ac45158b0a	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+e95fb9aa19f3e6fc1341e3fa9db8c5f8	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+eb25cee9a55e423015dba823363b082e	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+f82685a90cf34791da4a08567d601195	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+f917bea59b4f676546216c359f1a350e	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+096896a02db953d31b1514742e04caae850bdb4e	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+13355d0676c27e6aa210784a13cb1c0f338781f1	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+13890b09551511a71b19c7d2c1bd48b450761179	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+163774aa5ac72be933ee6728ad3695bd28a2b326	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+17944a0c7b5b1880b3831e0a0f57a7b53a73c464	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+1f0f5613d644f1326f29aa5196451eeb146a2d90	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+3b27ba3d4a8a0ddf429a6df8658d03bd6082983a	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+3f7dd0206e639ffc72b35847383be11b98bddb63	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+472549eccaff9849927cd78ec1535a7304c59b59	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+4f7c2ff66a6e24f721765d0459b463979dcd2a60	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+511aa9a637b055a528f6d629f1cdd7131458185a	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+57d16b24f23b145c01addc4c24a7c691af60799f	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+5ece815b57977144d1c3309d76bd0dc237199b79	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+6087f02920787a90470270b32cd9176acf7efd7a	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+6171edb6318a6a55fb3a5127a82290e4bd291773	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+63bb11ce56bf4325ce931e6b087e6b7b5467bf12	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+667213eb28179bb802f62efe98878ab01ed67697	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+68566008bf31e3af9cc3e1b28c51b120a4aa8866	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+70ffd5bac3456a5755d57e711e352c6d7de3485a	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+7b41b40f0532d54ff2f65601d8070ea824a02b0b	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+81a271a4d8f2993948faa40062bb5c8c884a7441	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+844c2ffedd5a12069c24c21ab61cfb0d8da17cf6	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+85a0c6f336904122b015cdcd05fc73ed95629fb6	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+86f50cbd5ffdf46195511d52739b1a4627b50d78	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+875012cc5254faaee4c72e6214cd4092cbe05fff	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+97d8a483de6221010f64f511624ae8f633f67b64	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+986d2ed6240bd1e7e6aed1a5db50c0071a06f8b2	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+a4df7aa177b616e280e7fa29287632992335f792	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+a83c91aa9de2fb7d02354a1dafa5a8dd78f9b919	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+b578321e8d955bc198af734b812bfdc0dab48421	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+ba3b1bbf458b376f59be4f1db4a8555aee7494cd	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+ba5c11eb635c8fe12386e2ba741c991e50861282	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+bf694b7c545d0b8a80ea6964520b80d8f557f81a	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+bf717c94af66787d74d82156524172d46fca3d4b	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+c0f49a9d9b8b06103860db6377c1f9360b0a9904	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+c7d99d905778a2214733b9259720758155475b3b	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+caad93f25da7f8069cbbc234acd2cc3d79c81f6d	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+d42d6763c49f4a5c62b93b376cc401edeee339ec	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+d9668283c46cc63484ede26f3cd87d962c47e1ce	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+e2457ac7c791844bb4e01f0a4c075e9754a24c7b	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+e4f49216bc5c7d5ae6108c3c14cbed16e38344a7	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+f6bf88483c08090e09e7d170ade5483ba2d3348d	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+002ecacb7afe59836afc357074ea91308fd448b34dfdec0dc3d89f1bc15c1bb6	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+00d2af00b7593f4468e3c9a1cfb1abd89042b6f629b1ec49b889a37cf838d5c7	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+069d829ae00fbfb40001877bb762f40bb798d018a6ba2fea08202d253bbff86e	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+072826e0548641cb91d57f6dba8b00fa9c4f4000d4ef6490593e33cddb8d1208	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+076becdc8e6586d48d9ac29b997f7a8d63687d44e76d6cf15826db13cd5e26e8	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+0ae9baf869a84df9bfec5da16db5a367cf13ac53b60a44859ad39b6801811ec9	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+0e8c50362e263ad793fa154b8b86f279513764b65a3876ce7af079b95e130298	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+0fe4c7d38a75b675e4d5b9528433a476ccde95616f7187040e6e4c4e1a5f388e	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+11a9f22718935389073301f616c7473f2afd90ae3582ea3011cf093eb422b7d6	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+125647fbfb292715930cd52394f020c27e4f4488c1145afe62c0e6547b5aecae	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+157969b15197f046dd2cf99cd4ddd7a5e306f6d3ee2cc24a49128b9dc720d982	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+15b86359b9e124ddd8ec79f5f548c6f6fa154a7a9c400004f9f54b7760184e92	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+17d97cb33ffa9ee04a47720ed79faf2985a85f4fabcfd98ccce26524e6ce562e	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+1e7849c9246f4ac20ca1ae857032c4be22d7f4ec8309f4a22d770019c96489e8	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+206428965533b9eb3687a0c801a4c3059f7c33c076481f5c684b2e33afb5b242	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+21c46eacb2af06c0cd32e9078f056319acfa776466e7fb34ed4ae21c259adbf0	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+2318bcc16444f8d5786ceb2b0a52a0078b8611071cb38f7349c7ebf920e3a623	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+235f2dcd66fdf4d9f19baa09148482c34295aaf05751290cbf9edb733b53858d	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+24646c9f4a7b2a1294810f7f3f4125fa21c36383459821b4d51c48375d94a493	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+247ee39703017b3eb5180b2d1c3b266dba7ef38475ca542d1e3f42e306293d5c	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+270932e0857e2927e829f9d7eb62de15e2448049dbc2594c8760246229cbb678	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+2a5c292620048066cec0206cd7d10ed44677ae27257c239867ba70695dfcc361	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+2aaa829447ae689d8b9bde422811c86ae67a5eee6acb63f269d773f7d6e73063	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+2c9341ce6f3a6516056a94f0deb9f4bea679fd1806b305d2f1447c2020109c05	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+2f20c6f9071f255bc44c29d6add2a62eee4a5b265c25131ca84a06112f2a5ee3	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+2f21ad805f2d096b7912af89828709537e87a76f6728d6bdd1cc14b4614991ff	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+306f1cde910ed32fb1adccc0101d315dcce18a3f7ca9cdd5f611007bbded02ce	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+3126aa30062459543fe6e7966255d236f43e64d649767eafffd627c5295649b5	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+3584c0f9363c54defe00ba0c0c624274064d65274b1877ad9a00f0fee632c068	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+35eb00285a8690d3c8d850ab041b486fd5a1001df922b0946f0d8cf6a0dd42d4	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+36dbe473ff1c2e87fc6fd3f2c2ae927c1370338825b419ce8f1ca353e6a3529f	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+3ab311dd0e184b7767bc5d183dc68047c47ea6e7a1ada6f82cbb8496d2dedec5	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+3ec2f3411720cdc3b3b6851d359c739ad1003eaa30a9c075dceac174431f1833	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+41def231255a382906f058b19bcf4980011d40f864112a0834fed984ca41b97f	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+42f85b36642256475bce08627c152e76f8feb3d55c7754eb6b888fed617b5ff3	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+4a65e1192ec312225565fb181c8582191f87db2e19904622c0acac4f277ec665	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+4b84b48018f0a8019dfadbd4d19eae60b916ef4596e53e3a9bd0bd4c575a22de	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+4c46a10ec3a2deb77b59b25fe929e434a1126a0428d54baac1e6df769bf09358	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+4e184ab960d6265e781921218375fbfaf7e835b54cb4b419a35cff99dd8c7fe1	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+4e50013001ccbb89ddb707f9bcd41e3efbd408129bbbf75ba52293d343184cc3	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+4f1e511e903ccc78e5500e82d08862da44a68b81a52f02754ed9a87c5cc5dc5e	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+539913c9769de4c60151fd0c4dc5d5a669fbd48b64194b727f2f46e512e74b3f	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+56977decbbf31bf69fd31163b32e13cb4425929696973e4a2dbf2f83bb38e53d	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+5a6867298aba53866581d12fe67c563fd375101f8fcebbdc20579fdcc3b73732	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+5a73a10e538d03ee6e140093ee9a71f028522eee8cdf4e1ced3dc2d50e3bfa29	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+5b73e39f7fcfdc3d20b38a00e620e01a9078a8e92f888c456eaca0f78f5e7c6e	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+5c6a20010d2eaac28831f28315ad3dba88c7187a09e4c6827818682066e0cfa0	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+5e65bc7600e9e3c3c4439de00b57d83c8dc3ffaa4c3e0daade3fcf3d7e1eaba6	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+5e9e0f8dc96fbf4d3e78dae90d434c424045c823316dea394e3ca39d97cda9bb	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+62040f86c305952b997d2fcda166759cfe1d3f5f340df115d062a1932d53e466	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+6402c274920a0bc7ed5f980af814a7e75cb18cfdd11342bb8a4450bdcdcf86bb	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+677e64469956197d424186c0225020e22a48dab8309fa48ca50afd25d33f6c2d	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+68d4874c5bd8535fc5b3f2cd75dc19dede89e3792c441d44ba51b1143e0867a1	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+6a44ce5695126cb3eb9f321c965fdd30c095a7b156821550923d27a4fc326790	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+6a995ad8cf248875b47f9d89518c7a21ec7cce2c252c181414e8935c6001ea36	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+6c774014b6434dd34716426e30ee77a3528f35fca65e24c90dc93b002dba6fe2	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+6d3fd13dd305a0a4f04e9f8f8c5d0605dafbb7f465ae78486d3a6ffe99f25170	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+7232cb8a2a0d0b6e21cfbeb70431ed8f1575b3dcbea2620e6aa6c04a02f656a9	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+72a26baa932396f86342668c9f7878aa32c2a8165dbb5a9ccca205c8730e9609	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+7316469fd5b9fa633d9474a14b72716b9ceb4bbf656725ab79409da608eda2be	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+760df0aa754e760342885ed289753dc8c9964ab2105b91953741b07a14b33328	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+762d37858b2c36daf19181cbe54777229e0ae710615d2b58b66dacc9d62f3c3f	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+786061082203ba868710c94fbf6da04fb7535a4f4463e539d56d43bea2f5eeb6	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+859ae7a976ddde79173224c61c7cc493525ffbb1313b9af050238e7b03f27f28	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+88e20768bc2d2be21d7eee04acb7b6f7e7cb0889828fff2045c4baa5a0311180	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+89e16cd4e5d0b45cfac7d9badc98ad240a29bce4b761c0970f2fc7cbb14bf2a6	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+8c2b6f4196ffd081e81e0f1671550666828b4b331f5d66fe8888ea617646b1d8	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+8e2c2812f64ebc8871470a349e402ebc52233c2d2162d0d937c7338bdcd4f834	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+8f81ee0363ab69a3dc02fb62f15e2b206c1cf3d54644e28c2957968de249d33a	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+911363c00be445ed7f5dfcf04b573f7df24db2ad8b37e4cab87ecfc04d3de18b	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+95b86ac9272bbc33016a812b39a9a77781d5f6f3173c4bdb0bd6b245549ba1f5	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+95dc587ade7d318c230e695d4b5283fb012c794be16e73bd1bedd90ea2d65ca6	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+98151b82dcd1605f3500104e8a56735a294866917d0e0cb056a4f8bbd464f947	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+98d7c1e8d06a82b986a087a63f73eaec593108ab63391206ec27681d9ccb2f11	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+9a3dd627ebb1ae1146215bf28aa2ddaa20de9e1720e19a43968021608c4fcd17	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+9c24d3abc7aed4f5ef35fb5932e972010a30e8c94d345f72c16dd8c858d3ba7c	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8
+9d4ad1688c13d5acaa9ed6ad880d95f1a6c5aefd7388ec7ec78cecdfaea0f641	OTX	2026-11-03	family=x.cpe | pulse='The Internals of a Badbox Operation' pulse_id=6ae9a05a6c8de6ce3516b3c8

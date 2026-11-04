@@ -1,0 +1,50 @@
+title: DNS Query to X.Cpe Domains
+id: 4dfbe659-2a45-4ad5-a679-3fea6dabf40f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with X.Cpe.
+date: 2026-11-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ad fraud
+    - admoyu
+    - android backdoor
+    - appsalt
+    - apsolo
+    - badbox
+    - gaganode
+    - honeygain
+    - kimwolf
+    - linkfog
+    - malware.x.cpe
+    - mecool
+    - mqtt botnet
+    - nexus
+    - pay-per-install
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'api.package.coreservice.io'
+        - 'hiddeninplainsight.top'
+        - 'file.anyevonline.com'
+        - 'mqtt.anyevonline.com'
+        - 'videostrong.cn'
+        - 'mb002.jaguar-distributor.syslogcollector.com'
+        - 'sdk.titantitanservicetitannet.io'
+        - 'api.dddlink.link'
+        - 'vbox-airship-server.painet.work'
+        - 'zhuangshi.pproxy.top'
+        - 'api.cloudbrokerapi.xyz'
+        - 'feedback.intermedia-arts.tv'
+        - 'api.smrtai.cc'
+        - 'api.dgjm.online'
+        - 'security.videostrong.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

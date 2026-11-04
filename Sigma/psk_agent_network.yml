@@ -1,0 +1,40 @@
+title: Network Connection to Psk Agent Infrastructure
+id: c0920546-2067-4708-9ec3-a5928baa527c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Psk Agent.
+date: 2026-11-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adobe commerce
+    - chi_down
+    - chinese-speaking operator
+    - cve-2026-75650
+    - e-commerce targeting
+    - magento exploitation
+    - malware.psk_agent
+    - psk agent
+    - stylesmuggler
+    - webshell deployment
+    - zer4.php
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'transfer.chinow.abrdns.com'
+        - 'transfer.onlypsk.abrdns.com'
+        - 'chinow.abrdns.com'
+        - 'onlypsk.abrdns.com'
+        DestinationIp|contains:
+        - '132.243.238.178'
+        - '86.107.100.105'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

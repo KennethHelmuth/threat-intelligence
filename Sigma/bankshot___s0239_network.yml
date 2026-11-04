@@ -1,0 +1,35 @@
+title: Network Connection to Bankshot - S0239 Infrastructure
+id: 73f66c69-27d4-4476-aeb3-74a729c8379d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Bankshot - S0239.
+date: 2026-11-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - api key theft
+    - cloud compromise
+    - cloud security
+    - credential harvesting
+    - cve-2026-40217
+    - financial fraud
+    - llm mixers
+    - llmjacking
+    - malware.bankshot___s0239
+    - manus
+    - privilege escalation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'jet-night.com'
+        - 'newapi.pro'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

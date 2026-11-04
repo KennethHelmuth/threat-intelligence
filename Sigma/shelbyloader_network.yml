@@ -1,0 +1,67 @@
+title: Network Connection to Shelbyloader Infrastructure
+id: 9dd92bb0-ff34-415a-84e0-e6751a57fa7e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Shelbyloader.
+date: 2026-11-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aerostat
+    - apt34
+    - dust specter
+    - enddot
+    - espionage
+    - ghostform
+    - github c2
+    - gulf cooperation council
+    - hotair
+    - kurdistan
+    - malware.shelbyloader
+    - psproxy
+    - runtimebroker
+    - runtimebrokerapi
+    - shelbyc2
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'mail.mofa.gov.kw'
+        - 'korektell.com'
+        - 'meetingapp.site'
+        - 'mfakuwait.org'
+        - 'meetgooge.cam'
+        - 'accountmeetgooge.online'
+        - 'artcyberspacetraining.site'
+        - 'artwavecollective.site'
+        - 'astravioncapital.site'
+        - 'cdn-gdrive.cloud'
+        - 'cdndrive.online'
+        - 'drive-g.cloud'
+        - 'drive-go.cam'
+        - 'drive-googe.online'
+        - 'drivegooge.online'
+        - 'gcc-sg.cloud'
+        - 'gcc-sg.online'
+        - 'googedrive.online'
+        - 'googemeet.online'
+        - 'gsecurity.help'
+        - 'krgcloud.online'
+        - 'lifeinmotionnow.site'
+        - 'meet-goo.cam'
+        - 'meetcloud.site'
+        - 'meetgooge.online'
+        - 'meetlogin.online'
+        - 'mfakuwait.online'
+        - 'mfakuwait.website'
+        - 'moelcloud.online'
+        - 'mofakuwait.online'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

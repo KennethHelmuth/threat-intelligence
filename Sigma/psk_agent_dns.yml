@@ -1,0 +1,35 @@
+title: DNS Query to Psk Agent Domains
+id: a5b5433b-c920-4181-830e-3b4a13b81cb7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Psk Agent.
+date: 2026-11-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adobe commerce
+    - chi_down
+    - chinese-speaking operator
+    - cve-2026-75650
+    - e-commerce targeting
+    - magento exploitation
+    - malware.psk_agent
+    - psk agent
+    - stylesmuggler
+    - webshell deployment
+    - zer4.php
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'transfer.chinow.abrdns.com'
+        - 'transfer.onlypsk.abrdns.com'
+        - 'chinow.abrdns.com'
+        - 'onlypsk.abrdns.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

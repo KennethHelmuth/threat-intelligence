@@ -1,0 +1,39 @@
+title: Network Connection to Paprat Infrastructure
+id: 5c64518c-699e-4378-9174-5581b7705ba6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Paprat.
+date: 2026-11-04
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cyberespionage
+    - lnk files
+    - malware.paprat
+    - msi installer
+    - paprat
+    - powershell
+    - rat
+    - rust implementation
+    - south asia
+    - wmrat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'techtalkhelp.com'
+        - 'netmansrvdns.com'
+        - 'rivingtonclarks.com'
+        - 'felixfuturenext.com'
+        - 'goodnfortunes.com'
+        - 'rappellingaart.com'
+        - 'gomescareerplans.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
