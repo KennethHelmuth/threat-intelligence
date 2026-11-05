@@ -1,0 +1,31 @@
+title: DNS Query to Llm Api Theft Domains
+id: e176f4bd-08c2-4232-9e4a-53d718879987
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Llm Api Theft.
+date: 2026-11-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - academic fraud
+    - ai agent frameworks
+    - credential harvesting
+    - cryptocurrency drainer
+    - cve-2026-41940
+    - financial fraud
+    - llm api theft
+    - malware.llm_api_theft
+    - telegram bots
+    - university targeting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'juanwangccbotgithubgithub.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,47 @@
+title: DNS Query to Worldproxypool Domains
+id: 1c6f9ad6-f4f3-406f-811f-d2e87c273f8e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Worldproxypool.
+date: 2026-11-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - advancedwindowsmanager
+    - boinc
+    - charityengine
+    - clover
+    - distributed computing
+    - egairtigado
+    - fake software
+    - inno setup
+    - kepavll
+    - malware.worldproxypool
+    - monetization campaign
+    - offerloader
+    - proxyware
+    - scheduled task persistence
+    - trojanized installers
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'friendsanchor.xyz'
+        - 'foldlodge.xyz'
+        - 'fallport.cfd'
+        - 'wishcourt.cfd'
+        - 'cratebase.cfd'
+        - 'beliefdesk.xyz'
+        - 'belieftrack.cfd'
+        - 'wishgrove.cfd'
+        - 'inkact.xyz'
+        - 'orbittrack.cfd'
+        - 'companyharbor.xyz'
+        - 'signalpane.cfd'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

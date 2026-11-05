@@ -1,0 +1,46 @@
+title: DNS Query to Xloader Domains
+id: 0fd8a7c6-0b9e-4e8b-8e1f-f2265cf721c7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Xloader.
+date: 2026-11-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - agent tesla
+    - business email lure
+    - credential theft
+    - in-memory execution
+    - luajit
+    - malware.xloader
+    - obfuscated jscript
+    - process injection
+    - remcos
+    - shared-section injection
+    - xloader
+    - xworm
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'hahashoe.com'
+        - 'snvipvn.com'
+        - '511mma.ru'
+        - 'bagolone.it'
+        - 'eolienzaer.com'
+        - 'grandseosite91.shop'
+        - 'iqos-one.com'
+        - 'komplek.id'
+        - 'moreultras.store'
+        - 'offon33fv.club'
+        - 'okbajegame.com'
+        - 'revelintravel.com'
+        - 'sonhero.top'
+        - 'tomatox.com.tw'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

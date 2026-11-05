@@ -1,0 +1,38 @@
+title: DNS Query to Sql Injection Domains
+id: 7fac04c3-ee5f-43b7-8a56-771774de4f68
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Sql Injection.
+date: 2026-11-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - abliterated models
+    - agentic ai
+    - ai-augmented threat
+    - autonomous exploitation
+    - bossai mesh
+    - data exfiltration
+    - emergency services targeting
+    - malware.sql_injection
+    - sql injection
+    - taiwan
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'attacker-collector.com'
+        - '888.bossjy.kdns.fr'
+        - 'c.xs1.ccwu.cc'
+        - 'gdp.gasjy.kdns.fr'
+        - 'gds.gasjy.kdns.fr'
+        - 'ssh.gputw.ai'
+        - 'vps.xs1.ccwu.cc'
+        - 'xss.xs1.ccwu.cc'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

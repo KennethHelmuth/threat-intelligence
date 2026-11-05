@@ -1,0 +1,32 @@
+rule darksword_20261105
+{
+    meta:
+        description = "Auto-generated stub for darksword based on 13 hashes"
+        author      = "ti-pipeline (auto-generated)"
+        date        = "2026-11-05"
+        version     = "1.0"
+        source      = "OTX"
+        family      = "darksword"
+        hash_count  = "13"
+
+    strings:
+        // Hashes (SHA-256) – reference only; add byte-strings/imphash conditions below
+        // a7d2493df00565c21587b0cad2a9fe7ca1e5590acf796da6e499be0ffde44cc3
+        // bee3e014e3df87ddce0250b0985b87f6868a427a7b650a74b7ffedb9d57f3088
+        // c170fda024183645c0aa681149304e50506509c3498bb6b9a5f5ced6aa73e5fa
+        // 2ffb35e3f9e55286a930fb887e73764a913166648135fe0ca7551736d97d7bfa
+        // 69b6cb327a4d5da99399718f6a66f84de69f89425b0a31f2dcee0682f811596f
+        // 29d283ebd08d0cd3b2e6f4a67718d3d6e7a6be01d0613d716bce218dba57a928
+        // 06c17b31d36838f3d29044784aa047d5c2d9174d3356c1211cf25f9df677445f
+        // 183d62d682aea8018491c8559544e8d6a9ab0e1abd05ecbb6c97daa4f438d2b8
+        // 387a7fb768db1350a9788d9704e7a72abe07152734e0ff026af72b417e36268c
+        // 35c0cd19a7334b544c193e392bcd9a8f1d1f43cf6b61be5bf1d9e35537aff2ef
+        // 41e6fd33a30d36dabff9ea408d9766a6583edcc107968f6dc1499f2586381967
+        // 621112712ec515e8791129c62feda8fff6654a0116882401609503cacc08054a
+        // ae3241d96cc2d99538c7aff60f382cc8dac13859bcbea3ee84992d24d22a8108
+
+    condition:
+        // TODO: replace with byte-level strings, pe.imphash(), or hash.sha256() checks
+        // Example: pe.imphash() == "aabbccdd..."
+        false  // stub – analyst must complete this rule
+}

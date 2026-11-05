@@ -1,0 +1,32 @@
+title: DNS Query to Beautystealer Domains
+id: 68442ea6-a248-4076-8bcb-da0bfcbcc5b5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Beautystealer.
+date: 2026-11-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - beautystealer
+    - cve-2025-8088
+    - cyberespionage
+    - giftedcrook
+    - gorbag
+    - infostealer
+    - malware.beautystealer
+    - prime reverseshell
+    - russia-aligned
+    - spearphishing
+    - ukraine
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'psw.agent.ma'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

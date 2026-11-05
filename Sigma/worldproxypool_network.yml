@@ -1,0 +1,49 @@
+title: Network Connection to Worldproxypool Infrastructure
+id: 0a9f886f-f2d5-4b0a-811b-92c3886299f9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Worldproxypool.
+date: 2026-11-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - advancedwindowsmanager
+    - boinc
+    - charityengine
+    - clover
+    - distributed computing
+    - egairtigado
+    - fake software
+    - inno setup
+    - kepavll
+    - malware.worldproxypool
+    - monetization campaign
+    - offerloader
+    - proxyware
+    - scheduled task persistence
+    - trojanized installers
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'friendsanchor.xyz'
+        - 'foldlodge.xyz'
+        - 'fallport.cfd'
+        - 'wishcourt.cfd'
+        - 'cratebase.cfd'
+        - 'beliefdesk.xyz'
+        - 'belieftrack.cfd'
+        - 'wishgrove.cfd'
+        - 'inkact.xyz'
+        - 'orbittrack.cfd'
+        - 'companyharbor.xyz'
+        - 'signalpane.cfd'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

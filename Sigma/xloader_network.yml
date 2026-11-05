@@ -1,0 +1,48 @@
+title: Network Connection to Xloader Infrastructure
+id: 4a506c61-43ac-4c28-a858-b64179619976
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Xloader.
+date: 2026-11-05
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - agent tesla
+    - business email lure
+    - credential theft
+    - in-memory execution
+    - luajit
+    - malware.xloader
+    - obfuscated jscript
+    - process injection
+    - remcos
+    - shared-section injection
+    - xloader
+    - xworm
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'hahashoe.com'
+        - 'snvipvn.com'
+        - '511mma.ru'
+        - 'bagolone.it'
+        - 'eolienzaer.com'
+        - 'grandseosite91.shop'
+        - 'iqos-one.com'
+        - 'komplek.id'
+        - 'moreultras.store'
+        - 'offon33fv.club'
+        - 'okbajegame.com'
+        - 'revelintravel.com'
+        - 'sonhero.top'
+        - 'tomatox.com.tw'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
