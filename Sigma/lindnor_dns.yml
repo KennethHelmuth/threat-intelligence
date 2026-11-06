@@ -1,0 +1,32 @@
+title: DNS Query to Lindnor Domains
+id: 00532c4c-ae02-488b-b3b1-2306ffd0f474
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Lindnor.
+date: 2026-11-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - anubis
+    - anubis ransomware
+    - anydesk
+    - byovd
+    - lindnor
+    - lindnor backdoor
+    - malware.lindnor
+    - safe mode persistence
+    - security evasion
+    - sql server targeting
+    - vulnerable drivers
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'msrcontrib.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

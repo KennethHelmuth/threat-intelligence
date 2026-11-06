@@ -1,0 +1,37 @@
+title: DNS Query to Nanodump Domains
+id: eb16789f-b188-4714-9ba5-8ba5f3a7e005
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Nanodump.
+date: 2026-11-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - apt attack
+    - backdoor persistence
+    - bo team
+    - credential theft
+    - cve-2021-44228
+    - global socket
+    - hypervisor compromise
+    - malware.nanodump
+    - nanodump
+    - reversessh
+    - software developer
+    - supply chain
+    - vmware vcenter
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'ip-223-6.dataclub.info'
+        - 'lo1yaizaeghaevarood1ahtaichootae.nofrillsdns.com'
+        - 'lo1yaizaeghaevarood1ahtaichootaz.nofrillsdns.com'
+        - 'vmware-timecheck-api.nofrillsdns.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,24 @@
+title: DNS Query to Win.Romulus Loader Domains
+id: e869f575-69bd-4194-bb07-55fbd658c4ee
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Romulus Loader.
+date: 2026-11-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Romulus
+    - ViriBack
+    - malware.win.romulus_loader
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'cocu.cc'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

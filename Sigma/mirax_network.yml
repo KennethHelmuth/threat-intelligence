@@ -1,0 +1,34 @@
+title: Network Connection to Mirax Infrastructure
+id: 8f007b75-4eac-47be-8f46-b9517ef2e5b2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Mirax.
+date: 2026-11-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - accessibility service
+    - android
+    - banking trojan
+    - device takeover
+    - dto
+    - financial fraud
+    - maas
+    - malware.mirax
+    - meta region
+    - mirax
+    - remote access
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'kenobuias.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

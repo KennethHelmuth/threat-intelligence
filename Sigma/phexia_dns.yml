@@ -1,0 +1,48 @@
+title: DNS Query to Phexia Domains
+id: 5f2c6d01-99de-4bcd-82b8-ded0dc3a60da
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Phexia.
+date: 2026-11-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - applescript
+    - atomic macos stealer
+    - blockchain c2
+    - clickfix
+    - credential theft
+    - infostealer
+    - launchagent persistence
+    - macos backdoor
+    - macsync
+    - malware.phexia
+    - phexia
+    - polygon smart contract
+    - xmrig
+    - xmrig cryptominer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'coeuzgoq.bahisbiz.com'
+        - 'vg5sgxv.lol'
+        - 'secdarvin2026.icu'
+        - 'oreshnik.top'
+        - 'svo-zv.pro'
+        - 'jse8x92s.me'
+        - 'dhsbdgs.icu'
+        - 'hackersteersman.digital'
+        - 'kefavkd.nextbahis.sex'
+        - 'd9j.everunningshoes.com'
+        - 'nox.usa-synadentix.com'
+        - 'zwa8.meritbethizligir.com'
+        - '355uz90z.bolnhurstrally.site'
+        - '7ulk.irvinaurus.fit'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

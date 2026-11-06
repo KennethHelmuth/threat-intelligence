@@ -1,0 +1,26 @@
+title: Network Connection to Win.Romulus Loader Infrastructure
+id: bfbb3ad3-a0cb-4a05-b616-01f28a22cb86
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Romulus Loader.
+date: 2026-11-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Romulus
+    - ViriBack
+    - malware.win.romulus_loader
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'cocu.cc'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

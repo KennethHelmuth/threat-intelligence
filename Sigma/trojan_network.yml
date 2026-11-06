@@ -1,0 +1,57 @@
+title: Network Connection to Trojan Infrastructure
+id: 57eed4f2-a89a-4545-8bbf-9ed9a2054eec
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Trojan.
+date: 2026-11-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - apk
+    - content locker
+    - credential theft
+    - cryptocurrency scam
+    - gaming
+    - gta vi
+    - malware.trojan
+    - phishing
+    - social engineering
+    - trojan
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'gta6cyberleek.com'
+        - 'cyberleek.click'
+        - 'mygta6.icu'
+        - 'gta6keycodes.com'
+        - 'cyberleek.my'
+        - 'contact-rockstargames.com'
+        - 'cyberleek.cfd'
+        - 'cyberleek.world'
+        - 'cyberleeks.com.br'
+        - 'gta6.exposed'
+        - 'gta6.io.in'
+        - 'gta6apks.in'
+        - 'gta6bestmoneyglitch.com'
+        - 'gta6bonuses.com'
+        - 'gta6jasonlucia.com'
+        - 'gta6mobile.com.in'
+        - 'gta6sharkcard.com'
+        - 'gta6thapk.com'
+        - 'gta6underground.com'
+        - 'gta6world.live'
+        - 'gtavi.my'
+        - 'rockstargames.support'
+        - 'rockstargamesoficialbr.shop'
+        - 'rockstargamesprevenda.store'
+        - 'rockstargamessupport.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

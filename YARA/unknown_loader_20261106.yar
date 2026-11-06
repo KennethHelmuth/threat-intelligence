@@ -1,0 +1,69 @@
+rule unknown_loader_20261106
+{
+    meta:
+        description = "Auto-generated stub for unknown_loader based on 119 hashes"
+        author      = "ti-pipeline (auto-generated)"
+        date        = "2026-11-06"
+        version     = "1.0"
+        source      = "ThreatFox"
+        family      = "unknown_loader"
+        hash_count  = "119"
+
+    strings:
+        // Hashes (SHA-256) – reference only; add byte-strings/imphash conditions below
+        // c9e656ad211f8518228be7c48d381f1d68fd22fde1698ce7da71c8fa87b3a5d1
+        // 93ba7f8e1ece7b16854e935c1c7aef5b8169a3d08c22c600c2e13e4a141f7c62
+        // f9cca09a495d5d87706a19ef4798bd4273ec20c68e41924f456a3dc04b36b582
+        // 7b660962ac7e03b6c59e2b933ca26d8795e4443bf9e88929e0c8112bad38c12e
+        // 951531afe4465d0913fc8142966cac6c7fb245282618b10f664ef7806201dc75
+        // b56a8ad1d1d071c1ae3bf81f98d291294ea2c12a36b7eaef74d10e8fe3a54ed1
+        // 3d667c33e1e50795429fc32c2836e3c99280066d6976c8befdaa4f08ac669c95
+        // 0c9d02de7a2113d4f1c4ab6f798bc453b37a74f3434766ac3f6a85b664169821
+        // d7c4eb514ce22b3aa605aebcdbd3e14cb202d0e6163b3567dbd75baf3aa92da1
+        // 5581cded1e974a6c0b2df2d2259b07f056cdef8f003201287f9e5ee3aaabb5b3
+        // 166e0b5f09bf85c01a583e73a7592cdad746baf6713fa2b7993ec6b4a62a83f2
+        // 7e6e5e19fe81af246e0613c1b6c69dcf6a43511cbaea043f67a647ea2abbac15
+        // 9c344d5a58d9a1c6a209daa2ac51765d073ec11ebc1ebc535bde815619d36374
+        // d491333fbfaf86d553b1c948c70a165abf20b78cedc17c7ffa6709a5380bc3e8
+        // 2d488e3e1cb4106f9f18833a7829665267aa35692e9744a96fc32bf1219d27ae
+        // 099a2ec49d2adc3ddf82a727eaa90e4ab73ce5a9c196b9e5282739386794e8c7
+        // 82eb7f26d83f19adfa0404fb76627db49d5a8d910d049fd602d5448662cf214a
+        // 3de0df8b7ccc308e1c0e5547d2d772b79c91d0af27de1fb0cabb80f2876ebb80
+        // 082405592fcb197e6a36356544818f8d1b7673a506a21e0dc00571843b939fc5
+        // 0e6d1a7d9340a947de2bb4b1cb73bb56fe325d8545c00574bd41afb4c94e63a8
+        // 79ea74a289228817cb755a3d6f32360def46493306b1eede9d9d87f216650c7c
+        // 7e0b584ea44173fe4207bcf4000c7e96cc65796f04d0a9d3337880f120c3b044
+        // 6b7291feaef2996d9ac2bb9ed797c755ee9f5af9ed2d0a8a720af8ccbaa90102
+        // 306ed61b066240ab65a53a16ec984bd183135453f06152d69067f75acbe1aeff
+        // d58c487ae5f860fe4e28ce82d4ffa3b59c27a463d777276fc2d496bb1eb72551
+        // babbe7ed4c3867cc9f507b4ea281fc01210b86255db25b6f815acb917fcc400c
+        // ff3daf58324781f661fbea186e6aac28c99719c36dc36b2584f5070f00a01029
+        // 4d296613cc71a133552c24602a1c162fc393e85d9ad76d513371519a033b0429
+        // 12c98ef75a243f993f6ce1f059cd8167e52fe74ab578933d2e7fe984e5e846fc
+        // 97cf56639643e161a4ea1afd37dffaf1482ac135d3c65b0031edc0a2a02639a8
+        // 8648d364c22ddc76da50f824226864e4cc0922db10f2aa1481d251a00f134f7b
+        // 3150eee97d805fbdf7f426fd74c0e94448ce07970bffe142f312f562281cb083
+        // 7b8da50e0710880e9bbd9cbd2aea964731b6caee93d36c08b9a1ba48d8aad08d
+        // d68278a72a2a9a7780763b6a60d9aadc42a9cad96a04081df6854532dfc5366a
+        // bc206fe19fbb2afad8b156b6f722bc6896775f5cdf1c6e49fa281e05e7a399e7
+        // e085f756be799d0d8e9950c92f7983f7d05bc1fe0a90847e34581f200a04de93
+        // aa50ec48fae2ae48967402b6e6f8e25d9aa390cc18b7130e57b539cdb84d5b61
+        // 4a08a8a722563ee260e18ee0a56610a98534432109606994ed93af8dc5a78504
+        // d4b4cf8be9277284b1884192f0cd38c7410ac61c0001e7ca3ba3cd50108255e4
+        // 7120ee98c7e0dddf602d436cf50ff30dbe90032dcf903846affdb0ff7acb953e
+        // baf5f6eb2db543307c1ad98b1faf152bbe59b7b67b5fad8b5b82ceb4e63914c2
+        // 96684cc7862eeaf6e09456ecb707702503244bc76c33aa088d66670bc7994e64
+        // c766159621c5d44c6e2bce23d6b4a4126a655434e3dd7b1f27abdf9fce896965
+        // d49dc9e3bd35080fbd6923f78f325974960af74dedcf1baa9d1c0f2cfe635eed
+        // a4dfa742af3463d19373aa696c0b1f2dc58075287393a20674eecc7ee0e7c8ba
+        // d7e7e0bf02a289deba37937b19efe2ecd10547e13f7eed625e9070d102b68b85
+        // 3166beb085c904c21840c32005625741072142f276025c17c3e1fe10fdea98e1
+        // 3d44b2d590317ccccc9647cdb30503b1878df1b5bf670f3339428009a248756d
+        // 8dab5255c1443ce2400b717188b5c40714db47a932a2ea046c5cc2534c012130
+        // 949752e69dc0b4cccddad75c92ac191b64923bb6b1a228194c71eb95031f044d
+
+    condition:
+        // TODO: replace with byte-level strings, pe.imphash(), or hash.sha256() checks
+        // Example: pe.imphash() == "aabbccdd..."
+        false  // stub – analyst must complete this rule
+}

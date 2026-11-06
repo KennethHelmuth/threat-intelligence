@@ -1,0 +1,32 @@
+title: DNS Query to Mirax Domains
+id: 9a0d8250-fdad-4011-9983-075cd9125669
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Mirax.
+date: 2026-11-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - accessibility service
+    - android
+    - banking trojan
+    - device takeover
+    - dto
+    - financial fraud
+    - maas
+    - malware.mirax
+    - meta region
+    - mirax
+    - remote access
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'kenobuias.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

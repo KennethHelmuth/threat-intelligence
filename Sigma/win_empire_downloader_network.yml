@@ -1,0 +1,28 @@
+title: Network Connection to Win.Empire Downloader Infrastructure
+id: d975b892-e076-408e-8d28-47e34a9fe3cb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Empire Downloader.
+date: 2026-11-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Starkiller
+    - empire_downloader
+    - malware.win.empire_downloader
+    - modat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '69.164.217.67'
+        - '185.233.166.127'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

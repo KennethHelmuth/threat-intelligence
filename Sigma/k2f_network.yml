@@ -1,0 +1,40 @@
+title: Network Connection to K2F Infrastructure
+id: 2eeb3891-1005-48e2-8d4c-eab1ce6427e7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with K2F.
+date: 2026-11-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cdn compromise
+    - credential stealing
+    - cryptocurrency theft
+    - domain hijacking
+    - gaming platform
+    - k2f
+    - luajit
+    - malware.k2f
+    - pc launcher
+    - supply chain attack
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'analytics.insightjs.com'
+        - 'insightjs.org'
+        - 'api.insightjs.com'
+        - 'cdn.insightjs.com'
+        - 'www.insightjs.com'
+        DestinationIp|contains:
+        - '89.126.250.172'
+        - '89.127.233.127'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

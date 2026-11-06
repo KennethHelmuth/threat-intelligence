@@ -1,0 +1,34 @@
+title: Network Connection to Lindnor Infrastructure
+id: b6cd0747-2c34-427d-8103-02e922c014e0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Lindnor.
+date: 2026-11-06
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - anubis
+    - anubis ransomware
+    - anydesk
+    - byovd
+    - lindnor
+    - lindnor backdoor
+    - malware.lindnor
+    - safe mode persistence
+    - security evasion
+    - sql server targeting
+    - vulnerable drivers
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'msrcontrib.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
