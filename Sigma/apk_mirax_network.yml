@@ -1,0 +1,30 @@
+title: Network Connection to Apk.Mirax Infrastructure
+id: b600daaf-e36f-42ce-ae9d-bfc7778d12b6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Apk.Mirax.
+date: 2026-11-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Android
+    - Mirax
+    - RAT
+    - malware.apk.mirax
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '85.193.68.71'
+        - '85.193.68.71'
+        - '85.193.68.71'
+        - '178.16.55.200'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

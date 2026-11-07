@@ -25896,3 +25896,374 @@ dbffaa25de8c57c21d03d53de17d0ec20b3b1c58	OTX	2026-11-05	family=K2F | pulse='Summ
 4ad53349f98b86fd3a97bc386b2a1f555baf27c27a270f272404d47c9d7cc065	OTX	2026-11-05	family=K2F | pulse='Summary of Malicious Program Distribution via Goddess of Victory: NIKKE PC Launcher' pulse_id=6aec3e073e76c608aeccf05d
 83bb8f30c65fd31208089f4107f316e7073c9b1213a8a3b2b512ab99e261de18	OTX	2026-11-05	family=K2F | pulse='Summary of Malicious Program Distribution via Goddess of Victory: NIKKE PC Launcher' pulse_id=6aec3e073e76c608aeccf05d
 9617d04eb82ad804b55115d123fa3954711f44f318c9cf09c9b4857a24cba644	OTX	2026-11-05	family=K2F | pulse='Summary of Malicious Program Distribution via Goddess of Victory: NIKKE PC Launcher' pulse_id=6aec3e073e76c608aeccf05d
+8f2073cee29dff797a4c758f3dddec0688f1a13952cbf6f80cef0fcf821f13ba	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+e7f1ec95be8d9dca9ed5dd8130eab61b5c8194ba103ed25e8da30b7958bd1dda	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+51476daf7f8fea1d79142dca3f888dfcb944d37a62428a4770342a67b4cd6e30	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+1aa949ac5f5056fda038823eed18f348effd7b43210aa1c8e8e667abe296e60d	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+38a3228eb79fbce3708d654fb35beeae058bed706cecf0268a7bc2440133450b	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+2c6cc3ecdfa063fdc18a75a4ac6f508d6e2a962f5aeda252a2c71ba25bdc0832	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+2500ec5b30002d4e6eab75b78c1178bc249c8ef3e6528c01911f17487cf60572	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+9b62873ec976996f43534dc372bf96ff9163801d70ca5919892414ba94442297	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+d69754b6f6ce97e5962c22d3e8dfd1421a5068841876af28a3698d00c0f30e75	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+f651f36343155c44f03a0b697406ed80bb93ddb2b5444b2d1567ab93e5b6a8b2	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+393375c12fe8293c7e3ad32dfa59e157712151748ea4b4390056579247ce8177	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+6d95b7b322c16956411910106e8a225749e552c6e778d614aa94189a51f23159	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+3774f83a28267cf11886cdf70a820809162b672a151f33bbc7161901e8df1afb	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+6bfeb99e0aa982a6f6de1515e290e42e0a039decad9335859c85151265aff102	ThreatFox	2026-11-07	family=win.formbook | confidence=90% threat=payload
+48caf733e828a95f3d5801e7dce826dbd14f8661705236bb6eff7c06d2a077ba	ThreatFox	2026-11-07	family=win.warden_stealer | confidence=95% threat=payload
+2a0792e2b1e1470dab303ac04a901b688438478d5150c1f7a28a4cf027f33ad0	ThreatFox	2026-11-07	family=win.revstealer | confidence=95% threat=payload
+dfcddf48d59024204b75d8cc04bbc1b03d7be9df3a836cafabc02c2d03bf935b	ThreatFox	2026-11-07	family=win.revstealer | confidence=95% threat=payload
+71246175047a03e547f8b5aa848af2a026331aa6d5e06bbef02e669713e628b2	ThreatFox	2026-11-07	family=win.snappy_client | confidence=95% threat=payload
+575e8dab342418ffddba02c2cb323a9a1c25f50c334994438364fbeb8176e261	ThreatFox	2026-11-07	family=win.vshell | confidence=95% threat=payload
+a0e992bfeea621b4f6e3d837cd43806f3a9b939f59309d19becae3d4ca6e3afe	ThreatFox	2026-11-07	family=win.salatstealer | confidence=95% threat=payload
+a67bf1dd75bc49b6408e6e7084be2cfba721d14ba744b3f40d8aa55a19b72017	ThreatFox	2026-11-07	family=win.vshell | confidence=95% threat=payload
+772cc0958a947357d1f811613552322d716604ad4c516d08d58a1a99ffd002a0	ThreatFox	2026-11-07	family=win.vshell | confidence=95% threat=payload
+c25ebc968a9959baa3a7bc992a05889a39cec731a4ba28129eec82b5047766d4	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+2091348052b1c21ee30ce5a2ef1ef8777eb0ca730927b30b1f3486dcc36f2f76	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+26e43457fd46b62570d966a19460eb85aa39d35e33251c35fd2a205a03009723	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+0b19b9333001044dc3a34bd03c72e8865ee4d7f83b4051fed92a6057809303c7	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+1336012e9498ec9e95b44d6b733fa0e4f9ea32d3e99be2be697be2e050ebeb5d	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+0cd28054125aae67f9ae4b3feb9a4de367ba00bbb7b325e702433fc572eeb907	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+880fe1e5ece529b3f92db4605026547380e2d7362da7416bd2013677eb33df89	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+bf7515c6e0a5d53ab5d0d339b8dd5650f79a6ab466b6e5ef1ec0a71ff62f0a55	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+6de14009b2409272d41ce34948c639dc7122c8456b9cbe1ff3097ebe301fbb61	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+eb8375dccc048339a073043f40010f6e2298ea413098fda34ae61ec93547e7ac	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+8f33eef6cd5411bd5bba7acf26a72c7241e0fdc805291c6be13d7aabc3d822d0	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+af4b153c27eb99967a5a58b8dc51eeb848e1f99b22c126e0ad2e6316f988ec8b	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+ec3e7cf7e7e4119f3c076a505d647e7907eb5c024ec349dc904971e5329d3a9e	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+602a346e45e8cba4c17e1f2caf7f6508f108469153cea0db0cbf67fdff505a63	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+1adac896cf5634edf9a29fe440a0f3775c0c6684c12d71735de269f070e8557d	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+86c34631ee3ed2eaa38ad409cabe601a2e74308886c4c6c98eac244298d638ab	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+d1c3120c5a140aa5f672787522889884b91c58bc466aa4f4fc01952dc933037a	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+7aa36c983f38f881b684a1969a5194900e9d8cc2422384f69c88f13cd9758406	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+d56193bee7108d0e9e695eaed33db5c326a5c4560cbcaab4e1978b3847db3a10	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+fa0b28bcc9df5f0014191a163fa9d7936698d29d865e8160b4f19e823aa51246	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+d0f8b472d336145317ab4c20cd6ac1c5c9c47510e4f69c9b2cad4ea516736a7e	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+4eb5ddf388f28859e833577f4af9856af671f5a2967755c8fd66cde77bace586	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+f8472cc8d1ee4e4d4a6d940042a65995c9c042b850f97bbce7c733f0707d67f4	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+a69c8a7b0b6471d6f701ad14d2585334daad388478846ad8d8df8691afd95f69	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+45af486893fbc5ecfefd0a883fac4e61cb6f4fe197d607a2db5fc4f9102d75cf	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+a39f83a2be41f4d8f898ac977b7be9fba5ef7ec3cfd3ff7edea623405cfa8ce2	ThreatFox	2026-11-07	family=win.revstealer | confidence=95% threat=payload
+e3136233f560e85717a03a58c1595e1ca8418bd1846f7290dd920dd1c185fe58	ThreatFox	2026-11-07	family=win.revstealer | confidence=95% threat=payload
+df20dccb1c5c73534889ad2e61bdbd1f751341f68074ff343ad6d2bdf14026aa	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+3d15a9d35ecc6645b6ccedd7ce4a942d3f900ec277dae4a109d29c74044aaccc	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+e1daffac230c8875c2562831aa5b7af21a91d1585ad390e7b69a45aca5d05d95	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+72afc6b92d0d6ba9f3ca2a3f8f7d4f75464ff6359e32844bed7cb0ec6a9fbc91	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+ac495c8fa0c6d582efa44659ed03059c81e22edbb3e8aed5994688787cc112c0	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+4932caeb67bf5cacdc0feb01c6852952c02f62a2141b13b979fc06f99c923a76	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+5e6c245a96999367701dfa2288b391a6dad9ec2044744291b61af665ae6f30e4	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+27fa41d63796b0901e0d2aa519654b3e952eca757c2be7a71b5c9febf1086aa2	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+fd5305985b2556c9e6c2089a88e98c033ab80668053be4838c9dcd74b36e6b31	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+c272740a1f634caf2693d9a5ee01d4e1c70269474c87eecfd9be3fbe7ae79e87	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+9b91939ad2442779dca068bbaace1faa468452f24660e6b6b09c0c1ab3ece67a	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+065a9d9e67102f1600e8de5b3d10073b42dc3be609734c7a43356ff710aff724	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+e8c485f648fb4b8ca501418e308e41c87f357f0f9e08cf81094a85a3c38f6215	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+d1dfbe3dc672cfe43cbb53911b0cf5a1ecd9ea66cf3a901a804b665eb11755de	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+f8c2baa82c618ced9c42990f9379df137e9577b93933384463cb8ad7c4693feb	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+5dead91acf4972d1503e4abc8b223767d78373f15066aa79e252557dc8894786	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+f2aa4b6d2173545191741e3726f09e86bfc36a2cfbb562a60da7e059fc0689f3	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+d19f65536caf5dad2e1f140e1aa278cee941d2c8b6ed3cd68f9c3c90457da333	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+07bda42508d3e7035d20a25b04e32f7fea6865a97f0438377302d1a28fb1d9ba	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+f7679b29e0787a14c2d3e4228e832a6c6f83a2cc489e0a16f97acc1a28c63ad2	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+68d8313481823dd51fe4c59c0330c9700e2f05c62cec626b7cb159fa9169fe1a	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+c6ac4683abe493d2241e13d67a16f8fc3b8a7c4899cc0d6749bc3fe601e945d7	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+411ca9aa9479f5bc5b67a2264942bc825a3d709d6bb991733826bb7df8020548	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+ed292923090b6fba6e731885044197ad884fc7f393cb34f860e89c0f2041e415	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+054bf921db96496d4c9046f4483962f64f16cbd8b3db069ef99a4f0772c9cdbd	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+5adad998a2829106ed44c621c46b43707b88bbf4ec590a42fe5dd76eb8fef9a1	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+b8550204859dbad18aa6427cc280e7bf2946cc10d2378c733bb58c2673f02c7d	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+f1477000067beb87c32db5eabfa515cfef628f12ee02f65e0f8ebcc8c55639c4	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+516c3b2bad3c9471966b953a03d1ef95f6cf6250fef0692086dfd40df8dcfee1	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+6fcaaa7ea1f8d7f68a732d1e123b17a7109c517b6704b96b8f19222fc576474f	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+7bac6743706d73ae3312470315d3b2b921bc81790540e6c2db7f3cd695a08d6c	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+c19325cd34358f81855514847346ce27434b1aa3ee69e162ad3ea1e6a6f8fb26	ThreatFox	2026-11-07	family=win.revstealer | confidence=90% threat=payload
+bd77197a5a8bb31b857bbba3100ad1ac4d38414814fde03aa2653994ca15e04e	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+79e5c5e042af7f18b9c2b880353212f6fa5b63bae0cf71db74beb7b0c34e6630	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+af4598277c9fa9331646677853530423efd6d5d43cd0f6470bc80b885814bf38	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+85aae0f7cd54ed4903af55429030361d50900a72de926ea459fa5efd4f300302	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+f9bde03cd9c9d11984c40fc6443202ea8cfa653a84a8b69c32ffd53765964bb3	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+48b12d74552635843144b24cfe154c666632ab4b493fd1bda957d6a68acf3883	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+98da3db7be1abe253135301ccdb982820987e8d8d6b0ae2df80d7f6a408babb8	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+e17f42490557ec3ef4be00c7f6695d5b0bd697eeb2163367c305e0ce9f88171e	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+fc574ae34971628baf3cd3e6cd6934032854f2bb28541a52f7ce9a3138b7d766	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+40a98412081f6a17af4f34f10cb961095a5a7d7b86dd2bc3cdf1a65780b8675d	ThreatFox	2026-11-07	family=elf.mirai | confidence=100% threat=payload
+1f9d903d6fbf08bbfa9f28f3b8e296e1ccdb522d558abc13990722bd50710dda	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+ac73f664eac18b4749b00df0071375bfbd5afa8b0c8f9a3836c0a005b76f914f	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+aa50d9298eec17e0e072c06b07a7e5c4ba341258e6575c6b4f110344986dd82d	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+4b2ad9e0d7512d020979154bed6f5bd14c12fb39fb710150ba9561d08ba32af0	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+6e6f86f904f4358e1b7a31a7a8112b21a629a9d1879eb71a3ff04d669205b632	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+8c7e53381ac66f0dc217c79830d877d4bd7040d9d0f4bc0fa89e0dae11581afd	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+2b1a8ad441c686f5bd60c932faa32159c8146672b42f4e6e3d3cb36a7d730d38	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+911eec5e2f386e4f9fe0cfb0c5f721a2e309afbcfee381cb2dbdf22a123b9dbe	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+aac5a8c1cc531e652e9862e001f9e11bed81a4eb6966633a2700132dc06f0ba1	ThreatFox	2026-11-07	family=elf.mirai | confidence=100% threat=payload
+c50282cef3dce07d23b053cb09460519d8daca1eb9b94572be8f24d8ec15c40d	ThreatFox	2026-11-07	family=elf.mirai | confidence=100% threat=payload
+fa50aa6afa039945c0341eab4ddad5497bf79e63c5dfa39629df80d9ea9f267b	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+be593143713369f4ed975e1be78a85e1d76d26cdf249b708799240b1f25ac9d3	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+bc51f4479eed583c1af96a82048128c53e421f1684e984cdc1315fce71a2d04a	ThreatFox	2026-11-07	family=elf.mirai | confidence=100% threat=payload
+8ef66e6664ee27c65d7ba18ea9821535e0abbe575491d21ee2384cd30ca43f88	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+e18bc2fb65e4413087ff0fc53e23515188a9127983c3cc00a1b30d7756132bba	ThreatFox	2026-11-07	family=elf.mirai | confidence=100% threat=payload
+8627bc68f010f84e5cd586bc00f5d5282c5c605dcbae1774a1180f717e2836d7	ThreatFox	2026-11-07	family=win.warden_stealer | confidence=95% threat=payload
+39410a590266d07a1956166e70e9c5e104a318e88f36a57f001f8b1ad668086f	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+18c502b5ed9dd34710989d51ff0e7efd289987662803ac9f0703466123e25561	ThreatFox	2026-11-07	family=elf.mirai | confidence=100% threat=payload
+de9eb986b9659069030141d9aa12d69354a457c6f0044a9d55b39fad688faf82	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+6fab84ba18c1d259c1dafdd16c040a4733f6fc0cdcaf3aeaec1368c33385f9ef	ThreatFox	2026-11-07	family=elf.snowlight | confidence=95% threat=payload
+2a9a7fb534604a54b850f3e8b671706d42033dc00c7f0faf438b9ccc0c1dc045	ThreatFox	2026-11-07	family=elf.mirai | confidence=95% threat=payload
+82abd54cad55ae67782d885ecaed50b179d5c32b63acc11a0ef532c88848f383	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+dc43fd4300f09f519015ef6a6f449672603f43ade63094624b48fda52a154510	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+56b910ef28b762b26366a3ff790dbcffe3fe9a06e2111ef47cbec54572171929	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+cb4a90a23634f95eb3e548a7a30f3448c01a3828766773213bca677203603429	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+498d5f06a35cc06337996180e341745d7121384fc94273d9dd886b4184ad3e9e	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+af9ccf53c9fdb8667f59b1763d9a424e5a9f5e355548af4583f01f148d6ae545	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+d6e2005da832dbca724a1c121f6be43afbbf7cf607454d66ea50ecbcaf0c50fd	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+a02618d8d0859253672dfe5611f4736a2b282bbe2bba8662f49aead74416d735	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+466f722a704139cd0f384a63a52dc6e4e4c74b083bf45d1ff7ff921bbcc17131	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+4fa7d32758ecb0a958abbc8096fbb2dd7565680385c4fc1840c434e47e598bf3	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+43088303d2ef410f86ef12f0c3820f2ff2c3635897ffa079fc36abd072884661	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+49743e0d6dec6832099e44fae3286e0570bb99fef5ff6f5e9c8bc2748f217429	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+1b05960b8416d815d0656bce0682e83fb5ab2a56c6cb258e3d2d963727249261	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+f3fd933c2d1589f8f9975a3b79fd160d8305f13d05aa96fb54bc8009b44e9e83	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+3f995d003997e5a87ef43da077c3cef430899def1d5d327816435137437be84a	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+f75e42d8f866eff24afafe196c069e197dda6da79efbf01cc56066b378b10178	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+9c202ddb2194b27710d7a67c4eccca8dbdaccf15ca1bbb43b41065947d4c5ebc	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+9cdafa22837b0a4f995b6aa30a19806be94132559c8cbf4271347151b47a627d	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+b8bfcdc686ec102054afe9a4ca344a82a47e0a60c41da85fef032a5820a107d1	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+b98c78937928f955938e3ef1c7f2f43b1c2b2f8ee10fbbf3742062ce3e608c21	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+1b63e86aca168a9804c1778e99cdada533aa094e175e81b63e896cbeb033b540	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+d2a5c223232a7dfbc28bfada6f7d67f76da713f5e02a6464422d31a992919df4	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+15b3e5817bdff76269c324f0d18ff2159f3fac14700350e384b18a53ff3e778a	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+320f879bc3955052d92275fcfbad5754373d0a432f13f0e58028e54a9105bfca	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+32984eb6ccebb8a271f109aaf549dc0c7c0eb5e03172e05b4c677d281e7b9327	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+3ad972f9a1b2a9144e28a905cea945e422b118171f406e3c8dd8d42e1d3e74ba	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+5cf03b5ea2fc3eb7f05f08f233ab43ba2a4b5cdbdcee1b50696646b359891d42	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+24463661334127036d64b10684763dda3f9086469aa9ef1d0545bc45e5812a22	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+2ed94ae8f35e9d3777dbd51863dda9140532b9b67b90271d7eecf9df82cec102	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+26e83ad77774fc32a27ff868eb6339e9e574278172d2a053311ca1ddd475fdee	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+82a93421807c958fb8b5c803e5c6f20fd84363ffb0705c3c0885c1533244084a	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+6303ba90e3f834029386e5df29d02f5239ffca6e56160ffde5b69183c62c4215	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+d68dc2fc3c9fcfe120d1447e1b536eceeb324e2b12865ed108e8b7cfeca55749	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+5852806b591e522302cd6d968057f30491cf3dda5811989cb8f1ac882d4168fd	ThreatFox	2026-11-07	family=elf.mirai | confidence=90% threat=payload
+836df539a11b5355f6a7f83fcab885d864ae89b9f2d59466e369393633552c71	ThreatFox	2026-11-07	family=elf.mirai | confidence=100% threat=payload
+ef2039693804861ae693d7dbdb19a77dcc964d6497de5f782b23588eec07929e	ThreatFox	2026-11-07	family=elf.mirai | confidence=100% threat=payload
+0be548304c06613c02502f14196e1f981b8c4d42e18e1684bfa669fcd200bfc0	ThreatFox	2026-11-07	family=elf.mirai | confidence=100% threat=payload
+d38cebabb3678204e6bf5e4f96d18393e3d684f40d8ea0bcd188e72b9ad2d5c2	ThreatFox	2026-11-07	family=elf.mirai | confidence=100% threat=payload
+1df069b263d1f07cde52576d3a0c8935edca42d6d68ca2b32f849e1049204f92	ThreatFox	2026-11-07	family=elf.bashlite | confidence=95% threat=payload
+c8cbeb5b2d878b7ef58147a77db1a982841f0d54946a93cc5ed9251fabd37ef1	ThreatFox	2026-11-07	family=elf.mirai | confidence=100% threat=payload
+1ed8d3960827c1666b8eed4d0898367a08a801634b5d9bc6fb340e60abcfe966	ThreatFox	2026-11-07	family=elf.mirai | confidence=100% threat=payload
+f96b58c803989f17d951864737a491c19737312fc1d013d677771e1e33c7db44	ThreatFox	2026-11-07	family=elf.mirai | confidence=100% threat=payload
+a4ef1f0ab3233aa6f1610bbb9fef6d41da74ed3c572bbc50c28d1117d1838490	ThreatFox	2026-11-07	family=win.babar | confidence=90% threat=payload
+efe3d8fa84a4327348394f1d63e1bfed11346e79440633d08a432f0f5e959914	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+4c9f3d3355baa7d428ffbca7004e3a2255495264a0e449de7de2638c15363b6f	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+0028a7147b4862fce3d7afcc38037573cb69c604696049b2e586b46273718182	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+8b77c2a8baea956354a9c7d30f59a984f8ce01f4171a0ff00d7b5274675377f3	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+f2f6dbbb1a30f3da8001be45d8ac7f766e1021a3ce354f0a4be07652a79ee6b9	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+204f49d314580b808c3f1e3378defd6931bfc56e0a3962a49e538133d642534d	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+3b1a3c08b22c2953e119868361e887edff73d7141eb28d5e3f16f9a6af2f84f5	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+01e18de97c91af8cf530b5d450d1b9bcb20c0920886f4db029e5611c7cf9adfc	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+6395cd52e722eb8c740417606942f38b563af1f8697d17bcaaacc3bbd3dd6553	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+c9711fc13fec1b7610587f08aa25d4f888cf4c6ceb408a96885a90e2e4de7ce1	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+b60d96f4a18e5bd6fa6bb3f499eb32afd150d3af66383c75eca8d6ac076fe521	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+1bbbac6185fae89cc062c08106639d96312cff4e523fef1c0397e320e9f0b224	ThreatFox	2026-11-07	family=unknown_loader | confidence=85% threat=payload
+ca24d7bc2fc76c872e97d64cb29865de96a234e75a461ba2b53838a44f589987	ThreatFox	2026-11-07	family=osx.amos | confidence=95% threat=payload
+4cde1a56605bb940e269953430cad45fc0e5046ca48f39a4f03029fb7c8c0f58	ThreatFox	2026-11-07	family=win.formbook | confidence=100% threat=payload
+ecdb790dc6af26594cefbe4b9e3d3efc349ad342765860fe968f06eda4c359a4	ThreatFox	2026-11-07	family=elf.bashlite | confidence=95% threat=payload
+dc18dc322f9659e16a1bf8f49f2d7929e8e90146ff383db4ba82574be37302f0	ThreatFox	2026-11-07	family=elf.mirai | confidence=100% threat=payload
+40b1480c14d91afc2d08182ee32570d28492684b5a287a58b87385a8248e9aa1	ThreatFox	2026-11-07	family=win.salatstealer | confidence=95% threat=payload
+90a6202ef9940007fee361357dd943da3fbe0c0f630667ab30849127f8e2a5a0	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+c1047d2d236e371e05bed99931c33689e6737922488355c026877ca337257e89	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+f89809a083d31aaa21885c8d5503c8eda12d26715d2bb4e703e7f7dff7341c41	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+81756becdda6e28cd3cd829b1c2524249fd81a53369e0659beee112e9b409f5f	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+fbfbb00d98a955f7fd6677ef27ad0f34c9d751052dbc66c47c4c8baf9dd7875e	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+0b03157362078d3db7bce6f45f9f71ddc656b0179d060d8b8f659119c6e5b366	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+ca9cebcece859aa2910a70bccbc39ae7c6ff2582cfe19f8966b6bc1f7e384acd	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+7b8bb56e9f50087a2514fd1221d26cb572ccbc2bd760fba2f0152b8a2be03ff0	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+83e0d5811a3dc55bb0ace0d1bfb25714f06b4247898aeaa10476d7171ce17d03	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+cc0e820485fd53404dfb6295fd9b7871fa76f951c18ac7b0d5e48ea7ba11583f	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+a2a8baec524d3062a427ac4547712cd134349fa309d07e0b889ac2f2542f65fb	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+ae461e4e8078e6c4666be6de81fc6a213f7a4b88fd9fcdd022b9eab623e036ed	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+e0af8a84147031f51c016934cc878e57fd57265f4d5ec34e4885c9412e822212	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+d741ebf563f9e6c201c943995d467dfc6cdf276107161c8f5934a5d570480d0e	ThreatFox	2026-11-07	family=osx.amos | confidence=100% threat=payload
+6f335669d877667ce2a1e82f2072c7dd8d14c7229aa611d49e4daa6921767d59	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+31418be5ab3931792d794d11cd49a0ec498a6c93b82bd1ac5333026b111658be	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+81e3de2dff1c229639b104bba036e89321b74d46d8f4e0b01d95862f307798ad	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+e53fe336d57488e7e1d52a7edb8db59e1aeb96ab1b3f3ee158b4860e9274e28e	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+da1b2627d6869b1e0447c9a7f99f1d899ad75ddcc7c456ffb53b9fe4fc948f26	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+40f1f99a3956eeaa66b2075998c8cb734689f626e026d4df425be1df6e298497	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+30f8a9db2a5bdc13f8520a35fa9986eb346efeee95b2d08855def1aa421da8ce	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+0b79529e9bb42c22f9cf928bc78645b140d35b6b8ef30dd10402d7ec7ec4acd9	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+19836e0caa08af1aef571a70c9cf72c7df1a5d82f5ff20e3da9bfb50d9b6b517	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+01e6f03b3dfc4467e9896ca20cdd47fa396efece2dcc95b90535c3a0f6178938	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+b00ba59e07b132f2a47e0115ce23eae8abc1f58f8b47f56869890e112dc96f53	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+0a2550316ed1f28ab61711572c2ff724772e1973ec7d14be801daa889dc5e6af	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+f863dcac5a55f1669889deca1a7fb31035d276c157fe4e1841503394be7a598c	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+b9ddca5a457625071b0b0f3dc2a2afcb0a5de3d0e2894d5b3fb46f69dec88d0f	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+e3d6ef604c872ed1b2e4b20b1a209c1e9eb9ab967eab6ea8521570bc9214ccae	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+9badae8c788572b7121572e9efec53060481a72c28c74f11c19c120c11179f99	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+1ddea05938d490af40ea787ce81ed29440761492908146bcddeca7ee52e3a658	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+67a9823fa571901f0cf3ae7f76ccad6921e25dbf140b322cc62da56c86b78fa3	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+daae127e4a67092517e09b1812272f3483fde7d44d4b47784fab9367059df2a0	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+5f1e67d605a4db4b1fd37436b8b5e5db4aa0d55372a0e93e62eda1d65a96a483	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+5b0973f2d2e616bcb93788a1ad2a2f5043c06d896d23f7c7a3bbee2d49c8a020	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+980f256ea38a2263ff8e2e1945597cceb093fc09f0834f32bf991347222b6606	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+c1499614d5d4b16fd9d21d4b0f0d3b2eea8c97eaa5ec64db181eec632bba5fe4	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+a04753c1da1b47db5beecc5ed557f37eddffcebad810a83ac24bc891dcbd3720	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+5ad2cc9878ac84f264af441dc764555d5ef0444a3ddfee8399db0cabe3fc926a	ThreatFox	2026-11-06	family=unknown_loader | confidence=85% threat=payload
+6e4b4d8070ed15c79e00d0867703c5751b82293cce3a3bbd66edb70545fc86c8	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+093a099038e066bf006d64d33c8175f94cca83040f697a37faacc69b8ea1648d	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+c34753a13632e6087922f5ffce195afc4029d6b8ef5bb260293f779d91a2b880	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+317229a49ee157f3ef0484611d04f50613c92a89d8b81d30a1935837997d9558	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+fae99d484cfa9d945226e9199177eba1db9e0dc4871e41c6d3b81602e6c78929	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+35de9378b874382147184f83e5c2e0084034f93480942b439745e56eb83bcac0	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+787a754c212069ad54f1704a3044cae7c256c90bb9c4a26e16dc72f11239c3e8	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+9f383f8733e3f37a4d69873e79883c889777589491b48e92a0d91090b8f4b3d2	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+222a257d2add0bfcc758e1fc9f366be3bee0a246b0d84ba868c74fc513189d92	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+245c7195006e05f0c86b36838ea69a44d0a4aff0fdd9ed9233ef65095ea5d0be	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+7e736cafac46f1b5f1568a6b630b32fb00569ddf4964d4e68045b075133771bd	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+0f410255a190a2086db438fbc77e185a1732eecbf5021bad1489d3c2d902d42d	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+4dd5292bcbed2646a93b7a92007d11b07ee909ea77eec4444fe7a15d2a2535dd	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+a6ee377a9bf40c0c5307e8bc74356ee7c853c3b39685102f5b1ed9ab71b8a955	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+3617df36fe5cf03e842acf80793a3edc14f320e1e9c14d7cf5aefeebb93c5366	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+cc31cb8a31ca28fbf46eaf51167afed2082c852c601da66679bde4e9ee1c81ae	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+38e800b853ec16d3579ee735afef29c64de6e354f60fbb3a6d53feaec6977c11	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+cc8cb6e673fe109deb285f7c98c0b5ba2ef69e2fe5116f2ea1e6fbbf650598b9	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+de8d7225c277fd64e374be885bf8199600ed8ce59c83cefc65a9a80134516ee3	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+d1713932e0f63b05e008b0bf9120446283c649be20b394448152cffd1114056a	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+dcb97a09d5f6b020608eb678d4f81f71fdb96e67dea06cfb54feec21104300bd	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+5e3b378170e9f8305aefa9b70c4cb984cbe09fbb556a3abb9ce3c96008958c4c	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+6893f3b0967e6b030ac327d4d3e58de1a730e28f48ef771c2dceadf1f1b26bea	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+c68a0ff0e9ce6e6411804b381cafd93ba040f8dee77373d7dc78351046e01938	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+50dfee9648f790a552360c99325e3e0bf0af06ec1fee906b04ba7e9f7712225d	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+e982b44116a5cabe35c047ff09b62253bbe74f4df1165e96be367528a7e4ee4b	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+d731dcac3d6cb560f4453356badb93aed37b7e35b68ae43d29a492b2ce72852a	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+22573753f1a55f769b188ad59f0f8ceabf016394a9714aeeba3048dcd5f93a5f	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+04cce8b06d88c8a71ba09106c99b7207239d021b628beadaf88465b9db177e37	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+ad42a6c61b1a7baccef940b1dc60c355b40dadf9cc176153c9527a825c5b83f4	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+a0f83d06f22129d6b9a63dd87e4839c00f1e49f9df39b10fedf3993071b39cfc	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+90a92480c0f0bbb9ac1dc76e70423321f0d429649a38ab0877ff1c0bacadb20b	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+1d62ecce0816900adb33c311f8f6893bdaee65210046d56604ead40dab85f7a0	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+cde7d3ed3478a1a99e5a7552902ad4dc4d66f9b746e8ec41c4d087e634406bad	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+4da7c81da626da9707286d3194abec4bd238851d672e4ae59eb21dfb2c5b5bdb	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+0486f4bb5975f34faefed0cab99af99b3ed9ab484949e4458275d8e411a400a7	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+5a26fec81940eaf4f2c8afd61da185a75eb1a5ace95001ba84ec721391be8839	ThreatFox	2026-11-06	family=unknown_loader | confidence=100% threat=payload
+c3fb9de8d54106ca90ceb2af62c82774cb5b0ec4597e80791efe89ea78e7ae20	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+f7f93a9b8c32775120a03ce659b0afaae728197b5daeffd8273e3f4e1ae8f0f2	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+f5636dfcdc1749216a96b299afd249eb1f945dc24b47c7d59f17806b0e209fe2	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+1b1160929cf38ef8c4e2f614dcb262be90f48ac7242d4dca7f94cebf7c73ee19	ThreatFox	2026-11-06	family=unknown_loader | confidence=85% threat=payload
+22be9cb39c5c9e0f227b747ed45fc175bdb2d2e1613e29f15db61c4f9943e8d6	ThreatFox	2026-11-06	family=unknown_loader | confidence=85% threat=payload
+9d35b5203a564cdafe739af5cb5486e6fab09a7f93d932e5209a25f69b8024e0	ThreatFox	2026-11-06	family=unknown_loader | confidence=85% threat=payload
+039910009130c76f55f7fb165f52227c1d3d3905c5abdc32b0978eaaa0ce71b6	ThreatFox	2026-11-06	family=elf.ngioweb | confidence=90% threat=payload
+0927e4905d782c4cc8f48696b2698d77f4c588fd1ef5001ef2ebdceb834f3294	ThreatFox	2026-11-06	family=elf.ngioweb | confidence=90% threat=payload
+ce176ff43c56ef079d970fd02cc490f67c109c7eebf8fc500e514431e92e2a47	ThreatFox	2026-11-06	family=elf.bashlite | confidence=90% threat=payload
+5bf2f3c9e7d3fa1beb008c249770fc1d9fcdd86e9491139ce4bc9de898b4b0c9	ThreatFox	2026-11-06	family=elf.ngioweb | confidence=90% threat=payload
+60494e23258a902387b64f7a201acf9d3190521504ac6143f16593aac181a9a4	ThreatFox	2026-11-06	family=elf.mirai | confidence=90% threat=payload
+1c74be952cebc15bea8151df49e10c39609714299da6b99052cf8a74a1887c47	ThreatFox	2026-11-06	family=elf.mirai | confidence=90% threat=payload
+417b76f927e8ca957d6a66d1c81d1c0955b674816ad330ad047d692019fdf35d	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+0550b5e7a14ec999354da07aa261fccb32ce13154dfb5244b0bd93ee9358951c	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+780879a92767511cd25494833abba55419d7a934e31b95fa876834b742dea0f7	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+64f0c43001f9652856e8176dcf7b171338070d211b09bec7a473a64166cba6ad	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+99c107261863f690d8719ed36c54ae59b2ddf9f08f4d1df52a18446cfdb29d73	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+cb6f9b645709da3cb6a525bbba41d3c5d3e7b13925299ee1ff32d5212226176e	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+b93af6a139672b0c5e8c53cd8a85a202b7c22f1d7982d8f638ea7193fd8deb06	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+cd86aee4882b93ccd3e993b9d8f12bd372640ed765893fcab27c5919d2f154d1	ThreatFox	2026-11-06	family=osx.macsync | confidence=100% threat=payload
+6018de13f036b09d42318dccc5bfd95e36556cdb8312d90634dfdcf1c6941463	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+681ce4fda77d86f4d5f031276fbbabba3f898dbfa711a85388d11b3e87ac5e3a	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+959b5544a96f681b9be219af2be96b1845c1be6f2e4b3e27cbbb1f14bb024988	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+c0fa4289e3c01babd29571d3a5a465bc8daf2a1a38ee3ee4903202a4a204320a	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+6a237c5d6e11e6f88a2d44d4b2facd0d72508a359a92bea25b9cf89a77aa589a	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+315ce6f25682da8a982b086ad49790dade7533654f20dd2a4f5ca2786955d65e	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+f324648fa3af304df9722fee0e377f9ca765a4fdee4256f04f8cf1108888bf69	ThreatFox	2026-11-06	family=elf.mirai | confidence=90% threat=payload
+00e1686d6bef3a53ac30b05b7a769d6b4209333d597be63828ccbe54f785b2da	ThreatFox	2026-11-06	family=elf.mirai | confidence=90% threat=payload
+a9a0525a0b826a517b19782d28ded1c0644b354386b007bea8f467e6ab80eb2d	ThreatFox	2026-11-06	family=elf.mirai | confidence=90% threat=payload
+c6170759f9d3b12082a496777dc6d42e08446d1b9a7a70f92b687271e2a0b807	ThreatFox	2026-11-06	family=elf.mirai | confidence=90% threat=payload
+4bdc7c1dee5228720e6f91d1ed0bb9202a28abccfb33560ead1a8af57c3331f4	ThreatFox	2026-11-06	family=elf.mirai | confidence=90% threat=payload
+e4d185f66c8d719d3fc79154f6b362cbb53a37c0174ff2b2ec2a7b5a7f892f61	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+7254f5510c449b0f9bdb09bb039555f1fb288a6e5b49d49e1bbc61b89e3acb47	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+08a2b394571913adc35899e14baf28542f30fa7d94749207d8468d75ec4837f2	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+28210b971d1b75f87dd9e0a3f38340113d77580d23448cbe74b0668ba93e2e34	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+1fc5198fa793f9616acebe41d85b7d1c7bf67d15ba67aa7cbb04ebc0425c7ebf	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+cb22c1aaaed0f612465f85ba2b22e78bae9c7a9b8e19316124b93a66046a7396	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+00ce708867123682e2bfb8e8d8b3552434dc7019b50dbd25552a6231f682dadf	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+283e1e8ff8b405cf81501f23b982b06caaf2dc6a30a7e8c6d7fe1b5af830fe39	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+9ff40d15cb2ecfe0d9b95957d811899dda7302a7810a59a459a0f86e1294fc08	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+06fce7f92b75ddd22ea692b4fb2b302af5b63333a509be212e6d12f205d013b0	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+4c36cc5523d18bdc64bd883259ecac3b7c968ff450f111ec24cae5410e932215	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+8d0510c4da4e9b2eac15b636c4834f88d01b934f7a75f5259daca761a9ee6749	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+baa76eca32ef91ece2c0f013489256c8b5dfadb169cb9387c2c6a3a0cddb4b4c	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+6be2613e68fcbcb38c2ae90af004beff2bffbb59f713f94fe6d0df4ce92e7e52	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+6fff259607e51b15c79cf6fecd2993aa55c1904fde27feb6c9e79e35f0f38076	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+ce3f3ed63b1cf4d5ef70ac6d3c8d04bb657f3824eac66c71a15a263777a912a3	ThreatFox	2026-11-06	family=unknown_stealer | confidence=75% threat=payload
+efb78ab3cb550a5d46567d3a09a561c84bb8f213c984c777475214f4dac43f05	ThreatFox	2026-11-06	family=unknown_stealer | confidence=75% threat=payload
+caf7e4cc84b671d233027cdfbbec109a5b2119fa98c9b8e37ba9e9fb75e39615	ThreatFox	2026-11-06	family=unknown_stealer | confidence=75% threat=payload
+e41923f6dd9517b428cd03bf9a8f088d8dfa39def2b8fc94b804df0e4e850f41	ThreatFox	2026-11-06	family=win.warden_stealer | confidence=75% threat=payload
+5e05c0492fbff1c2a04fd1ad01285df7a6314a887bfe6f242cbe267f386999ee	ThreatFox	2026-11-06	family=win.warden_stealer | confidence=75% threat=payload
+89fd1f81c89a838f8e60ba09130898bed613c1d604496cba1fb1609e757869f9	ThreatFox	2026-11-06	family=win.warden_stealer | confidence=75% threat=payload
+91426fa4f706fa02117c2c307b5019a64295884c92d08c245aa25fe7549c1772	ThreatFox	2026-11-06	family=unknown_loader | confidence=85% threat=payload
+8b833b9e0a18472c3aec15d96687b3d9bf02cdf98047fb20e6a47dbccb6878ea	ThreatFox	2026-11-06	family=elf.mirai | confidence=90% threat=payload
+d37dd5156a0bfdfe14c7feff9d749c07c038be631d66ff077348d5b837014452	ThreatFox	2026-11-06	family=elf.mirai | confidence=90% threat=payload
+f1c951eae36734e80004ff1db66bf08c940aa745e087893def2cc5d7cbe0f99f	ThreatFox	2026-11-06	family=elf.mirai | confidence=90% threat=payload
+6d0b4a27589401a44b728b516096e54cec88087c70eb3b094bb9da3047b10160	ThreatFox	2026-11-06	family=elf.mirai | confidence=90% threat=payload
+c480acac7cc6e4dd9c50a7ead9366d7a54aa4cacaa40a68ea25fbf6e8af71c4d	ThreatFox	2026-11-06	family=elf.mirai | confidence=90% threat=payload
+7fb6df208fa6bf813283f27c729e3079e0f07fd2e15816b4c7eb7524a47ee9b0	ThreatFox	2026-11-06	family=elf.mirai | confidence=90% threat=payload
+e2b6a881ceb4b3c17a2ac61abcdbe573688e67e6f0541b768dad52c070df238a	ThreatFox	2026-11-06	family=elf.mirai | confidence=90% threat=payload
+e8627043c6d874b0d2585d0fe39bc51b1e07671a13bf19435c0c49dbcb96dcfd	ThreatFox	2026-11-06	family=elf.mirai | confidence=90% threat=payload
+21afce09a9aec231210cdf338177e4fa14dbe8671d238bf8a0619e7270da7282	ThreatFox	2026-11-06	family=elf.mirai | confidence=90% threat=payload
+d708d30529bdde84f46cd60711753e7aceb276a34eb265525f2ba1a9b1362031	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+ca15ef004ca0b4ab23c76ed5d9e47f7fef73d6633a2cb2cb1e52b3ae373d13fc	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+744eaf75996c74c2c434bbde75288ab57ae8858129d4c0b314f5dfe596682990	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+ef1c40e8bca817a3849062b064f6bb64b5ae146831ac64771e8df56111dfe2ec	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+51191cc9eeeb8e647851cecf5c6d2f4fb53b8b0465a97d24ea7e469963853114	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+c1f28858bb2786e7e9b1611bdf1ad6317977cb2c304414fe6f12e3ac6c8d97e6	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+b27ed7098a0a1bdd78b4bbf03dff9a69e90f341b1930ab9330687813b990257b	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+ef6a8d3e1d1814779dab8a391e0f405afc6774f7e193cf597c97b63181e0fa46	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+60684fd9847d1dc881b17c74f4c6d219f18ca2bcbc8836118d7de216f41b39dc	ThreatFox	2026-11-06	family=osx.amos | confidence=100% threat=payload
+870e679d592adb9ca80ffc61582d6ced9e6ce522a5623e031b9d69f083239cf8	MalwareBazaar	2026-11-07	family=Mirai | filetype=elf md5=704094e04e5ecc547626f8b8c99b734b sha1=b3dbea488f1b041324ebc96166cee7ec6cae275e
+4ec220894d9c50b012c95d8b3842dfab945ff161563979419ace88db4166dd72	MalwareBazaar	2026-11-07	family=Loki | filetype=exe md5=a18dab00e1356cede97ced4493640d01 sha1=af58c8555d30dd80129a796c3e6388358eba0b12
+8c7994818bf877418e701f3d8aa4e1cbb24d9031e8f36c577c3541193baf96df	MalwareBazaar	2026-11-07	family=njrat | filetype=exe md5=98cee2774e0c79c0b39eac01817d9457 sha1=0bbfdc4f56303b4aae4da03e531cb6e58e921d25
+4392cb9d92a4912687f12a462b346e7f0b4316f1ce9f31be4d8b0cb383e07b16	MalwareBazaar	2026-11-07	family=Mirai | filetype=sh md5=5302d938682841020fbbb5c096bdf5a2 sha1=875b89eae44e3452b608177cb5d58abb1bd3d8be
+796d79206eb13e8f7ea9e9b2d0b6e2054ae2f7792fa8571bd53671e398ae6531	MalwareBazaar	2026-11-07	family=Mirai | filetype=elf md5=3118bd1da80c0300b283bf48eb119a7e sha1=d717f007bd288cbf683f5af11e14bc6dba679118
+67219af1d55f4d943632a26b7f072709f3334f58424808d1e217ddb06b3a35d1	MalwareBazaar	2026-11-07	family=Mirai | filetype=elf md5=5dbc2f9afd5375658b26c6a982d44796 sha1=6917148d4b405ac8870f60d483d5369c8934f32a
+aa423ec2fbdb1835e1ad69c81db4d6c1b710faa27c192ac77e55d4f74a47325d	MalwareBazaar	2026-11-07	family=Mirai | filetype=elf md5=07c11099162459a85dcfd03741a1aa88 sha1=c08ec219333e27c1356d800b421ce7e1d9489ec2
+f61e7fc8b9e8243577bdc0a601fb22f3	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+bb40eaaf83450d6cd32abca2fa1cc3aea7beeb43	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+253653f645b9c89e7e7e7e967926b0cf0f9adda98ac9d6ba4aa1eb354d80ab9d	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+ef76e927aea9eca4df389e621503e824	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+d67c9ca574044a19f26483c93261fe6ab1ea1b90	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+0c0349e3754e7b45690dfacab2c91c8727677e95d832eea1f4ff62a6203bb196	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+147852c1d363c57fedc8c89b2ee6713951dccfd2b06442b749e8e088261b72f2	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+17c125540d41a382946c3eaceaf29535ce67a52ef1775db4bb0a4289fec7f303	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+19f1b7d054470801c4aaff25e73e231e6095b2c5e5b813f5af37f0a36bc66dd6	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+1d9f0eaa053cfdd38bfbafb922035d71f81c32bf1648f2668f7aa556b65da892	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+21811c2e54bb5595321f2feaf7e1075f317cd72039fb55294d3cb8ddcc6dfb7a	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+318677fd9169908af838f6ec338bf4b7230b8d3e0ddc61913a2ecbf6964b7bc6	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+382b82f1bb1360f4df423b6e8fe90c20e5ce6c89065a439ac9c89c72a1b2f736	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+3b07d663b85dd21f0780bc0208eb44bb99c0cf2ef14f2b3afa6ab4f1ab23c14a	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+553883190491c4664e4701fc393c71bbfb9ca1c35e206612f1194d7b21e5d0df	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+5e113fea6eeeb888fec38feef5bfe2033ebe5fee49b03a582964e6424148a4ed	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+73a00ffadce2b5edf80162e874335a772ed88dcc1fdba2612c7721094c210e38	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+836e93a79361eb82a1c3758b79474ba5bb3546ea1234cc6002943b632e43ce5d	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+84b436dede385f93b8bd0ebadd2b2dd3edf95f20da3e75b2f36bde7233ad0b85	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+8619090392a4c483038f7de31ecfdc2d4689f61c305aaddbae8c89105cb5bd1a	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+96101754e96bc42949f3aefb9d0a3955b35d2c26ff604b604c29e98dc2aabb8a	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+972fe9edb13da76113047e6db39bcc44749aaeec1be107c975649f0c413a3067	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+ae9d67418d0984629c4ff69293eac20391d23bc77b683670da2ae00c676f6b43	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+cb9db2b44476e160fdae0e840d62e7c5c0b07dc56d26d17acf82412e446274ca	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+db5e778414910445ace33cf3cc7cc9bc051a8bf8fb99990aa965d425e73d2e55	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+e2787ae4cd96b3884947ae7a5fe64f0f3224f212a5e7944b91cc4ec58ef883ec	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+f1150680a69ca5e28f229e51c7b7bc9afa34f3e3a4ba424e3571b152009104b0	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+f959639d4b8fe0f40cec05cfdf32e7ffbbd8026104aee287db1340a85690dc59	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+50f2ff7d96392fcfe6ed57a1ff71ae9c87a1346ff3694173a255b67e9ff8a208	OTX	2026-11-06	family=Remcos | pulse='Remcos RAT' pulse_id=6aedb6df481d077141e5e5e4
+abf8ada022fce92c24e0aead4f1b1ae8991002130bbbc4335f3381972683b400	OTX	2026-11-06	family=Remcos | pulse='Remcos RAT' pulse_id=6aedb6df481d077141e5e5e4
+bedd2297739632da8ee470367295fe976e55be74d628dcaee7fa98121ee530f1	OTX	2026-11-05	family=Agent Tesla - S0331 | pulse='Email threat landscape: Q3 2026 trends and insights' pulse_id=6aeceaf8cfe0e0287c9a54a1
+ce832350c165522db03db040ca07917976d1a91f97e7016ea36dcc6b53e0eb13	OTX	2026-11-05	family=Agent Tesla - S0331 | pulse='Email threat landscape: Q3 2026 trends and insights' pulse_id=6aeceaf8cfe0e0287c9a54a1
+f8b49891d15a578e4de28fecf99d0d78db6b2c3da81cd51c931b8d128e60c187	OTX	2026-11-05	family=Agent Tesla - S0331 | pulse='Email threat landscape: Q3 2026 trends and insights' pulse_id=6aeceaf8cfe0e0287c9a54a1
+c438b9a3bb67e2c10eff0d01513422dc17dce7c5508303a680e46f3dcec886ef	OTX	2026-11-05	family=Agent Tesla - S0331 | pulse='Email threat landscape: Q3 2026 trends and insights' pulse_id=6aeceaf8cfe0e0287c9a54a1
+72966b30bbd87e42c683d2ac7a42bb62021fc14389d508551432ffd70d62f33a	OTX	2026-11-05	family=Agent Tesla - S0331 | pulse='Email threat landscape: Q3 2026 trends and insights' pulse_id=6aeceaf8cfe0e0287c9a54a1
+1f30ccae6ac38967a3a1fa7785f809a0	OTX	2026-11-05	family=Agent Tesla - S0331 | pulse='Email threat landscape: Q3 2026 trends and insights' pulse_id=6aeceaf8cfe0e0287c9a54a1
+845d49cfc0921954677a203424408243	OTX	2026-11-05	family=Agent Tesla - S0331 | pulse='Email threat landscape: Q3 2026 trends and insights' pulse_id=6aeceaf8cfe0e0287c9a54a1
+9445ee720ebdfea79183047b75fc842e	OTX	2026-11-05	family=Agent Tesla - S0331 | pulse='Email threat landscape: Q3 2026 trends and insights' pulse_id=6aeceaf8cfe0e0287c9a54a1
+e24bf6ff084d5bac9cd27e80e98eee51	OTX	2026-11-05	family=Agent Tesla - S0331 | pulse='Email threat landscape: Q3 2026 trends and insights' pulse_id=6aeceaf8cfe0e0287c9a54a1
+f7621e4df829e84fc010c7b0d03a8a35	OTX	2026-11-05	family=Agent Tesla - S0331 | pulse='Email threat landscape: Q3 2026 trends and insights' pulse_id=6aeceaf8cfe0e0287c9a54a1
+03959ab2b35179a8d3dca1d3fc64e189d72a3f9e	OTX	2026-11-05	family=Agent Tesla - S0331 | pulse='Email threat landscape: Q3 2026 trends and insights' pulse_id=6aeceaf8cfe0e0287c9a54a1
+11ad5f36f8ae657b5d7b8cc61708de8540abed1c	OTX	2026-11-05	family=Agent Tesla - S0331 | pulse='Email threat landscape: Q3 2026 trends and insights' pulse_id=6aeceaf8cfe0e0287c9a54a1
+8bf4f5ddd4934a056bc3d9b53a9d935f2d0e6662	OTX	2026-11-05	family=Agent Tesla - S0331 | pulse='Email threat landscape: Q3 2026 trends and insights' pulse_id=6aeceaf8cfe0e0287c9a54a1
+94a28ba55274835cfc35da7d5d34e8c4c13a41b6	OTX	2026-11-05	family=Agent Tesla - S0331 | pulse='Email threat landscape: Q3 2026 trends and insights' pulse_id=6aeceaf8cfe0e0287c9a54a1
+b0341648ba0c7b259535a4d9a82e03bf0e73d5cb	OTX	2026-11-05	family=Agent Tesla - S0331 | pulse='Email threat landscape: Q3 2026 trends and insights' pulse_id=6aeceaf8cfe0e0287c9a54a1

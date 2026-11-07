@@ -15217,3 +15217,99 @@
 62.60.226.50	OTX	2026-11-05	family=Phexia | pulse='Inside Phexia: A macOS malware delivered through ClickFix' pulse_id=6aec6059b2260af9dd811d39
 89.126.250.172	OTX	2026-11-05	family=K2F | pulse='Summary of Malicious Program Distribution via Goddess of Victory: NIKKE PC Launcher' pulse_id=6aec3e073e76c608aeccf05d
 89.127.233.127	OTX	2026-11-05	family=K2F | pulse='Summary of Malicious Program Distribution via Goddess of Victory: NIKKE PC Launcher' pulse_id=6aec3e073e76c608aeccf05d
+104.143.218.57:5656	ThreatFox	2026-11-07	family=win.njrat | confidence=100% threat=botnet_cc
+122.234.227.242:8084	ThreatFox	2026-11-07	family=win.vshell | confidence=100% threat=botnet_cc
+119.45.10.40:8080	ThreatFox	2026-11-07	family=win.vshell | confidence=100% threat=botnet_cc
+195.15.201.210:443	ThreatFox	2026-11-07	family=win.vidar | confidence=100% threat=botnet_cc
+120.48.18.226:50055	ThreatFox	2026-11-07	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+43.242.33.64:25418	ThreatFox	2026-11-07	family=win.vshell | confidence=100% threat=botnet_cc
+134.122.173.96:62841	ThreatFox	2026-11-07	family=win.valley_rat | confidence=100% threat=botnet_cc
+203.91.74.4:8888	ThreatFox	2026-11-07	family=win.valley_rat | confidence=100% threat=botnet_cc
+203.91.74.4:6666	ThreatFox	2026-11-07	family=win.valley_rat | confidence=100% threat=botnet_cc
+175.27.156.139:443	ThreatFox	2026-11-07	family=win.vshell | confidence=100% threat=botnet_cc
+95.40.247.230:8080	ThreatFox	2026-11-07	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+81.70.21.248:8084	ThreatFox	2026-11-07	family=win.vshell | confidence=100% threat=botnet_cc
+188.190.6.25:8080	ThreatFox	2026-11-07	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+95.40.247.230:80	ThreatFox	2026-11-07	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+196.75.50.195:2222	ThreatFox	2026-11-07	family=win.meterpreter | confidence=50% threat=botnet_cc
+117.72.62.70:10010	ThreatFox	2026-11-07	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+77.232.42.5:443	ThreatFox	2026-11-06	family=elf.jackskid | confidence=100% threat=botnet_cc
+91.142.77.220:443	ThreatFox	2026-11-06	family=elf.jackskid | confidence=100% threat=botnet_cc
+77.232.36.212:443	ThreatFox	2026-11-06	family=elf.jackskid | confidence=100% threat=botnet_cc
+77.232.36.216:443	ThreatFox	2026-11-06	family=elf.jackskid | confidence=100% threat=botnet_cc
+178.128.20.3:8080	ThreatFox	2026-11-06	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+192.210.193.156:8090	ThreatFox	2026-11-06	family=win.vshell | confidence=100% threat=botnet_cc
+144.172.105.138:15152	ThreatFox	2026-11-06	family=unknown_rat | confidence=75% threat=botnet_cc
+206.119.104.39:80	ThreatFox	2026-11-06	family=win.vshell | confidence=100% threat=botnet_cc
+157.137.227.61:8082	ThreatFox	2026-11-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+51.210.65.37:1224	ThreatFox	2026-11-06	family=js.beavertail | confidence=100% threat=botnet_cc
+94.154.32.129:56001	ThreatFox	2026-11-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+52.128.230.18:443	ThreatFox	2026-11-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+52.128.230.21:443	ThreatFox	2026-11-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+46.246.84.30:2703	ThreatFox	2026-11-06	family=win.asyncrat | confidence=75% threat=botnet_cc
+45.201.47.53:443	ThreatFox	2026-11-06	family=win.danabot | confidence=75% threat=botnet_cc
+45.201.47.55:443	ThreatFox	2026-11-06	family=win.danabot | confidence=75% threat=botnet_cc
+38.60.214.47:443	ThreatFox	2026-11-06	family=win.havoc | confidence=75% threat=botnet_cc
+202.79.174.183:56002	ThreatFox	2026-11-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+202.79.174.184:56001	ThreatFox	2026-11-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+202.79.174.184:56002	ThreatFox	2026-11-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+202.79.174.184:56003	ThreatFox	2026-11-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+202.79.174.177:56001	ThreatFox	2026-11-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+202.79.174.177:56002	ThreatFox	2026-11-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+202.79.174.177:56003	ThreatFox	2026-11-06	family=win.pure_rat | confidence=75% threat=botnet_cc
+20.121.198.153:8443	ThreatFox	2026-11-06	family=win.havoc | confidence=75% threat=botnet_cc
+156.231.132.27:443	ThreatFox	2026-11-06	family=win.danabot | confidence=75% threat=botnet_cc
+156.231.132.52:443	ThreatFox	2026-11-06	family=win.danabot | confidence=75% threat=botnet_cc
+156.231.162.26:443	ThreatFox	2026-11-06	family=win.danabot | confidence=75% threat=botnet_cc
+156.232.89.27:443	ThreatFox	2026-11-06	family=win.danabot | confidence=75% threat=botnet_cc
+8.136.38.10:8084	ThreatFox	2026-11-06	family=win.vshell | confidence=100% threat=botnet_cc
+128.90.105.171:2086	ThreatFox	2026-11-06	family=win.dcrat | confidence=100% threat=botnet_cc
+101.42.255.92:1080	ThreatFox	2026-11-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+47.101.140.195:8080	ThreatFox	2026-11-06	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+101.42.182.92:60000	ThreatFox	2026-11-06	family=unknown | confidence=100% threat=botnet_cc
+47.101.140.195:80	ThreatFox	2026-11-06	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+47.101.140.195:8090	ThreatFox	2026-11-06	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+47.116.40.77:31337	ThreatFox	2026-11-06	family=win.sliver | confidence=100% threat=botnet_cc
+47.109.183.168:31337	ThreatFox	2026-11-06	family=win.sliver | confidence=100% threat=botnet_cc
+85.193.68.71:24747	ThreatFox	2026-11-06	family=apk.mirax | confidence=75% threat=botnet_cc
+85.193.68.71:32864	ThreatFox	2026-11-06	family=apk.mirax | confidence=75% threat=botnet_cc
+85.193.68.71:58008	ThreatFox	2026-11-06	family=apk.mirax | confidence=75% threat=botnet_cc
+178.16.55.200:32864	ThreatFox	2026-11-06	family=apk.mirax | confidence=75% threat=botnet_cc
+116.62.81.99:31337	ThreatFox	2026-11-06	family=win.sliver | confidence=100% threat=botnet_cc
+101.94.133.75:31337	ThreatFox	2026-11-06	family=win.sliver | confidence=100% threat=botnet_cc
+91.92.43.209:7000	ThreatFox	2026-11-06	family=unknown_stealer | confidence=50% threat=botnet_cc
+91.92.43.209:9443	ThreatFox	2026-11-06	family=unknown_stealer | confidence=50% threat=botnet_cc
+43.198.242.224:31337	ThreatFox	2026-11-06	family=win.sliver | confidence=100% threat=botnet_cc
+36.212.147.39:31337	ThreatFox	2026-11-06	family=win.sliver | confidence=100% threat=botnet_cc
+31.59.152.221:443	ThreatFox	2026-11-06	family=win.pulsar_rat | confidence=75% threat=botnet_cc
+150.241.71.193:1337	ThreatFox	2026-11-06	family=win.pulsar_rat | confidence=75% threat=botnet_cc
+39.105.214.210:31337	ThreatFox	2026-11-06	family=win.sliver | confidence=100% threat=botnet_cc
+47.101.140.195:443	ThreatFox	2026-11-06	family=win.adaptix_c2 | confidence=100% threat=botnet_cc
+43.106.100.120:8080	ThreatFox	2026-11-06	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+139.196.57.120:31337	ThreatFox	2026-11-06	family=win.sliver | confidence=100% threat=botnet_cc
+65.108.207.11:8093	ThreatFox	2026-11-06	family=unknown_stealer | confidence=75% threat=payload_delivery
+124.221.175.211:8088	ThreatFox	2026-11-06	family=win.vshell | confidence=100% threat=botnet_cc
+186.2.163.193	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+186.2.175.158	OTX	2026-11-06	family=Armorsteal | pulse='Armorsteal Unpacked: Breaking Down a Python Malware Kit That Steals Data and Mines Crypto' pulse_id=6aeddff8a8cf552b829954c3
+84.1.34.242	OTX	2026-11-06	family=cve-2026-25085 | pulse='A Dish Served Lukewarm: The Refrigerator Botnet' pulse_id=6aed32c8b1c53b811aaa8bb0
+78.21.151.21	OTX	2026-11-06	family=cve-2026-25085 | pulse='A Dish Served Lukewarm: The Refrigerator Botnet' pulse_id=6aed32c8b1c53b811aaa8bb0
+90.0.156.128	OTX	2026-11-06	family=cve-2026-25085 | pulse='A Dish Served Lukewarm: The Refrigerator Botnet' pulse_id=6aed32c8b1c53b811aaa8bb0
+160.19.119.226	OTX	2026-11-06	family=cve-2026-25085 | pulse='A Dish Served Lukewarm: The Refrigerator Botnet' pulse_id=6aed32c8b1c53b811aaa8bb0
+168.195.122.22	OTX	2026-11-06	family=cve-2026-25085 | pulse='A Dish Served Lukewarm: The Refrigerator Botnet' pulse_id=6aed32c8b1c53b811aaa8bb0
+197.188.223.161	OTX	2026-11-06	family=cve-2026-25085 | pulse='A Dish Served Lukewarm: The Refrigerator Botnet' pulse_id=6aed32c8b1c53b811aaa8bb0
+45.87.53.6	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
+108.165.147.226	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
+45.87.53.10	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
+111.68.4.13	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
+206.187.215.173	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
+154.12.86.207	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
+45.87.53.3	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
+45.87.53.4	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
+45.87.53.14	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
+101.53.80.202	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
+111.68.4.131	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
+45.87.53.34	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
+5.87.53.104	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
+5.87.53.141	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
+5.87.53.44	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
+5.87.53.64	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367

@@ -1,0 +1,35 @@
+title: Network Connection to Device Unlock Infrastructure
+id: 8951d709-67d3-45a5-81e7-5ff905741374
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Device Unlock.
+date: 2026-11-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - device unlock
+    - iphone theft
+    - lookalike domains
+    - malware.device_unlock
+    - phishing kits
+    - smishing
+    - social engineering
+    - telegram marketplace
+    - unlocking tools
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'apple.com-app.lt'
+        - 'apple.connect-app.info'
+        - 'find.my-id.com.es'
+        - 'phone.xuidns.pw'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

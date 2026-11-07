@@ -1,0 +1,33 @@
+title: DNS Query to Device Unlock Domains
+id: b8479930-722b-4e5a-a72a-c1a95c24704b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Device Unlock.
+date: 2026-11-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - device unlock
+    - iphone theft
+    - lookalike domains
+    - malware.device_unlock
+    - phishing kits
+    - smishing
+    - social engineering
+    - telegram marketplace
+    - unlocking tools
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'apple.com-app.lt'
+        - 'apple.connect-app.info'
+        - 'find.my-id.com.es'
+        - 'phone.xuidns.pw'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

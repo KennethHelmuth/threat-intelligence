@@ -1,0 +1,25 @@
+title: Network Connection to Win.Pulsar Rat Infrastructure
+id: d8e04b5e-8607-45bf-b368-b89ad1b9c577
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Pulsar Rat.
+date: 2026-11-07
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.win.pulsar_rat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '31.59.152.221'
+        - '150.241.71.193'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
