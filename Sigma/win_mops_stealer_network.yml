@@ -1,0 +1,28 @@
+title: Network Connection to Win.Mops Stealer Infrastructure
+id: 046f3ae5-7be6-41c7-882d-abedc2aea7a7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Mops Stealer.
+date: 2026-11-08
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - MopsStealer
+    - PluginDex
+    - Websocket
+    - fake-plugin
+    - malware.win.mops_stealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '192.162.199.167'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

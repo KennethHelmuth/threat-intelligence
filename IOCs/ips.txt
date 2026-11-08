@@ -15313,3 +15313,13 @@
 5.87.53.141	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
 5.87.53.44	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
 5.87.53.64	OTX	2026-11-06	family=Cobalt Strike - S0154 | pulse='ARTEX: Agentic Asbestos' pulse_id=6aed89b36eddd48d6b209367
+166.88.90.53:443	ThreatFox	2026-11-08	family=win.vshell | confidence=100% threat=botnet_cc
+123.60.37.114:8888	ThreatFox	2026-11-08	family=win.vshell | confidence=100% threat=botnet_cc
+137.220.205.114:8443	ThreatFox	2026-11-08	family=win.vshell | confidence=100% threat=botnet_cc
+111.170.148.132:6379	ThreatFox	2026-11-08	family=unknown | confidence=100% threat=botnet_cc
+115.190.165.108:55413	ThreatFox	2026-11-08	family=win.cobalt_strike | confidence=75% threat=botnet_cc
+43.242.33.64:25415	ThreatFox	2026-11-08	family=win.vshell | confidence=100% threat=botnet_cc
+211.154.28.214:8080	ThreatFox	2026-11-08	family=win.vshell | confidence=100% threat=botnet_cc
+203.91.77.154:8084	ThreatFox	2026-11-08	family=win.vshell | confidence=100% threat=botnet_cc
+94.156.154.12:80	ThreatFox	2026-11-08	family=win.smartloader | confidence=90% threat=botnet_cc
+192.162.199.167:406	ThreatFox	2026-11-08	family=win.mops_stealer | confidence=75% threat=botnet_cc
