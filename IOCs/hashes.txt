@@ -26511,3 +26511,253 @@ c2a120fa749c3417aaa7bb910cdefe5bfb275b42f9353af7121e113805460545	MalwareBazaar	2
 0d5aef322ca7079a28677982130679767ca73e04f1a3f73904776ef011ff23c2	MalwareBazaar	2026-11-08	family=Mirai | filetype=elf md5=c5cdfbfcb063c88d42abdfe8253540dc sha1=65ec542aca319d2cb62c0115d9bebde80af4828c
 57d947fada8f7084bae6f0f622475e2210fd0e531b7d61e9eeb65adeaf70073c	MalwareBazaar	2026-11-08	family=AsyncRAT | filetype=exe md5=96d34eb93e5d016610e03dd824c36e08 sha1=24a3b0d36ab55d202f25760c44d70bb493057b34
 4a9d478c305d8efc07ff480debdab0af41da4ec7ed7eb2a415278218d089f9e3	MalwareBazaar	2026-11-08	family=Mirai | filetype=elf md5=5366f9977e8bb8ac732b37db07ef9452 sha1=46f34f19f033ad5522daa770d7d089255915b149
+49c507577ab6da5b7210db6eb565116e879f2bc5e9108389840a42a189678166	MalwareBazaar	2026-11-09	filetype=elf md5=599bd49bb25444731119cde919753925 sha1=f1a5a53084c6c4d944e26f9c4a22a060e60bd00f | vt=34/75
+e383cf67a52cb718a83b4f67903acdbcc71f28280df6654b16d23f8609cc3ce3	MalwareBazaar	2026-11-09	filetype=elf md5=f76b1d9491797f4202b51cacc8d8ab80 sha1=c77e31b744d7f7be212766d5e61ab75a59938ade | vt=23/75
+dc4d1a75c2c44d66e201c81c2541be2cc063a3537c8b9004fbbb43ed9f35b5ab	MalwareBazaar	2026-11-09	filetype=elf md5=01431b484a5bbb1c0443459b5f473e91 sha1=7278d0b5254d5eac4dbd8b6f7f865bb27e563c96 | vt=21/75
+a8f05cc72ee6258a432c0b90f2c4810ebed22a26d862f572441cfcbcacdd53b7	MalwareBazaar	2026-11-09	filetype=exe md5=cb1ff5c7d1f84e6ea06d63f139561ffa sha1=7da9655c4f8ee2cd4bcc84f51012ebe5fb5f4326 | vt=18/75
+45ebd4c817c4c50afba5cdf3647ba39d1e37b8677a663dba41a1d6fcfcae97ac	MalwareBazaar	2026-11-09	filetype=elf md5=97f8364ec6a1c8466b87f19dfda3616f sha1=a9f34cb0f8cd103df842c75c0bfaedfef5d52dee | vt=20/75
+4339ae348cd7cedb48768934145ce6c5e7c7f881e691e15da4e8fe871fb4b233	MalwareBazaar	2026-11-09	filetype=elf md5=4ae755145ccee9bb4058b9549b76dff0 sha1=cabe6390bdff56c888168d3bc2be55cdb6b4e2d2 | vt=20/75
+ec31c8679888429f4c42d708b18685990e7e7ce9d180a12b140d4ad576c0a9d9	MalwareBazaar	2026-11-09	filetype=elf md5=893a580db6241bcdddac3873687b9ae6 sha1=106b169d21601c56d8921fb04f747a6ff78baca9 | vt=23/75
+6ad1045cc58f885aaa26a47f12fdb4e3a5006cddbbc2c59a6bd927922fde75a6	MalwareBazaar	2026-11-09	filetype=elf md5=fb127de2f7ac9ad1da2134b0ca8fadce sha1=6b534bc1c5e637fd3c347a86f1ea22f054a66d6d | vt=23/75
+db85c7d5967dfb9232958954f51a278aa94925bd8a15dcf1b27264fa87807712	MalwareBazaar	2026-11-09	filetype=elf md5=8c4d58331d3e3ad6e8934b3f4a891e56 sha1=9a768012b66bf846b8c991112a21caf5083d28a7 | vt=32/75
+b5721421799b7ffc425fbb769d85e55159803d90d0b1370b8b7a3ea0abd4e110	MalwareBazaar	2026-11-09	filetype=elf md5=5bde8103c5372f7b1accbd267a92c699 sha1=1d6cf08d3ffb530aa73c83429a5e0c54a72dd1f5 | vt=20/75
+166eae2e6a49e8d0e80e3c002dd33adc431174b09056611f2bb2f4761d4e1884	MalwareBazaar	2026-11-09	filetype=elf md5=6ce3873e169ee2be8d5a661c3b274d51 sha1=214b4c31e1a37397d1c83ee16db69c6f41dce323 | vt=20/75
+cb810b2d09bd872ac26d9bd57fb939537a0126ff32501b3eb21327ee57e3de64	MalwareBazaar	2026-11-09	filetype=elf md5=0a96c2d90b0b020e3d03a9b6bc00040f sha1=6be0b1fedec1fcfed44b87cd0485835be03e1f7c | vt=23/75
+68ac7b6cb37d7b3ff9411dce5c23dce6a6ff960418938bf123601aca206ca9db	MalwareBazaar	2026-11-09	filetype=sh md5=6163646c3193101bbb4862284b7e549f sha1=c39d7aeebcc1ad4610f47e0f714478cd8a042ba4 | vt=17/75
+889feade72277a6cc03ecbcd7675dc2134143ea03f7f0f25b8c88157d059789d	MalwareBazaar	2026-11-09	filetype=elf md5=49c9f22409584aeb983b0bf0ab5a350b sha1=aaf8e69e0ac204e8c6481db0e34f0d1897115bf8
+750718f121e08f063739082084e446c9a355c74f1665692ca66666a3f42960db	MalwareBazaar	2026-11-09	filetype=elf md5=8b40baca0f38fbad0b9126d2fc184bec sha1=e3b51572ad036ec126345a7123acfdf04fe4296a | vt=23/75
+d0b87ef3486615b0d9374b17d8e1391749e5f2eb8746ffaf2dd49d75eecdfcc6	MalwareBazaar	2026-11-09	filetype=elf md5=d966324c7f53f14b09211f5f9e5b4642 sha1=c56ab072ee6d2ae7d036b7a169080ee4180d7c2a | vt=20/75
+7e6dc71c0f21f9b5d4c656412158114835e561a2f8eed661d118a46518a4990a	MalwareBazaar	2026-11-09	filetype=elf md5=be3f24f7b12bb62690b4be800d55e466 sha1=ff7e920debe6e59daca502f2fa8e7c96ca3c1122 | vt=23/75
+70351fa353c1b5a92d2a2bb51f1264082d4e765ed41804413fcebbd5bdc4c529	MalwareBazaar	2026-11-09	filetype=elf md5=d8da53f841bc034662c0d4b5bf02707e sha1=151223da32981d1313b3160f45033e074c38e8ab | vt=23/75
+f5afb64f3b575c375826391ecf568fbd305c24f3096a7c3c36b5e4b685b42731	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+c646d37c77bb89addd59b9457412fcdb4e0ad7f17158777e2fae106bed10e6e3	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+0fe9d80a3ed01047bcbb0b88af732be67a217d0ba58a97f34a254a39686900fa	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+2f2719dd76e3e76f3428a48d89e06c64032df6b4452766472cfc0e71c2ab6f1f	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+153774f1e605cadaef7bca2a013152e400a1acfc26920a15d550dcea7105af5e	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+aec9e526f3b8f07af42b1d3889fe088056ca1030f3d3737eb63a960798cab15d	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+7fcb48a4b8b2ce27d42baff035d2ae5838bf10a112031d675980cd0e74b3bab8	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+ec8201026b7c08b5933ad5064bc77b564eee9d6f4401e7181b9ffc087c05e12c	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+2b7997bc774bdcb5ecbd1102f6d9859ecec622c8452f5007200bb30cde9acb05	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+34da59b8f33266d4487078e51bc94f6cb40d8db9004c744aaf2a101326d157c6	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+10a6723b5c9bb770178748d9475dd8696d2254ad09bc67b7a20e1c9b8e75eda9	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+ead75e6cafa4c4b8714bbf1ac404cf7a909334c596b5b6b5c8646490961d251c	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+e691f315af5db9aba9a5d0057d57bd69aaaf0aa70827c39ad2b1110c8712d159	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+94db44dd02356ecd82dce8495efa97f491c99a895dc69dcbda88df321f8807ef	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+927b7b893c021429295369daceff6d8350518fc56520c3efa43c89f068eb53d1	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+9e67972bae2e7d1d7ae2af89d5ff41105f9c90235d648b6aec1db2cb8968d901	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+6e160e61fe21adc42b364e8aae8c3abe9253f8a14b1aafd523222e3808d74935	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+ee96605d446fcdb0f0a3a062c4d760a279f1d0282a1d615971d91a9c33b67dbf	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+38d2106d8f60c1ffd0017dd5feb8f57c08d2cfd847c55aee5b8b201c26a342d7	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+ecb03b50e67349d94c0b34220c8aba36119afd63344a286762c4e42f849e5390	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+400a0fe55efbecdb75b50b39980ad06eb06f8c5d5fb9942829a4d26b4b76cdcd	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+3ca014d70858412f16361c2aaf30e625a311879d81fdef3f514ea40c3f5c8af4	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+880108877b15a64d31a95ed61e524dca74d27996bce5e86ee297387b8dafc45e	ThreatFox	2026-11-09	family=elf.mirai | confidence=100% threat=payload
+22b2480d616b8d6dd8170b49cf54b06707a5aae7976a60d6a989b0fae2d9ba6c	ThreatFox	2026-11-09	family=elf.mirai | confidence=100% threat=payload
+b2e0c16551efb3ca1ae4af2445ff1b9d0d73690598661e016e614ad86d344f9d	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+ffbbec24f72871aa5330bb5efaf8c7940b2039938b0b3ed9fb777f16d26a62c5	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+b8d278994baca87e66c3ce302af1966586dc2fd1f6bb589b377275f94508e81e	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+c32eb8fd3669e36ec980c71edc090502a274e1aa0cf5798dcd654f6d64f72945	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+5a83a87034d92b582a9ad33cfdb588347bfd21bb04ca01790667f7e8414826c8	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+948b0c27fc365d3817842c4fea32e08f12704a006f3c01ff5c976968230f2c17	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+1a38d8294d6011755d62c6e870539acf8f5a467d881687e31a275429aa4d7da5	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+37cff0ea5911aa039076b26c6d58e649e5d5624cd974401939e8ec69f3f66ebb	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+0793de54e5a1a51515f1cfa6d513fdf64de9fe78a3c2e4a60f7d06ffe46d1905	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+acb3f2879a7213122cd9afeca006aa53126ca48f2cab4ef368eae73cc72bc1d9	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+68a9cd3b969d4d0ca043c6af4c19f00ae715b2aef50330e0c08a36228e799937	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+b9090e4aee18318b7054b5fab55641f2c2c6658aed28cabc732bb45755311192	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+48ca72aebf41ff229188da1161b136a2864ee9d89ad704f2d41be2e2d2840ecd	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+11c2361eadc2f8dbba406cd05ac1de565cba44942bb9c87657062d4ba67f4a9e	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+f7f9c13f90db1029abd98b940a92031354ff99439819add2868e0cfe8be9a444	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+70f2378d0de3c92052e1b38fbf9f30947ad01825751c394c81270bb6c1b1cecc	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+5c98cef0ea6402ae5085c197ca1dde72cd8e50ece172eac97061d859f2a0cec1	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+6d6e2e19079b6da86f5227276457f4ca401ba66d45bbd2e8dce4cc82a91ec4e6	ThreatFox	2026-11-09	family=win.vshell | confidence=95% threat=payload
+02659fa6ca74b7f9af3303c9f45db36694bebfecae949184b56640ebc85ccc5e	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+098c31561a2d9fba9d0e7b2cc27401db2b08be7e88c61d9efd6bb443d61c6385	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+241687cdffbf8104e5fce34577477c00e2f7fd4dfd6f2ce8fc7c09000ccd4959	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+a8e96c6efb845d24703554b0e33af7be78cbd0669639d1e011dda2c2bb333f68	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+9f121a991915ac7a91e8d11c2dc64d387f14aaf9b994b2675e155ea5afc375a3	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+21965f1474ba3c4e43e29ee8fd941475762b9f108771a7bcc7c8d56f728eb25b	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+c68fae31d7da6359a2a1748da754d4fee0b7f47711f6d174ea614902e6d262f2	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+1788e8b6ac294b0b3deb9607e4dff1c3f436d8f0e0d01f174dd5b5388e624eef	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+f8e6c24d31c9b7085a082f15232d1ea67e6d731ff55c79228401aa499b68f498	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+fe7516b72ca5ee692b976b911d931324a07cd298dd162fc6e4ffca21461d6331	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+059ad32d837408eecdb8c64f5493c282443d8152b6c5befc532fcb70fcf32630	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+33d59a58d41165e683f1c350f9f7f12cdabb2f1a0d065d90b7abd8e12f4fe9b4	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+1887a20fe13133d04214b27f943f4090bc2b8e8dd367407ca90f593332f7db80	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+a89492bef48325bb928057742df991c64e7d506459d1fb9a82541327f91bef34	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+24ebb6c99d393e9de3d3e4b38ba5601e0a2a51a32f536fb88dc7327dbedf4869	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+b22881119eb79c879d3dc98a3b8667a6209ce5fbddbd985b0e19effa82d8641f	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+d04f48531b23798dcd0ce0951af57999a7b2fc375ff0e3175a48b3db221d1816	ThreatFox	2026-11-09	family=elf.mirai | confidence=100% threat=payload
+46cef6940a9fb48afb6079c279b443e5e697b79345b843f4d63e49352fbbd3b6	ThreatFox	2026-11-09	family=elf.mirai | confidence=100% threat=payload
+043de811bce84c633303ecebae84dcffb417de4053cf9214dcf02817308b2b88	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+20c8dce0db3378ae982b7dd39322a5e3c70f47eb3fb4955071e50b5c272acb2c	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+69093531dac5807dd8420c44cd0abe18d606e7477da0971b0b0c00547b6320be	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+e6e7eb01820a187a57cc39fd456ebbf89af0e3b047e00f6206a32ea24d4b5b44	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+bddb918cd262dfab2e6e76734bad4ec6c26abb134efe51fecbcaa24fc26737e9	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+282ae3fa1ea139f7cc5f832dffada8ec38fb04b4caf4171e9bb53f002a3342dd	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+8662f69aea9f9743145e0d08649febdb48dbceff64059443411a1598b56b4689	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+5d01a0214afd7f775421de536773f639835e7d8c6226010ef1433d41222f890a	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+a544f7eb27892c6e3bb11065174e9db1e3b3c1341ab095ab07b7a50242a52f50	ThreatFox	2026-11-09	family=elf.mirai | confidence=100% threat=payload
+1db8bc9d1d32c4625fbf44b6a509848a893c3ec59ea88e8c485bf739b7ffd87e	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+ea1daa545fb2fb870b0bedc02a9bf2852a91d7637148d091e2eebc5a5f05d1f8	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+24d43e1466dc17d5f16f9639280cd215e17d64748f615bd48dbf6253db88d525	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+2b039c60c6f5d98a2da9daa57afad54e354758151cc25c11ff9e3a44429608e7	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+602d8cb16643c6cc3dbe620759c82d58a70218d213f46b00274f13f46265a915	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+d0479a0cadeac06278771e9ac4264de126ac65a872c9778d8a47d8f6100f32c0	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+f29ef950f9a1ecb1f808ed10a6992e982de7c174738c28c5a373c48c58c0fd03	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+1312a77504f869b13e4e0801d0489376a3f48e3f88d6f0bb5cd2f7e6682bdb17	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+a58ee4993b18b8994e0ba68ae1b33bd14d655ee9feb933834bf65be543ec533c	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+05a16f6043f6e18df52a91570d331adba71af5196bbeeaad4c82ad7fd57d0e6a	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+479a45d8dd29dfe37761ca0abe27702bb7732fa6c10d9aaa7a6a85d51c9bcfd9	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+68593d826ddcb4e51321a6f923d25a5f0d4e76e3d4258f1374e401010326d824	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+cd5001711b6e2dae982022218ac6660244ee023c7fc2215a1d3683b6852a91bb	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+102b2efc926d1862e71f4b9a580f3cbd39fb50f465a2e2f50877681a04183251	ThreatFox	2026-11-09	family=win.asyncrat | confidence=95% threat=payload
+053fa0de75620861379f9dde8be711f1760f21e09701629d27cf6c3ce0d054e3	ThreatFox	2026-11-09	family=win.asyncrat | confidence=95% threat=payload
+3d04c183d179b06f0a0e7b20fbefeef0406db487bb28f947a9cb865b8217d7af	ThreatFox	2026-11-09	family=win.coinminer | confidence=75% threat=payload
+194cdb4e4f06d5d427ed9d9e35aa6ca85a3019f1e513d8a23d2d2467659d70c0	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+b8ecb49006946faff7ce5b0c5504a8c735efa8bd30d4497d85dc1c141ad794d6	ThreatFox	2026-11-09	family=win.revstealer | confidence=95% threat=payload
+d814d66a6ecd1689dd4db791689b3800a1c931c871388b2681eadbb5c9378a98	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+4f36bce36adac4ac1bab82811f66031e79c54face92bb5c77072f90a0f3c51a5	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+0dca27d2ee1875826fe940f87861dd2e0ff584ce702be6526af37dd9960bb7f0	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+324be994601153ee4ba2d8a95b27c653dfef6ce0b8a1c6a344e80260213892f6	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+c6677ce28ac8fed3b90503eee81d42893598586650ae7eecb1c99a8c0d141302	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+9f9c79af340619e906f9e368481f4bb9c0d3ffe7d44822c3a10120c008d3a711	ThreatFox	2026-11-09	family=win.revstealer | confidence=95% threat=payload
+0c799f2eeba94f11c8f9a4535e985b2476cd3e0a62d69a8d9705a64eeb110107	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+4bed99c57042837f7d0b8a6740e96a8af257634bed63bcfbe9c3caf7891e468e	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+965b975615f4a4b1dede91466429649f3ec768ebf95cbc6af8486eeb3c14335c	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+d2533527ebd43347d2852b1b6185b8f941ae7ac1fe723d52d78e7b9201c77dd5	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+03e7e48389d780c7d96bf2376054cb68d57e7a1976f4e4fec311d07f89a06e79	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+5ad288c4c0caf0fd3f256263a2b8b8687b496c596394c8870cfc815d9a8cd687	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+9f733d32013bcc546d0abad66caf947c0ef009a7d3dcd189f2fcdb74008c41a1	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+6de4d9a6b0e3d3c89b25f48ec7398db7afe5741ae2ba3465875e322548bc1c04	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+d75e456c72b288fb24a253705e1ab3b819e8a3fca07ac3adbff254df258582ab	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+acb72cceee31e44443ff3b959cc7f92265e6a08e7521323513bc4ce24dce7f6b	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+337450ec0bcadd84f30d34866a16525643992d47730272face3d4addd461349d	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+325b30c59421431f8905b38b9e4d9463ef3d5aaccadd50a838763ea8467650dc	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+9548f7a07b50d4163c6085cb488742f6ed5ccefe28c260a718b182efe10f6b7f	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+f590527c06f3cf7ef71b3003bb14c5039e814b3160f64b5cce45b53f0f714077	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+fc6797411760f10feb659b7c25ed842284b1156129e9fb64587bb7e454aa012d	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+956d24a3f0f6e53cd5c9510144212b54806d2371e89f608aaaabb43a1bf55674	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+0879991901744ec9f3faf1bb1d9016ba4780e99f05018e31402b3c00a82aeb3e	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+bbedde0b36c5955984e63b3e6ab73774387b97b15e86fe1bd7e16b9701ce2290	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+ab319cb1d74bb88a2475146a7dc22b54a8eaaed23a84ea4676f4c953b89b8ba7	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+d5a898887899920a5bdd4aba8bcb6ec81b5117c5ae19b9772b1a24d39f6afd0b	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+cc2cd074414301995960cd062d254b41959a2c6fa594fb86169c726c13eb2de5	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+5fe40aa6bc2f2587abe85e857b547a2f4dc2679a0963c6f06500afa6203490f9	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+9778b79742e2baf9b8f64a64530d9e3b7366b4301339e7dddfddc4d43ea29e22	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+2b38ccc766eb2a10fdc2c5c755a39d36732a1632d174e8b1f872915eaa299c5e	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+e4996018356a006c4831a505951a37378d0205dff8b25b74002539719b3ce5a0	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+f03bf114c3002ecab9a1cf4542408a374b30a41d79c587ef89045c21682aede2	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+86914e863c5d8969ce2de828dc2e5e1237a3395b179d6e8cf852a57ee58bf5cf	ThreatFox	2026-11-09	family=elf.mirai | confidence=100% threat=payload
+4b534bcb465c29517e3636a5cebec23e07695bf8fe5a886e5ce63369f0b44262	ThreatFox	2026-11-09	family=elf.mirai | confidence=100% threat=payload
+06d6d0a3c4490b3c197bcaeb0eb09d2f638ab7855820dc194e33d8e4e9d106ed	ThreatFox	2026-11-09	family=elf.mirai | confidence=100% threat=payload
+2bc1e2c4babec831a953a90722ba082fd6b9ff13cb1475650c1f41bf1bb64e2b	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+f2b2400fc9a2ae3cca9252b09e0a4324dba584557500162f37b81cb501dfc0ee	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+abda80b0c3214f9ea4a79a5110f7ecfb87383903bcec4eea554a4395cef763f2	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+d0263010da58fc14e696a2a02534888c037ab95edf5dac128fefbeaf5b2ef323	ThreatFox	2026-11-09	family=win.asyncrat | confidence=95% threat=payload
+ba646ba4ce8394d2d921386fc0331baa9ee6103b6367aada687c6075349a1ea2	ThreatFox	2026-11-09	family=win.asyncrat | confidence=95% threat=payload
+cf0b50b8b7a861c3490889683d857e50b54d0e4975678d58778bba800b589db8	ThreatFox	2026-11-09	family=elf.mirai | confidence=100% threat=payload
+9bdf8fff089e69d46e2a0c3c3b1434874e7b014587a5b078dd008c765f883bb6	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+cc544fd9537aad9a12a26ed07223d011225584652d1317eefaf35609fb0724d7	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+e88ab949621958de7cef6a7735c277cbc39e2f96d48cdf7bcd9a1ae702a4393b	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+97588c4fbff684eb734e43bf3188d65a1ba338369f44dac44371bfbc136c808f	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+c8490911d2238b5d508c0c829032de583820659b0aeb0e2311019da3c20549ea	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+406c30d37260f4eb8fc100108c8a060813dac1deca391ff51ac0e24077526060	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+010ab1ea28800b081bb8cecfcf9919597dabb7723908f9caa928946e8b105da2	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+8d349fd995f37fd1eec064c67ea2cdab1d15571bffea7b16366a65a6758e6184	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+9023e56d9964011647403a2487e636a33b3f7c7026f2e6d230432bf0c590a343	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+f2b15475e6840e06803f050cf2e56deb1d371b5a956627119b53f547328a362f	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+3785a5336fab5a8e7a31cb3bdd1e7f0660be9a50568e25cc17ebb70000aa1ac8	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+0e48e6452ec950629c35d325d5dded749c749cc66cc0c9be7381326d47723084	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+204e07951d22cab3f99afef2e976e5ad37aefefb4db0404cf74cdc66cc5e0c39	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+886a5dbf9e0e2a73bffad31b62f1ec17cf9310ab59cc26a0ee7edb4d2146b30c	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+1e57366a73650bf6b93ff054e57007832651d4b70ef5e6e908fe00ea2a891899	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+c0b260c319241014abe2b4544b056113c3727503cd55910d6b1cb75b896ba90f	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+197949e4f67af8dd91fabbc0f7d1d869ca564fe9affdb6991a07600bc9577940	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+cfc7daf5af9b66dc8608c43d6ff118b7b31c4cfe30f02c9ab97bff825ef6f44c	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+9639378f5cd70b19127691891ad9851d54eaa8d1d606d907605f4288249c77c3	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+08d4a6c334e956f2bbe65f5ecab9e24b0c4558db9794f7321974adb40b2b7353	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+bcf5b6ba4776677bdbbfeefb74c9585f842b160bf975902a6226cbdb37222aa4	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+0a9d0eb3e765c57c9f4c1d5d2d5394c9ba6b67f4cb58830a76ad22fdeea2ae0a	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+0687da92adcbe5700737721a34e3acb15fe2aaee40c72e3df56631de3196cb3d	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+7b3b3b2436328abf8b65d86f743728b6bf796185cc8ae19fb70c03e5cac61a2e	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+f77a3d20dfc907ba80ed6a270c54bffdaa591a2256ac6ba0663fe0cea5c4f77a	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+4f9eb6c0c98c9ce8635e9fd2162ee535c17c416fbbb9c5ed7d4c7b9735a83ffb	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+378d21ed7420ee50c42d46df0f4fe7684f1f3450f5b471b42a8b9751c1858342	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+430a81fa6ef1dc555ed91445ea174accdf2031e75168e2808752211eb1b3e29b	ThreatFox	2026-11-09	family=win.gcleaner | confidence=95% threat=payload
+0734c08371a4ceac3ff0f54d9e6cd006815a7923d0c58d4581c72f6b2ae435d2	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+ded28b97ce7021c1eefef76a75213a0cbe091d539e66adbd6b5415f447569976	ThreatFox	2026-11-09	family=win.warden_stealer | confidence=95% threat=payload
+da5a82d0b5fde64e547a1d9e604c0ac97e8d244e80e5b270d8143d3c35159f61	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+75df384e0534360399243de1c6853219554b2cd4eb4a2e9d4d6c83ccc10cfd16	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+6ea223295d152ea388c5842ce2e5b9a8a143d507d540aca1030164d0587d8ed2	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+5f906267506c3d318e9d41f292f99620ea6f04dafb48b702bd6152ffdc37471c	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+b569dc2bf3efbac44859bb70529e97fba8a0a908fd54adf6cb58501c80a01b63	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+86671970d86d41a50bd219b8fefb184874d5292f3aba8f46c67296b30b8b5464	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+18217b298c04ea28587c7162d5759996dc1972f5de0ce50e0fcf6d9adc00114b	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+18d6d1cc5833e37df541947ded554a7ca29f1fa2520d858d63078c6ba900c919	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+d11faf0f2b6e6db003098e8211814ee9893231897e479511b8d1ac92dc12a226	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+c129a2822237e10d752475c50b86e8a1f8a17a9179046c5eb8bfce6afe788ece	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+5313f3d2204cf9fb65657db1b66bf859318e573d283cec0498512b4e63f740b4	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+938b3bf6be041c88dcb3721daea66b4c361cd00d41b9578ac65f5982b9ee34df	ThreatFox	2026-11-09	family=elf.bashlite | confidence=95% threat=payload
+a8db671b58d03320f807ff9ad14b11ba9ffa182576179df594b3a49a95719783	ThreatFox	2026-11-09	family=elf.mirai | confidence=100% threat=payload
+63cd5de39c65a656beced8503f42e0a7b72f329ce0312cebfcbbba0f97be6f5c	ThreatFox	2026-11-09	family=unknown_loader | confidence=80% threat=payload
+2c739c105224a0b223de22a679473c247e828d4e33813e1cbdace58ed878e78f	ThreatFox	2026-11-09	family=unknown_loader | confidence=85% threat=payload
+c53fe7d93a12367db1e839bf34edd7d054a65c11b877159668eeb8ad6b950a84	ThreatFox	2026-11-09	family=unknown_loader | confidence=85% threat=payload
+92c60be9ac4e2472c5ccde23787ea203ea019dfe59479b61fca310040d34f8d4	ThreatFox	2026-11-09	family=unknown_loader | confidence=85% threat=payload
+a0c0acfcf248c1c8728c2025b1f80b3d5dc92e237fc9f643f7f90cfd6486fe2e	ThreatFox	2026-11-09	family=elf.mirai | confidence=90% threat=payload
+fb8a9f881bfc9aa215f744f8b52596607fbad97ffc0fcac61606227518a1d691	ThreatFox	2026-11-09	family=elf.mirai | confidence=90% threat=payload
+589335714f022f34ba5308be19ff61adb9a849ab6680a8fda78f7352efe4e425	ThreatFox	2026-11-09	family=elf.mirai | confidence=90% threat=payload
+9a38b87066f16ffb1743407d1dde01b6aa70f1735b52dc538966cc6945408de8	ThreatFox	2026-11-09	family=elf.mirai | confidence=90% threat=payload
+8d80f46322763696a6a72aebe003e83034cde262635b397a47a2834f14c116b9	ThreatFox	2026-11-09	family=elf.mirai | confidence=90% threat=payload
+14716776162469751843d566b5230aaa50f7c985bbdff38c134fa3b3d654f705	ThreatFox	2026-11-09	family=elf.mirai | confidence=90% threat=payload
+1ee7c1ce24fe24227c173dfe4002d58e4da356398bef504897b27afa6163c5f5	ThreatFox	2026-11-09	family=elf.mirai | confidence=90% threat=payload
+bb22f02aaa8db5c6425a797ddabfdaed4039e3c51f099bfeb5c102c3f088f41a	ThreatFox	2026-11-09	family=elf.mirai | confidence=90% threat=payload
+c205a833cf3b1d745d71437310fcae1bf6b8ad7a9b7e50e60bbe2b70cafa1d45	ThreatFox	2026-11-09	family=win.revstealer | confidence=95% threat=payload
+b128380f140c9c7a715ef0da63156d95ba1305bd89617e006be7f61a5cba58ac	ThreatFox	2026-11-09	family=win.revstealer | confidence=95% threat=payload
+76a3b76d7521b533be64228119011600ac1c4d896d8eb8d74dc6bdd483edecb4	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+b48197fff0df78cd686c463367b6bdcd3d37775a559a2e88f626db519aa5a1ec	ThreatFox	2026-11-09	family=win.revstealer | confidence=95% threat=payload
+34023d7e221be2c95c39d2e68315647d693f2d4c0d71d332ec727499526f36d9	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+9b98a8547d26ed1e1dffc2934280edd727b4f58b2154b698ddf88b12ae860655	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+cd94e287aa6af09270a78b38d554745252b161120231d0f96d59cb8872d4108d	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+9ae0bf9a965a4ecba21777319f8e3ffcb8766f2552e060ead5cc6e1b79f92bcf	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+48a16d8a4fc106ecaf18629923d70d137833dee02564229b3b2ed1a36e132512	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+edcc752f2125b594fe46c6c910dc9d638fb760984d838f177d1303a0dbb6ecf3	ThreatFox	2026-11-09	family=elf.snowlight | confidence=95% threat=payload
+109255b94796d680f8fabb39e1c001c9656de64bcc1df6d8c79651d9f5e6dd64	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+8dfdf23911e5990414574cf6f463a72a077d228c867a3bcd0f6ad36fb9bc316a	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+e6c91f757ce63a80845fcb86815168dec5ed4aa5694111a30512cb896e10aa9e	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+2b4d37d37c87bda13a0e90f6840916c27042dee077843a9b67003d25cca9fe85	ThreatFox	2026-11-09	family=elf.mirai | confidence=95% threat=payload
+b71e4308151bb67f70a2f6418dd9ad572b21a8ac9c06bfeafc0d7857f7b4e1ae	ThreatFox	2026-11-09	family=win.salatstealer | confidence=95% threat=payload
+2bb7408c1e18f47a9d29cd7add4010afe2d860abc185aace941f9ae9c84daf2e	ThreatFox	2026-11-09	family=win.vshell | confidence=95% threat=payload
+869f3b57d1a954ca6d75e1b2f0b37c062ee2ecc6190b4f47f67992f18f7a39dc	ThreatFox	2026-11-08	family=elf.mirai | confidence=90% threat=payload
+298b2d2cf81f6435744a15d6c83d9dfdcb4d854d6e5d6f4ca96380a1a4bb15b8	ThreatFox	2026-11-08	family=elf.mirai | confidence=90% threat=payload
+38cbdf411e85b4136c8d4b725f7b46530919d45799a8065965d408db5ebcc15d	ThreatFox	2026-11-08	family=elf.mirai | confidence=90% threat=payload
+06b5d5232b4f952e7d2ddd07d6d62552064833c2279fa00c7ba9640acc9dd1ae	ThreatFox	2026-11-08	family=elf.mirai | confidence=90% threat=payload
+c9c94586d37ed1e18500da884988a6868cda9aab5b0ec4d83c387cb9599905f8	MalwareBazaar	2026-11-09	family=Snowlight | filetype=elf md5=9d0691034dc01ed602a9ced2e56fa90d sha1=a851dd80aba11e48cc2461eb195220666da3b319
+82b8b37c4869a03e43624481ef69ff7a761e0f1e6bdcaca4dce8d52179c6a876	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=7835deb824c3b54bff2ccf30f951da30 sha1=a978e6d2698791e64c3dcfcffc9c7f915ab03c04
+367c190e18c768821ca6230a40469f045ccb38ffe61b5e6facc7137ea4e1642c	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=92fbeb20d493bc44b8c1dc4f3d343255 sha1=b3462e1124d0feccab064d0e33258ae7633b61ca
+87081defed2a5fc33ae0afc4ecbcc58cae46b4932fdf7db109c9fbfb723b3819	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=6dde303bc8f299cd08576d299eadcf77 sha1=c9fa1161eb24d7e19c3e4da624a366fd23281027
+ba11a380ab67556103c46f310bf071afe59077caefa05edd456aee2882a0c780	MalwareBazaar	2026-11-09	family=Snowlight | filetype=elf md5=12c8867d22e1a852a6299942d06ca187 sha1=598138a56962bfdf2398a7547a4b3bcbba1f1de7
+9ee5f59cb5edcc718170c927dc0b9ca2d755a9a243b998dd14695c7e055e54bc	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=44adcefa5c1a52e0e2b0168bfde5e383 sha1=d7eb959714e19bc8432595fbcc9b537bbadf2847
+1aeed0362c452cb4788657c5189e44bb8497f33d65bac5df8227cfc458b0f99e	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=07796f896b19ed99bcc5d7bf9d9ea399 sha1=034a767dfaeb18c87c09c29a870d0acd3c99ba31
+a7e89cafe9cd40e84d02a10427a167229adcdb15fa3d399b0b13886a97d1c117	MalwareBazaar	2026-11-09	family=Snowlight | filetype=elf md5=3b5b5ca4a72ef65bbe50124f2fd8580a sha1=525c5d462caf283f62a4ba8d7cd743520e5003e3
+5ee886f9a3ac7d073f54a6fcecb2684ca97a6ac41c776a5fe6c1c49dcc500dd1	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=af6f1e0943e3953498990dfc068bf379 sha1=fc8a5566a4d4a2956018b678bd06d67cfd528d1a
+83e9310db1f4cfeb0a512f0565c8fdb68abf69270cb97c887e7fca024d832d6d	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=97b48e871fb0642371acfae88b1a380e sha1=32dbc44ddace4e3561b53fab2c80c5d387e2027e
+c0ed298ff8e875074aa48a1483235974290cf36b3f14ad69743b5f09d8b4e67e	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=5f6047267c9c7c9d22656920272506a1 sha1=accf5628b8fe2277e2d31eabc1477a7ea0e13d25
+527d099927c8f3b13b204e0a30fe0a6aa709de89f0f325a4925a027e4c27d4b4	MalwareBazaar	2026-11-09	family=Snowlight | filetype=elf md5=42d50e6a544689ea25c14ed69410f7ae sha1=b4af1cc9229d9f69073bb13472ee56711ec92b47
+fa918aa9b92d863fa91b55a392218c6930be1ee3f79d70a331cd2e86dd306abc	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=6e3d3ed68bbe92226df2875967672873 sha1=e867b944f311ae73fabb9fa79b2301d278888710
+54122f1264e4a84e5129acd201d974e057a98dfa305caaea7732cffffb3b4b04	MalwareBazaar	2026-11-09	family=Snowlight | filetype=elf md5=6ff47f7240d11f3c5e11d4e805180521 sha1=6bd6ef5069430d50c5c5c29fb34d1174dc0f5f16
+da24ff7cb249b6a983ffeba042f88d66b68a9b2ca2d7edd515aa9e03b4f902a4	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=813f14b90203c2acea559e81e5283897 sha1=2eefee10f5c437e2087e9133e86858eae50da82f
+32550d7fbd38f6fc0b20322a7391630294edb53a8166a3dbb4c20e8d8f699f6e	MalwareBazaar	2026-11-09	family=Snowlight | filetype=elf md5=58401f5ef73831a021e61290af273495 sha1=68cd3f523932d2680bee1085b25358406d714199
+760bf6b3944d116e2889256f4795c96914a003aeaa555e385481cbfc95d553cd	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=accd4653b832d3ced9f5bf3b167a4cfb sha1=a1596b234cf74c396ae0c057b9f89602135783f7
+aebcb25d1ad0541e1e1907a011bfd598231660dc393886586820b43f514e37ac	MalwareBazaar	2026-11-09	family=Snowlight | filetype=elf md5=db9470690e0f087136cf3528e4ac884e sha1=9b3755f18464b1e693a51526a0bfa5a633e3fb4e
+72caf8153124d3134af0607ac7704bec5aa78bbdf1a828b0bfe7d82a602f7cb9	MalwareBazaar	2026-11-09	family=Snowlight | filetype=elf md5=15b5cd97e9ec9319fcbba612a20d87b6 sha1=536cd51f28a33e47bdc89cf1771b4ad2e06e5b23
+517685bd342dc09c4bbf55fc6f5e66996ceef2d18d96440ee4857ad54f606ad0	MalwareBazaar	2026-11-09	family=Snowlight | filetype=elf md5=1cf53f3b3630a07d7fdf89c49975bad2 sha1=ee790da8899ec0328e4858ce2093027185db6764
+2e70aa63ef1f8e1c79d5b357e79a6c90424136593bff94a1d5c204f5c1c2fabf	MalwareBazaar	2026-11-09	family=Snowlight | filetype=elf md5=d8ac0ce0ed6d973b7c1f859c7ed43c1b sha1=57f800be09c84c68fc89f39ec2eefb4726a8b44f
+f5d0052eff4db4e87af0d935240c540397780e371b179dc72511fc90f089f00b	MalwareBazaar	2026-11-09	family=Snowlight | filetype=elf md5=9c44a469473a0c5674bf377b8f271d7b sha1=548933e81de5836722ba9dfbc3ac79b83784e4b3
+edc2f80fa8282c757d60430ac3cd7e2d60e2d758358885a70dac4b80cba601b7	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=cbbdd9ef0a2ad5bf1f5d7f77e462a564 sha1=0270453ddbb6d503e500d745a0734a36540f7e7c
+947597057e908d1db7f316ce70b57b8a54192cc814b4c822853b777ea1cfcec6	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=6da30e229cb7290a332ca638aacf9d6a sha1=8c234f8fed258b89ed70421021a3f80a8862805c
+23b4f2afe7674d3d5772b9409edb542008becb4fed62f6977c83018bc1e19583	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=6d6c3c30b998ce7af9b1fb3ebd2c1373 sha1=db3d79051f8ac314225c342817a6e409b08ffe24
+cd1084920fe475f6523ec149e50c6143cd9fbf0680e75c7a5295a2de6cfbd403	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=9a1b14be264004ca5263f9354ac4509f sha1=8d93a1e1b7b4efca604877abcb4ced884d652ef5
+668380906fcb7efe2a282efa89685156cba53743073bddcaa879d9203f86f1be	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=026271b0cbd5e607de3eae6d5ead5672 sha1=0c711bba7d18a0d14e0d914cc9748eef6e601c85
+86bdf43df073626029a713ebb6c64623dc1ad7d383b60ac9931d66a7be3aa979	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=d5dfcd23a65783a6b66bd18c0b5eb73e sha1=b7d7c83457076f41af92a74c1d24a5f093d83abb
+e26b9264bd88c8770211851cf91ba5c30c312d9726d916a9143a7f91d4e8f42f	MalwareBazaar	2026-11-09	family=Mirai | filetype=elf md5=38cbb6315d210d5df5c3f371d4356584 sha1=219ed8e53d1fb82b306e3d863a335aa54a916732

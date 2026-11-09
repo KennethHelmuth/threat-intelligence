@@ -1,0 +1,25 @@
+title: DNS Query to Osx.Unidentified 001 Domains
+id: 3e356934-b413-4c5a-a670-c2d45945a1b9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Osx.Unidentified 001.
+date: 2026-11-09
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Polygon
+    - etherhiding
+    - macOS
+    - malware.osx.unidentified_001
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'ogxlhwb.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
