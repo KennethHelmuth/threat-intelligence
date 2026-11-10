@@ -1,0 +1,33 @@
+title: Network Connection to Testmetest Infrastructure
+id: c539b3a3-a320-4e11-b03b-36beb241c5ef
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Testmetest.
+date: 2026-11-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-poisoning
+    - credential-theft
+    - malware.testmetest
+    - miasma
+    - ruby-gem
+    - shai-hulud
+    - strutil-core
+    - supply-chain
+    - testmetest
+    - wiper
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'paleasbest.top'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

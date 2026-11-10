@@ -1,0 +1,45 @@
+title: DNS Query to Personalized Lures Domains
+id: acf0cdbf-2c1e-4903-b0b2-92c1e85b95f9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Personalized Lures.
+date: 2026-11-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 3d secure
+    - booking.com impersonation
+    - credential harvesting
+    - hospitality
+    - interactive verification
+    - malware.personalized_lures
+    - multi-language kit
+    - payment card theft
+    - personalized lures
+    - phishing
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'homesdowttups.com'
+        - 'gardenstokyjp.com'
+        - 'reserv-advanced67746202.com'
+        - 'hotelchecckrsrv-krwo.world'
+        - 'advanced-reserv882689.com'
+        - 'confirmation-advanced-reserv203684.com'
+        - 'goldeshoms.com'
+        - 'guestnooks-homeset.com'
+        - 'gurades-homs.com'
+        - 'gustrwes-inforcheck.com'
+        - 'homeresbooks.com'
+        - 'staysuites-homebay.com'
+        - 'takayara-homs.com'
+        - 'tiamen-rooms.com'
+        - 'towntearse.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

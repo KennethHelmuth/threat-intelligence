@@ -1,0 +1,26 @@
+title: Network Connection to Win.Sero Rat Infrastructure
+id: cb560e6e-9c6d-4990-a735-07995463ecce
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Sero Rat.
+date: 2026-11-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - SeroRAT
+    - malware.win.sero_rat
+    - modat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '70.39.178.230'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

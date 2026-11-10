@@ -1,0 +1,31 @@
+title: DNS Query to Testmetest Domains
+id: 5248e500-4988-4869-b19a-53fafabf8afc
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Testmetest.
+date: 2026-11-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-poisoning
+    - credential-theft
+    - malware.testmetest
+    - miasma
+    - ruby-gem
+    - shai-hulud
+    - strutil-core
+    - supply-chain
+    - testmetest
+    - wiper
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'paleasbest.top'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

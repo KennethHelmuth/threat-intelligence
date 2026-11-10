@@ -1,0 +1,47 @@
+title: Network Connection to Personalized Lures Infrastructure
+id: 8d17151f-7129-490c-923e-c4dfeb7fc2ff
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Personalized Lures.
+date: 2026-11-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - 3d secure
+    - booking.com impersonation
+    - credential harvesting
+    - hospitality
+    - interactive verification
+    - malware.personalized_lures
+    - multi-language kit
+    - payment card theft
+    - personalized lures
+    - phishing
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'homesdowttups.com'
+        - 'gardenstokyjp.com'
+        - 'reserv-advanced67746202.com'
+        - 'hotelchecckrsrv-krwo.world'
+        - 'advanced-reserv882689.com'
+        - 'confirmation-advanced-reserv203684.com'
+        - 'goldeshoms.com'
+        - 'guestnooks-homeset.com'
+        - 'gurades-homs.com'
+        - 'gustrwes-inforcheck.com'
+        - 'homeresbooks.com'
+        - 'staysuites-homebay.com'
+        - 'takayara-homs.com'
+        - 'tiamen-rooms.com'
+        - 'towntearse.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

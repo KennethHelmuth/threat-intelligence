@@ -1,0 +1,32 @@
+title: Network Connection to Elf.Kadnap Infrastructure
+id: 40f692e0-619d-4c57-a501-e07711554216
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Kadnap.
+date: 2026-11-10
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - DHT
+    - Doppelganger
+    - KadNap
+    - botnet
+    - linux
+    - malware.elf.kadnap
+    - proxy
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '79.141.162.2'
+        - '88.119.175.67'
+        - '216.146.25.201'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
