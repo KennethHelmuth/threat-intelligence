@@ -1,0 +1,46 @@
+title: Network Connection to Tinstaporn Infrastructure
+id: e22151d3-903d-4028-b949-4befdd9fe161
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Tinstaporn.
+date: 2026-11-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - aes encryption
+    - android
+    - casino fraud
+    - flutter
+    - gambling
+    - geolocation exfiltration
+    - hmac authentication
+    - malware.tinstaporn
+    - phone number theft
+    - tinstaporn
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'zc.nationbj.com'
+        - 'api.cloudfareproxy2618.xyz'
+        - 'api.testylhg24.online'
+        - 'hsreg.youkureg510.xyz'
+        - 'line.yongli250627linecfg.xyz'
+        - 'reg.alibabareg0303.com'
+        - 'reg.baidureg0621.xyz'
+        - 'reg.baidureg0627.xyz'
+        - 'reg.gitshreg611.xyz'
+        - 'reg.gptreg0706.xyz'
+        - 'up.logupload0628.xyz'
+        - 'www.game250522linecfg.xyz'
+        - 'www.tt250627linecfg.xyz'
+        - 'www.ylhg250627linecfg.xyz'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

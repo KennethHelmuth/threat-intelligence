@@ -15440,3 +15440,75 @@
 31.77.229.35	OTX	2026-11-07	family=ARTEX | pulse='ARTEX abuse expands as cybercriminals target financial sector' pulse_id=6aeeb5bc2f487ae6d84ea7e9
 85.11.168.45	OTX	2026-11-07	family=ARTEX | pulse='ARTEX abuse expands as cybercriminals target financial sector' pulse_id=6aeeb5bc2f487ae6d84ea7e9
 178.15.54.129	OTX	2026-11-07	family=ARTEX | pulse='ARTEX abuse expands as cybercriminals target financial sector' pulse_id=6aeeb5bc2f487ae6d84ea7e9
+46.8.102.144:8080	ThreatFox	2026-11-11	family=unknown | confidence=100% threat=botnet_cc
+102.220.162.170:2404	ThreatFox	2026-11-11	family=win.remcos | confidence=75% threat=botnet_cc
+206.189.48.169:443	ThreatFox	2026-11-11	family=elf.jackskid | confidence=100% threat=botnet_cc
+36.255.97.15:80	ThreatFox	2026-11-11	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+36.255.97.15:8080	ThreatFox	2026-11-11	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+36.255.97.15:443	ThreatFox	2026-11-11	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+47.242.46.219:8080	ThreatFox	2026-11-11	family=win.vshell | confidence=100% threat=botnet_cc
+165.22.247.146:443	ThreatFox	2026-11-11	family=elf.jackskid | confidence=100% threat=botnet_cc
+134.209.242.168:443	ThreatFox	2026-11-11	family=elf.jackskid | confidence=100% threat=botnet_cc
+167.172.122.204:443	ThreatFox	2026-11-11	family=elf.jackskid | confidence=100% threat=botnet_cc
+167.172.26.20:443	ThreatFox	2026-11-11	family=elf.jackskid | confidence=100% threat=botnet_cc
+64.23.218.195:443	ThreatFox	2026-11-11	family=elf.jackskid | confidence=100% threat=botnet_cc
+143.198.88.76:443	ThreatFox	2026-11-11	family=elf.jackskid | confidence=100% threat=botnet_cc
+161.35.202.19:443	ThreatFox	2026-11-11	family=elf.jackskid | confidence=100% threat=botnet_cc
+167.71.206.3:443	ThreatFox	2026-11-11	family=elf.jackskid | confidence=100% threat=botnet_cc
+31.57.216.22:2404	ThreatFox	2026-11-11	family=win.remcos | confidence=75% threat=botnet_cc
+47.95.226.208:60123	ThreatFox	2026-11-10	family=unknown | confidence=75% threat=botnet_cc
+85.11.167.18:443	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+85.11.167.18:56002	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+69.80.225.83:8082	ThreatFox	2026-11-10	family=elf.evilginx | confidence=75% threat=botnet_cc
+62.233.51.109:9443	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.88.91.42:48271	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.149.153.48:56002	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.149.153.8:443	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.146.81.141:443	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.146.81.217:443	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.146.81.217:56002	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.149.153.140:56002	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.119.210.146:443	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.119.210.146:56001	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.119.210.146:56002	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+43.161.215.33:443	ThreatFox	2026-11-10	family=win.vshell | confidence=75% threat=botnet_cc
+31.56.120.161:777	ThreatFox	2026-11-10	family=win.asyncrat | confidence=75% threat=botnet_cc
+217.60.21.214:443	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+177.3.203.67:443	ThreatFox	2026-11-10	family=win.vshell | confidence=75% threat=botnet_cc
+160.250.181.200:56001	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+160.250.181.200:56002	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+160.250.181.200:56003	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+139.162.161.244:446	ThreatFox	2026-11-10	family=win.chaos | confidence=75% threat=botnet_cc
+13.158.125.171:80	ThreatFox	2026-11-10	family=win.brute_ratel_c4 | confidence=75% threat=botnet_cc
+192.241.176.233:7443	ThreatFox	2026-11-10	family=unknown | confidence=100% threat=botnet_cc
+8.140.239.162:8888	ThreatFox	2026-11-10	family=win.cobalt_strike | confidence=100% threat=botnet_cc
+31.13.190.2:5209	ThreatFox	2026-11-10	family=unknown | confidence=75% threat=botnet_cc
+141.98.10.188:2409	ThreatFox	2026-11-10	family=win.remcos | confidence=75% threat=botnet_cc
+203.202.232.91:7004	ThreatFox	2026-11-10	family=win.xworm | confidence=75% threat=botnet_cc
+31.57.216.198:2404	ThreatFox	2026-11-10	family=win.remcos | confidence=75% threat=botnet_cc
+31.57.37.31:2404	ThreatFox	2026-11-10	family=win.remcos | confidence=75% threat=botnet_cc
+128.90.102.91:56002	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+128.90.102.91:56003	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+128.90.102.91:56001	ThreatFox	2026-11-10	family=win.pure_rat | confidence=75% threat=botnet_cc
+128.90.102.112:9900	ThreatFox	2026-11-10	family=unknown | confidence=75% threat=botnet_cc
+80.78.19.62:31337	ThreatFox	2026-11-10	family=win.sliver | confidence=100% threat=botnet_cc
+45.83.220.211	OTX	2026-11-10	family=TruffleHog | pulse='Trusted by Default: Qubole Cross-Account Access Abused in the Wild' pulse_id=6af22c7231935985c957ec55
+57.129.54.120	OTX	2026-11-10	family=TruffleHog | pulse='Trusted by Default: Qubole Cross-Account Access Abused in the Wild' pulse_id=6af22c7231935985c957ec55
+185.209.199.73	OTX	2026-11-10	family=TruffleHog | pulse='Trusted by Default: Qubole Cross-Account Access Abused in the Wild' pulse_id=6af22c7231935985c957ec55
+89.37.63.175	OTX	2026-11-10	family=TruffleHog | pulse='Trusted by Default: Qubole Cross-Account Access Abused in the Wild' pulse_id=6af22c7231935985c957ec55
+45.145.228.25	OTX	2026-11-09	family=ARTEX | pulse='On the hunt for ARTEX: understanding agentic attacks in AWS environments' pulse_id=6af22c74c56e69bb42cb8363
+102.216.154.102	OTX	2026-11-09	family=ARTEX | pulse='On the hunt for ARTEX: understanding agentic attacks in AWS environments' pulse_id=6af22c74c56e69bb42cb8363
+82.158.88.233	OTX	2026-11-09	family=ARTEX | pulse='On the hunt for ARTEX: understanding agentic attacks in AWS environments' pulse_id=6af22c74c56e69bb42cb8363
+154.64.252.77	OTX	2026-11-09	family=ARTEX | pulse='On the hunt for ARTEX: understanding agentic attacks in AWS environments' pulse_id=6af22c74c56e69bb42cb8363
+103.54.154.32	OTX	2026-11-09	family=ARTEX | pulse='On the hunt for ARTEX: understanding agentic attacks in AWS environments' pulse_id=6af22c74c56e69bb42cb8363
+103.54.154.40	OTX	2026-11-09	family=ARTEX | pulse='On the hunt for ARTEX: understanding agentic attacks in AWS environments' pulse_id=6af22c74c56e69bb42cb8363
+154.36.136.197	OTX	2026-11-09	family=ARTEX | pulse='On the hunt for ARTEX: understanding agentic attacks in AWS environments' pulse_id=6af22c74c56e69bb42cb8363
+154.36.136.23	OTX	2026-11-09	family=ARTEX | pulse='On the hunt for ARTEX: understanding agentic attacks in AWS environments' pulse_id=6af22c74c56e69bb42cb8363
+169.128.55.214	OTX	2026-11-09	family=ARTEX | pulse='On the hunt for ARTEX: understanding agentic attacks in AWS environments' pulse_id=6af22c74c56e69bb42cb8363
+88.229.22.232	OTX	2026-11-09	family=ARTEX | pulse='On the hunt for ARTEX: understanding agentic attacks in AWS environments' pulse_id=6af22c74c56e69bb42cb8363
+178.16.54.222	OTX	2026-11-09	family=SleepyDuck | pulse='Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor' pulse_id=6af22c723959134a2c8d25fa
+185.232.84.169	OTX	2026-11-09	family=SleepyDuck | pulse='Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor' pulse_id=6af22c723959134a2c8d25fa
+193.57.9.155	OTX	2026-11-09	family=SleepyDuck | pulse='Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor' pulse_id=6af22c723959134a2c8d25fa
+193.57.9.17	OTX	2026-11-09	family=SleepyDuck | pulse='Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor' pulse_id=6af22c723959134a2c8d25fa
+91.108.240.156	OTX	2026-11-09	family=SleepyDuck | pulse='Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor' pulse_id=6af22c723959134a2c8d25fa
+103.179.142.155	OTX	2026-11-10	family=blockchain dead drop | pulse='Contagious Interview - One Interview Away From Infection' pulse_id=6af2d6b5777af782c0ecd03b

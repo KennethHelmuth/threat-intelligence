@@ -1,0 +1,34 @@
+title: Network Connection to Blockchain Dead Drop Infrastructure
+id: e25ec395-1085-4530-ade1-7a390a3099da
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Blockchain Dead Drop.
+date: 2026-11-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - blockchain dead drop
+    - cryptocurrency theft
+    - developer targeting
+    - fake job interview
+    - linkedin impersonation
+    - malware.blockchain_dead_drop
+    - north korea attribution
+    - npm poisoning
+    - supply chain attack
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'accurasofthire.com'
+        DestinationIp|contains:
+        - '103.179.142.155'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

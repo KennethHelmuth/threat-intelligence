@@ -1,0 +1,42 @@
+title: Network Connection to Win.Nitrogen Ransomware Infrastructure
+id: 0372b90d-8f86-40cf-9d6c-e3faf96cbe1a
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Nitrogen Ransomware.
+date: 2026-11-11
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - Nitrogen
+    - Ransomware
+    - malware.win.nitrogen_ransomware
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'nitrogenczslprh3xyw6lh5xyjvmsz7ciljoqxxknd7uymkfetfhgvqd.onion'
+        - 'bf7dw4n6zne6rbgjlpcsidphpk753nkyubipkym5t4pntgfyb6clw2qd.onion'
+        - 'xqsdbtrtmufdyiqnkrkvosec4gqappf2egcptzqppjtqdevsoadakyqd.onion'
+        - 'gjendw2d6oqjs6nxnwwuc6khpa5g5gzp7pyuiwzamalzzzk6vomm7xid.onion'
+        - 'xpfyw5zw4zpyvr7bpyww7za2konudigljazg54lyjdy2svysusq6nnqd.onion'
+        - 'jjd7mnfahw6sk45c6ozeuhd2g4653dwncojppqtn42amedvqg6hfy6ad.onion'
+        - 'x2uegexhalau7yn5aa6pkmq6vxx54p7hpda5fie66lhz2vlul65sjzyd.onion'
+        - '5ahn3sxya4fdj642cutemvxdwi4rfwa2ugtggnu3gkmct6wsugpdefyd.onion'
+        - 'avtfxe46smvyp655tahexr7dwqatlg2sztiedngkdb2m5nbmgakhtyqd.onion'
+        - 'nqsiw6w6ptspmu24fq6diwfmprlvyj7xzu2xkqfua66wqenrdjkfv3qd.onion'
+        - 'mg7upxjmhxcgark3td4nqhvwhuryjcrn2vbgkd7rss5jbyf2zmv6y4qd.onion'
+        - '5hfn5z4to3bqwrytemyfxtci7pfqmmq5625lym3h3hvec4ylbiiuxkyd.onion'
+        - 'mjpzxduywp4bavus2v4egqjfypcyemnq3fqkm3ahoxcwkhquz5kms6yd.onion'
+        - 'xkiff5vbghynlgg533rutay4agfrux4b72d5oclecgzviyxjzmxqcqqd.onion'
+        - 'ztwyw7pv2be5b327wrjnm2jxj44xw4lssxz6rat5nomwgkdrityraryd.onion'
+        - 'iysx46olkzzzu3ouus43am4t6sshkhasi34if3tz754pcejxzctnlvyd.onion'
+        - 'id5bvscbrncaqc6brpxyx63wazhapg5z7gwvvcedka4uqhzacpasiaid.onion'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
