@@ -1,0 +1,34 @@
+title: Network Connection to Authentication Bypass Infrastructure
+id: 8aaeb966-0adb-4106-a35e-8a7066f22644
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Authentication Bypass.
+date: 2026-11-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - authentication bypass
+    - critical infrastructure
+    - cve-2025-41450
+    - danfoss controllers
+    - ics vulnerabilities
+    - industrial control systems
+    - iran nexus
+    - malware.authentication_bypass
+    - refrigeration systems
+    - temperature manipulation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '37.16.75.128'
+        - '178.83.226.215'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -15512,3 +15512,126 @@
 193.57.9.17	OTX	2026-11-09	family=SleepyDuck | pulse='Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor' pulse_id=6af22c723959134a2c8d25fa
 91.108.240.156	OTX	2026-11-09	family=SleepyDuck | pulse='Malicious bee-js npm Release and Swarm Desktop Releases Deliver SleepyDuck Ethereum C2 Backdoor' pulse_id=6af22c723959134a2c8d25fa
 103.179.142.155	OTX	2026-11-10	family=blockchain dead drop | pulse='Contagious Interview - One Interview Away From Infection' pulse_id=6af2d6b5777af782c0ecd03b
+172.93.217.89:22	ThreatFox	2026-11-12	family=unknown | confidence=100% threat=botnet_cc
+134.122.191.154:5000	ThreatFox	2026-11-12	family=win.quasar_rat | confidence=100% threat=botnet_cc
+115.190.165.108:50050	ThreatFox	2026-11-12	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+3.11.71.133:50050	ThreatFox	2026-11-12	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+124.223.29.179:50050	ThreatFox	2026-11-12	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+2.88.106.211:443	ThreatFox	2026-11-12	family=win.havoc | confidence=50% threat=botnet_cc
+103.67.163.102:3333	ThreatFox	2026-11-12	family=win.njrat | confidence=100% threat=botnet_cc
+199.242.186.113:80	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+85.137.252.130:31337	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+104.251.180.129:31337	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+87.120.216.53:31337	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+124.198.131.77:31337	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+184.75.208.50:40452	ThreatFox	2026-11-12	family=win.asyncrat | confidence=50% threat=botnet_cc
+5.163.174.64:443	ThreatFox	2026-11-12	family=win.havoc | confidence=50% threat=botnet_cc
+172.86.119.143:8443	ThreatFox	2026-11-12	family=win.havoc | confidence=50% threat=botnet_cc
+200.28.134.80:8443	ThreatFox	2026-11-12	family=unknown | confidence=50% threat=botnet_cc
+66.179.30.108:2000	ThreatFox	2026-11-12	family=unknown | confidence=50% threat=botnet_cc
+103.42.180.7:2000	ThreatFox	2026-11-12	family=unknown | confidence=50% threat=botnet_cc
+169.58.38.91:10011	ThreatFox	2026-11-12	family=win.asyncrat | confidence=50% threat=botnet_cc
+45.207.208.51:10889	ThreatFox	2026-11-12	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+38.60.229.175:31337	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+43.251.117.48:18443	ThreatFox	2026-11-12	family=unknown | confidence=50% threat=botnet_cc
+69.80.225.71:31337	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+169.58.38.91:5533	ThreatFox	2026-11-12	family=win.asyncrat | confidence=50% threat=botnet_cc
+31.76.244.193:4782	ThreatFox	2026-11-12	family=win.asyncrat | confidence=50% threat=botnet_cc
+120.48.103.49:8013	ThreatFox	2026-11-12	family=win.empire_downloader | confidence=50% threat=botnet_cc
+45.86.67.173:56001	ThreatFox	2026-11-12	family=win.pure_rat | confidence=50% threat=botnet_cc
+45.192.109.240:8888	ThreatFox	2026-11-12	family=unknown | confidence=50% threat=botnet_cc
+103.112.172.143:8888	ThreatFox	2026-11-12	family=unknown | confidence=50% threat=botnet_cc
+85.11.161.68:8888	ThreatFox	2026-11-12	family=unknown | confidence=50% threat=botnet_cc
+185.233.166.127:2370	ThreatFox	2026-11-12	family=win.empire_downloader | confidence=50% threat=botnet_cc
+38.246.90.28:443	ThreatFox	2026-11-12	family=win.pure_rat | confidence=50% threat=botnet_cc
+172.93.217.89:443	ThreatFox	2026-11-12	family=unknown | confidence=50% threat=botnet_cc
+172.93.217.89:80	ThreatFox	2026-11-12	family=unknown | confidence=50% threat=botnet_cc
+160.250.180.191:56003	ThreatFox	2026-11-12	family=win.pure_rat | confidence=50% threat=botnet_cc
+172.236.225.234:8080	ThreatFox	2026-11-12	family=unknown | confidence=50% threat=botnet_cc
+34.187.62.14:31337	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+194.187.166.53:31337	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+203.159.90.41:56003	ThreatFox	2026-11-12	family=win.pure_rat | confidence=50% threat=botnet_cc
+5.8.11.85:31337	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+143.246.198.22:56003	ThreatFox	2026-11-12	family=win.pure_rat | confidence=50% threat=botnet_cc
+45.86.67.173:56003	ThreatFox	2026-11-12	family=win.pure_rat | confidence=50% threat=botnet_cc
+167.172.167.65:31337	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+13.140.85.200:31337	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+191.217.203.188:31337	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+104.194.149.219:31337	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+130.94.67.43:12564	ThreatFox	2026-11-12	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+45.154.246.236:31337	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+9.247.112.227:31337	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+216.167.120.204:7777	ThreatFox	2026-11-12	family=win.sero_rat | confidence=50% threat=botnet_cc
+111.248.251.31:888	ThreatFox	2026-11-12	family=elf.mirai | confidence=50% threat=botnet_cc
+154.94.233.136:8888	ThreatFox	2026-11-12	family=unknown | confidence=50% threat=botnet_cc
+147.93.191.75:10200	ThreatFox	2026-11-12	family=win.asyncrat | confidence=50% threat=botnet_cc
+172.105.70.168:8108	ThreatFox	2026-11-12	family=win.chaos | confidence=50% threat=botnet_cc
+176.121.50.1:443	ThreatFox	2026-11-12	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+176.121.49.225:443	ThreatFox	2026-11-12	family=win.cobalt_strike | confidence=50% threat=botnet_cc
+23.94.252.80:13245	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+102.220.163.109:443	ThreatFox	2026-11-12	family=win.asyncrat | confidence=50% threat=botnet_cc
+38.55.134.110:8888	ThreatFox	2026-11-12	family=unknown | confidence=50% threat=botnet_cc
+120.53.28.97:8084	ThreatFox	2026-11-12	family=win.vshell | confidence=100% threat=botnet_cc
+172.94.18.103:192	ThreatFox	2026-11-12	family=win.asyncrat | confidence=50% threat=botnet_cc
+147.93.191.75:10500	ThreatFox	2026-11-12	family=win.asyncrat | confidence=50% threat=botnet_cc
+102.220.163.109:7006	ThreatFox	2026-11-12	family=win.asyncrat | confidence=50% threat=botnet_cc
+120.48.103.49:8010	ThreatFox	2026-11-12	family=win.empire_downloader | confidence=50% threat=botnet_cc
+23.94.145.85:13467	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+143.246.203.148:31337	ThreatFox	2026-11-12	family=win.sliver | confidence=50% threat=botnet_cc
+141.98.10.160:8080	ThreatFox	2026-11-12	family=elf.aisuru | confidence=100% threat=botnet_cc
+5.231.31.148:443	ThreatFox	2026-11-12	family=elf.jackskid | confidence=100% threat=botnet_cc
+5.231.31.151:443	ThreatFox	2026-11-12	family=elf.jackskid | confidence=100% threat=botnet_cc
+5.231.31.160:443	ThreatFox	2026-11-12	family=elf.jackskid | confidence=100% threat=botnet_cc
+5.231.31.147:443	ThreatFox	2026-11-12	family=elf.jackskid | confidence=100% threat=botnet_cc
+5.231.31.161:443	ThreatFox	2026-11-12	family=elf.jackskid | confidence=100% threat=botnet_cc
+5.231.31.168:443	ThreatFox	2026-11-12	family=elf.jackskid | confidence=100% threat=botnet_cc
+157.245.82.98:8080	ThreatFox	2026-11-12	family=win.chaos | confidence=50% threat=botnet_cc
+31.57.216.49:10213	ThreatFox	2026-11-11	family=apk.cecbot | confidence=100% threat=botnet_cc
+141.98.10.112:8080	ThreatFox	2026-11-11	family=elf.aisuru | confidence=100% threat=botnet_cc
+192.187.118.178:14443	ThreatFox	2026-11-11	family=win.adaptix_c2 | confidence=75% threat=botnet_cc
+94.26.106.200:9506	ThreatFox	2026-11-11	family=elf.mirai | confidence=100% threat=botnet_cc
+91.210.109.228:6606	ThreatFox	2026-11-11	family=win.asyncrat | confidence=75% threat=botnet_cc
+69.10.49.196:56001	ThreatFox	2026-11-11	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.86.67.173:56002	ThreatFox	2026-11-11	family=win.pure_rat | confidence=75% threat=botnet_cc
+45.225.135.242:56001	ThreatFox	2026-11-11	family=win.pure_rat | confidence=75% threat=botnet_cc
+31.56.19.190:4566	ThreatFox	2026-11-11	family=win.dcrat | confidence=75% threat=botnet_cc
+202.170.75.111:56002	ThreatFox	2026-11-11	family=win.pure_rat | confidence=75% threat=botnet_cc
+143.246.198.22:56001	ThreatFox	2026-11-11	family=win.pure_rat | confidence=75% threat=botnet_cc
+143.246.198.22:56002	ThreatFox	2026-11-11	family=win.pure_rat | confidence=75% threat=botnet_cc
+109.122.18.205:56002	ThreatFox	2026-11-11	family=win.pure_rat | confidence=75% threat=botnet_cc
+102.220.163.109:6606	ThreatFox	2026-11-11	family=win.asyncrat | confidence=75% threat=botnet_cc
+89.125.213.123	OTX	2026-11-11	family=Laplas | pulse='Off the Rails: Inside an Exposed Silent Lynx Server' pulse_id=6af46b3b47e5158053c05be0
+134.17.14.24	OTX	2026-11-11	family=Laplas | pulse='Off the Rails: Inside an Exposed Silent Lynx Server' pulse_id=6af46b3b47e5158053c05be0
+172.86.127.14	OTX	2026-11-11	family=Wpcdoor | pulse='Analysis of Wpcdoor Attack Case Distributed Through Domestic DVR Management Software' pulse_id=6af43b7618f6962a478a6835
+172.86.127.89	OTX	2026-11-11	family=Wpcdoor | pulse='Analysis of Wpcdoor Attack Case Distributed Through Domestic DVR Management Software' pulse_id=6af43b7618f6962a478a6835
+212.193.31.189	OTX	2026-11-10	family=wp2shell | pulse='Dark Web Profile: CyberXero' pulse_id=6af327a10b5317aadf0fbfc8
+149.104.12.128	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+103.9.77.116	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+149.104.87.222	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+149.104.90.200	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+38.54.57.12	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+154.205.154.82	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+154.223.21.194	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+154.205.154.70	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+64.190.113.170	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+165.154.226.247	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+38.54.71.160	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+165.154.227.16	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+165.154.243.24	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+135.136.135.54	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+38.60.195.184	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+38.60.209.227	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+103.141.235.123	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+151.242.188.220	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+153.127.55.77	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+156.244.2.26	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+207.189.10.188	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+38.54.45.155	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+38.60.206.85	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+38.60.209.65	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+38.60.214.237	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+38.60.242.182	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+45.197.12.11	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+45.39.103.5	OTX	2026-11-10	family=SquadC | pulse='Not All That Glitters Is Gold: Tracking CopperDragon's Sparrow Framework Around the Globe' pulse_id=6af32ca0532e5bb3ad1eb242
+37.16.75.128	OTX	2026-11-10	family=authentication bypass | pulse='The Cold Chain on Fire: Unpatched Danfoss controllers exploited' pulse_id=6af330c6ae77e9cab69b34fc
+178.83.226.215	OTX	2026-11-11	family=authentication bypass | pulse='The Cold Chain on Fire: Unpatched Danfoss controllers exploited' pulse_id=6af330c6ae77e9cab69b34fc

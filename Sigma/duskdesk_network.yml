@@ -1,0 +1,40 @@
+title: Network Connection to Duskdesk Infrastructure
+id: 7b2ee923-811d-484d-832f-5349adb47fbb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Duskdesk.
+date: 2026-11-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - astarionrat
+    - browser-cache
+    - clickfix
+    - duskdesk
+    - etherrat
+    - lateral movement
+    - malvertising
+    - malware.duskdesk
+    - matanbuchus
+    - potemkin
+    - powershell
+    - rat
+    - rmmproject
+    - social engineering
+    - steganography
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'apirequestaccess.com'
+        - 'moziw.com'
+        - 'westlaw-signon.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

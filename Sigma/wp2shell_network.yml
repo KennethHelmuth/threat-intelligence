@@ -1,0 +1,38 @@
+title: Network Connection to Wp2Shell Infrastructure
+id: b986cc66-374e-4c0a-baf3-d972b94cf0be
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Wp2Shell.
+date: 2026-11-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-augmented attacks
+    - cobalt strike
+    - cryptocurrency
+    - cve-2015-1397
+    - cve-2026-4815
+    - cve-2026-60137
+    - cve-2026-63030
+    - energy sector targeting
+    - initial access broker
+    - malware.wp2shell
+    - payment data theft
+    - pentagi
+    - ukrainian critical infrastructure
+    - wordpress exploitation
+    - wp2shell
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '212.193.31.189'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,42 @@
+title: DNS Query to Squadc Domains
+id: a0279bbd-471e-4fda-8383-75f2add0025c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Squadc.
+date: 2026-11-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - annobindoor
+    - china-nexus
+    - copperadu
+    - copperdns
+    - copperdoor
+    - copperdragon
+    - copperlist
+    - copperlogger
+    - copperlsa
+    - copperlsass
+    - copperproxy
+    - cross-platform backdoor
+    - crowdoor
+    - famoussparrow
+    - government espionage
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'aauctioneer.com'
+        - 'jamvybez.com'
+        - 'faceorkut.com'
+        - 'astorialaza.com'
+        - 'microscoft.vip'
+        - 'artfingo.com'
+        - 'seosnskorea.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

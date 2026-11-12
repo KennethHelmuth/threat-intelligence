@@ -1,0 +1,38 @@
+title: DNS Query to Duskdesk Domains
+id: e7ed3d9c-6264-44fb-b4e1-f3643a170c7e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Duskdesk.
+date: 2026-11-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - astarionrat
+    - browser-cache
+    - clickfix
+    - duskdesk
+    - etherrat
+    - lateral movement
+    - malvertising
+    - malware.duskdesk
+    - matanbuchus
+    - potemkin
+    - powershell
+    - rat
+    - rmmproject
+    - social engineering
+    - steganography
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'apirequestaccess.com'
+        - 'moziw.com'
+        - 'westlaw-signon.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

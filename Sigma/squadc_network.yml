@@ -1,0 +1,73 @@
+title: Network Connection to Squadc Infrastructure
+id: ca7c741b-4ba5-41b6-9a58-599630690443
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Squadc.
+date: 2026-11-12
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - annobindoor
+    - china-nexus
+    - copperadu
+    - copperdns
+    - copperdoor
+    - copperdragon
+    - copperlist
+    - copperlogger
+    - copperlsa
+    - copperlsass
+    - copperproxy
+    - cross-platform backdoor
+    - crowdoor
+    - famoussparrow
+    - government espionage
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'aauctioneer.com'
+        - 'jamvybez.com'
+        - 'faceorkut.com'
+        - 'astorialaza.com'
+        - 'microscoft.vip'
+        - 'artfingo.com'
+        - 'seosnskorea.com'
+        DestinationIp|contains:
+        - '149.104.12.128'
+        - '103.9.77.116'
+        - '149.104.87.222'
+        - '149.104.90.200'
+        - '38.54.57.12'
+        - '154.205.154.82'
+        - '154.223.21.194'
+        - '154.205.154.70'
+        - '64.190.113.170'
+        - '165.154.226.247'
+        - '38.54.71.160'
+        - '165.154.227.16'
+        - '165.154.243.24'
+        - '135.136.135.54'
+        - '38.60.195.184'
+        - '38.60.209.227'
+        - '103.141.235.123'
+        - '151.242.188.220'
+        - '153.127.55.77'
+        - '156.244.2.26'
+        - '207.189.10.188'
+        - '38.54.45.155'
+        - '38.60.206.85'
+        - '38.60.209.65'
+        - '38.60.214.237'
+        - '38.60.242.182'
+        - '45.197.12.11'
+        - '45.39.103.5'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
