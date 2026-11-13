@@ -1,0 +1,40 @@
+title: DNS Query to Sckit Domains
+id: 78161fcb-e905-4663-9cac-73d1b01e27b1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Sckit.
+date: 2026-11-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cookie theft
+    - cookie-theft
+    - cve-2026-84869
+    - guest-to-host
+    - lateral movement
+    - lateral-movement
+    - malware.sckit
+    - msp-targeting
+    - persistence
+    - relaytrap
+    - remote access
+    - remote-management-abuse
+    - rmm abuse
+    - sckit
+    - screenconnect
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'soxnewwork.homedns.org'
+        - 'newnewnew.gotdns.org'
+        - 'cdn007-digitaldownloads.com'
+        - 'sc.payproofkit.com'
+        - 'ns.mo7sen.dev'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

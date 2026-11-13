@@ -1,0 +1,32 @@
+title: Network Connection to Snakekeylogger Infrastructure
+id: 35008895-b2af-46af-82e2-8cf39c46d307
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Snakekeylogger.
+date: 2026-11-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - infostealer
+    - javascript
+    - keylogger
+    - malware.snakekeylogger
+    - phishing email
+    - powershell
+    - process hollowing
+    - snakekeylogger
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'hosting2.ro.hostsailor.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

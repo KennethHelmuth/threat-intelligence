@@ -1,0 +1,42 @@
+title: Network Connection to Shadowpad - S0596 Infrastructure
+id: 658cb503-7de9-4d58-a88b-ce61433d7cf7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Shadowpad - S0596.
+date: 2026-11-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-assisted attacks
+    - chisel
+    - credential harvesting
+    - cve-2022-21882
+    - dll sideloading
+    - lateral movement
+    - malware.shadowpad___s0596
+    - point-of-sale
+    - rabbitmq exploitation
+    - retail targeting
+    - shadowpad
+    - solarwinds orion
+    - warlock
+    - yuze
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '103.79.79.191'
+        - '103.79.79.120'
+        - '166.0.25.106'
+        - '108.165.20.205'
+        - '154.81.37.136'
+        - '204.194.49.129'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

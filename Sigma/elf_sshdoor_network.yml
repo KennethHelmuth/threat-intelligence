@@ -1,0 +1,29 @@
+title: Network Connection to Elf.Sshdoor Infrastructure
+id: 2168dca6-007b-4805-bb6e-9dff73bc1e8d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Elf.Sshdoor.
+date: 2026-11-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - backdoor
+    - bruteforce
+    - honeypot
+    - malware.elf.sshdoor
+    - ssh
+    - sshd
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '120.193.9.169'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

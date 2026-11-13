@@ -1,0 +1,30 @@
+title: DNS Query to Oauth Abuse Domains
+id: a0d70b8e-83d3-4d05-93d8-e8c8c25c068b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Oauth Abuse.
+date: 2026-11-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - construction sector
+    - device code phishing
+    - malware.oauth_abuse
+    - microsoft teams
+    - oauth abuse
+    - residential proxy
+    - spear-phishing
+    - token theft
+    - typosquatting
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'gpimmlgration.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

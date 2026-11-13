@@ -1,0 +1,36 @@
+title: Network Connection to Gsocket Infrastructure
+id: b5783272-9211-42f4-8b9c-9eb039a7b323
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Gsocket.
+date: 2026-11-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - command and control
+    - cpanel
+    - cve-2026-43284
+    - gs-netcat
+    - gsocket
+    - linux
+    - malware.gsocket
+    - persistent access
+    - php applications
+    - privilege escalation
+    - relay network
+    - remote access
+    - web application exploitation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'cdn.gsocket.io'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

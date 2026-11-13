@@ -1,0 +1,34 @@
+title: DNS Query to Gsocket Domains
+id: 068969ed-d06f-4534-ab50-c4c5c9fec2b7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Gsocket.
+date: 2026-11-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - command and control
+    - cpanel
+    - cve-2026-43284
+    - gs-netcat
+    - gsocket
+    - linux
+    - malware.gsocket
+    - persistent access
+    - php applications
+    - privilege escalation
+    - relay network
+    - remote access
+    - web application exploitation
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'cdn.gsocket.io'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

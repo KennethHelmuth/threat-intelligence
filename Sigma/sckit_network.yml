@@ -1,0 +1,45 @@
+title: Network Connection to Sckit Infrastructure
+id: 81023d69-f9bf-40c1-8550-7a708361d3d3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Sckit.
+date: 2026-11-13
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cookie theft
+    - cookie-theft
+    - cve-2026-84869
+    - guest-to-host
+    - lateral movement
+    - lateral-movement
+    - malware.sckit
+    - msp-targeting
+    - persistence
+    - relaytrap
+    - remote access
+    - remote-management-abuse
+    - rmm abuse
+    - sckit
+    - screenconnect
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'soxnewwork.homedns.org'
+        - 'newnewnew.gotdns.org'
+        - 'cdn007-digitaldownloads.com'
+        - 'sc.payproofkit.com'
+        - 'ns.mo7sen.dev'
+        DestinationIp|contains:
+        - '185.99.255.28'
+        - '155.94.150.39'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
