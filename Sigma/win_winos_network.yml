@@ -1,0 +1,27 @@
+title: Network Connection to Win.Winos Infrastructure
+id: ea61cca0-0505-4795-81ef-ad371326443c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Winos.
+date: 2026-11-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - BYOVD
+    - SilverFox
+    - malware.win.winos
+    - winos
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'nvidla.my'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

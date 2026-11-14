@@ -1,0 +1,33 @@
+title: DNS Query to Netsupport Rat Domains
+id: a35ac72d-28f8-4612-8659-a4971062e252
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Netsupport Rat.
+date: 2026-11-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - apartment scam
+    - clickfix
+    - fake zillow
+    - malware.netsupport_rat
+    - netsupport rat
+    - powershell
+    - remote access
+    - rental fraud
+    - social engineering
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'apartments-review8509831.sbs'
+        - 'asgomd.com'
+        - 'asgrsv.com'
+        - 'verify.apartments-review.sbs'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

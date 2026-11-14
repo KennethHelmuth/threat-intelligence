@@ -1,0 +1,22 @@
+title: DNS Query to Win.Sidewinder Domains
+id: 5242f6c9-6832-4b65-a1d7-5565ed842fcb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Sidewinder.
+date: 2026-11-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.win.sidewinder
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'mofa-gov-np.donwloaad-file.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

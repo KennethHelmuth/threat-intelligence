@@ -1,0 +1,31 @@
+title: DNS Query to Cncmachinerms Rat Domains
+id: 781ad6bb-6a1c-42d6-878a-d068eae0b0c0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Cncmachinerms Rat.
+date: 2026-11-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - babadeda
+    - clickfix
+    - cncmachinerms rat
+    - dll side-loading
+    - fake captcha
+    - hta
+    - malware.cncmachinerms_rat
+    - smartapesg
+    - social engineering
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'cashewminaret.org'
+        - 'orchardandbarite.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

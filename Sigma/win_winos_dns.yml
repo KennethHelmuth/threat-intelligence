@@ -1,0 +1,25 @@
+title: DNS Query to Win.Winos Domains
+id: 66cdccba-006b-4357-b238-f0992c4fe1c1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Winos.
+date: 2026-11-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - BYOVD
+    - SilverFox
+    - malware.win.winos
+    - winos
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'nvidla.my'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

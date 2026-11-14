@@ -1,0 +1,30 @@
+title: DNS Query to Bluenoroff Domains
+id: 92864c5f-0394-4d0b-bdfc-2daf6937db17
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Bluenoroff.
+date: 2026-11-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - apt38
+    - bluenoroff
+    - cryptocurrency theft
+    - facestealer
+    - fake video calls
+    - malware.bluenoroff
+    - north korea
+    - open-source targeting
+    - social engineering
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'uu01webzoom.us'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

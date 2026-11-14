@@ -1,0 +1,33 @@
+title: Network Connection to Cncmachinerms Rat Infrastructure
+id: e6f65603-5b58-49e0-a7ce-31642ad4b2f1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Cncmachinerms Rat.
+date: 2026-11-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - babadeda
+    - clickfix
+    - cncmachinerms rat
+    - dll side-loading
+    - fake captcha
+    - hta
+    - malware.cncmachinerms_rat
+    - smartapesg
+    - social engineering
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'cashewminaret.org'
+        - 'orchardandbarite.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

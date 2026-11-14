@@ -1,0 +1,64 @@
+rule elf_mirai_20261114
+{
+    meta:
+        description = "Auto-generated stub for elf.mirai based on 45 hashes"
+        author      = "ti-pipeline (auto-generated)"
+        date        = "2026-11-14"
+        version     = "1.0"
+        source      = "ThreatFox"
+        family      = "elf.mirai"
+        hash_count  = "45"
+
+    strings:
+        // Hashes (SHA-256) – reference only; add byte-strings/imphash conditions below
+        // 3f6d950304146e671ff9de563d3861b60112eed39b13fba4e8bd293750bdcff0
+        // f7f4aa82b8bed3d8998579518c468337a021221393f7ff95577b66a53518078c
+        // b7eaf8f9e4bd4f69eb69494a3d7124bab061df80c585cfe23d101756153fd299
+        // 3151a0e6ca324900e6e7db0e2b7a58a25584bdd21855726af4ea460fab02bd70
+        // 1ce75f752118bf6039196bad7595b4cdf2fadc6189352c6988cedc5b65e21656
+        // b3754baad0507f55a54ffc9c37b9093a66471c11cf83af3345b61716f7ba2a45
+        // d1a0c6fbe9b121685c40757989c8db4ac45c5a49a7f78775ee03a1153156dcb8
+        // 6fc2257aa8c382907a47853ad2a7f5326a923af5fc91e71cb030da50834ffe9b
+        // d1b80d5f73b327fb4077d36b80b248fe1e403d20b9706023eff3be35655bfe33
+        // cdd6d3adb812f2b018e06f6ccbf3f141ed40b3a284c60b1dc97421f263d82107
+        // f62a618a4289b7f50ee890ffd096e4a74178b12cdc2fca9092e3d3e068ecb6ed
+        // 447478732888aa72cc09a934d893b4ae831b054db670f73c44a17c54b0e88dec
+        // 64c23252434dad5c4ff24063d0936a2bda3b3304de8a36ca73d2916b7565b12b
+        // 88f35177758de73153e830964f6015464190d3d125f4f07a37ae707120093095
+        // 061d9820dc550f8fe032f4e1a38dbba9cfeaca6cbd215d3e58ab86ea6a3cf4c3
+        // 2f49e9b935e1f1a79505356a97697a6822fd662beeff960bce6143552e8dd64f
+        // 2404b5520fa1205f2bccf7a98d35268ac09772b258f4133f0269975d489a8aa9
+        // b3564ed868679fda9c6cd4a9f0c96cc812c2218effa5f2ab242cb411ac4548e2
+        // b37a50c521283d0101a1fa453ca7e606c9fceee9d1f4d705508975a7da1c3cc7
+        // 6eb257d6c98f152506268dacfe71c682a2203d808d6efa9b8f787b3f66a66721
+        // 2c85a21fe7baf0defdf8f36da2afa9fa8aa87bfd884f528392da3958f07f0416
+        // 1820de6f0725b664ed3f29b353cdd089915cb04fe2e6af472b72f92842aaa8c8
+        // 357b9b2165d63dd80a6be088c42185db8b207eb202b3609628cc69322270e9ff
+        // 97bd502de34b7c65de54281a01fa7281d17daeb036f089b360ced2c775254b84
+        // 913bd447966819115cf0d895e0e7e01aabe703fab76bf1ab876bc37fe125c276
+        // f99021c2c8d57811bd4fe3da3a0fafba437e979e0c1af74a96360a05440225a4
+        // a51458c1fabcd9daa067042afb5647fb9d02dd2713dce1fe64f4779f34be7c8a
+        // bf00e39d5d09fa3be243cc3b443437de9cb9fd63d180731cb7d5236a37835f0c
+        // b0381985b6201ef48bc110d733ab2bc9edd42caca39dc604b7818cefe6b46765
+        // 9da8d38d474ba612931b44256190a78e0fab9af7cbdeba41f63e7f05e30b71e1
+        // a4a47dc95ba93ad357fcf958dae99b19ca0a0dae6cb8b698846706e1ad61f55b
+        // b8e9cba6c5f0f81c378217a2da16e6ab91d9c93c94edc5d965d97f5128e1946f
+        // 1842f387b9ac9cba8c01a8a7a1b73b6ae7032311c76a8da41596aae26d407037
+        // 346a1bf30bed7f14f4c91a9ca34ed964cf7057ca7bce50ca7b47e523c583dc2f
+        // 867ad6f6f103765c59cb85c180cfefc36d958fc11bf6ff3cbf49511913a180bc
+        // ff0a67e00e9ed435ae4d308dc882778806ef1eec9901a159f925703a2b384721
+        // b01871c324e175107500e2e84a094b29944724a70ccce41d58bd556d30808cda
+        // 00f0dcd03fefbcfe1544865b9b9ea8c199e42f752a5a37a40c296af5b922f6c8
+        // 5f5b474068cc57180053c06f6ebd861b3d4abb25aa242604f77c461ee4030779
+        // 689b2974f8f5fa5a219f7e6283901c2cb08ac7b7b949231080834d0695669e8c
+        // 5f06679a94844656d74ccac5cb1137e5d121eca43a0f695c9055145e12e83f8b
+        // 0f7782fcfc2a54f30400f3e851df68b1da45ce71558e3dee57abbca0aab8bcc3
+        // ea1c27dcd8f7ad7150a46da134c32eda448660086bf267a9275af2ede4b8c510
+        // d63ee6742fe5e031bbcfb618b4aa7b4f28b925566e8b465e2ec6fe443c9c916d
+        // c8eedc0624809ec5662fca3665bd7d0679bae825541a42190dcba177007c3837
+
+    condition:
+        // TODO: replace with byte-level strings, pe.imphash(), or hash.sha256() checks
+        // Example: pe.imphash() == "aabbccdd..."
+        false  // stub – analyst must complete this rule
+}

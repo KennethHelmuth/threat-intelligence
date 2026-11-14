@@ -1,0 +1,32 @@
+title: Network Connection to Bluenoroff Infrastructure
+id: dbfc255f-61d2-4368-b169-9b5a931f7927
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Bluenoroff.
+date: 2026-11-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - apt38
+    - bluenoroff
+    - cryptocurrency theft
+    - facestealer
+    - fake video calls
+    - malware.bluenoroff
+    - north korea
+    - open-source targeting
+    - social engineering
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'uu01webzoom.us'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

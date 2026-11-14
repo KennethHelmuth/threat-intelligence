@@ -1,0 +1,43 @@
+title: Network Connection to Babuk - S0638 Infrastructure
+id: 474e2c12-a94a-4062-8702-55cdda89eaa1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Babuk - S0638.
+date: 2026-11-14
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - avoslocker
+    - babuk
+    - babuk-derived
+    - backup destruction
+    - blacknevas
+    - conti
+    - cve-2021-21972
+    - cve-2021-21974
+    - cve-2021-21985
+    - cve-2021-22005
+    - cve-2023-34048
+    - cve-2024-37085
+    - cve-2024-38812
+    - cve-2024-38813
+    - cve-2024-40711
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'api.cloudvflare.com'
+        DestinationIp|contains:
+        - '188.240.57.94'
+        - '91.92.242.121'
+        - '45.149.154.135'
+        - '31.41.33.212'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
