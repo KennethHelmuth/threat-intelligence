@@ -1,0 +1,37 @@
+title: Network Connection to Kgb Rat Infrastructure
+id: 5bad616a-29b2-4407-bb78-b6fd36eb1148
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Kgb Rat.
+date: 2026-11-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bladabindi
+    - credential theft
+    - cryptoclipper
+    - hvnc
+    - kgb rat
+    - lime-worm
+    - maas
+    - malware.kgb_rat
+    - njrat
+    - psychological harassment
+    - remote access trojan
+    - telegram c2
+    - windows
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'ntdoc.m417z.com'
+        - 'kgbrat.org'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

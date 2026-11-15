@@ -1,0 +1,35 @@
+title: DNS Query to Kgb Rat Domains
+id: 5ede25ae-f09a-44f4-9954-94e25ae243d5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Kgb Rat.
+date: 2026-11-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bladabindi
+    - credential theft
+    - cryptoclipper
+    - hvnc
+    - kgb rat
+    - lime-worm
+    - maas
+    - malware.kgb_rat
+    - njrat
+    - psychological harassment
+    - remote access trojan
+    - telegram c2
+    - windows
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'ntdoc.m417z.com'
+        - 'kgbrat.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,37 @@
+title: Network Connection to Sysgorat Infrastructure
+id: a13c4ccf-ffc9-41b1-8288-f02ce4939280
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Sysgorat.
+date: 2026-11-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-generated payloads
+    - cve-2021-4034
+    - cve-2025-55182
+    - database exfiltration
+    - defense evasion
+    - espionage
+    - government targeting
+    - linux
+    - malware.sysgorat
+    - rat
+    - sysgorat
+    - web shells
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'subprocess.call'
+        - 'wibu-bau-bawang.online'
+        - 'beraskencur.site'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

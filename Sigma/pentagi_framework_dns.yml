@@ -1,0 +1,41 @@
+title: DNS Query to Pentagi Framework Domains
+id: 1d27f057-2de3-40ba-ad99-97a865e11911
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Pentagi Framework.
+date: 2026-11-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - active directory compromise
+    - ai-orchestrated exploitation
+    - chisel persistence
+    - credential harvesting
+    - cve-2026-81578
+    - cve-2026-82078
+    - malware.pentagi_framework
+    - papercut
+    - pentagi framework
+    - reverse socks5
+    - xml-rpc abuse
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - '108-security.hiv'
+        - '108-system.hiv'
+        - 'chain-validation-results-2026-09-02.md'
+        - 'cve-2026-81578-82078-africa-triage.md'
+        - 'geoip-summary.md'
+        - 'pc-sec-rust.hiv'
+        - 'pc-sys-rust.hiv'
+        - 'where.md'
+        - 'groovy.util.eval.me'
+        - 'socks.shreadme.md'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

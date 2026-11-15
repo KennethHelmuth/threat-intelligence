@@ -28336,3 +28336,159 @@ db8ecda653be2e9df847966f2ef6fbfb7879423ab4459447883ab9c82473bfa7	MalwareBazaar	2
 5bd3c5f273ba5ae4c4ae745c6943a4f7	OTX	2026-11-13	family=XLoader | pulse='Beware of Phishing Email Disguised as Purchase Order Confirmation Request (Xloader)' pulse_id=6af6c5535313263a193f072b
 8b3542531d98a47524c0f468d0158996	OTX	2026-11-13	family=XLoader | pulse='Beware of Phishing Email Disguised as Purchase Order Confirmation Request (Xloader)' pulse_id=6af6c5535313263a193f072b
 e0d7a34bc9f4590bc073d08b50c854d1	OTX	2026-11-13	family=XLoader | pulse='Beware of Phishing Email Disguised as Purchase Order Confirmation Request (Xloader)' pulse_id=6af6c5535313263a193f072b
+a308244ebd0b1a204161195cd1f05ea20e1b9dc7a546ce3ce840bdb14d7f8f7b	ThreatFox	2026-11-15	family=unknown_loader | confidence=80% threat=payload
+5a6e352260f4a05c4b78de181435eb53c18e8da9e1b8e8794ff015636f607a8e	ThreatFox	2026-11-15	family=unknown_loader | confidence=80% threat=payload
+4e2627700d47a6532d6059f3adb20c78ad90cbb25107070345c27ad48e11cd2b	ThreatFox	2026-11-15	family=unknown_loader | confidence=80% threat=payload
+de5a9031874fadba9f0a86e1f82fd8af5a22befbb70fdcec6f0c19dcc75353c6	ThreatFox	2026-11-15	family=unknown_loader | confidence=80% threat=payload
+379a0cb2c3cbe44835865b4688078a0ef69181e19998fc2c478b004f4f9bae0d	ThreatFox	2026-11-15	family=unknown_loader | confidence=80% threat=payload
+43f79d3e51670dc65ebfa102c0ea175ab33f2d6a5ea6a7fb155076fba1418fe1	ThreatFox	2026-11-15	family=unknown_loader | confidence=80% threat=payload
+43283be995f6c8e0fa1f839f45f3bb51721c7089be298591bdd426a15b4fbe2a	ThreatFox	2026-11-15	family=win.salatstealer | confidence=90% threat=payload
+1194bd4526a1dd1da28281372ab8a4f541532e9e0e0a083c782116da52c9dab0	ThreatFox	2026-11-15	family=win.salatstealer | confidence=90% threat=payload
+7fc979bae85d1479790fd7b91bafdae44f4ce969f8815d02251a0d9af80137a6	ThreatFox	2026-11-15	family=unknown_loader | confidence=80% threat=payload
+fcd83f697bef16a2731554e35342384063a9301bef827a7e1c90a380a3497f9f	ThreatFox	2026-11-15	family=win.warden_stealer | confidence=95% threat=payload
+3a1e7d2aaeb545d10018b4925a321de02d6ee47122de46c11c701b25a4f08d59	ThreatFox	2026-11-15	family=win.formbook | confidence=100% threat=payload
+9b1933ff196a946f3b43fdf9a4bea548301b8490f4142c3c3064c0c1a44a7946	ThreatFox	2026-11-15	family=win.formbook | confidence=100% threat=payload
+82e54df5989924963a448ac8751d331d8f84690e803f0c9bfb259313507de675	ThreatFox	2026-11-15	family=js.clearfake | confidence=90% threat=payload
+1eab9c72405f45980c573b8fa764436a5635c54d2d8aed39e3e9ef4f026d8445	ThreatFox	2026-11-15	family=js.clearfake | confidence=90% threat=payload
+5415abfa039eb9ada217d62e7f5e22bece28d116069b93686b393c82e1719729	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+0d1822a42002f6dbe6b1f17e456ef316c58b47d0c477970850df400bcdecf6a1	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+cb14ae6db4d157ee97c472efbd826819ebbb4ec8c504ef7e596269eb212fe15f	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+c3ec68c3ae7bdc2a48e45d48e6f39c1c8029a944d7b0ee06aae6055ef9073041	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+c92ac6608560229b60d482deca834b7ef21f0a5cb4422371b276df5621bd5d9c	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+0645f12b84d86eda6b12442b2be212959a4d965a3d3aaa24668ac948cedcdaac	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+7797264bee87d92c24aee1ea5e686e31ae99c965d3b9ac61651de805d11f2b6a	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+c9bb9a50ca434c910569bf4ffb9bf6d3ac396c915e2b24474a611d94278189c7	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+b1252217508ad6de9ae4889a2b83685b09b827599bfc15ba1496ace87703deeb	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+231d2e5722c4f694e2b18cb324d519e4463733c611049f2bdaf6d3b9bdd49d7a	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+96aa435caf596cb1d696da28bdbbdb80837dab231b6dcc5aafcebec8fda646f8	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+21755f560095abeef5048dbad4fc306a95309c46ec5cbb249366428a7cd88385	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+34dc607abfec1825f846305e1e097d12a5d8ec849887b5e455e29d9f8c552cd8	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+2af0d07529f658ecaa4ad528ea4e59de8739a415ed6b22b0f9cb32c306f8c57e	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+58613eebc2a8246086a91c5f0c85bdfdddb447ec3bcb1539ac392c9e6dc7bc61	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+274180ab59aed5e9061f0f21f9f4f39443ebd891aae4d4bf91af93669232e64d	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+0f9a5c843fc143276d63107600afc02f1d78f34fb99bff21016f8bafe71123ef	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+dba5c398ac11c11efc5499fedc327b95fc9b3e47a00554882a5847f8f204f3d8	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+99057d2757935f0af197440d500a104d112b17d7be5db3dd137a931346686a8c	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+9f54bfb839f983ecf617fef28a944d58a4d399a8c790322c0caa1dcef92e299a	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+a04eb476e7bd929f098f2a0c029e73beaa66125a8a6f1dcbe10fd64292c2d949	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+23e93d6b82464b65fc3642063fe2f13631fbb380db99e384d240bd5d9ff70852	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+64260b499c73a8ed7f8426c3b174b9738e84af114890f77b92668e1051e1efe4	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+fc085b9e6aca7b9cc7f9bf38e056583e37ffd25ae8262a876ca46e1403434228	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+c3313ed03c2c2201052ecc53916c20122285e9f44dff0e1dc893de85f0e094ab	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+ae514ef304890c72b05588dd9b816f499baf4ca3d656c6bd97bb7b92c3cbb285	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+10a3c4fbd87832e458f3ff33634105bf0d427c2c471985d2fef3a30cd562f584	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+5ea588028f3265f790deaab98f1b12b1cc9622996bee32e8d3454972389cdb21	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+36e89bf4506f450ebcaf42a86dd64685e268391e6a101869a96195a0fef417a5	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+54ded999eaa3fb4e353efef5485aff5058d44de586b57f6d0e146647a7e9d7cd	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+1a99f36a4eb1a2ad573422e5e239c78816ccd64394224f4d12d9a01ab34b7be3	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+51f5ed78565a3cd1258d7f758bc8fd4a40db4cef320f342fa9831a93ca8a23d0	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+6979422c2f549a0d84c278300ebace7c0d64fc995ec871fab7c8f7f9f4577a9c	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+407bfcd79ff11277eccd5e68c29f777cb1dbb552804bb038db20a8bd88ae1f35	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+0a24d752c402973201ad7005c96d5e63707fa4e65208b0461a4572c07398c0cc	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+ef69facecb25aa0fb9d70caf0f865937e5509a0f9d2f12fec150c43d3b766d34	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+fba37043987663224bc6be0a01936083371ba75d2cf6007a3c7d66083a4341e4	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+409b6ca97e040c23d47e37c3035c567e76ceb8e23b5d7f71419c86cde1f854fb	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+9127c0d07e69d7354617a4dd7870172a2c2e00c33f1b46f242b89dfc13811010	ThreatFox	2026-11-15	family=win.warden_stealer | confidence=90% threat=payload
+0dbc33484a53c3eea19acd21343a9c91a556c9e04773fd7f76787ba94c6c0d5e	ThreatFox	2026-11-15	family=win.warden_stealer | confidence=95% threat=payload
+87438bce71387f0cb148e2a9b39b6ac7efadb9e7eb0d6be08cd3d179f25d276b	ThreatFox	2026-11-15	family=win.revstealer | confidence=95% threat=payload
+edfc9b7b99ea12758be34c0223e1b9aeb5dcc01b2a99957abd00ed9bd22b730c	ThreatFox	2026-11-15	family=win.revstealer | confidence=95% threat=payload
+c4c735ebaca6666f3fb197022c03ede3485daa4fa2016bfbcd89135b42917222	ThreatFox	2026-11-15	family=win.revstealer | confidence=95% threat=payload
+063a1e469ce2874bb41cf3549d73eada29d94612fad036d10f8088f2be45e8ec	ThreatFox	2026-11-15	family=win.babadeda | confidence=95% threat=payload
+c16d91e30e17d32d1c61e56c9690cdf5fab9194b41bef5ac9f4ceec02c72a265	ThreatFox	2026-11-15	family=elf.mirai | confidence=100% threat=payload
+18e61e983be1a7825c5ff9f05e8211f47321988629b518402068ae892c1cb97a	ThreatFox	2026-11-15	family=win.warden_stealer | confidence=95% threat=payload
+807522a1f1bb9ba74f9a311ba82f9efb18be4b3d679e74ec36262e390bc3b071	ThreatFox	2026-11-15	family=win.revstealer | confidence=95% threat=payload
+9c80a1dcb5df8d0086107a4a3157fc562f4110445b9c3373c4d7e6da648a4761	ThreatFox	2026-11-15	family=win.revstealer | confidence=95% threat=payload
+a203143b443910f3ad26378aa4697bf66678139c8e6e976688408628e689fe1a	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+c303747f3d7948c798d6e794f9466e4d2db4a8110fc8d3f9ce8f44e4d753d3b1	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+128fbe4e6c48ed93bc83ae215e1b739d0a481c91c38cec4569197409b6e9a46e	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+89b38dd2e94b16e4e0e92a6f3f29126de0f166523da762c22c5ba83a33a206ef	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+d067f103ab989bfdf5909d588ed35ff2c2cb317d6766f82069a8c91f224d9548	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+2af415aedf95012383e2797c4bd7d6da70503f9c691a1a92450ace96234a479d	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+7e9e7650d3f2cf5fc79d730356c9c8641c5c8a9c536b2d798c209cf411838c23	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+36a39c2c052a438b0577b2b54e0c56b3a18f8b7a2e774471e2f8a8f8e6aeef34	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+3c168edc6087edf628a3b876498bf84885346e75c246f1cef473d1284ff07ba2	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+946f424e334405498f8de2aa5c8202bd00d49f85e0853d06c9dd4d2dea9f81d1	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+4c5bcaad04646319bad1bbff6dc187267ade973eeec7038fc56be89e272236b4	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+e633d814990beb29e2304ab9b37d199a787c3a75fac55e86f0632d1aba483ad8	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+ee60bf4a19cb791dd4067fa6e4d6807520cec83ad8810b2827f0616b830aaf6c	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+061b8c7550a90ff28be87ad1d90fd3d2d2c3b6f6bcff5bf1de05413a9d4c0ff6	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+57c6a8e4c0ae11989ecdcfaecc155a88e4ace09c35bcda5fd48d45fd0b9693ad	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+7ea481d1c5596b6991560ecf5d2c416dc298ba069b5d9f5d153a684ca010d0b5	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+00ed07885db1623f23530f08176edf6dc64e3818adeebc43bc8a564997a5b506	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+801fbba035ff5d3347556c3f949b1f66a3962d1daee0f7d1d6a25e6f5413ca29	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+bdc84a900d079ff51ae214943e659b8231c1f2902b4d4d7adda205caf04e16c6	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+b90e7f1e6801759f54fed32ee9f247c4aacedd7394ffb55becfa0bfed2dbc271	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+0e19a043b5539dae0a6f8a4be74a08b0c4d267562c1bbb43ada1a7ca4ebe3d5a	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+4570022cdd6e0eae75541e5315ca1f6de1c3830c4787822e4f5915e42d1d5472	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+b2fcc22fa6a1a459772e061791e9ed9167722b966644642da63d427c3622d0c5	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+8cbb804ced82a623b84f0de3122ca7b04335f4065301ea507172a9fdb215cf8f	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+5e5ddefa3f949a8128c417c15a264ca2ad28cf8e932c235bdf26e10f77d83e5f	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+c5f456000d2f708da8589a706d0bdc2d9dacfb22b44d3b4916bcf3861c3eb4ec	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+9a9cd9a4d13044548be0ba8e234ec94be1f66e26d4b895ab21714dfff3e9f3b5	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+8a4cb6e856cd0361bc4d553a1b7fcd3a02b58d1390685aac8509d68d00eb2a61	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+382570f1ddac7bb252fc1da4d3d0f291ad8e8dda0e258ccb4a5959f8751ddb47	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+0b286a819d343efd52c1bc062edd8e42dab02c3990db2416ec53d63296cc4d50	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+e3234a1dfb4c8c269ad9de2bed9d3293b0d7caf93f236149a49ffa59bf4b1319	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+f5c71b28365b039ab501f6e29eff241e69863c027595fd4d1f5c049c415c644f	ThreatFox	2026-11-15	family=win.nemesis | confidence=90% threat=payload
+8eb3d4e293fc6894afef2ee3d4056a473491b39fcd4dbe91a495e60c9311bc6f	ThreatFox	2026-11-15	family=win.clipbanker | confidence=95% threat=payload
+add68e988346756c2aa0aba09458c2e00415d35a318c2392ad76290907702834	ThreatFox	2026-11-15	family=win.xworm | confidence=95% threat=payload
+857e6812bc4a69d515ee06fe1b79c659987eeb2769f0292759bc53696bd59e67	ThreatFox	2026-11-14	family=elf.mirai | confidence=90% threat=payload
+423a7f5235c11343c0f82e01bf93f8583da8f9f494a385af2c38cdef38de6157	MalwareBazaar	2026-11-15	family=Mirai | filetype=elf md5=16602068329bedf10f22c5b33b72a863 sha1=9bf1df327aa19c9ac98d8eb5ff44927193f2547d
+6632ff165c95f3cd0a64c0f0205043a9aa8254ebeca13d3151280a9c9df356de	MalwareBazaar	2026-11-15	family=Mirai | filetype=elf md5=97397d593f16b23e81389eca1b8057dd sha1=a9bcbc2e30b6bc8ded56cbfa5c76f3a55fead511
+49edbcbc6d31e2577d3075533dfc255a8d3597c629a7af0a0130909164afdedf	MalwareBazaar	2026-11-15	family=Mirai | filetype=elf md5=b2bbd0aa94d117713586b53d7c2fbdf0 sha1=db6213378347c97a23a65fd9b1700c16e4b2f8e2
+476b9569c10402040543b0cd269aa04816e497394431de58ac3a0fbde7505dfb	MalwareBazaar	2026-11-15	family=Mirai | filetype=elf md5=fc320bf1216559a29a4967080b7b2bc8 sha1=8644701df2bf3673239046f4762009b38a22b8a8
+34e22edd2350543f4b621924eb1bff7bffdd2ab7f7ddd30f57b01e7afb78b69c	MalwareBazaar	2026-11-15	family=WannaCry | filetype=dll md5=f361db5dbee5112457fad8e3ea057f87 sha1=772d7031158ab467528dd857949db3675de9a1fc
+324bb699183c9f8c04b70059820fb88c17d7c246981b1668be896d69ca52cc79	MalwareBazaar	2026-11-15	family=Mirai | filetype=elf md5=9546f2d9d0dd62161562ababa929c802 sha1=09a73d3cf32a4d2cefdf1e52a2f4a0c8ce5e4304
+1fc9d4f3c18891ddcd8796e97004b5a0fabfd77bbabe3994510680129cb98660	MalwareBazaar	2026-11-15	family=Mirai | filetype=elf md5=bbafb3c758e33b7fe09a63ca88b1192b sha1=9c1ede5fd003ca5a6c4be3514a0c99a096c2e2c0
+1704f5624caa05bfffbf5334ea6b893d3938f9f5f9f1f9e1b8e54c177b5ace06	MalwareBazaar	2026-11-15	family=Mirai | filetype=elf md5=fa65ca3883f4a154ae9ca914e6f0756f sha1=548deda770c7386a5080a438e48ea3ea18b8fda4
+da8145ae7fcfedab443424fa851ec651cc60fba2564a88f46ec95527ce2c8c5c	MalwareBazaar	2026-11-15	family=Mirai | filetype=elf md5=807dec067d3bf95d81999f7f1a235f1b sha1=c16b230d2ae70a5562b15fb71569b33d08ddadc8
+5605e2d94d5c847ee8f45717ade4e29270902e51d3678102a3fd6c97d8e54642	MalwareBazaar	2026-11-15	family=Mirai | filetype=elf md5=9557d33ce25ac7363bfb3316bf06eb6f sha1=5b627ef9270e16d9e277ccfcae2400cd680b3a05
+6b40a86270ebe47925fb204b355b673ceea1d87d7e4a4d5a92ea44d5c099235a	MalwareBazaar	2026-11-15	family=Mirai | filetype=elf md5=16d497c684b06ee5307038009d85db2e sha1=063ce433ad287795055f170ebabe00dc790a5126
+a63eb43c6c694570f4aca391b8111439	OTX	2026-10-16	family=SysGoRAT | pulse='AI-Powered Espionage Campaign Targets Government Linux Infrastructure' pulse_id=6ad187349cefc9d2193e5cc3
+869e68253bb602144b3750c277eda1ed0b08534a	OTX	2026-10-16	family=SysGoRAT | pulse='AI-Powered Espionage Campaign Targets Government Linux Infrastructure' pulse_id=6ad187349cefc9d2193e5cc3
+44e83f84a5d5219e2f7c3cf1e4f02489cae81361227f46946abe4b8d8245b879	OTX	2026-10-16	family=SysGoRAT | pulse='AI-Powered Espionage Campaign Targets Government Linux Infrastructure' pulse_id=6ad187349cefc9d2193e5cc3
+2bf7992e6260c1a98c709fa98ec766fb9f27692f338b30b43ac821b824fd849e	OTX	2026-10-16	family=SysGoRAT | pulse='AI-Powered Espionage Campaign Targets Government Linux Infrastructure' pulse_id=6ad187349cefc9d2193e5cc3
+27d799ceadb570bfca890d4c2572314afe57eecf14083d30409da15afdfc4704	OTX	2026-10-16	family=SysGoRAT | pulse='AI-Powered Espionage Campaign Targets Government Linux Infrastructure' pulse_id=6ad187349cefc9d2193e5cc3
+d73186cea6cf2cf3d48c09139a9d15521365aab675787b4e7a6f81767331c9fd	OTX	2026-10-16	family=SysGoRAT | pulse='AI-Powered Espionage Campaign Targets Government Linux Infrastructure' pulse_id=6ad187349cefc9d2193e5cc3
+9e45830171eb607cf2c0fc80f5cc9cc3db39bb937032136990383a595f6f151e	OTX	2026-10-16	family=SysGoRAT | pulse='AI-Powered Espionage Campaign Targets Government Linux Infrastructure' pulse_id=6ad187349cefc9d2193e5cc3
+c527b94e3d21824a674face4cd9d862e536b60ccbf54573839e3360f99188343	OTX	2026-10-16	family=SysGoRAT | pulse='AI-Powered Espionage Campaign Targets Government Linux Infrastructure' pulse_id=6ad187349cefc9d2193e5cc3
+1505a3a727f8899b2ad343519f7bf9c438b8b802f8d6b854f5db3b52f857c76a	OTX	2026-10-16	family=SysGoRAT | pulse='AI-Powered Espionage Campaign Targets Government Linux Infrastructure' pulse_id=6ad187349cefc9d2193e5cc3
+76c58fad4f70cf277a15a499b9a2151ac60e7a6b5c7a9ab684843dcc19f0d0a5	OTX	2026-10-16	family=SysGoRAT | pulse='AI-Powered Espionage Campaign Targets Government Linux Infrastructure' pulse_id=6ad187349cefc9d2193e5cc3
+b1e82c6b0caea177e8bb71ad826867f509c65f0a43a651b50253e7c726566eac	OTX	2026-10-16	family=SysGoRAT | pulse='AI-Powered Espionage Campaign Targets Government Linux Infrastructure' pulse_id=6ad187349cefc9d2193e5cc3
+559df774411724520865fa15aa8b7e209d0ee133db4dc3d3cd180e895d597a36	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+581c440644f93a17191b98158c467be5ae5972ab19668c6e8530a2034833bd45	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+d4fc7867caf1349bbbfd1f2972fe92acedd8507ae89fa822c07f09a194127894	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+d8fb0d64ea8b4a32d6c5869212a62a3c9c6357e4fd7e4cf090a67d22d8f78b62	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+df792f965f693b0a2b5bffd9a1ea5127cbd4b13daa9ddb2559f54523604777d8	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+836ebabb6304dd873343e85eb51a9e8c9b3de8a68d5152c3ab0d496c8fc0fdf7	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+1b3c95cf2a030df15d1474af2ae96bfe9a6ed160319c1a8782237206035d82c7	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+d691e9721c38104777664f8afd3941ededcadd433b3b593de3e21aa14d60f1f2	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+22255c3c488d4c92ea3567d1032e7a7c790a22cde989a8f0eb257c2d6d811ed4	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+25eb0dfbe57dc07d461e62643262c45de052b012529ad05c7f19c5eb0c1ed646	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+8c3e8d0a5fadbd696bcbd56313d69d94f41f1b2678cfea4db83999a6ad62a63e	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+3d71f8b5171f2fe47d9a247a193c1b48c1aaa4d533811e208b8d94ffa5800c9e	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+08af4ffbaff1d8a4a3de99e17ec2ad2c	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+18934ca7b042287f12089187caa92a2e	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+226122ae1693ab2d03ef35ab341885ae	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+4abae0cfbeffab867d67e73db745b758	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+84cbdadcbf2cd1a268e1e0d38372c238	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+9b4705907cbc43d12f7c7d15f8b8e4c5	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+a6b66f293b633472996a8c991a27446a	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+b8bd57a94857dd5f64c9a1e237259284	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+c2f71a13f910c4e0dcbfb3fb90c94f36	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+cc212f3115d81b4ee0eb477d399058c9	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+dec2f0b19a25f985de2f570ffd7de1e8	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+e4af0b6497b27e048aee921e252fb1d8	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+09d0c3ccfa00632b58d26004422ad69d531b665f	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+172367b18ae7240c649fb514725ee80d9a86915c	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+18359a252cb62e7995d2d9f4f8173ac4e681e700	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+4cb883e21225a1de5429f47418015eef72e38c0a	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+599e3668a334340f526504fc4030df3d4dfc525d	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+68c1dec37bab447b585379443561632dd4dfd011	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+6a1c1dfecca76f7a8a8ed29d7b84f1c2f16cbdfb	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+7429c30788cd538b6389456226d891f02c595e99	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+b301238eb458514446ac5a30b6753c3e59482629	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+bf262e440760946ccd162519547ff911aaa95700	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+d27f6c548a00317205cff3938532a355cecf7389	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+d612974014b76eb8994079a9a714fa9a4e1f2773	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
+12603f7a89c66717661f4695e2f0d474036e42ee1631b2070aa88d590d1b79c3	OTX	2026-10-15	family=pentagi framework | pulse='Inside a PaperCut Attacker's AI Toolkit: Agent Instructions, Exploit Code, a Second RCE, and Victims Across 45+ Countries' pulse_id=6ad0e1520be4762ce91fe695

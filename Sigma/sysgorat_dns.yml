@@ -1,0 +1,35 @@
+title: DNS Query to Sysgorat Domains
+id: ba304695-6241-4da4-b6d9-5350ab1f9a6d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Sysgorat.
+date: 2026-11-15
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai-generated payloads
+    - cve-2021-4034
+    - cve-2025-55182
+    - database exfiltration
+    - defense evasion
+    - espionage
+    - government targeting
+    - linux
+    - malware.sysgorat
+    - rat
+    - sysgorat
+    - web shells
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'subprocess.call'
+        - 'wibu-bau-bawang.online'
+        - 'beraskencur.site'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
