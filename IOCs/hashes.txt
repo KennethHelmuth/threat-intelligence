@@ -28492,3 +28492,239 @@ bf262e440760946ccd162519547ff911aaa95700	OTX	2026-10-15	family=KGB RAT | pulse='
 d27f6c548a00317205cff3938532a355cecf7389	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
 d612974014b76eb8994079a9a714fa9a4e1f2773	OTX	2026-10-15	family=KGB RAT | pulse='KGB RAT: A Fully Undetectable Windows Trojan Built to Spy, Steal, and Terrorize' pulse_id=6ad1023b92a010044f3dcbc8
 12603f7a89c66717661f4695e2f0d474036e42ee1631b2070aa88d590d1b79c3	OTX	2026-10-15	family=pentagi framework | pulse='Inside a PaperCut Attacker's AI Toolkit: Agent Instructions, Exploit Code, a Second RCE, and Victims Across 45+ Countries' pulse_id=6ad0e1520be4762ce91fe695
+dabc05223d247ffae366a88206ab9b7129decdfb9d5e56b4094ffe641cba8cf2	MalwareBazaar	2026-11-16	filetype=elf md5=a424f7cda2eb625545d519405614ad4c sha1=2cf7c5fa8d198943fbec6e29038e47fb2014ad09 | vt=17/74
+c20f4bf9d239489be7a18ab095bb2e79c53f2b9c1eb488978e696c30b51a4f7b	MalwareBazaar	2026-11-16	filetype=elf md5=2c4951d4077171ab87ce03c012064ea3 sha1=c62c502e9981b9a4cbc00ea9d6376067dadb16ec | vt=18/74
+1c00f4f523080384356ac5a1fef2dab343e4141a880cb703cc9013353a8ed1c0	MalwareBazaar	2026-11-16	filetype=elf md5=f9fdb9d3565f10960d1cf97ce532fe13 sha1=16951ca83b0215ce62ef6c21e76e28e6d5913078 | vt=20/74
+c93858738a995794a92cd7aa209de01c35f0841735b6c66f72fc5f258ac3acf7	MalwareBazaar	2026-11-16	filetype=elf md5=bbdd7d50edad87ffa0335f047d9b19a5 sha1=1ff5cebaa3d40a5bf92ce9ce1544d22dc93deda3 | vt=17/74
+9e36446c383f361406c4734667b586052916a74fcbc754ff4347f6cd3f75e5bb	MalwareBazaar	2026-11-16	filetype=ps1 md5=7439a29027933650a43d19022d761c53 sha1=9bb26e28bb54d71ad54da782e4231086d386127c | vt=20/74
+7d165e0690d29983f7c71c94332da1e096131cb8cd375c55fc79d729affa44c2	ThreatFox	2026-11-16	family=unknown_loader | confidence=80% threat=payload
+7a3024bf160655dc5bfa2b1972dadefcbc711848aee6b2888a1f680ae5d01ca3	ThreatFox	2026-11-16	family=unknown_loader | confidence=80% threat=payload
+4430b9963b06e873fb76b6624d5d9cb2d40de41f793474b54ac37b26a0a83e58	ThreatFox	2026-11-16	family=unknown_loader | confidence=80% threat=payload
+2d679e5e26d18fac8db1d0d353e3e78cbc352dbbdcd7f2a117454607bc3bdda4	ThreatFox	2026-11-16	family=unknown_loader | confidence=85% threat=payload
+ef43bead2bbc8efcf17ec4a480af46481f00eeba405e3faae21c535b22830a27	ThreatFox	2026-11-16	family=unknown_loader | confidence=80% threat=payload
+66e9eef0b584eda48fe8607f25d4c8c416b33dbaca0377ab43bcf429eff92705	ThreatFox	2026-11-16	family=unknown_loader | confidence=80% threat=payload
+fa2b3f74f238a480d01a13b244503fe779d0e49dce2eed24b52ac7eac5f15799	ThreatFox	2026-11-16	family=unknown_loader | confidence=80% threat=payload
+e4c8f385ac41e81b01083c9fe8ca5795d10df138253d98d46e39fcb23b9ac6b4	ThreatFox	2026-11-16	family=unknown_loader | confidence=80% threat=payload
+a101fc2c48066bd4cb4302467e2c79087682bac4739b7b5e151e04a219a9b553	ThreatFox	2026-11-16	family=unknown_loader | confidence=80% threat=payload
+c642d41d033d7f10f5c82af6abafb1a1e7c46b288d447cbce65222e696ef5b54	ThreatFox	2026-11-16	family=unknown_loader | confidence=80% threat=payload
+6383787d05cd40e0c6ccd9dc0c84630569c855b537854f19241a62b39baf1f9a	ThreatFox	2026-11-16	family=unknown_loader | confidence=80% threat=payload
+7e0c7faa1609e7db187f00ee4cb9b889448d14389b8d2bc59799e03f182f6376	ThreatFox	2026-11-16	family=unknown_loader | confidence=80% threat=payload
+066d69ba417c909a3089b5fabf75d75f0310e7f10033fdff93e12bedbb8f5b2f	ThreatFox	2026-11-16	family=unknown_loader | confidence=80% threat=payload
+ff91eabb1f3c6e226939fcf7db76d3525b9e03de48a7a6bc03efbbf1ad1bd29f	ThreatFox	2026-11-16	family=unknown_loader | confidence=80% threat=payload
+011498be9d9565dfe8b11164b32fdd71	ThreatFox	2026-11-16	family=win.vidar | confidence=95% threat=payload
+43ee994e81a724973aea48ed142c23925b4951fef203175648624d7a33b3bd4c	ThreatFox	2026-11-16	family=win.vidar | confidence=95% threat=payload
+7fe131452696652ad7ecee45c02e188b	ThreatFox	2026-11-16	family=win.valley_rat | confidence=95% threat=payload
+6c2909ecee93844641bab825675d6fef81abc8e9b697853884bfffa66163872f	ThreatFox	2026-11-16	family=win.valley_rat | confidence=95% threat=payload
+363d864981317eb80a898c564a631870	ThreatFox	2026-11-16	family=win.valley_rat | confidence=95% threat=payload
+e405f4117ddeb3dd5ff58be416f2171c	ThreatFox	2026-11-16	family=win.valley_rat | confidence=95% threat=payload
+ae9a4ecb05a021451afa0e4d0877e870b3eac3e1fe02e5a672bec85815dc5f3f	ThreatFox	2026-11-16	family=win.valley_rat | confidence=95% threat=payload
+226049ccea0420c6ce9cbbc9254adcd1289d4ece7c7b5349fe01831735dc87d3	ThreatFox	2026-11-16	family=win.valley_rat | confidence=95% threat=payload
+736439bb3ff646e805806b1ec1559396	ThreatFox	2026-11-16	family=win.coinminer | confidence=95% threat=payload
+9eba1c4fe3fc4fbd2acb7afb1442f216	ThreatFox	2026-11-16	family=win.netwire | confidence=95% threat=payload
+7a0d15da5a291112cc7e938e0538f0a5d934563c2ba79e7aa946ca61eabd5a65	ThreatFox	2026-11-16	family=win.netwire | confidence=95% threat=payload
+ebf52236fbe64530f687338365c0f1baf20e5fced8f409db1dde456e211b27fa	ThreatFox	2026-11-16	family=py.venus_stealer | confidence=95% threat=payload
+eaa91100e3b97ee113e89ed4bbd9e3df	ThreatFox	2026-11-16	family=py.venus_stealer | confidence=95% threat=payload
+6b80b3ad8404eff97d70fb9994e01b93	ThreatFox	2026-11-16	family=py.rn_stealer | confidence=95% threat=payload
+fdaa8df207ca31ce1a2dc05bbe9036b8	ThreatFox	2026-11-16	family=py.rn_stealer | confidence=95% threat=payload
+f3512a1f3d2220e9bfe5914e91364398	ThreatFox	2026-11-16	family=win.wannacryptor | confidence=95% threat=payload
+a1b5c6a6ef30e4f614fd996541690d23	ThreatFox	2026-11-16	family=win.vidar | confidence=95% threat=payload
+107bde9126611222a6c6622985635e3c5bcf8cc11a080a1a1431facc19897eee	ThreatFox	2026-11-16	family=win.wannacryptor | confidence=95% threat=payload
+30a37a1059d329d7bb1c3ec1562cafb3	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+92cde019c950917e7bbe175e6a4128d31f53e2fb8af600734f383b6982faa2f4	ThreatFox	2026-11-16	family=win.vidar | confidence=95% threat=payload
+7ca8352735431ac8a041a30e3b4e3d7c	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+438dc0760b4e939f087ad0bfd49307db	ThreatFox	2026-11-16	family=py.venus_stealer | confidence=95% threat=payload
+d420a00a74e9b44205ac391edf7091a472dbf178a694a9ed6d16c6fc4b3115c2	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+2aa3d787c2a904ca7dfa1b869ecab277	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+476a39ee18e82dea1a32a1970cb2f3f0c07e6a2f449caf0d7846e78223c0a2a4	ThreatFox	2026-11-16	family=py.venus_stealer | confidence=95% threat=payload
+473779289b5ead474ff8298c88859b18667456eef9d3a40ed9dc0d23b9a4cba7	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+f292bdfb1718ce6c6a27dfc63bf744dc	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+3281e20ab91cd83849a07cec4c7ef83694c8c52731ae375a36a2693dece2ec9c	ThreatFox	2026-11-16	family=py.venus_stealer | confidence=95% threat=payload
+62b702be320794c4d3e4ec4dd6ab1929	ThreatFox	2026-11-16	family=py.venus_stealer | confidence=95% threat=payload
+a446881693739cbc0f18278e3f77863d	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+76a8e4bb2b7f664eb32c571d73ccddbe91f359b45171e88ff51b1fe01f0184f8	ThreatFox	2026-11-16	family=py.venus_stealer | confidence=95% threat=payload
+80af4afaba8b676cb9c58811f11b67ff	ThreatFox	2026-11-16	family=py.venus_stealer | confidence=95% threat=payload
+3b099d9754264f749514bbc3d3cf2606c6ae813ca6326bd1d7990aa579ff4f48	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+b6bbd093a4a88b5fb619ac7c1b952805	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+19dc1d9bfebb8933a48017346368a267	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+5f4a895dc9d4928fd6701305983c5131	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+dbe29f5719e7d82329a1305b80161744	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+8d8d79a6dfe505f297181eb742d47c7101effad9900a09e871a1ad38794912f5	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+5aaae8dff448be90caa91d9d64d534a0	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+7e3d17475c458e885d31a76d70ed23f4	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+5d055fb3ef48afc4c5711b7c6e02dc05722c6b123d54dba06c786b8b701843b5	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+64376e86e38e55029b189a159f8b3054	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+a778a37b17927f39845a22a4c9a76222c3d89e10928a17ef7800ab509d06b46f	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+289be07f07edd9fcbfef113433039bb2	ThreatFox	2026-11-16	family=win.valley_rat | confidence=95% threat=payload
+b925df4b07be754a127c83f5f5cb79fbf77e3d0b15a3035d77c5c0d9179653eb	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+04478cdfd30d7836a374f5f7d4a0d735	ThreatFox	2026-11-16	family=win.valley_rat | confidence=95% threat=payload
+20702c4400a465a0d9935ddbcacb66d99e81c3eb90336df5f1a13d1b2a674922	ThreatFox	2026-11-16	family=win.valley_rat | confidence=95% threat=payload
+33037dd37f1a6aae3e3ebe4a4b60a638db3a41cf73c8493f3b698b9c334c0fb5	ThreatFox	2026-11-16	family=win.valley_rat | confidence=95% threat=payload
+ccc8053c432e7bc0ab10d874e6727b9ebf411899c47af5be974e19073c4dd777	ThreatFox	2026-11-16	family=win.valley_rat | confidence=95% threat=payload
+e32728ab3095c886c905dff1be2a2c6f	ThreatFox	2026-11-16	family=win.valley_rat | confidence=95% threat=payload
+3df036123e1ef0d0c7ef63f735f2357eb7c58e36daf091745427b999f1786ba1	ThreatFox	2026-11-16	family=win.valley_rat | confidence=95% threat=payload
+7e63ee2ac4f098c9c927efca53c26374	ThreatFox	2026-11-16	family=win.valley_rat | confidence=95% threat=payload
+611e7161d1c1273f501a12400a4c63bd	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+08e79d60a60b85409350230b8a994500	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+eb66f67cf48a7d77f28021f4183a382f0042595d7d4b36131c6654852760561b	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+b0e8b79f6cbafc84877918fcc696ac20	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+072e05a471b4b357fe98dea71445395ae7141ee153bf2724385c27b316969eeb	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+23e380961ffc82f7a7b5dc9f7ec701f6	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+a0a6f64e17285464a4450c99f5a69bb5822a300075464989527b09b2750dd934	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+2100800000686b6be6388c07f49f8217	ThreatFox	2026-11-16	family=win.vidar | confidence=95% threat=payload
+f829ac5275972970124ab8e186fc65b5874edb20cee0ec6eb5f032d228a49840	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+0ce020c470f2306102d3b1bb172f3235	ThreatFox	2026-11-16	family=win.vidar | confidence=95% threat=payload
+b7673b792cfb905c6e00f26580f4b3622512cf2e89c3611d50d520d680c651ef	ThreatFox	2026-11-16	family=win.vidar | confidence=95% threat=payload
+074125e3031e118e9f3cdfe1968dc4d8	ThreatFox	2026-11-16	family=win.njrat | confidence=95% threat=payload
+de719cacc88b256344f89b773eb01bb41674092f8d8e1f22d9f08a01336a5b9f	ThreatFox	2026-11-16	family=win.vidar | confidence=95% threat=payload
+0a113920a5b5f7aa23f5280307fa0b8d	ThreatFox	2026-11-16	family=win.pony | confidence=95% threat=payload
+3503e3e829433c0c19648ca025310af90d5601911d7b81f1dffe0d5086d3ae78	ThreatFox	2026-11-16	family=win.njrat | confidence=95% threat=payload
+9c360eb408647bafb9a137a3c593769f	ThreatFox	2026-11-16	family=py.creal_stealer | confidence=95% threat=payload
+d57a32639b2f1365751d4d6a771a32b514c1185556c94e46b087add06bd3523b	ThreatFox	2026-11-16	family=win.pony | confidence=95% threat=payload
+bc04a3e53ab578eca6ce720985576605	ThreatFox	2026-11-16	family=win.pure_rat | confidence=95% threat=payload
+31f2ac56d97a381736d0edbc53cf8ae4737e48ecc9581154c7977ef8aea59b75	ThreatFox	2026-11-16	family=py.creal_stealer | confidence=95% threat=payload
+ab8d4dcf414df4d731e7254939180fa5	ThreatFox	2026-11-16	family=apk.doubleagent | confidence=95% threat=payload
+5c17d60bee121db72b66953b1fcb6b4ea0190981f82686101403b7e25a79e4c0	ThreatFox	2026-11-16	family=win.pure_rat | confidence=95% threat=payload
+1cdf8b4d64daafb01d0c3712d55d7334	ThreatFox	2026-11-16	family=win.snappy_client | confidence=95% threat=payload
+9538d7a05b4c5ff1534f28bc144cc9fde2a710cdd33aa496383e0e131abbf314	ThreatFox	2026-11-16	family=apk.doubleagent | confidence=95% threat=payload
+ab3e9eacb25d430e6b7857c86ea51f89	ThreatFox	2026-11-16	family=win.vidar | confidence=95% threat=payload
+500445da8202b959aedfc634f335d0609f865892806f8c2492fbaa2ae184e7f2	ThreatFox	2026-11-16	family=win.snappy_client | confidence=95% threat=payload
+1d37c36314f483daae09cb95c23dbab6fb87d91106624b1c899e1b8fb4134bc2	ThreatFox	2026-11-16	family=win.nanocore | confidence=95% threat=payload
+17c3c91911f9413888478d5290c1a546	ThreatFox	2026-11-16	family=win.nanocore | confidence=95% threat=payload
+74d0d2017569799772741c8252f7a96cc9f24e75be52cb761726696c56b0e343	ThreatFox	2026-11-16	family=win.vidar | confidence=95% threat=payload
+1c6c54abea8f869d961a2d20bc9de827096c0dc411f80dae7498ca00c5862279	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+7b1da0ca10ea3426a49e4906147f7458	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+9737d9df39829b30de239a05e05b14ad0ed2adcddef0ce5513dc27d935ff44d4	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+603ff2285504c2bfa78dde89005ba760	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+4f7b49218d77924003783825358dce1eaf23db0f7a2cb0c5018c313d82b2eda2	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+575dd161861eb4fe4269d1382e118aac	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+a2d5063023cedc78544098e8930fd500a136d272cd7fc313aabe8a76ed1516e1	ThreatFox	2026-11-16	family=win.prometei | confidence=95% threat=payload
+9ff8304f7b7b17137ad6a0554d6a6b25	ThreatFox	2026-11-16	family=win.prometei | confidence=95% threat=payload
+b7db8b116f3b023b2756d4628c0af9b3d2b1286a9729b0cfe975cefe8a3f06d4	ThreatFox	2026-11-16	family=win.njrat | confidence=95% threat=payload
+082f646424242e1474d3fd46a6073150	ThreatFox	2026-11-16	family=win.njrat | confidence=95% threat=payload
+c5436d2825df555758de8ebb63a679d7980c62b0ac599d78f2f743b5b59efcca	ThreatFox	2026-11-16	family=py.stealler | confidence=95% threat=payload
+243e3adaa0eac345c1f902a8b37f70a3	ThreatFox	2026-11-16	family=py.stealler | confidence=95% threat=payload
+4ea58e7c2b134e7ddc0a7c4013c50544eeb27644c2affbdd30d37439a23e30b7	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+6b8eb358b442cffef1ef864c86e7384b	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+678b409fd2c669deda028a99deb04eeb	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+c553b06361e5161092f9e4bdbc0ea2521133e520620852daf76242a961492ab6	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+52210f263900ddb5ff5a0e0f8155919d	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+297a33e3cafba806b70e3f0cf9b1310374075f0ba4a27089ef903e1c4d4435c0	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+a017c0395800994ca9fa2a377dcf9e574d9881878eb5ea7dad92131385c69032	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+599400ffd5600cb82651970abf67f6e3	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+641b8c11ed25594560d55bf5ec5a965f6b99c6a3d4b11431b3201abc4da2b383	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+4daddc1b33378aad1c64becce24a570e	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+8ae2cd356565f60391741a18ad3133db6fdb2d79237e2c2739e2b9a39bc27aa9	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+978eb6252401a04c2ef2cea72daa6f5c	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+2dff7043207213d3b8de2b59cd524c56	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+01c5a592f90d3ec49a6d80da0a38ab3b	ThreatFox	2026-11-16	family=apk.clientor | confidence=95% threat=payload
+20e9f81f8e84d33127af8f567447b05e	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+ce1b66b48afbbf74fc01582fb55e52c312771061aa865f0f5c007038961a9ebd	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+06d46fa22ceef9c21935bf15e69b3b30	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+a5977000bb1b52f104a5b5ab591875e1bc327bdb25b0b9d25a78de2e53ac841d	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+67449214d1f3bb6f4a6697bd16fffdb7	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+5e444e380ac29fd399033b5e640ef8790defd964747a1f26e37200072ce0f1ef	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+0b38726cb69f3d5269084406686c49c6	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+2537279c002df00c699d275b4a9da608300ea85691ddf7f876a2bdf3620d17d6	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+54c384ee5e9b3d260e64bd13cd2660a3	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+aa1a7ce32192a1984384d1e1d3d104537175b5103cd176887f5862476fe4d8e5	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+d8cdb0c9890d58a8bbb138f572676bc0	ThreatFox	2026-11-16	family=win.babadeda | confidence=95% threat=payload
+435e9e9e3f5f53506e6c137a9565a42d096ac5ad47d59d93d41130f1d56a0bfe	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+d315b6d2da5d28f03fac5ff150444a3cb65ccbfce56f874b37c70e856ada7d00	ThreatFox	2026-11-16	family=win.babadeda | confidence=95% threat=payload
+8686c5f7499630435faaa3266c72cca4	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+47e74b103ba3055ef19b75ae7469f92c	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+30c6ad5aa4d6730d9a506c9cbc49cb7d	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+215bd89fa1c2a6c4e33079bf9a5fef306f59c5a8fc43336d3dc2efc62934ac7f	ThreatFox	2026-11-16	family=win.ravenstealer | confidence=95% threat=payload
+234426939296e6caf3ca7eecbb5c4f25	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+0e3d36bedd65ec99a91084fbcba46851	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+5d91e967b6dc6ff678ff83a10bda5b04b87f34f9d886bf1138f593e411bcef99	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+386495b51b730d7d7dbeb9624653fdd2	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+6204b27f17dd77358341cb3190c6abec6357daab1af105df8257f149c3d67c79	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+74fc187f4dac2c32a56ae200825dec4b13ed7cff4ab0ac845b93f67cb95a0fe9	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+a74f60e5deac9ecf7953ee0f855a5a493832b6b143141e75526bf954720f303f	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+354edb3e1701ca8f58ac9945fcf88f0481e25ee97cce3fe4192e21573c0c9755	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+4e37a5bc4cf1aed92e0c8e18a6a02ee2680599ab150288944b3c3cd1299c0e93	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+70f8ef73834f4d092efb2e4e1351a1edaabfc3cba377f1e13bf498452b49bcbb	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+613947eca61a8751d01edd5eb75b228dff20a2705d8ad19e053320e37526d3d5	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+d4b94a1974b30eaa180599f3b56a356db0e8035dd1cf21d81c17453e813c965a	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+1bcae1cc9e696bf47265291c7a94519b011d988e35289c39023a9b58b5f31b5a	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+77d0be2ab3b64f0db6ec2a0072110211d9da09e0d0a0809227a3602d0c5e5562	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+353e858bd79db1a78ebb48792d152d83cf3b8778a44109cc73ba26a3e4b0d845	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+a252a486dfe4894226abb9f8aaada309b694bca2ad03144c26f441847f68f5d7	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+15b557dd6ad7bd33830b895ea381134d457998a480ae9efa58de93390cde0abb	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+c6ac3f1a775ba8960b2ffa54393a1a758774ff0324ea12339659e08b7cf72992	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+8a6e9e7a1632443699ba0cfd4906a6ebfb42d1cfbd28ea33a0513fc9bb43bb4a	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+e939e792ae53cc2e37dc760be78ed3d8eeb84a8791f599df80f8e3fc87fa7b7e	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+338c3e87cc0e557e0ba8ea8e2ca34247a8ef5ec46b1ec56eefb7676851a73588	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+3f1d2559b89f8635a1ab728262b359abe607b1fe0e7b426dfcc33bf0051a2522	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+fbd829e931462101c0dd3446ce584dbc45353915210613f8bb55e8909c4c6bf2	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+6602b1a2124539f9b0478f0ed98a6ddb8721f03e16e5fdb7f15c7153bc0dccb4	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+36d54277bec12d3b1f0ff399a8eaa8642fbc1c99b268e55ce23aef496dd15708	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+3d142729813c74f5a28964144eb07f226555129d31084fe0c166f6a1da8995c2	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+3ee07f74c2ace56871b9164961eba01a067706be2f43cbd5df04983eee0334d3	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+acd23759921d7962339cb50a1c9b72759cb487457e13b52c8b543023875fdbda	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+a99a222cce73c29e8f8470fc9df9e55db9d12cf8f2e0e00e5e0a3787550fefdc	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+fd8ce97e0b5cf9380fb64a666ef85d8838dfd140487d0abf91d7554d2a0a504f	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+f30410f1d68ce8dccd6f23a0369d4a6cb4812966351150fc8faf9435987c5dc7	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+50353ae671d61c265cdd2220c8f842c1eea2850a2367d59755aa0de8b325727f	ThreatFox	2026-11-16	family=elf.mirai | confidence=90% threat=payload
+83fb34cc016ad7568e1d813d4f9c0c9f0d526dd4a8c2e4a4d350b9ddbb77d894	ThreatFox	2026-11-16	family=win.salatstealer | confidence=90% threat=payload
+94b10cb6cb7f640bd5c1445cef4749c60e3ba16d576b59a4076038bb64c78a0a	ThreatFox	2026-11-16	family=elf.mirai | confidence=95% threat=payload
+29b34620572119a0053e5c32de8c84b9d9552814cb059f3ffe795e86c479bfb8	ThreatFox	2026-11-16	family=elf.mirai | confidence=95% threat=payload
+3439d85429affb3755c83b7dba93a209bc0abc0592ad5c028c8add99bc7d59a4	ThreatFox	2026-11-16	family=elf.mirai | confidence=95% threat=payload
+35d2a8f92ffde391195c38d7c7dbdd6b5eda71ba55fcbecfb4bf56e84312da8d	ThreatFox	2026-11-16	family=elf.snowlight | confidence=95% threat=payload
+98b3cfaf8f37bae7bf7d111971dec85a5b17e8b6f5c142e77b1f5d03c1bf76c5	ThreatFox	2026-11-16	family=win.warden_stealer | confidence=95% threat=payload
+7be9b26d9f166944bbd806ce9368927396705c3281f9a31da3df7beed3ab505b	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+62c9f98edf33cfb6af81790593aaab841e3a5806fe4ede7bfe1776d48d558c1d	ThreatFox	2026-11-16	family=win.salatstealer | confidence=95% threat=payload
+c35c38e1ae17c370d948d812ac801fabe6aef4609c1b4ad094f1f61a18861513	ThreatFox	2026-11-16	family=win.snojan | confidence=95% threat=payload
+0041f825e435869917347a9fd0fb65f11d557649537ee6b6ca31337d6404aa04	ThreatFox	2026-11-15	family=win.agent_tesla | confidence=80% threat=payload
+9c3a719b392e14b1f115ef4394968f1e0b627b8083a4c86b33d598cda3f9d8f2	ThreatFox	2026-11-15	family=unknown_stealer | confidence=100% threat=payload
+a49366f99ff5d82924651282e7b03b33f226330aa77b2851a1b06bebe043bd8e	ThreatFox	2026-11-15	family=unknown_stealer | confidence=100% threat=payload
+3c69427ac12705c9f782f55bcc972d8cc08ea6cf9e3ece7da535b3b828f8f6b4	ThreatFox	2026-11-15	family=unknown_stealer | confidence=100% threat=payload
+64facbab4ac0136dbaeb3f8b902c2e4788450c264a9aaf253f7b3dcbbd966606	ThreatFox	2026-11-15	family=unknown_stealer | confidence=100% threat=payload
+416c2af571cbefcd13cb2124776bff39386151c76f28527b32206eea1029afc9	ThreatFox	2026-11-15	family=unknown_stealer | confidence=100% threat=payload
+7eeb4b217c200ad8092c84ce8dd0d757c828e42d95959552cfd30d6cc452463b	ThreatFox	2026-11-15	family=unknown_stealer | confidence=100% threat=payload
+c7506e37e47f4b5781f73cffe9eb9cd1ab14d0f574f748c174f524c774d738d5	ThreatFox	2026-11-15	family=unknown_stealer | confidence=100% threat=payload
+0f3f2d1c5ad416e2d85709dc21dd04ed25f3dd28a451f4ec3815f30d976607d8	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+4a15053177779c419be71d826d154cfdd1fe5ff72dab91dfacb78d54a0cd5890	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+2af7f9995ccc98fc85bfdf87aea264ae425d70c8bbb339a2c09f8dacaeaf263c	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+b999350cdda5ea847d8de278fa6fc1313f02c789280a6d81f7a4bc3986814998	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+c6029cfcb040299668a787e017a742e597e76e2156a301dd8f2b7f05e69c4306	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+c628d7f3c39c34849cce93b9254d51bf31514201702e245fd9235c6a78b58f52	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+a5467320ff2d91dd1bcac37485c1fb595c5a1b905834cd478cacac325af9a988	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+a2991bc9d54fca10b643781ef1ad1bbd4338d86199cfee830eea39b739b37728	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+ea87f9b0bba68c854c1794d234a5b1d31b08fc033493d20e9a39e3aff20a9194	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+100b6666b703ee1df0fe809dfe12d562e6f2ab7fb775fbf590e3dcaa69a8fa90	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+d37e325685a1b870be832a27b355c0f78f9866e4fd58419260138241f6f44d00	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+233a4c8d2680f8f670dc399343b1355467b194ff7de9131f9a2de316f59dc9b6	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+dcec17b39f251d02fea17d7ddf6082ac4eb0886bec7cd0fb789325d3ce17e76d	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+d35f0c35cea01e8b3e58c4131fe737252dd4fcfe44b4adc2bdfb817749310e76	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+06c7d15674aca27617643b22396f5466689fe628af76b684eaf75b887ca1a0c2	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+c3333a42425bb64e9bded9db3e0ae68e747c8ec1dd43d783ac34c77fb3844f99	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+294ff2698cfa2ea283ad7671d4c9577fc7ab86c56acd32e8d2ef46c73791a09c	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+dc5c23a8fc6ddbfead93e10c315326754e3f57ef2cd2aec38b72807134441c7a	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+704cd1e2425ae39c02c7e961bd1c892f9609e6cb2821d8c2fa1afd07b31b7d6f	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+6c1099dc0768901edb9d76febdddfc74310bd53005fb77a36b25ff7882db96d4	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+d5e12706b0eb2b0f4e339b4fa8d355d55c7d145286550e6df28eed3e3360d57d	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+ae417390f0b9a3066a1d7986d5d9fce2799a67776f115128d5320f0766ad10a0	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+c780d4a7c5f2ca6e2776d6ae9c251735a9cab421e4fdc2358dd82f777de3cd55	ThreatFox	2026-11-15	family=elf.mirai | confidence=90% threat=payload
+c972fb2d70c69e331de9634e5ce5d39aa07541851b536ecd8867285d6cc0e10a	ThreatFox	2026-11-15	family=unknown_stealer | confidence=90% threat=payload
+a381cfea5c8e152d55b5c6c1e2123d34b704f225830f41b306f4e10c9d126e15	MalwareBazaar	2026-11-16	family=Mirai | filetype=elf md5=d1b97438d226cd26174115d63c648b49 sha1=974bc58a626758659833bd14b66213b206099686
+202ab923caad6c68cfa1654a9d8bb0178d9868446f1a713a53ae932c0e0a24f0	MalwareBazaar	2026-11-16	family=Mirai | filetype=elf md5=1ffdc6a14c213844b1219b9b9fa86439 sha1=ce1c2da57c9c50c010e9dfef6830d9fba2ed4003
+4e039b8335f759c200f6dbb723244fb12a572ee1c18749166d8ecbce1db5b934	MalwareBazaar	2026-11-16	family=Mirai | filetype=elf md5=daf0b685662d9d62eb8481a52225ae9e sha1=47e8670fa8a3c85cb8c8d3c832c0ee8097488887
+ad809fbaadc46177ec7f29de5f1bf7905fb3080d	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+b523ddcb2d8f62c7737216525795f0842b82c03f	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+b8e3890832e7c4e6b37cb3d06dc3fc355ddd3fda	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+b95717c01a01264aba0f3d6fbecfd9d6e5cc8899	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+c27009e6629bfb25b61f8e941c77f47daa0c2896	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+c5ef8c70063732656a92254b153761b660c44ab5	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+cbf5f7700a776e6b5adccf4ef0ae9cac1c67a9d3	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+cf915b17ba67846272bbb63c7fca3c2bcda0a63f	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+d309f3bcb16ed1cf34d28eb6e7553309347d0144	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+e11cba16481d5954977c60ef8c6c25a5a0aaf0ae	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+e6772db86de99cdca5f56677f52ffd66b8243995	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+ec838cf7ab63ae00ce206e614c4464cca7967ac9	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+ed382cdf6a3bcc376dae9604b6bbf1fbc90f0e88	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+eee999386fbcf33534351f91ee0788eee91e0948	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+f2bf472bd0835a1393fb0492c2109bf0412a9496	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+f63557bb4da1390e35191438eb8f9adf7adab1ca	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+fd06458844a72f962684210abfcabd783e30d610	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed
+8b86bda10bdce0c199c95d67b055a562dace3720	OTX	2026-10-16	family=Laplas | pulse='BREAK THE SILENCE: Tracking Silent Lynx Through Exposed Infrastructure' pulse_id=6ad1d090651f974e1ec049ed

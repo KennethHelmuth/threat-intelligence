@@ -1,0 +1,26 @@
+title: Network Connection to Win.Nimplant Infrastructure
+id: db3ccb12-6a32-43d1-8977-0d2430bdf51c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Nimplant.
+date: 2026-11-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.win.nimplant
+    - modat
+    - nimplant
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '169.58.165.63'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,33 @@
+title: Network Connection to Vbs.Gammaload Infrastructure
+id: 33cd4c9c-a516-42db-aa50-5d086d953fc2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Vbs.Gammaload.
+date: 2026-11-16
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.vbs.gammaload
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'opportunizz.pro'
+        - 'agfc.harper18.workers.dev'
+        - 'venture-cpu-sur-everyone.trycloudflare.com'
+        - 'belongs-pittsburgh-chicago-translation.trycloudflare.com'
+        - 'kiyosaki.pro'
+        - 'mike-arrives-evaluate-decent.trycloudflare.com'
+        - 'teams-comply-match-packets.trycloudflare.com'
+        DestinationIp|contains:
+        - '45.76.57.220'
+        - '64.94.84.137'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
