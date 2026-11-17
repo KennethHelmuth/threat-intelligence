@@ -1,0 +1,31 @@
+title: Network Connection to Ionos Infrastructure Infrastructure
+id: 184ceda8-dcb7-4525-ade3-eccb58c65fc1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Ionos Infrastructure.
+date: 2026-11-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - crypto exchange lure
+    - cve-2026-84869
+    - ionos infrastructure
+    - malware.ionos_infrastructure
+    - msp targeting
+    - remote access trojan
+    - screenconnect
+    - session hijacking
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '197.47.160.252'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

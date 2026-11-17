@@ -1,0 +1,66 @@
+title: Network Connection to Net Guard Infrastructure
+id: c87b869b-27e8-4e9f-b602-cb1aa6fcf4c0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Net Guard.
+date: 2026-11-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai brands
+    - aurora stealer
+    - browser hijacking
+    - chrome extensions
+    - clickfix
+    - invalid printer
+    - malware.net_guard
+    - net guard
+    - octov2
+    - search hijacking
+    - typoprompting
+    - typosquatting
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'opnai.com'
+        - 'runawayml.com'
+        - 'griok.com'
+        - 'anthropiv.com'
+        - 'midj0urney.org'
+        - 'chtgpt.com'
+        - 'cloude.ai'
+        - 'chatlgpt.com'
+        - 'cluade.ai'
+        - 'clsude.ai'
+        - 'preplexity.ai'
+        - 'deepceek.com'
+        - 'elevenlebs.io'
+        - 'copiot.com'
+        - 'biomimicrydevtech.buzz'
+        - 'blockchainfuturedev.buzz'
+        - 'caude.ai'
+        - 'charactor.ai'
+        - 'charatcer.ai'
+        - 'chatgpy.com'
+        - 'chstgpt.com'
+        - 'ckaude.ai'
+        - 'claudie.ai'
+        - 'deeepseek.com'
+        - 'deepseel.com'
+        - 'deepsek.icu'
+        - 'deespeek.com'
+        - 'elevnlabs.io'
+        - 'giemini.com'
+        - 'hailou.ai'
+        DestinationIp|contains:
+        - '185.138.88.3'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

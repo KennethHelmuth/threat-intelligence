@@ -1,0 +1,36 @@
+title: Network Connection to Coffeeloader Infrastructure
+id: f3dfacc9-ce68-4554-aaa6-ec7121086211
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Coffeeloader.
+date: 2026-11-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - armoury
+    - armoury packer
+    - autohotkey
+    - autoit
+    - botnet resurrection
+    - coffeeloader
+    - gpu decryption
+    - malware.coffeeloader
+    - opengl
+    - retadup
+    - smokeloader
+    - usb worm
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'alphanoob.com'
+        - 'rurjfvn.rs'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,34 @@
+title: DNS Query to Coffeeloader Domains
+id: ea0011b3-23f3-464f-a286-214cde57311e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Coffeeloader.
+date: 2026-11-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - armoury
+    - armoury packer
+    - autohotkey
+    - autoit
+    - botnet resurrection
+    - coffeeloader
+    - gpu decryption
+    - malware.coffeeloader
+    - opengl
+    - retadup
+    - smokeloader
+    - usb worm
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'alphanoob.com'
+        - 'rurjfvn.rs'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

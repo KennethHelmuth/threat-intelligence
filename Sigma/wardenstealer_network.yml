@@ -1,0 +1,61 @@
+title: Network Connection to Wardenstealer Infrastructure
+id: 579c0cce-58fd-4db6-9e6c-602f5d468ab8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Wardenstealer.
+date: 2026-11-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ai credential theft
+    - infostealer
+    - llmjacking
+    - malware-as-a-service
+    - malware.wardenstealer
+    - rust-based
+    - session hijacking
+    - token stealing
+    - wardenstealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'wiqld.tattoo'
+        - 'wfave.tattoo'
+        - 'vvoid.tattoo'
+        - 'viebe.tattoo'
+        - 'vdibe.tattoo'
+        - 'trhue.tattoo'
+        - 'taton.tattoo'
+        - 'soful.tattoo'
+        - 'skies.tattoo'
+        - 'skhin.tattoo'
+        - 'shilk.tattoo'
+        - 'rxise.tattoo'
+        - 'rawew.tattoo'
+        - 'pubre.tattoo'
+        - 'nejxt.tattoo'
+        - 'mifnd.tattoo'
+        - 'mgyth.tattoo'
+        - 'meood.tattoo'
+        - 'mavrk.tattoo'
+        - 'ligne.tattoo'
+        - 'iccon.tattoo'
+        - 'hhalo.tattoo'
+        - 'gljow.tattoo'
+        - 'gbrid.tattoo'
+        - 'fofrm.tattoo'
+        - 'flvux.tattoo'
+        - 'fglow.tattoo'
+        - 'fakde.tattoo'
+        - 'eycho.tattoo'
+        - 'epbic.tattoo'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

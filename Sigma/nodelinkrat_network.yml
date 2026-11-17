@@ -1,0 +1,38 @@
+title: Network Connection to Nodelinkrat Infrastructure
+id: 5d8a2dc5-c022-46ce-8f25-20704b02ecf4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Nodelinkrat.
+date: 2026-11-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - anotepad abuse
+    - cyberespionage
+    - fileless attack
+    - malware.nodelinkrat
+    - nodelinkrat
+    - north korea
+    - south korea targeting
+    - spearphishing
+    - xenorat
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'owna.loveslife.biz'
+        - 'nid.weffm.p-e.kr'
+        DestinationIp|contains:
+        - '185.27.134.207'
+        - '185.27.134.120'
+        - '211.223.14.75'
+        - '103.81.116.10'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

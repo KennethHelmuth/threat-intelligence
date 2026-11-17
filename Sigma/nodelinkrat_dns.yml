@@ -1,0 +1,31 @@
+title: DNS Query to Nodelinkrat Domains
+id: c1373f1d-44b0-4696-bf24-840fc9ea7b7d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Nodelinkrat.
+date: 2026-11-17
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - anotepad abuse
+    - cyberespionage
+    - fileless attack
+    - malware.nodelinkrat
+    - nodelinkrat
+    - north korea
+    - south korea targeting
+    - spearphishing
+    - xenorat
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'owna.loveslife.biz'
+        - 'nid.weffm.p-e.kr'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
