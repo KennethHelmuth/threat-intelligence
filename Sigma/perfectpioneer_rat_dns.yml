@@ -1,0 +1,38 @@
+title: DNS Query to Perfectpioneer Rat Domains
+id: c1e5f27a-0ca5-4709-9628-f0b1576acbc2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Perfectpioneer Rat.
+date: 2026-11-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cyberespionage
+    - earth alux
+    - finaldraft
+    - kukurat
+    - malware.perfectpioneer_rat
+    - perfectpioneer rat
+    - quic
+    - ref7707
+    - sharpdpapi
+    - squidoor
+    - tgr-sta-0049
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'www.maui-cocktailbar.com'
+        - 'www.sacofficegov.com'
+        - 'ads-edge.com'
+        - 'www.wkuyda.com'
+        - 'www.thailisting.net'
+        - 'www.cloudflacecdn.com'
+        - 'www.investigationj6.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

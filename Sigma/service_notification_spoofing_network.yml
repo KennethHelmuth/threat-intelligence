@@ -1,0 +1,33 @@
+title: Network Connection to Service Notification Spoofing Infrastructure
+id: 45f720fb-27d7-48ab-ad87-e10bb13f27b2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Service Notification Spoofing.
+date: 2026-11-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - credential theft
+    - malware.service_notification_spoofing
+    - microsoft 365 impersonation
+    - phishing
+    - service notification spoofing
+    - social engineering
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'moments-notice.com'
+        - 'planetmaison.com'
+        - 'newbooker.com'
+        - 'outagefixed.sbs'
+        - 'em4493.moments-notice.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

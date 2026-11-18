@@ -1,0 +1,47 @@
+title: Network Connection to Xaocmail Infrastructure
+id: a7252be0-ac24-4a4d-965b-0162aaeb900e
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Xaocmail.
+date: 2026-11-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - cloudflare workers
+    - dns-over-https
+    - havoc
+    - havox
+    - malware.xaocmail
+    - phantom53
+    - phishing campaign
+    - xaocmail
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'sync-node-serv.com'
+        - 'a8f2aac37385.xyz'
+        - 'kfkwrfdd.xyz'
+        - '544504d7fe1e.xyz'
+        - 'bestutyresdomaonupder.com'
+        - 'bestutyresdomaonupder.top'
+        - 'bestutyresdomaonupder2324.com'
+        - '478a4d17d280.xyz'
+        - 'nnn-task-name.md'
+        - 'noav-beacon-test.md'
+        DestinationIp|contains:
+        - '76.76.10.11'
+        - '185.224.132.148'
+        - '162.252.199.92'
+        - '145.63.138.67'
+        - '162.252.198.204'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

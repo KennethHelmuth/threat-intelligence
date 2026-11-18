@@ -1,0 +1,28 @@
+title: Network Connection to Lotuslite V2 Infrastructure
+id: 8c5243ca-39a4-4f94-a2c3-3bc11bdbeddb
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Lotuslite V2.
+date: 2026-11-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - earth preta
+    - lotuslite
+    - lotuslite v2
+    - malware.lotuslite_v2
+    - mustang panda
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '103.175.50.32'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

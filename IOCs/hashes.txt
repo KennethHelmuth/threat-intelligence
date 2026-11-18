@@ -28905,3 +28905,312 @@ f1235751c9e48e5732b7b183dc2bb175a19e4c6401dfd0e96b4cfdd0d8c54b4c	OTX	2026-11-13	
 51d577c84e50657d6cacf0e7738c9539ee4f39f76838423c682ad0dadc8e2d87	OTX	2026-11-13	family=Net Guard | pulse='TypoPrompting: From AI Typos to Malware' pulse_id=6af754d99146a92e2897881f
 a052b63e9c358c8911c17d1f58cce00949791f103fcf74f6057863d681c52301	OTX	2026-11-13	family=Net Guard | pulse='TypoPrompting: From AI Typos to Malware' pulse_id=6af754d99146a92e2897881f
 bdddb50204d6867b4bd73d9cfe93cbc98c4518342da104e4608f04e675ac6cb3	OTX	2026-11-13	family=Net Guard | pulse='TypoPrompting: From AI Typos to Malware' pulse_id=6af754d99146a92e2897881f
+c4c84f595ae9260f703dadae2379d47591dd92d1b85802105798ab5de2aa1bf4	MalwareBazaar	2026-11-18	filetype=exe md5=c0cc2616b97756ed461236da3e812f47 sha1=ed188c2b78bbbb4a08e08b725c4442038d451570 | vt=27/74
+c813b812f9383c189a840e0cffd8868ccd1989b3db0b56fc0f337495417ffee1	MalwareBazaar	2026-11-18	filetype=sh md5=6903162dba69795292cafa2d4d4e460d sha1=c53266d54f97890fbfad5d8bcf13ae74a43ba151 | vt=8/74
+3fb3930c3097a988ceda9c58dc018fd36af3885465aec96ba03b64cf49849752	ThreatFox	2026-11-18	family=unknown_loader | confidence=80% threat=payload
+9f32835cf0a5fe627778fbad2f68a079c389cb93fc8008bb89d5ca5496ed6eb0	ThreatFox	2026-11-18	family=unknown_loader | confidence=85% threat=payload
+809e8460deac450628a33b62cd7842201f033c346492941eff082817f914c0d6	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+8f586ecff2b419b1a3cce134640c26b825e308bcacfb22ae4f5ce80cbf1d4d67	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+b4b7b586c1dc77761dcae2cbe280e3aed238986011c98c174c89cc2908693325	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+779a80758cbf72a3db9699c44ec1ac4e231a8d27919c39d7124380cd1149bd7e	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+eceea0a575f7df0573225640ee5c8918f4818936adec66856fae494791d05cb0	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+ea459bac849468ef33494440a264756cd4f811cb7db94f02955571cb89252530	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+10dff247dfb82cc1d2c72f1c0400a5409320c029d11af19b4ed525c83d6e19d3	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+14d3d55deaf7c44fa7900844faba5d3af2db39ebc3e57dbbbdf8026ce06a7fbb	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+1469696673673e01f4090dfac6884eb5d03071801fb4d85929dc9c86aa3591d3	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+7cfe97db459d72cad53391670693d46f0a361c6eac291019860708f119edc48f	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+bda908bfacbce3347b45850b81bbba87cf1a41e3bfbf7529b2c88b3802af050f	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+bef878a1a1c651b517d0b5eba2285d8f4b0d2c90af8d25176cefc4b682f44ec3	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+854a0080a06fd571bb88e0af121cb8f55e5d8a847300bfaa87cf321aec03f987	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+a6f2c17aaddb853e9cbf05b550774409110547454fc9e2ffd2e08c6e8cfdf869	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+cd4aa849747049a5aa17c8efa4ccc10ad2cf9d92671d0b90ac4720406b0e8602	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+29f9d25548bca569672c216e8115686c9e0a43320de623c2886fd37b0ff679e2	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+d70485af2ed2d1a7531acec32826174b17e9f13e0d4c04f8204fee8d233add0f	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+7697ce7fe56935fa7f128ea242323f612ba37d03702a57b9c7cdda170ad99e25	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+51de6c6dce0b4c7e83ac0a9b708588fbca9fb121f190bd675b8cdd4bf2beb8ac	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+5a0110ff275856a769dfbea53bccddaf15ce2d10a01edd9dc0baf2d2a8ebc1c6	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+6808977195280f51f3308cdafb44829dd754f5d2c90ad4e572ea7ff2d6797bbd	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+d1960daf84b8c293e622bd049b138b6b09a7084e596b10c863c8a4f43dbca0b5	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+5fc5b46d8cd6e954aa74291e43ccb51d3d20eb0e4395032a5ff1d487977ffd07	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+54451e2ce728f448e1dcfd2996f120bcf0f2911415973181504daabad1064ccb	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+396541b448bcac2b0077e5dce6668200c6871a9c7a90a7d043085bba48b0ceb5	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+21b2b1af9d8f9f5e6be61541bb2c3bef84684662bbfe13fd8058e0e67a110aa1	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+28480685af50275993284aae4fdf3299062750c650c0b78705f60c146938cd4a	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+88529f7b54fbdc1854566a5b2d7763fcf361704b4d2fe556c70ad3088e72d588	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+c5492b05fcb17dd6b4079d38ccc1837ca524c8c9ecc4fdf6ccd62f8683cbd56a	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+08f7cc7521f634b05eb7eab6201b87a8cbce7104dc58d616bd11529c65067e7d	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+83490814a5b8fb6022259464c77ccc4894181e744a94b25e16581cf4d28ed9ff	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+440a67692276721cb1275d6ca46edffe3bca1c494c33eaaf14acb9cf5a906b1c	ThreatFox	2026-11-18	family=unknown_rat | confidence=95% threat=payload
+fe2d82ed0f246292694e311642307563d083c3ede829b70edc6f6d280fab998d	ThreatFox	2026-11-18	family=unknown_stealer | confidence=100% threat=payload
+5459d51b890223a31099e49dc0bc9aae778a5ffd3a48c17192efc93f0cd3fcbd	ThreatFox	2026-11-18	family=unknown_stealer | confidence=100% threat=payload
+906b78d823d1dc2b3283672e86ba5eb68e1b9c8c75dfe2a0b9d14579f9e52302	ThreatFox	2026-11-18	family=win.remcos | confidence=100% threat=payload
+38fef8dc1fab96cb08a27bebc4e85a022308371e15c7a131e27b491cd679dc90	ThreatFox	2026-11-18	family=win.remcos | confidence=100% threat=payload
+b94b3efa333e41c846b01a0a65a0c72a5e756e3b44bed78179ae2a577f1ec47d	ThreatFox	2026-11-18	family=win.remcos | confidence=100% threat=payload
+9912ca6dce79a65c49eb55f751759d426ded522f93d33358f2228f2c6270b321	ThreatFox	2026-11-18	family=win.remcos | confidence=100% threat=payload
+2afde2e56560a21ce3f4646081e638b55cd43aa3189cbd8ea515a9e13d8b0dca	ThreatFox	2026-11-18	family=win.remcos | confidence=100% threat=payload
+045fa0146b33ab0d0964cafe825a226ea519c43db1c8ccfa6b689bedd921d680	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+2e411dcab600be331e4c067099c30e51a2d5698f523b86383ccdbcb2b886f778	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+bbb2a958e60b92c696313be6b47464ab26ee071f4ebf6d1a3d6067f6cc0f6d0b	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+0778c299e25fd05e4db5b6d89279c8dbabd137c7ab79100df15f837a02cdfa60	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+3accdeadca6f4467ed73f71b9d1f7e5176991d4cd78daa6e8950748064681e46	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+3f1009df70ed8c72cdade5c7ed4e5c354b81968063db3b58382f417902387d67	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+f6d76f81d71215d6dac178d3cc9bb738abe44013aed21df1fdc537ed7f67137d	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+0a1581eb4f4043ba998c548b7dec2f94bfad9ade6484d264ddb9425ea0ca373f	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+2e70d0ccfe4c3801fdf0c04c7c8b8c62f3cca06c6a924ec96c655302e8d4fb8c	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+76af3022b7e7b94f75f73908e0af849da962ac84917aaae45cb36577e04437ee	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+c81b1cb01b38d3a4a74c5ba22b5aae45ab0aeb9099585572ffe0cf11d068b202	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+e56fa09fbba980197ddb0797839a62218bf83233631f011a5cba3a39929173b8	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+abc06faf30c8d82178b5ea95ccc7a02439a002547842ad9f5d6773e926717e5d	ThreatFox	2026-11-18	family=elf.mirai | confidence=90% threat=payload
+2697bf19eb9e328dc01b2d457bad5cc3dd489b5c7b350b82b515227870e96b0c	ThreatFox	2026-11-17	family=elf.mirai | confidence=90% threat=payload
+b056a4b2bf4232b9710c024b17a243827da6d1709b0a7cc2733e8a05e6fa0322	ThreatFox	2026-11-17	family=elf.mirai | confidence=90% threat=payload
+684d3355d2e96f7670f97f3a81c55bad4462ad08e81fe8849a0b81c986b13cae	ThreatFox	2026-11-17	family=elf.mirai | confidence=90% threat=payload
+826baeb7d15fd9c368b8f06ff9c1f93c159a2407d93ce5cd16ed60422c47708e	ThreatFox	2026-11-17	family=elf.mirai | confidence=90% threat=payload
+dcd6be14c3276b300d691eabb991e65638ce819f61159bcc8784cd8feebb11f4	ThreatFox	2026-11-17	family=elf.mirai | confidence=90% threat=payload
+03ccf08fb1cefe68d9617888844c764416b8a3a33b0e1c1c45dbf1d5eaf9d8c7	ThreatFox	2026-11-17	family=elf.mirai | confidence=90% threat=payload
+01afe3669d0fe044b2c29ca59c12b08eeeb62ccd2ba1a57becfe4c7685934ed1	ThreatFox	2026-11-17	family=elf.mirai | confidence=90% threat=payload
+b24b707dc3e066e41b66020c012410545ca4ca79b87f2e88412fa58a5174a21b	ThreatFox	2026-11-17	family=elf.mirai | confidence=90% threat=payload
+a778e994225578a6618e0ea0b8a238a5192d54bc19814f4e6c2d7e6380596c14	ThreatFox	2026-11-17	family=elf.mirai | confidence=90% threat=payload
+513f6bf693858cfbfe54e6a84d5252ca4aad3dcd6ed94469c63f4fab2081e948	ThreatFox	2026-11-17	family=elf.mirai | confidence=90% threat=payload
+4647964e8b79eb2aec29699221dace8d3814d708ec658ee76e540d38bdb486a3	ThreatFox	2026-11-17	family=elf.mirai | confidence=90% threat=payload
+8b515b6ece08aaea6f84d5a094394acbababe209b10cccd945d0b46fd6acc6a0	MalwareBazaar	2026-11-18	family=XWorm | filetype=exe md5=ec423b82461d6c5fd5e4ac553af7949a sha1=e1e653012332bab8aea54aa6cc5b0c4b5dbba3dd
+8f92be363039893c07a578bf0be3cffd5b22f6cc402c18269ba6e650db81a93f	MalwareBazaar	2026-11-18	family=Formbook | filetype=exe md5=aed6ea818e989a532d71f06dfa540658 sha1=028122e283391939e31666c18e00ed144c6c8074
+0c88759246530f189e87fa23a593084b7cc29a389b7a8df08f1413dc731f4ad0	MalwareBazaar	2026-11-18	family=XWorm | filetype=exe md5=84088a22dabaa7822192979b5cc075dc sha1=01538778c3a0ea9369aa3809e048711b21ce1d86
+99e03781b4c52c5c5440082e54fff18857e59fe8161bf92184649ebcac7a6000	MalwareBazaar	2026-11-18	family=Formbook | filetype=exe md5=76bdba4bb9b80fd5e7d51950e5373bc4 sha1=14b49ca70c341923d4f079c27c7485266f1a7633
+c50ced1116cae74556951a395ce9bb2f958a519105093b38025009b7046a9f07	MalwareBazaar	2026-11-18	family=Formbook | filetype=exe md5=63db93c47580b0066c4554fbfd453d16 sha1=e0b7b989cbb4cd9d875de88556e06f677fe77fa7
+8fef53474f80898c6f6aefa627af7d7241484cfac19e8ae80c5a6c939b0a727e	MalwareBazaar	2026-11-18	family=XWorm | filetype=exe md5=32245e93897d2dffe35d1a487192bda3 sha1=f6a4d0e73e2b449157157ff1b7348decfdb7b3fe
+20370532a621f2611b51ad0369fb1f48c5208f49a971b56b44f1e2d321c41cb0	MalwareBazaar	2026-11-18	family=Formbook | filetype=exe md5=283a7a00cfc8ae313e2637cff09f8fc0 sha1=f1d71098c4cb7be839dbea22235a7aea93284254
+e6ff71e8dcd5b81016287a4e601a6bed569e256e179c17e32182e08f4ce234d0	MalwareBazaar	2026-11-18	family=XWorm | filetype=exe md5=1f0e7d7767c19247fe18c5c164e6d48f sha1=d31376b38cf002be76af54c3f03a0185513139f9
+6b6d1feb22b89f7c188f7ec7fed0b3fb48299119228b516379b6f4bbc3fec336	MalwareBazaar	2026-11-18	family=XWorm | filetype=exe md5=1d8c69d30f0abebb9f67f9cd6f03118f sha1=aace49cc1dfa3d4a11c988d5dcd6d60e89376ab0
+9921c957833c07bf45c7f67f3a9f3d15555ad4da2be2b44021d6d211c1a8be67	MalwareBazaar	2026-11-18	family=AsyncRAT | filetype=exe md5=0767c7a4c0518e80dfc50148c82929f4 sha1=976e43f4cf66509ce676bf14c6f5cfe396835fcc
+0692bcfd2eb11a5ec2f5b1076e6cc4cd4c911adbc8ac34b7350c9797a25e432d	MalwareBazaar	2026-11-18	family=Formbook | filetype=exe md5=0466db73c8168afbb4329cf17cc4075f sha1=ee9ef63711d8d1e4ce7b39e70d1251b59114ef78
+e8e26860ce49a7df66f9b41e5d66412e5a230d03bc2fcfeb3b9b1c0f2c34e9a2	MalwareBazaar	2026-11-18	family=Mirai | filetype=elf md5=c90c3273beba0ad11ec99b2d049109e7 sha1=5cf18bb819dcd5b2639c5d6cd2e663de598b4136
+48e7c1e1e23d0b36a9fa57383d8bc391891e5069c6965485266d63ce65b1fbdb	MalwareBazaar	2026-11-18	family=Mirai | filetype=elf md5=05e90b2d89293439eacdecb1c5fed93c sha1=d6160a679afffc056b1f327df8182534c45977bd
+1734d82391a4771b63e5da431048526567ca8743397b2fab24abf44c27e8703a	MalwareBazaar	2026-11-18	family=Prometei | filetype=elf md5=0e7eea76548e7d032b5ea48052542910 sha1=31be8508062c75871b8fcd64a3f855d2bbbb6ed8
+e631b02a4e79c964e4e49ddacdb5f61a08819c7a64b6ccad81b7f465e4a05184	MalwareBazaar	2026-11-18	family=Mirai | filetype=elf md5=2bbc1c14ef98c0ebf5cc777b340a0210 sha1=5488582c944cdcd6956acfba811c55f86980c1d6
+82078f6e2f6d5f76556c0ea24fe0964b4678b4559442703dd637d191b7c7a44b	MalwareBazaar	2026-11-18	family=Mirai | filetype=elf md5=a267900be8a5840da92a85c2c4bcfc17 sha1=16dfbdab4bfe90e68d9026158c0255eb898cf7e6
+de4a8c66fb63a9ce5de27eecdf99d5da3196642715388f4adaca44b1f4faff98	MalwareBazaar	2026-11-18	family=Mirai | filetype=elf md5=84345bb45b0677eb76b6a985e7672d62 sha1=72dcb0f6f7c24eb4158962235255697861b632e2
+b14a51949b7ca2c9305c8c921589b16ae1885fa6e8ec53570d4161ba312b43ed	MalwareBazaar	2026-11-18	family=Mirai | filetype=elf md5=fd42e74608343de9c67065a5e0cbad2e sha1=2061d0059c09f4a74ec3599fdaa441b84ddf96da
+fbb4ee3698ec25fec7a78f17ed744f55e0d70b64346ff9e9b39c5291714f303f	MalwareBazaar	2026-11-18	family=Mirai | filetype=elf md5=eaaeff81b415c1d1c8326c664260a767 sha1=fa8acaed0ea5b88469b917817d393e0ecb01708f
+d2d2e002714c37f8e8947931f04b7998885bc24680b14beee47d9b596823d241	MalwareBazaar	2026-11-18	family=Prometei | filetype=elf md5=bbed06821a8b1beeb536d07c49a7ddaa sha1=5042ea971480e9e91087e2ce56eda4fef75b6818
+71e86c3b8c12521551dd3d47aebde6c0c63c9818f0f70afac40692d9eef85165	MalwareBazaar	2026-11-18	family=Mirai | filetype=elf md5=95457307bbfb4caa2fd5a087991306e2 sha1=9a0eb48237c9472305a8d4975473d6c73f6c838f
+a01ca0b5167a4211b115d27579f0552484a1f48d78805debabdc40c9f21f3ed3	MalwareBazaar	2026-11-18	family=Mirai | filetype=elf md5=3abe14794f3594c5ca34342d43349f9b sha1=2e38de98aa460dcb9909e4cb6650eb93b59c2ceb
+6e86d289c8b345888d1b6bd16de687ebf4fcafc0173c79f1255ec0fd9df7541d	MalwareBazaar	2026-11-18	family=Mirai | filetype=elf md5=79fc128724bb75f448857dacb0ca32f9 sha1=b5ccaba9c79c8926ce8f6dd80b6a820ae0a9e47a
+074c291732db50ec45a5dd819d1f2ba224087eaabc14fa8a3b70ba744508d5c3	MalwareBazaar	2026-11-18	family=Mirai | filetype=elf md5=6a7fb350a4bff1bc02b8a0c643284195 sha1=a23f26af0354da1cb3af0409cdbc1c9fca3f4be3
+1cc698edeb3593bbb5512cfcbe5207af8d167df7e2977f46284af8d389e51277	MalwareBazaar	2026-11-18	family=Mirai | filetype=elf md5=5a5421448a634f4da3c3045cb0c41f98 sha1=91f4172dd40669b563dad218d4d2d3382ab40d8e
+f297afd79f2d365eeff2bdac3582af421a75d25a57a6aae32cb3049f54e12069	MalwareBazaar	2026-11-18	family=Mirai | filetype=elf md5=f99b574b232e4aa300e18124483a15cc sha1=cadf6290b3c844a01bcbfb67338603282d6e62ea
+b4c92111ba57cf6b67141d5b81d68e802de7036e8be047ae16878984a54288c6	MalwareBazaar	2026-11-18	family=Mirai | filetype=elf md5=486c8a019c146a213f7bf207866e05f7 sha1=06841749ac045d47bbb98d3872ad974f33ff8581
+8bdafb667fdb611e0158fe026c5492a8d91c0196ca7b46b6e3e6c6e66199fd83	MalwareBazaar	2026-11-18	family=Mirai | filetype=elf md5=bb3734d275167a8a649e13c4866b08ef sha1=bb04b84c0a64fdc3eddabbc6851654e446f45537
+41ad835dd6fb668047c0764aced6c4fb36b936a0989525a201dc2aa91313fada	MalwareBazaar	2026-11-18	family=Mirai | filetype=elf md5=ac1d08b61d9b23186b9332e787e5bf26 sha1=050e9913ac41f44e35f9ff282d61d83de73348a7
+32151547d912488ac5242731057170a3	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+e63ec733393e4e7e3424cbff918003a3	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+437ba4b0db084c261f7843f85329b5204a2dedecdacf29b25a53a90bcf8d7d2e	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+95c6e9447585670b1a50551c36abe22154f6e010bfb23275fc467d2b20a423d9	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+14ec33ea808e697870d00c5e434c2952	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+e9d4081fac4a5111e6856f333d490439	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+74b025084026d8d9a64661bf995d835b	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+3896d44bc6d517291c60ee3f70543a31	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+b930fb3ab14fe45b378d5acfa6e0a763	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+6a54f8008ee659b6923abf5dba2b2cc1	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+552f0a9cc5fc3755721fa49be05e8035	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+24ede364f5eabe991c866e92ffa396bcb894eb14	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+cd1a262f8c2624700440b0aa464b7a2b42e23511	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+c3d9d5e5444227cf47cd8681b167efebe5144c6a	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+dee79849ee136a14eb5980e9d69ee1d798ef28adb69c74e3ac879c78fd4ebe6c	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+66f5aabb3bbf6010be0f263fd70d03e08eec9b5a	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+38e858ff6a95557fc67fee61dc2148026214420adbc191268a40da5a7ccdabc9	OTX	2026-11-17	family=GitDoor | pulse='Operation ShadowCloud: initial infection and the GitDoor backdoor' pulse_id=6afc3385bd07f5708d823e2b
+f7b84b9a94f749f8ced3f0112d0a66894e8bbc3b4aa5592021d1b8976a9bad40	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+44b43284186ac0f53e0afbfaf849c703	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+a46f6787524b787f7331ce19673cef1d7929f755	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+814a963c0da480e2449d9b6664480156e1cd6d731014117401bf635badec3a0f	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+009099ba10365b44bdb3ecc28dfcbed6a594ec0a0df86931620cdaac9843e611	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+778860538b577ce6cd8fd1a10a256381ef6dccde	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+bceeb2d54b6a756c73a3e06617e9e95ad4d8e53da47639bcd6ef3cae98c6da6d	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+79a4cb73983a1facb5db09f1a20cec6e58d91a93044a78aa3ba32ab2190284ed	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+0e1c94a8f94158f64558325ddbfd1e1277884fba6fb1f8c381dbd5c742e59fbb	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+7055483a77f679ad569c3a9bfe76cdb8e5b96efc44d2bf2a6f08e930add598b0	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+0dcfe51d2521e52a469f5cec6b42bc8e7e37b41df993cce7d739ff3fd248d8b1	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+bd1c005f35e4fd8c61dfa6f20d4c03e082c692e286a3b22dd642369c8d5e3564	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+dbd252becd490ac47e16bff4391ab9e6237c4f7e81ab6784c57fa2eed751f477	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+e9e57a57ee45b8faae2e47affd8cf3a6d0cc1283802108f7298ae1d2ef3b43f0	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+d2d41b249905deae3bd6bcaa547872d747256a7dfa459b509d9db9de8f0ca29b	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+ee5fa33b58d0f2772e091e23de9db24908d970000a88e39fd7d908f30f5e591a	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+a972797cc1a4161f6e2841142b8cace9b781585f9a71b03aa79a9c051b817491	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+47e853092511d9663196e9b36d563a0c3e92ee734f88675c4f375ffcfa5f3db8	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+4efe003a54db8ffbaef6065270eacb0a59479ccc86941517ac7a33344e97bc1d	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+9a2af4b6d9780e08c86ff35030ee1747ea11460cb1dffc868c48e7af6d626546	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+efc4b8c1968c06e598a6f6f98398d44b488198b497291fe30fb792d696b6cb81	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+4f656834e545c0b44922ce6d8952989c8c0859d8ae8b1f117c06ab07b047e2b4	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+8ebb2bf61b48ae7abdcd674413bebd79b30ddd945854e175ba60d56c0a3adf54	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+a4ad001c6900176eba43a747ae5d212db6fc78f7ef4e777f276cbbdf8099dbe8	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+dc57638cb90798835848a9dafec228bef7738def50f4f2db612862e07c5b6f8a	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+56582934901cce0b618d6a50e54c9db29bf2d444636bcd40b5975a765ecde538	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+189f1c5a3531170855b90602e4301b28	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+19a184ce542289991d9b8b253e4a3f08	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+1cc26e032651f8ceb19f35d038660a81	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+3172ca1ecbe6acf4d533ecfeb954b2b1	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+342edb02632d987ad0804499ce7eaeab	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+3845076b8890667789841258e9b3d2fb	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+521c12234c166596e7ff96d3cb447981	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+552f9e7e78a800abb5dc661a54336cc9	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+585030681dcccb7cf3281131aa263480	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+5d6bb81d451668de9b809884c0cf83f8	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+6d2a788caaf392b5f0a44fd94a7efce3	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+723cedd02a240a3a5976c3bb3579f6c2	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+7877d44329e519b864b5c66857c04e3c	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+7bf1cfea46e281f3077f3476994ff4b7	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+86bcfdf64230cb15b972440f865a895b	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+901810cae2b6614c835d1ef2cd6b131c	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+9b65f218f6d4b4e66e2f81c47ae429b8	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+9ea512569e6dfecbb37ad757fe761766	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+b393f36b20ad8aeadcb8a80af70ccc09	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+cf18e1e16411db19fb0bf366019befe0	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+d22b17fec93b8cd17c0f208971f8367f	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+e7b2a26c65dc2b1d8138f9fa664a18f2	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+2ac7f74f7177797ea118042b1252823c7e0a9d32	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+3f0c7d7a8ce26d16a79ec8639f9f689ee396545c	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+42eb0337acb6eedc544163d80a6a0465282aef10	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+4aa875fbac4304df4317ad8fde80986e091a65b1	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+5263d4aa4beb788c2b45df5736cb469913b5122c	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+5ca2b3566cce6cd1d6e6d330dd94addf1c0b7ff2	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+60ea6b83611b4fa6d82dd6ad8079da066689026c	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+67f6053c5780043b3eec6a260c2f31b90e55c828	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+7157717581ca4e3dda83e418af25fa448fe98ed2	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+79b9170a2ad8226821b03ba675163a5b265c4af3	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+8e6b4bff0a076e41adcc1346ba66ad56f973fb39	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+991fc460bd247a8ce2336401f2563e981e4fb418	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+9abbb7e25058384008a7eb08166562ff9167d382	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+9e8acb9b5b026cc9f38cc8b88e36141d38da478b	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+9ee00614f7b728a0ceb8cb3f645eecab84dda745	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+acd2c96bf4e263c5041d9d37ce92ae4fee0219b9	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+b5a6127689ef8b70887e56a1e2345fb2e9d877ed	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+c0b61d0c68aa309dffe0ef25252754794b269ccf	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+d785812ac067e9006ea6d6347101bb814eeea95d	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+da03fd7f1ffacda970a1f3d345bdaeae8c6a7b43	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+e06387437d72888b7684d836d60d21c8c3f18e07	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+eb582cce86e184f77e71a53bb7946061cbc9268f	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+f8f2b530222e076d9196c4101b15820af274d29f	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+33cf56f15b9e069e3f21d23338ec96c2aaf6edd4f2baadcea2af39e1968515ea	OTX	2026-11-17	family=Lotuslite V2 | pulse='Lotuslite V2: The Evolution of Mustang Panda's .NET Backdoor' pulse_id=6afc35110b4de5ee65835e87
+d74fee10090cae17655d137e060398ce6fe52eb811ebc67a439ef37297e5014f	OTX	2026-11-17	family=Lotuslite V2 | pulse='Lotuslite V2: The Evolution of Mustang Panda's .NET Backdoor' pulse_id=6afc35110b4de5ee65835e87
+4748571d98c6af34f4967a3886f73b4421239a1203f048140d3bfdaf8aa78937	OTX	2026-11-17	family=Lotuslite V2 | pulse='Lotuslite V2: The Evolution of Mustang Panda's .NET Backdoor' pulse_id=6afc35110b4de5ee65835e87
+3a975c55b88079d51e3526af216da2dc	OTX	2026-11-17	family=Lotuslite V2 | pulse='Lotuslite V2: The Evolution of Mustang Panda's .NET Backdoor' pulse_id=6afc35110b4de5ee65835e87
+d44d5eb600792f1723edb0287f926748	OTX	2026-11-17	family=Lotuslite V2 | pulse='Lotuslite V2: The Evolution of Mustang Panda's .NET Backdoor' pulse_id=6afc35110b4de5ee65835e87
+ea968b0e9f955968be1ea099da738a63	OTX	2026-11-17	family=Lotuslite V2 | pulse='Lotuslite V2: The Evolution of Mustang Panda's .NET Backdoor' pulse_id=6afc35110b4de5ee65835e87
+4c04b199eecfb6c54ba616e5b99a9f305ee673a9	OTX	2026-11-17	family=Lotuslite V2 | pulse='Lotuslite V2: The Evolution of Mustang Panda's .NET Backdoor' pulse_id=6afc35110b4de5ee65835e87
+a92d10b9cbc16f534290d1a6ce5268845a04c972	OTX	2026-11-17	family=Lotuslite V2 | pulse='Lotuslite V2: The Evolution of Mustang Panda's .NET Backdoor' pulse_id=6afc35110b4de5ee65835e87
+e25c240511a75876c0d5c2dfa82114449a0eb291	OTX	2026-11-17	family=Lotuslite V2 | pulse='Lotuslite V2: The Evolution of Mustang Panda's .NET Backdoor' pulse_id=6afc35110b4de5ee65835e87
+f8871b1561d5c77c297378a7f49c84de52a01ff297395544f0e95d13ef972841	OTX	2026-11-16	family=SCKit | pulse='CVE-2026-84869 in ScreenConnect Exploited to Run Malicious Files on MSP Technician Accounts' pulse_id=6afb71630acda8057ec487b6
+1dd423ff0106b15fd100dbc24c3ae9f9860a1fcdb6a871a1e27576f6681a0850	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+8bf9401990d3255d1022a25884b02ee75ef01bd1a729d29ff52de2e5f0d637a2	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+bf59f8d7ef79b09a72bbb9c05ca8746466d03226a3779cc1096ba067117ca008	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+2281e754f70e11298db1a0a7c1b527cf2b5eec2056d4c73a46ed572ab873dc6e	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+9721d65ee7695db2b3dc3705f5d8e5efe3a478c3b6d1704d66daf77fe95aeb0d	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+d725ad8b523c94f99fca9e72a650e835dca47b9ebe7610d6c4eb3525d410c365	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+f4c9d5d13c1a09533876a02f6fa04831efbf600b05cfb3ed765a0ebde82b0457	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+19bb3012d846f3672fb98dad0449ae5c267ab30150800b2f1559036564c7d0b8	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+92fb9545ea49e2fb4635fce1859ff3f609738be75f85d146614243fc8bc80b67	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+ab06f540ecdd1d45491aa71bfc04c80852371c8f5cd43b9a6ebb53f1e1b69588	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+5f857ff78bfbef2a55a846fc93744e11e07a9b72ee3fc3bc345c32ce9615ddee	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+61f7e2f4159c566578e88cb05cdf49e4378f45ebddbd332224e97c11df922120	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+5b7effbf0465c05e8dc9a8fea69b000a78237735ea0b854e8d9baee5b7af8344	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+cd8f43da32849584751eec884cf7e3208eb0a71108197a32e9bb248612e757d2	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+7541222a1316ec54bf9c8660b923e1d0490a925b2ee92060b1567be7cb1bde4b	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+cffcd6f2589d3ab4f3693805d1752b7c328a00cc543dd02b129763e179c3f311	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+5805cb5b0a6fb738ef7c1873b8e5de4281c36c7f440f28717fa9f441c5e0ef17	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+a6a9ccffadd00b0e75e913b0f851b1f834fd20588df8b89759d9ae49a48c8e10	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+b975f5932c04b381f8fa58a3303194f1aff950d3c6cd12dcc1d323bb3393718b	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+904409ce8846394e1fe9a5ce37f2265cbf6933611278ae57fdf5fa74759af2bb	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+d700b573ea8387efad633a70124b7a2a3aece844a267157b1cb55be7b62f3b67	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+52d3442fb26023ebc0bc76542b56be88d1c3327c8bcedf1dcb95f80511527f07	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+8cfe629fc08ae06c8ba106113ba30bb16fa2fbbf8bd3dd6831d16b031e0ebe70	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+619b749e1c6634d38f15c51005a4237e9076aaaf36927b562a990e8bc34fdfcb	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+fb5b0b1d083d6f6afa90948bd1fd1a498b51dd3f6dc7f90a02a2a17818756563	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+183abf82951c2052e9a1829c70c173c11756e8df0e86c8071c27df0988caeaa0	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+0533365accbba405757de7eb486533c11c8e0510a28d414ee8c5e6b8a41ed97b	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+3cb5376a5e6c0fcbd6844ab76f3dc73a42da7ecee6ecaaef285d4abe33964fa1	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+f5ebe85418655d75d1a760543858846db1478a060875fd19ddaa5e2febc038d7	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+b5bea4d8b94fbb39ac992e8e763680af6f39d12d42e264b43431fb61cf7b9a88	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+7745523939fc6b31b6a73d8ca1f363c62438b6eef56f6fe8c39e71fcd14b65f4	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+0c49e1b98a236d3391740473101b66dd48c719fa4112dbef3816b56bce58e6e7	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+24c46bc9269e1c1ee54004e01d5c7c54f759bc1b93a282d3561d2d27f678af86	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+e5689e1bf916c2f7649e178008e790ea13eb844aefc14516c06b0da8296377a1	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+63eac14921f138fffe73db417c12afd16d64202ebbee7ad5f08068697d2942d0	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+790e6699704395a7fad633f4e502312bc43693a44a8e18d43239209eefbd7ff2	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+f82c06184ab36e91d28f7802c739e637792c241a7ff2fba9ca24178f12423684	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+2e52b2936e67872d1364d2d0d26a8733ed9582b38f6f0b3a877ffdd6e2c04aa4	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+9dfefc7118646535d1193e1b036dd0c93fa66cc585a60301fcdceb6f45903aad	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+600572a912650b258d56aedeef0ab712abbe35a38cdd23faa5a95dacfdc67b7f	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+86194c3b3cc7a58e439621aff42e116ca94d40f3a6f539f20ce483f1cf5a7191	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+e8cd6bbcf6073669a7415ce0c9009a0fbb5551bf5e17803be12ef295f0c99889	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+5b779b81a9bb25591ecac6bd74bb44a4a5b2b8f257093f9efd5910346ab8d772	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+bf8afbd1c2074c7cd6ff8b86dbe67a57ca5594817e46b24e226b71c4edde7697	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+b8dca1c7e7a74ce82ab4e4cad9b718a458735d2c6c956e4cf3109aac59bfd0e4	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+9fb0976fcd1f92c4711726a91cff8be9a39944efedc4caf2d80f935327f8f490	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+7225ef57161cf0908560811be798d22e9354c071d576540a43aa7900784c0688	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+a214d264c6bb0d2ba89986f73e196ea200307574745a245fc42c32fbef4cc140	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+662dc73e11b60b2f12c94b6b68da45de7bffece4b1dcc75679ed020629d0705d	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+b062b4d8c19baf5c1568e28b3e0a5e2318e9501ea61ddfe804d9755c1bdbf887	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+34cc9bc4a533b91e7cdb30fecc57ba609dc890780fd13ecfbc253047b3b37b78	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+0cbde9b7f59dafca80f214121a04eda7804b920da28ce1c06939a4783e6b097f	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+cdc9757294d3063eb10c9a37d1d945d31f6857c652b864803815406b02eeefbf	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+82a989c728db4e09a2b85a4a55f7663cefa62844632cb16dcda5ca70bf09a8a5	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+71d897427329ca14dd621e777046dc35f3d9dc870d3b13a56125125391a56afe	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+6781f84417d0056df95ed38b3e7a6b49312d30119470356f6923238d49de3490	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+dd02d28c48cf5cabd35a0b32e05e7c99ff0de35541201026ae36c59e54968c78	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+e59b08eb03ffa10ccf9103d171af757308e6d43519c4e904ef5e0929ef92d8fd	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+99f571c07170250a84f0ae9de4179044df91244855d9b39978729933ea3d438f	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+7ee22a7b028102bb22f0a41d41cd101d5956c1db0cfd157b22bf4128bd472a4f	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+571067cc8f4224a4b80113b52672c7ac87e25dcdb0282a36a29a1784a24efa27	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+8d8ccf24b785a33a9388043baecc4be247ad01182b87df3f8e425957ef73087c	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+0e01c44e5a0615098d8c583930dd88dbd0ce6fe54b365c9f04d8b315a93f540a	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+04be76217500275335e82eb4c2c1588478f7a171efd7a0d9bdc6bbe83e315589	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+3deb43cc864f2322d374541d99af79d87ad08abf81cd967862c554f1c0c5fdb6	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+224ed1d3f8d7247989f812cb0accc1d1804197916c47d9600e6c4e9bef46a723	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+9b16333820189e94b2368e87cba0a9642595d5be0f985a6351f1ad834f5cd11d	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+bdcd0eefc62721814d0bd557285490aa99a4eb0425bf5204e6be16ec7ce93823	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+3e56d049f23ed45a7034e5c74bad45cae11ce6d15189fa7bda6b8d120439c7cc	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+24930ebabf21ec119be5f81de8ab9e06	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+70b9ac020178031340a34d9d02850526	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+8c1073584b71d1d88a95727ab98b1f78	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+32d178094e0be7d58e8cd7413a6b57a448580aea	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+39fd3d45168d0f30b29f8aeddc5b88568227c1b3	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+69ee9e60d3114018944f8ef0bdc7904800932877	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+1829cc10e7795e54b7cb3d551975aea5	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+1d49be4bac3afef330dff80515aec590	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+30e40c8e80de484130213776f8f0e444	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+56930e936a70d3fd25436195945a942a	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+73e60d1b2667a37f27ccb22f3e767f4d	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+773dbb36091db84e9f0735b98ff7371b	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+83929df46fe5ea355dae169e8e765d29	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+c9b5993e60b1bd5921eda04b41fe2155	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+d2f204e6cb35f6984a6bf9049284ac7a	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+e9d3351e53129aa2ca9f3204e7356acb	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+ed55691892cfaa3161c05559ecd1dbaa	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+004824ad1c80d3e313491cf1c1d7a1189a076a85	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+25731413b8d6825d02eb59ed05ecdf1d693adff5	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+468cc2a78d875d001e62c8835bf35f4451bdbdfb	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+4cc8de58cb6e6a452ab68c00272d5968e9e1bfd4	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+61e26db8f802a3c71aa03e5162213fde8958fa3e	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+782c15c41b4b23fe46e040837fd785ff0dd3e635	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+93a0cf94b44882a227dbdcf53a7eadf2ef52c1ab	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+9cfbdcfc480c3c6519de4eea5733d14ef66aeb98	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+a30acc83c8deab4e6c8f32150d742336dcd034bc	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+ad5bc666c5f46082aed67bd2c39ccd1a898103e8	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+b2214895f86022a48aa5010c22d9f118d67aacd2	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+1166831bf6ea477cf093b0f404b4a970c253062a91cfccef96c774522a7afa91	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+13a340968f98b27eb4e39dd61f0b75822d68c8fbc35fa7f0ef791b65f87a8997	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+190702a08dbb3b2c2b07b75876b6b88eec04f827070514b9ef387990fcce8b2b	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+52d7d663bb916e4cbf09fe0f3317d7ec379bf64cfa326b64e52cf75c0c71dd6e	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+633aec4539c4608fbb6cd19e596bc463c709761b04150cce8a4b0995702d51fa	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+99f35301f179919706ce7c82379c37631d2d1cdab28a0b63cfa5044b20c06cad	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+a311a02a982acf1a8bd61b87b79c9ac98e54827892f1caf126e09aba586dfabc	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+a6e49e8686488acbe8938da3726f8510ec58e638ee804b55fda43600c4f741a2	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+b3418cfb2a5b36682429b10443cd5333d19346fee83e8b85d7f6947b4ad3fa4a	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+ec874726bb4f58823a95674ceca60cb23cfa8546489b9b9d0382ae64bf2892f1	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+f7f646ce988f9af34075792805b786aea16a53d67c5cda5cbbe484f37b2fa1af	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+0f2f2a27d19112e5800541daecc91eb6c77e49f9b43ed23c890b876631978533	OTX	2026-11-17	family=DarkSword | pulse='Beyond Optimizely: Malicious Scripts Traced Across Four Web Services' pulse_id=6afc0d22dddc5e2e49356d47
+305d0b00a7bafae9f240dbaf5bfdbb19648e38e509e8992112fcb7866c2e37dc	OTX	2026-11-17	family=DarkSword | pulse='Beyond Optimizely: Malicious Scripts Traced Across Four Web Services' pulse_id=6afc0d22dddc5e2e49356d47
+45e42f5fa7520f6e7c048587f025549b31f0f24be8be058c7037d1da37e37b67	OTX	2026-11-17	family=DarkSword | pulse='Beyond Optimizely: Malicious Scripts Traced Across Four Web Services' pulse_id=6afc0d22dddc5e2e49356d47
+94d174abe1e3b12b000f2bc8cbd8e9344290f4b5a8661c8d700cdc5675675fba	OTX	2026-11-17	family=DarkSword | pulse='Beyond Optimizely: Malicious Scripts Traced Across Four Web Services' pulse_id=6afc0d22dddc5e2e49356d47
+a87a2eaea9cfb74aae7283d15fbdb499b5a8ebc3fab4c453df7d62e503996240	OTX	2026-11-17	family=DarkSword | pulse='Beyond Optimizely: Malicious Scripts Traced Across Four Web Services' pulse_id=6afc0d22dddc5e2e49356d47
+c154f3b644cd51f2446483c7ffd2ae4f178c4b0cb54846cfb5b83215367349cf	OTX	2026-11-17	family=DarkSword | pulse='Beyond Optimizely: Malicious Scripts Traced Across Four Web Services' pulse_id=6afc0d22dddc5e2e49356d47
+c2a34c579e4c2e8802752c93b3a9cca0230610f3e4dd6688f4272459c7c7c162	OTX	2026-11-17	family=DarkSword | pulse='Beyond Optimizely: Malicious Scripts Traced Across Four Web Services' pulse_id=6afc0d22dddc5e2e49356d47

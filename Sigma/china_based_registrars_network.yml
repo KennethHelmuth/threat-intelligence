@@ -1,0 +1,58 @@
+title: Network Connection to China-Based-Registrars Infrastructure
+id: 22f40a89-d3dd-45e7-abdc-453d5a672143
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with China-Based-Registrars.
+date: 2026-11-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - brand-protection
+    - china-based-registrars
+    - domain-monitoring
+    - malware.china_based_registrars
+    - markmonitor
+    - typosquatting
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'carmaxclaims.com'
+        - 'kmxclaims.com'
+        - 'carmaxclaim.com'
+        - 'kmxclaim.com'
+        - 'fyzadasaving.com'
+        - 'greystarbenfits.com'
+        - 'mywayconect.com'
+        - 'tradealgotcpassettlement.com'
+        - 'yourmsdbenifits.com'
+        - 'carmax.claims'
+        - 'mcdonaldsmedia.network'
+        - 'mcdonaldmedianetwork.com'
+        - 'ontherockrebate.com'
+        - 'mypgsweep.com'
+        - 'asrelbisaving.com'
+        - 'ijornisavings.com'
+        - 'healthspringproducer.com'
+        - 'arlocareheath.com'
+        - 'hithebeamsweeps.com'
+        - 'sunharbosaving.com'
+        - 'getpgsoffer.com'
+        - 'celmodpharmacy.com'
+        - 'aveirwirless.com'
+        - 'insulinsavingprogram.com'
+        - 'ukvaluestudy.com'
+        - 'aildatasettlment.com'
+        - 'tradealgotcpsettlement.com'
+        - 'youmsdbenefits.com'
+        - 'yourmsdbenefit.com'
+        - 'myolinhuntsmanbenefit.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

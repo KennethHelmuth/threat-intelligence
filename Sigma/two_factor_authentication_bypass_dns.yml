@@ -1,0 +1,33 @@
+title: DNS Query to Two-Factor Authentication Bypass Domains
+id: be371d40-6613-4633-b47e-945ae4817357
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Two-Factor Authentication Bypass.
+date: 2026-11-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - account takeover
+    - ea sports fc 27
+    - gaming
+    - malware.two_factor_authentication_bypass
+    - phishing
+    - prime gaming
+    - social engineering
+    - two-factor authentication bypass
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'fc27-prime.shop'
+        - 'fc27prime.shop'
+        - 'fc27utprime.com'
+        - 'fc27utprime.online'
+        - 'fcutprime.online'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

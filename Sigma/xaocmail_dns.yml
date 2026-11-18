@@ -1,0 +1,39 @@
+title: DNS Query to Xaocmail Domains
+id: 378563b8-1243-4166-b315-064ec37ebd00
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Xaocmail.
+date: 2026-11-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - cloudflare workers
+    - dns-over-https
+    - havoc
+    - havox
+    - malware.xaocmail
+    - phantom53
+    - phishing campaign
+    - xaocmail
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'sync-node-serv.com'
+        - 'a8f2aac37385.xyz'
+        - 'kfkwrfdd.xyz'
+        - '544504d7fe1e.xyz'
+        - 'bestutyresdomaonupder.com'
+        - 'bestutyresdomaonupder.top'
+        - 'bestutyresdomaonupder2324.com'
+        - '478a4d17d280.xyz'
+        - 'nnn-task-name.md'
+        - 'noav-beacon-test.md'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

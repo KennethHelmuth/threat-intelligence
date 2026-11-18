@@ -1,0 +1,33 @@
+title: DNS Query to Cryptocurrency Domains
+id: b9f7e20f-c541-41b1-8579-591ec15f1a5b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Cryptocurrency.
+date: 2026-11-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cryptocurrency
+    - financial fraud
+    - hardware wallet
+    - malware.cryptocurrency
+    - phishing
+    - screenconnect
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'exodus-wallet.pro'
+        - 'coldcard.pro'
+        - 'fjksdjfdtitive.net'
+        - 'ledger-wallet.net'
+        - 'ontologypro.com'
+        - 'ontologypro.org'
+        - 'ontologypro.store'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

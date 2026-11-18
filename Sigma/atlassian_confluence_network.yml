@@ -1,0 +1,33 @@
+title: Network Connection to Atlassian Confluence Infrastructure
+id: 24d62224-f626-4c22-a3a5-f1b6843e65c4
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Atlassian Confluence.
+date: 2026-11-18
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - active exploitation
+    - apache axis
+    - atlassian confluence
+    - cve-2026-90436
+    - emergency patching
+    - malware.atlassian_confluence
+    - remote code execution
+    - soap vulnerability
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '104.13.106.166'
+        - '5.133.47.243'
+        - '163.182.68.109'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

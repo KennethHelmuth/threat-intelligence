@@ -36146,3 +36146,380 @@ sunno.ai	OTX	2026-11-13	family=Net Guard | pulse='TypoPrompting: From AI Typos t
 viggie.ai	OTX	2026-11-13	family=Net Guard | pulse='TypoPrompting: From AI Typos to Malware' pulse_id=6af754d99146a92e2897881f
 vocie.ai	OTX	2026-11-13	family=Net Guard | pulse='TypoPrompting: From AI Typos to Malware' pulse_id=6af754d99146a92e2897881f
 xml.securetrackingnode.com	OTX	2026-11-13	family=Net Guard | pulse='TypoPrompting: From AI Typos to Malware' pulse_id=6af754d99146a92e2897881f
+he.arwanageming.org	ThreatFox	2026-11-18	family=win.vidar | confidence=100% threat=botnet_cc
+usapdftool.com	ThreatFox	2026-11-18	family=js.clearfake | confidence=90% threat=payload_delivery
+franzlery.com	ThreatFox	2026-11-18	family=win.strelastealer | confidence=100% threat=payload_delivery
+171.63.152.34.bc.googleusercontent.com	ThreatFox	2026-11-18	family=php.shin_webshell | confidence=50% threat=payload_delivery
+ka.go33.org	ThreatFox	2026-11-18	family=win.vidar | confidence=100% threat=botnet_cc
+e7.arwanageming.org	ThreatFox	2026-11-18	family=win.vidar | confidence=100% threat=botnet_cc
+ax.arwanageming.org	ThreatFox	2026-11-18	family=win.vidar | confidence=100% threat=botnet_cc
+griffnoria.eating-organic.net	ThreatFox	2026-11-18	family=win.grandoreiro | confidence=100% threat=botnet_cc
+svr.erc200.com	ThreatFox	2026-11-18	family=elf.mirai | confidence=100% threat=botnet_cc
+blws.linkpc.net	ThreatFox	2026-11-18	family=win.loda | confidence=100% threat=botnet_cc
+adminnew.top	ThreatFox	2026-11-18	family=unknown | confidence=100% threat=botnet_cc
+arwanageming.org	ThreatFox	2026-11-18	family=win.vidar | confidence=100% threat=botnet_cc
+vp.ankapaito.org	ThreatFox	2026-11-18	family=win.vidar | confidence=100% threat=botnet_cc
+ankapaito.org	ThreatFox	2026-11-18	family=win.vidar | confidence=100% threat=botnet_cc
+dlz.arwanageming.org	ThreatFox	2026-11-18	family=win.vidar | confidence=100% threat=botnet_cc
+metamax1.thuylienthu20.workers.dev	ThreatFox	2026-11-18	family=unknown | confidence=100% threat=payload_delivery
+rkbot.houtzkvaternik.workers.dev	ThreatFox	2026-11-18	family=unknown | confidence=100% threat=payload_delivery
+js-static.world	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+js-static.website	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+js-static.live	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+js-static.sbs	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+spartensgame.pages.dev	ThreatFox	2026-11-18	family=unknown_stealer | confidence=100% threat=payload_delivery
+seraitsgame.pages.dev	ThreatFox	2026-11-18	family=unknown_stealer | confidence=100% threat=payload_delivery
+incypreaw.pages.dev	ThreatFox	2026-11-18	family=unknown_stealer | confidence=100% threat=payload_delivery
+api-v1.cfd	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+cf-relay.sbs	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+api-c.cfd	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+cf-com.sbs	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+api-com.cfd	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+www-cf.sbs	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+ld-web.cfd	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+webapi-cf.cfd	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+cfapi.sbs	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+webapi-cf.sbs	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+www-web.cfd	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+www-web-api.cfd	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+cf-web-restapi.sbs	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+api-point-cf.sbs	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+cf-restapi-web.cfd	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+web-cf-restapi.sbs	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+web-restapi-cf.sbs	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+web-api-cf.sbs	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+web-restapi.sbs	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+api-web-point.sbs	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+com-web-restapi.cfd	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+restapi-web.cfd	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+api-web-point.cfd	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+restapi-cf-web-com.cfd	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+web-restapi.cfd	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+restapi-cf-web.cfd	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+api-point-cf.cfd	ThreatFox	2026-11-18	family=js.iclickfix | confidence=90% threat=payload_delivery
+policyuntaxed.cc	ThreatFox	2026-11-18	family=win.acr_stealer | confidence=100% threat=botnet_cc
+riotradish.cc	ThreatFox	2026-11-18	family=win.acr_stealer | confidence=100% threat=botnet_cc
+runwayunfreeze.cc	ThreatFox	2026-11-18	family=win.acr_stealer | confidence=100% threat=botnet_cc
+spongemonstrous.cc	ThreatFox	2026-11-18	family=win.acr_stealer | confidence=100% threat=botnet_cc
+staffchest.cc	ThreatFox	2026-11-18	family=win.acr_stealer | confidence=100% threat=botnet_cc
+turretclothes.cc	ThreatFox	2026-11-18	family=win.acr_stealer | confidence=100% threat=botnet_cc
+ultimateconsuming.cc	ThreatFox	2026-11-18	family=win.acr_stealer | confidence=100% threat=botnet_cc
+unhiddenfilm.cc	ThreatFox	2026-11-18	family=win.acr_stealer | confidence=100% threat=botnet_cc
+armadilloundermost.cc	ThreatFox	2026-11-18	family=win.acr_stealer | confidence=100% threat=botnet_cc
+dollarabsence.cc	ThreatFox	2026-11-18	family=win.acr_stealer | confidence=100% threat=botnet_cc
+www.trendy-brandz.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=75% threat=payload_delivery
+www.rakusuikai.jp	ThreatFox	2026-11-18	family=js.iclickfix | confidence=75% threat=payload_delivery
+thedaydreamdiaries.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=75% threat=payload_delivery
+crosscreekvet.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=75% threat=payload_delivery
+www.projecthomelessconnect.org	ThreatFox	2026-11-18	family=js.iclickfix | confidence=75% threat=payload_delivery
+www.dinterni.com.cy	ThreatFox	2026-11-18	family=js.iclickfix | confidence=75% threat=payload_delivery
+www.cardockclassics.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=75% threat=payload_delivery
+www.yuceldds.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=75% threat=payload_delivery
+object.policyuntaxed.cc	ThreatFox	2026-11-18	family=win.amatera | confidence=75% threat=botnet_cc
+winne.mynetav.net	ThreatFox	2026-11-18	family=win.remcos | confidence=100% threat=botnet_cc
+luwunula.workers.dev	ThreatFox	2026-11-18	family=php.shin_webshell | confidence=50% threat=payload_delivery
+mwgabtho.trun.store	ThreatFox	2026-11-18	family=js.clearfake | confidence=100% threat=payload_delivery
+triplinepk.com	ThreatFox	2026-11-18	family=js.clearfake | confidence=90% threat=payload_delivery
+nuveenawellness.win	ThreatFox	2026-11-18	family=js.clearfake | confidence=90% threat=payload_delivery
+theeventsmafia.com	ThreatFox	2026-11-18	family=js.clearfake | confidence=90% threat=payload_delivery
+www.hillstigertowing.com.au	ThreatFox	2026-11-18	family=js.clearfake | confidence=90% threat=payload_delivery
+www.kickstartupbusiness.com	ThreatFox	2026-11-18	family=js.clearfake | confidence=90% threat=payload_delivery
+xk.go33.org	ThreatFox	2026-11-18	family=win.vidar | confidence=100% threat=botnet_cc
+oc.arusmenang.org	ThreatFox	2026-11-18	family=win.vidar | confidence=100% threat=botnet_cc
+ke4asholdings.com	ThreatFox	2026-11-18	family=js.clearfake | confidence=90% threat=payload_delivery
+hr.arusmenang.org	ThreatFox	2026-11-18	family=win.vidar | confidence=100% threat=botnet_cc
+vdno3fcw3x.workers.dev	ThreatFox	2026-11-18	family=php.shin_webshell | confidence=50% threat=payload_delivery
+claude-flare-verification.vercel.app	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+script-tau-silk.vercel.app	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+m5.arusmenang.org	ThreatFox	2026-11-18	family=win.vidar | confidence=100% threat=botnet_cc
+syedmucktadirnuri.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+tacosandco.fr	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+thavammusic.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+thekandishopp.net	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+uniqueeuphoria.net	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+vividfablab.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+webperfology.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+www.angelopaolotricase.it	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+www.avvocatomeraviglia.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+amasina-restaurant.de	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+apep.com.co	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+bocadeli.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+choiceqlube.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+ctcobesa.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+elbahartrading.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+grupohensa.com.mx	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+hlogistics.us	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+hollandspecial.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+jrveventos.com.br	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+kafaatdev.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+kiac.ac.rw	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+netrapedia.online	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+nitmedia.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+olgatom.in.ua	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+pngpanda.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+pollerke.be	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+stevencribbs.com	ThreatFox	2026-11-18	family=js.iclickfix | confidence=100% threat=payload_delivery
+gghqg3fp.texbo.store	ThreatFox	2026-11-17	family=js.clearfake | confidence=100% threat=payload_delivery
+oh.go33.org	ThreatFox	2026-11-17	family=win.vidar | confidence=100% threat=botnet_cc
+greencaresindia.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+evriresorts.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+yw4.anka69.org	ThreatFox	2026-11-17	family=win.vidar | confidence=100% threat=botnet_cc
+fg.arusmenang.org	ThreatFox	2026-11-17	family=win.vidar | confidence=100% threat=botnet_cc
+stcacke.biz	ThreatFox	2026-11-17	family=js.kongtuke | confidence=100% threat=payload_delivery
+kurdiskainstitutet.se	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+lawyerlegalguide.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+lsm.com.ua	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+markint.in	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+millcontabilidade.com.br	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+nachu.in	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+nenadbjelic.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+regenciatransfert.fr	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+roastandlambs.cl	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+sdvfinconsulting.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+secretsdecleopatre.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+slabonstudio.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+techcontrol-lg.ru	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+www.natureorganicbeauty.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+zinmoto.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+abumajid.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+accordionman.co.za	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+accupackindia.in	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+advokat-rb.by	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+airticket.cargolink.mn	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+alexanderandersen.se	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+alleswatbloeit.nl	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+alltherightmoversvancouver.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+americasnurse.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+ancientamerica.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+andesbtc.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+applewatchecg.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+arcpoint.solutions	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+arminehhelenohanian.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+auto-service1.ru	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+beaknwhiskers.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+beilulrestaurant.co.uk	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+biketribe.co.za	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+boegehaven5210.dk	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+bonnemaisonhotel.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+bullyfiendz.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+bvk32.ru	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+byronyen.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+clip360.ru	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+coatking.nl	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+coopdescommuns.fr	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+copypasteexception.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+cosdent.ro	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+coutocerimonial.com.br	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+cp-sourcing.dk	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+crystalclearcosmeticsus.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+dessideriadcaro.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+dienlanhkhaan.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+dj-vide.be	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+kapxapot.ru	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+kayumars.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+kilcona.ca	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+klangsteg.com	ThreatFox	2026-11-17	family=win.strelastealer | confidence=100% threat=payload_delivery
+www.tose-sonkekids.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+broatslioum-willow.pro	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+drexdeonfaiix.pro	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+glizgiarkflaie.pro	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+mellow-arc-willow-craeyn.pro	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+ros.anka69.org	ThreatFox	2026-11-17	family=win.vidar | confidence=100% threat=botnet_cc
+rr.arusmenang.org	ThreatFox	2026-11-17	family=win.vidar | confidence=100% threat=botnet_cc
+www.vidaesport.co.za	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+c65wje4f.zere.store	ThreatFox	2026-11-17	family=js.clearfake | confidence=100% threat=payload_delivery
+banqjhmk.vancez.store	ThreatFox	2026-11-17	family=js.clearfake | confidence=100% threat=payload_delivery
+vandacreative.cyou	ThreatFox	2026-11-17	family=unknown_loader | confidence=75% threat=payload_delivery
+yigilca-haber.cyou	ThreatFox	2026-11-17	family=unknown_loader | confidence=75% threat=payload_delivery
+portacel.co.uk	ThreatFox	2026-11-17	family=unknown_loader | confidence=75% threat=payload_delivery
+sezerlerambartasimaciligi.cyou	ThreatFox	2026-11-17	family=unknown_loader | confidence=75% threat=payload_delivery
+tawvalleytelecoms.co.uk	ThreatFox	2026-11-17	family=unknown_loader | confidence=75% threat=payload_delivery
+toolhub.space	ThreatFox	2026-11-17	family=unknown_loader | confidence=75% threat=payload_delivery
+truthixa.com	ThreatFox	2026-11-17	family=unknown_loader | confidence=75% threat=payload_delivery
+yumvista.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+zetazsystems.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+zonahidup.id	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+origgen.org	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+pfsurfaces.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+reviewsrepro.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+riseupoverseas.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+sageandstagerentals.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+sarteanoliving.it	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+seapyramidfl.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+skyvanto.id	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+southshieldsgands.co.uk	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+stanfords.edu.pl	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+starvixos.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+stxavier.edu.rs	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+stylvions.click	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+supremetowingandstorage.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+suriludeshi.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+tabeertours.co.uk	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+taskent-haber.com.tr	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+techecy.co.uk	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+tesisatkacagitespiti.com.tr	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+tfp-architects.co.uk	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+theanalysis.in	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+thelearningnest.co	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+thepowersofconnection.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+toolsvibe.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+tose-sonkekids.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+unye-nakliyat.cyou	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+usher.co.za	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+vidaesport.co.za	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+visitcasinoss.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+winlixs.click	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+wonderlandcasinos.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+woodhousekitchenandcloset.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+yukjudibola.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+666pgamex.com.pk	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+a1itsolutions.com.au	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+acts.edu.rs	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+avertieducation.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+casinocruisess.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+casinosportsbookss.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+club790businessdirectory.co.za	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+dinkumcalibration.com.au	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+firewerx.co.za	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+islamdjibouti.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+jaxturbotowing.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+judibolarupiahs.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+latinalotus.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+leticiacoelho.com.br	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+marutinandaneng.com	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+mgrow.com.au	ThreatFox	2026-11-17	family=js.iclickfix | confidence=100% threat=payload_delivery
+situsjudibolaterbesars.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+mabesagenjudibolaonline.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+judibolaamans.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+jeannekempton.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+securitycompanymelbourne.com.au	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+saayatransport.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+quickliftowservice.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+nexvantas.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+sosyalsepet.com.tr	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+openfieldss.cyou	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+onlinejudicasino.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+rumahjudibola.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+situsjudibolaresmis.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+sanantonioparkingspace.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+mgreklamajans.com.tr	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+officiel-tour-guide.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+sancaktepetasimacilik.cyou	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+ratujudibola.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+movixyra.click	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+monstersautorecovery.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+sharpedgee.xyz	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+matchlurse.click	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+d.arusmenang.org	ThreatFox	2026-11-17	family=win.vidar | confidence=100% threat=botnet_cc
+arusmenang.org	ThreatFox	2026-11-17	family=win.vidar | confidence=100% threat=botnet_cc
+maenjudibola.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+situsjudibolaindonesia.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+osmaneli-haber.com.tr	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+plantsathome.unaux.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+kadikoytasimacilik.xyz	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+kabatas-nakliyat.cyou	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+slu.edu.pl	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+kabaduz-nakliyat.cyou	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+nodownloadcasinosonline.com	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+www.dinkumcalibration.com.au	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+www.club790businessdirectory.co.za	ThreatFox	2026-11-17	family=js.clearfake | confidence=90% threat=payload_delivery
+www.hsbcamanah.com.my	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+foxnevs.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+1y69gy2mdzaltz1.icu	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+gm38duxoihbmy5o.icu	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+p55abnw2pnsz0bo.icu	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+q1ls1ho9x7wsxlu.icu	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+ios-hack.icu	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+je4ft3gn8vxudum.icu	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+abnamrolease.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+crometrics.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+energyscout.com.au	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+servicechannel.us	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+app.brt-4076-credits-in-order-summary.justrussel.de	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+app.rph-487-customer-can-switch-their-pet-to.justrussel.be	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+app.rph-487-customer-can-switch-their-pet-to.justrussel.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+app.rph-487-customer-can-switch-their-pet-to.justrussel.fr	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+eastfieldveterinary.covetruspharmacy.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+preview.servicechannel.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+theapartmentsatkeltonstation.loftliving.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+uat.costco.ttc.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+unionplus-qa4.movingplace.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+www.abnamro.de	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+www.abnamromeespierson.be	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+www.baringa.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+www.betsson1002.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+www.billrappchevy.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+www.cohnreznick.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+www.costsavertour.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+www.flukeprocessinstruments.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+www.intelex.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+www.raysafe.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+www.shipengine.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+www.takedaoncology.com	OTX	2026-11-17	family=Coruna | pulse='World's Largest Brands Infected With Malware Via Optimizely' pulse_id=6afc33d9e7e1114ef258bdbf
+sync-node-serv.com	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+a8f2aac37385.xyz	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+kfkwrfdd.xyz	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+544504d7fe1e.xyz	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+bestutyresdomaonupder.com	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+bestutyresdomaonupder.top	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+bestutyresdomaonupder2324.com	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+478a4d17d280.xyz	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+nnn-task-name.md	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+noav-beacon-test.md	OTX	2026-11-17	family=XaocMail | pulse='XaocMail ClickFix Campaign Drops Phantom53 and HavoX Across Latin America, Asia, and Europe' pulse_id=6afc3457e63a03d90d550932
+fc27-prime.shop	OTX	2026-11-16	family=two-factor authentication bypass | pulse='Fake Prime Gaming x FC 27 reward site harvests EA passwords and 2FA codes' pulse_id=6afb2c6589ab78953b54db22
+fc27prime.shop	OTX	2026-11-16	family=two-factor authentication bypass | pulse='Fake Prime Gaming x FC 27 reward site harvests EA passwords and 2FA codes' pulse_id=6afb2c6589ab78953b54db22
+fc27utprime.com	OTX	2026-11-16	family=two-factor authentication bypass | pulse='Fake Prime Gaming x FC 27 reward site harvests EA passwords and 2FA codes' pulse_id=6afb2c6589ab78953b54db22
+fc27utprime.online	OTX	2026-11-16	family=two-factor authentication bypass | pulse='Fake Prime Gaming x FC 27 reward site harvests EA passwords and 2FA codes' pulse_id=6afb2c6589ab78953b54db22
+fcutprime.online	OTX	2026-11-16	family=two-factor authentication bypass | pulse='Fake Prime Gaming x FC 27 reward site harvests EA passwords and 2FA codes' pulse_id=6afb2c6589ab78953b54db22
+carmaxclaims.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+kmxclaims.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+carmaxclaim.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+kmxclaim.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+fyzadasaving.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+greystarbenfits.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+mywayconect.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+tradealgotcpassettlement.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+yourmsdbenifits.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+carmax.claims	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+mcdonaldsmedia.network	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+mcdonaldmedianetwork.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+ontherockrebate.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+mypgsweep.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+asrelbisaving.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+ijornisavings.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+healthspringproducer.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+arlocareheath.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+hithebeamsweeps.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+sunharbosaving.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+getpgsoffer.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+celmodpharmacy.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+aveirwirless.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+insulinsavingprogram.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+ukvaluestudy.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+aildatasettlment.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+tradealgotcpsettlement.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+youmsdbenefits.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+yourmsdbenefit.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+myolinhuntsmanbenefit.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+myolinhuntsmanbenifits.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+yourmsdbenefits.com	OTX	2026-11-16	family=china-based-registrars | pulse='Typosquatters Copy Big Brands' New Domains Within a Day of Registration' pulse_id=6afaf0c9e29d3b2008243c83
+masterdarky.com	OTX	2026-11-16	family=SCKit | pulse='CVE-2026-84869 in ScreenConnect Exploited to Run Malicious Files on MSP Technician Accounts' pulse_id=6afb71630acda8057ec487b6
+moments-notice.com	OTX	2026-11-17	family=service notification spoofing | pulse='High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors' pulse_id=6afbacf0488bbec09c3d11ed
+planetmaison.com	OTX	2026-11-17	family=service notification spoofing | pulse='High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors' pulse_id=6afbacf0488bbec09c3d11ed
+newbooker.com	OTX	2026-11-17	family=service notification spoofing | pulse='High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors' pulse_id=6afbacf0488bbec09c3d11ed
+outagefixed.sbs	OTX	2026-11-17	family=service notification spoofing | pulse='High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors' pulse_id=6afbacf0488bbec09c3d11ed
+em4493.moments-notice.com	OTX	2026-11-17	family=service notification spoofing | pulse='High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors' pulse_id=6afbacf0488bbec09c3d11ed
+www.maui-cocktailbar.com	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+www.sacofficegov.com	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+ads-edge.com	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+www.wkuyda.com	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+www.thailisting.net	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+www.cloudflacecdn.com	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+www.investigationj6.com	OTX	2026-11-17	family=PerfectPioneer RAT | pulse='QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments' pulse_id=6afbacf126eac7bcf7b10a59
+exodus-wallet.pro	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+coldcard.pro	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+fjksdjfdtitive.net	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+ledger-wallet.net	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+ontologypro.com	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+ontologypro.org	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
+ontologypro.store	OTX	2026-11-17	family=cryptocurrency | pulse='Fake crypto-wallet downloads used to deploy ScreenConnect remote access software' pulse_id=6afbb52bb532a8221df13dd9
