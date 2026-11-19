@@ -1,0 +1,43 @@
+title: DNS Query to Caishen Domains
+id: c68a5490-21df-428e-bc6e-52a0d02d9c9c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Caishen.
+date: 2026-11-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - caishen
+    - caishen toolkit
+    - card skimmer
+    - coruna
+    - cryptocurrency clipper
+    - darksword
+    - ios exploitation
+    - malware.caishen
+    - mch control platform
+    - optimizely
+    - supply chain attack
+    - third-party script compromise
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'webshell.lol'
+        - '0q0nf736x5lcbf3.icu'
+        - '3601688.cc6xicduvopkxpyev.icuhrufvf7xb3ntctm.icuryf3e5p7rf8slv8.icusl6zirn8wu7kggn.icuso23nhowskohk67.icu'
+        - '5vobauua3ojpklx.icueil786npto9u5bq.icu'
+        - 'admin.o45qhw6g17bwhdy.icu'
+        - 'api.o45qhw6g17bwhdy.icu'
+        - 'c2.jndft28.xyz'
+        - 'go.jndft28.xyz'
+        - 'hhflwcie7xif2vo.icunamv99cyrwjsd1q.icu'
+        - 'land.jndft28.xyz'
+        - 'mch.jndft28.xyz'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

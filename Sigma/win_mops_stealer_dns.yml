@@ -1,0 +1,26 @@
+title: DNS Query to Win.Mops Stealer Domains
+id: f506b02f-6afd-4bc7-9209-cd739ee76ba1
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Mops Stealer.
+date: 2026-11-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - MopsStealer
+    - RuntimeBroker
+    - Websocket
+    - duckdns
+    - malware.win.mops_stealer
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'lavlavlavlavlavlav.duckdns.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,38 @@
+title: DNS Query to Noderemote Domains
+id: 2a430f7c-81f8-414b-b208-501b54038f17
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Noderemote.
+date: 2026-11-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - broker impersonation
+    - carrier verification
+    - castlerat
+    - credential harvesting
+    - fuel card theft
+    - logistics targeting
+    - malware.noderemote
+    - meshcentral
+    - netsupport manager
+    - nightshadec2
+    - noderemote
+    - phishing portals
+    - remote access trojan
+    - webdav delivery
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'dot.fmcsa.saferprofilereview.info'
+        - 'motus.relayconsolidation.online'
+        - 'motus.iconnectdataconsolidation.online'
+        - 'discovery.foundation.forum'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,42 @@
+title: Network Connection to Noderemote Infrastructure
+id: 61e4e2ee-afca-450a-b96b-a916e4ff2ac7
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Noderemote.
+date: 2026-11-19
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - broker impersonation
+    - carrier verification
+    - castlerat
+    - credential harvesting
+    - fuel card theft
+    - logistics targeting
+    - malware.noderemote
+    - meshcentral
+    - netsupport manager
+    - nightshadec2
+    - noderemote
+    - phishing portals
+    - remote access trojan
+    - webdav delivery
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'dot.fmcsa.saferprofilereview.info'
+        - 'motus.relayconsolidation.online'
+        - 'motus.iconnectdataconsolidation.online'
+        - 'discovery.foundation.forum'
+        DestinationIp|contains:
+        - '87.120.104.213'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
