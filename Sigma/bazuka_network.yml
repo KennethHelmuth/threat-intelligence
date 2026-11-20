@@ -1,0 +1,40 @@
+title: Network Connection to Bazuka Infrastructure
+id: 9ba91ee5-d2b2-4c9a-8183-11b294b12a0d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Bazuka.
+date: 2026-11-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adb bridging
+    - banking trojan
+    - bazuka
+    - cryptocurrency theft
+    - llm integration
+    - malware.bazuka
+    - modular framework
+    - nfc relay
+    - overlay technique
+    - raton
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'brokerok.org'
+        - 'gargona.cash'
+        - 'c2api.brokerok.org'
+        - 'c2data.brokerok.org'
+        - 'c2proxy.brokerok.org'
+        - 'c2ws.brokerok.org'
+        DestinationIp|contains:
+        - '95.181.213.21'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -29475,3 +29475,265 @@ d14c71d924e965af4e98ab8f93b7ffbeb561c7fb37d5280f7146a900a7a0da6f	OTX	2026-11-17	
 d5c8c4e528c659f6b772e16e0e26529c02faf21e46402ec0e97b25d99f801626	OTX	2026-11-17	family=BubbleLoader | pulse='Threat Researcher’s Notebook: BubbleLoader' pulse_id=6afc61c46fe947aa765b59ec
 e4b6699c56fe9d3bb1f6492c9c42b0497e546155ac0f81b4994612142f5cb03f	OTX	2026-11-17	family=BubbleLoader | pulse='Threat Researcher’s Notebook: BubbleLoader' pulse_id=6afc61c46fe947aa765b59ec
 f88891995c61bb349c772e8864a4d408d5ed605b59b7b7db581a58601f820029	OTX	2026-11-17	family=BubbleLoader | pulse='Threat Researcher’s Notebook: BubbleLoader' pulse_id=6afc61c46fe947aa765b59ec
+b87cbc10e331d2a9f1265d4d912f2df99d856df1f1a9c4cec2633e86d03476d1	ThreatFox	2026-11-20	family=win.vshell | confidence=50% threat=payload
+8d38b11efa639134649b6819685a4e1ec5235de4ed09778ba11740faddc03b0a	ThreatFox	2026-11-20	family=win.vshell | confidence=50% threat=payload
+213c441cc21925f0a241015cd0377313d8a3ebc8f1efa22071a8c63d8ed64227	ThreatFox	2026-11-20	family=win.vshell | confidence=50% threat=payload
+5e19775fb8f806d39b76ff1429ce20b73375b58d8fd2ec61c04756af3836dd14	ThreatFox	2026-11-20	family=win.vshell | confidence=50% threat=payload
+f65b95003379ee8e8a6eaeef1405af5d5d7282ab93567b4622d917a5d9f1335d	ThreatFox	2026-11-20	family=unknown | confidence=75% threat=payload | vt=1/75
+b2cc539152e17bfd9153f5c4a3560927454b87dc917831e6f7b5698c8af5436e	MalwareBazaar	2026-11-20	filetype=exe md5=e6de2b7e22ad8cb011e8095726db69b0 sha1=4e332925dae154812db34f32158b2518eec25860 | vt=61/74
+67483c6e2f2d9ad58a59de38e56864410f71dd2f9b82bf2e3b1d4911e3f2950b	MalwareBazaar	2026-11-20	filetype=exe md5=14499cb9a5c9979ffb12f18647dff2fb sha1=037fc8b4e1602d80719abbb47b4f66b3d42c0ec8 | vt=60/74
+c31e82a1c616c07f0681f9ba8f0d10e7e1e7b36b5f36f585f609cec377807017	MalwareBazaar	2026-11-20	filetype=zip md5=e8448724d68c39db01aacf988e144328 sha1=21d643c91348f842267bcca6f962e595249b9da9 | vt=0/74
+e8d1c85f0e6376806fe2190065f3dfab69c7d8e4c18d848f9e3d810942e1425c	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+927cd1a20b55776b9a8bc5817a48608041d00df378da2abbeff76249722c882b	ThreatFox	2026-11-20	family=win.salatstealer | confidence=95% threat=payload
+608c4a0860edb73fc316dbfc7d2a81d5ffce173d124d8302023d6e6a2a3e8097	ThreatFox	2026-11-20	family=win.salatstealer | confidence=95% threat=payload
+ab850e17e379e477710707dc72a9f770e5e498999f6c6abecee133d42e38ed65	ThreatFox	2026-11-20	family=win.salatstealer | confidence=95% threat=payload
+441b5c662497749d74dd7d2cd9ca60bf82a85dc4ee9e39ae8178e6bfb4bc6785	ThreatFox	2026-11-20	family=win.salatstealer | confidence=95% threat=payload
+55212fdfd4e9b5082338f3dd2c9194305fb34afcad3d2212b331e8419043791c	ThreatFox	2026-11-20	family=elf.mirai | confidence=75% threat=payload
+6b97a797aca10540353c5b68c052d3f3807075ca0258442648fd369d00c0f4ea	ThreatFox	2026-11-20	family=elf.mirai | confidence=75% threat=payload
+8762c66f47f5e562d974430e1548f9672deb7e1acbea010a6717313f4ea2c244	ThreatFox	2026-11-20	family=elf.mirai | confidence=75% threat=payload
+8ba3a702f8eab1692fe3717ad8d547525761d7643000517d2b54ed2f797b9b4b	ThreatFox	2026-11-20	family=elf.mirai | confidence=75% threat=payload
+a1d2220ef61333d321d60fde3eca6c51ea790987c57610b93f6d5be6bfacc856	ThreatFox	2026-11-20	family=elf.mirai | confidence=75% threat=payload
+a7935d5ce2560714c06cce3b82ffb8356326d84028f28cbf1bb979cb233fc8ab	ThreatFox	2026-11-20	family=elf.mirai | confidence=75% threat=payload
+a8d1f9666d0b2684e06aa7a19f3e15662fcda9ebdd68e014c6dde57f22cf905c	ThreatFox	2026-11-20	family=elf.mirai | confidence=75% threat=payload
+cab6ab8f9e05daf027de1670e3e4c970e9bfae2c07b956d29d73d5d09f3a5ec8	ThreatFox	2026-11-20	family=elf.mirai | confidence=75% threat=payload
+fc8eff6ebcd92a9dc5a5c72feeb649883c4e86b24c104024fc6e6706695b618e	ThreatFox	2026-11-20	family=elf.mirai | confidence=75% threat=payload
+07ed89158c1dc6d95b6b47e69eeeff3ccbd3d8f81489b84e6cdbfdc226b50c1f	ThreatFox	2026-11-20	family=elf.mirai | confidence=75% threat=payload
+0df18a4cc9dff53641f9308a90401198c53242c06ce430dbdee0d89e9d25c7f6	ThreatFox	2026-11-20	family=elf.mirai | confidence=75% threat=payload
+32fdb3ed8e69c9ab0bd385decdc8d486db8b75df681e978d80c9ea5430ecbef5	ThreatFox	2026-11-20	family=elf.mirai | confidence=75% threat=payload
+491a01d47c2ab2276705eac6b684c8c15d01071957c2875fb5e2282c934e443a	ThreatFox	2026-11-20	family=elf.mirai | confidence=75% threat=payload
+4f8e1033ca98846714ad250081291cb0f9058dc4e237603a6a71501365bebf25	ThreatFox	2026-11-20	family=elf.mirai | confidence=75% threat=payload
+753663572cfaad5b320de095c449f064f77d7c06bfddada9c6dd9cd59fd8324b	ThreatFox	2026-11-20	family=unknown_loader | confidence=85% threat=payload
+62c5b21d57e9d8f77abbdf5b4275d7073bd509ef55a6de3bc52ae0d003674853	ThreatFox	2026-11-20	family=elf.bashlite | confidence=90% threat=payload
+492785aa9581f5842a6478b16b216af3aa7207aaf3772fb09c9545e1da5eb0de	ThreatFox	2026-11-20	family=win.salatstealer | confidence=95% threat=payload
+8852e0016df9f90868ee23d2dfea87e49a0fb89cb925d9e8d9bc0988df819cbb	ThreatFox	2026-11-20	family=win.salatstealer | confidence=95% threat=payload
+76ae6d577ba96b1c3a1de8b21c32a9faf6040f7e78d98269e0469d896c29dc64	ThreatFox	2026-11-20	family=win.mirai | confidence=75% threat=payload
+9665a120423fc3a866847375402fac4dcd7fa4efa051e5b6a702ac2497883ef2	ThreatFox	2026-11-20	family=win.mirai | confidence=75% threat=payload
+d7f3d36239a7fa122a2fb49646a12faa16471391f74707407546e202efd1a869	ThreatFox	2026-11-20	family=win.smartloader | confidence=85% threat=payload
+aeccad91bb2888ff379cb0ab114a5ebc07701660bf6c47927a2a1bae6eb89ee3	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+7ba10a314348d6d7567a3b3697820d99fbb6d118dd5542a29d5ee97b7888a5fc	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+3b47193ffb34de4f7dd3a78eab3bf328705e1148621b014d424104337a161c1d	ThreatFox	2026-11-20	family=win.salatstealer | confidence=95% threat=payload
+0abeb85a452add358af126dd87d1a38addd406e911905fbbe9a3856894c07bc8	ThreatFox	2026-11-20	family=win.salatstealer | confidence=95% threat=payload
+b248aa11697b6c978c8dfac8be9c441d6aec7f968af2a4c316780ccba96f584d	ThreatFox	2026-11-20	family=win.salatstealer | confidence=95% threat=payload
+5b6d5d07fa787140e9721228eb615e2773030690b2286c5bcd3b626607f18e93	ThreatFox	2026-11-20	family=win.salatstealer | confidence=95% threat=payload
+ffe6a805dd7dfb2ba4c5b4280c4971f258d047f11c9772f9eb015237f767bd4d	ThreatFox	2026-11-20	family=win.salatstealer | confidence=95% threat=payload
+dfa33d362a0ad5806ba23fe50d1864117b89ea5bb49a3334c12a6b0b082b6c68	ThreatFox	2026-11-20	family=win.salatstealer | confidence=95% threat=payload
+255c834be134ec714ec41b7b97d308019b31965e830eb3e66930ff1afca687d4	ThreatFox	2026-11-20	family=win.salatstealer | confidence=95% threat=payload
+39c7464e745fa846ddd0b386c6893c6ca34ba20a205856f61e055fcb6b0a825e	ThreatFox	2026-11-20	family=win.salatstealer | confidence=95% threat=payload
+c75e88a2e2c754165bcbc1a6edbd99ffbbb5edea85cc4a36ec9ed6a2b9c83f21	ThreatFox	2026-11-20	family=win.vshell | confidence=75% threat=payload
+3a1d6c25cc101de57145b7fe8f6d98f211ac77490157dbee500b73a8adeb0838	ThreatFox	2026-11-20	family=win.vshell | confidence=75% threat=payload
+cf14e20a5221c18e7480bb14e95a522687f6dedd5eb68119fbfb1f2a7ce93e22	ThreatFox	2026-11-20	family=win.vshell | confidence=75% threat=payload
+9f759c8747471600f506cece7acea88c750c8dc37da9777768f6bbe55fc34524	ThreatFox	2026-11-20	family=win.vshell | confidence=75% threat=payload
+4feed588acc1396e2deeb1fc04f145cfca464ba7617dc3c1c9fe7dcc545d2d1d	ThreatFox	2026-11-20	family=win.vshell | confidence=75% threat=payload
+407fb53e62d4ed0e2d043b60f0916ff77ef2b8fba3dc0f6594218a4877edb5aa	ThreatFox	2026-11-20	family=elf.snowlight | confidence=75% threat=payload
+ce23335488686504739da1a00270b71a444ab4165b341fda116ff08d705bf914	ThreatFox	2026-11-20	family=elf.snowlight | confidence=75% threat=payload
+5c54ede33db8a4af5c7574eb1cde60444ff3f6c3c742222139abaea3dc6bd6b3	ThreatFox	2026-11-20	family=elf.snowlight | confidence=75% threat=payload
+187c25e0604530f5f6a8ee79b0798f89ef0a132dbe69b55b6afb1f2583f84b2b	ThreatFox	2026-11-20	family=elf.snowlight | confidence=75% threat=payload
+5fbd46e376797b75f5455775d0e62dcfdb30e81375c45fb20e0c31593a37da1b	ThreatFox	2026-11-20	family=elf.snowlight | confidence=75% threat=payload
+6e90179c02b4766ffdc7bab877419b05c9a7465e7f01dd1c6795a763522cfd79	ThreatFox	2026-11-20	family=unknown_loader | confidence=75% threat=payload
+43acd621c1c0db00833e754551656e9550d1a8cc8b13820abf60fe29d6203e7b	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+1958d225a674b5f6085df0f50dad66c64efc9b356acf131f3971c5669ce60f64	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+a1cdc11d48782ba51311889214e790ad86852f10649a53df0e22d02c696bb9ba	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+f006aaa1017115b9d41f28b3187671fabfbdbde131c75732348c4276e2f09373	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+60506893295413b2143b10066d30f9b8f3cb13eeb3f90e4702097c30c390bcf0	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+e83eb1fc0c4d2e1d3062c0e452c317392914acec5d7d9f88a491f001dc2884c1	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+387a5539480bad993b4d12314f81c4f70288b5e524f2a151c8fa09a6aa77472f	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+14cceb54e80e04b16bc7aff71d5dac480a858ff372d83847f3d7a04289b131cb	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+7061859151afce6026c564af8e6d06567b895912445ae7032c7de3a5fbfb45f4	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+939bacb6e74b920b834f0e3564fcbe860aeabc48cb522d68f34607f656d41813	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+10d880a0b91528bd791604f681bdae1dfa405aae7e7118084923e596f6afc4d4	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+9f6718521add64726fc04d051fa8c7b9a00ea0e9bafcedecd767f2f71454a988	ThreatFox	2026-11-20	family=win.smartloader | confidence=85% threat=payload
+a7be54b7ee5b7d69de059800e9eaff5e99f68172fbe9bfdc64d6a4e6db244190	ThreatFox	2026-11-20	family=win.smartloader | confidence=85% threat=payload
+3ddbb6e922afd643058f62e6bfc6cae728acf344fee8677bd5cf544f474b2f4d	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+7bc6b89f89812fc713fe755bb119870035c216b883041a59a1d85e90ffc25491	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+2c35267958bcb8aaeaf7c3794150b422a8229726247d0e2024951cbb3bfb4973	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+95e666690fcdfecc1800c357bd5eb7a7f10311d5055ac994f136be311ab787a8	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+9ae0bfec6c4c501a05e942f45eb380f0dd2fde676743dd0004c82882c112635d	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+41c282a8c13276e670939eaaaa572e45e2607bb62cf2a94bc875963008805909	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+8a75ab59cf7efbeb980c04db8b87483ed1b8043a6d7f600ad5e0e31608c43d13	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+9577941586c842c845d457313240e7997fd8ea8e2eec3ad5569a8feb208263e5	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+993bb703534d027dfe36933822562a15500d943a4a98582d869a7d6261c2749f	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+2c9c1762b78ce6fc6634277fe07ea16cffb6e8ba97b8574aa44fa74b7c4bb743	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+3566e4ecfeeee68d884c602037d70c9570eb376846c2178f7594225267f8ecde	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+61b39abcba45304694c81611e935bb4a1a196b46bc39bb9e5f77c36caebb19ae	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+77595ecb7d0b07d4fb335b8662ba2dd982d36c2a113eacdbc8229c2796bcd6ca	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+11a4913f1926c3142e9e3f591af30193bac8d7be2f43ebc0bc0758e5499820be	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+485760b18f5ffc956eb21ec4fb83bf3c155aa34e7659a6e9a33811afee5ed7d7	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+99647ec802196c42f57b8f8518028592e68c832e081b504cdfad9de69c868fc6	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+8b23adb9d7650c82386d68fd0264a70d986dda3f153b5057b9ec964ee9c5a46c	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+2783748943b7b9dc2218d27434692d8f3acbba532792275b645035adaafd92f6	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+8a5bac2c5bfb07b3b2729bc100ac2b62e9bfb277644a1fa6d887d2de952c96c6	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+fff5cc6c1015332b484df0576fa9808e91b2a8e9d6bdf758564f33a8dd753d42	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+778c53804cfe3027f4556e866dc8a975845b1118c256c5df098b438a80726803	ThreatFox	2026-11-20	family=win.noneuclid_rat | confidence=90% threat=payload
+44b7dfcf55b0ea0f0b47fee7d242a7c47a6dc2c9f068500d9b531dd09a43fa3a	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+da61814fb935652f0c7207f3c043162309eb88eb682108a3a3724da19255f7cb	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+8d7be4abcb97d2edb6850501e2ae65dbedb792e77dccd6a14f49aadf9d684c41	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+b83fbab2c10204040b9f9f8e50d42c2a477ed6fa51febf00f73c5ed8b94c10dd	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+e11d5220137527a2553482437a120d44a1134b3ee80cda5f125543234ef59bfe	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+53f936f52e704f01ca5e611809c0a41d9354922114d2c256d95c6270152b7e59	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+76c95a53067cf99758e11d0b0c7daf566a23de9bc20911c680f0bc83ab01c31a	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+936ef3da89e0adfdea5dfd61c6ffacd7ddb4e118a3bf95b1f1c96a4cd4fb813f	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+0ab667fa2b604db9e29e86b6429c92a60633528442a2d70fce83a96d8e7ffef6	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+9e99ea23c13fb1f880a9880f05b0e4d9318f631e5bc349c3b2ce306165e15c8c	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+2863367bdbc55eae6605225f6cbb547c7da9ae8f70a0b76b060e03c577144607	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+e26acaffb6aeab03932614900dc5203c766ecaf90d7d5c92da1b2325bffdad51	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+104a1804751c1545e1ee563e05bed275359d2c2da9545089ab2fe9fd2d977390	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+fe0a48bd4eae2d93f90c1173fccc0e82d4a0ac803f3dc3ea3a0f47b3c714cd66	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+7d34d93be25012c5d66aa1b0613e08e0bbea9dd7eeba3b59990272f95610926c	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+99df904a471b2db74f25e17709969e5465b2f04281a6da3e9636bba8d2410c17	ThreatFox	2026-11-20	family=elf.mirai | confidence=90% threat=payload
+31ee1518da5c18060dbcf259b6e19fc4a2821a8ab011f10f5f623ca3f8606bf5	ThreatFox	2026-11-20	family=elf.mirai | confidence=95% threat=payload
+50f92ee9546fc51acb4fcfb2131eb6632325b687b4e0adbe42b28eaa1fb89329	ThreatFox	2026-11-20	family=elf.mirai | confidence=95% threat=payload
+765d78be9c09d393f6fa2d4360f709dd0d14b8f653f9afa48f0cfba63b9bc402	ThreatFox	2026-11-20	family=elf.bashlite | confidence=95% threat=payload
+cacd3bcc5c397d82545b49c22f8f831aee6976893bd977d8a827a67e9781df9b	ThreatFox	2026-11-20	family=win.vidar | confidence=95% threat=payload
+2120cd6aae081063d7f2f3709feaaf9cfc594fb50d3c2cebd431f0b4a03212c4	ThreatFox	2026-11-20	family=win.asyncrat | confidence=95% threat=payload
+9e5b93d3095f577136717e6aae8b51fea50d66ef9123eedccfc23b8faebf6d6c	ThreatFox	2026-11-20	family=win.coinminer | confidence=75% threat=payload
+6ef27a778205b49344615af4c6983ebe2ac8fe89738eb44c202fdefb0fb40cc9	ThreatFox	2026-11-20	family=win.mirai | confidence=75% threat=payload
+a3d67ef808497bf48930be418667da0c2d815431213ff9ca4304be6669f26801	ThreatFox	2026-11-19	family=win.cloudeye | confidence=90% threat=payload
+58479001308c208550c828ec58114e208a6876e69010296f8ac8d05e64f6f6b3	ThreatFox	2026-11-19	family=elf.mirai | confidence=90% threat=payload
+f8813823c64b6221268a2a8941523a9809172a926126136248c5d4bc726e7274	ThreatFox	2026-11-19	family=unknown_rat | confidence=90% threat=payload
+81cb70cc47fba5216f1a9119c1ec91bb0bc1f4c75cc795df909258d3dc1ddd02	ThreatFox	2026-11-19	family=elf.mirai | confidence=90% threat=payload
+4b943d7b1abf6e24865cfaccc659ad44c952b2cfec0d15ea6317e8ebc6d3fa1a	ThreatFox	2026-11-19	family=elf.mirai | confidence=90% threat=payload
+73f27d682eb9dbb3037d1a765450e69a4fbe1b44bbde3b1da54abe4ff47a0464	ThreatFox	2026-11-19	family=unknown_loader | confidence=85% threat=payload
+2c69bb222de99b52d72338a5026092d21c00f1c9afe1c670ba3e236747c7cf96	ThreatFox	2026-11-19	family=unknown_loader | confidence=80% threat=payload
+17626fae39d3f0dceea3800198d946dae46784cfe393deef4ea0035e53021cf3	ThreatFox	2026-11-19	family=elf.mirai | confidence=90% threat=payload
+ee4dac03073cb9d1bf0791b2dbfae40df82fc5087f6c61139560aab724a6e776	MalwareBazaar	2026-11-20	family=Prometei | filetype=elf md5=448a28e92d936b43bdfca74b9b0dd5fb sha1=38edcf87960d770be3dbcc74d434e9b906bea024
+e730b5c87978f67e0b5aee81d867834b079f3bf5bc90991ea84df9d1a3088ba0	MalwareBazaar	2026-11-20	family=Mirai | filetype=elf md5=6bdb6abae6ef281ab2b433955da5316c sha1=99c9f884f3434eb4d542d3cb42bd180d79ed275c
+452798f537fca1f111e20d2255d2b99acee308827c05527f6eda665e2f0ff016	MalwareBazaar	2026-11-20	family=Prometei | filetype=elf md5=2bfdb03875c2892574c911dc30cd0744 sha1=563485aa75aadbfde1876c2dc17db23c352020a9
+6ea553324ea8da26fce2babd5ff3aaeea4f2e80734453b383f1922f13051685c	MalwareBazaar	2026-11-20	family=Prometei | filetype=elf md5=089961bf8738d6d8c33806af78f7f208 sha1=0525c89bf5fab1b6f83b01f63b6c922979277ca2
+65cf585dab6f16047ea66e269906e3f35d2c13ee98cdbaac2512d6efb06e1075	MalwareBazaar	2026-11-20	family=Gh0stRAT | filetype=exe md5=992cb9d7ebd335b3a983542d117935ae sha1=fcc5cb5aa8ed9a1294e99dfb9d977f6d998c6f43
+abe2601b0503f6ecc318941da3c0647afd0968b6fb57bd00f2fb0979c9b4b5d5	MalwareBazaar	2026-11-20	family=Prometei | filetype=elf md5=12edcda310a34cfe9bef08d6649e06c5 sha1=8835a69adae90e3c609b1a77b45c6260f1cf175b
+833c9ef81c70aa367b34d985196b37941133b9dc9950bda6ea5a9c2cc0ae7a50	MalwareBazaar	2026-11-20	family=Prometei | filetype=elf md5=34893e05c81a4d80917e5c34352723dc sha1=cd883ed36d7332fe3b7d90dd417596c9e96a828e
+8c206b4b74a93d26a037cd9020c81d6bb2f04e27bc477a5c36ca4861535fda8f	MalwareBazaar	2026-11-20	family=SalatStealer | filetype=exe md5=7ce6eec6570907cce7f209074050dc99 sha1=9764744ac20a44788ac14f33e454ca40f2062436
+0ebf9eb07266aada0469ba738447f8243f3aa53278488b19e3737a2e548f2539	MalwareBazaar	2026-11-20	family=SalatStealer | filetype=exe md5=ab5357321999a4f785fd422df786dca5 sha1=f18c2bbfd9e49abd06ca12276848e48bcd4ba641
+c60659e966aacdba38891363aabc1dd21582cf584a9657d6cab1801586246202	MalwareBazaar	2026-11-20	family=Mirai | filetype=elf md5=9ca8124eed7a9736547935cf4f520fe0 sha1=7247208464c644c9b921138a79b2119b20c52f0a
+6bc97ee5cd5499a0d4e0f633491176d73b454ec639a11d353819b657fdd52765	MalwareBazaar	2026-11-20	family=Prometei | filetype=elf md5=1bd59011aec0452e53d99bf286b9eb1b sha1=f78dd183667443930602650476123f782072e634
+1ec4245b3b303304ea24a89b3b2351b0f0c085087050f517d23dcba9694c165a	OTX	2026-11-18	family=supply chain attack | pulse='Optimizely Supply Chain Attack Distributes Malware Across Global Brands' pulse_id=6afdaa416a4121d2f40898b5
+04206431c83d1d81726e56fffb5166c0a7f138eb366e5aa918dee54af1ef22b5	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+12e716f48875befa978ff4a78a0b99a18b1809fc5bcc34c761158875da611aa8	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+1949894c26e03d6f15ed7f4393a89dbd52f8acc62959d3d5e4f695d6a19c6d9c	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+22b8f2776f1c941d8240ee4243da537147f8d2ee4d859a68038335da7b0d7688	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+2776cfcdd46264043b823adaf37e0c85d0efd3b46d5fdbb72219535061d44b86	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+3d73d5342a11dce35081e70a4ea75d39ad65bc6d480337bd33c1d2e0ba4090ee	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+5b2285f788eec4d17bf18d85795d457f40f7598bbab2697919f5810f54a9c3fe	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+76670eaadda9806c9aefa91c2ee4f2a33dcf8124574721a6ff072f19e7c03514	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+839300af16b7117adf05751e1847e1e026146d388cc328a179ba799eb1c9c229	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+899f072c505e56ed65b4ea5d64ab3bc0f98c39366b2c413c988551843e729451	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+8ee88ef957597fd4788ae9da4463dcbecec0f1969e6573204f4263f99f46b125	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+9abbcb4ac9a98690c666a2e843facf62af773d078db40570f08f052b0e42003f	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+b0d382443411a7986ce7eda473c3e8ed787de9083db71deb4ea0539ed74c0c25	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+bdea608430fbf6384ce518a542af3e0e69a685980ef826f7db3de20d4c835e26	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+c2454052f49e43226f69413ce58ba0bb3a2d89e7a52f32ef8adbf0961bb838c2	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+c3f6aa4dc9cdbcd2cfdacd18e59e0c1af0406d59d1f81cd962ac3cde60626ee8	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+cbd790d052a57d18f1cd58fe4c9887340eec5d38bfae105caf0d222f30a856d5	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+d4032e61aa9ef01a5a174a90beffa5a27dd21b36e653ce5304907787554b7d95	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+d8ae46604dc4eab411977764bd923af686aea117fb33304520d928f1d382ef0e	OTX	2026-11-18	family=MSIL.Killav!gen1 | pulse='Behind the Power Outage: Unmasking a New Intrusion Vector in Enterprise Infrastructure Tools' pulse_id=6afdaa4262eb5177f038db47
+80cf452f30aaf7d3f5373b3c7318ff9e	OTX	2026-11-18	family=NodeRemote | pulse='Fake FMCSA, DAT, and TIMOCOM Portals: 3 Cyberattacks Targeting US Logistics' pulse_id=6afe21487f55b1567b331b59
+70f920cf7bdc0fea7f3af8e2899e33ca80f8e3df	OTX	2026-11-18	family=NodeRemote | pulse='Fake FMCSA, DAT, and TIMOCOM Portals: 3 Cyberattacks Targeting US Logistics' pulse_id=6afe21487f55b1567b331b59
+423a5b4797bf3fd29e14b2aad6be18d1	OTX	2026-11-18	family=agent-framework | pulse='agent-framework 1.26.1 and 1.26.2: PyPI credential stealer' pulse_id=6afe238e2c4ba09cd1ded286
+548634ffe60848d466acbb9df0e47fb5	OTX	2026-11-18	family=agent-framework | pulse='agent-framework 1.26.1 and 1.26.2: PyPI credential stealer' pulse_id=6afe238e2c4ba09cd1ded286
+88b1ea3f6420b18391fe31c149f21f5d	OTX	2026-11-18	family=agent-framework | pulse='agent-framework 1.26.1 and 1.26.2: PyPI credential stealer' pulse_id=6afe238e2c4ba09cd1ded286
+9d4ccd936a223d7cab0b308e92454ceb	OTX	2026-11-18	family=agent-framework | pulse='agent-framework 1.26.1 and 1.26.2: PyPI credential stealer' pulse_id=6afe238e2c4ba09cd1ded286
+a1596c8f82e8fd6fdc2100852690d7a3	OTX	2026-11-18	family=agent-framework | pulse='agent-framework 1.26.1 and 1.26.2: PyPI credential stealer' pulse_id=6afe238e2c4ba09cd1ded286
+d4a70785f9351afc9fbada4e33edf891	OTX	2026-11-18	family=agent-framework | pulse='agent-framework 1.26.1 and 1.26.2: PyPI credential stealer' pulse_id=6afe238e2c4ba09cd1ded286
+dc16d2c976abf5a4d08db281fdc0d18b	OTX	2026-11-18	family=agent-framework | pulse='agent-framework 1.26.1 and 1.26.2: PyPI credential stealer' pulse_id=6afe238e2c4ba09cd1ded286
+642b66b3b76fd8c7495ac821b9b20037f01dcc5d	OTX	2026-11-18	family=agent-framework | pulse='agent-framework 1.26.1 and 1.26.2: PyPI credential stealer' pulse_id=6afe238e2c4ba09cd1ded286
+780992d9b701d9cfcf032480e474538e73827611	OTX	2026-11-18	family=agent-framework | pulse='agent-framework 1.26.1 and 1.26.2: PyPI credential stealer' pulse_id=6afe238e2c4ba09cd1ded286
+7a1eaaec6b325f3cee0c8b328a1b5a285c2f1ad9	OTX	2026-11-18	family=agent-framework | pulse='agent-framework 1.26.1 and 1.26.2: PyPI credential stealer' pulse_id=6afe238e2c4ba09cd1ded286
+921ef8764d3f061184dd4d8de61771b07db11ce9	OTX	2026-11-18	family=agent-framework | pulse='agent-framework 1.26.1 and 1.26.2: PyPI credential stealer' pulse_id=6afe238e2c4ba09cd1ded286
+a800f3b31fb9e722baa781368258f1bd51db42ca	OTX	2026-11-18	family=agent-framework | pulse='agent-framework 1.26.1 and 1.26.2: PyPI credential stealer' pulse_id=6afe238e2c4ba09cd1ded286
+e2955eb2718ac8b81695cea89718ebeea525dd59	OTX	2026-11-18	family=agent-framework | pulse='agent-framework 1.26.1 and 1.26.2: PyPI credential stealer' pulse_id=6afe238e2c4ba09cd1ded286
+917f2bc33faba15236be1bf6c5a121dbca3fdf38b56c03ad08e6c46b464509fe	OTX	2026-11-19	family=CNCMachineRMS | pulse='ROMULUS Campaign: CNCMachineRMS RAT Analysis' pulse_id=6afe618212d4bcf4450d3cb6
+40057580364087ec61e7b48719d3fbd3	OTX	2026-11-19	family=CNCMachineRMS | pulse='ROMULUS Campaign: CNCMachineRMS RAT Analysis' pulse_id=6afe618212d4bcf4450d3cb6
+ecb63717c3d858b46d672577757b1b8ec3d25779	OTX	2026-11-19	family=CNCMachineRMS | pulse='ROMULUS Campaign: CNCMachineRMS RAT Analysis' pulse_id=6afe618212d4bcf4450d3cb6
+f4647249fe4293818dda3c9ba2fd2e0d	OTX	2026-11-19	family=CNCMachineRMS | pulse='ROMULUS Campaign: CNCMachineRMS RAT Analysis' pulse_id=6afe618212d4bcf4450d3cb6
+de3d53b264b0255e41d1bad4c1142d01f575c17d	OTX	2026-11-19	family=CNCMachineRMS | pulse='ROMULUS Campaign: CNCMachineRMS RAT Analysis' pulse_id=6afe618212d4bcf4450d3cb6
+9ac13a8ef7bab76c4d074385fd783e8c9542a8db7a166c3d3921a48add092455	OTX	2026-11-19	family=CNCMachineRMS | pulse='ROMULUS Campaign: CNCMachineRMS RAT Analysis' pulse_id=6afe618212d4bcf4450d3cb6
+36abd242ddaa27f0160c539377a0e92cf781c1695137850acc87e3892b436d36	OTX	2026-11-18	family=GhostMap | pulse='IronWorm eBPF Rootkit: How GhostMap Hides on Linux' pulse_id=6afe214a2d713599d9c3976e
+6144d433f8a0316869877b5f834c801251bbb936e5f1577c5680878c7443c98b	OTX	2026-11-18	family=GhostMap | pulse='IronWorm eBPF Rootkit: How GhostMap Hides on Linux' pulse_id=6afe214a2d713599d9c3976e
+3607de2597f8955f9a88f36ee43b64d3891b8ef536e99fa098e80169350f7b01	OTX	2026-11-18	family=GhostMap | pulse='IronWorm eBPF Rootkit: How GhostMap Hides on Linux' pulse_id=6afe214a2d713599d9c3976e
+36fed3e2cc68e7c6c9763cb9b1aa715e	OTX	2026-11-18	family=GhostMap | pulse='IronWorm eBPF Rootkit: How GhostMap Hides on Linux' pulse_id=6afe214a2d713599d9c3976e
+50bc563e76995158fad99139ea78aa81be55f93f	OTX	2026-11-18	family=GhostMap | pulse='IronWorm eBPF Rootkit: How GhostMap Hides on Linux' pulse_id=6afe214a2d713599d9c3976e
+0c16ee8a8c1f5b51b01bce924e173030f032912d5b66f1a564fd636a67ddbf5f	OTX	2026-11-18	family=GhostMap | pulse='IronWorm eBPF Rootkit: How GhostMap Hides on Linux' pulse_id=6afe214a2d713599d9c3976e
+8795b5215dd06c5366a038a65b18b4dfefa5fd90244a567c3e0b58323103377c	OTX	2026-11-18	family=GhostMap | pulse='IronWorm eBPF Rootkit: How GhostMap Hides on Linux' pulse_id=6afe214a2d713599d9c3976e
+42b59fdbe1b72895b2951412222ebf40	OTX	2026-11-18	family=GhostMap | pulse='IronWorm eBPF Rootkit: How GhostMap Hides on Linux' pulse_id=6afe214a2d713599d9c3976e
+87f21647803744b61937d563f8fb89e5b085648d	OTX	2026-11-18	family=GhostMap | pulse='IronWorm eBPF Rootkit: How GhostMap Hides on Linux' pulse_id=6afe214a2d713599d9c3976e
+21669e7c60f78a90c10c37b8c741e14efc0820c5e51725094dcb8b86767c6dca	OTX	2026-11-19	family=Koktevrat | pulse='Fake Conad Plus App: A Promise of 10× Loyalty Points Conceals Android Malware' pulse_id=6afea0670379624593667583
+6ac3cc61aefeb0c6a4600e03c35f72ca702b3b297ec72d1d844f19db76b7db9a	OTX	2026-11-19	family=Koktevrat | pulse='Fake Conad Plus App: A Promise of 10× Loyalty Points Conceals Android Malware' pulse_id=6afea0670379624593667583
+e7b859f5e6560e441a00d18e03531f2e02532298246832574bd6220fa9b1942a	OTX	2026-11-19	family=Koktevrat | pulse='Fake Conad Plus App: A Promise of 10× Loyalty Points Conceals Android Malware' pulse_id=6afea0670379624593667583
+ecb4590d7093295f3c3ea13c74b8c6e0c96b4d12ac977d5e4e8b14dc3f7534ec	OTX	2026-11-19	family=Koktevrat | pulse='Fake Conad Plus App: A Promise of 10× Loyalty Points Conceals Android Malware' pulse_id=6afea0670379624593667583
+dadbbb7d40cad17747be67d252cc2a07	OTX	2026-11-19	family=cloud credential theft | pulse='PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign' pulse_id=6afeb20f28d6ef2c94a8c482
+c3f6954bfc42f7aaaf64fdd90713b8756c8651e3	OTX	2026-11-19	family=cloud credential theft | pulse='PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign' pulse_id=6afeb20f28d6ef2c94a8c482
+1642c2de5949909d1470523337a0e50b844f26a1f018e6b6984a4ed815657d33	OTX	2026-11-19	family=cloud credential theft | pulse='PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign' pulse_id=6afeb20f28d6ef2c94a8c482
+3ae6c2d36edf2db4845db9f18e1ae865de4e784c9c807e6d89033bef21e284c5	OTX	2026-11-19	family=cloud credential theft | pulse='PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign' pulse_id=6afeb20f28d6ef2c94a8c482
+57617d2d8a1cd7da3614b4329929df0d2f4a26fbbd79a418ec8623e83decf14f	OTX	2026-11-19	family=cloud credential theft | pulse='PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign' pulse_id=6afeb20f28d6ef2c94a8c482
+6d10e9923374c2e11b6528a34f23356e3cb4aa5d2f11db35a35193550d0d2be3	OTX	2026-11-19	family=cloud credential theft | pulse='PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign' pulse_id=6afeb20f28d6ef2c94a8c482
+7f1bd30c173af0e793f0a9a9ec44646131e8148fcb6fe64d00c06bf751a53d7d	OTX	2026-11-19	family=cloud credential theft | pulse='PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign' pulse_id=6afeb20f28d6ef2c94a8c482
+839f516d17cb0ebfdfa002f195299077198ec334f248b8084a954444ce3fbfdb	OTX	2026-11-19	family=cloud credential theft | pulse='PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign' pulse_id=6afeb20f28d6ef2c94a8c482
+93f8bcb90e608cdac0239d4218f31fb755357b056e862ce8b61df1026536d83d	OTX	2026-11-19	family=cloud credential theft | pulse='PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign' pulse_id=6afeb20f28d6ef2c94a8c482
+abaf7a73520ec77853d83ca1cd946a650291457b6303147cd6622fca5b8be39e	OTX	2026-11-19	family=cloud credential theft | pulse='PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign' pulse_id=6afeb20f28d6ef2c94a8c482
+ad06f3a8fd168659a72cea4ee1b105575f38c485e741776b1b097f6a79e43eae	OTX	2026-11-19	family=cloud credential theft | pulse='PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign' pulse_id=6afeb20f28d6ef2c94a8c482
+c2d898f29b4c6058ba2587fa7477bac546c838b72e48ad42e5e4fa11ab799ba9	OTX	2026-11-19	family=cloud credential theft | pulse='PHP2Shell Exploited by AI Agents from Day One: Inside a Credential-Harvesting Campaign' pulse_id=6afeb20f28d6ef2c94a8c482
+9c5698924d4d1881efaf88651a304cb3	OTX	2026-11-19	family=Brain Cipher | pulse='Brain Cipher Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb2994a0d7c67652d9554
+714b31629c37dee57038ca4e52ef65ac	OTX	2026-11-19	family=Brain Cipher | pulse='Brain Cipher Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb2994a0d7c67652d9554
+f94d17b5f232e9cfd2255ca9823cb18a	OTX	2026-11-19	family=Brain Cipher | pulse='Brain Cipher Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb2994a0d7c67652d9554
+8dbd57b042bc63b9ecdc9e3e5506ce85	OTX	2026-11-19	family=Brain Cipher | pulse='Brain Cipher Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb2994a0d7c67652d9554
+a0efa7fb6dff1e035510ec1f42e083e4	OTX	2026-11-19	family=Brain Cipher | pulse='Brain Cipher Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb2994a0d7c67652d9554
+255a65d30841ab4082bd9d0eea79d49c5ee88f56136157d8d6156aef11c12309	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+57c8edb95df3f0ad4ee2dc2b8cfd4157	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+da738753c27f2708bd2257f8cac3385a4ccb0df1341b76acfda07fa980cfb4bd	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+4daf48805aeee6726cbf9fb4077799b473c907f07e8c5082a0f26d10f5fff1e0	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+ab20150025af33813865b6388ce12704a18e434be0624ebf84477bbdc6fb2f00	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+04461a6b8ac0fea7f089d739aee9ed081d9a1fa30c837214ef3cd50e60be0804	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+2f38120d7880a35c94d837dd60fdf24f4e48f58bd18ec33aa20c4061a61afab2	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+3be4a707c52526a2b49b7f7bf7e5d6b05ca9bbcc14df8f84269ccfde526f6365	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+da0f6ac0b30f8e37e9f0e25b605c3a168c1ff80357d66cd2d25bdf6c80964dc7	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+d96d07ac379d1c5eebbe57382c2ab2ee	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+dcf00b8e529b91e40d38e0c1138cfad6e894fb1e	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+cd674d6aab60773d6af8554cbc28e902221aeec9b9734c98bb5a1a836c2f166c	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+dd766c3b2ca6cbea1905751d5c252c0ee75ac70bafdf24b7ab17e5ff0f92bbfd	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+867434cbf3ad53e9ee2c9d3e28adb15c442b8035333b08a62e99b4f45af229e0	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+95e61f016310bf3944d81940d2e08a0cac0b5c1956e84c734d25fd977f7d2047	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+a3508d5b3ecb72d3aee94c26ff32731f57724a87b815e805444133c1e6f33c68	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+599b86707d310d834b95337bc6e6fb56f0b177133531fc32bfcd0a45dbe4d5ec	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+d4bee089ae9997667c5ebe728f2e115035f55b148d06000fae035f6ae3ea6cf5	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+1204177a34fd956e2bb5317b0f01803cc1bc6ecc513954b9e91640718760235d	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+8030e5c7088a2f084dec2da39e65b0e5c9250315ffe34bb409c5065972f0d3f1	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+d8be60ff114215bac71a7be4857c81dd72005a1a0c10937431284eb327f19548	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+0000f89067d9fbf51cad68aedb0866b1b233056f4b1d704162721aa274ef0d22	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+a6169a237c3f84d7e3d8cb0da93f0f72	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+0373645a58b8d8c15cee440a36a48315881205cc32f640904f72fd9440c5e8de	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+531585ad2b627330819da1882a14296630a7c3268ef890b66d52aff8554c2fa7	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+55879bf900ac472938df1b3df292792a003376586c491d9e6ef5725dfb79ca90	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+0ecac11bd830b9223c49d9fc0920199759c6020365ce148e2a121f50d1486fa8	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+d4f6f3f9bf38396dfe3e590650308c81395f9873ae257ae639cb3b63b150bb10	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+8d553c8cd2826aa27496f5ce05063dc8f3654d9eb7a811aaef6cc37cc5532d23	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+859a39512d6d55d16c6e7bc6b7445e7b5b022fefe1696e97d7945d29b8cf5712	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+5f74db9f3fef176d9af3283eee156836	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+7abadb6335f958194c51c3f28b4c0b7fe7640a1283cc5e0bb3413c41ffaa1b36	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+cf1a1c9aee2f973048cdc47eb982a89a85c2dbe64edd3f49d9d0e849c6b50b60	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+d905a31374a18a49d4f644cc5a4ad815f7bd53cf940b090795fbcdfe6f728c01	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+6eb0b21b01e6326dc3f062c37d64dfe12181ed7f1b0440b2f472fcaeef10cbd9	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+4c59dfd4741da5e2536fc9dd3f794524f992c8a25e492a559f680909ae925759	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+bd37c48100636a459f2d761371461fee17cf95fe62c1e8fb241815b705edbd67	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+a5c6d4dbae668479ccb9e50a7e8c3f3bd51efbdfae7ca1d1e079ea618c11631b	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+63510f745f227ec5c1ae2a289d6267df85517b01	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+fd23d91e71a07f725a8ebf2711489c9cfecb6cb069b7b06017701c04bb47705f	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+531b6ac86ed96cc3656cb5b2f2cb8e6732567a2e6937ec18773890a8a8f48aac	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+7b43dfb9ba1e5802c31bf907fb259e48d88b144f7b19976c511d2fd233df6178	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+deff1c722b5b44b3e2a487a7a05b0e36aada301edc89236f47cf5ded83ed1068	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+09c5d30e5ce3380b91cfc710090c7234ba3ee738f0648efe01a8ca8d97a7354e	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+85184400bcb3c11dde2c66167289f506d61ec547caeca611e1b3772dc5f6ecaf	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+cad7535ae2670becf3e09c1f506881c8420f9acf3fbb409449c11304feca0f8e	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+8e6e3daa8b1eddf230b88334f3d97a9eb3fcddcef164a6005f377abf842d54c9	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+2cad7c33a0acc53648dcb44da00fb716	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+279ab1e680c954823f6acb12245d77815edb39fa508b81738c11c998358502a9	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+5aa11ea9fc919725e883e8c2acd81729	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+0f223a27404e1b424cf1172407d22500a4554e62	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+0b8ebd4407f3ba06ec6cbb833803ad04	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+af52e145cd974e54940bda32315650c7f341300d	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+99bfebefe496e77e02588bc2d9ef42ab31e31971bdee24f5e4cbf74f4b61f63b	OTX	2026-11-19	family=oauth abuse | pulse='Helix Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29978745ce4f60606bd
+670ff0f67f140db35e65b5a61ac504fa8975df6048cf15795a6a7dbe580636bb	OTX	2026-11-19	family=privilege escalation | pulse='Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29a01ebff4882e70dae
+7f85522cb5f554c82df4a37937f2362c3e28af554ab8bfda7436ac968b1b806b	OTX	2026-11-19	family=privilege escalation | pulse='Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29a01ebff4882e70dae
+000032e3f339f844cc01280d89a3f5147d166326aa179b43c519551f2f11656f	OTX	2026-11-19	family=privilege escalation | pulse='Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29a01ebff4882e70dae
+0000aaa9b429aa46510c07d424aa4626a1e961c6716b9da489fe7a7f9045caaa	OTX	2026-11-19	family=privilege escalation | pulse='Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29a01ebff4882e70dae
+00013809cf8a048e9e581f98b9112ed77d6ccac5fde7a81ea9c9005917086cd7	OTX	2026-11-19	family=privilege escalation | pulse='Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29a01ebff4882e70dae
+90b7b711f56f00a1fa08a7a29f2cd8602b8aa1a0d78986dbfc9f64e38ac6cecd	OTX	2026-11-19	family=privilege escalation | pulse='Eclipse Ransomware Group: Victims, Leak Site, TTPs & IOCs' pulse_id=6afeb29a01ebff4882e70dae

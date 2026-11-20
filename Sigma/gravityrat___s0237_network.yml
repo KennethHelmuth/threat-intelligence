@@ -1,0 +1,53 @@
+title: Network Connection to Gravityrat - S0237 Infrastructure
+id: 3ad7930c-1d3e-4477-942a-80c75abd1c07
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Gravityrat - S0237.
+date: 2026-11-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - android surveillance
+    - cosmic leopard
+    - defense targeting
+    - fake recruitment portals
+    - gravityrat
+    - heavylift
+    - malware.gravityrat___s0237
+    - mobile espionage
+    - pakistan-aligned
+    - spacecobra
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'movie-date.net'
+        - 'myvaultz.com'
+        - 'androidannotations.com'
+        - 'androidasynclib.com'
+        - 'androiddevpool.com'
+        - 'androidstaticserve.com'
+        - 'api.androiddevpool.com'
+        - 'connectivity.androidstaticserve.com'
+        - 'dropdeckx.com'
+        - 'meta.androidasynclib.com'
+        - 'static.androidufslib.com'
+        - 'recruitersglobal.net'
+        - 'dock-sync.com'
+        - 'linkuptoday.net'
+        - 'androidwebsys.com'
+        - 'androidufslib.com'
+        - 'cloudupnext.com'
+        - 'chatnplay.in'
+        - 'web.dropdeckx.com'
+        - 'an-east.androidannotations.com'
+        - 'api.androidwebsys.com'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

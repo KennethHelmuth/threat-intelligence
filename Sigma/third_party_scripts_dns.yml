@@ -1,0 +1,30 @@
+title: DNS Query to Third-Party Scripts Domains
+id: 4912532a-fd96-4c05-9971-382081babc61
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Third-Party Scripts.
+date: 2026-11-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - card skimming
+    - cryptocurrency theft
+    - ios exploitation
+    - javascript injection
+    - malware.third_party_scripts
+    - optimizely
+    - supply chain attack
+    - third-party scripts
+    - vendor compromise
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'l7bcsnwc7nzr3uo.icu'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

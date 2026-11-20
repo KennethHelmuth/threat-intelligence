@@ -1,0 +1,32 @@
+title: Network Connection to Koktevrat Infrastructure
+id: 1f3887c8-3a6a-41e3-a4e0-02ffdead32b5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Koktevrat.
+date: 2026-11-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - accessibility abuse
+    - android rat
+    - fake application
+    - italy
+    - koktevrat
+    - loyalty program scam
+    - malware.koktevrat
+    - overlay attack
+    - websocket c2
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'www.conad-plus.shop'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

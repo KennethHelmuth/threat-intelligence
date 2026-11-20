@@ -1,0 +1,32 @@
+title: Network Connection to Third-Party Scripts Infrastructure
+id: fed1ee17-2ccd-41d9-974f-3e4e68cd678b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Third-Party Scripts.
+date: 2026-11-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - card skimming
+    - cryptocurrency theft
+    - ios exploitation
+    - javascript injection
+    - malware.third_party_scripts
+    - optimizely
+    - supply chain attack
+    - third-party scripts
+    - vendor compromise
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'l7bcsnwc7nzr3uo.icu'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

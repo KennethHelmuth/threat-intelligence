@@ -1,0 +1,30 @@
+title: DNS Query to Koktevrat Domains
+id: 79c134fa-69b4-44e2-ae41-84ab735bcd7c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Koktevrat.
+date: 2026-11-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - accessibility abuse
+    - android rat
+    - fake application
+    - italy
+    - koktevrat
+    - loyalty program scam
+    - malware.koktevrat
+    - overlay attack
+    - websocket c2
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'www.conad-plus.shop'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

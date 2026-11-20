@@ -1,0 +1,40 @@
+title: Network Connection to Cncmachinerms Infrastructure
+id: 06cd134f-a457-4b8b-bf0d-fa39f37c6300
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Cncmachinerms.
+date: 2026-11-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - babadeda
+    - clickfix
+    - cncmachinerms
+    - dll sideloading
+    - legionloader
+    - malware.cncmachinerms
+    - proprietary storage format
+    - rat
+    - remote access trojan
+    - romulus
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'cloubflare.net'
+        - 'cloubflare.top'
+        DestinationIp|contains:
+        - '93.152.213.151'
+        - '151.240.151.223'
+        - '23.94.252.153'
+        - '167.76.44.160'
+        - '86.107.124.7'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

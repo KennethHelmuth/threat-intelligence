@@ -1,0 +1,45 @@
+title: DNS Query to Brain Cipher Domains
+id: 70d5c1ea-5a31-4320-884d-a5a508442754
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Brain Cipher.
+date: 2026-11-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - brain cipher
+    - data exfiltration
+    - double extortion
+    - lockbit 3.0
+    - malware.brain_cipher
+    - monero
+    - network infiltration
+    - ransomware
+    - social engineering
+    - zero-day
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'prosomnus.com'
+        - 'clinicaromero.com'
+        - 'cadorath.com'
+        - 'ciscocems.com'
+        - 'hamiltonhealthcenter.com'
+        - 'hhjcpa.com'
+        - 'megastarfinancial.com'
+        - 'mvjllp.com'
+        - 'myronl.com'
+        - 'novagroupgbc.com'
+        - 'olyortho.com'
+        - 'parkell.com'
+        - 'prairieridge.net'
+        - 'srsnodgrass.com'
+        - 'tritonclaims.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

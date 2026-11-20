@@ -1,0 +1,36 @@
+title: DNS Query to Bazuka Domains
+id: 8c9c7639-648f-442f-829c-0a825e1afad6
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Bazuka.
+date: 2026-11-20
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - adb bridging
+    - banking trojan
+    - bazuka
+    - cryptocurrency theft
+    - llm integration
+    - malware.bazuka
+    - modular framework
+    - nfc relay
+    - overlay technique
+    - raton
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'brokerok.org'
+        - 'gargona.cash'
+        - 'c2api.brokerok.org'
+        - 'c2data.brokerok.org'
+        - 'c2proxy.brokerok.org'
+        - 'c2ws.brokerok.org'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
