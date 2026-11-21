@@ -1,0 +1,47 @@
+title: Network Connection to Bonesaw Infrastructure
+id: b59c1167-0897-4eec-844d-f3466e015a35
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Bonesaw.
+date: 2026-11-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - bearbones
+    - bonesaw
+    - cagematch
+    - cve-2026-102764
+    - cve-2026-123890
+    - esxi
+    - golden saml
+    - lazybones
+    - malware.bonesaw
+    - sawsnake
+    - slimsavage
+    - vmware vcenter
+    - vsphere
+    - webshells
+    - zero-day exploitation
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '103.147.251.5'
+        - '103.190.38.3'
+        - '118.174.128.34'
+        - '118.174.128.36'
+        - '118.174.128.38'
+        - '185.71.15.109'
+        - '220.121.128.41'
+        - '222.108.77.44'
+        - '61.216.56.127'
+        - '81.45.89.43'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

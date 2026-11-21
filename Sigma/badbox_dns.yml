@@ -1,0 +1,31 @@
+title: DNS Query to Badbox Domains
+id: 55203522-10f0-48f4-af5e-b6e7e38f4cdd
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Badbox.
+date: 2026-11-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ad fraud
+    - backdoor
+    - badbox
+    - bid requests
+    - ctv traffic
+    - malware.badbox
+    - pxyedge
+    - residential proxy
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'pxyedge.com'
+        - 'file.drgdj.top'
+        - 'gh.drgdj.top'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

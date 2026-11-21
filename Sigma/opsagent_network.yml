@@ -1,0 +1,29 @@
+title: Network Connection to Opsagent Infrastructure
+id: c7b2548a-f049-4153-8db7-021a2d43fadf
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Opsagent.
+date: 2026-11-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - auditteam
+    - cloudfront-c2
+    - edr-killer
+    - malware.opsagent
+    - opsagent-rs
+    - rust-implant
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '157.20.104.111'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

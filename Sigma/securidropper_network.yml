@@ -1,0 +1,35 @@
+title: Network Connection to Securidropper Infrastructure
+id: 0db461ec-e1fb-4115-868f-6199cd71338c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Securidropper.
+date: 2026-11-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - android banking trojan
+    - call forwarding
+    - card fraud
+    - fake google play
+    - malware-as-a-service
+    - malware.securidropper
+    - securidropper
+    - sms stealer
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'sanaminfotech.online'
+        - 'node3.sanaminfotech.online'
+        DestinationIp|contains:
+        - '103.129.96.11'
+        - '103.151.199.22'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

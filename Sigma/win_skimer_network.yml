@@ -1,0 +1,55 @@
+title: Network Connection to Win.Skimer Infrastructure
+id: fea94829-88f1-437f-94cf-98275ea357c5
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Win.Skimer.
+date: 2026-11-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.win.skimer
+    - skimming
+    - victim
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'vitaminhaat.com'
+        - 'viviameport.org.ar'
+        - 'volumen-mo.com'
+        - 'whynotgems.com'
+        - 'wrinklesshop.com'
+        - 'xicscalborrech.com'
+        - 'yamada8-conflans.fr'
+        - 'yshop.ma'
+        - 'ytuweb.com'
+        - 'zontesecuador.com'
+        - 'zpasgroup.co.uk'
+        - 'zpasgroup.de'
+        - 'zpasgroup.pl'
+        - 'zpasgroup.ru'
+        - 'stribro-mince.cz'
+        - 'subitorelax.com'
+        - 'sumifer.net'
+        - 'suministrosyespecias.com'
+        - 'sunday-eyewear.com'
+        - 'superlampara.com'
+        - 'suremparts.com'
+        - 'surempresa.com'
+        - 'tangsnc.com'
+        - 'teker.cz'
+        - 'themarshmallowcastle.com'
+        - 'thesyspharma.com'
+        - 'tiendagrupoemer.com'
+        - 'todosobrecesped.com'
+        - 'todosurfer.com'
+        - 'tomro-shop.es'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

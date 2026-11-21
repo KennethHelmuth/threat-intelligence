@@ -1,0 +1,53 @@
+title: DNS Query to Win.Skimer Domains
+id: 66a8aee5-aea5-44df-83b3-d173dcf18db8
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Skimer.
+date: 2026-11-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - malware.win.skimer
+    - skimming
+    - victim
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'vitaminhaat.com'
+        - 'viviameport.org.ar'
+        - 'volumen-mo.com'
+        - 'whynotgems.com'
+        - 'wrinklesshop.com'
+        - 'xicscalborrech.com'
+        - 'yamada8-conflans.fr'
+        - 'yshop.ma'
+        - 'ytuweb.com'
+        - 'zontesecuador.com'
+        - 'zpasgroup.co.uk'
+        - 'zpasgroup.de'
+        - 'zpasgroup.pl'
+        - 'zpasgroup.ru'
+        - 'stribro-mince.cz'
+        - 'subitorelax.com'
+        - 'sumifer.net'
+        - 'suministrosyespecias.com'
+        - 'sunday-eyewear.com'
+        - 'superlampara.com'
+        - 'suremparts.com'
+        - 'surempresa.com'
+        - 'tangsnc.com'
+        - 'teker.cz'
+        - 'themarshmallowcastle.com'
+        - 'thesyspharma.com'
+        - 'tiendagrupoemer.com'
+        - 'todosobrecesped.com'
+        - 'todosurfer.com'
+        - 'tomro-shop.es'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,31 @@
+title: DNS Query to Payment-Themed Lures Domains
+id: c0fc9aa3-617f-450b-8e0e-60ca48223fa2
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Payment-Themed Lures.
+date: 2026-11-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - authentication hijacking
+    - device-code phishing
+    - malware.payment_themed_lures
+    - microsoft 365
+    - oauth abuse
+    - payment-themed lures
+    - svg redirector
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - '9l2v3vupv5.synerghylnksloads.cfd'
+        - 'ngjedt0xrv.promtateusachorloadscorp.sbs'
+        - 'tgg5rqrdcb.synerghylnksloads.cfd'
+        - '5txpm30dqe.krointechbillpaycheckingusalexingto.sbs'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

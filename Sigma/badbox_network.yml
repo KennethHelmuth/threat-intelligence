@@ -1,0 +1,39 @@
+title: Network Connection to Badbox Infrastructure
+id: 19bc6ce7-a72a-417d-b8ba-c1160dd07f2b
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Badbox.
+date: 2026-11-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - ad fraud
+    - backdoor
+    - badbox
+    - bid requests
+    - ctv traffic
+    - malware.badbox
+    - pxyedge
+    - residential proxy
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'pxyedge.com'
+        - 'file.drgdj.top'
+        - 'gh.drgdj.top'
+        DestinationIp|contains:
+        - '107.151.239.17'
+        - '165.154.199.119'
+        - '165.154.239.242'
+        - '165.154.254.58'
+        - '199.190.45.202'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

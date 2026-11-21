@@ -1,0 +1,33 @@
+title: Network Connection to Payment-Themed Lures Infrastructure
+id: e4987eeb-e15e-4130-9056-643bd4285455
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Payment-Themed Lures.
+date: 2026-11-21
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - authentication hijacking
+    - device-code phishing
+    - malware.payment_themed_lures
+    - microsoft 365
+    - oauth abuse
+    - payment-themed lures
+    - svg redirector
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - '9l2v3vupv5.synerghylnksloads.cfd'
+        - 'ngjedt0xrv.promtateusachorloadscorp.sbs'
+        - 'tgg5rqrdcb.synerghylnksloads.cfd'
+        - '5txpm30dqe.krointechbillpaycheckingusalexingto.sbs'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
