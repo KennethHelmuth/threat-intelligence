@@ -29948,3 +29948,257 @@ d3b6065eb001d169421fcd146f64b087055dadebd973d8d69ae2bf97fbf288e2	OTX	2026-11-20	
 5f80fbc869b9c7ce1d17682f70224db74476aebcd194a1450e2dfef36dd0ff93	OTX	2026-11-20	family=Cereal | pulse='Inside Turla's Cereal: 12 Exchange loaders, older traces and new ways to hunt' pulse_id=6aff044fb4b53217d494e9a1
 fa21558cff3738784fab53f55e28964c4a53c4cf733b0283213a58057b5e9334	OTX	2026-11-20	family=Cereal | pulse='Inside Turla's Cereal: 12 Exchange loaders, older traces and new ways to hunt' pulse_id=6aff044fb4b53217d494e9a1
 cfbe108f2ca32a8badaae8c863996f89f6588d837d87f78925ddbf986f298239	OTX	2026-11-20	family=Cereal | pulse='Inside Turla's Cereal: 12 Exchange loaders, older traces and new ways to hunt' pulse_id=6aff044fb4b53217d494e9a1
+77ee1ac0e1cebe542621f7696c594b3d19f32d5f1784a8e9b9fbe879c68fbc1e	MalwareBazaar	2026-11-22	filetype=elf md5=9a44316441c517c6b0f4bf1566a0aa19 sha1=None | vt=22/74
+ea3ba48d47911939b516dabb21ed302bb3a66a61916d86a9f60d8a0df7975ed1	MalwareBazaar	2026-11-22	filetype=elf md5=15dcfd6acceefce4e504988e4e8343da sha1=None | vt=22/74
+be758e9e5ced1c67dddd360c20bd28ff0feb8a0e18272cbb615ca2b48a1ae2d8	MalwareBazaar	2026-11-22	filetype=elf md5=df3dbcac8d821ad9ae42fea11729b186 sha1=None
+e1adcb6d7f294e4c50c6507350f0e705b027482b3c84de02146c6c52ab6fd6f0	MalwareBazaar	2026-11-22	filetype=elf md5=a8d21e55201afd9b80b6feda2b7a4f30 sha1=9d0786bfd3baa76e2e8b586aa7974a0217772fb3 | vt=21/74
+cedf9be0a3bd2b9d9bc756ff8168422eb9e0318169ce8caf85f6a3f25370aaf8	MalwareBazaar	2026-11-22	filetype=elf md5=fc86ec090a96784e2f22f1d309d463e1 sha1=e9ee2657a09d4c5c1c5bf9ee9ddcb6b8b59f627e | vt=22/74
+7425b7a56dc9742208fed2d4604f0a3e186e58192b48f4c6a96592ce1d56e49d	MalwareBazaar	2026-11-22	filetype=dll md5=77878f9f18dfe1e0e3cdb62cc6e7eac1 sha1=13ff0e548f8b5a57a3c0ea1cca0a2b77199bceeb | vt=32/74
+42e9e779b677a744028b1276672d6ec010a96773cd143dd38cf32fdf104a4957	MalwareBazaar	2026-11-22	filetype=elf md5=6056c2c202bfcd9226c9ad048e4e0126 sha1=552a9440dcd379191e46574c855564bef05eaaff | vt=3/74
+dba9625fec97eb3bac3ffdd2c3036ab2dd5a0b66ee8761cd07e9325cf663bfeb	MalwareBazaar	2026-11-22	filetype=elf md5=7ac0926ae09e7fb62186d06e95abcf86 sha1=5e14f3e44bbf3497c346c99cab79ae9ca75895fd | vt=4/74
+4b0f0e682377662425e8c94754be35f0adb263589bc26dcc49faba7c038ffca1	MalwareBazaar	2026-11-22	filetype=elf md5=fff158d561bdcd7c46ff75e2505419ce sha1=cc2c2da7b91bd9e37e7cdda4be618764d98ab828
+72577de6fb4313e23d46c5c4b713bb5c458427e353c562060da4175b3e77cad4	MalwareBazaar	2026-11-22	filetype=macho md5=a7d87d6a889a0137d15c7bbc5bc3616e sha1=352ba6c2caf9ae431308391609378685a6fcf9bd
+e25839ef096b39109333cb92d8baa5880402a3841057e6133833135d8e4ca78c	MalwareBazaar	2026-11-22	filetype=macho md5=b482ad81bfe6dc3f7e26833b4c5284fb sha1=bf06c87d6e6fed1cdfa4fe066677958ab050f537
+7be5b6eef6df0540a745b8e725a5fdc4ff4ce95c878afcf6f0b4f88a36bdd223	MalwareBazaar	2026-11-22	filetype=elf md5=a999dd758cccead7081376fae3e8e685 sha1=51150bfd3cfb7f8ce668b543cdbdd821ca6036d6 | vt=3/74
+e8e60fbba93bc587135a5a474bc52dec8dd6ec0d051d38554d71ecf9f6f463e2	MalwareBazaar	2026-11-22	filetype=elf md5=1f0c7d7623f4e7f42d25ba60c1251d5e sha1=d572065c9f927ff44c2a3a20ea7db3ba1e50bb63 | vt=3/74
+2ae7c72ba12d52355551550aa6c2147549a40260524bbb2c8bbb359b0474bc56	MalwareBazaar	2026-11-22	filetype=elf md5=9c2b3b636d22040a68600a8a898692eb sha1=9e53a54230bb923e96d73799f63f82b9fcda9e91 | vt=5/74
+486d258731b76f0922d79542593cc97880100f589028743a0a79b7380c19ee31	MalwareBazaar	2026-11-22	filetype=elf md5=e2eeb205754c206e7ec7c3431ddeb56a sha1=cf02279fdd7fe2473b11d4e1356ebb3e3c3e933d | vt=5/74
+d396f3c20883a3b71244c87c537595108010239e4e17e6c09bca83ea5a475677	MalwareBazaar	2026-11-22	filetype=dll md5=75ef0d23e82fe64a3ac7980a57149aa2 sha1=2e1505803f415c2f2c033a2b8996df0ed916f8a6 | vt=51/75
+f7a83c1455e0e0b41dbe6e69daa346356fbfc076f3edb12b99b9d0f76ec4068e	MalwareBazaar	2026-11-22	filetype=dll md5=f8aef2a46829420080682c1233dd0e15 sha1=b75cde7ad84f187a2ceaac0f32749a34539c342e | vt=43/74
+c7b88a4348f9221566d2146fc892ea3a1fb0db642344fcbeddc9bb3721ea4a5b	MalwareBazaar	2026-11-22	filetype=macho md5=0f6356505a9e2cd6877182f32ec6ee67 sha1=62b84255d300ab372dff378eaaf80a0b810079b2
+0b8e14f2818069a955f9f5d6678491873c070da5910050c0f3b5fdde8af22657	MalwareBazaar	2026-11-22	family=Mirai | filetype=elf md5=95bb058f7ce7673a194f516a3e552db2 sha1=514384299942444f9e18bdf764a343279c0d1faf
+761502391a5a576872b57a799cdc55b089ced5fd5a850ab433bfae173f7eb915	MalwareBazaar	2026-11-22	family=Mirai | filetype=elf md5=9304e02bb9fdee1bd9c97d6bde358f1a sha1=770d9edfd7904cd651eea6e3a1fe1b52771fab7f
+c15f379dfdecb483eeef9ec025df9e5b0d78f00dd58b6adbedee163faaf6e2d3	MalwareBazaar	2026-11-22	family=Mirai | filetype=elf md5=82fd34bb3f5b7c133a40dd402d31c936 sha1=a562556decbd91d5140c22b3aa181a6b2510c48d
+f5bc707ddd5e3ab0a20d925b9fe153bab05c66e39be8c87f67e028a4bca95610	MalwareBazaar	2026-11-22	family=Mirai | filetype=elf md5=e0ec9e3b4c5856bb2b624dfb37070d29 sha1=4cd2aaffcf8c96a81d590dfcd457a6f98881087f
+98a5e3003d095984d8d0e449c545677f890788be70e533404a6b89514b5f9c92	MalwareBazaar	2026-11-22	family=WARDENStealer | filetype=exe md5=a7f64c74be9e778392c129d322a24ba1 sha1=95247f7024f7ced564c50af4b9dd3797b1680ed6
+65278002c1474ae35c8abafd51ae524d9d4a18cabea22597cd505fbcd780c1a5	MalwareBazaar	2026-11-22	family=njrat | filetype=exe md5=0393931eeb8f945c58c40b438ba310d5 sha1=126b8dd66f91b5ca3fe6b032fcd3668f6e567bad
+0c29aab4656498cd6e847257d64404ca8f2619467502d84b16de5cb396f409ce	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+0ecb89b09a2aeee9285bef8a54aef6410e3a3fedcc4ad4022a5f5d6d6a0c2043	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+0f4fba21d5b02928d2fabc7d3aa6c1d98dcb3ddebde8e76e31e02f0a6784825f	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+10899bccfe2d03922935cdd1eab7caef8c309f00f30df9797e972371f33f38a5	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+11667a43a05871e91891001f7ad34b5044d0ff400608b183a90641e8ef03d1cf	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+12e2b046127093fcb01d402599239a723278e00238986776071493282c6c95da	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+13b4441f5d8851a7b5f64f676ed83e1081b579078a7113606733c68ddf422847	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+163ebd5c74e865827639ba521bb6de49d8d01eade7367e421cb04f5285096709	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+16c6526e5780f26b162a6a9429b54d77e6253e5ede17c42704011ba88f04806a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+16d247a2613bd77ca0b5df938cf6caaceef6a322cd0f88a36fb09e356b65567a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+17dac97c559e95c6700f100c623a4b88bb9169a88aa74548b679d0bf48de9ba1	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+192b3442249bd2f002231d606e1f7c50738fad3d1c24f7233d62a3d729e00b96	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+1a3b49397268c7ce3ce222756d13886ec3f7724975c6eaf6c963a2a7e5483e04	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+1f02ac81f5474658899e349808a69dbc9e7557ae50b24bc92b32a306ef60aa15	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+207bb60a0d128da71ba31c11666e2b67a7a6e9d98ee6f0a6788ad0b7912a9caf	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+21387409e7ca85e74364e64658a309dcb92ff037730938f4317be6458bd05b70	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+2305f90fd17b12eb9c07b9bb2eb0f56dd879168c15fcf503afbdfc65a1eecaa1	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+236a61e60210260b1fe90af8988f61a8439bbee28fb2d82efb56fdbdd7efba1c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+23bea69eefe5f935f24eaf1a5cf8442f999bccc61c70fb18f9f19eae129d766c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+25c927e0154a8d32a38171d04adf6c5a8ba781b00ab8275801ba10ccd7751086	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+265e184ad90a609d4d512113ef6000f58e1bced6307f202b6762a2ef61da9ce1	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+277bc12f823de0bec82a964cb585254a7458a16cd2b1c077af2ed372a60e3af9	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+278302e6f5ea966862e8520f61f967a5e4b1753bcae8ec729dec68c66b1193b3	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+2b5d634186e54996f0e967990da7b11be43dc8c114441afcb88991ec78bf7d9d	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+2bfa7e924704dcd8ba14b26717ce5129e26b58c76390663852233b39dd15400c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+2c0976827d68210f31e03a202f890b603687bd21b1c6a792630aed4993531e89	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+2c535630ffc555afde2fde178f3c65b1b041c388bd9a062430c8053043315de7	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+2d049f77d656b59ba0e80750d1b85bd6bfeb0a2e782282e8b34a2fe16dbadf74	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+2d4cb785d48a888c2542e90c51180c5279f306d15661f6ae72a14333e6f60de6	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+2eced97bf1395c1560fce05971a3400e0718a3bb70aadb5c2323121cdf6d19a2	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+2f76c60aa75fbda1dc233d996e090504e08cb9e2ca3a2d793717bac87de5b2b3	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3036151f19d61fa7562adb0ca164d961f596bea92618314119ecc2da6606bc8f	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+303d043c9af5d002d2d6cb2f1ffc9335dd465b9234b8d0b36841061eb3b3cff7	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+30533736fd48054459e782833a3d19131f5929671411686e794217fcd2d06b35	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+31ede244af84389364846467f5cb39d42eb4b0080373ee20ac4c87384616c35a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+32f5a4a664f0de5fb78fbccce335c5c80cb83f8346d1d5c9feddc392b665903e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+340c8b70d815d48133db2f032ca34ef75c06ae8b0e38d335339d6bcbffca63eb	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+34432e63cd75727b64996206c257bb6733b154bb878271d8248687bc1b1a2e23	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3504f87e5d63af63f38a68f1ad1fc10ad150592e461a508cc6a7462baba3a054	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+35e37c663686f9e20cdfdfd836da1c6297b40bfd442f3924c9b7c77422f9c20e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3601d88ca6b4dd7ce12a4d6ad4ca0c68ed9121bc5b979ed87ed174695e7be42b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+37bd32bd2caf568b91abc87999ca74edc69ff80e0dd5aa0fe307a67777e19bd7	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3896cabd97d77404939850fd4d4108405b6781e01970fcf172bfefbd20a7a107	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+392fb6e6380f80d16faa339e0feef4d738f9bae78825aac4872d75e7af8194db	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3b263ef0b8449b871f3c05560afe3974dc96c0f6e588300d641c7a978bf4ecf5	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3b26fa170ebd9fa9e553c89216bcd3fe3e393f1e63cc004be28647f534aab91a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3b4efa5cdb9d815faf485a49abf11454cc66e5242b4a30f0a6ed9d1228dbb657	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3be3f0993b2f2facf1d8e7ea576ddeac6785c78fba411876ccf3302c0737b617	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3c64b7eb74b87b4a0b1a6f501eb3b2d32665022e955dd025a35c827029d00061	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3c9d769a7aeb326739f706051bd0d4c49658a3a8190ae9c4eb6fd439599d182e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3dfa54af1b7c139f91eef19c83ee9e519069ad732381c93476567f86a0f857c6	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+3f708f06b7483d35525f159e871cc1c7443b8ae2b205fca360bfa0436fe1f50e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+40a2ae026e88ef5770d78573a700143c9c01adf1e4e7e5701c474298fb11d363	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+40c224ba76002280d07f65ebff5cb901147313245e12155b0addefd7a9de66f8	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+428a03e3e3a36a034230107e5bc39791c1bfacf50d2784702a69037342c37165	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+433b6b3184974b042c875cebee8d363fecef970832b59b33f5063651ed2df574	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+45c375eeb5e76edb785550d9ae0ac265be7dee1e83241ca27b0e2e181490e1f6	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+45ed7c215e6a258044968ca23509a9221194a6ca80f22905858cc4f11e70bb2e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+45ff8b8dc359d9d948defa5dc55286f684c4c3360730295e2e5b1994181d1570	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+49c8fee089738afef6473f4a1eba3af654b994f4fc3a65e49b49b39656d2120a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+4a25ba8d66eeae6c5cbd9a0729288b704f5a07b1aa44816754c28654e79d9b2a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+4a3272aec9b51533b7e79d7096ddb2198065c5258dd1e15e51603697043e0d11	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+4aa693d6e973d03175c7a4403ab13d94215f5c778dcf066101b12d35506514dc	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+4b7c35770f05d45b42fe9c212a807dc156efa44d2f7b12242ca8bf1103f6f675	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+4c5a229fb67eab9da3eec9cc0ca412d88a0c084b9665a5326166c2300fc9e44f	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+4cbd5d8f38fae48d231f59a3cb3efc54e50314f655d549d70b898428e089ef17	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+4dcf241b28d04361ec7eaad8e78204a844ae73c78896971ba1002907f2a7fae8	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+4fbbb632e08fde2aed8401ffcae9e45627d87084335ac88eb4c25088f0708b79	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+5004325791883b8dd6daabe199238ce909fa7fbdd81c3cede32e68912c24a8d7	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+500e217fc829d22b9bfbc29306e97e632720bafc96f6fa8b767f5cc4391c5e58	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+50c2d9ee37a518b7acb99c5bebcde12b87228d30d82daf95396d175a39cef71c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+50ec939f488a2d6c2ceff802c88ebd286e8dc365cc55cf9179067d7e87148951	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+510c410c073aaf00c9930b8785a53375ab2456040c60aa4ffea267aa482b0a7b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+514b3fa4a66295ba0f69d5efbf0c99a824aaeb32aac392394a4fb98bea26cb95	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+515f6f523cfee1e368fe579beeeaff54c457cb4c5fe8b7fbc449a6e77ad5ebc8	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+52580b839330562ee40dfee8525ac4d1aa83a50df256709bfcbb8ad2ed9a1fd9	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+533d9a9dee32029c75115ff14704f8d7ba1f3ccbc27c28a68e6cc6268fea405e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+538139367a5a38916f165ab080043b831d28fc4c6ce9d9f8b36b9aa1c99bd7ab	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+54ff34ff6782b964e71f18fb98a581a222f76834965c5c552e79c726ad613054	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+553ed67d471555eed31223593302e0cc7951b1c07c96984fc47e78ea52764c6e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+55afe5ad9092239bc9a64b85a16f4ad33dd9225fb14b9576f6897e904adb4742	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+58359849d455569a65378c7143cf0722d91cc76bbb82ad4225b6d3677400ebf4	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+5856e9cb3b6ed9bc8a274bb3e349cb3038f4180096bf16aaaeee6ded297faed6	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+597aaaf263c6482944ce6aeb39cf20c98e579b22a973483816d4104d8772e4f1	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+597ca35933a2db1f014ea1eb94a8c6c5f6e92b7f171bc2787445fea5c90b4034	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+5aaf5aae7babd494066bbe38626922db974571514a31f83e9ddf2a8610a76348	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+5b4ec46453e1c19fb31d899b6b6707b58a6a02ae323c87e8d3b8d51d10a32f5e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+5c9e6d038e2f2cbb04c9fbfb76a20f230b5e5d9f0679260eed7d2a5203ba99f9	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+5f487a4f579a4f1d8ba23fb09879dda3143007ced38ebc8cd609626a9a5ca632	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+5f5cd66c932f35ebd97a33ad49d4f487d4490cedc1862ad37aff2514806abf35	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+5f72f41ca6a6d9597ab1e0e586e14c3fa9c50617bb6be17068db28b6f0ac5dd8	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6012cea76f91f2f8104046c2bfaaec73536dd3dcef55418c0afa98e9276a9ab8	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+60153d79d1e819d26f4ebd4bf2abd77cca97a90a26f3750ed1d5941bb2b59869	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6060cf6277cc03e081cddfde7f8c58edc40596050d4d55f99e1c3a0cf413409b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+61975ab66e57cdbc504b35bafaaf0657b561e64da08275e46be45e66c5e78f99	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+65d2a8f0ff42edf1f077f7fe2c47450a6ab97db4b21802b4063f66844d45414e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6652ff8838382270cb07c1441815fe7f651896e42d7ae2d52400984da7ef8f3a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+67638bd64812cb78f4173f05935a63ea80f8b3c7833cec37ace407b66cdaafa8	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6aadc2dabe1e3b97c7a5b560bdc26b1ad25323e89a636cf78b0614624fb5e6a2	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6add46f5fff31aa1a3fe19c40e59981b29c5774c6f312cbd610bb07f3360d29d	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6c5540020b3530a2463408d1eff75e6989cb312e2d04176a9a1e01cf44351fa6	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6d7367c2c29fbd59fe2e55f2d299f7c145775604260a2f5ddbd682b34cdbef78	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6e205588bb6ce8ec03c75905820a6e9c2f55b7d75be6f7ffdea56e4a7eda7dbf	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6f1cb10fa32ff451ac8383ec1e8caccf5a9d2db01b561aa7677c0206cd1c1569	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+6f6f8e10e75258f5d7abc3f976b92c28264ca9d03be0c86a6bedebfc020974cd	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+71ab6c33be63abb177bbb4a95ad1a34175c043a890ee5629e3c29b68a399c310	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+729682d4e9c559e33e8716ae845ebd8323da4636affeaf994259c63ab24807fa	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+7474ae4d9491df3152c75a14265d5311906feff4aaaa6fd4408c7e858c2e6b87	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+7481e6dc93002b2151751557cdf4a9314410fd6874ad1f039ff92ddeea04e96a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+75b1e1a5c0f3f1a1230077a735f3df3278a283b7223c8d98be018368b8ff792a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+76e447ad7f9fb49168c95451c64e38add75eb980bce515134639fa4fe7dd0b8b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+778025ed905c788d16f87ae9a6ded8880a7bfdbb950963012f9d6b7fc8631ce8	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+782c945effcea3779d19e1fb8e52bd637d04830cb6ba742883de255e7dbda977	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+78e25e310b2e2263df80e1d0ef434811be52ab51b36bfac440df017d75144105	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+7a49ffa93d305f85369c72165adabd25c0f82ac78edd7d0787b8bc55b4a2ae7d	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+7a4fbd22085ffbc982719af76e89b0ab579b353f51a4c3f8a00d4ef169ca3e21	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+7c36e0b9268defbea30674a6f8590cb53b92699bafbe7d231fa374bf0b41c35b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+7dfab4baca5926ec6561928caf994f45e62fa3f23596a24b4af0a8ef4ebddc4a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+7fd1fddc1e0fdb6d5aace5c90f44631831ac0d73ecaf7e9b13c0d2c4c96e0f8f	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+815e29156d4ad5c6249403773e4b7b2933fcab8f162e1a1c8e9e9708855d9a4f	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+81cce6c045cd75224f458cf394d0f4cc9cb6c05404162bf29714308804427ef4	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+8360f37249851df11c598ba99b04caf6f0b4623778056592f73c741a3e942aeb	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+847da0146fa3439ceb50c9dbdb1dcd06c42fb4e9ec152da6a123fb0e92bdf030	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+84edec85d97cf41f2445a46ea1c531288df06bb6eeb211c22b0b469c3f4ef557	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+850ee74f8b9279452607941e0982be8dbf9b09d20f481507dba27b5317cb3f68	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+85393ac678d3361fa57af38930b99364cf09449709b4d55e650f277889fb3eae	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+855b6818adb18d576e0a92a6f2dcca439d3902a0175c08e6b8df5e26abd3710e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+865270b4f53c3177fed75a0126668d145a0ac540ec842158453ed86116c4889e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+882b0855a5b578a31bd03b6a47351d29ad9eb819d4c2c63408c3931a83254c7a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+889e5fe6fbe799fe1455232df86a9fe8eb8b949de385e5169ad0afd19b803aee	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+88d7c698084b725d00e8d514ca6f680617e83031a9e096318fb840bc2140a050	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+8a3fdfed321d97a950afd445fd8fba095942fe95e1622be6cd77109b6b6ce8ce	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+8be66b38f08714226f27c482e3c45b8d2b226e195766c3da6fca9b2a4bfc078c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+8bf00e457a03bdbef068e8ab4969911ececf328784d978df966f3d4b81d83ae8	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+8c302b4c1abbb45abb67ea7c0eab040060d4d4da5f671273e6c7342e28fe536e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+8cba51d0546d62005e110a4c33c9c8fc4203d5812ac5ccd7c78a3b18b0240281	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+8cbca7c6944ab0b3cbea2c06a3394f216dfb5db41591fedfafad4ad54c098907	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+8d221cad9d15e3852b1366d8675b3cc3a68741b399d7eeda8ab6de7592e144af	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+8d85472d4aa05cddb26a3d1b8c13b829f3e3813a152e0a2c6165ef6ced54c957	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+8e50201ad8bd4813be995ec2f8d504e1df57d866b3a8759214ea4c1f9d4a157a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+903fdebedf8976c8f6f937ab02e86dd73e5386120b6ec257bc9b2ff57a653cee	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+92bfbbd8e6eafdeae7e22704b2a7212a4fd9f8e8f6a675800750d1dd30958f20	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+92f2c18f2271d404c306f6cf5a9a9b603435e48aa48df13115af6a45a2299f91	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+931938d2edf11b236119bf724250e5811b14bbb52d5b40dd5a0d3bcd7b553775	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+937f16e523594646a78a42031a84620ffb6d1abee8884c21bfc8baf4bd9bf31b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+938050157236523db559513d26223fd8370a4ab2e92590e2167c274fe06c5d1b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+93c2d5b5d1bd9a9e88a988c1b78f645cee4afbebfd67024004ed035d52f4ea7c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+95c87d65e7f0e86936fd0f85bd3a19e35ae11a4f57c29e18bc1e798ab3f328ee	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+95d3059ad7a0d69f9405ffcc4ef3ac5c060f8d6e088100dc740bd28e1c3947ad	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+9713e6ae5d7599379259cc79006ae9165e88a02c5cdca2b3eff89943ea92acb3	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+97609b45d5f2de9fc5111aa64ba27bdb0632957e64ceb3086403cc975515e009	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+97e23a372c9c789f2a16795b82155dafe7a2db1fdea2877c9e19fd4a7d1c0c13	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+97fc2a47422f26f5cf7bbcb82de3ada3ae38e1250a2a6f93b0a88ea12d81faa9	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+989c2c50666a7e0b8d8bf0c74020d29942124da2de28255109f822750a3a5de0	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+98ec96eaf6bc35cdd62d449de03cc14d08e77b3834229052ba745e706d08c7cb	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+998c2ce1c073fb82bfc76ce3dfce765869a9c67dd39a8fed9331f72ebe022365	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+99f25e86abe4a68ab75ded32762954b96eb1c3c5d96ec4310b139b9ba975ef78	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+9b0ee65f05e4406648e0e6ff0d9edbb2c1b5c32da8167fbd697340b4a3fdd14f	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+9bcf4609c6f162d7f05a8152cf960cf21a9e0b418ce9fce8491dff56b1e4dfce	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+9c1b13babea4d84950d3436736d753c7c8b2a8294026712594658e91b3ea91ce	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+9c2f2c0496d70ebed73f04091da8f82a43aaae4c2706c164da142c59a04cd6b5	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+9dea024a4cfa28ebfc48c8416fccf5705f19ab49d4d24ae9742a573dd5d54926	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+9e4a46d7b8eb94763419a6cfb077443a7f5310c52b79c1ebd5a45f643c325f54	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+9f62e480b6aaa5c9840f975bb4d69804c18e8c99ab7ad5946e783a5cdb4a166b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+9faafb9f1a37a562c0f3d6e7f27d89558632462a011af6e8ac0e41f91e2a65ec	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a03209845d5b7cab32abbaff927d04d02ae113fa80cf19dc9ef8a867b1636020	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a08623407ae4780c1f3b0810dc79881daefefa038d24f8c650ceafc0c33a9eee	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a0ab953a8c2eec84af932a54e47cd9264877f746378830770cff08791082336e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a1451c391f67b4d489b8fb4a00db561e39d9675a2bbf9d18fad93f5b03501fbb	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a3704b2426ee33f1cd546f814b4730f592a90a84133d863849aad0685e8ae920	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a3866f0d3cf0d369e50f097db35a03e428da055f5ed03b956fea277d4fa1838e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a45a19ffeca3458db92a5b6dcd8aaf59ad23a14837532de128e397a619579852	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a5c6bc0931f9dd6e7a832c97f76adf10322266e2b45b9f43e0b9513faaa79c68	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a626b8dd94f643be90884535721d674c7b3d2a45c9270dc3daee1eb04f304028	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a6283338c800e30059cb43a6a5dcfc0ecdbcc52c3597ce86f2a116a0c0bd26d0	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a702f1935de515b8b01ffb5558e5e774d92cd28653c6afb71370ca10cacdbf62	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a70f192a6512d4673f42aca3df19ad91af285838d778575af38950bb292ccd2e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a912993eb858db7d367a0cf44a488d06f75f99e30ae2808156260276e6115574	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+a9a068e583e4c72f74f86ce124d0e6b7a291dddc33814d285e115f584eb361fc	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+aa9c1ce4aaa02f684f3497db566bc9111528f25499d77747692cf2da03648e62	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+ac10d49654062b18c8e96e9d0a27fe073adeb388aeb3ba07ab038baf0034af39	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+ac52999bcca032660f8938e83857ba72f4089c4105ec96560381b39d45146831	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+acba285daeae4ecb05deff8d7b14351c48a8ea2cd375d46053449f03575bf948	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+adbc63eeec9c02177851c29e4de474bf5765f6c367dd2a36418778ebca7ac486	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+ae25aa87fe54e8b3025e5885cfae16ad0aef7dc8e0eced1542ba70b3f7180343	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+ae938385bece4d9f106ad94e9b5be5653881586cde507ef32d00f8f7e258486c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+afe59d90e3467871c0bbabbf28fb8669a45922d83781662d1317a4a6f6021344	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+afec22878f7fc7ab96e1c4b1976383fbdfa00823434f4a459287e7a4f67a15d1	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+b03c94d7bb24ebadf3f20eb4c93284df77a0ab9a31ce24677c98c28ceca238fd	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+b19b55867150ecb9a478424700e403856345dda44c5e1837ff9bfff8d0e80bed	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+b1c67eac6e0277c6e7b869c786111e184a62c4fc1b8386d85cf526bc51bbce8c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+b2038ab2f49b88905a86f48b1d3d05410597e1af99c165be3fc68b84de14ef46	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+b36da2538653d36eb4e15d984b7c3083a60fc2af333b9ce5caee108af90cf539	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+b4cfe995e00e7c3f1f522550b7d388cd3e07b4979bf43f56feb5677dac30bea1	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+b737d546e33c0f0bc2d4409358c67fea35104aea47a915e199a5bf792573c555	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+b73f305230affcf4b09704ee72871d2ca7d2a0a574c061f4e77945a0051cb96d	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+b7ad124e1e55a11a184b0e4de21f8ada3e6999b576fec7893fdf32a4b0e29c64	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+b8d1994ef15ca9ec1b8946356e9d6d5fe5cbfadb3af433b23e8741639c002dcf	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+bac0fd7f51a4ecf930553b463ad3b9fe400aa19c4074564e6c4d4502239b20d3	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+bc01568885ff3c08414865922bc9cb0eb6f4d34eab6e7a95e4aa1f752f5c3152	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+bcda26f67e4577a7ae180bae67100eff0f89102d641eb874aa347f28e19bca07	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+bead0690e96aafcf5c242d0ca0d30885584f42bcf2034a354b92f7e145ac23eb	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+c0a1713198d3c3aa5535e8a930acc48ec423444ea019c939f2183f9b957b5b24	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+c0fcd05db135001c6c14d86b6fc9666007ab98d19e8deda2302df0353cecee1c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+c1f95e580e28441f00985e15c558563bf2161386419b77472302bc7dcdf17533	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+c206fa613257110b0522b60b402ca0b35da2cb126113e47b67543ba3ff93c53c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+c288c64c579837eb8a7d2c91b238434b7239a07480f2c50842178289fc64d6ba	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+c44b7dbdc0e6763d0ef85ba7b76fb0f9f82f87a1279e0eaf18aab0711e37ea45	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+c71d14d9e46cdb9897b8891798c788c42b8b1fb37cd930843f73f2fea16a8f4a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+c85e46ba6c6f8c949f446f89ccab5a000de0fdb1b1a2b67ace12b31bd00e3b7c	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+c9e38c1c8a7a513ae235e84d0be5a22e542d6556c4f45db3b78a2863c67dc086	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+ca8080b429c34e4f31ce869c1eb46f758109e8de4ac51a9826759f39b583830e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+ca892ad72f9a773af1f3400db20fa09aeb3e6b9339bfb070dd9fc00c6ba3c009	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+cb56969655617d54343ad57e3a6029906c3427e73adc61811f1d99d34911351b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+cbe1cd1c3bbf77cc392e0bf88a04c894a7122c08ac5d875212d70ea8fc4aab39	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+cc26514389624bcf6f5236bbf046324bd1d6af1fede772efaf45c59963c5475e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+ccf0a0252b3df9ded459207a717b76e21972f5d89f0eb663d65736d2ff6cfc9b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+cf17968d1248193dcf5a236679cb5dc493a852a4055ed8373bd1e2ed164e3113	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+cfc81b850c8e5b41c77690d2a7a745489d04d5df6fe89282da38c6b6e25c9b87	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d00a3c90ec9e2528aa9f90a9f57f40680a316fc3e55a18550234280782b9ed25	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d00cc4783faa95c50311be60b5e730c20de6b6b313a5ecada13ca948d1ff825a	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d2be1b3b86f93a62fb4a5a8daf3c13471a1dcc70b3e998b7f3e1b034931d83a0	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d3401a2aecb32dd694686f912a06b7ee1c459626a6ade743eb01cb96e0badd0b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d4dc0b77984b181008b2c7b7936ace4a00273e56743f3f91f1d0b3a818b15eda	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d558f0c20d4c27936af6168fd00fe9464955595ad02be93558bb64d82f81e92b	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d5b8b760ec4ed0cc640316ba853fa487d7a1968b63978e1f18b7f6bc46d77a3e	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d5ed8464f074e6673cbb5300533a9750bdcf5a92dcff27fc41aa7ccb4c863d24	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d5fcf89e289b87e201fe007f9c4efcc0261bc3c5842e012a2a6068f7d5467b76	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d6ec8d835b0028d1bdc9d092cab8eef4a69b3a1e11e930a5d39fcdddb4ceaffe	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
+d9e9990667e7510b910a4979af92cd28573f39a2a5f9e84d3808650aa4350368	OTX	2026-10-22	family=SiriusQT | pulse='Inside SiriusQT: A Seriously Skilled RAT' pulse_id=6ada1e5699d69ce1b1fa9660
