@@ -1,0 +1,39 @@
+title: DNS Query to Zult Domains
+id: 56d80edd-f239-48cb-b15a-bc0c30b8816f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Zult.
+date: 2026-11-25
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - certificate manipulation
+    - check point
+    - chisel
+    - credential theft
+    - cve-2020-1472
+    - cve-2021-21972
+    - cve-2021-26855
+    - cve-2021-34473
+    - cve-2023-34048
+    - cve-2023-4966
+    - cve-2024-21893
+    - cve-2025-5777
+    - cve-2026-16232
+    - cve-2026-61500
+    - cve-2026-98432
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'newpayapp.com'
+        - 'data-zt.newpayapp.com'
+        - 'api-zt.newpayapp.com'
+        - '2ev5.newpayapp.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
