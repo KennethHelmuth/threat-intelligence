@@ -1,0 +1,31 @@
+title: DNS Query to Vinci Rat Domains
+id: 08a96c44-f9eb-4389-8904-ba1f21f1247d
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Vinci Rat.
+date: 2026-11-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - electron backdoor
+    - fake download pages
+    - malware.vinci_rat
+    - microsoft store abuse
+    - obfuscated javascript
+    - powershell rat
+    - search-engine redirection
+    - setup assistant
+    - vinci rat
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'snipp.codes-team.com'
+        - 'teams.codes-team.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,30 @@
+title: DNS Query to Github-C2 Domains
+id: a4c0e119-7f70-42d6-bf56-ca6d176ff9e0
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Github-C2.
+date: 2026-11-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - credential-theft
+    - developer-targeting
+    - dll-side-loading
+    - fake-job-assessment
+    - github-c2
+    - malware.github_c2
+    - msbuild-abuse
+    - nuget-packages
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'cloudservicebase.ddns.net'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -1,0 +1,41 @@
+title: DNS Query to Account Takeover Domains
+id: 0a94178a-6a02-4ac7-91b8-eee1ebb9737f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Account Takeover.
+date: 2026-11-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - account takeover
+    - credential harvesting
+    - data leak site
+    - inception
+    - malware.account_takeover
+    - mfa bypass
+    - phishing kit
+    - shinyhunters
+    - social engineering
+    - vishing
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'legal-pepsico.com'
+        - 'legal-paychex.com'
+        - 'legal-duolingo.com'
+        - 'activisionblizzard-legal.com'
+        - 'legal-westernunion.com'
+        - 'legal-dropbox.com'
+        - 'legal-indeed.com'
+        - 'legal-creditkarma.com'
+        - 'legal-amd.com'
+        - 'legal-grubhub.com'
+        - 'legal-twitch.tv'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

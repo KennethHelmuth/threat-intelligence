@@ -30469,3 +30469,235 @@ acd8bcad4e9503790b4fff4f34d860e4e88d0be31b3cf552ca8876a2b135bcbb	OTX	2026-11-24	
 d68de1e066be502f1725beb21b368f9f7657bd2239d13cd5d09a512102a05589	OTX	2026-11-24	family=Braodo Stealer | pulse='Python, Re-Skinned, Keeping the Steal: Braodo's Latest Python Loader and Obfuscation' pulse_id=6b05322836d8c5aba9340d1d
 ebb698f7374cec60fc0b28e23e56b204e53b9c81ed2de17b62bc906d2066493d	OTX	2026-11-24	family=Braodo Stealer | pulse='Python, Re-Skinned, Keeping the Steal: Braodo's Latest Python Loader and Obfuscation' pulse_id=6b05322836d8c5aba9340d1d
 fb49868696280d5aa08eb47629cf6a6696367c0d1fc2aec599389ecb5b9c13b2	OTX	2026-11-24	family=Braodo Stealer | pulse='Python, Re-Skinned, Keeping the Steal: Braodo's Latest Python Loader and Obfuscation' pulse_id=6b05322836d8c5aba9340d1d
+0ace26141b9fad0a395a43c0b208e5e943d6de25bdd0bbd1d37bf991b4fa1053	MalwareBazaar	2026-11-26	filetype=zip md5=9fe05084e3d6b0221cd09cfa35220b20 sha1=3d8c6c8ed0eb5c50004ff013561fcec4bae78a34
+994bcf81a9faaf1ec96be49c99d68cde37ed9981aaf01aa76271c1e02851991e	MalwareBazaar	2026-11-26	filetype=hta md5=82d05fbc888bcc80c1eaba725a395e39 sha1=122c6a08944e95bbb7f8c3ad169dfd5338732527 | vt=23/74
+70dc1383b66ae641c1c5d3c4435f92b86d15000c8a1e603f0989e42124bd5301	MalwareBazaar	2026-11-26	filetype=elf md5=d247954c09b1cb058718e28b0da60b8f sha1=215d1125dff6da42b6c20dd9b1961afef2db373f | vt=3/74
+a1eb7ac383f39dd26c0e9a4b0536df58384dda3710ea6643fb19620b8e046cbd	MalwareBazaar	2026-11-26	filetype=exe md5=ecc5e31ab1755480dfe5958429db0a8d sha1=0d630fe542855387169eacefb49b2836e76666ec | vt=31/74
+df712eff0fb0bc9e37926002e1aad70edb1e03a7eb64403a82415cd461674f30	MalwareBazaar	2026-11-26	filetype=exe md5=2df795bb77f2dae73cbac79a816d2ecd sha1=044b7a202e65d09bca2224026c2c6da880996494 | vt=31/74
+128ac40378b231c03ec490ee2628cc0b02e1a113314beff6f0b1d71f1723a7b1	MalwareBazaar	2026-11-26	filetype=jar md5=66646ba25b3fb8f4c7362d688c8aef71 sha1=b09de513c1655b90bb735ade1c847e37884a8af1 | vt=1/74
+0d58852a37057c6dcda37c1f956d1463bd78b8bb8f3475bdf8dde1acc7e0bdf9	MalwareBazaar	2026-11-26	filetype=vbe md5=a18a0f6d383621f60abebbc94b94689a sha1=aa2a6c665fcf42c58b029ac33b60b210385299a1 | vt=3/74
+1e46feda5f8e095f291ee5f696bbc982db4c5005170423c22a13f3031d8b28ab	MalwareBazaar	2026-11-26	filetype=vbe md5=31a13b0c34fc288b9ea2fd4bd84acc63 sha1=f5fab007cb5e28f630c1222e05a60aaa5bfd3fa9 | vt=7/74
+b044838e9f77994bae0b9b4a6cd0e07e35c3059988d33a23931e967af52faf82	MalwareBazaar	2026-11-26	filetype=js md5=57d47fcd18ba0611ddc4b18284f8c34d sha1=0852c7c48b566f0344e2ebdf68db19377ce8280b | vt=6/74
+7e7ca98773b9f2ba0b0d5d0a448600c4fb9b981f1e7710f8194b41ee77064e56	MalwareBazaar	2026-11-26	filetype=js md5=eb93f66a5d31144b3d985ada9454022c sha1=bd42c72ca002efd050987d6a5247d64f74c7ed88 | vt=6/74
+3f5428de8294f7ee820aa77d092164d02c54cbb1fdd110eb9999ef68de540e31	MalwareBazaar	2026-11-26	filetype=js md5=d6f6d3c4928d956316934bfddaae81b9 sha1=a275d6f0d6ffbbd7f5430e23e3bee119a9889bef | vt=3/74
+b0a3a6f22d097483fae5d601ee018a235f5922d62219e01283b2a614165d2eba	MalwareBazaar	2026-11-26	filetype=js md5=ca32f488918b2b16cf91c2748133044a sha1=425402d21935055b72ff98d4fd557df956d014bb | vt=6/74
+c9148ab32c4ae2fd683384f7d59226bc56c1620f8564cd913a1d47bb3bf1510e	MalwareBazaar	2026-11-26	filetype=js md5=bf5312a2629b2cca701f28bd364e90e6 sha1=7a650b593270d147314698afb49021fbae033624 | vt=4/74
+2dd56382a3883bd46ec6bbc06e43ac35ae36274e182980d6a5f7cfd8ce4e1abf	MalwareBazaar	2026-11-26	filetype=js md5=7ba9db45eee486ef21b64e6b59e3221f sha1=5192d5376abe65af1fdf1907870807214c3a0d69 | vt=6/74
+dab45baa839f4136fc1beedea78f7a273b363b166b4cd3cbc6c599ed751f1df5	MalwareBazaar	2026-11-26	filetype=js md5=0ed0301dc3731d3a1ebbe2e856b9062e sha1=3f9585b3e5873850b17bc1212cae0e9d5f25763c | vt=6/74
+27231f6d7f7d07abbca294874cf8a09ce35a6d987259a2ddbf1c41d3206f2d78	MalwareBazaar	2026-11-26	filetype=js md5=36385e178011f8c377f9aa7672d3a41f sha1=2bdb12434aa58ddd84a258dd748d3ec26ae737bd | vt=13/74
+eb6187b82408366bd31b890db5e81519cf5dd504105b08eb83408b4a0b6ed09e	MalwareBazaar	2026-11-26	filetype=js md5=717ece5447368480bc9d6a50d8280abd sha1=60b5167e5623cf23440042ec9595a59cdbb0ff29 | vt=6/74
+ebc2f783451846183d6c435a952fd8223b1f81154d58e6d749c0ca175cd1c2f9	MalwareBazaar	2026-11-26	filetype=js md5=11df61496783d66822b19cc7e1416707 sha1=3d568db8a722074c7ca8fe6140f7f74062420b01 | vt=6/74
+4eced92a45627ced182aeff6ad2f5f520eeccb579c35aeb8e8388260b05f8823	MalwareBazaar	2026-11-26	filetype=js md5=3baeb8b3a4953195709096e22e95f04f sha1=87b3a8d1c18b732af25619819375f6470f55afea | vt=7/74
+abcab64d869df02accdf6b1269cb0d204096ef57cc07580312bf928e58246f55	MalwareBazaar	2026-11-26	filetype=js md5=63ac5b15165e386f1bbe2554b3868d5e sha1=5031bfc17c427f67f70f3e10686eb9faa688d938 | vt=15/74
+1c505207dc503f372c93113ac8e7d23af9b8808eca8b72f6c293f359e524eb09	MalwareBazaar	2026-11-26	filetype=js md5=fa319337b9242bed6a292cdc1ccb2a30 sha1=9ab6f1445632dc90027c1201be1e48f3f2669e30 | vt=7/74
+dc7f6694ce30cf3d8d79ba01f3c76f402e8c6554b3762d9501f9e548ac64f5b1	MalwareBazaar	2026-11-26	filetype=js md5=4602b6fb006fb94db5b5497e321b7f1d sha1=d454d383fad8e150182c13a9dc00a7d4df22d022 | vt=7/74
+66692977bf502809e698ff16b278e14e1fda9289b0b89c6f6266514377e249e7	MalwareBazaar	2026-11-26	filetype=js md5=69f2aa4d739a0c8b14035ef0d3dfc662 sha1=b1619eafda45bac2748afb3667ec61b054494a35 | vt=18/74
+250950cb2698648849e23a5e51698dd4241fda73c87473ddd300ae5edbab5c41	MalwareBazaar	2026-11-26	filetype=js md5=1a9638d6498e0138033e8a19e518c543 sha1=45115cf7189ab58e9132d847de676023c4fbba05 | vt=16/74
+4f13673279d8013297fc618c739774895837998c8678c7792cb16664c37cd374	MalwareBazaar	2026-11-26	filetype=js md5=faa9689b32c259d4905a1c1dc6ee51e8 sha1=4dc61e82f1826f4763b0ecfc1b6a825abd05470c | vt=6/74
+ad50059d9b34101ee98fcc9dd09a0e81ecf473f932c941562dd829304612c99b	MalwareBazaar	2026-11-26	filetype=js md5=4fd014f074013c725617d84999d6adab sha1=45500b54d3ed2159cf1b541913cdad4ce0e0ce12 | vt=6/74
+646cada448f89b14e5a403b8bbafca97ce26b9e49fd23ea5d9b77bbc3f041e3e	MalwareBazaar	2026-11-26	filetype=js md5=b22f093b1f9d37ed156ef8f753901a70 sha1=0b8c8b6389cf611bb7ece147120b8346ab8ee41b | vt=7/74
+cd1d62ce3c34143bc656201f398c67c98a754f9bf6ef5898bd7be83f2e47d67b	MalwareBazaar	2026-11-26	filetype=js md5=bfbaf1019d40aeedb0cfbc4845508662 sha1=87d9e90cab4925b8e646c6e7ec5458b09cd8e921 | vt=21/74
+6eb055b39b6a137485334e5435e8f3cefd4a9a1b342efaf396b2d6641baa824b	MalwareBazaar	2026-11-26	filetype=js md5=de902bb4026d28889a1e229b4ca87ec6 sha1=04b8c872b298ab75c3585223866a6f251f7fe158 | vt=16/74
+274ad8e7e88f48ae03f222161bc052910ee80925d0a46dd79f588e0f9dc4af72	MalwareBazaar	2026-11-26	filetype=js md5=863e78a3665cfc16a93220a448db575e sha1=c2a160b5fb03dee01adbbc322d3aea7dbb929ef3 | vt=15/74
+99a1193448e31b2ba7357c5b0cdc307c9c3a574ecafb393042981c6be2f521be	MalwareBazaar	2026-11-26	filetype=js md5=bfbb7604b7c866fd2a4e6912be39423c sha1=bdeaad2010e1a12e5434528668c5e5b5fe305bde | vt=21/74
+2ac2e964c4d28cb46f1c219fe8c2a43895cf28c653e5fb236fad0c88911f7fd8	MalwareBazaar	2026-11-26	filetype=sh md5=c0595c5fb1633d8227b40a575f050170 sha1=77b9e9637b02afdb36a91e08373c6991e2659947 | vt=1/74
+d4aa0b3d25fa124d80b195ebda0d004c0ba468b0c4ab15fa8613103c3fb02272	MalwareBazaar	2026-11-26	filetype=docx md5=ee24f8630d71a62db7a180914aec0126 sha1=4b5f9c98787adb438b8c40ccfc98ef0c6b5d3895 | vt=27/74
+49f2c2a674ac0eefda886d4d7ff832613f90802a350f8e4576d9af45d6411606	MalwareBazaar	2026-11-26	filetype=exe md5=e512cd279dd50d0e8eb2f8f36f2c3b00 sha1=78fb005b890066cf493340fdc4ae47a56f868e53 | vt=6/74
+06f272750f81540d8cb1808be0b79c4e963bb67ff035cb96ee4d1568fe70ace6	MalwareBazaar	2026-11-26	filetype=exe md5=567a5b8402fccde1755ee4b5cc5b20a9 sha1=4b00f100708b73133a16baea73332f918eb9df72 | vt=17/74
+aa23c2caeb41f7612e871b0179b9191caa2e5fde2c963216dc6abdd02d826d42	MalwareBazaar	2026-11-26	filetype=sh md5=5fd92dba3bce70aa9b4a933c2963d4c1 sha1=e41171ee0ac0a9cbe38a1da6386363494812df3e | vt=1/74
+f9b2704547ee9f79dc7f604b7d5b067d355105d6ab167f9a0aae4b86bf510dcc	MalwareBazaar	2026-11-26	family=Mirai | filetype=elf md5=231ac9ea1ecbd084d9071cc5a0a1ebb1 sha1=622553d846a4e9b666ec741b052fe722355c65cd
+3fe5c3f6e949ca1d08a421a9bf08ed3b5cadcaeeeae4cd427a40eb938a1931b3	MalwareBazaar	2026-11-26	family=RemcosRAT | filetype=hta md5=fcd89dad650a982a5f67eff3f07893a3 sha1=b7a86889031effd3c103ff469048727174f50079
+d3160d819505de05b40bf4afeec50743bd6941433f0458e3cb74273fe3d700cc	MalwareBazaar	2026-11-26	family=RemcosRAT | filetype=exe md5=f5192509d4607d506fa1a284123e1081 sha1=e628cb79b2b9cdb453b48bff0a0a26435f0a1468
+35d34ec00a6610b3a90a4c2b6df568c119fe320899f698bff65632e023e34f69	MalwareBazaar	2026-11-26	family=WARDENStealer | filetype=exe md5=ba4c3bd0caa58fbd5a14814d12b4b9d4 sha1=beffc05676b9f87697958e56e7514ea3750d43ac
+6d09632e3a4be09caabadb562ed7eac2a2b99eba1a3745d2ded9e05b251d85fd	MalwareBazaar	2026-11-26	family=njrat | filetype=exe md5=0baf09147567304bbba75d169a6c92cb sha1=f2bec02090ea22ea686ebdb5ad4f361b32372f1b
+95c9eca51d1099d7f4eab495222961b2bad03ea64c08175822b72d4141a3cae6	MalwareBazaar	2026-11-26	family=njrat | filetype=exe md5=1f3f689669e10696eaca535dec865bcc sha1=0d00d95b9707e3f4467a623a7d6f0bc6f9263f98
+473fac24fd67ef5c596d9b46b6db74b2ea2eb7931aed0a19a960d6a294730fe8	MalwareBazaar	2026-11-26	family=njrat | filetype=exe md5=0a1542f4c9f53aa1937648d22e46be78 sha1=6e735a9c982d14e3879f6350bcb0eb01bb6f7a27
+59c315105c6dd7b1cca56a767974b53297cd4a8b043752e45cb19408401656bf	MalwareBazaar	2026-11-26	family=WARDENStealer | filetype=exe md5=23b7c8cc26d1369cd06bce2973ab0edb sha1=9d0834f2568beb933cafd06b1fb6eccf2330d9fc
+95ecf420c6c9650f7080eca8860b577990a8284ff2f4613a6b44056e15127fad	MalwareBazaar	2026-11-26	family=WARDENStealer | filetype=exe md5=c007ac9f3bec3ea32ba23e7582151ded sha1=ec24602e7eb13c0eff1890b1307cd27091d384a9
+eb1c3d52bd01ed52a6d87cdf908fcae036723f7b413360ad09df130368520210	MalwareBazaar	2026-11-26	family=SnappyClient | filetype=exe md5=c4538fabe78f03912212a302b2e23781 sha1=b24db8e6f39d0349c434b7405a617854514bc456
+47ae865c1ad1abd1c35bd1b8a02550c7a5410273439eebcace33ab6e7f316fcb	MalwareBazaar	2026-11-26	family=AsyncRAT | filetype=js md5=cffcb92379749a993036415acc2add25 sha1=4c56dc75e4bb431bfaa74fd26822d8537abbb671
+8228dbfd2117952852474de987b087cefa8dc54de37f0e2414cf7df0a36591fa	MalwareBazaar	2026-11-26	family=XWorm | filetype=js md5=134053953cc100695d429b396c6a63e7 sha1=4315ddb5c98e4dfd63434528c68f84493e4210eb
+15e545dd76205cc6f629cdf9e12e9d11fd082bc6877eeb3e5e06b976d19b53f1	MalwareBazaar	2026-11-26	family=AgentTesla | filetype=js md5=72be9fba54ed515a3be3e2b0b0a38e3f sha1=108d11fdfba40b589b56999775fd1e13f759f6ca
+eb362791a0f98c39acf8eb0f920d94527cbee1c9c48a3b497e02cfbadecf04aa	MalwareBazaar	2026-11-26	family=AgentTesla | filetype=js md5=2fdf5bf8c1bdcaba58511770ac6c78a7 sha1=6d283cb6a98f1d2cd7e86ace9c7dff7f1ff4eef6
+7965c7bf90e8c255f9794ac4de3f2912e82cea4ff498e1cf141a22b96bf72768	MalwareBazaar	2026-11-26	family=AgentTesla | filetype=js md5=504a3fed37fbc1d3b17ff20bc49d0028 sha1=5147e13747b7dabf5006a3c1a6c2f6f6e16a44d7
+922112f27b5e470b6e8fe32879cac3f392a796b725c07a46722eb1e2dcd14712	MalwareBazaar	2026-11-26	family=RemcosRAT | filetype=js md5=bc44e2ec99716f1443c4bcb3927ce32f sha1=c3624a701023c6ec1882d8ec1c558a236a38c7a5
+27b79c3e852e0c55b2783bf469b2a146a90395e398dbb24bd05166e586f8ea57	MalwareBazaar	2026-11-26	family=XWorm | filetype=js md5=2cc18cbe9ced9d9a4c8444d8b587d265 sha1=b1141c3babc94a797fe2d305c5730e32c2ca0a39
+c4e39f47a0613d48d7fef4d2bc82c2300238ffbac36e79c0f32dbcbbb6e07fe0	MalwareBazaar	2026-11-26	family=AgentTesla | filetype=js md5=00353b29bc608c1a4e2d7d3a288c2fbe sha1=55bfd41d7a1da06586f926bd2bf3e80580edab81
+c7fcca617e6c4f5f28ff49c68f3cd25087690ebe7d0f2e82774f30661b704299	MalwareBazaar	2026-11-26	family=PureLogsStealer | filetype=js md5=848443e0a92142367a57919ad5f9c6b4 sha1=c1ed0a9f60206b63143933d21520f79f91de217c
+cf2fe09e88bb9044e0a718aa7d88d4e6a810395b6ffa579167d4d46805200c8d	MalwareBazaar	2026-11-26	family=AgentTesla | filetype=js md5=b139f67ae6f752109bb79cfc230b1c23 sha1=366520af4858cb5366f9c0598ec8fdf5eba76e7e
+c4df5fc57e9ffcb20022fa8d24b07db5b5851607dfb295e1314cd54d785131f9	MalwareBazaar	2026-11-26	family=Formbook | filetype=js md5=0fec547e37cdc8610457e2608adee216 sha1=3322e5269b57548ac5065f66e623e1afe2baebc4
+44ff65bdeaae8b235e6d6000f3af6efd54a737f6c9d4722e8bb0ce60db70baea	MalwareBazaar	2026-11-26	family=DarkCoreRAT | filetype=js md5=7565e4be47c830485646eca868919077 sha1=55d804ebc8869660930c1608a7f5f1ddbbd75bb4
+a14c9168da21a61d6c85e4ba14583b23c2f3b19eeefef70196b2fdc337ad3515	MalwareBazaar	2026-11-26	family=RemcosRAT | filetype=js md5=86f872eafa4751e206f0427c9e94728d sha1=f929a8fac855887dcd5e9459ea17210c87e54814
+4978c249869c364f4944e7da41c0a9f1e6dac9e54dbcfbf53e02e162c1246bc3	MalwareBazaar	2026-11-26	family=Formbook | filetype=js md5=c8427fb81e5be2639232b62807891689 sha1=c7e98b380e7fc11c57085198698aee58675138c2
+1b9cd0e9d64c8bbe16e340e6282429b3b47576449708bf439b3b5ceb2d5e3bd6	MalwareBazaar	2026-11-26	family=RemcosRAT | filetype=js md5=05b4baf2711a5a01bc62589e13a04321 sha1=c214258098c65dc60220eaaed3b14cfe350f4fd8
+4750e4be0b50d49992a299ebced7a468ebde13e5b238812c9c926bbe2ba25f2e	MalwareBazaar	2026-11-26	family=RemcosRAT | filetype=js md5=0938d1feda6e49443d813c4b7827d22a sha1=33080aa7b2111749f7121b8450a929d97a73ef97
+d459116d0d91316205238b0e457f6a3ecafd5dec7099e1cf35fa6172b213e436	MalwareBazaar	2026-11-26	family=PhantomStealer | filetype=js md5=0bacc904832582d53fde42ecb74f3b82 sha1=3a5b2d6bd142f62e5ff2419a74a43392e601113c
+ecc6e9348321bf0b5ca399a93791af5d67e719968de70f8dbe37f07eecb95390	MalwareBazaar	2026-11-26	family=AsyncRAT | filetype=exe md5=200ae945e6d154ce322c04d480aba416 sha1=6089f5d97eb2d0a3e6ca4d19ce43dc0756d5cf86
+826ce3fe579833e99adce2ed24a3c7d57cb58289d9a533759e52e2b338b9c709	MalwareBazaar	2026-11-26	family=RemcosRAT | filetype=xls md5=81459d9868b081aa6b40c9daf648a40a sha1=bba2b7ed515cf905da27a73838900d9cdc434e79
+4b745504580314e61ad7d10296c31f23ea59316a37cc9397b8ea9242d93c6717	MalwareBazaar	2026-11-26	family=XWorm | filetype=js md5=56a274d768340ac53919cf302bed9c19 sha1=2b1777eab47ec460decd0607edbb941c7fa738df
+b904cc1ef88171d2b3e3cebde14e92847e858360e02099714dcaeaf6c71ab4a1	MalwareBazaar	2026-11-26	family=RemcosRAT | filetype=xls md5=72fd4ad4b6ae0b7b68a2f076ac3c99cd sha1=cac339387a251b87882dd946896ff4b75944922d
+d8d80c729b59fce3c828d489cd4051d1fe244bd33ecdd5bee9e200a7dee61d96	MalwareBazaar	2026-11-26	family=ValleyRAT | filetype=exe md5=2e9e34cb52f5b7f26648c69f0b7017f0 sha1=8ecf07a6b533b7cc9c272b64633a7ee6320655b4
+67d76863b812ef960b44e32a67fd2f3a6eebc857c073a448d8dccf3f18002622	MalwareBazaar	2026-11-26	family=ValleyRAT | filetype=exe md5=3490c4b6dc11c46fb85b838554608098 sha1=d03b02a22842fe1782194e46f3519c88f7053c41
+7317f68c0a92198d6c7858d3ee96ab9bbebb9acaba11c5871bd93dc1fced7e70	MalwareBazaar	2026-11-26	family=ValleyRAT | filetype=exe md5=b23b9f0b828b313d70d1a2e799932976 sha1=fff10fb81aa4eaefca2da1e68fe03ed64ae9b17e
+0acbe43aa884db90122d4596da79a266582c98a478b0a4a4e559480252fd3f28	MalwareBazaar	2026-11-26	family=Prometei | filetype=elf md5=ae38fcbdb77a3ceb6056f1f782dc95ea sha1=32d75dbd7ff8bc44899e7771a332d31d53cf6b87
+93f9815582688e65458050489de1c99f8acc28548b3a957c67a87b734c9c3ba6	MalwareBazaar	2026-11-26	family=Prometei | filetype=elf md5=34c31da258d323ecfdf65375f7e04f31 sha1=2b40127d81277acfcb4a37fccdbae6722fc51589
+caa42ce9f5fc5fe016bf9a6c70962cd1613fbb19573a06bf4a456945b2b039ec	MalwareBazaar	2026-11-26	family=Prometei | filetype=elf md5=010d51a1452f883254be42564a346b21 sha1=0c6bd14df43bc2796d9d8f419b0a856f9fec7f6e
+685183ff4c8da6f4f3fbf3f485bff80831e512c4c9daf8f13e0736da8a13d15c	MalwareBazaar	2026-11-26	family=Prometei | filetype=elf md5=12b930a07e14d0a5e9c2fc85727528af sha1=b689bb042a09958fb1e221bab1b2c9b88461f7bc
+1dc1c026505f10be2a4eec854482ffc66bfd37853c0648a31bfc581a2ab695fc	MalwareBazaar	2026-11-26	family=Prometei | filetype=elf md5=72108c9dbb6e6ce9b8f59b71ac08b71b sha1=8ebdba54daa817b0c057a6b5a2b10df573699d39
+8f8f055dc2c3e573f31719ff31f7ddc8	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+2477bbf0ab3f0c9db73fcb2f5f9dfe8cf6703a88862a7c98a5de6f349cd8833f	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+e519fb5cd034e30a89c3c9904b7e776f615bf484	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+684f748deceabf0fbb789ce11cc748ec62ea7e218f44289557e733509ec9b250	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+27f36e562015365017c1458a5944b4f03cb13049f3b268bb919fcff7f83c459f	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+8657c350a2cf338721ade0bba8bd976cdd0c6e21fb7d5052eec24f8a034d7f7f	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+3239b5916a3462e17ed3110083f3310c58bf1c74aca75e20ddb8bfa7b7b519fb	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+d619323f20fd58e70ff846e1051a830d9735c89c6b2c72809258cfbc180d915c	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+9aa67867d5407184882da7eca22542fe4fa40db8e7cdb3526d4f9b75a9c57d55	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+625f86e71a4b99c1fb9764a98e81901158ef0b1f6b0374b4cf1753f58bb3b858	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+deed01f1f9359b1bbb926795234a5ba5860894aac9c0db4e55b3c9a8fa77d2a1	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+7bfd88831a0599b2fe070f8f41fd4e1953584aa220b0cb788d4b1f805e7f0920	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+438290e0fb6651bd8fc5eb45a6e50b7c9339e435c425adf2e0718c2edec03c72	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+80f98fff65c9488a1794a7b7e61acfa65830308d1ccd6801f5d4936e71403e04	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+c763a530794ca9b5b2319941fedef3684a65c427e945038f9a03cd505afb30f7	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+f78e4ab9d74f9cd74c02a8e0cb9e00348dff14281d44092b9d874c17dee8bded	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+15cb048c38063ec269208ea0ff98c7fd86e21a4d7a7c2eaeaa49933e36224de7	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+31782222f017e5340261f0cb6d1b0bbbd9eb8309bd56a67a628e7335bdb1be4f	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+a4ef03a850d6a9bc590d4c074230f09848309c95c92a62a9d32c5d0be7573f52	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+648365b4983f3468b0f077c30110d6271e6f0c9a870ed6769be774f87f5c2b08	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+68ed37807c4c41541c3fb5afa3763b514be0b5d3086e8864c1e67a74580f4535	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+fdd5c7a353c5f313076a8c37eb6e672e633fe4416591642564abe3274782d2bf	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+651a5ba217c996cbdd567038632e28896e06d0f728708327badd5f0b53963d9a	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+6cedef9bdbaef331bad705b1488686e10dd4e2fbd5fda78af57b4704bf4ab344	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+6be53629a26384078fd38c431819d86a27fd03af53ff3ae7fd19ae38aae2be73	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+90e79eab4188775d1da963d6ddc8c92b63c01f17d709e03f836f42241e7210ec	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+61cdefd7f039f5c7d1c1b17ba74b8dae31138ff16072ba474e20f7566d2c011a	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+bf98bdb300e04d2200ce90a3626f05c2a9942597f5919ae2f6152a8d1327443b	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+40e8117a60a1490a94b65bbac8163968e2823113a5cb3023a60eff611171ebc4	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+f733b6cac9f85dd0e7a73ab8e592df5125e13195e5acd2793f76d4ccbf736990	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+351a44052f2e3f0897ca3c517650e3cd93515bf2d29db8006e0f26f062ecb5c9	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+9a3de87064b4e7f246b5282d4b313ea48fdb37176d85bad1ba6faca6c6907ee5	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+884327755c4bf778b524bbe3814307c077d3bd72c19920a0995824a931ca9e2d	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+428f92ef5f7f7348cc1abdf168854b676808957de812a53b956db473036ae131	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+13ed4c76184bf60f46db4b3b2b7cb62f91bb8208b2813e58d8b8c879ee9259cc	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+dff387a7cc85a396f95eb1833cecd65fb991cdbcdaef45cc657cd75be266cc39	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+ca5b94ec1a3a218e12bfe6179a396e69b48de0000eac48e445b49e9d2cc80fa2	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+29c0173763a740aca360970c5646b299f492ef64d37476ca4d02da7a832df80a	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+2212b52b448740327d96fb98cf0145ffce62cf0741a12822f8bd40216a4a5863	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+b42ce40afb65b510317bc755d37f2f4617186b70dd28e3a35b7f064eb42628bd	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+2627ea4d7dcadca71de39b19fe8dc877e8f5c54c5e71d85202641196864df9ae	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+4469babd3d9b88bdec90b9164f0f80d95fb267434461ae85114a7197eeb02e3a	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+85e78b3ae9648594f7c3a069b5aa6bf985f25e6c14794aa9511054b6828912c6	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+9977374425f552e8408d400dfd0340b1047a5085943ba9c85cb4b454be828427	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+3c0be3c1397a5a14ee511a3452c708514b3afd0fd975a11715f0d9fb98e462dd	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+abe2761831fbccb959037c65443f3988d92a69a2140b76f3e6666734f3982ba4	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+90619f94124e86f9337f12e88fb3533b9718b8fe6328c7c1bb97503efe1d2bb2	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+d271b2ef422709febe95b891d42ccd9fd0855bff8a15f76b78a528ff34195342	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+02a12f39429d7f111aa4f087dd73fd8d8415fe7be0e76202a4cfd5242144040e	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+1971142007ed60d009dcd56600b96a41a01e9fba8696b65ed7699aaf12265b77	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+6a522cb5d1888511b547f64043bb4c35f9d81452adcfa268650f7d803bf77dfc	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+fc110456041ec607e3dea81e13277baa5328e8a8026084d6d679236f45da8c4c	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+2db69a664953fd4ad33f7cfda67f8ec53798803a0b95f0c004222e94c4f9629b	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+6b183b16dbbda5a01cfa73366d01ef1a87a9bedfcc3ddae8d7849bc3f37cedbf	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+451ea8cf63e71a79211308734913453d03b4cc9b07b43163805dea8d49a46bc4	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+845302a55726b76dd48baa2beaf302fa33cbb6479a816a3794e78ba49ddf3973	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+5d3d532dcdd2002ce7b16fd95d9d04ccf7cdf001b003eaec49e7f288eaa43e17	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+35b236fc5ff19e05b2699b0f824fe85d6ffdf7c2f1516d3fed8c6dbe920ea162	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+0547965e807a030ad9b1bcd0b7cc7c383f3ad6ae7ad173e236057430279fb808	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+29321b3a590ba2c0850eea6c0bd3dcd8503115fc381282cefaf41fc7bb468c80	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+13a619e7501a07cdabc9595050aa03e073d820d843c156a04246104263086749	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+f8016ff265fac046a72a1f89c98ced960c492d2b1ec303f0f07ef39c6324a985	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+28ef8ced263c5732726ae6e615a9f0ddf05863a1bde95c4dcb6b96561b5ac9ba	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+5b29f81adcfe1b795f344bd660b87ddc2cb06dc6ac72b7aeee5af2a64438b635	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+197fd95c1b0ffad9c3a116c8bc53f5445381d31af789ed11b2227ab20fb4c0f8	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+f0dadfd28efdace2701ca95939602825a49c9f61f703e2814269b7c469fc789c	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+27d50c5f96ab050bead5710b2c213a9de4ab0a8823ef6394e9aa0a23f8372600	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+7e3e897ffe49395918a015ec54bdff4c89ee2411131ca94ccff20678a62b5974	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+e9598232aa4232fcc2db3ae60490d2a71ba103f12f07f9d819f88b86400a81ff	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+5d3b30589eceab51b804383c3a1f8538b207826a4dbcc919db4b6b17c090cf56	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+772756296fd234156415da4081abd399e4647f83470120097e925918b2f03f85	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+8beaa8db7b85c08de59313a53c67e7ed0f1c62cd54991555d41561b68c49808f	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+28ef014272655afc4e5246c1661abf81a7807e2a3e445cbdf00fa73aaab08414	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+422fed3be685f2ccb5bdfbad489584d11e9b266c61eb8c5d521e4f7c7d2ff341	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+8eea1de7ad1e4483b8c92f484662a4d67b7a0343fcfe9a233997a39a9c8bfd96	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+5d05b6b278fe0733ed796ffc9bd322b46d964eeb4f9a72e8737ae9fdb062c0f5	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+7e68eeee6a3e02a1c80dc743234a51bc32c0b377baa1042b9484b70cde9176f3	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+2a4ea0bce6e7d5c182a2af9ac0a6bd040b0fcb3671d8f7342d68a0c0a745128f	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+101e014ad7adb16a6813daa7c2972a1c	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+3f4b5b38c93b1b756ff511457be30ffe	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+8e70a2cfde956e4cf980b48cc3f4add9	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+a5d1541148ed8d06ea13b564a846f105	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+a65758c4e8a6cd63b29ac9958912569c	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+beda709ab23287a548e14cb5e9b917f9	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+d81a917e80de669820ded410780fc003	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+11007520a90a2120c607c99688190f56d66899c1	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+36d55de325a779815145637df2b8077d1077013f	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+51a902e9ab6aff068896abc3581ffc63cf515a18	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+a18f97fd1d22b6db3529482f558c8e2f3e5fdb29	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+a422c5f576fb04405c789cf925bdff2c669dd3e6	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+cb895ff9e3387220b31bd9dff9f7d8ef65f36a3f	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+d2efe756e96ce7c2d85454e3960f770177408ce4	OTX	2026-11-25	family=Vinci RAT | pulse='Vinci RAT Delivered Through a Malicious Microsoft Store App' pulse_id=6b06b3aba5af3b81ce75b529
+2d92fe0b3b918bdbca318879a65bd5a00e63e00b181085afdeed6922c85f90bd	OTX	2026-11-25	family=Remus Stealer | pulse='Exposing the Gmail "Zero-Day" Behind Remus Stealer's Email Interception Feature' pulse_id=6b06b3ab67d3d88fe8c63eb4
+e13e019dae958f20d7a252adf64888ab6e6c427622b67c5bf7ae6ffa4a0e25f3	OTX	2026-11-25	family=Remus Stealer | pulse='Exposing the Gmail "Zero-Day" Behind Remus Stealer's Email Interception Feature' pulse_id=6b06b3ab67d3d88fe8c63eb4
+75e5225cb2fca8b62718648e0c663b9003048a19860ae9f0458f7d904220e693	OTX	2026-11-25	family=Remus Stealer | pulse='Exposing the Gmail "Zero-Day" Behind Remus Stealer's Email Interception Feature' pulse_id=6b06b3ab67d3d88fe8c63eb4
+39cb29f0985fa58d6b4f632948d543c3633e0a8ab1a51a360a813f2752eb082f	OTX	2026-11-25	family=Remus Stealer | pulse='Exposing the Gmail "Zero-Day" Behind Remus Stealer's Email Interception Feature' pulse_id=6b06b3ab67d3d88fe8c63eb4
+ae9556b371d29e5fd1f7ff45c00fb60644d6cd8c5bfc1b78a565c1f6296f3a81	OTX	2026-11-25	family=Remus Stealer | pulse='Exposing the Gmail "Zero-Day" Behind Remus Stealer's Email Interception Feature' pulse_id=6b06b3ab67d3d88fe8c63eb4
+acf1b83914aca2944f55be6ff269cc984f35e3a757a12d9cd036e428c93087bc	OTX	2026-11-25	family=Remus Stealer | pulse='Exposing the Gmail "Zero-Day" Behind Remus Stealer's Email Interception Feature' pulse_id=6b06b3ab67d3d88fe8c63eb4
+76abab53a62dcfc04f1665cfb82fffb8	OTX	2026-11-25	family=Remus Stealer | pulse='Exposing the Gmail "Zero-Day" Behind Remus Stealer's Email Interception Feature' pulse_id=6b06b3ab67d3d88fe8c63eb4
+e55773c308dd1f09cd789d5ec185bb98	OTX	2026-11-25	family=Remus Stealer | pulse='Exposing the Gmail "Zero-Day" Behind Remus Stealer's Email Interception Feature' pulse_id=6b06b3ab67d3d88fe8c63eb4
+33d245e0c67264fb8721bd227cdb57c19b255684	OTX	2026-11-25	family=Remus Stealer | pulse='Exposing the Gmail "Zero-Day" Behind Remus Stealer's Email Interception Feature' pulse_id=6b06b3ab67d3d88fe8c63eb4
+58b0fef7be4ea9168796c2e24d092f61326bbc4e	OTX	2026-11-25	family=Remus Stealer | pulse='Exposing the Gmail "Zero-Day" Behind Remus Stealer's Email Interception Feature' pulse_id=6b06b3ab67d3d88fe8c63eb4
+c5d1358ece7dff7834507a29f59fdc35a1a2afa3045ae8d754fb497f6f999296	OTX	2026-11-24	family=ARTEX | pulse='ARTEX leads to persistent ZQAgent backdoor' pulse_id=6b05ae911562fdd4bba9179d
+0319739869e1aadb2d598152a0290215c057c8364257f3a84a42164cf863019f	OTX	2026-11-24	family=ARTEX | pulse='ARTEX leads to persistent ZQAgent backdoor' pulse_id=6b05ae911562fdd4bba9179d
+a49f43d0ae373cb35df2cb7a5542bc58234764dad15a628d28a5c67fc6834357	OTX	2026-11-24	family=ARTEX | pulse='ARTEX leads to persistent ZQAgent backdoor' pulse_id=6b05ae911562fdd4bba9179d
+f585e980a16e52b8da2d2328dc5688cb0a1dc5cd	OTX	2026-11-24	family=ARTEX | pulse='ARTEX leads to persistent ZQAgent backdoor' pulse_id=6b05ae911562fdd4bba9179d
+7e9fd6f02d35806af0b7447038322fdf0eed4318	OTX	2026-11-24	family=ARTEX | pulse='ARTEX leads to persistent ZQAgent backdoor' pulse_id=6b05ae911562fdd4bba9179d
+2cbeaed3a591219c0eca708b4cb9f4e249231b89	OTX	2026-11-24	family=ARTEX | pulse='ARTEX leads to persistent ZQAgent backdoor' pulse_id=6b05ae911562fdd4bba9179d
+8211127a7bc385bc784822d22f69c426	OTX	2026-11-24	family=ARTEX | pulse='ARTEX leads to persistent ZQAgent backdoor' pulse_id=6b05ae911562fdd4bba9179d
+e9a03f331f3d737a2dcf479a54b94fd7	OTX	2026-11-24	family=ARTEX | pulse='ARTEX leads to persistent ZQAgent backdoor' pulse_id=6b05ae911562fdd4bba9179d
+97669d76529bc5efd4fa6506de13fb71	OTX	2026-11-24	family=ARTEX | pulse='ARTEX leads to persistent ZQAgent backdoor' pulse_id=6b05ae911562fdd4bba9179d
+455cf0f40354af34569df868f601543ea04df583	OTX	2026-11-24	family=ARTEX | pulse='ARTEX leads to persistent ZQAgent backdoor' pulse_id=6b05ae911562fdd4bba9179d
+ccf299e23471cd79b2f40f91ee6f48293893e6c626ef84b10ef0b3ba86a89770	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+9e58baccd25b009b80f093bbcaf007b1ca3ac763c9826e05e1352e64264d0d42	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+d0a78aec3dd8dbce2e3fb0412b666a602fc0a71a800e24b99d735581795e11dc	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+33510d8e48c26279c0c212b4e6e5f95b7f0a116061eae7f50241f81903be5b6b	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+352b04dac5f63208f45c7c7326ed06c6fa8ae2752e4cdafff0cfe649ebaeabe2	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+b49a89af8c4884f9aecad7d980bfffa03226e8d30aa35afd813919af9e2d7cfa	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+09dd6f214a5b5a1fe2934cc859a1d1ce566894faf9236a0bcab2d2cf34448d63	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+63f1c64bd0db73b327d6655e4262ab8dcbd4ff2ed0a6dd5e062ceb977dcb3e75	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+a3d04638930eae8442578679be6d150b3c56373627c9bc7e480725a31bb2d85d	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+56e899eb1d5c967cbe760d1b7ac409fb9420b862c122ef7ec2a2aa6469a503a7	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+016f633b9a8dd5ef17d577775cc64f96aa30192f3fbf814eba0c3f5c9fa5d91a	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+ef691b00cada5974b6bb516386c90589bd2340216f446518ad08d11fc930d631	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+ae28ff44ee3bd2911c5a1e4110f12d12e7b585f087a0afd85d6fdc4d4b5a36f5	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+541b0893ca326b6c652cb1d5873f208e968481e33b635c3869479016bcd75d4f	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+1bc553ee2324f67c86cf8d9057da242e8ab363c59e452f5a69a1275909c20a97	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+b8cf4c68dc362aeb31546a3dd091f8f23cf624e495eec84c840f2dd0906e2f4d	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+26485a167f9e4c4ea146c8420ba0bcc44facbec4d5e8fd91e624f2c81255b589	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+3dfce4e8d5b625e435429c8d15fb6ce8bad9601fbc7b84f74b4aa5b560bc482e	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+78fa8ea3d4daaaf088babd49f2bc0e59220940dc256d8b8938bad95e2fe4717b	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+b797935ff3db3da42d046537d17191d790a6344a12947347165eea2744e1265d	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+17761569bf44d46877b22972bb1ca224527562a7a7aeb5b70ca8112510a49537	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+27f600d476638c8f1236db3eda9d70e39c9a96ff62fca69ca227426c48448bf7	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+9bc1be99462f89880e1e22d9d3ade01cbbfe8bae54a27125e0129542f92ce93f	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+b33c9b4c9771032b16de477271551f64f4f550f85eec96a70d1a345f84f55603	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+b8eb00ae419b1a9421f13200ff4893eba57800543de1d71b9752c301123783ff	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+2ae7e8cb7d50922c9b8f6032fa452d0e0b27f8b0f520ddd90945ebdb6ecf423a	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+0068c4edd784c482030b68fa3a13e5d16fde30ed999619b87ead40ef5333a074	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+4b8f63685671c33f9641cd5828a78b3b	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+505524d1acd4caad4a1c119312b0e1d1	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+988e5f290039d4b31527468bd4e76787	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+cd5bc2ef1c7e076b4460e33047e3c1ad	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+e36515e3fb6349a641ef456317ae0b3f	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+ece7a00c3538451f421413265dfadd4d	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+2e8391d0802f4633986cb037cba5e2804c8657fb	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+50f2e9c97c3c15ac3c7abbad47a272bdfe47acef	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+9a581faca7fba81aa0ac91f621eb9302646bca3a954d044746c4751aae2e23a0	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+e7e7649f7249cb32f3123299e3a200c83dc210420b40f944168c36ab781b9458	OTX	2026-11-24	family=github-c2 | pulse='13 Malicious NuGet Packages Target .NET Developers With Fake Job Assessments' pulse_id=6b05b4a9fc9275b1ea55209b
+265c91f3133350d4d28732f58143e374	OTX	2026-11-24	family=Chaos - S0220 | pulse='Chaos Ransomware Profile: Tactics, Targets, and Indicators' pulse_id=6b05f4b567c7668826d406d8
+34bf800b57e2644cd77b3d4092ea5348	OTX	2026-11-24	family=Chaos - S0220 | pulse='Chaos Ransomware Profile: Tactics, Targets, and Indicators' pulse_id=6b05f4b567c7668826d406d8
+4e40f11cb2d19e6b9f4d0eeaec91f42bc19a5d61	OTX	2026-11-24	family=Chaos - S0220 | pulse='Chaos Ransomware Profile: Tactics, Targets, and Indicators' pulse_id=6b05f4b567c7668826d406d8
+d05d0fd903592c9a60527a578bcb7654d24d3b61	OTX	2026-11-24	family=Chaos - S0220 | pulse='Chaos Ransomware Profile: Tactics, Targets, and Indicators' pulse_id=6b05f4b567c7668826d406d8
+137c26e7db76a9626240473ab53a8fceedb1f0a9ca3580a3e66bd1f9d02e407e	OTX	2026-11-25	family=IkonRAT | pulse='IkonRAT: A Poisoned Update in the Supply Chain Compromise' pulse_id=6b0674d8bd3e94833f81b5f4
+686dcfd8e7e33f2df80085d0b03b078958f32ba7a0aa735e07b4dde9f4bf3022	OTX	2026-11-25	family=IkonRAT | pulse='IkonRAT: A Poisoned Update in the Supply Chain Compromise' pulse_id=6b0674d8bd3e94833f81b5f4
+a3a5e2c42cc88336ef7ae7b2e118cd770162a72067df5304b97c774c6ff7562a	OTX	2026-11-25	family=IkonRAT | pulse='IkonRAT: A Poisoned Update in the Supply Chain Compromise' pulse_id=6b0674d8bd3e94833f81b5f4
+b2c593bdc096fa20f3fe00f1ea4a59b5320f884415a008f66b4283b935c9cfe1	OTX	2026-11-25	family=IkonRAT | pulse='IkonRAT: A Poisoned Update in the Supply Chain Compromise' pulse_id=6b0674d8bd3e94833f81b5f4

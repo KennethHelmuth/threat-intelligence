@@ -1,0 +1,55 @@
+title: DNS Query to Kuboshell Domains
+id: 2051f14b-2e11-4e99-9508-081e0145048c
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Kuboshell.
+date: 2026-11-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cyprus targeting
+    - darkbeatc2
+    - healthcare sector
+    - homa framework
+    - ipfs
+    - kuboshell
+    - malware.kuboshell
+    - mois
+    - muddyc2go
+    - muddywater
+    - phishing campaigns
+    - phonyc2
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'dpwords.com'
+        - 'websitegate.net'
+        - 'gapgroups.com'
+        - 'corenewsnetwork.com'
+        - 'gatewaynet.site'
+        - 'cnpcyprus.net'
+        - 'cabelenet.com'
+        - 'primtel-tel.com'
+        - 'primetel-tel.com'
+        - 'webmail-eac.com'
+        - 'medochomie.com'
+        - 'aegeneair.com'
+        - 'portal-gateway.net'
+        - 'liveupdatenews.net'
+        - 'exchange.webmail-eac.com'
+        - 'federation.aegeneair.com'
+        - 'mesh.websitegate.net'
+        - 'nl-backend.cabelenet.com'
+        - 'nl-backend.cnpcyprus.net'
+        - 'nl-backend.gatewaynet.site'
+        - 'owa.webmail-eac.com'
+        - 'remote.medochomie.com'
+        - 'webmail.cabelenet.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

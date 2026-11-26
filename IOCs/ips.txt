@@ -16952,3 +16952,17 @@
 154.219.114.77:8787	ThreatFox	2026-11-25	family=unknown | confidence=75% threat=botnet_cc
 156.234.211.187:8090	ThreatFox	2026-11-25	family=unknown | confidence=50% threat=botnet_cc
 162.62.233.16:443	ThreatFox	2026-11-25	family=unknown | confidence=75% threat=botnet_cc
+213.252.232.131	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+95.182.88.89	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+88.119.170.218	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+88.119.171.245	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+213.252.245.44	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+213.252.245.60	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+217.60.5.55	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+217.60.5.75	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+217.60.5.87	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+45.38.170.31	OTX	2026-11-24	family=KuboShell | pulse='Volant Manticore: Flying Under the Radar' pulse_id=6b05b53f25f012a58e23b63c
+150.242.254.199	OTX	2026-11-24	family=privilege escalation | pulse='Recent Trends and Tactics of Agentic AI Attacks' pulse_id=6b05b4a5dd58cdb3c3b8dc64
+38.253.224.12	OTX	2026-11-24	family=privilege escalation | pulse='Recent Trends and Tactics of Agentic AI Attacks' pulse_id=6b05b4a5dd58cdb3c3b8dc64
+185.215.113.209	OTX	2026-11-24	family=Chaos - S0220 | pulse='Chaos Ransomware Profile: Tactics, Targets, and Indicators' pulse_id=6b05f4b567c7668826d406d8
+196.251.107.186	OTX	2026-11-24	family=Chaos - S0220 | pulse='Chaos Ransomware Profile: Tactics, Targets, and Indicators' pulse_id=6b05f4b567c7668826d406d8

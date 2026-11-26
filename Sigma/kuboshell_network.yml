@@ -1,0 +1,68 @@
+title: Network Connection to Kuboshell Infrastructure
+id: cdffda4a-e1d3-48fe-a326-85efa62cee85
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Kuboshell.
+date: 2026-11-26
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cyprus targeting
+    - darkbeatc2
+    - healthcare sector
+    - homa framework
+    - ipfs
+    - kuboshell
+    - malware.kuboshell
+    - mois
+    - muddyc2go
+    - muddywater
+    - phishing campaigns
+    - phonyc2
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'dpwords.com'
+        - 'websitegate.net'
+        - 'gapgroups.com'
+        - 'corenewsnetwork.com'
+        - 'gatewaynet.site'
+        - 'cnpcyprus.net'
+        - 'cabelenet.com'
+        - 'primtel-tel.com'
+        - 'primetel-tel.com'
+        - 'webmail-eac.com'
+        - 'medochomie.com'
+        - 'aegeneair.com'
+        - 'portal-gateway.net'
+        - 'liveupdatenews.net'
+        - 'exchange.webmail-eac.com'
+        - 'federation.aegeneair.com'
+        - 'mesh.websitegate.net'
+        - 'nl-backend.cabelenet.com'
+        - 'nl-backend.cnpcyprus.net'
+        - 'nl-backend.gatewaynet.site'
+        - 'owa.webmail-eac.com'
+        - 'remote.medochomie.com'
+        - 'webmail.cabelenet.com'
+        DestinationIp|contains:
+        - '213.252.232.131'
+        - '95.182.88.89'
+        - '88.119.170.218'
+        - '88.119.171.245'
+        - '213.252.245.44'
+        - '213.252.245.60'
+        - '217.60.5.55'
+        - '217.60.5.75'
+        - '217.60.5.87'
+        - '45.38.170.31'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
