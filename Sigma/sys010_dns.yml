@@ -1,0 +1,56 @@
+title: DNS Query to Sys010 Domains
+id: 3bd831c0-056f-4c8e-a778-7322607b2bf9
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Sys010.
+date: 2026-11-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - browser extension
+    - email manipulation
+    - facebook hijacking
+    - malvertising
+    - malware.sys010
+    - sys010
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'svc.workplace-local.com'
+        - 'static.docs-helper.top'
+        - 'scontent.storys.top'
+        - 'content.document-hub.top'
+        - 'cdn.static-contents.com'
+        - 'wallpapersengine.com'
+        - 'wallpapers.top'
+        - 'wallpaper-engine.pro'
+        - 'volosy.top'
+        - 'upfiles.top'
+        - 'sybase.top'
+        - 'shashen.top'
+        - 'schools-account.com'
+        - 'rarer.top'
+        - 'porugo.com'
+        - 'pitanie.top'
+        - 'pcsofts.site'
+        - 'openmagic.net'
+        - 'okara.top'
+        - 'merio.top'
+        - 'keshen.top'
+        - 'grosir.top'
+        - 'gover.top'
+        - 'geliang.top'
+        - 'esora.top'
+        - 'dnow.top'
+        - 'bmap.top'
+        - 'best-pc-softs.top'
+        - 'avela.top'
+        - '4kwallpapers.top'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

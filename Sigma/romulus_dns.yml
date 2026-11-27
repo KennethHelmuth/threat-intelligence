@@ -1,0 +1,41 @@
+title: DNS Query to Romulus Domains
+id: 81fb24b6-f7e7-408c-9d27-3470c5848ded
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Romulus.
+date: 2026-11-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - clickfix
+    - information stealer
+    - legionloader
+    - malware.romulus
+    - romulus
+    - warden loader
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'zgrongbo.com'
+        - 'yugernaut.com'
+        - 'uoverlazyt.com'
+        - 'totebagsforwork.com'
+        - 'smashshape.com'
+        - 'shoeshowshoes.com'
+        - 'scridea.com'
+        - 'ruthaiv.com'
+        - 'redjaxfire.com'
+        - 'nsgggg.com'
+        - 'hflubfg.com'
+        - 'feidaindy.com'
+        - 'domae-trs.club'
+        - 'benderoflight.com'
+        - 'apapg.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

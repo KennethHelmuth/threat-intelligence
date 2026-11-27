@@ -1,0 +1,29 @@
+title: Network Connection to Gh0Strat Infrastructure
+id: b14726be-eb89-4d02-a438-39fc2b9a4271
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Gh0Strat.
+date: 2026-11-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - cloudflare workers
+    - fake installers
+    - gh0strat
+    - malware.gh0strat
+    - ocam
+    - seo poisoning
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationIp|contains:
+        - '156.234.43.98'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium

@@ -1,0 +1,32 @@
+title: DNS Query to Apollo Domains
+id: 3368782c-6eaf-428f-833f-0606bf123ae3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Apollo.
+date: 2026-11-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - apollo implant
+    - citrix exploitation
+    - malware.apollo
+    - poseidon
+    - tlschannelfix
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'lababalbaba.com'
+        - 'redcapwap.archildrens.org'
+        - 'redcap.shepherd.org'
+        - 'redcap.bmhcc.org'
+        - 'citrix.stblaw.com'
+        - '02fw1.honigman.com'
+        - 'sb-it-support.com'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

@@ -30701,3 +30701,155 @@ d05d0fd903592c9a60527a578bcb7654d24d3b61	OTX	2026-11-24	family=Chaos - S0220 | p
 686dcfd8e7e33f2df80085d0b03b078958f32ba7a0aa735e07b4dde9f4bf3022	OTX	2026-11-25	family=IkonRAT | pulse='IkonRAT: A Poisoned Update in the Supply Chain Compromise' pulse_id=6b0674d8bd3e94833f81b5f4
 a3a5e2c42cc88336ef7ae7b2e118cd770162a72067df5304b97c774c6ff7562a	OTX	2026-11-25	family=IkonRAT | pulse='IkonRAT: A Poisoned Update in the Supply Chain Compromise' pulse_id=6b0674d8bd3e94833f81b5f4
 b2c593bdc096fa20f3fe00f1ea4a59b5320f884415a008f66b4283b935c9cfe1	OTX	2026-11-25	family=IkonRAT | pulse='IkonRAT: A Poisoned Update in the Supply Chain Compromise' pulse_id=6b0674d8bd3e94833f81b5f4
+9de138c8f2cf2afbcf9fd3fad97070ae4c54b1af1ff59af926fc8c81da00e09b	ThreatFox	2026-11-27	family=unknown_rat | confidence=50% threat=payload
+70c2ede891207641e6b8d114de829c0b69c68d6472d452b60fe6ec18819655fd	ThreatFox	2026-11-27	family=unknown_rat | confidence=50% threat=payload
+79023ba175e1eab1a7ccdd5f9cfb8038b8a50d51afb223a29334d023e03d0d94	ThreatFox	2026-11-27	family=unknown | confidence=100% threat=payload | vt=1/74
+4d741f034c9d5d8c059e2433d9d8214e24f15c7eba5bfbecfbaf017efdfda00a	ThreatFox	2026-11-27	family=unknown | confidence=100% threat=payload | vt=0/74
+2809f79f834d2aee9f9b4f1a8ae455a645c459cdab537cee48603b8259fbf3df	ThreatFox	2026-11-27	family=unknown | confidence=100% threat=payload | vt=0/74
+1d6f39133dedfb2abc019f42088324fdf533744e8c5fea5c8681c16a9992520f	ThreatFox	2026-11-27	family=unknown | confidence=100% threat=payload | vt=0/74
+0ff23a77abba239a50412c720b2e423fcb3fb00e2362189cafa116eeb9bdce27	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=37/75
+4174a452a465c4104c895d326cc6b2f31f3706b6ba5272c4baea2063802624f6	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=2/73
+d2adb60ca508a29ee5ae856f4bbb5eab909508fdfe9664657182e246f670bdf3	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=3/73
+6fddaa099096c0caee183e4bb95e9fe79003e6ae6dc41d6b1aa3b4aec221bd38	ThreatFox	2026-11-27	family=unknown | confidence=90% threat=payload | vt=48/74
+15f92c41e5f8ee6b2f6b7cfd14d2fc61bd4163a45d79c20a4d7974cb0fe68cf6	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=33/74
+a26dde75bec441b4331b94c4592c012ac8761c36f67fe2ec52e3374fce7d7a2f	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=3/74
+9e34ec1ea82abe2f27f062b2efe5c61441b5f7315075a55117ff57440088fdc3	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=8/74
+d0c899cae34e69fc3e69d6204d992c5c6d8e432bb99949c8bfd873cbf0a0d74c	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=17/73
+4de4621f66780e1400bf3c55f146f84f6d77bbdd3a401451f3b7f16d674e3804	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=49/74
+a46a0501798815bdc8ff51342bc7340a6523ed1558a24abf2ce02330d7ca81d5	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=27/74
+a1ba8a41efdf01d5346c05a73a2ab09be01407a5c7513b377eee82dbd54b81d8	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=31/74
+25c34c028f0c119da251ca5d17020df79a030c7c3b86c5a8df699065016a21a2	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=37/74
+f62cb46036af929de088d9c1163527fba8f0b9d021a950833f1e169a58e36e50	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=25/73
+2f6a7a0094c887ec9b249dce9353d95a0a87beb81da7ba3f2a8ef70ced8b81df	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=31/74
+19a5eac5c20963cc7d0b96213521cba832cd5134ea646e4f4c7b52b704979e0f	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=7/74
+089b1081440a30970c863894845ae91e0dcbd8d91d73ac98c731ff3f1606caf6	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=53/76
+899cf1ff3b62b7ab14bc6731cc8251b8859168eaf73e95ab961298d401de1ecd	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=52/76
+65436123e0c1d0fbed294a5c5a105a205fcb58335234d491160919271ce936e4	ThreatFox	2026-11-27	family=unknown | confidence=85% threat=payload | vt=51/75
+a7085deb4b8b13591f02885a069cbf16ceee93b03eafb48611430cc9be56861c	ThreatFox	2026-11-27	family=unknown | confidence=100% threat=payload
+55fac4f5bed7b454874042434df49dea10c99f37660556280696b8b1b9f10074	ThreatFox	2026-11-27	family=unknown | confidence=100% threat=payload
+a26c16372d3982be4f5280110463196090413023696866211cdb4be259a3cb35	MalwareBazaar	2026-11-27	filetype=elf md5=1f1fa38e541e9bce8dcbe4337bbe6cc4 sha1=523178dda3194ab9b906b06b02b803dd524cab72 | vt=41/74
+8a0220a06604d08a75adb50f2c75bcd5c44457c39effce59e7c07dbd93fc2341	MalwareBazaar	2026-11-27	filetype=elf md5=e57e526fbfdf01b94461f40643b97e66 sha1=03736b55f6114e2fb0d7f351c97775056f867e57 | vt=26/75
+79e7e203551314bd53577efa71e6119666e2c6302fb9c9922d7850f7241f5b2b	MalwareBazaar	2026-11-27	filetype=exe md5=013a1d9cc8f3b2a55763072658cc3e7e sha1=b78fba551bf6683fd1d2b81ce52cc9dcaf183251 | vt=29/74
+4f75ff76ec187a6a23f79b0398b97c3e74fb0770483e720952322aca021a912e	MalwareBazaar	2026-11-27	filetype=exe md5=6d40367c726aed445fc92683b03d5b5f sha1=28e3d4c9057db42897bd4414a12a60b39bb0db5f | vt=44/75
+dec9fbe2c4bb2f42c49f4e7ad08d506552aab4ff93ca9d26f1ac981d385a9efe	MalwareBazaar	2026-11-27	filetype=sh md5=b4a30288e3036524e25cde701b3b079f sha1=0c5d50c899f1776dc58b79623987a1947ba91a35 | vt=15/74
+95d3b1a3b00d4aa234e2962e62e8ac81c33be31d91be2238901b9d71c453c707	MalwareBazaar	2026-11-27	filetype=sh md5=00e5ed176fed3637c0b064d7b6cc32aa sha1=62c1ef48157d7c136b3ae9ee8547afb56f5eea10 | vt=11/74
+4fa07818da4feb72c9a35a835a55a1f98fa818838a0e3613bbd12a432854f793	MalwareBazaar	2026-11-27	filetype=sh md5=967935a09f965046912ef969d866deb7 sha1=9aab5124385982c5d1322cabee00335b907061f6 | vt=1/74
+1c6659044540667baf219c457bc1ad08549c3de70490c45063f7a435c3782842	MalwareBazaar	2026-11-27	filetype=apk md5=729032cc3ed8c47a9e4dd0be34b30e7e sha1=7a6b8abe14ff49b20017f953c05ab3136672170f | vt=7/74
+a73f534313e78e77eeda612493964c814105e1b5295bd4277fc930cb7bce25d8	MalwareBazaar	2026-11-27	filetype=jar md5=fa4336ad7d7b7dc006967c91d015a327 sha1=6c4add9e63933798b5757ec15eba3f1f0dd0d886 | vt=1/74
+2d99270095e3ded68441a4022432cdf85a5cfcb3db3771c2fc70c6b7fe9dd0a1	ThreatFox	2026-11-27	family=unknown_loader | confidence=85% threat=payload
+4367c5d2daff410a0df46a3083a7f292cbb6d9ec656b7c39ba3b352d25ecd897	ThreatFox	2026-11-27	family=unknown_loader | confidence=85% threat=payload
+84d8e1333a3111a3c505512821d861aef49aa29277953b4713c3a1beac013715	ThreatFox	2026-11-27	family=unknown_loader | confidence=85% threat=payload
+c7fd7f4d518a3aec3a869d8cf055f842b8b8867daa1757e3b92ab44c2cd15872	ThreatFox	2026-11-27	family=unknown_rat | confidence=75% threat=payload
+03e06256b4083afd1b9b2fd8f3213e3b6fffc2beaf8466d9c5e1fc255c1df786	ThreatFox	2026-11-27	family=unknown_rat | confidence=75% threat=payload
+38a7d79e3adf62eeeb1df29b663a2c730ae1f4972dfbe68b76400ef224600e78	ThreatFox	2026-11-27	family=unknown_rat | confidence=75% threat=payload
+1139f920ce8e6086d1ac2da9ec46b8f51296949ceb59918ed297ed4c476d38af	ThreatFox	2026-11-27	family=unknown_rat | confidence=75% threat=payload
+703b8f797033581a4f16b891b3a08b750c24d6ae65a06e4c38ff1fedccfb06cd	ThreatFox	2026-11-27	family=unknown_rat | confidence=75% threat=payload
+7eda083c8056ff6286f850fa67749fb229d64e9a513f76a8da7d1111deb3cc98	ThreatFox	2026-11-27	family=unknown_rat | confidence=75% threat=payload
+991ac5ec50882585ecb7cd42f0a7c112ab11821cdd4ffc51ce2e0f20ad32c00b	ThreatFox	2026-11-27	family=unknown_rat | confidence=75% threat=payload
+24b58f2ff8a21814c0285c3b4631bff1e888ef9d9befee497c732891562f7384	ThreatFox	2026-11-27	family=unknown_rat | confidence=75% threat=payload
+6a7a90449c38c931755cd2125a055ac280c9a8c91635e20108795b8d3e8a6824	ThreatFox	2026-11-27	family=unknown_rat | confidence=75% threat=payload
+a55a5d7141932a811f507e0aee4771cb1e1027f5d5c3e1db9c41fd7effcbd0f3	ThreatFox	2026-11-27	family=unknown_rat | confidence=75% threat=payload
+c34ceb62043cbb7504e50cecfce4d113072448d478e049abcc0d5db57cbc222c	ThreatFox	2026-11-27	family=unknown_rat | confidence=75% threat=payload
+808f1ac6ab8b99810d0dc38e5a5471e01da2e7b690c95f03800f268b3af6ebc9	ThreatFox	2026-11-27	family=unknown_rat | confidence=75% threat=payload
+60702ec14ff948b9488a97578b662805537be04cc8576da684e77a0f46d5396d	ThreatFox	2026-11-27	family=unknown_rat | confidence=75% threat=payload
+04472ec5915f672592a5868479922cf4194b1b3085ae788d7ba88b2dd892e2f3	ThreatFox	2026-11-27	family=elf.mirai | confidence=90% threat=payload
+dcf8083121c9a15ea4f0f724d3f6d968ea8de7644021afa4bc07d22bc838c438	ThreatFox	2026-11-27	family=elf.perfctl | confidence=90% threat=payload
+6a43f59bdc17c0cb34bff1d34e0650913290755f6e9773cbd1e6ef91a6e86c5f	ThreatFox	2026-11-27	family=elf.xmrig | confidence=90% threat=payload
+f77dbed714575efb8146899633f87b268aa81c20db6fa5abbb3bdbdbb96ca3d0	ThreatFox	2026-11-27	family=win.wannacryptor | confidence=75% threat=payload
+95bcd1f51df62bd2d926fcb57674fbcdfd2633a583d760330418feecf6001045	MalwareBazaar	2026-11-27	family=FleetDeck | filetype=exe md5=b06ba751ca9dd369e8f9668a9cf066d0 sha1=4e0ea1e5645b227dce23de7bd65defaf59f10ce6
+74e9182a82476cc14e6900f6488acd02bd5bcb8abd4c3fed7605009ce9bc1ca1	MalwareBazaar	2026-11-27	family=Mirai | filetype=elf md5=37ee43a3976f29cfb5921e0b2f722732 sha1=2c4dc1ba5be7cec5cc1bbc1dd37d3e49a7e67591
+1e5258e6f63a8ea9dcc317fd3035b319f8d0be63e55536d2a9c7d7e6e52cf0ec	MalwareBazaar	2026-11-27	family=Prometei | filetype=elf md5=f119db1a622e748f1c61b77928e03166 sha1=c818f6abb8037ee3d7d3591c193cc9f1168b235e
+dde0e1aeed545124b5a05f91b19937d4d9f5f64c4e1d45c094e79873c615d7be	MalwareBazaar	2026-11-27	family=Prometei | filetype=elf md5=c8aa0478ec0157637fb510868da73780 sha1=df16b1c436e4f4e2f6bf3ce2e7d513c279110e4a
+2ebd88d1de7fdab9078e6e03928759745b4b12ed8f85bec566d315c26a5d5b8b	MalwareBazaar	2026-11-27	family=Prometei | filetype=elf md5=20e79aba31754956386e5be7913e683f sha1=0b2b7c58c7c4d4e91a10ff6ee2c1638a1e8a1ab6
+89a12e81b4dec3ad1858f178c1e0a9a27abb731c5a26036a14b38f9b06adca73	MalwareBazaar	2026-11-27	family=Prometei | filetype=elf md5=9b5ab1f7519dc7dd85777d32babc762d sha1=345e4c9693a38573daac16d7d6df3392d8faa10c
+4998153231f8d5b5d41eed614f175ff8411239d115981d16d4b8197f17ef4a42	MalwareBazaar	2026-11-27	family=Mirai | filetype=elf md5=c8aa998227cb62d387b841fb9fa62314 sha1=91c6cabbc63f0e9c7d3591ef38f0deb9148e5363
+a0bdac40b2470e9a98659a3c8a3c05198d1e0a66e1b92a93b1c3d6152e0b98d0	MalwareBazaar	2026-11-27	family=Prometei | filetype=elf md5=3da46409447af220e123ff999f235d3d sha1=85a699515219f3d72536b5d0d041b0ef0cb5f736
+f4d68918fe8b7ef0a5b0e53a7c62216e67ccca27e2000a8ba6dcd03140b0c2b9	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+f1fb4db77fcc50d839523d8df7a0d04a5110320cce1718cf3728ea1be7b2a6f8	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+ed2c6bc3e77a404b8cf61176844ad19c1fdcae19881206631e3f0831a4bd919a	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+ecb5d5968d77e77b397ef18a077612d8f732a3f9cb78c7d8066c94bd9e580281	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+e85d448b73b1bfae42d7b16d34892d47ce8a055cfe405082b5fa7f36bf5cfd5c	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+e29425023df9d35fc69425ea750d15cf1211409452df20f9f72829cdc75fe3f0	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+d2d6a47a8ae96fcae7ea96683a9b700c2f28793495c0b1e3050c5af8c7c7486b	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+c337899c72e2de6f7049aaf53826f4d34f159adddbc9fbb07e524a70e91104ea	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+a5eb53004c797fbc0117056221b18a7bdf04335029a72c7c8d03d2234baf44ae	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+9bd52ec7e7750500de33df995fcc7e68ed1da70d125579cf76ae8f787577ef75	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+95e04537263f52975b63f004f4d576380b23d47309e43e95b16fceb80d4ef836	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+8e6d7eb780d6e05a7728061d06bab9dabc280c4906b3f07a577d737924bbada6	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+7f36fe6224fb7e6f6fdbfafa5eac99f5dedfc82fb5363bd046a4be9557b96f60	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+6feeb95115d7d8a51403996fee1ad219a52151662d3a01a2d17cfb77dbd51f3b	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+55c4913ee154821dd43812e49e28ba9248103644a59a5f4704c6a64cffa83a8d	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+4fcf6394b14e24d830b04209a0ede1dcc911d199740a55d12c8ab8aeabb84073	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+4ecdf80bcace65f8feecd4b1acb97510ed2fa3abbddfcc6d5bd720829db29806	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+4d55f55c35dcca832d6a854edcb28df0517feb65de9757e00c741d3180bfb856	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+4675678c2314159e1efdbf2f26debc2858acad0d00d5ba3d1f6e5a7081c476dc	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+408632e9f0a1e3e224747442017677e3ac11f6370fc90154f70ae6c7f25259e7	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+3a9d8e1f3f7b9f1f8eb5bd03de44abfd5ba2b2b08a263e9362f8c1dcdd8dee53	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+25b3981176cec03b0d842008c2f8b0bfb064dfe53bb43ae01653bfe013cac299	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+2514913f8a6f4671a058304651289b0babe47d81c044212b3140ed1c1b643b09	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+e4de2e6d53caf9e5ba0e776524fffbd6e70e66dc	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+55ed6e067aec020f7c0a0b207204ac546419b227	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+55525d13dbd0d7909fa312f9ba33906c	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+05d185d05df9c01d69048e4fafe062e2	OTX	2026-11-26	family=Gh0stRAT | pulse='Silver Fox SEO Poisoning: How Fake Downloads Spread Gh0stRAT' pulse_id=6b08442ee1d2276a3df5eca3
+edd98ca9eefab4ebc1d5c474aabb5f776f40214923857ae94777827fdef0a80e	OTX	2026-11-26	family=dll-sideloading | pulse='Signed by Microsoft and Mozilla: a Brazilian kit that hands your logged-in browser to an operator' pulse_id=6b083c2336ec691637c68ca0
+98e3bbaced5719581f12aaf603eb9c08519b8a988c202cf085b2c6cd4a36276f	OTX	2026-11-26	family=dll-sideloading | pulse='Signed by Microsoft and Mozilla: a Brazilian kit that hands your logged-in browser to an operator' pulse_id=6b083c2336ec691637c68ca0
+8924cdc34450007e1a31a34ac7a11f1f358c2535ca995d11e60344d17eadb2d2	OTX	2026-11-26	family=dll-sideloading | pulse='Signed by Microsoft and Mozilla: a Brazilian kit that hands your logged-in browser to an operator' pulse_id=6b083c2336ec691637c68ca0
+47b8030db237d54041fb2006c67a6c80938dd1d070ff69d1e487c339b8f82022	OTX	2026-11-26	family=dll-sideloading | pulse='Signed by Microsoft and Mozilla: a Brazilian kit that hands your logged-in browser to an operator' pulse_id=6b083c2336ec691637c68ca0
+1d0f1d845e9a942547dc84e222f2ca559a8fe6587a8e56d6669e2a61145aeb70	OTX	2026-11-26	family=dll-sideloading | pulse='Signed by Microsoft and Mozilla: a Brazilian kit that hands your logged-in browser to an operator' pulse_id=6b083c2336ec691637c68ca0
+04f8d9f2b357c5861c5f60e76a10c57559b4d7f6b744fd686b2343aa43663f40	OTX	2026-11-26	family=dll-sideloading | pulse='Signed by Microsoft and Mozilla: a Brazilian kit that hands your logged-in browser to an operator' pulse_id=6b083c2336ec691637c68ca0
+f5b887431406a93c4f9f2be0f83758b4f91087c1	OTX	2026-11-26	family=dll-sideloading | pulse='Signed by Microsoft and Mozilla: a Brazilian kit that hands your logged-in browser to an operator' pulse_id=6b083c2336ec691637c68ca0
+76cf30f7ca6f64b5fce50d84456244e46ccd953c	OTX	2026-11-26	family=dll-sideloading | pulse='Signed by Microsoft and Mozilla: a Brazilian kit that hands your logged-in browser to an operator' pulse_id=6b083c2336ec691637c68ca0
+56f3ba5b1c375fa09d256836dfe5a100b1124b01	OTX	2026-11-26	family=dll-sideloading | pulse='Signed by Microsoft and Mozilla: a Brazilian kit that hands your logged-in browser to an operator' pulse_id=6b083c2336ec691637c68ca0
+f6adceecf08d7dfc01fe942e0f6ef905	OTX	2026-11-26	family=dll-sideloading | pulse='Signed by Microsoft and Mozilla: a Brazilian kit that hands your logged-in browser to an operator' pulse_id=6b083c2336ec691637c68ca0
+b150a81309790abf3fcccbfc0f897dcd	OTX	2026-11-26	family=dll-sideloading | pulse='Signed by Microsoft and Mozilla: a Brazilian kit that hands your logged-in browser to an operator' pulse_id=6b083c2336ec691637c68ca0
+5103569c273ca8127d793986f41027de	OTX	2026-11-26	family=dll-sideloading | pulse='Signed by Microsoft and Mozilla: a Brazilian kit that hands your logged-in browser to an operator' pulse_id=6b083c2336ec691637c68ca0
+a1e3c512e1b8036d3c2fd2cc7bbefad7b2919000be169db110f1e32e8a085201	OTX	2026-11-26	family=SYS010 | pulse='SYS010 Malware Targets Meta Business Accounts' pulse_id=6b0801fd2a3012c014f9e051
+92686bac718b5853bc26abeafe3bd0d5a542060c94a8715e76dc1a62834f6691	OTX	2026-11-26	family=SYS010 | pulse='SYS010 Malware Targets Meta Business Accounts' pulse_id=6b0801fd2a3012c014f9e051
+5f5f2d9a34e03dc59530173a1315c344dc690acee3cd7a65c3ff72da65ca68a9	OTX	2026-11-26	family=SYS010 | pulse='SYS010 Malware Targets Meta Business Accounts' pulse_id=6b0801fd2a3012c014f9e051
+419f95a427116725e8eb691a53afacaf71ca023139b3f78d51edf66d332b5ec9	OTX	2026-11-26	family=SYS010 | pulse='SYS010 Malware Targets Meta Business Accounts' pulse_id=6b0801fd2a3012c014f9e051
+3d155fb874cbef9bf44cff125520a437e791e6faf33efb9f5937097a99f6d31e	OTX	2026-11-26	family=SYS010 | pulse='SYS010 Malware Targets Meta Business Accounts' pulse_id=6b0801fd2a3012c014f9e051
+e1d539437644e653a5b2dbf43bd1be03505b5997979c1f7229724e4ea9236228	OTX	2026-11-26	family=Apollo | pulse='US hospital credentials taken, a US manufacturer's cloud accessed, law firms and federal agencies next' pulse_id=6b0801fe5b5f5591879fc74d
+d4effaf9967404eaf833bdc97a9e2575fc91c686e2f048fd9c7fd07153709232	OTX	2026-11-26	family=Apollo | pulse='US hospital credentials taken, a US manufacturer's cloud accessed, law firms and federal agencies next' pulse_id=6b0801fe5b5f5591879fc74d
+c1d26614cb1469e0651435a8e6301f6e38d4fa0add4fea138fe708e6669a2c33	OTX	2026-11-26	family=Apollo | pulse='US hospital credentials taken, a US manufacturer's cloud accessed, law firms and federal agencies next' pulse_id=6b0801fe5b5f5591879fc74d
+9b325e75e840b7c6d7505f57ec527d680b786cc948fa0eff3850412706f4db89	OTX	2026-11-26	family=Apollo | pulse='US hospital credentials taken, a US manufacturer's cloud accessed, law firms and federal agencies next' pulse_id=6b0801fe5b5f5591879fc74d
+5ec1fe899277b0f489fcc20783abb3385e7f15b23bcaf44832ad57379ee13371	OTX	2026-11-26	family=Apollo | pulse='US hospital credentials taken, a US manufacturer's cloud accessed, law firms and federal agencies next' pulse_id=6b0801fe5b5f5591879fc74d
+41f34eed79c86341006666612500ae60e95da761ee04332d3601e3a181083cdf	OTX	2026-11-26	family=Apollo | pulse='US hospital credentials taken, a US manufacturer's cloud accessed, law firms and federal agencies next' pulse_id=6b0801fe5b5f5591879fc74d
+36c89cddd8e9edb4f7f2a88e86d828a33428247a75e55e4c2252f06a033e44ca	OTX	2026-11-26	family=Apollo | pulse='US hospital credentials taken, a US manufacturer's cloud accessed, law firms and federal agencies next' pulse_id=6b0801fe5b5f5591879fc74d
+1ba2ec04908a4c4696f2f740f04588708c0c3afc7efbebc0aa69f39b78fc535b	OTX	2026-11-26	family=Apollo | pulse='US hospital credentials taken, a US manufacturer's cloud accessed, law firms and federal agencies next' pulse_id=6b0801fe5b5f5591879fc74d
+c3a7654e3adc8ea6507f43fa99920f0d36e213a0	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+f817a4763ad5469fc436db68ca0fccf337d39fdc30b77341b3600f7f4123fc87	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+f11f84b200979d6393850b00fac3ec0d8c26dd227611af750be79a0544236bd2	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+e1ca462ee6ca141ed4cdba032dc8b2515bc8f5e0c639d3f6f642b94a7053e194	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+c4e12c7790006bd1585b55e546f3cf68e5c066efc03cf51148d29751a486b1c0	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+b3b75f6802b189de6fdac7d6c786944b95c2f9cf44c74a1f351fd40ac33fd5a2	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+8b90a534c103141c76bb9a35bd23b89393b17660801d1316569ed7b98e2c1900	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+79094cbf6ee454511610cfe62cc75601fc01c0451ed8211aad54c0e2e6c4ab29	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+75a43ad9bb6d28195c0333e5f0fd287a75061816a5c11c7a1c3ef7b3c5b86a9c	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+5f3840bcc3e2fcaabb5b494d45984524c8a5a6d0d028dde835fc21423a80f352	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+4c12847c105b764161a7455820bb2da157f3c6b06472c359cda86578d966bbbf	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+38e8f4c4432cca420a9a52f8b97fd533736665d51fe06030f40e1bbdf3067643	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+2dc20037fe0ec71307740dee1f58734cdab7ff7bcff3259f862b2d2a6eca2a04	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+22dea422c8056e58e315f926da1d131619c2638da9a550b31cb1d24242c689e4	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+1156ed7eedc158a11cb65a2b29f96e4ce3bdeada2a4b6d62acb50082e8f3af73	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+db675f34dfbeecbbd8afb8eb21839c6e00bee99f	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+d40b80107418c77f5ddbfc9c4117e28947e1aa44	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+ba9ebb26d7f3cf2bb7b2b8660ed2d07080a33b17	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+9a3b9aedff75e2732ea993872be05cbb3bf37a91	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+9661b81c0f8c0e9d8b7b2736b37f46e23269dc99	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+8da99fcc5beb12f844ad4eb4b94c826dcd2ba8a2	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+5629efad47a30cbea37b35f86ac025c936340e40	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+55ab26350b5eef5e8bccecb72111f5d2493ed8ba	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+334499d2d5bd62eaf71ea32a6a5e77c705343488	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+0a7852005f5a37f7c7927b07c3ca133a842117a0	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+e20c7528b5762cb197a35f25f08bc517	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+d22cd6524ca51577e6abfe39140c34c6	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+cc241a6317f3087d36f8d789d8cec172	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+a495a4f3791b0b131d298b2cde7eff65	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+a491ceae51eb4fc89da5de9cd986c941	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+9169ccb535e7ab991322042ea22a5a22	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+75cefdf5d33380e5ea4e1c35c398ddd0	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+5a0f084c449d1bdd477beb1c7eca7ce0	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+3a3293812ce10a6113c3471e24c75541	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+2baf26533c43ed6b312ae7b6347b592a	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+12347e1a20fa55cf680fa82dbbc069b8	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6
+0a033799d6545ee290cdaf13fe8eca1c	OTX	2026-11-26	family=ROMULUS | pulse='ROMULUS ClickFix to LegionLoader and Warden Stealer: Breaking Down a Multi-Stage Malware Intrusion' pulse_id=6b0803dab6016a11b89943e6

@@ -1,0 +1,24 @@
+title: DNS Query to Win.Remoteadmin Domains
+id: bb0ca66a-39dd-4cef-8789-e250b3c6a204
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Win.Remoteadmin.
+date: 2026-11-27
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - F8
+    - malware.win.remoteadmin
+    - unconfirmed
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'meeeinvite.info'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium
