@@ -1,0 +1,46 @@
+title: DNS Query to Spica Domains
+id: d6e0401d-9dfa-4d37-96ab-01837bf3a6c3
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects DNS queries for domains associated with Spica.
+date: 2026-11-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - baitswitch
+    - coldcopy
+    - cosmicpulse
+    - evilginx
+    - ghostblade
+    - lostkeys
+    - malware.spica
+    - mayberobot
+    - norobot
+    - phishing campaigns
+    - redflick
+    - seaborgium
+    - simplefix
+    - spica
+logsource:
+    category: dns
+detection:
+    selection:
+        QueryName|contains:
+        - 'viewerdoconline.com'
+        - 'system-healthadv.com'
+        - 'southprovesolutions.com'
+        - 'preentootmist.org'
+        - 'oxwoocat.org'
+        - 'onstorageline.com'
+        - 'ned-granting-opportunities.com'
+        - 'inspectguarantee.org'
+        - 'documentsec.online'
+        - 'documentsec.com'
+        - 'captchanom.top'
+        - 'applicationformsubmit.me'
+    condition: selection
+falsepositives:
+    - Legitimate services using similar domain patterns
+level: medium

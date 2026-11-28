@@ -1,0 +1,48 @@
+title: Network Connection to Spica Infrastructure
+id: 9a42ce37-ddbc-4be4-8d05-bb617ecb881f
+status: experimental
+description: |
+    Auto-generated stub — analyst must validate and tune before deployment.
+    Detects network connections to indicators associated with Spica.
+date: 2026-11-28
+author: ti-pipeline (auto-generated)
+references:
+    - https://abuse.ch
+tags:
+    - baitswitch
+    - coldcopy
+    - cosmicpulse
+    - evilginx
+    - ghostblade
+    - lostkeys
+    - malware.spica
+    - mayberobot
+    - norobot
+    - phishing campaigns
+    - redflick
+    - seaborgium
+    - simplefix
+    - spica
+logsource:
+    category: network_connection
+    product: windows
+detection:
+    selection:
+        DestinationHostname|contains:
+        - 'viewerdoconline.com'
+        - 'system-healthadv.com'
+        - 'southprovesolutions.com'
+        - 'preentootmist.org'
+        - 'oxwoocat.org'
+        - 'onstorageline.com'
+        - 'ned-granting-opportunities.com'
+        - 'inspectguarantee.org'
+        - 'documentsec.online'
+        - 'documentsec.com'
+        - 'captchanom.top'
+        - 'applicationformsubmit.me'
+        Initiated: 'true'
+    condition: selection
+falsepositives:
+    - Legitimate traffic to similar-looking domains (review carefully)
+level: medium
